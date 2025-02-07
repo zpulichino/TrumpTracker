@@ -1,5 +1,215 @@
 [
   {
+    "title": "Relocation of Gazans would be temporary, says US secretary of state",
+    "description": "The White House has sought to clarify Donald Trump's proposal to \"take over\" Gaza.",
+    "link": "https://www.bbc.com/news/articles/c4g9xgj2429o",
+    "timestamp": "2025-02-06T08:18:05Z"
+  },
+  {
+    "title": "Israel Orders IDF Plan for Palestinians to Leave Gaza After Trump Proposal",
+    "description": "Defense Minister Israel Katz said he welcomed Trump's \"bold plan, which could allow a large population in Gaza to leave for various places in the world.\"",
+    "link": "https://www.newsweek.com/israel-orders-idf-plan-palestinians-leave-gaza-after-trump-proposal-2027044",
+    "timestamp": "2025-02-06T08:16:22Z"
+  },
+  {
+    "title": "US law enforcement to receive terror response training from ZAKA in first-of-its-kind agreement",
+    "description": "The training will focus on forensic preservation at crime scenes, ensuring that bodies are handled with dignity while maintaining critical evidence integrity.",
+    "link": "https://www.jpost.com/israel-news/article-840926",
+    "timestamp": "2025-02-06T08:15:17Z"
+  },
+  {
+    "title": "Abe coddled Trump. Ishiba must stand up to the bully",
+    "description": "William Pesek is an award-winning Tokyo-based journalist and author of \"Japanization: What the World Can Learn from Japan's Lost Decades.\"\nWhen Shigeru Ishiba meets Donald Trump in Washington on Friday, the Japanese prime minister's real sparring partner will\u2026",
+    "link": "https://biztoc.com/x/233b2753191b090d",
+    "timestamp": "2025-02-06T08:11:42Z"
+  },
+  {
+    "title": "Scores killed in Somalia in clash between security forces, Islamic State",
+    "description": "Nearly 70 people were killed and up to 50 others wounded during 24 hours of fighting between Islamic State fighters and security forces from Somalia's Puntland region, officials said Wednesday.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-voa03.htm",
+    "timestamp": "2025-02-06T08:09:25Z"
+  },
+  {
+    "title": "Rubio to the rescue: US secy. tries to sugarcoat Trump's Gaza 'ownership' remarks",
+    "description": "The United States secretary of state has tried to alleviate the far-and-wide negative repercussions of President Donald Trump's recent announcement of a so-called plan for \"ownership\" of the Gaza Strip.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv01.htm",
+    "timestamp": "2025-02-06T08:08:36Z"
+  },
+  {
+    "title": "Arab League, OIC condemn Trump's Gaza 'takeover' scheme",
+    "description": "The Arab League and Organization of Islamic Cooperation (OIC) have condemned in the strongest terms US President Donald Trump's remarks on the \"takeover\" of the Gaza Strip.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv02.htm",
+    "timestamp": "2025-02-06T08:08:34Z"
+  },
+  {
+    "title": "World must respect Palestinians' desire to stay in Gaza: UN envoy",
+    "description": "The Palestinian Ambassador to the United Nations Riyad Mansour says world leaders should respect the Palestinians' desire to remain in Gaza.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv04.htm",
+    "timestamp": "2025-02-06T08:08:23Z"
+  },
+  {
+    "title": "Trump's 'Gaza takeover' plan rejected by US allies; sparks global outrage",
+    "description": "US President Donald Trump's controversial suggestion to take over Gaza after relocating its entire population has been swiftly rejected by Washington's allies and adversaries alike; and sparked global condemnation.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv06.htm",
+    "timestamp": "2025-02-06T08:08:20Z"
+  },
+  {
+    "title": "'Fuel to fire': Hamas strongly condemns Trump 'dangerous' remarks on Gaza takeover",
+    "description": "The Gaza Strip-based Palestinian resistance movement Hamas has strongly condemned as incendiary US President Donald Trump's remarks concerning Washington's plan to \"own\" Gaza.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv08.htm",
+    "timestamp": "2025-02-06T08:08:09Z"
+  },
+  {
+    "title": "Greenland bans foreign political donations amid Trump threat to take over resource-rich island",
+    "description": "Greenland's parliament has banned political parties from receiving contributions \"from foreign or anonymous contributors\", ahead of its upcoming parliamentary elections and in response to US President Donald Trump's interest in acquiring the island.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv09.htm",
+    "timestamp": "2025-02-06T08:08:07Z"
+  },
+  {
+    "title": "Saudi Arabia reiterates support for creation of Palestinian state, rejects Trump's claim",
+    "description": "Saudi Arabia has reiterated its unwavering support for Palestinians, underscoring its \"non-negotiable\" stance that Riyadh will not normalize relations with the Israeli regime without the establishment of an independent Palestinian state.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-presstv10.htm",
+    "timestamp": "2025-02-06T08:07:58Z"
+  },
+  {
+    "title": "Trump Withdraws U.S. From UN Human Rights Council, Aid Agency For Palestinians",
+    "description": "U.S. President Donald Trump announced the U.S. withdrawal from the United Nations Human Rights Council (UNHRC) and said Washington will not renew funding for the UN agency helping Palestinian refugees.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-rferl04.htm",
+    "timestamp": "2025-02-06T08:07:25Z"
+  },
+  {
+    "title": "Guterres calls for full Gaza ceasefire, rejecting 'ethnic cleansing'",
+    "description": "UN Secretary-General Ant\u00f3nio Guterres urged the international community to continue pushing for a full ceasefire and the release of all hostages in Gaza, and \"to avoid any form of ethnic cleansing\" in the enclave, in a speech in New York on Wednesday.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-unnews01.htm",
+    "timestamp": "2025-02-06T08:06:12Z"
+  },
+  {
+    "title": "Volvo Cars weighs tariffs-led production move, warns of 'hyper-competitiveness' in China",
+    "description": "\"We're preparing ourselves to see whether we need to start looking at production relocation or or even supplier relocation,\" Volvo Cars CEO Jim Rowan told CNBC.",
+    "link": "https://www.cnbc.com/2025/02/06/volvo-cars-hikes-2024-profit-as-it-considers-relocation-due-to-tariffs.html",
+    "timestamp": "2025-02-06T08:06:05Z"
+  },
+  {
+    "title": "Why Trump's Gaza Takeover Proposal Has Drawn Strong Reactions Worldwide",
+    "description": "U.S. President Donald Trump's proposal to displace Palestinians from Gaza and have the United States take control of the territory has drawn strong reaction worldwide, potentially upending Washington's longstanding Israeli-Palestinian policy.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-rferl05.htm",
+    "timestamp": "2025-02-06T08:05:20Z"
+  },
+  {
+    "title": "Middle East countries, factions condemn U.S. proposal to relocate Palestinians from Gaza",
+    "description": "Middle East governments and regional leaders on Wednesday roundly rejected U.S. President Donald Trump's suggestion that Washington could assume control of Gaza and relocate Palestinians, calling the proposal a breach of international law and a threat to long\u2026",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250206-pdo01.htm",
+    "timestamp": "2025-02-06T08:03:39Z"
+  },
+  {
+    "title": "Countries' leaders denounce Trump proposal for US ownership of Gaza",
+    "description": "U.S. allies and adversaries alike on Wednesday denounced President Donald Trump's proposal for the United States to take ownership of the Gaza Strip, force 2 million Palestinians to move to other countries and then turn the territory along the Mediterranean S\u2026",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-voa01.htm",
+    "timestamp": "2025-02-06T08:03:39Z"
+  },
+  {
+    "title": "Trump's remarks on Gaza draw wide criticism in Europe",
+    "description": "U.S. President Donald Trump's remarks on Tuesday regarding the Gaza Strip have drawn wide criticism in Europe, with European officials and experts underscoring the importance of the two-state solution.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250206-pdo02.htm",
+    "timestamp": "2025-02-06T08:03:39Z"
+  },
+  {
+    "title": "Trump says he wants U.S. to take over Gaza Strip",
+    "description": "U.S. President Donald Trump said Tuesday that the United States will take ownership of the Gaza Strip and redevelop it after Palestinians are relocated elsewhere.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-pdo04.htm",
+    "timestamp": "2025-02-06T08:03:31Z"
+  },
+  {
+    "title": "World reacts with anger to Trump's shock plan for Gaza",
+    "description": "U.S allies in the Arab world and international figures have condemned President Donald Trump's plans for the United States to \"take over\" the Gaza Strip after Palestinians living in the besieged enclave have been forcibly resettled in neighboring countries.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-irna01.htm",
+    "timestamp": "2025-02-06T08:03:30Z"
+  },
+  {
+    "title": "Trump suggests U.S. take 'long-term ownership' of Gaza, potentially displacing Palestinians permanently",
+    "description": "United States President Donald Trump has proposed that the U.S. take \"ownership\" of the Gaza Strip and turn it into a hub of tourism, in a brazen interference that would permanently displace the Palestinian inhabitants of the war-torn territory.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-irna03.htm",
+    "timestamp": "2025-02-06T08:03:30Z"
+  },
+  {
+    "title": "Hamas calls for urgent meeting of OIC, Arab League over Trump's Gaza plan",
+    "description": "The Palestinian resistance movement Hamas has called on the Organization of Islamic Cooperation (OIC), the Arab League, and the United Nations to convene an urgent meeting following U.S. President Donald Trump's controversial remarks about Gaza.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-irna02.htm",
+    "timestamp": "2025-02-06T08:03:30Z"
+  },
+  {
+    "title": "Amy Klobuchar Hits Back At Booing Republicans With A Pricey Trump Punchline",
+    "description": "The Minnesota senator mocked the president's supporters at the Washington Press Club Foundation Annual Congressional Dinner.",
+    "link": "https://www.huffpost.com/entry/amy-klobuchar-trump-greenland-eggs-washington-press-club_n_67a44981e4b0bea53052d3f3",
+    "timestamp": "2025-02-06T08:02:39Z"
+  },
+  {
+    "title": "Graetz Presents The Power To Destroy: How The Antitax Movement Hijacked America Today At San Diego",
+    "description": "Michael Graetz (Columbia; Google Scholar) presents The Power to Destroy\u2014How The Antitax Movement Hijacked America (2024) at San Diego today as part of its Tax Speaker Series: The postwar United States enjoyed large, widely distributed economic rewards\u2014and mos\u2026",
+    "link": "https://taxprof.typepad.com/taxprof_blog/2025/02/graetz-presents-the-power-to-destroyhow-the-antitax-movement-hijacked-america-today-at-san-diego.html",
+    "timestamp": "2025-02-06T08:01:00Z"
+  },
+  {
+    "title": "China says Gaza is not political bargaining chip, after Trump's takeover proposal",
+    "description": "China's foreign ministry said on Thursday that Beijing opposed the forced transfer of people in Gaza, after US President Donald Trump proposed taking over the region.\"Gaza is the Gaza of Palestinians, not a political bargaining chip, let alone the target of a\u2026",
+    "link": "https://www.jpost.com/breaking-news/article-840923",
+    "timestamp": "2025-02-06T08:00:58Z"
+  },
+  {
+    "title": "\u2018Bring me my tariffs\u2019: how Trump\u2019s China plan was 40 years in the making",
+    "description": "Both Xi Jinping and Donald Trump\u2019s political careers were shaped by their formative experiences in the 1980s \u2013 and, above all, their encounters with Japan\nIn 2011, Donald Trump spoke before an audience of about 1,000 in Las Vegas, teasing a prospective, if fa\u2026",
+    "link": "https://biztoc.com/x/8ff218719237aec7",
+    "timestamp": "2025-02-06T08:00:32Z"
+  },
+  {
+    "title": "US Retreat Sparks New Push to Save $45 Billion Climate Deals",
+    "description": "Talks are aiming to sustain momentum in Just Energy Transition Partnership programs to help developing economies quit fossil fuels.",
+    "link": "https://financialpost.com/pmn/business-pmn/us-retreat-sparks-new-push-to-save-45-billion-climate-deals",
+    "timestamp": "2025-02-06T08:00:00Z"
+  },
+  {
+    "title": "Poll Finds Abolishing the Education Department \u2018Wildly Unpopular\u2019",
+    "description": "The majority of likely voters oppose abolishing the U.S. Department of Education by executive order, according to a new poll conducted by the progressive think tank Data for Progress, on behalf of the Student Borrower Protection Center and Groundwork Collabor\u2026",
+    "link": "https://www.insidehighered.com/news/quick-takes/2025/02/06/poll-abolishing-department-education-unpopular",
+    "timestamp": "2025-02-06T08:00:00Z"
+  },
+  {
+    "title": "College Presidents\u2019 Survey Finds Alarm Over Trump",
+    "description": "College Presidents\u2019 Survey Finds Alarm Over Trump\n\n \n\n\n \nJosh Moody\n\nThu, 02/06/2025 - 03:00 AM\n\nThe majority of college presidents surveyed by Inside Higher Ed believe the Trump administration will have a negative impact on the sector. Many are still optimis\u2026",
+    "link": "https://www.insidehighered.com/news/governance/executive-leadership/2025/02/06/college-presidents-survey-finds-alarm-over-trump",
+    "timestamp": "2025-02-06T08:00:00Z"
+  },
+  {
+    "title": "Israel minister suggests Gaza residents move to 'Spain, Ireland or Norway', orders army to prepare for \u2018voluntary departures\u2019",
+    "description": "Israeli Defence Minister Israel Katz ordered the army on Thursday to prepare a plan to allow the \"voluntary departure\" of residents from the Gaza strip, Israeli media reported.",
+    "link": "https://www.independent.ie/world-news/middle-east/israel-minister-suggests-gaza-residents-move-to-spain-ireland-or-norway-orders-army-to-prepare-for-voluntary-departures/a309975409.html",
+    "timestamp": "2025-02-06T08:00:00Z"
+  },
+  {
+    "title": "As the DEI Crackdown Escalates, Faculty Choose Between Silence and Resistance",
+    "description": "As the DEI Crackdown Escalates, Faculty Choose Between Silence and Resistance\n\n \n\n\n \nRyan Quinn\n\nThu, 02/06/2025 - 03:00 AM\n\nWhile one professor says faculty are \u201cpre-emptively censoring themselves\u201d in response, others are defiant\u2014while another is asking hims\u2026",
+    "link": "https://www.insidehighered.com/news/faculty-issues/diversity-equity/2025/02/06/trump-attacks-dei-faculty-pick-between-silence",
+    "timestamp": "2025-02-06T08:00:00Z"
+  },
+  {
+    "title": "Teodoro confident PH-US defense ties to remain unchanged",
+    "description": "Department of National Defense (DND) Secretary Gilberto Teodoro Jr. remains optimistic that defense ties between the Philippines and the United States will remain unchanged in the second administration of President Donald J. Trump.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-pna05.htm",
+    "timestamp": "2025-02-06T07:59:41Z"
+  },
+  {
+    "title": "DFA bullish on continued PH-US dev't cooperation",
+    "description": "The Department of Foreign Affairs (DFA) on Wednesday expressed optimism about the continued development cooperation between the Philippines and the United States (US).",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250205-pna04.htm",
+    "timestamp": "2025-02-06T07:59:36Z"
+  },
+  {
+    "title": "The 8 at 8: Thursday",
+    "description": "Netanyahu praises Trump\u2019s Gaza plan, Ireland\u2019s emergency response and the hottest January on record\u2026",
+    "link": "https://www.thejournal.ie/8-at-8-256-6614889-Feb2025/",
+    "timestamp": "2025-02-06T07:58:07Z"
+  },
+  {
     "title": "UN sounds alarm over Pakistan's new Afghan deportation plans",
     "description": "The United Nations agencies focused on refugees and migration jointly voiced their concerns Wednesday over Pakistan's plans to begin a new round of mass deportations of Afghan refugees and asylum-seekers.",
     "link": "https://www.globalsecurity.org/wmd/library/news/pakistan/2025/pakistan-250205-voa01.htm",
@@ -364,197 +574,5 @@
     "description": "KUALA LUMPUR, Feb. 6 (Xinhua) -- Malaysia strongly opposes any proposal that could lead to the force",
     "link": "http://en.people.cn/n3/2025/0206/c90000-20273185.html",
     "timestamp": "2025-02-06T06:40:46Z"
-  },
-  {
-    "title": "SpaceX's rise under Trump 2.0 is welcome, Asia's No.1 satellite company says",
-    "description": "TOKYO : For Asia's biggest satellite company, SKY Perfect JSAT, the rise of Elon Musk's rocket and satellite internet giant SpaceX under the second Donald Trump U.S. presidency is not a headwind, its president said on Thursday.The Japanese firm will most like\u2026",
-    "link": "https://www.channelnewsasia.com/business/spacexs-rise-under-trump-20-welcome-asias-no1-satellite-company-says-4921056",
-    "timestamp": "2025-02-06T06:40:42Z"
-  },
-  {
-    "title": "Trump team considers demanding WHO reforms, including American-in-charge",
-    "description": "The Trump administration considers reforming the WHO, including appointing an American director-general, as part of conditions to remain in the organization. The plan, shared with Trump's advisors, aims for significant changes before the anticipated U.S. exit\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-team-considers-demanding-who-reforms-including-american-in-charge/articleshow/117972678.cms",
-    "timestamp": "2025-02-06T06:37:17Z"
-  },
-  {
-    "title": "Could Trump\u2019s tariffs upend the world\u2019s economic order?",
-    "description": "US president's tariffs against Mexico and Canada are on hold for now, but the trade dispute with China rumbles on.",
-    "link": "https://www.aljazeera.com/program/counting-the-cost/2025/2/6/could-trumps-tariffs-upend-the-worlds-economic-order",
-    "timestamp": "2025-02-06T06:37:12Z"
-  },
-  {
-    "title": "China retaliates against Trump with investigation into top US tech player",
-    "description": "China has launched an antitrust probe into one of the biggest tech companies in the US in retaliation against Trump's recent import tariffs. Continue reading at TweakTown >",
-    "link": "https://www.tweaktown.com/news/103040/china-retaliates-against-trump-with-investigation-into-top-us-tech-player/index.html",
-    "timestamp": "2025-02-06T06:35:02Z"
-  },
-  {
-    "title": "Handcuffed, Chained, Thrown Like Boxes: Indian Migrants' American Nightmare",
-    "description": "The migrants, hailing from various Indian states, were rounded up in a sweeping crackdown on illegal immigration. Among them, 33 were from Haryana and Gujarat, 30 from Punjab, three from Maharashtra and Uttar Pradesh, and two from Chandigarh.",
-    "link": "https://www.ndtv.com/india-news/indian-migrants-deported-handcuffed-chained-thrown-like-boxes-indian-migrants-american-nightmare-7646326",
-    "timestamp": "2025-02-06T06:33:35Z"
-  },
-  {
-    "title": "Arab Americans for Trump Changes Its Name",
-    "description": "A group that played a key role in Donald Trump's voter outreach to the Arab American community alongside his allies is rebranding itself after the president said that the US would \"take over\" the Gaza Strip. Bishara Bahbah, chairman of the group formerly know\u2026",
-    "link": "https://www.newser.com/story/363803/arab-americans-for-trump-changes-its-name.html",
-    "timestamp": "2025-02-06T06:30:53Z"
-  },
-  {
-    "title": "\"What's Wrong With It\": Israel's Netanyahu On Trump's 'Gaza Takeover' Plan",
-    "description": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday there was nothing wrong with Donald Trump&#039;s idea of displacing Palestinians from Gaza.",
-    "link": "https://www.ndtv.com/world-news/whats-wrong-with-it-israels-benjamin-netanyahu-on-donald-trumps-gaza-takeover-plan-7646288",
-    "timestamp": "2025-02-06T06:28:31Z"
-  },
-  {
-    "title": "Lia Thomas' former teammates sue UPenn, Harvard and NCAA in lawsuit to scrub her records",
-    "description": "Three former members of the University of Pennsylvania swimming team have taken action to expunge the women's swimming records set by transgender former collegiate swimmer Lia Thomas. Grace Estabrook, Ellen Holmquist and Margot Kaczorowski, sued the universit\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4295393/posts",
-    "timestamp": "2025-02-06T06:26:22Z"
-  },
-  {
-    "title": "Benjamin Netanyahu's gift for Donald Trump might bring back grim memories for thousands in West Asia",
-    "description": "In early February, Israel's Prime Minister Netanyahu visited the U.S., becoming the first world leader to meet Trump post-inauguration. Netanyahu gifted Trump pagers, commemorating Israel's September 2024 attacks on Lebanon that targeted Hezbollah militants a\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/benjamin-netanyahus-gift-for-donald-trump-might-bring-back-grim-memories-for-thousands-in-west-asia/articleshow/117971524.cms",
-    "timestamp": "2025-02-06T06:25:38Z"
-  },
-  {
-    "title": "Google halts workplace diversity push",
-    "description": "Google parent company Alphabet has stopped making diversity and inclusion a workplace priority, according to a filing on Wednesday with US regulators.",
-    "link": "https://www.enca.com/business/google-halts-workplace-diversity-push",
-    "timestamp": "2025-02-06T06:24:15Z"
-  },
-  {
-    "title": "Texas Republican Calls for Ilhan Omar To Be Deported - NewsBreak",
-    "description": "\"America would be a better place if @IlhanMN were deported back to Somalia,\" Brandon Gill wrote on Tuesday on X, formerly known as Twitter.",
-    "link": "https://www.newsbreak.com/share/3791931857464-texas-republican-calls-for-ilhan-omar-to-be-deported?_f=app_share&amp;pd=0J2pz3NJ&amp;lang=en_US&amp;send_time=1738822814&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.4.0.27%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_blend_exp_25q1-v9%2Cns_foryou_model_exp_25q1-v6%2Cns_foryou_rank_exp_25q1-v7%2Cns_push_exp_rt_bucketv12-v9%2Cns_foryou_recall_exp_25q1-v9&amp;s=i2",
-    "timestamp": "2025-02-06T06:22:03Z"
-  },
-  {
-    "title": "S Jaishankar Meets PM Amid Deportation Of Indians Who Entered US Illegally",
-    "description": "External Affairs Minister S Jaishankar met Prime Minister Narendra Modi, amid an uproar over the &quot;inhuman&quot; deportation of 104 Indians who entered US illegally.",
-    "link": "https://www.ndtv.com/india-news/s-jaishankar-meets-pm-modi-amid-deportation-of-104-indians-who-entered-us-illegally-7646221",
-    "timestamp": "2025-02-06T06:20:02Z"
-  },
-  {
-    "title": "Exclusive-Trump team considers demanding WHO reforms, including American in charge",
-    "description": "(Reuters) - The Trump administration has been considering a plan for reform at the World Health Organization, including putting an American in charge, in order for it to remain\u00a0a member of the global health agency, according to two sources familiar with the p\u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/02/06/exclusive-trump-team-considers-demanding-who-reforms-including-american-in-charge",
-    "timestamp": "2025-02-06T06:20:00Z"
-  },
-  {
-    "title": "Minister Karhi estimates: Hamas won't complete hostage deal",
-    "description": "Communications Minister Shlomo Karhi says Attorney General may be fired soon, Hamas unlikely to return the last of the hostages.",
-    "link": "https://www.israelnationalnews.com/news/403490",
-    "timestamp": "2025-02-06T06:19:18Z"
-  },
-  {
-    "title": "Mexico deploys the first National Guard troops to U.S. border after tariff threat",
-    "description": "Trump said he would delay imposing tariffs on Mexico for at least a month. In exchange, Mexican President Claudia Sheinbaum promised to send the country's National Guard to reinforce the border.",
-    "link": "https://www.npr.org/2025/02/06/nx-s1-5288667/mexico-us-border-tariff-national-guard",
-    "timestamp": "2025-02-06T06:15:50Z"
-  },
-  {
-    "title": "Katz instructs IDF to prepare plan for Gazans wishing to leave Gaza voluntarily",
-    "description": "\"The plan will include exit options through land crossings as well as special arrangements for departure by sea and air,\" Katz said.",
-    "link": "https://www.jpost.com/breaking-news/article-840907",
-    "timestamp": "2025-02-06T06:15:41Z"
-  },
-  {
-    "title": "U.S. White House Executive Order Raises Concerns for Its Support to the UN",
-    "description": "A new executive order from the United States White House calls for withdrawing support from major UN entities and a review of all international intergovernmental organizations which the United States is a member of. The U.S.\u2019s orders against the UN Palestine \u2026",
-    "link": "https://www.ipsnews.net/2025/02/u-s-white-house-executive-order-raises-concerns-for-its-support-to-the-un/",
-    "timestamp": "2025-02-06T06:15:12Z"
-  },
-  {
-    "title": "Opposition creates uproar in Parliament over US' alleged mistreatment of Indian deportees; questions Modi govt",
-    "description": "Indian opposition lawmakers have demanded an explanation from Prime Minister Modi's government regarding the alleged mistreatment of 104 Indian deportees by the U.S. The deportees, who arrived in Amritsar on a military flight, reportedly experienced demeaning\u2026",
-    "link": "https://economictimes.indiatimes.com/news/politics-and-nation/opposition-creates-uproar-in-parliament-over-us-alleged-mistreatment-of-indian-deportees-questions-modi-govt/articleshow/117971927.cms",
-    "timestamp": "2025-02-06T06:15:07Z"
-  },
-  {
-    "title": "Ukraine's allies warn Europe against returning to Russian gas as part of a peace deal",
-    "description": "Ukraine's allies have warned against the European Union reopening Russian gas pipelines as part of a prospective peace settlement.",
-    "link": "https://www.cnbc.com/2025/02/06/ukraine-allies-warn-europe-against-returning-to-russian-gas.html",
-    "timestamp": "2025-02-06T06:11:11Z"
-  },
-  {
-    "title": "Malaysia says forced resettlement of Palestinians would be ethnic cleansing",
-    "description": "Foreign Ministry says it 'strongly opposes' displacement of residents from Gaza after Trump floats redevelopment plan.",
-    "link": "https://www.aljazeera.com/news/2025/2/6/malaysia-says-forced-displacement-of-palestinians-would-be-ethnic-cleansing",
-    "timestamp": "2025-02-06T06:10:51Z"
-  },
-  {
-    "title": "Panama criticizes State Department\u2019s claim US government vessels can freely transit canal as an \u2018intolerable\u2019 falsehood | CNN",
-    "description": "Panama\u2019s President Ra\u00fal Mulino criticized as an \u201cintolerable\u201d falsehood the US State Department\u2019s claim that the Central American nation had agreed to no longer charge fees for US government ships passing through the Panama Canal.",
-    "link": "https://www.cnn.com/2025/02/06/americas/panama-canal-state-department-hnk-intl/index.html",
-    "timestamp": "2025-02-06T06:09:04Z"
-  },
-  {
-    "title": "'End of war on women's sports'",
-    "description": "Trump signs order banning participation of transgender athletes",
-    "link": "https://www.rediff.com/sports/report/end-of-war-on-womens-sports/20250206.htm",
-    "timestamp": "2025-02-06T06:07:14Z"
-  },
-  {
-    "title": "TTK Healthcare faces 90-day halt on condom exports amid US policy changes",
-    "description": "TTK Healthcare is assessing the financial implications of this disruption and is awaiting further clarification from USAID.",
-    "link": "https://www.thehindubusinessline.com/companies/ttk-healthcare-faces-90-day-halt-on-condom-exports-amid-us-policy-changes/article69186836.ece",
-    "timestamp": "2025-02-06T06:06:30Z"
-  },
-  {
-    "title": "What to know about the court cases over President Trump's birthright citizenship order",
-    "description": "A federal judge who already questioned the constitutionality of President Donald Trump\u2019s birthright citizenship executive order is set to hear arguments over a longer-term pause of the directive",
-    "link": "https://abcnews.go.com/Politics/wireStory/court-cases-president-trumps-birthright-citizenship-order-118517125",
-    "timestamp": "2025-02-06T06:06:27Z"
-  },
-  {
-    "title": "For Palestinians, Trump\u2019s Gaza Riviera plan is a fate worse than bombs",
-    "description": "US president's crazy, inhumane \u2018Gaza Riviera\u2019 plan must be stopped",
-    "link": "https://www.irishtimes.com/opinion/2025/02/06/trumps-plan-to-turn-gaza-into-a-holiday-mecca-would-mean-ethnically-cleansing-palestinians/",
-    "timestamp": "2025-02-06T06:00:53Z"
-  },
-  {
-    "title": "Has Trump just brought the paramilitary gravy train to a screeching halt?",
-    "description": "Trump has transformed expectations of what can be done, even if his administration ultimately fails to deliver it",
-    "link": "https://www.irishtimes.com/opinion/2025/02/06/has-trump-just-brought-the-paramilitary-gravy-train-to-a-screeching-halt/",
-    "timestamp": "2025-02-06T06:00:07Z"
-  },
-  {
-    "title": "Trump promises military aid for Ukraine, as long as Ukraine shares rare Earth minerals",
-    "description": "President Trump aims to secure access to Ukraine\u2019s rare earth minerals in return for continued U.S. military aid. The proposal comes amid ongoing conflict between Russia and Ukraine, with the U.S. being Ukraine\u2019s largest supporter. European countries are urge\u2026",
-    "link": "https://www.naturalnews.com/2025-02-06-trump-military-aid-ukraine-rare-earth-minerals.html",
-    "timestamp": "2025-02-06T06:00:00Z"
-  },
-  {
-    "title": "\u201cAll options on the table\u201d: Defense Secretary Hegseth signals potential military strikes against Mexican cartels",
-    "description": "Defense Secretary Pete Hegseth declared military strikes against Mexican drug cartels a viable option under the Trump administration\u2019s border security agenda. The Trump administration has designated Mexican cartels as foreign terrorist organizations, expandin\u2026",
-    "link": "https://www.naturalnews.com/2025-02-06-hegseth-signals-potential-military-strikes-mexican-cartels.html",
-    "timestamp": "2025-02-06T06:00:00Z"
-  },
-  {
-    "title": "USAID shutdown will halt the Democrat\u00e2\u0080\u0099s extensive money laundering apparatus and combat inflation",
-    "description": "The U.S. Agency for International Development (USAID) has come under fire as a \u201ccriminal organization\u201d and a hub of corruption. Elon Musk\u2019s Department of Government Efficiency (DOGE) delivered a decisive blow to the corrupt agency, exposing its alleged role i\u2026",
-    "link": "https://www.naturalnews.com/2025-02-06-usaid-shutdown-will-halt-the-democrats-money-laundering-apparatus.html",
-    "timestamp": "2025-02-06T06:00:00Z"
-  },
-  {
-    "title": "Experts Joe Bannister and Peymon Join Mike Adams to reveal the \u201cScam\u201d behind the Federal Income Tax System",
-    "description": "Joe Bannister and Peymon, with Mike Adams, critique the federal income tax system, tracing its origins to 1913, where it and the Federal Reserve were established, linking it to government control and wealth redistribution. Peymon argues that the federal incom\u2026",
-    "link": "https://www.naturalnews.com/2025-02-06-experts-reveal-the-scam-behind-the-federal-income-tax-system.html",
-    "timestamp": "2025-02-06T06:00:00Z"
-  },
-  {
-    "title": "DOJ\u2019s demand for Jan. 6 investigators\u2019 names sparks controversy and legal challenges",
-    "description": "The DOJ requested the names of thousands of FBI employees involved in the January 6, 2021, Capitol breach investigation, raising concerns and resistance within the federal law enforcement community. Acting Deputy Attorney General Emil Bove\u2019s letter to Acting \u2026",
-    "link": "https://www.naturalnews.com/2025-02-06-dojs-demand-for-j6-investigators-names-sparks-controversy.html",
-    "timestamp": "2025-02-06T06:00:00Z"
-  },
-  {
-    "title": "Elon Musk\u2019s call to AUDIT the IRS sparks debate over government oversight and efficiency",
-    "description": "Elon Musk posted a poll on X asking if his Department of Government Efficiency (DOGE) should audit the Internal Revenue Service (IRS), which received nearly one million responses, with 52 percent voting \u201cYes\u201d and 41 percent voting \u201cF Yes,\u201d reflecting public f\u2026",
-    "link": "https://www.naturalnews.com/2025-02-06-musks-call-to-audit-irs-sparks-debate.html",
-    "timestamp": "2025-02-06T06:00:00Z"
   }
 ]
