@@ -1,5 +1,11 @@
 [
   {
+    "title": "US military troops come in active-duty, Guard, and reserve forces. Here's what each one does.",
+    "description": "US military forces do a lot at home and abroad, but the different types of troops and the rules for each can be confusing.",
+    "link": "https://www.businessinsider.com/difference-between-guard-reserve-and-active-duty-forces-2025-2",
+    "timestamp": "2025-02-09T10:50:02Z"
+  },
+  {
     "title": "'We are the future': European far right makes show of force",
     "description": "Hungarian Prime Minister Viktor Orban and France's Marine Le Pen headlined a rally in Madrid on Feb. 8\u00a0by Europe's biggest far-right bloc, buoyed by Donald Trump's return to power and calling for \"a 180-degree pivot.\"",
     "link": "https://www.hurriyetdailynews.com/we-are-the-future-european-far-right-makes-show-of-force-205613",
@@ -192,15 +198,15 @@
     "timestamp": "2025-02-09T10:00:00Z"
   },
   {
-    "title": "'We're figuring it out': Democrats struggle to keep up with Trump's dizzying pace",
-    "description": "Actions are coming at so dizzying a pace that it can be tough to track what Trump has done and what he's turned around and undone.",
-    "link": "https://www.nbcnews.com/politics/donald-trump/democrats-struggle-trump-dizzying-pace-rcna191009",
-    "timestamp": "2025-02-09T10:00:00Z"
-  },
-  {
     "title": "Trump tariff talk boosts N.S. craft beer business",
     "description": "Nova Scotia craft breweries have seen increased demand for their products since U.S. President Donald Trump threatened to impose tariffs on Canadian goods, but they wonder if the extra support will last.",
     "link": "https://www.cbc.ca/news/canada/nova-scotia/trump-tariff-talk-nova-scotia-craft-beer-1.7453830",
+    "timestamp": "2025-02-09T10:00:00Z"
+  },
+  {
+    "title": "'We're figuring it out': Democrats struggle to keep up with Trump's dizzying pace",
+    "description": "Actions are coming at so dizzying a pace that it can be tough to track what Trump has done and what he's turned around and undone.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/democrats-struggle-trump-dizzying-pace-rcna191009",
     "timestamp": "2025-02-09T10:00:00Z"
   },
   {
@@ -550,11 +556,5 @@
     "description": "The U.S. Department of Justice will refocus much of its staff and resources on the \"total elimination\" of drug cartels and transnational criminal organizations in the United States while disbanding units dedicated to prosecuting white-collar crime and kleptoc\u2026",
     "link": "https://www.globalsecurity.org/security/library/news/2025/02/sec-250208-voa01.htm",
     "timestamp": "2025-02-09T07:56:40Z"
-  },
-  {
-    "title": "Trump administration sends third flight of detainees to Guantanamo",
-    "description": "The top U.S. homeland security official got a firsthand look at the detention center at Guantanamo Bay, visiting the U.S. naval base in Cuba on Friday, posting video of what appears to be a third flight of \"high-threat illegal aliens\" to arrive at the facilit\u2026",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/02/sec-250208-voa02.htm",
-    "timestamp": "2025-02-09T07:56:30Z"
   }
 ]
