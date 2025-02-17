@@ -1,5 +1,41 @@
 [
   {
+    "title": "Hamas frees 3 hostages; Israel releases hundreds of prisoners",
+    "description": "Hamas released three more hostages Saturday in exchange for nearly 400 Palestinian prisoners, who were freed later in the day.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250215-voa01.htm",
+    "timestamp": "2025-02-16T07:49:49Z"
+  },
+  {
+    "title": "Israeli military 'preparing offensive plans' amid efforts to free all captives: Army chief",
+    "description": "The Israeli army's chief of staff says the military is \"preparing offensive plans\" despite continuing efforts to return the remaining captives under the ongoing ceasefire deal in the Gaza Strip.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250215-presstv04.htm",
+    "timestamp": "2025-02-16T07:49:49Z"
+  },
+  {
+    "title": "Hamas releases three Israeli captives for 369 Palestinian prisoners",
+    "description": "Gaza resistance fighters have handed three Israeli captives over to the Red Cross in an exchange for 369 Palestinians to be released later in the latest such swap under an ongoing truce deal.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250215-presstv08.htm",
+    "timestamp": "2025-02-16T07:49:49Z"
+  },
+  {
+    "title": "IAEA Warns About Iran's Accelerated Uranium Production",
+    "description": "The head of the International Atomic Energy Agency (IAEA) has warned that Iran continues to increase its monthly production of enriched uranium to near weapons grade and time is running out to reach an agreement to curb Iran's nuclear program.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250215-rferl02.htm",
+    "timestamp": "2025-02-16T07:48:43Z"
+  },
+  {
+    "title": "Iran will develop defense capacities proportional to threats: Army commander",
+    "description": "A top commander of the Iranian Army has said the Armed Forces are committed to developing defense capabilities in keeping with emerging threats against the country.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250215-presstv01.htm",
+    "timestamp": "2025-02-16T07:48:34Z"
+  },
+  {
+    "title": "Can Israel Destroy Iran's Nuclear Program?",
+    "description": "U.S. intelligence has concluded that the odds of an Israeli attack on Iran's nuclear program in the next few months are high, according to major American media, but the jury is out on whether Israel can destroy its archfoe's nuclear facilities on its own.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250215-rferl01.htm",
+    "timestamp": "2025-02-16T07:48:24Z"
+  },
+  {
     "title": "Trade wars, explained",
     "description": "Free trade is almost always good for any economy \u2013 so why is it so unpopular?",
     "link": "https://theweek.com/business/economy/trade-wars-explained",
@@ -90,15 +126,15 @@
     "timestamp": "2025-02-16T07:36:06Z"
   },
   {
-    "title": "Trump administration trying to un-fire nuclear safety workers",
-    "description": "The US nuclear safety watchdog, which sacked hundreds of workers under orders from Donald Trump's administration, is now trying to contact employees to rehire them.",
-    "link": "https://news.sky.com/story/trump-administration-trying-to-un-fire-nuclear-safety-workers-13310543",
-    "timestamp": "2025-02-16T07:34:00Z"
-  },
-  {
     "title": "Japanese foreign minister asks Rubio for exemption from Trump tariffs",
     "description": "Japanese Foreign Minister Takeshi Iwaya said Saturday he asked his U.S. counterpart Marco Rubio that Japan be exempt from President Donald Trump's plans to impose 25 percent steel and aluminum tariffs and reciprocal tariffs. In a brief exchange on the sidelin\u2026",
     "link": "https://japantoday.com/category/politics/japanese-foreign-minister-asks-rubio-for-exemption-from-trump-tariffs",
+    "timestamp": "2025-02-16T07:34:00Z"
+  },
+  {
+    "title": "Trump administration trying to un-fire nuclear safety workers",
+    "description": "The US nuclear safety watchdog, which sacked hundreds of workers under orders from Donald Trump's administration, is now trying to contact employees to rehire them.",
+    "link": "https://news.sky.com/story/trump-administration-trying-to-un-fire-nuclear-safety-workers-13310543",
     "timestamp": "2025-02-16T07:34:00Z"
   },
   {
@@ -372,6 +408,12 @@
     "timestamp": "2025-02-16T06:03:53Z"
   },
   {
+    "title": "Trump calls for radical military spending cuts, seeks Ukraine peace and G7 expansion",
+    "description": "President Donald Trump has proposed cutting defense budgets by half for the United States, Russia and China, with the aim of redirecting funds to more productive areas and reducing the risk of catastrophic conflict. Trump\u2019s initiative includes a push for rene\u2026",
+    "link": "https://www.naturalnews.com/2025-02-16-trump-spending-cuts-ukraine-peace-g7-expansion.html",
+    "timestamp": "2025-02-16T06:00:00Z"
+  },
+  {
     "title": "Inflation may curb Trump\u2019s tariff plans",
     "description": "Rising consumer prices will limit scope for interest rate cuts and undermine election commitment",
     "link": "https://www.irishtimes.com/business/2025/02/16/inflation-may-curb-trumps-tariff-plans/",
@@ -387,12 +429,6 @@
     "title": "Chernobyl under fire: Drone strike on nuclear shield raises global alarm",
     "description": "A drone strike on the Chernobyl Nuclear Power Plant\u2019s New Safe Containment (NSC) structure has raised global concerns over nuclear safety in war zones. Ukrainian officials blame Russia for the attack, while Russia denies responsibility, with President Zelensk\u2026",
     "link": "https://www.naturalnews.com/2025-02-16-chernobyl-drone-nuclear-shield-strike-global-alarm.html",
-    "timestamp": "2025-02-16T06:00:00Z"
-  },
-  {
-    "title": "Trump calls for radical military spending cuts, seeks Ukraine peace and G7 expansion",
-    "description": "President Donald Trump has proposed cutting defense budgets by half for the United States, Russia and China, with the aim of redirecting funds to more productive areas and reducing the risk of catastrophic conflict. Trump\u2019s initiative includes a push for rene\u2026",
-    "link": "https://www.naturalnews.com/2025-02-16-trump-spending-cuts-ukraine-peace-g7-expansion.html",
     "timestamp": "2025-02-16T06:00:00Z"
   },
   {
@@ -538,41 +574,5 @@
     "description": "The French novelist anticipated Trump\u2019s new, expansionist \u201cGolden Age of America.\u201d \nThe post Donald Trump Is Realizing Jules Verne\u2019s Dreams appeared first on The American Conservative.",
     "link": "https://www.theamericanconservative.com/donald-trump-is-realizing-jules-vernes-dreams/",
     "timestamp": "2025-02-16T05:01:00Z"
-  },
-  {
-    "title": "Saudi Arabia seeks to mediate between Trump and Iran on new nuclear deal | CNN",
-    "description": "Riyadh is concerned that Iran may be more inclined to pursue a nuclear weapon and hopes to leverage its close ties with Trump to provide Iran with a diplomatic bridge to the White House.",
-    "link": "https://www.cnn.com/2025/02/16/middleeast/saudi-arabia-trump-iran-nuclear-deal-intl/index.html",
-    "timestamp": "2025-02-16T05:00:48Z"
-  },
-  {
-    "title": "Trump Media says it lost more than $400 million last year",
-    "description": "The parent company of President Donald Trump\u2019s social networking site Truth Social says it lost $400.9 million last year and its annual revenue declined 12% to $3.6 million.",
-    "link": "https://www.ksat.com/news/politics/2025/02/15/trump-media-says-it-lost-more-than-400-million-last-year/",
-    "timestamp": "2025-02-16T05:00:37Z"
-  },
-  {
-    "title": "Freedom Is on the March",
-    "description": "The plan was simple.\u00a0\u00a0If Western governments controlled the \u201cnarrative\u201d and censored dissent, those with power would retain power forever.\u00a0\u00a0If they spied on citizens and threatened uncooperative parties with imprisonme...",
-    "link": "https://www.americanthinker.com/articles/2025/02/freedom_is_on_the_march.html",
-    "timestamp": "2025-02-16T05:00:00Z"
-  },
-  {
-    "title": "The Eastman Dilemma: John Eastman vs. the Left",
-    "description": "John Eastman should be a household name among conservatives, along with anyone else who\u00a0believes authoritarianism can exist not just in the past or in faraway parts of the world, but in modern \u201cliberal democracies\u201d as well.\r\n\r\nFor th...",
-    "link": "https://www.americanthinker.com/articles/2025/02/em_the_eastman_dilemma_em_john_eastman_vs_the_left.html",
-    "timestamp": "2025-02-16T05:00:00Z"
-  },
-  {
-    "title": "A 1974 federal law forces the President to avoid efficiency and cost savings",
-    "description": "Average Americans can be forgiven for not understanding how Joe Biden was able to \u201cforgive\u201d student debt and stop Trump\u2019s Border Wall construction without pushback from the media, Congress, or the courts, while Trump\u2019s efforts...",
-    "link": "https://www.americanthinker.com/blog/2025/02/a_1974_federal_law_forces_the_president_to_avoid_efficiency_and_cost_savings.html",
-    "timestamp": "2025-02-16T05:00:00Z"
-  },
-  {
-    "title": "Trump Must Finish The Job In Iraq",
-    "description": "For almost two decades, Iraq was at the center of U.S. foreign policy, absorbing huge sums and costing thousands of American lives. Now, just a few years later, it risks fading into geopolitical obscurity\u2014forgotten by the U.S. public and by pol...",
-    "link": "https://www.americanthinker.com/articles/2025/02/trump_must_finish_the_job_in_iraq.html",
-    "timestamp": "2025-02-16T05:00:00Z"
   }
 ]
