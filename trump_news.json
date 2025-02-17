@@ -1,5 +1,47 @@
 [
   {
+    "title": "Trade wars, explained",
+    "description": "Free trade is almost always good for any economy \u2013 so why is it so unpopular?",
+    "link": "https://theweek.com/business/economy/trade-wars-explained",
+    "timestamp": "2025-02-16T07:45:00Z"
+  },
+  {
+    "title": "Rubio to discuss Gaza truce with Israel PM on first leg of Mideast tour",
+    "description": "<p>JERUSALEM - US Secretary of State Marco Rubio will discuss the Gaza ceasefire with Israel's prime minister in Jerusalem on Sunday, launching a Middle East tour a day after the latest hostage-prisoner exchange.</p>",
+    "link": "https://www.bangkokpost.com/world/2962143/rubio-to-discuss-gaza-truce-with-israel-pm-on-first-leg-of-mideast-tour",
+    "timestamp": "2025-02-16T07:45:00Z"
+  },
+  {
+    "title": "President Lula: Brazil to reciprocate US steel tariffs",
+    "description": "Brazil's President Luiz Inacio Lula da Silva has vowed \"reciprocity\" on US President Donald Trump's levy on steel imports.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/brazil/brazil-250215-presstv01.htm",
+    "timestamp": "2025-02-16T07:42:26Z"
+  },
+  {
+    "title": "U.S. Officials In Rare Belarus Visit Seeking Deal On Political Prisoners, Sanctions",
+    "description": "Three senior U.S. officials traveled to Belarus to negotiate the possible release of a large number of political prisoners in return for an easing of sanctions, The New York Times reported, following the release of three detainees earlier in the week.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/belarus/2025/belarus-250216-rferl01.htm",
+    "timestamp": "2025-02-16T07:42:06Z"
+  },
+  {
+    "title": "Trump administration moves quickly with mass deportation plans",
+    "description": "Since taking office, U.S. President Donald Trump has declared illegal immigration a national emergency. The Trump administration has ramped up its mass deportation efforts, expanding the use of expedited removal and using Guantanamo Bay as a detention site fo\u2026",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/02/sec-250215-voa02.htm",
+    "timestamp": "2025-02-16T07:40:09Z"
+  },
+  {
+    "title": "US counterterror official warns of growing global threat",
+    "description": "A senior U.S. counterterrorism official is cautioning that the threat from global jihadists has expanded significantly, although the resources to counter them have declined.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/02/sec-250215-voa01.htm",
+    "timestamp": "2025-02-16T07:39:49Z"
+  },
+  {
+    "title": "Taiwan's U.S. investments must serve 'mutual interests': Official",
+    "description": "The government will work to ensure that Taiwan's investments in the United States, especially in the semiconductor industry, serve the interests of both sides, a Taiwanese national security official said Friday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250215-cna04.htm",
+    "timestamp": "2025-02-16T07:39:19Z"
+  },
+  {
     "title": "Carafano: 'A free, independent Ukraine is in America's best interest'",
     "description": "James Carafano, senior counselor to the president and national security expert at The Heritage Foundation, responsible for its defense and foreign policy team, spoke with VOA's Ukraine Service about the Trump administration's goals and considerations in the n\u2026",
     "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/02/ukraine-250215-voa01.htm",
@@ -48,15 +90,15 @@
     "timestamp": "2025-02-16T07:36:06Z"
   },
   {
-    "title": "Japanese foreign minister asks Rubio for exemption from Trump tariffs",
-    "description": "Japanese Foreign Minister Takeshi Iwaya said Saturday he asked his U.S. counterpart Marco Rubio that Japan be exempt from President Donald Trump's plans to impose 25 percent steel and aluminum tariffs and reciprocal tariffs. In a brief exchange on the sidelin\u2026",
-    "link": "https://japantoday.com/category/politics/japanese-foreign-minister-asks-rubio-for-exemption-from-trump-tariffs",
-    "timestamp": "2025-02-16T07:34:00Z"
-  },
-  {
     "title": "Trump administration trying to un-fire nuclear safety workers",
     "description": "The US nuclear safety watchdog, which sacked hundreds of workers under orders from Donald Trump's administration, is now trying to contact employees to rehire them.",
     "link": "https://news.sky.com/story/trump-administration-trying-to-un-fire-nuclear-safety-workers-13310543",
+    "timestamp": "2025-02-16T07:34:00Z"
+  },
+  {
+    "title": "Japanese foreign minister asks Rubio for exemption from Trump tariffs",
+    "description": "Japanese Foreign Minister Takeshi Iwaya said Saturday he asked his U.S. counterpart Marco Rubio that Japan be exempt from President Donald Trump's plans to impose 25 percent steel and aluminum tariffs and reciprocal tariffs. In a brief exchange on the sidelin\u2026",
+    "link": "https://japantoday.com/category/politics/japanese-foreign-minister-asks-rubio-for-exemption-from-trump-tariffs",
     "timestamp": "2025-02-16T07:34:00Z"
   },
   {
@@ -330,12 +372,6 @@
     "timestamp": "2025-02-16T06:03:53Z"
   },
   {
-    "title": "Trump calls for radical military spending cuts, seeks Ukraine peace and G7 expansion",
-    "description": "President Donald Trump has proposed cutting defense budgets by half for the United States, Russia and China, with the aim of redirecting funds to more productive areas and reducing the risk of catastrophic conflict. Trump\u2019s initiative includes a push for rene\u2026",
-    "link": "https://www.naturalnews.com/2025-02-16-trump-spending-cuts-ukraine-peace-g7-expansion.html",
-    "timestamp": "2025-02-16T06:00:00Z"
-  },
-  {
     "title": "Inflation may curb Trump\u2019s tariff plans",
     "description": "Rising consumer prices will limit scope for interest rate cuts and undermine election commitment",
     "link": "https://www.irishtimes.com/business/2025/02/16/inflation-may-curb-trumps-tariff-plans/",
@@ -351,6 +387,12 @@
     "title": "Chernobyl under fire: Drone strike on nuclear shield raises global alarm",
     "description": "A drone strike on the Chernobyl Nuclear Power Plant\u2019s New Safe Containment (NSC) structure has raised global concerns over nuclear safety in war zones. Ukrainian officials blame Russia for the attack, while Russia denies responsibility, with President Zelensk\u2026",
     "link": "https://www.naturalnews.com/2025-02-16-chernobyl-drone-nuclear-shield-strike-global-alarm.html",
+    "timestamp": "2025-02-16T06:00:00Z"
+  },
+  {
+    "title": "Trump calls for radical military spending cuts, seeks Ukraine peace and G7 expansion",
+    "description": "President Donald Trump has proposed cutting defense budgets by half for the United States, Russia and China, with the aim of redirecting funds to more productive areas and reducing the risk of catastrophic conflict. Trump\u2019s initiative includes a push for rene\u2026",
+    "link": "https://www.naturalnews.com/2025-02-16-trump-spending-cuts-ukraine-peace-g7-expansion.html",
     "timestamp": "2025-02-16T06:00:00Z"
   },
   {
@@ -510,12 +552,6 @@
     "timestamp": "2025-02-16T05:00:37Z"
   },
   {
-    "title": "A 1974 federal law forces the President to avoid efficiency and cost savings",
-    "description": "Average Americans can be forgiven for not understanding how Joe Biden was able to \u201cforgive\u201d student debt and stop Trump\u2019s Border Wall construction without pushback from the media, Congress, or the courts, while Trump\u2019s efforts...",
-    "link": "https://www.americanthinker.com/blog/2025/02/a_1974_federal_law_forces_the_president_to_avoid_efficiency_and_cost_savings.html",
-    "timestamp": "2025-02-16T05:00:00Z"
-  },
-  {
     "title": "Freedom Is on the March",
     "description": "The plan was simple.\u00a0\u00a0If Western governments controlled the \u201cnarrative\u201d and censored dissent, those with power would retain power forever.\u00a0\u00a0If they spied on citizens and threatened uncooperative parties with imprisonme...",
     "link": "https://www.americanthinker.com/articles/2025/02/freedom_is_on_the_march.html",
@@ -528,51 +564,15 @@
     "timestamp": "2025-02-16T05:00:00Z"
   },
   {
+    "title": "A 1974 federal law forces the President to avoid efficiency and cost savings",
+    "description": "Average Americans can be forgiven for not understanding how Joe Biden was able to \u201cforgive\u201d student debt and stop Trump\u2019s Border Wall construction without pushback from the media, Congress, or the courts, while Trump\u2019s efforts...",
+    "link": "https://www.americanthinker.com/blog/2025/02/a_1974_federal_law_forces_the_president_to_avoid_efficiency_and_cost_savings.html",
+    "timestamp": "2025-02-16T05:00:00Z"
+  },
+  {
     "title": "Trump Must Finish The Job In Iraq",
     "description": "For almost two decades, Iraq was at the center of U.S. foreign policy, absorbing huge sums and costing thousands of American lives. Now, just a few years later, it risks fading into geopolitical obscurity\u2014forgotten by the U.S. public and by pol...",
     "link": "https://www.americanthinker.com/articles/2025/02/trump_must_finish_the_job_in_iraq.html",
     "timestamp": "2025-02-16T05:00:00Z"
-  },
-  {
-    "title": "The Irish Sea is to be renamed the British Sea \u2013 and from now on underwear will be worn on the outside",
-    "description": "A few years ago this would have seemed no more absurd than a US president renaming the Gulf of Mexico as the Gulf of America",
-    "link": "https://www.irishtimes.com/culture/2025/02/16/donald-clarke-the-irish-sea-is-to-be-renamed-the-british-sea-and-from-now-on-underwear-will-be-worn-on-the-outside/",
-    "timestamp": "2025-02-16T05:00:00Z"
-  },
-  {
-    "title": "San Diego migrant shelter closes after decrease in residents in Trump term",
-    "description": "A migrant shelter in San Diego is shutting down after receiving no new arrivals following the Trump administration\u2019s termination of the CBP One app on Inauguration Day. The Jewish Family Service of San Diego, which has operated a regional migrant shelter for \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4297964/posts",
-    "timestamp": "2025-02-16T04:58:14Z"
-  },
-  {
-    "title": "Beshear asks Trump for emergency disaster declaration in KY due to flooding",
-    "description": "On Saturday night, Governor Andy Beshear stated on social media that he has written President Donald Trump requesting an emergency disaster declaration.",
-    "link": "https://www.lex18.com/news/covering-kentucky/beshear-asks-trump-for-emergency-disaster-declaration-in-kentucky",
-    "timestamp": "2025-02-16T04:52:59Z"
-  },
-  {
-    "title": "Discordant Trump team statements on Ukraine leave allies anxious - BBC.com",
-    "description": "Discordant Trump team statements on Ukraine leave allies anxiousBBC.com Russia says U.S. relations are on brink of collapse, refuses to confirm Trump call claimNBC News Trump upends US policy on Ukraine, says he and Putin have agreed to begin talks on ending \u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176268391",
-    "timestamp": "2025-02-16T04:52:42Z"
-  },
-  {
-    "title": "Ukrainian mayor threatens Zelensky with military \u2018purge\u2019",
-    "description": "The mayor of the Ukrainian city of Borispol, Vladimir Borisenko, has issued a warning to Kiev, condemning the persecution of opposition Read Full Article at RT.com",
-    "link": "https://www.rt.com/russia/612801-borispol-zelensky-military-purge/",
-    "timestamp": "2025-02-16T04:47:11Z"
-  },
-  {
-    "title": "Marco Rubio Arrives in Israel on First Visit as Secretary of State",
-    "description": "Secretary of State Marco Rubio arrived in Israel late Saturday night for his first trip to the Middle East in his new role.\nThe post Marco Rubio Arrives in Israel on First Visit as Secretary of State appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/middle-east/2025/02/15/marco-rubio-arrives-in-israel-on-first-visit-as-secretary-of-state/",
-    "timestamp": "2025-02-16T04:46:09Z"
-  },
-  {
-    "title": "DeepSeek drives $1.3 trillion stock rally in China",
-    "description": "China\u2019s onshore and offshore equity markets have added more than $1.3 trillion in total value in just the past month, while India\u2019s market has shrunk by more than $720 billion.",
-    "link": "https://www.bloomberg.com/news/articles/2025-02-16/deepseek-drives-1-3-trillion-china-stock-rally-as-funds-pile-in",
-    "timestamp": "2025-02-16T04:34:31Z"
   }
 ]
