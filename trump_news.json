@@ -1,15 +1,183 @@
 [
   {
+    "title": "Trump's approval rating slips as Americans worry about the economy",
+    "description": "The share of Americans who think the economy is on the wrong track rose to 53% in the latest poll from 43% in the Jan. 24 to 26 poll.",
+    "link": "https://www.japantimes.co.jp/news/2025/02/20/world/politics/trump-approval-rating-slips/",
+    "timestamp": "2025-02-20T03:02:00Z"
+  },
+  {
+    "title": "US Army soldier linked to Snowflake extortion rampage admits breaking the law",
+    "description": "That's the way the cookie melts A US Army soldier suspected of hacking AT&T and Verizon has admitted leaking online people's private call records.\u2026",
+    "link": "https://www.theregister.com/2025/02/20/us_army_snowflake_theft/",
+    "timestamp": "2025-02-20T03:01:39Z"
+  },
+  {
+    "title": "Pentagon announces coordinated border patrols with Mexican military amid push for immigration control",
+    "description": "U.S. officials announced on Wednesday that the Mexican military has agreed to coordinated patrols on both sides of the border, as President Trump continues implementing his border plan.",
+    "link": "https://www.foxnews.com/us/pentagon-announces-coordinated-border-patrols-mexican-military-amid-push-immigration-control",
+    "timestamp": "2025-02-20T03:01:31Z"
+  },
+  {
+    "title": "Civil Rights Groups Sue Trump Administration Over DEI Orders",
+    "description": "Following recent executive orders issued by US President Donald Trump over Diversity, Equity and Inclusion programs, a civil rights group is launching legal action. The suit was filed in response ...\nThe post Civil Rights Groups Sue Trump Administration Over \u2026",
+    "link": "https://www.starobserver.com.au/news/civil-rights-groups-sue-trump-administration-over-dei-orders/235554",
+    "timestamp": "2025-02-20T03:01:16Z"
+  },
+  {
+    "title": "DOGE contract cuts worth $8.5 billion so far, a fraction of federal outlays",
+    "description": "Elon Musk's initiative, through the Department of Government Efficiency (DOGE), claims to have saved U.S. taxpayers $8.5 billion by canceling over a thousand small contracts. However, the administration\u2019s aim of reaching $1 trillion in savings remains distant\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/doge-contract-cuts-worth-8-5-billion-so-far-a-fraction-of-federal-outlays/articleshow/118403339.cms",
+    "timestamp": "2025-02-20T03:01:13Z"
+  },
+  {
+    "title": "\"Very Unfair\": Donald Trump On Elon Musk's Tesla Building Factory In India",
+    "description": "US President Donald Trump has said that any potential plans of the EV maker to build a factory in India, to circumvent that country&#039;s tariffs, would be &#039;very unfair&#039;.",
+    "link": "https://www.ndtv.com/world-news/very-unfair-donald-trump-on-elon-musks-tesla-building-factory-in-india-7750962",
+    "timestamp": "2025-02-20T03:00:22Z"
+  },
+  {
+    "title": "Trump Blindsides Staff and Congress",
+    "description": "\u201cPresident Donald Trump surprised some of his own staff Wednesday when he endorsed a House budget that would gut Medicaid, hours after pledging that the safety net program \u2018isn\u2019t going to be touched,\u2019\u201d Politico reports.",
+    "link": "https://politicalwire.com/2025/02/19/trump-blindsides-staff-and-congress/",
+    "timestamp": "2025-02-20T03:00:10Z"
+  },
+  {
+    "title": "Crip Walking Into Super Idiocracy",
+    "description": "America 2.0 goes full ghetto at the Super Bowl The recent Super Bowl between the Philadelphia Eagles and Kansas City Chiefs wasn\u2019t fixed for the Chiefs. This surprised millions of \u201cnormies\u201d who had become increasingly vocal about the favorable calls the Chief\u2026",
+    "link": "https://www.activistpost.com/super-bowl-controversies-and-unexpected-outcomes/",
+    "timestamp": "2025-02-20T03:00:00Z"
+  },
+  {
+    "title": "We need a new transatlantic bargain",
+    "description": "If Washington is to continue to see enduring value in this historic alliance, it needs a true and more equal partnership.",
+    "link": "https://www.politico.eu/article/transatlantic-bargain-eu-us-donald-trump-security-war-jd-vance-trump-america-withdrawl/",
+    "timestamp": "2025-02-20T03:00:00Z"
+  },
+  {
+    "title": "Hegseth orders Pentagon to make plans for major budget cuts to align with Trump DOGE priorities",
+    "description": "Defense Secretary Pete Hegseth has ordered the Pentagon to develop plans for cutting 8% from the Department of Defense budget.",
+    "link": "https://www.foxnews.com/politics/hegseth-orders-pentagon-make-plans-major-budget-cuts-align-trump-doge-priorities",
+    "timestamp": "2025-02-20T02:59:40Z"
+  },
+  {
+    "title": "This Is What Happens When the DOGE Guys Take Over",
+    "description": "Inside the federal agencies where Elon Musk\u2019s people have seized control, fear and uncertainty reign.",
+    "link": "https://www.theatlantic.com/politics/archive/2025/02/doge-musk-federal-agencies-takeover/681744/",
+    "timestamp": "2025-02-20T02:58:31Z"
+  },
+  {
+    "title": "WSJ editorial board takes a swipe at 'desperate' Trump 'tilting toward a sellout'",
+    "description": "The conservative Wall Street Journal editorial board expressed serious concerns over President Donald Trump's concessions to Russia on Ukraine this week, writing that he \"tilts toward a Ukraine sellout.\"In recent days, Trump \u2014 who has cozied up with Russian P\u2026",
+    "link": "https://www.rawstory.com/wsj-trump-2671185265/",
+    "timestamp": "2025-02-20T02:56:13Z"
+  },
+  {
+    "title": "Federal Reserve noted Trump policies could stir inflation, minutes show",
+    "description": "Companies have told the U.S. central bank they generally expect to raise prices to pass along the cost of import tariffs.",
+    "link": "https://www.japantimes.co.jp/business/2025/02/20/economy/fed-trump-inflation-concerns/",
+    "timestamp": "2025-02-20T02:55:00Z"
+  },
+  {
+    "title": "Trump calls Tesla's India factory plans 'unfair' amid EV expansion rumors",
+    "description": "US President Donald Trump has criticized Tesla's potential plans to manufacture electric vehicles in India, calling the move \"unfair\" to the US during an interview with Fox News. His comments came shortly after reports emerged about Tesla's strategy to enter \u2026",
+    "link": "https://www.digitimes.com/news/a20250220VL205/tesla-expansion-manufacturing-donald-trump-policy.html",
+    "timestamp": "2025-02-20T02:54:36Z"
+  },
+  {
+    "title": "Agriculture Department tries to rehire fired workers tied to bird flu response",
+    "description": "The Agriculture Department is scrambling to rehire several workers it fired as part of President Donald Trump\u2019s broad cuts because they were involved in the government\u2019s response to the ongoing bird flu outbreak that has devastated egg and poultry farm...",
+    "link": "https://abcnews.go.com/Technology/wireStory/agriculture-department-rehire-fired-workers-tied-bird-flu-118987023",
+    "timestamp": "2025-02-20T02:54:26Z"
+  },
+  {
+    "title": "Trump signs order to study how to expand IVF, calls for 'radical transparency' from government",
+    "description": "President Trump signed executive orders aimed at making in vitro fertilisation more accessible and cost-effective, and mandating transparency in government spending. Additionally, Trump praised Tesla CEO Elon Musk's role in overseeing the Department of Govern\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-signs-order-to-study-how-to-expand-ivf-calls-for-radical-transparency-from-government/articleshow/118403150.cms",
+    "timestamp": "2025-02-20T02:53:00Z"
+  },
+  {
+    "title": "Trump's comments on Ukraine draw mixed reaction from US lawmakers",
+    "description": "U.S. President Donald Trump's comments this week claiming Ukraine was responsible for starting the three-year conflict with Russia and calling Ukrainian President Volodymyr Zelenskyy \"a dictator without elections\" drew criticism from congressional Democrats a\u2026",
+    "link": "https://www.voanews.com/a/trump-s-comments-on-ukraine-draw-mixed-reaction-from-us-lawmakers/7981476.html",
+    "timestamp": "2025-02-20T02:50:18Z"
+  },
+  {
+    "title": "Donald Trump alleges US meddling in Lok Sabha elections 2024, says \u2018Biden administration was trying to get someone else elected\u2019",
+    "description": "US President Donald Trump has alleged that the Biden administration\u2019s $21 million USAID funding for voter turnout in India was an attempt to influence the country\u2019s elections. He questioned why US taxpayer money was allocated for such purposes and backed the \u2026",
+    "link": "https://economictimes.indiatimes.com/news/politics-and-nation/donald-trump-alleges-us-meddling-in-lok-sabha-elections-2024-says-biden-administration-was-trying-to-get-someone-else-elected/articleshow/118402752.cms",
+    "timestamp": "2025-02-20T02:46:45Z"
+  },
+  {
+    "title": "ICE prosecutor in Dallas runs white supremacist X account",
+    "description": "Fear of Immigration and Customs Enforcement (ICE) raids began to spread the day after President Donald Trump was inaugurated for the second time. Posts on social media and Reddit claimed that ICE had already been spotted in the Dallas neighborhood of Oak Clif\u2026",
+    "link": "https://www.rawstory.com/ice/",
+    "timestamp": "2025-02-20T02:45:07Z"
+  },
+  {
+    "title": "Conservative Merz Leads Germany's Turbulent Election Race",
+    "description": "When Germans vote on Sunday, conservative Friedrich Merz is the strong favourite to become the next chancellor after a bitterly fought campaign roiled by the rise of the AfD, a far-right party vocally backed by Team Trump.",
+    "link": "https://www.ibtimes.com/conservative-merz-leads-germanys-turbulent-election-race-3764360",
+    "timestamp": "2025-02-20T02:42:20Z"
+  },
+  {
+    "title": "Conservative Merz Leads Germany's Turbulent Election Race",
+    "description": "When Germans vote on Sunday, conservative Friedrich Merz is the strong favourite to become the next chancellor after a bitterly fought campaign roiled by the rise of the AfD, a far-right party vocally backed by Team Trump.",
+    "link": "https://www.ibtimes.com.au/conservative-merz-leads-germanys-turbulent-election-race-1856358",
+    "timestamp": "2025-02-20T02:42:12Z"
+  },
+  {
+    "title": "IT, pharma remain safety packs where one should have some allocation in medium term: Sunil Subramaniam",
+    "description": "Sunil Subramaniam, a market expert, remains optimistic about the long-term prospects of the IT and pharmaceutical sectors due to the rupee's depreciation. He highlights potential benefits for mid and small-cap IT firms from AI consulting, while pharma compani\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/it-pharma-remain-safety-packs-where-one-should-have-some-allocation-in-medium-term-sunil-subramaniam/articleshow/118388544.cms",
+    "timestamp": "2025-02-20T02:41:00Z"
+  },
+  {
+    "title": "Trump says he could give 20% of DOGE savings back to Americans",
+    "description": "US president's proposal comes amid scepticism of claimed savings from Elon Musk's cost-cutting drive.",
+    "link": "https://www.aljazeera.com/economy/2025/2/20/trump-says-he-could-give-to-20-of-doge-savings-back-to-americans",
+    "timestamp": "2025-02-20T02:40:04Z"
+  },
+  {
+    "title": "Statement by Performing the Duties of Deputy Secretary of Defense Robert G. Salesses",
+    "description": "Performing the Duties of Deputy Secretary of Defense Robert G. Salesses issued a statement about President Trump Donald Trump's charge to the Defense Department.",
+    "link": "https://www.defense.gov/News/Releases/Release/Article/4071371/statement-by-performing-the-duties-of-deputy-secretary-of-defense-robert-g-sale/",
+    "timestamp": "2025-02-20T02:40:00Z"
+  },
+  {
+    "title": "Musk blames Zelensky for death of US journalist",
+    "description": "Elon Musk has accused Ukrainian leader Vladimir Zelensky of \u201ckilling\u201d Gonzalo Lira Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/613039-musk-zelensky-gonzalo-lira/",
+    "timestamp": "2025-02-20T02:39:21Z"
+  },
+  {
+    "title": "What is Trump\u2019s foreign policy strategy, if there is one?",
+    "description": "The rapid succession of policy changes and the speed at which implementation has taken place in the second Donald Trump administration has left many pundits in Tokyo dumbfounded.",
+    "link": "https://www.japantimes.co.jp/commentary/2025/02/20/world/trump-ukraine-strategy/",
+    "timestamp": "2025-02-20T02:39:00Z"
+  },
+  {
+    "title": "Liz Cheney Rips Trump Over His 'Devotion to Putin' and 'Lies About History'",
+    "description": "The former GOP congresswoman said on Wednesday that Trump \"is the antithesis of everything Ronald Reagan stood for.\"",
+    "link": "https://www.newsweek.com/liz-cheney-rips-trump-over-his-devotion-putin-lies-about-history-2033524",
+    "timestamp": "2025-02-20T02:38:37Z"
+  },
+  {
+    "title": "GOP Rep. Bacon: Trump Is 'Wrong' on Ukraine, He 'Needs a Do-Over Day'",
+    "description": "Representative Don Bacon (R-NE) said Wednesday on CNN's \"OutFront\" that President Donald Trump was \"wrong\" for \"standing on the side\" of Russian President Vladimir Putin in the Ukraine conflict.\nThe post GOP Rep. Bacon: Trump Is \u2018Wrong\u2019 on Ukraine, He \u2018Needs \u2026",
+    "link": "https://www.breitbart.com/clips/2025/02/19/gop-rep-bacon-trump-is-wrong-on-ukraine-he-needs-a-do-over-day/",
+    "timestamp": "2025-02-20T02:36:37Z"
+  },
+  {
+    "title": "Moderate House Republicans Warn Mike Johnson Against Medicaid Cuts",
+    "description": "President Donald Trump endorsed the House GOP budget, but has sent mixed signals about Medicaid.",
+    "link": "https://www.huffpost.com/entry/house-budget-medicaid-cuts-donald-trump_n_67b673d2e4b0be61010d81aa",
+    "timestamp": "2025-02-20T02:36:33Z"
+  },
+  {
     "title": "Trump's foreign aid freeze halted a crucial program fighting HIV in Africa. Here's what's at stake",
     "description": "The freeze on U.S. foreign aid ordered by President Donald Trump has effectively halted one of the world's most successful responses to a disease",
     "link": "https://abcnews.go.com/Health/wireStory/trumps-foreign-aid-freeze-halted-crucial-program-fighting-118969899",
     "timestamp": "2025-02-20T02:30:31Z"
-  },
-  {
-    "title": "Frank Coughlan: It\u2019s not a great leap to link US education neglect to support for the cult of Trump",
-    "description": "Many of us are familiar with a telling early scene from Breaking Bad, that compulsively watchable drama that gave us one of modern TV\u2019s most compelling and tragic characters. Walter White, a brilliant but disillusioned chemistry teacher in Albuquerque, New Me\u2026",
-    "link": "https://www.independent.ie/opinion/comment/frank-coughlan-its-not-a-great-leap-to-link-us-education-neglect-to-support-for-the-cult-of-trump/a1070132248.html",
-    "timestamp": "2025-02-20T02:30:00Z"
   },
   {
     "title": "The Irish Independent\u2019s View: Europe must assert its place in peace talks and stop Donald Trump from rewriting history",
@@ -21,6 +189,12 @@
     "title": "What we know about photo allegedly showing $300M worth of meds set to expire due to USAID cuts",
     "description": "In an X post, Sen. Chris Coons of Delaware said the drugs would have prevented people \"from going blind from a preventable tropical disease.\"",
     "link": "https://www.snopes.com//news/2025/02/20/photo-usaid-meds-300-million/",
+    "timestamp": "2025-02-20T02:30:00Z"
+  },
+  {
+    "title": "Frank Coughlan: It\u2019s not a great leap to link US education neglect to support for the cult of Trump",
+    "description": "Many of us are familiar with a telling early scene from Breaking Bad, that compulsively watchable drama that gave us one of modern TV\u2019s most compelling and tragic characters. Walter White, a brilliant but disillusioned chemistry teacher in Albuquerque, New Me\u2026",
+    "link": "https://www.independent.ie/opinion/comment/frank-coughlan-its-not-a-great-leap-to-link-us-education-neglect-to-support-for-the-cult-of-trump/a1070132248.html",
     "timestamp": "2025-02-20T02:30:00Z"
   },
   {
@@ -392,13 +566,13 @@
   {
     "title": "Palmer takes aim at coal mining seat of Hunter as fellow believers worry about crowded field",
     "description": "Will Clive Palmer's new tilt at political power fracture the conservative vote? One fellow right-winger certainly seems worried about it\nThe post Palmer takes aim at coal mining seat of Hunter as fellow believers worry about crowded field appeared first on Cr\u2026",
-    "link": "http://www.crikey.com.au/2025/02/20/clive-palmer-hunter-election-conservative-parties/",
+    "link": "http://www.crikey.com.au/2025/02/20/clive-palmer-hunter-election-conservative-parties-crikey/",
     "timestamp": "2025-02-20T01:11:16Z"
   },
   {
     "title": "Palmer takes aim at coal mining seat of Hunter as fellow believers worry about crowded field",
     "description": "Will Clive Palmer's new tilt at political power fracture the conservative vote? One fellow right-winger certainly seems worried about it\nThe post Palmer takes aim at coal mining seat of Hunter as fellow believers worry about crowded field appeared first on Cr\u2026",
-    "link": "http://www.crikey.com.au/2025/02/20/clive-palmer-hunter-election-conservative-parties-crikey/",
+    "link": "http://www.crikey.com.au/2025/02/20/clive-palmer-hunter-election-conservative-parties/",
     "timestamp": "2025-02-20T01:11:16Z"
   },
   {
@@ -418,173 +592,5 @@
     "description": "President Donald Trump on Wednesday is expected to sign an executive order that officially ends all federal taxpayer benefits to illegal migrants, White House press secretary Karoline Leavitt confirmed. The order is expected to instruct all federal agencies t\u2026",
     "link": "https://freerepublic.com/focus/f-news/4298945/posts",
     "timestamp": "2025-02-20T01:09:17Z"
-  },
-  {
-    "title": "Hegseth directs Pentagon to find $50 billion in cuts this year to fund Trump military priorities",
-    "description": "Defense Secretary Pete Hegseth has ordered the identification of $50 billion in military spending cuts to fund President Trump's priorities. Areas targeted include excessive bureaucracy, climate change initiatives, and diversity, equity and inclusion programs\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/hegseth-directs-pentagon-to-find-50-billion-in-cuts-this-year-to-fund-trump-military-priorities/articleshow/118401692.cms",
-    "timestamp": "2025-02-20T01:08:44Z"
-  },
-  {
-    "title": "China keeps benchmark lending rates steady as PBOC prioritizes financial stability",
-    "description": "The PBOC has prioritized defending the yuan against the pressure for it to depreciate on anticipation of higher tariff rates.",
-    "link": "https://www.cnbc.com/2025/02/20/china-lpr-decision-february.html",
-    "timestamp": "2025-02-20T01:08:15Z"
-  },
-  {
-    "title": "Fired FAA employee who was working on missile defense says Americans should be scared - NewsBreak",
-    "description": "In an interview with CNN\u2019s Kaitlan Collins, former FAA employee Charles Spitzer-Stadtlander says he was working on an FAA defense program when he was fired",
-    "link": "https://www.newsbreak.com/share/3820144787774-fired-faa-employee-who-was-working-on-missile-defense-says-americans-should-be-scared?s=a7&amp;share_destination_id=NzI1ODg2OTUtMTc0MDAxMzY1OTY4OQ%3D%3D&amp;pd=04uZdPbD&amp;hl=en_US&amp;send_time=1740013659&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.4.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_rank_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v7%2Cns_foryou_model_exp_25q1-v3%2Cns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v7",
-    "timestamp": "2025-02-20T01:08:10Z"
-  },
-  {
-    "title": "Hegseth directs Pentagon to find $50 billion in cuts this year to fund Trump military priorities - NewsBreak",
-    "description": "WASHINGTON (AP) \u2014 Defense Secretary Pete Hegseth has directed the military services to identify $50 billion in programs that could be cut next year in orde",
-    "link": "https://www.newsbreak.com/share/3820828662224-hegseth-directs-pentagon-to-find-50-billion-in-cuts-this-year-to-fund-trump-military-priorities?s=a2&share_destination_id=MTc5OTM4NTAzLTE3NDAwMjI2NDkwODU%3D&pd=0CB0Dv47&hl=en_US&send_time=1740022649&actBtn=bottomBar&_f=app_share&trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.7.2%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v8%2Cns_foryou_recall_exp_25q1-v7%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_rank_exp_25q1-v3",
-    "timestamp": "2025-02-20T01:07:41Z"
-  },
-  {
-    "title": "Trump tells 'dictator' Zelenskyy to move fast or lose Ukraine",
-    "description": "President Donald Trump called Ukrainian President Volodymyr Zelenskyy a \u201cdictator\u201d and warned of losing his country if peace wasn't secured swiftly. This escalated tensions and concerned European allies, especially after Trump's claim that Ukraine was respons\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/trump-tells-dictator-zelenskyy-to-move-fast-or-lose-ukraine/articleshow/118401681.cms",
-    "timestamp": "2025-02-20T01:07:36Z"
-  },
-  {
-    "title": "Tucker interviews human rights lawyer that has worked in Ukraine",
-    "description": "Donald Trump just called Zelensky a dictator. Human rights lawyer Bob Amsterdam has worked in Ukraine for the past couple of years and confirms that if anything, that\u2019s an understatement.(0:00) The Situation Is Dire (3:28) Bob Amsterdam\u2019s Fight to Defend the \u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4298944/posts",
-    "timestamp": "2025-02-20T01:07:31Z"
-  },
-  {
-    "title": "Asian stocks drop after Fed Minutes show caution",
-    "description": "Stocks in Japan and Australia dropped while equity index futures for Hong Kong also drifted lower. Contracts for US stocks also slipped in early Asian trading after the S&P 500 climbed 0.2% on Wednesday to set a new high, with defensive sectors outperforming \u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-drop-after-fed-minutes-show-caution/articleshow/118401677.cms",
-    "timestamp": "2025-02-20T01:07:28Z"
-  },
-  {
-    "title": "Musk\u2019s DOGE to Lead Trump\u2019s\u00a0Purge of Federal Regulations",
-    "description": "President Donald Trump plans to sign an executive order undertaking a massive regulatory review in a bid to fulfill his campaign pledge of eliminating rules he says stifle businesses and innovation.",
-    "link": "https://www.livemint.com/companies/news/musks-doge-to-lead-trump-s-purge-of-federal-regulations-11740013560295.html",
-    "timestamp": "2025-02-20T01:05:59Z"
-  },
-  {
-    "title": "Actual quote from former UK minister: 'If you'd asked AI to write a piece of Russian propaganda in the style of Donald Trump, this is what you'd get. 'Well done America, you've elected a Russian asset as your president.' [Obvious]",
-    "description": "Actual quote from former UK minister: 'If you'd asked AI to write a piece of Russian propaganda in the style of Donald Trump, this is what you'd get. 'Well done America, you've elected a Russian asset as your president.'",
-    "link": "https://www.fark.com/comments/13568774/Actual-quote-from-former-UK-minister-If-youd-asked-AI-to-write-a-piece-of-Russian-propaganda-in-style-of-Donald-Trump-this-is-what-youd-get-Well-done-America-youve-elected-a-Russian-asset-as-your-president",
-    "timestamp": "2025-02-20T01:05:05Z"
-  },
-  {
-    "title": "British boots on the ground: What could a UK-Europe force in Ukraine look like?",
-    "description": "British and other European troops could be deployed to Ukrainian cities, ports and nuclear power plants to help secure the peace following any ceasefire deal with Russia, western officials have said.",
-    "link": "https://news.sky.com/story/british-boots-on-the-ground-what-could-a-uk-europe-force-in-ukraine-look-like-13312995",
-    "timestamp": "2025-02-20T01:04:00Z"
-  },
-  {
-    "title": "Trump Floats Giving 20% of Savings from DOGE 'To American Citizens'",
-    "description": "President Donald Trump floated the idea of giving 20 percent of the money that Elon Musk and his team at the Department of Government Efficiency (DOGE) have saved back to the American people.\nThe post Trump Floats Giving 20% of Savings from DOGE \u2018To American \u2026",
-    "link": "https://www.breitbart.com/politics/2025/02/19/trump-floats-giving-20-of-savings-from-doge-to-american-citizens/",
-    "timestamp": "2025-02-20T01:03:54Z"
-  },
-  {
-    "title": "Former NFL punter gets tackled by police and arrested over 'civil disobedience' protest against MAGA plaque",
-    "description": "A former NFL player spoke out against President Donald Trump at a city council meeting but was tackled and arrested after approaching the council members in \"civil disobedience.\" Chris Kluwe read out a list of accusations against the \"Make America Great Again\u2026",
-    "link": "https://www.theblaze.com/news/punter-protest-maga-arreset-tackle",
-    "timestamp": "2025-02-20T01:03:39Z"
-  },
-  {
-    "title": "Trump's layoffs hit firefighter safety programs",
-    "description": "Among the federal workers let go were the ones who maintain the National Firefighter Registry for Cancer \u2014 which was signed into law by Trump in 2018.",
-    "link": "https://www.nbcnews.com/politics/trump-administration/trumps-layoffs-hit-firefighter-safety-programs-rcna192849",
-    "timestamp": "2025-02-20T01:03:32Z"
-  },
-  {
-    "title": "How a 1995 California court ruling that restored immigrant rights could backfire in 2025",
-    "description": "Federal prosecutors are trying to overturn Illinois sanctuary laws, and the case could have major implications for a California law limiting local law enforcement cooperation with immigration authorities.",
-    "link": "https://www.kpbs.org/news/border-immigration/2025/02/19/how-a-1995-california-court-ruling-that-restored-immigrant-rights-could-backfire-in-2025",
-    "timestamp": "2025-02-20T01:01:46Z"
-  },
-  {
-    "title": "Senate Republicans Forge Ahead with $340 Billion Budget Amid GOP Infighting",
-    "description": "The contentious budget process is making an already challenging legislative effort even harder for Republicans.",
-    "link": "https://www.newsweek.com/senate-republicans-forge-ahead-340-billion-budget-2033535",
-    "timestamp": "2025-02-20T01:00:11Z"
-  },
-  {
-    "title": "Trump says he ended Biden\u2019s war on Bitcoin and crypto, pledges to make the US crypto capital",
-    "description": "Trump's pro-crypto stance may boost US innovation and investment, potentially reshaping global financial dynamics and regulatory approaches.\nThe post Trump says he ended Biden\u2019s war on Bitcoin and crypto, pledges to make the US crypto capital appeared first o\u2026",
-    "link": "https://cryptobriefing.com/trump-make-us-crypto-capital/",
-    "timestamp": "2025-02-20T00:54:40Z"
-  },
-  {
-    "title": "House Republican Rips Trump: \u2018What the President Said Today Was Wrong\u2019",
-    "description": "Rep. Don Bacon (R-NE) criticized President Donald Trump for \u201cstanding on the side\u201d of Russian President Vladimir Putin, who he called a \u201cdictator,\u201d on Wednesday evening. Bacon was asked by CNN anchor Brianna Keilar to react to critical comments Trump made of \u2026",
-    "link": "https://www.mediaite.com/tv/house-republican-rips-trump-what-the-president-said-today-was-wrong/",
-    "timestamp": "2025-02-20T00:53:57Z"
-  },
-  {
-    "title": "More Than 100 Medical Workers Urge Senate To Help Stop Attacks On Palestinians",
-    "description": "The group, Doctors Against Genocide, called for lawmakers to protect Gaza's health care workers and help the medical institutions destroyed by Israeli forces.",
-    "link": "https://www.huffpost.com/entry/100-medical-workers-senate-stop-violence-against-palestinians_n_67b64a46e4b050f805a0d0bd",
-    "timestamp": "2025-02-20T00:53:49Z"
-  },
-  {
-    "title": "Transgender politician who defeated 12-year-old girl in marathon defends trans inclusion in women's sports",
-    "description": "Nathanielle Morin, Canadian advisor to the Federal Minister of Women, released a statement defending trans participation in women's sports, taking aim at Trump.",
-    "link": "https://www.foxnews.com/sports/transgender-politician-who-defeated-12-year-old-girl-marathon-defends-trans-inclusion-womens-sports",
-    "timestamp": "2025-02-20T00:53:32Z"
-  },
-  {
-    "title": "What if a sitting president became dangerously unstable? The 1965 novel Night of Camp David makes for uncanny reading today",
-    "description": "Fletcher Knebel\u2019s novel has much to say about the fragility of our democratic institutions and the dangers of unchecked authority.",
-    "link": "https://theconversation.com/what-if-a-sitting-president-became-dangerously-unstable-the-1965-novel-night-of-camp-david-makes-for-uncanny-reading-today-249378",
-    "timestamp": "2025-02-20T00:51:46Z"
-  },
-  {
-    "title": "US figures do not support Trump claims on Ukraine spending",
-    "description": "President Donald Trump on Wednesday repeated a claim that the United States has spent $350 billion on Ukraine\u2019s war \u2014 a figure that far eclipses the amount recorded by the Department of Defense and the interagency oversight group that tracks U.S. appropriatio\u2026",
-    "link": "https://www.voanews.com/a/us-figures-do-not-support-trump-claims-on-ukraine-spending/7981441.html",
-    "timestamp": "2025-02-20T00:49:09Z"
-  },
-  {
-    "title": "Trump says most successful business leaders are now \u2018racing\u2019 to invest in the U.S.",
-    "description": "... Read more",
-    "link": "https://www.wnd.com/2025/02/trump-says-most-successful-business-leaders-are-now-racing-to-invest-in-the-u-s/",
-    "timestamp": "2025-02-20T00:47:37Z"
-  },
-  {
-    "title": "\u2018Be Quiet For A While\u2019: Megyn Kelly Tells Zelenskyy His \u2018Yapping\u2019 Won\u2019t End War, Reminds Him Of US Control",
-    "description": "Megyn Kelly warned Zelenskyy that his \"yapping\" won't help end his war against Russia, reminding him of how U.S. aid has kept him afloat.",
-    "link": "https://dailycaller.com/2025/02/19/megyn-kelly-zelenskyy-ukraine-russia-war-donald-trump/",
-    "timestamp": "2025-02-20T00:43:29Z"
-  },
-  {
-    "title": "Fetterman loses two top staffers as he makes waves by bucking Democratic Party",
-    "description": "Renegade Pennsylvania Democrat John Fetterman is suffering more staff departures as they continue to color his time in the Senate.",
-    "link": "https://www.foxnews.com/politics/fetterman-loses-two-top-staffers-he-makes-waves-bucking-democratic-party",
-    "timestamp": "2025-02-20T00:43:24Z"
-  },
-  {
-    "title": "Trump calls Zelenskyy a dictator as U.S.-Ukraine bonds unravel",
-    "description": "The U.S. president has abandoned years of support for Ukraine, as he prepares to meet with Russia's Vladimir Putin to negotiate a deal to end the war.",
-    "link": "https://www.japantimes.co.jp/news/2025/02/20/world/politics/trump-zelenskyy-dictator/",
-    "timestamp": "2025-02-20T00:39:00Z"
-  },
-  {
-    "title": "Europeans reaffirm calls for just, lasting peace in Ukraine",
-    "description": "Flags of the European Union fly outside the Berlaymont Building, the European Commission headquarte",
-    "link": "http://en.people.cn/n3/2025/0220/c90000-20278857.html",
-    "timestamp": "2025-02-20T00:38:22Z"
-  },
-  {
-    "title": "Our hostages might be home already if Biden supported Israel as much as Trump does",
-    "description": "Americans support Israel, and the US government will demonstrate that support with concrete actions, diplomatic and economic strength, and a commitment to the values that the two countries share.",
-    "link": "https://www.jpost.com/opinion/article-842879",
-    "timestamp": "2025-02-20T00:37:37Z"
-  },
-  {
-    "title": "Indonesia Industrial Coal Power Plans Undercut Emissions Pledge: Report",
-    "description": "Indonesia's planned expansion of \"captive\" coal plants used to power industry is threatening its pledge to cut CO2 emissions by 2030 and close all coal-fired plants by a decade later, said a report published Thursday.",
-    "link": "https://www.ibtimes.com/indonesia-industrial-coal-power-plans-undercut-emissions-pledge-report-3764339",
-    "timestamp": "2025-02-20T00:36:14Z"
   }
 ]
