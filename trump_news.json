@@ -1,5 +1,77 @@
 [
   {
+    "title": "New SEC Cyber Unit Closes Chapter on Agency's Crypto Enforcement Emphasis",
+    "description": "The SEC's Republican leaders have shifted what had been a crypto-focused enforcement squad into a smaller group with a broader responsibility.",
+    "link": "https://www.coindesk.com/policy/2025/02/20/new-sec-cyber-unit-closes-chapter-on-agency-s-crypto-enforcement-emphasis",
+    "timestamp": "2025-02-20T16:54:45Z"
+  },
+  {
+    "title": "N.B. beverage-can company braces for aluminum tariffs set for early March",
+    "description": "The owners of a company that sprepares and supplies cans for craft breweries say they are anxious about 25 per cent tariffs on aluminum and steel, announced by U.S. President Donald Trump, that are set to take effect March 12.",
+    "link": "https://www.cbc.ca/news/canada/new-brunswick/james-ponting-craft-coast-canning-1.7463729",
+    "timestamp": "2025-02-20T16:54:30Z"
+  },
+  {
+    "title": "Susan Collins to oppose Trump FBI director pick Kash Patel",
+    "description": "Key moderate Republican Susan Collins announced she is voting against Kash Patel to be director of the FBI under Trump.",
+    "link": "https://www.foxnews.com/politics/susan-collins-vows-oppose-trump-fbi-director-nominee-kash-patel-ahead-critical-vote",
+    "timestamp": "2025-02-20T16:54:24Z"
+  },
+  {
+    "title": "Trump Secretary Reveals Next Giveaway to the Rich: Abolishing the IRS",
+    "description": "Donald Trump\u2019s new commerce secretary, Howard Lutnick, says the president wants to get rid of the Internal Revenue Service. \r\n\u201cHis goal is to abolish the Internal Revenue Service and let all the outsiders pay,\u201d Lutnick said to Jesse Watters on Fox News Wednes\u2026",
+    "link": "https://newrepublic.com/post/191750/trump-commerce-secretary-lutnick-abolish-irs",
+    "timestamp": "2025-02-20T16:54:24Z"
+  },
+  {
+    "title": "What is LIBRA? The Solana Meme Coin That Sparked a Political Scandal",
+    "description": "LIBRA\u2019s collapse triggered fraud claims, insider trading accusations, and calls for Argentine President Javier Milei\u2019s impeachment.",
+    "link": "https://decrypt.co/resources/what-is-libra-the-solana-meme-coin-that-sparked-a-political-scandal",
+    "timestamp": "2025-02-20T16:54:21Z"
+  },
+  {
+    "title": "Kash Patel, President Trump's nominee to lead the FBI, confirmed by Senate",
+    "description": "President Donald Trump's nominee to lead the FBI, Kash Patel, was confirmed by the Senate on Thursday in a mostly party-line vote of 51-49, with two Republican senators voting no.",
+    "link": "https://www.foxnews.com/politics/kash-patel-senate-confirmation-vote-fbi-director",
+    "timestamp": "2025-02-20T16:53:58Z"
+  },
+  {
+    "title": "Bucha has a question: does Trump remember the Russian massacre?",
+    "description": "Residents of the town that suffered attacks on civilians are alarmed by the US president\u2019s warm words for Moscow",
+    "link": "https://www.irishtimes.comhttps://www.nytimes.com/2025/02/20/world/europe/bucha-russia-massacre-trump.html",
+    "timestamp": "2025-02-20T16:53:00Z"
+  },
+  {
+    "title": "Mitch McConnell announces he will not seek reelection next year",
+    "description": "Mitch McConnell announces he will not seek reelection next yeargo.com",
+    "link": "https://abcnews.go.com/Politics/mitch-mcconnell-reelection-wont-seek-floor-address/story?id=119009313",
+    "timestamp": "2025-02-20T16:52:32Z"
+  },
+  {
+    "title": "Trump\u2019s Attempt to Kill Congestion Pricing Will Backfire",
+    "description": "Traffic tolls, welcome to the resistance.",
+    "link": "https://slate.com/business/2025/02/congestion-pricing-trump-kathy-hochul-new-york-traffic-transit-ridership-crime.html",
+    "timestamp": "2025-02-20T16:50:06Z"
+  },
+  {
+    "title": "Apple CEO Tim Cook had a \u2018great meeting\u2019 with President Trump today amid ongoing tariff issue",
+    "description": "Apple CEO Tim Cook is back in Washington D.C. today just a few weeks after donating to and attending Donald Trump\u2019s second presidential inauguration. \n\n\n\n more\u2026",
+    "link": "https://9to5mac.com/2025/02/20/apple-ceo-tim-cook-had-a-great-meeting-with-president-trump-today-amid-ongoing-tariff-issue/",
+    "timestamp": "2025-02-20T16:49:48Z"
+  },
+  {
+    "title": "How Trump Can Achieve Sustained Growth",
+    "description": "Above-target US inflation and a strong labor market reflect robust economic fundamentals. But the biggest risks to the US economy\u2019s continued growth are Donald Trump\u2019s erratic communication and, perhaps more importantly, his populist trade and immigration pol\u2026",
+    "link": "https://www.project-syndicate.org/commentary/trump-populist-policies-threaten-us-growth-by-michael-r-strain-2025-02",
+    "timestamp": "2025-02-20T16:49:41Z"
+  },
+  {
+    "title": "'J.D. Vance was right': Notorious Austrian Nazi elated after vice president's messaging",
+    "description": "When Vice President J.D. Vance lectured European leaders at the Munich Security Conference last week on the \u201cthreat from within\u201d posed by efforts to combat disinformation and contain far-right extremism, one far-right activist in particular was elated.Martin \u2026",
+    "link": "https://www.rawstory.com/raw-investigates/jd-vance-munich-speech/",
+    "timestamp": "2025-02-20T16:49:33Z"
+  },
+  {
     "title": "Trump seeks to end New York's congestion pricing",
     "description": "The MTA quickly filed a lawsuit when the Trump administration rescinded federal approval for the congestion pricing toll program",
     "link": "https://theweek.com/politics/trump-congestion-pricing-nyc",
@@ -466,77 +538,5 @@
     "description": "Ukrainian President Volodymyr Zelenskyy met US official Keith Kellogg in Kyiv amid a push to end the war. But the pair decided not to face reporters questions together following the talks. DW has more. Volodymyr Zelenskyy met Keith Kellogg, US President Donal\u2026",
     "link": "https://www.dw.com/en/ukraine-no-joint-statement-after-zelenskyy-us-envoy-talks/live-71678356",
     "timestamp": "2025-02-20T15:41:00Z"
-  },
-  {
-    "title": "Trump describes himself as a \u2018king,\u2019 on the heels of Napoleonic statement",
-    "description": "Four days after declaring \u201cHe who saves his Country does not violate any Law,\u201d Donald Trump also referred to himself as a monarch.",
-    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-describes-king-heels-napoleonic-statement-rcna192969",
-    "timestamp": "2025-02-20T15:40:25Z"
-  },
-  {
-    "title": "Hegseth\u2019s Proposed Pentagon \u201cBudget Cuts\u201d Seemingly Won\u2019t Reduce Spending at All",
-    "description": "The Defense Department quickly reframed plans for an 8 percent annual reduction in military spending as \u201coffsets.\u201d\u2026",
-    "link": "https://www.commondreams.org/news/hegseth-pentagon-cuts",
-    "timestamp": "2025-02-20T15:39:57Z"
-  },
-  {
-    "title": "Trump wants to check if there\u2019s still gold in Fort Knox",
-    "description": "President Trump wants to check to make sure there is still gold in Kentucky at the legendary depository for American gold reserves. Why? For some reason, he and Elon Musk are worried it's gone.",
-    "link": "https://www.wlky.com/article/trump-elon-fort-knox-kentucky-gold/63853224",
-    "timestamp": "2025-02-20T15:39:38Z"
-  },
-  {
-    "title": "Trump bashes Boeing over Air Force One delays as Elon Musk tries to speed things up",
-    "description": "President Donald Trump again expressed his frustration over Boeing\u2019s (BA) failure to deliver replacements for Air Force One, which were expected to be handed over to the federal government last year. Read more...",
-    "link": "https://qz.com/trump-boeing-elon-musk-air-force-one-jets-delay-1851765607",
-    "timestamp": "2025-02-20T15:39:00Z"
-  },
-  {
-    "title": "Palantir stock hit by worries over defense cuts. Hold your fire.",
-    "description": "Uncertainty over cuts to military spending have hammered key contractors in recent weeks. The worst-feared scenario doesn\u2019t seem to be happening, though.",
-    "link": "https://www.livemint.com/companies/news/palantir-stock-hit-by-worries-over-defense-cuts-hold-your-fire-11740065238927.html",
-    "timestamp": "2025-02-20T15:37:03Z"
-  },
-  {
-    "title": "Your next iPhone may get a significant price increase - this analyst thinks it's inevitable",
-    "description": "Should Tim Cook want Apple to stay in the green, he'll need to respond to the latest tariffs in this calculated manner.",
-    "link": "https://www.zdnet.com/article/your-next-iphone-may-get-a-significant-price-increase-this-analyst-thinks-its-inevitable/",
-    "timestamp": "2025-02-20T15:36:00Z"
-  },
-  {
-    "title": "Qatar, the US, and Israel: Who\u2019s really calling the shots in Israel\u2019s hostage talks?",
-    "description": "However, it remains unclear how likely this is to happen, given that Hamas has no apparent incentive to dramatically alter the existing agreement.",
-    "link": "https://www.jpost.com/israel-news/article-843041",
-    "timestamp": "2025-02-20T15:35:41Z"
-  },
-  {
-    "title": "Republicans Are \u201cScared Sh*tless\u201d of Trump\u2019s Fans",
-    "description": "Fear might be the driving motivator behind Republican lawmakers\u2019 continual bend to Donald Trump.\r\nThe GOP caucus is reportedly \u201cscared shitless\u201d of not just Trump\u2019s ire\u2014but the personal vindictiveness and constant threat of political violence from his MAGA ba\u2026",
-    "link": "https://newrepublic.com/post/191746/republicans-donald-trump-scared-fans",
-    "timestamp": "2025-02-20T15:35:20Z"
-  },
-  {
-    "title": "Sorry, Elon, Al Gore Was Not The Original DOGE. You Idiot.",
-    "description": "Another page from the Fake Outrage Playbook.",
-    "link": "https://www.wonkette.com/p/sorry-elon-al-gore-was-not-the-original",
-    "timestamp": "2025-02-20T15:34:15Z"
-  },
-  {
-    "title": "A$AP Rocky & Rihanna Promised To Name Their Next Child After His Lawyer",
-    "description": "A$AP Rocky and Rihanna have promised to name their next child after Joe Tacopina, the lawyer who represented the rapper in his shooting trial.",
-    "link": "https://hiphopdx.com/news/asap-rocky-rihanna-name-next-child-after-lawyer-tacopina",
-    "timestamp": "2025-02-20T15:30:05Z"
-  },
-  {
-    "title": "Trump\u2019s latest executive order gives the President and Attorney General sole power to interpret laws - NewsBreak",
-    "description": "Trump\u2019s latest executive order gives the President and Attorney General sole power to interpret laws - NewsBreaknewsbreak.com",
-    "link": "https://www.newsbreak.com/share/3820190624732-trump-s-latest-executive-order-gives-the-president-and-attorney-general-sole-power-to-interpret-laws?_f=app_share&amp;pd=0I1TeYH4&amp;lang=en_US&amp;send_time=1740065313&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.7.0.65%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q1-v9%2Cns_push_exp_rt_bucketv12-v1%2Cns_foryou_rank_exp_25q1-v3%2Cns_foryou_blend_exp_25q1-v1%2Cns_foryou_recall_exp_25q1-v4&amp;s=i2",
-    "timestamp": "2025-02-20T15:29:49Z"
-  },
-  {
-    "title": "Kremlin responds to reports of Western troop deployment plans for Ukraine",
-    "description": "Moscow is closely following the claims and deems any potential stationing of NATO militaries in Ukraine as unacceptable, Dmitry Peskov says Read Full Article at RT.com",
-    "link": "https://www.rt.com/russia/613064-peskov-responds-report-uk-troops-ukraine/",
-    "timestamp": "2025-02-20T15:29:12Z"
   }
 ]
