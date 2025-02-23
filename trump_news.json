@@ -1,5 +1,11 @@
 [
   {
+    "title": "Apple removes iCloud encryption in UK following backdoor demand",
+    "description": "Apple removed iCloud\u2019s Advanced Data Protection in the UK after the government requested encryption backdoor access. Apple ends iCloud end-to-end encryption in the United Kingdom following the government\u2019s request for encryption backdoor access. Advanced Data\u2026",
+    "link": "https://securityaffairs.com/174500/security/apple-removes-icloud-encryption-in-uk.html",
+    "timestamp": "2025-02-22T11:50:56Z"
+  },
+  {
     "title": "Sinn F\u00e9in\u2019s White House boycott is \u2018manoeuvre\u2019 for O\u2019Neill\u2019s Irish presidency bid, DUP says",
     "description": "Sinn F\u00e9in taking \u2018principled stance\u2019 against Trump\u2019s suggestion to remove Palestinians from Gaza",
     "link": "https://www.irishtimes.com/politics/2025/02/22/sinn-feins-white-house-boycott-is-manoeuvre-for-oneills-irish-presidency-bid-dup-says/",
@@ -556,11 +562,5 @@
     "description": "One possible explanation of Trump\u2019s behaviour is that he sees China as the US\u2019s principal adversary and hopes to prise Russia away from its influence",
     "link": "https://www.irishtimes.com/opinion/2025/02/22/zelenskiy-down-europeans-out-why-is-trump-playing-right-into-russias-hands-on-ukraine/",
     "timestamp": "2025-02-22T06:00:22Z"
-  },
-  {
-    "title": "Trump is shattering the European diplomatic and political landscape",
-    "description": "Worldview: Europe can respond by developing links with China, Africa and the middle powers now asserting their role",
-    "link": "https://www.irishtimes.com/opinion/2025/02/22/trump-is-shattering-the-european-diplomatic-and-political-landscape/",
-    "timestamp": "2025-02-22T06:00:00Z"
   }
 ]
