@@ -1,5 +1,83 @@
 [
   {
+    "title": "EU\u2019s von der Leyen pushes trade deal with India",
+    "description": "The bloc is looking to ink a free-trade agreement with New Delhi by the end of 2025, after a nine-year gap in negotiations Read Full Article at RT.com",
+    "link": "https://www.rt.com/india/613449-eu-india-free-trade-deal/",
+    "timestamp": "2025-02-28T14:35:33Z"
+  },
+  {
+    "title": "LGBTQ Domestic Violence Nonprofits Fight Back Amid Trump\u2019s Attacks on Funding",
+    "description": "But given the executive orders, \u201cthere\u2019s no universe in which some of the work doesn\u2019t take a hit,\u201d says one leader.",
+    "link": "https://19thnews.org/2025/02/lgbtq-domestic-violence-services-federal-funds-trump/",
+    "timestamp": "2025-02-28T14:32:42Z"
+  },
+  {
+    "title": "Canada's Oil Heartland Sees Trade War Sparking Budget Shortfall",
+    "description": "Alberta is projecting its first budget deficit after four years of surpluses.",
+    "link": "https://www.rigzone.com/news/wire/canadas_oil_heartland_sees_trade_war_sparking_budget_shortfall-28-feb-2025-179779-article/",
+    "timestamp": "2025-02-28T14:32:11Z"
+  },
+  {
+    "title": "How the Tate brothers won US backing for their release",
+    "description": "\u2018Manosphere\u2019 links with Trump\u2019s circle preceded push for Romania to lift travel ban",
+    "link": "https://www.irishtimes.com/world/us/2025/02/28/how-the-tate-brothers-won-us-backing-for-their-release/",
+    "timestamp": "2025-02-28T14:31:31Z"
+  },
+  {
+    "title": "Money and attitude",
+    "description": "The famous Hollywood agent Irving \u201cSwifty\u201d Lazar once gave a protege the following advice: In this life you must acquire either fuck you money or fuck you attitude. An autocratic plutocracy, which is what America is on the verge of becoming with breathtaking \u2026",
+    "link": "https://www.lawyersgunsmoneyblog.com/2025/02/money-and-attitude",
+    "timestamp": "2025-02-28T14:31:19Z"
+  },
+  {
+    "title": "US consumers cut spending in January more drastically than at any point in the last four years",
+    "description": "A key price gauge declined last month, a sign that inflation may be cooling though stiff tariffs threatened by the White House threaten that progress",
+    "link": "https://abcnews.go.com/Business/wireStory/us-consumers-cut-spending-january-drastically-point-years-119287923",
+    "timestamp": "2025-02-28T14:30:30Z"
+  },
+  {
+    "title": "Denmark's biggest retail group is adding 'European' labels to products, as locals sour on buying American goods",
+    "description": "A spokesperson told BI that buyers had asked for greater clarity, but weren't rejecting US goods. It comes amid tensions over Trump's statements.",
+    "link": "https://www.businessinsider.com/denmark-stores-label-european-goods-trump-comments-greenland-us-sentiment-2025-2",
+    "timestamp": "2025-02-28T14:30:26Z"
+  },
+  {
+    "title": "No new bombshells in Justice Department's release of Jeffrey Epstein files",
+    "description": "The first wave of files posted on the Justice Department website have largely been circulating for years and didn't include any new bombshells about the sex trafficking case.",
+    "link": "https://roanoke.com/news/nation-world/article_dd18c3b5-895d-516e-947c-9aabf086b923.html",
+    "timestamp": "2025-02-28T14:30:00Z"
+  },
+  {
+    "title": "China's Solar Boom Is Slowing Down",
+    "description": "Trump Cancels Venezuela Waiver, Adding to Chevron\u2019s Headache - US President Donald Trump has now turned to restrict Venezuela\u2019s oil industry, reversing a 2022 general license that allowed Chevron to boost its production in the South American country to more t\u2026",
+    "link": "https://oilprice.com/Energy/Energy-General/China-Solar-Boom-Is-Slowing-Down.html",
+    "timestamp": "2025-02-28T14:30:00Z"
+  },
+  {
+    "title": "Migrants expelled from U.S. to Costa Rica, Panama in a legal 'black hole'",
+    "description": "Officials in Costa Rica and Panama are confiscating migrants' passports and cellphones, denying them access to legal services and moving them between remote outposts as they wrestle with the logistics of a suddenly reversed migration flow.",
+    "link": "https://www.cbc.ca/news/world/costa-rica-panama-us-migrants-1.7471142",
+    "timestamp": "2025-02-28T14:29:24Z"
+  },
+  {
+    "title": "Magic head designer affirms game\u2019s diversity efforts: It \u2018means something to people\u2019",
+    "description": "Earlier this February, a Magic: The Gathering player on Tumblr asked the collectible card game\u2019s head designer, Mark Rosewater\u2026 well, it\u2019s more of a comment than a question: \u201cI want to speak out against the whole push towards DEI. I feel that ever since you m\u2026",
+    "link": "https://www.polygon.com/mtg-magic-the-gathering/529744/mtg-mark-rosewater-dei-statement-magiccon-2025",
+    "timestamp": "2025-02-28T14:28:54Z"
+  },
+  {
+    "title": "John Morgan Wants New Political Party, May Run for Governor of Florida",
+    "description": "The man who has been as much of a litigation nemesis to Florida property and casualty insurers as anyone is launching a new political party and may even run for governor next year. Orlando-based trial lawyer John Morgan, head of \u2026",
+    "link": "https://www.insurancejournal.com/news/southeast/2025/02/28/813782.htm",
+    "timestamp": "2025-02-28T14:28:45Z"
+  },
+  {
+    "title": "'T\u00fcrkiye is indispensable for the EU': Former Spanish FM",
+    "description": "Spain\u2019s former foreign minister on Friday underscored T\u00fcrkiye\u2019s growing geopolitical influence and strategic importance for the European Union.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-is-indispensable-for-the-eu-former-spanish-fm-206377",
+    "timestamp": "2025-02-28T14:27:09Z"
+  },
+  {
     "title": "An under-the-radar import rule means Trump's China tariffs could hurt the US more than expected",
     "description": "The White House is eyeing an end to the de minimis import rule. \"U.S. consumers could face larger consequences than meet the eye,\" the New York Fed wrote.",
     "link": "https://www.businessinsider.com/trump-tariffs-china-imports-inflation-trade-war-consumers-fed-2025-2",
@@ -490,77 +568,5 @@
     "description": "From D\u00e1il speaking rights row to the German elections, it's your essential end-of-week politics catch-up",
     "link": "https://www.irishtimes.com/politics/2025/02/28/europes-leaders-lined-up-to-sway-trump-on-ukraine-but-did-it-work/",
     "timestamp": "2025-02-28T13:10:06Z"
-  },
-  {
-    "title": "Outrage and protests in Iowa as lawmakers pass bill removing trans civil rights protections",
-    "description": "Hundreds of Iowa residents have filled the Iowa Capitol building waving Pride flags to protest an anti-trans bill that seeks to remove gender identity as a protected class in the state\u2019s civil rights act. Iowa House members voted 60-36 on Thursday to pass Sen\u2026",
-    "link": "https://www.thepinknews.com/2025/02/28/iowa-trans-bill-protests/",
-    "timestamp": "2025-02-28T13:09:57Z"
-  },
-  {
-    "title": "How to Turn an \u201cEconomic Blackout\u201d Into an All-Out War on Corporate Power",
-    "description": "Friday\u2019s economic boycott is a one-day attack on corporate interests. The degrowth movement calls for a broader societal shift.\nThe post How to Turn an \u201cEconomic Blackout\u201d Into an All-Out War on Corporate Power appeared first on The Intercept.",
-    "link": "https://theintercept.com/2025/02/28/no-buy-nothing-corporation-boycott-capitalism-degrowth/",
-    "timestamp": "2025-02-28T13:09:34Z"
-  },
-  {
-    "title": "Six major tech lawsuits to keep tabs on in 2025",
-    "description": "Tech giants will head to court to address antitrust cases, data privacy, content moderation and copyright. These cases may set key legal precedents for the future of tech.",
-    "link": "https://www.techtarget.com/whatis/feature/Major-tech-lawsuits-to-keep-tabs-on",
-    "timestamp": "2025-02-28T13:08:00Z"
-  },
-  {
-    "title": "The Tates and Trump's inner circle: How the deepening ties led to controversial influencers flying to freedom",
-    "description": "On 7 November 2024, days after Donald Trump was elected president, Andrew Tate posted a prediction on X.",
-    "link": "https://news.sky.com/story/the-tates-and-trumps-inner-circle-the-deepening-ties-that-led-to-the-controversial-influencers-flying-to-freedom-in-america-13318676",
-    "timestamp": "2025-02-28T13:06:00Z"
-  },
-  {
-    "title": "Meeting Cancellations Mount as Trump Administration Orders Take Effect",
-    "description": "The Providence Warwick Convention & Visitors Bureau in Rhode Island received its first business meeting cancellation on January 27. The conference, A growing wave of meeting cancellations signals trouble for the business events industry. Providence is one des\u2026",
-    "link": "http://meetings.skift.com/2025/02/28/meeting-cancellations-mount-as-trump-administration-orders-take-effect/",
-    "timestamp": "2025-02-28T13:05:52Z"
-  },
-  {
-    "title": "Majority of US Republicans hostile to Zelensky \u2013 poll",
-    "description": "The unfavorable perception of Zelensky among Republicans rose from 40% to 56% in just one week, according to an Economist/YouGov poll Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/613442-majority-republicans-hostile-zelensky/",
-    "timestamp": "2025-02-28T13:05:40Z"
-  },
-  {
-    "title": "UK minister quits after Keir Starmer slashes aid to boost defense spending",
-    "description": "Anneliese Dodds said it would be \"impossible to maintain\" support in Sudan, Ukraine and Gaza \u2014 and warned Russia may take advantage of the cuts.",
-    "link": "https://www.politico.eu/article/uk-minister-anneliese-dodds-quit-keir-starmer-slashe-aid-boost-defense-spending/",
-    "timestamp": "2025-02-28T13:05:01Z"
-  },
-  {
-    "title": "How Elon Musk has lost \u00a341,000,000,000 since the start of 2025",
-    "description": "Elon Musk's net worth has plummeted by $52 billion (\u00a341 billion) due to a worldwide slump in Tesla sales, however he remains the world's richest man.",
-    "link": "https://www.ladbible.com/news/technology/elon-musk-tesla-stock-net-worth-decline-104028-20250228",
-    "timestamp": "2025-02-28T13:03:50Z"
-  },
-  {
-    "title": "India and EU commit to year-end deadline for a free trade pact, amid Trump tariff threats",
-    "description": "India and the European Union have committed to finalizing a free trade agreement by year's end, aiming to mitigate impacts of U.S. tariff hikes. The deal, covering sectors like technology and green growth, demands significant concessions from both sides, with\u2026",
-    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-and-eu-commit-to-year-end-deadline-for-a-free-trade-pact-amid-trump-tariff-threats/articleshow/118630385.cms",
-    "timestamp": "2025-02-28T13:03:06Z"
-  },
-  {
-    "title": "Trump Says Border Tariffs on Canada, Mexico Coming Into Force on March 4",
-    "description": "President Donald Trump said his administration will go ahead with 25 percent tariffs on Canada and Mexico on March 4, saying the two countries have not done enough on drug smuggling.\nIn a post on his Truth Social platform on \u2026\nThe post Trump Says Border Tarif\u2026",
-    "link": "https://www.globalresearch.ca/trump-border-tariffs-canada-mexico-march-4/5881096",
-    "timestamp": "2025-02-28T13:02:19Z"
-  },
-  {
-    "title": "UK's international development minister quits after foreign aid cut",
-    "description": "The British Cabinet minister responsible for international development has quit in the wake of Prime Minister Keir Starmer\u2019s decision earlier this week to ramp up defense spending by slashing the foreign aid budget",
-    "link": "https://abcnews.go.com/International/wireStory/uks-international-development-minister-quits-after-foreign-aid-119285846",
-    "timestamp": "2025-02-28T13:02:15Z"
-  },
-  {
-    "title": "Live updates: Trump and Zelensky meeting devolves into shouting match over Ukraine war | CNN Politics",
-    "description": "A meeting between President Donald Trump and President Volodymyr Zelensky devolved into a shouting match at the Oval Office today, with the US president berating Ukraine\u2019s leader and Vice President JD Vance questioning whether Zelensky had demonstrated enough\u2026",
-    "link": "https://www.cnn.com/politics/live-news/trump-zelensky-news-02-28-25/index.html",
-    "timestamp": "2025-02-28T13:01:39Z"
   }
 ]
