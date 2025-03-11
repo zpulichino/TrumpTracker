@@ -1,5 +1,53 @@
 [
   {
+    "title": "Jim Cramer explains why the White House sent Wall Street into a panic",
+    "description": "CNBC's Jim Cramer opined on how President Donald Trump helped cause Monday's intense decline.",
+    "link": "https://www.cnbc.com/2025/03/10/jim-cramer-explains-why-the-white-house-sent-wall-street-into-a-panic.html",
+    "timestamp": "2025-03-10T23:49:05Z"
+  },
+  {
+    "title": "Oracle misses expectations and guidance was also weak, sending its stock lower",
+    "description": "Shares of the database giant Oracle Corp. were heading lower in extended trading today after it missed analysts\u2019 expectations for its latest financial results. The company did reiterate its bullish stance on artificial intelligence and the prospects for its c\u2026",
+    "link": "https://siliconangle.com/2025/03/10/oracle-misses-expectations-guidance-also-weak-sending-stock-lower/",
+    "timestamp": "2025-03-10T23:48:17Z"
+  },
+  {
+    "title": "Why is the ASX 200 down so much today?",
+    "description": "ASX 200 investors are overheating their sell buttons today. But why?\nThe post Why is the ASX 200 down so much today? appeared first on The Motley Fool Australia.",
+    "link": "https://www.fool.com.au/2025/03/11/why-is-the-asx-200-down-so-much-today/",
+    "timestamp": "2025-03-10T23:47:46Z"
+  },
+  {
+    "title": "Judge temporarily blocks effort to deport Palestinian activist who helped lead Columbia student protests",
+    "description": "A federal judge in New York has blocked any efforts by President Donald Trump\u2019s administration to deport Mahmoud Khalil, a Columbia university graduate and Palestinian activist who was arrested Saturday night until a conference Wednesday, according to court d\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4303437/posts",
+    "timestamp": "2025-03-10T23:47:36Z"
+  },
+  {
+    "title": "VOA Mandarin: DRC wants mineral deal with US, potential check on China's dominance",
+    "description": "U.S. President Donald Trump, in a speech last week, vowed to take \u201chistoric action\u201d to \u201cdramatically expand production of critical minerals and rare earths.\u201d The latest announcement came as the Democratic Republic of Congo approached the United States to stri\u2026",
+    "link": "https://www.voanews.com/a/voa-mandarin-drc-wants-a-mineral-deal-with-the-us-a-potential-check-on-china-s-dominance-/8005974.html",
+    "timestamp": "2025-03-10T23:46:33Z"
+  },
+  {
+    "title": "WATCH: Senate confirms Lori Chavez-DeRemer, Trump\u2019s nominee for labor secretary",
+    "description": "The Cabinet position puts her in charge of enforcing federally mandated worker rights and protections at a time when the White House is trying to eliminate thousands of government employees.",
+    "link": "https://www.pbs.org/newshour/politics/watch-senate-confirms-lori-chavez-deremer-trumps-nominee-for-labor-secretary",
+    "timestamp": "2025-03-10T23:45:51Z"
+  },
+  {
+    "title": "Sean Curran, agent who protected Trump at Butler rally, sworn in as new US Secret Service director",
+    "description": "President Donald Trump's pick to lead the Secret Service, Sean Curran, was sworn into the role on Monday in the Oval Office.",
+    "link": "https://www.foxnews.com/politics/sean-curran-agent-protected-trump-butler-rally-sworn-new-us-secret-service-director",
+    "timestamp": "2025-03-10T23:45:06Z"
+  },
+  {
+    "title": "Experts fear cascade of nuclear proliferation as Trump shakes alliances",
+    "description": "U.S. allies contemplate the once-unthinkable: building their own nuclear arsenals.",
+    "link": "https://www.defenseone.com/threats/2025/03/experts-fear-cascade-nuclear-proliferation-trump-shakes-alliances/403633/",
+    "timestamp": "2025-03-10T23:44:47Z"
+  },
+  {
     "title": "White House: Stock market plunge is not as 'meaningful' as business activity",
     "description": "The Trump administration argues that investments and growth from top businesses means more for the economy than the recent stock market rout.",
     "link": "https://www.cnbc.com/2025/03/10/white-house-stock-market-sell-off-animal-spirits.html",
@@ -96,15 +144,15 @@
     "timestamp": "2025-03-10T23:29:00Z"
   },
   {
-    "title": "As an American Jew, I Feel Completely Reassured for My Safety Now That Trump Has Targeted the Epicenter of American Anti-Semitism, Columbia University",
-    "description": "\u201cThe Trump administration said Friday that it\u2019s pulling $400 million from Columbia University, canceling grants and contracts because of what the government describes as the Ivy League school\u2019s failure to squelch antisemitism on campus.\u201d \u2014 AP - - -What with a\u2026",
-    "link": "https://www.mcsweeneys.net/articles/as-an-american-jew-i-feel-completely-reassured-for-my-safety-now-that-trump-has-targeted-the-epicenter-of-american-anti-semitism-columbia-university",
-    "timestamp": "2025-03-10T23:29:00Z"
-  },
-  {
     "title": "As an American Jew, I Feel Completely Reassured for My Safety Now That Trump Has Targeted the Epicenter of American Antisemitism, Columbia University",
     "description": "\u201cThe Trump administration said Friday that it\u2019s pulling $400 million from Columbia University, canceling grants and contracts because of what the government describes as the Ivy League school\u2019s failure to squelch antisemitism on campus.\u201d \u2014 AP - - -What with a\u2026",
     "link": "https://www.mcsweeneys.net/articles/as-an-american-jew-i-feel-completely-reassured-for-my-safety-now-that-trump-has-targeted-the-epicenter-of-american-antisemitism-columbia-university",
+    "timestamp": "2025-03-10T23:29:00Z"
+  },
+  {
+    "title": "As an American Jew, I Feel Completely Reassured for My Safety Now That Trump Has Targeted the Epicenter of American Anti-Semitism, Columbia University",
+    "description": "\u201cThe Trump administration said Friday that it\u2019s pulling $400 million from Columbia University, canceling grants and contracts because of what the government describes as the Ivy League school\u2019s failure to squelch antisemitism on campus.\u201d \u2014 AP - - -What with a\u2026",
+    "link": "https://www.mcsweeneys.net/articles/as-an-american-jew-i-feel-completely-reassured-for-my-safety-now-that-trump-has-targeted-the-epicenter-of-american-anti-semitism-columbia-university",
     "timestamp": "2025-03-10T23:29:00Z"
   },
   {
@@ -532,53 +580,5 @@
     "description": "The horrid rollout for Disney's \"Snow White\"\u00a0continues to bomb as the $250 million-plus film's\u00a0latest trailer is bombarded with negative reviews, promises to boycott, and rebukes for its much-maligned star, Rachel Zegler.\nThe post Disney\u2019s Latest \u2018Snow White\u2019\u2026",
     "link": "https://www.breitbart.com/entertainment/2025/03/10/disneys-latest-snow-white-trailer-hit-with-negative-reviews-as-ticket-pre-sale-begins/",
     "timestamp": "2025-03-10T22:27:29Z"
-  },
-  {
-    "title": "\u2018Worst-Case Scenario\u2019: Canada Trades Trudeau For Another \u2026 Trudeau",
-    "description": "Newly elected Canadian Liberal Party leader Mark Carney is positioned to succeed Justin Trudeau as Prime Minister.",
-    "link": "https://dailycaller.com/2025/03/10/canada-trades-trudeau-mark-carney/",
-    "timestamp": "2025-03-10T22:26:53Z"
-  },
-  {
-    "title": "Trump vows crackdown on pro-Palestinian protesters",
-    "description": "U.S. President Donald Trump vowed a new crackdown Monday on pro-Palestinian protesters on American college campuses, saying the detention of Mahmoud Khalil, a demonstration leader at Columbia University in New York, is \"the first arrest of many to come.\"\n\n\n\"W\u2026",
-    "link": "https://www.voanews.com/a/trump-vows-crackdown-on-pro-palestinian-protesters/8005926.html",
-    "timestamp": "2025-03-10T22:26:24Z"
-  },
-  {
-    "title": "ICE Arrests Mahmoud Khalil, Palestinian Activist With Green Card Linked To Columbia Protests",
-    "description": "Immigration and Customs Enforcement agents arrested Mahmoud Khalil over the weekend, reportedly on the direction of the State Department, according to his attorney. Khalil's whereabouts are unknown, attorney Amy Greer said in a statement.",
-    "link": "https://hiphopwired.com/2642860/ice-arrests-mahmoud-khalil-palestinian-activist-with-green-card-linked-to-columbia-protests/",
-    "timestamp": "2025-03-10T22:26:02Z"
-  },
-  {
-    "title": "Election of the Day: Greenland",
-    "description": "On Tuesday, Greenlanders will vote to select a new Inatsisartut, the parliament of this autonomous, constituent country in the realm of the Kingdom of Denmark. Danish interests in Greenland date back over 300 years, to Hans Egede\u2019s joint mercantile/clerical e\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2025/03/election-of-the-day-greenland",
-    "timestamp": "2025-03-10T22:24:37Z"
-  },
-  {
-    "title": "Massie says he's a 'NO' on Trump-endorsed government funding measure: 'Unless I get a lobotomy'",
-    "description": "As the deadline to avert a partial government shutdown approaches and President Donald Trump urges Republicans to support passage of a funding measure, Rep. Thomas Massie, R-Ky., has declared that he will oppose the proposal. \"Unless I get a lobotomy Monday t\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4303410/posts",
-    "timestamp": "2025-03-10T22:23:18Z"
-  },
-  {
-    "title": "Democrats Aim to \u2018Score Cheap Political Points\u2019 on Shutdown, House GOP Leader Says",
-    "description": "House Republicans are looking to pass a continuing resolution on Tuesday to keep the government running. If a resolution isn\u2019t passed by Friday, then nonessential... Read More\nThe post Democrats Aim to \u2018Score Cheap Political Points\u2019 on Shutdown, House GOP Lea\u2026",
-    "link": "https://www.dailysignal.com/2025/03/10/democrats-aim-to-score-cheap-political-points-on-shutdown-house-gop-leader-says/",
-    "timestamp": "2025-03-10T22:23:17Z"
-  },
-  {
-    "title": "Bernie Sanders\u2019 trans rally \u2014 not Gavin Newsom\u2019s flip \u2014 shows where Democrats truly stand",
-    "description": "The only way Democrats can earn back Americans\u2019 trust is by directly repudiating themselves \u2014 and their own extreme policies.",
-    "link": "https://nypost.com/2025/03/10/opinion/bernie-sanders-trans-rally-not-gavin-newsoms-flip-shows-where-democrats-truly-stand/",
-    "timestamp": "2025-03-10T22:22:13Z"
-  },
-  {
-    "title": "Roundup: U.S. stocks slump as recession risks weigh on investors",
-    "description": "by Benny Xie Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/03/11/roundup-us-stocks-slump-as-recession-risks-weigh-on-investors",
-    "timestamp": "2025-03-10T22:22:00Z"
   }
 ]
