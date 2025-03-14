@@ -1,5 +1,47 @@
 [
   {
+    "title": "Wife of detained Palestinian Columbia student says she was naive to believe he was safe from arrest",
+    "description": "The wife of Mahmoud Khalil, the Columbia University student and Palestinian activist, said she didn't think she and her husband, a legal U.S. permanent resident, would have to worry about immigration agents coming to their door.",
+    "link": "https://www.cbc.ca/news/world/mahmoud-khalil-wife-1.7482335",
+    "timestamp": "2025-03-13T11:36:28Z"
+  },
+  {
+    "title": "Russia Rejects Trump's Temporary Ukraine Ceasefire Offer",
+    "description": "The U.S. is proposing a 30-day ceasefire that was agreed with Ukraine.",
+    "link": "https://www.newsweek.com/russia-rejects-trump-temporary-ceasefire-ukraine-2044077",
+    "timestamp": "2025-03-13T11:35:19Z"
+  },
+  {
+    "title": "Tesla Gains $56 Billion After Donald Trump's Endorsement",
+    "description": "The company's shares climbed 7.6 percent on Wednesday after Trump and Elon Musk hosted a Tesla showcase at the White House.",
+    "link": "https://www.newsweek.com/tesla-gains-56-billion-trump-endorsement-elon-musk-2044015",
+    "timestamp": "2025-03-13T11:33:31Z"
+  },
+  {
+    "title": "South Africa-EU summit centers on boosting trade and diplomatic ties",
+    "description": "Senior European Union officials are in South Africa for a summit with President Cyril Ramaphosa that centers on bolstering trade and diplomatic ties as both feel the impact of the Trump administration\u2019s confrontational foreign policy",
+    "link": "https://abcnews.go.com/International/wireStory/south-africa-eu-summit-centers-boosting-trade-diplomatic-119745190",
+    "timestamp": "2025-03-13T11:31:02Z"
+  },
+  {
+    "title": "China is taking issue with Trump's move to link tariffs to fentanyl",
+    "description": "China is taking issue with Trump's move to link tariffs to fentanyl\nU.S. President Donald Trump threw a curve ball at China by linking the fentanyl issue to his tariffs on imports\nBEIJING -- U.S. President Donald Trump threw a curve ball at China by linking t\u2026",
+    "link": "https://biztoc.com/x/d63ce319813a55a7",
+    "timestamp": "2025-03-13T11:30:49Z"
+  },
+  {
+    "title": "US Negotiators To Set Out Ukraine Truce Plan To Russia",
+    "description": "US negotiators travelled to Russia on Thursday to present their plan for a 30-day ceasefire in Ukraine, as Washington pushed Moscow for an \"unconditional\" pause to the three-year conflict.",
+    "link": "https://www.ibtimes.com/us-negotiators-set-out-ukraine-truce-plan-russia-3766157",
+    "timestamp": "2025-03-13T11:30:24Z"
+  },
+  {
+    "title": "A former Washington Post columnist writes about her exit from the paper",
+    "description": "Earlier this week, The Washington Post lost another high-profile, well-respected journalist. Ruth Marcus, an influential columnist and Post veteran of 40 years, resigned in protest after one of her columns [\u2026]\nThe post A former Washington Post columnist write\u2026",
+    "link": "https://www.poynter.org/commentary/2025/ruth-marcus-will-lewis-ceo-meeting-refused/",
+    "timestamp": "2025-03-13T11:30:08Z"
+  },
+  {
     "title": "Ana Navarro Burns Shark Tank Star\u2019s Rosie O\u2019Donnell Tirade With One Cutting Observation",
     "description": "CNN NewsNight panelist Ana Navarro torched Shark Tank entrepreneur Kevin O\u2019Leary\u2019s brutal \u201cwho cares?\u201d swipe at \u201ccelebrity\u201d Rosie O\u2019Donnell\u2019s political views with one cutting observation \u2013 he\u2019s a celebrity now too! O\u2019Donnell revealed on Wednesday in a TikTok \u2026",
     "link": "https://www.mediaite.com/tv/ana-navarro-burns-shark-tank-stars-rosie-odonnell-tirade-with-one-cutting-observation/",
@@ -270,15 +312,15 @@
     "timestamp": "2025-03-13T11:00:00Z"
   },
   {
-    "title": "Trump's DOJ investigating Vindman, freshman congressman pushes back",
-    "description": "Washington Post article: U.S. Attorney demands Vindman provide info about business founded by him and his brother \u201cto help arm Ukraine to fight Russia.\u201d",
-    "link": "https://starexponent.com/news/local/government-politics/article_4e01688e-ff41-11ef-8684-1f586216aa8c.html",
-    "timestamp": "2025-03-13T11:00:00Z"
-  },
-  {
     "title": "Scientists issue critical warning after linking common appliance to major health risk: 'The problem is far worse than we thought'",
     "description": "\"[These] push homes into the danger zone.\u201d",
     "link": "https://www.yahoo.com/news/scientists-issue-critical-warning-linking-110000931.html",
+    "timestamp": "2025-03-13T11:00:00Z"
+  },
+  {
+    "title": "Trump's DOJ investigating Vindman, freshman congressman pushes back",
+    "description": "Washington Post article: U.S. Attorney demands Vindman provide info about business founded by him and his brother \u201cto help arm Ukraine to fight Russia.\u201d",
+    "link": "https://starexponent.com/news/local/government-politics/article_4e01688e-ff41-11ef-8684-1f586216aa8c.html",
     "timestamp": "2025-03-13T11:00:00Z"
   },
   {
@@ -520,41 +562,5 @@
     "description": "Some countries are fighting back with retaliatory tariffs, others are seeking exemptions and are trying to negotiate.",
     "link": "https://www.aljazeera.com/news/2025/3/13/trumps-steel-aluminium-tariffs-how-are-targeted-countries-responding",
     "timestamp": "2025-03-13T10:16:44Z"
-  },
-  {
-    "title": "Apple Shares Are Losing Haven Allure as Headwinds Deter Bulls",
-    "description": "(Bloomberg) -- For years, investors have talked of Apple Inc. as a potential port of safety in times of market turmoil. That hasn\u2019t been borne out this time ...",
-    "link": "https://finance.yahoo.com/news/apple-shares-losing-haven-allure-101623105.html",
-    "timestamp": "2025-03-13T10:16:23Z"
-  },
-  {
-    "title": "China is taking issue with Trump\u2019s move to link tariffs to fentanyl",
-    "description": "BEIJING (AP) \u2014 U.S. President Donald Trump threw a curve ball at China by linking the fentanyl issue to his tariffs on imports. The Chinese government is swinging back. First it issued a report detailing its efforts to control the illegal trade in fentanyl, s\u2026",
-    "link": "https://financialpost.com/pmn/china-is-taking-issue-with-trumps-move-to-link-tariffs-to-fentanyl",
-    "timestamp": "2025-03-13T10:16:21Z"
-  },
-  {
-    "title": "US agencies face Thursday deadline to submit mass layoff plans",
-    "description": "(Reuters) -The potential scale of President Donald Trump's efforts to shrink the U.S. federal government could become clearer on Thursday, the deadline for government agencies to submit plans for a second wave of mass layoffs and to slash their budgets. Read \u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/03/13/us-agencies-face-thursday-deadline-to-submit-mass-layoff-plans",
-    "timestamp": "2025-03-13T10:16:00Z"
-  },
-  {
-    "title": "Moulton: Attacks on Teslas, Dealerships Are 'a Protest'",
-    "description": "On Wednesday\u2019s broadcast of \u201cCNN This Morning,\u201d Rep. Seth Moulton (D-MA) responded to the Trump administration stating that attacks on Teslas or Tesla dealerships could be domestic terrorism by stating that President Donald Trump believes that \u201csomehow, havin\u2026",
-    "link": "https://www.breitbart.com/clips/2025/03/13/moulton-attacks-on-teslas-dealerships-are-a-protest/",
-    "timestamp": "2025-03-13T10:15:50Z"
-  },
-  {
-    "title": "MSNBC's Melber: People Committing Anti-Tesla Violence Are 'People Who Protest' Tesla",
-    "description": "On Wednesday\u2019s broadcast of MSNBC\u2019s \u201cThe Beat,\u201d host Ari Melber argued that President Donald Trump stating that he would classify violence against Teslas or Tesla dealerships as domestic terrorism is him labeling \u201cpeople who protest Tesla\u201d domestic terrorists\u2026",
-    "link": "https://www.breitbart.com/clips/2025/03/13/msnbcs-melber-people-committing-anti-tesla-violence-are-people-who-protest-tesla/",
-    "timestamp": "2025-03-13T10:15:45Z"
-  },
-  {
-    "title": "Russia says it retook key town in Kursk region ahead of US talks",
-    "description": "<p>Russia said it expelled Ukrainian troops from a key town in the Kursk region ahead of talks with the US, bringing President Vladimir Putin closer to his goal of completely dislodging Kyiv&rsquo;s forces from his country.</p>",
-    "link": "https://www.bangkokpost.com/world/2979270/russia-says-it-retook-key-town-in-kursk-region-ahead-of-us-talks",
-    "timestamp": "2025-03-13T10:15:00Z"
   }
 ]
