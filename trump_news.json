@@ -278,7 +278,7 @@
   {
     "title": "Taoiseach to focus on trade on fourth day of US trip following Oval Office meeting with Donald Trump",
     "description": "Taoiseach Miche\u00e1l Martin met US president Donald Trump yesterday in a hotly anticipated meeting as part of St Patrick\u2019s Day celebrations. His visit today continues with trade and enterprise events.",
-    "link": "https://www.independent.ie/irish-news/politics/taoiseach-to-focus-on-trade-on-fourth-day-of-us-trip-following-oval-office-meeting-with-donald-trump/a438244273.html",
+    "link": "https://www.independent.ie/irish-news/taoiseach-to-focus-on-trade-on-fourth-day-of-us-trip-following-oval-office-meeting-with-donald-trump/a438244273.html",
     "timestamp": "2025-03-13T06:15:00Z"
   },
   {
@@ -290,7 +290,7 @@
   {
     "title": "Taoiseach to focus on trade on fourth day of US trip following Oval Office meeting with Donald Trump",
     "description": "Taoiseach Miche\u00e1l Martin met US president Donald Trump yesterday in a hotly anticipated meeting as part of St Patrick\u2019s Day celebrations. His visit today continues with trade and enterprise events.",
-    "link": "https://www.independent.ie/irish-news/taoiseach-to-focus-on-trade-on-fourth-day-of-us-trip-following-oval-office-meeting-with-donald-trump/a438244273.html",
+    "link": "https://www.independent.ie/irish-news/politics/taoiseach-to-focus-on-trade-on-fourth-day-of-us-trip-following-oval-office-meeting-with-donald-trump/a438244273.html",
     "timestamp": "2025-03-13T06:15:00Z"
   },
   {
@@ -306,15 +306,15 @@
     "timestamp": "2025-03-13T06:15:00Z"
   },
   {
-    "title": "\u2018Don\u2019t hesitate to pick up the phone\u2019 \u2013 Donald Trump tells Taoiseach following Oval Office meeting",
-    "description": "Taoiseach Miche\u00e1l Martin met US president Donald Trump yesterday in a hotly anticipated meeting as part of St Patrick\u2019s Day celebrations. His visit today continues with trade and enterprise events.",
-    "link": "https://www.independent.ie/irish-news/politics/dont-hesitate-to-pick-up-the-phone-donald-trump-tells-taoiseach-following-oval-office-meeting/a438244273.html",
-    "timestamp": "2025-03-13T06:15:00Z"
-  },
-  {
     "title": "Donald Trump threatens to impose 200pc tariff on EU alcohol",
     "description": "Taoiseach Miche\u00e1l Martin met US president Donald Trump yesterday in a hotly anticipated meeting as part of St Patrick\u2019s Day celebrations. His visit today continues with trade and enterprise events.",
     "link": "https://www.independent.ie/irish-news/donald-trump-threatens-to-impose-200pc-tariff-on-eu-alcohol/a438244273.html",
+    "timestamp": "2025-03-13T06:15:00Z"
+  },
+  {
+    "title": "\u2018Don\u2019t hesitate to pick up the phone\u2019 \u2013 Donald Trump tells Taoiseach following Oval Office meeting",
+    "description": "Taoiseach Miche\u00e1l Martin met US president Donald Trump yesterday in a hotly anticipated meeting as part of St Patrick\u2019s Day celebrations. His visit today continues with trade and enterprise events.",
+    "link": "https://www.independent.ie/irish-news/politics/dont-hesitate-to-pick-up-the-phone-donald-trump-tells-taoiseach-following-oval-office-meeting/a438244273.html",
     "timestamp": "2025-03-13T06:15:00Z"
   },
   {
@@ -414,6 +414,12 @@
     "timestamp": "2025-03-13T06:00:23Z"
   },
   {
+    "title": "Taiwan Affairs Office slams DPP for 'selling out' Taiwan amid concerns of TSMC becoming USMC in island",
+    "description": "In response to a recent joint announcement by US President Donald Trump and Taiwan Semiconductor Manufacturing Co (TSMC) CEO C.C. Wei that TSMC will invest at least another $100 billion in the US, sparking concerns on the island that TSMC is turning into \"USM\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250312-globaltimes10.htm",
+    "timestamp": "2025-03-13T06:00:23Z"
+  },
+  {
     "title": "Kremlin Says It's Waiting For Details Of Ukraine Cease-Fire Deal",
     "description": "Russia reacted cautiously to a proposed cease-fire agreement announced by Ukrainian and US negotiators and held out the possibility of a phone call between presidents Vladimir Putin and Donald Trump in the coming days.",
     "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250312-rferl04.htm",
@@ -438,9 +444,9 @@
     "timestamp": "2025-03-13T06:00:23Z"
   },
   {
-    "title": "Taiwan Affairs Office slams DPP for 'selling out' Taiwan amid concerns of TSMC becoming USMC in island",
-    "description": "In response to a recent joint announcement by US President Donald Trump and Taiwan Semiconductor Manufacturing Co (TSMC) CEO C.C. Wei that TSMC will invest at least another $100 billion in the US, sparking concerns on the island that TSMC is turning into \"USM\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250312-globaltimes10.htm",
+    "title": "Military-Crewed SpaceX Flight Set to Bring Back Astronauts",
+    "description": "The SpaceX Crew-10 mission, which includes two active-duty U.S. military officers, is scheduled to launch from Kennedy Space Center, Florida, today on a quest to bring back a pair of NASA astronauts who have been on the International Space Station since June \u2026",
+    "link": "https://www.globalsecurity.org/space/library/news/2025/space-250312-dodnews01.htm",
     "timestamp": "2025-03-13T06:00:23Z"
   },
   {
@@ -462,21 +468,15 @@
     "timestamp": "2025-03-13T06:00:23Z"
   },
   {
-    "title": "Military-Crewed SpaceX Flight Set to Bring Back Astronauts",
-    "description": "The SpaceX Crew-10 mission, which includes two active-duty U.S. military officers, is scheduled to launch from Kennedy Space Center, Florida, today on a quest to bring back a pair of NASA astronauts who have been on the International Space Station since June \u2026",
-    "link": "https://www.globalsecurity.org/space/library/news/2025/space-250312-dodnews01.htm",
-    "timestamp": "2025-03-13T06:00:23Z"
+    "title": "Trump's call for talks with Iran 'deception': Ayatollah Khamenei",
+    "description": "Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei says a call by US President Donald Trump for negotiations with Iran is nothing but an attempt to \"deceive the world public opinion\" and portray the Islamic Republic as the party not willing to giv\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250312-presstv02.htm",
+    "timestamp": "2025-03-13T06:00:22Z"
   },
   {
     "title": "UAE Delegate Delivers Letter From Trump To Khamenei, Iran Says",
     "description": "Iran said a delegation led by a senior Emirati figure has delivered a letter from US President Donald Trump to the Islamic republic's supreme leader, Ayatollah Ali Khamenei.",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250312-rferl01.htm",
-    "timestamp": "2025-03-13T06:00:22Z"
-  },
-  {
-    "title": "Trump's call for talks with Iran 'deception': Ayatollah Khamenei",
-    "description": "Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei says a call by US President Donald Trump for negotiations with Iran is nothing but an attempt to \"deceive the world public opinion\" and portray the Islamic Republic as the party not willing to giv\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250312-presstv02.htm",
     "timestamp": "2025-03-13T06:00:22Z"
   },
   {
@@ -504,21 +504,15 @@
     "timestamp": "2025-03-13T06:00:22Z"
   },
   {
-    "title": "China will take all necessary measures to defend lawful rights, interests: FM spokesperson",
-    "description": "China will take all necessary measures to defend its lawful rights and interests, Chinese foreign ministry spokesperson Mao Ning stressed on Wednesday.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/china/2025/03/china-250313-pdo01.htm",
-    "timestamp": "2025-03-13T06:00:22Z"
-  },
-  {
     "title": "Iran FM says 'received letter by Trump from Emirati envoy'",
     "description": "Foreign Minister Abbas Araghchi has said a letter from US President Donald Trump had been delivered to him via an envoy from the United Arab Emirates.",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250312-presstv01.htm",
     "timestamp": "2025-03-13T06:00:22Z"
   },
   {
-    "title": "India, Mauritius upgrade strategic ties with eye on China",
-    "description": "India and Mauritius have upgraded their ties, say leaders of both countries \u2014 a move analysts say is aimed at increasing New Delhi's influence in the Indian Ocean as it seeks to counter China's expanding footprint in the region.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-250312-voa01.htm",
+    "title": "Trump imposes additional 25 pct tariffs on steel, aluminum from Canada",
+    "description": "U.S. President Donald Trump said on Tuesday that he will impose an additional 25 percent tariff on steel and aluminum from Canada, raising the total tariff to 50 percent, in response to tariffs on electricity exports from the Canadian province of Ontario.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/canada/2025/canada-250312-globaltimes01.htm",
     "timestamp": "2025-03-13T06:00:22Z"
   },
   {
@@ -528,9 +522,15 @@
     "timestamp": "2025-03-13T06:00:22Z"
   },
   {
-    "title": "Trump imposes additional 25 pct tariffs on steel, aluminum from Canada",
-    "description": "U.S. President Donald Trump said on Tuesday that he will impose an additional 25 percent tariff on steel and aluminum from Canada, raising the total tariff to 50 percent, in response to tariffs on electricity exports from the Canadian province of Ontario.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/canada/2025/canada-250312-globaltimes01.htm",
+    "title": "India, Mauritius upgrade strategic ties with eye on China",
+    "description": "India and Mauritius have upgraded their ties, say leaders of both countries \u2014 a move analysts say is aimed at increasing New Delhi's influence in the Indian Ocean as it seeks to counter China's expanding footprint in the region.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-250312-voa01.htm",
+    "timestamp": "2025-03-13T06:00:22Z"
+  },
+  {
+    "title": "China will take all necessary measures to defend lawful rights, interests: FM spokesperson",
+    "description": "China will take all necessary measures to defend its lawful rights and interests, Chinese foreign ministry spokesperson Mao Ning stressed on Wednesday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2025/03/china-250313-pdo01.htm",
     "timestamp": "2025-03-13T06:00:22Z"
   },
   {
