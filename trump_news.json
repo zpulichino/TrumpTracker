@@ -1,5 +1,23 @@
 [
   {
+    "title": "What's the matter with Tesla?",
+    "description": "Flagging global sales and Elon Musk\u2019s increasingly outspoken political activities are combining to rock the value of Tesla.",
+    "link": "https://www.nbcnews.com/business/business-news/tesla-falling-stock-resale-value-elon-musk-trump-what-to-know-rcna196497",
+    "timestamp": "2025-03-15T10:48:00Z"
+  },
+  {
+    "title": "Democrats End Up Having a Worse Week Than Trump",
+    "description": "\u201cPresident Donald Trump\u2019s week was poised to be bruising,\u201d Politico reports. \u201cInstead, the president is ending it on a political high after he and congressional Republicans closed ranks and, with an assist from the looming",
+    "link": "https://politicalwire.com/2025/03/15/democrats-end-up-having-a-worse-week-than-trump/",
+    "timestamp": "2025-03-15T10:47:01Z"
+  },
+  {
+    "title": "UK PM Starmer tells global leaders to 'keep the pressure' on Putin over ceasefire in Ukraine",
+    "description": "UK Prime Minister Keir Starmer urged global leaders to pressure Russian President Vladimir Putin into agreeing to a ceasefire in Ukraine. In a virtual gathering, Starmer emphasized the need for immediate action and economic pressure on Russia. Despite cautiou\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/uk-pm-starmer-tells-global-leaders-to-keep-the-pressure-on-putin-over-ceasefire-in-ukraine/articleshow/119042365.cms",
+    "timestamp": "2025-03-15T10:42:45Z"
+  },
+  {
     "title": "Cisco IOS XR flaw allows attackers to crash BGP process on routers",
     "description": "Cisco addressed\u00a0a denial of service (DoS) vulnerability that allows attackers to crash\u00a0the\u00a0Border Gateway Protocol (BGP) process on IOS XR routers. Cisco has addressed a denial of service (DoS) vulnerability, tracked as\u00a0CVE-2025-20115, that could allow an una\u2026",
     "link": "https://securityaffairs.com/175421/security/cisco-ios-xr-flaw-cve-2025-20115.html",
@@ -144,21 +162,15 @@
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
-    "title": "Trump Is Fighting His Court Losses With a Surprising Legal Tactic",
-    "description": "The Trump administration is facing an avalanche of lawsuits over the avalanche of legally dubious executive orders that President Donald Trump issued over the last two months. Though it has scored some victories, most notably by decapitating the Office of Spe\u2026",
-    "link": "https://newrepublic.com/article/192797/trump-legal-war-federal-courts",
-    "timestamp": "2025-03-15T10:00:00Z"
-  },
-  {
     "title": "The Big Lesson From Bernie Sanders\u2019s Gangbusters Anti-Oligarchy Tour",
     "description": "Unless you live in the Detroit metro area, you\u2019re probably not an avid consumer of that city\u2019s CBS station, News Channel 3. So you likely missed some reporting last week from reporter Jack Springgate, in which one area resident spoke out about a matter near a\u2026",
     "link": "https://newrepublic.com/article/192744/bernie-sanders-anti-oligarchy-tour-trump-victims",
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
-    "title": "The rare minerals agreement is a raw deal for Ukraine",
-    "description": "President Volodymyr Zelenskyy is allowing Ukraine to get ripped off by Trump and the United States to avoid being completely looted by Putin and Russia.",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-zelenskyy-ukraine-rare-minerals-deal-rcna196368",
+    "title": "Trump Is Fighting His Court Losses With a Surprising Legal Tactic",
+    "description": "The Trump administration is facing an avalanche of lawsuits over the avalanche of legally dubious executive orders that President Donald Trump issued over the last two months. Though it has scored some victories, most notably by decapitating the Office of Spe\u2026",
+    "link": "https://newrepublic.com/article/192797/trump-legal-war-federal-courts",
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
@@ -168,9 +180,9 @@
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
-    "title": "The Long Nap of the Lazy Bureaucrat",
-    "description": "The stereotype of the unmotivated official, which has fuelled Donald Trump and Elon Musk\u2019s assault on government workers, has existed for as long as bureaucracy itself.",
-    "link": "https://www.newyorker.com/news/the-lede/the-long-nap-of-the-lazy-bureaucrat",
+    "title": "The rare minerals agreement is a raw deal for Ukraine",
+    "description": "President Volodymyr Zelenskyy is allowing Ukraine to get ripped off by Trump and the United States to avoid being completely looted by Putin and Russia.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-zelenskyy-ukraine-rare-minerals-deal-rcna196368",
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
@@ -180,15 +192,21 @@
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
-    "title": "Mahmoud Khalil Is a Stress Test for Democrats",
-    "description": "The party is split on wholeheartedly supporting the pro-Palestine activist, inviting questions about its commitment to democratic principles.",
-    "link": "http://nymag.com/intelligencer/article/mahmoud-khalil-is-a-stress-test-for-democrats.html",
+    "title": "The Long Nap of the Lazy Bureaucrat",
+    "description": "The stereotype of the unmotivated official, which has fuelled Donald Trump and Elon Musk\u2019s assault on government workers, has existed for as long as bureaucracy itself.",
+    "link": "https://www.newyorker.com/news/the-lede/the-long-nap-of-the-lazy-bureaucrat",
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
     "title": "There\u2019s one big, ridiculous reason Trump businesses are suing Capital One",
     "description": "Capital One shut down Trump-associated organizations\u2019 bank accounts after Jan. 6. Now they're facing a ridiculous lawsuit.",
     "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-capital-one-debanking-lawsuit-rcna196303",
+    "timestamp": "2025-03-15T10:00:00Z"
+  },
+  {
+    "title": "Mahmoud Khalil Is a Stress Test for Democrats",
+    "description": "The party is split on wholeheartedly supporting the pro-Palestine activist, inviting questions about its commitment to democratic principles.",
+    "link": "http://nymag.com/intelligencer/article/mahmoud-khalil-is-a-stress-test-for-democrats.html",
     "timestamp": "2025-03-15T10:00:00Z"
   },
   {
@@ -348,9 +366,15 @@
     "timestamp": "2025-03-15T09:09:42Z"
   },
   {
-    "title": "'Enough is enough': Greenland PM reacts to Trump's annexation comments",
-    "description": "The outgoing prime minister of Greenland said he would summon party leaders after US President Donald Trump repeated his claim of annexing the Arctic island.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-presstv05.htm",
+    "title": "Iran is reviewing Trump's letter: Foreign Ministry spokesperson",
+    "description": "The spokesperson for the Foreign Ministry says Iran is reviewing the content of U.S. President's Donald Trump's letter, adding that a decision will be made on how to respond after a thorough evaluation and review.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250314-irna04.htm",
+    "timestamp": "2025-03-15T09:08:22Z"
+  },
+  {
+    "title": "U.S. should help Taiwan satellite communications development: Scholars",
+    "description": "Two U.S. scholars urged the Donald Trump administration to \"support Taiwan's development of strong satellite communications in low-earth orbit,\" in an article published in the \"Foreign Affairs\" journal Thursday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250314-cna02.htm",
     "timestamp": "2025-03-15T09:08:22Z"
   },
   {
@@ -366,15 +390,9 @@
     "timestamp": "2025-03-15T09:08:22Z"
   },
   {
-    "title": "U.S. should help Taiwan satellite communications development: Scholars",
-    "description": "Two U.S. scholars urged the Donald Trump administration to \"support Taiwan's development of strong satellite communications in low-earth orbit,\" in an article published in the \"Foreign Affairs\" journal Thursday.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250314-cna02.htm",
-    "timestamp": "2025-03-15T09:08:22Z"
-  },
-  {
-    "title": "Iran is reviewing Trump's letter: Foreign Ministry spokesperson",
-    "description": "The spokesperson for the Foreign Ministry says Iran is reviewing the content of U.S. President's Donald Trump's letter, adding that a decision will be made on how to respond after a thorough evaluation and review.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250314-irna04.htm",
+    "title": "'Enough is enough': Greenland PM reacts to Trump's annexation comments",
+    "description": "The outgoing prime minister of Greenland said he would summon party leaders after US President Donald Trump repeated his claim of annexing the Arctic island.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-presstv05.htm",
     "timestamp": "2025-03-15T09:08:22Z"
   },
   {
@@ -474,36 +492,6 @@
     "timestamp": "2025-03-15T08:59:32Z"
   },
   {
-    "title": "What Putin Really Means When He Talks About Long-Term Peace",
-    "description": "Russian President Vladimir Putin buried the lead about whether he would agree to a US-brokered proposal for a 30-day cease-fire in Ukraine.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-rferl05.htm",
-    "timestamp": "2025-03-15T08:59:32Z"
-  },
-  {
-    "title": "US, Israel eye Africa for displacing Palestinians from Gaza: Report",
-    "description": "The United States and Israel have reportedly spoken to three East African countries for the resettlement of displaced Palestinians from Gaza.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-presstv04.htm",
-    "timestamp": "2025-03-15T08:59:32Z"
-  },
-  {
-    "title": "US Joins G7 Allies Expressing 'Unwavering Support' For Ukraine, Cease-Fire Effort",
-    "description": "The United States joined with its Group of 7 (G7) allies in stating \"our unwavering support\" for Kyiv and welcoming the ongoing efforts to reach a cease-fire as Russia intensifies attacks as part of its full-scale invasion of Ukraine.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-rferl06.htm",
-    "timestamp": "2025-03-15T08:59:32Z"
-  },
-  {
-    "title": "US envoy says Hamas misrepresented release of hostage",
-    "description": "U.S. special envoy to the Middle East Steve Witkoff said a Hamas statement issued Friday announcing it had agreed to release an American-Israeli soldier was, in reality, a condition of a \"bridge\" ceasefire proposal offered by U.S. officials earlier this week.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-voa01.htm",
-    "timestamp": "2025-03-15T08:59:32Z"
-  },
-  {
-    "title": "Kremlin: Reasons to be optimistic about ceasefire deal",
-    "description": "Kremlin spokesman Dmitry Peskov said Friday that there were reasons for \"cautious optimism\" regarding a proposed ceasefire deal between Ukraine and Russia, following talks between a U.S. envoy and Russian President Vladimir Putin in Moscow.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-voa01.htm",
-    "timestamp": "2025-03-15T08:59:32Z"
-  },
-  {
     "title": "Trump Sees 'Very Good Chance' Of Peace After 'Productive' Talks With Putin",
     "description": "US President Donald Trump said he sees a \"very good chance\" for peace between Ukraine and Russia after \"very good and productive discussions\" between US officials and Russian President Vladimir Putin.",
     "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-rferl04.htm",
@@ -522,21 +510,51 @@
     "timestamp": "2025-03-15T08:59:32Z"
   },
   {
+    "title": "What Putin Really Means When He Talks About Long-Term Peace",
+    "description": "Russian President Vladimir Putin buried the lead about whether he would agree to a US-brokered proposal for a 30-day cease-fire in Ukraine.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-rferl05.htm",
+    "timestamp": "2025-03-15T08:59:32Z"
+  },
+  {
+    "title": "US envoy says Hamas misrepresented release of hostage",
+    "description": "U.S. special envoy to the Middle East Steve Witkoff said a Hamas statement issued Friday announcing it had agreed to release an American-Israeli soldier was, in reality, a condition of a \"bridge\" ceasefire proposal offered by U.S. officials earlier this week.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-voa01.htm",
+    "timestamp": "2025-03-15T08:59:32Z"
+  },
+  {
+    "title": "Kremlin: Reasons to be optimistic about ceasefire deal",
+    "description": "Kremlin spokesman Dmitry Peskov said Friday that there were reasons for \"cautious optimism\" regarding a proposed ceasefire deal between Ukraine and Russia, following talks between a U.S. envoy and Russian President Vladimir Putin in Moscow.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-voa01.htm",
+    "timestamp": "2025-03-15T08:59:32Z"
+  },
+  {
+    "title": "US Joins G7 Allies Expressing 'Unwavering Support' For Ukraine, Cease-Fire Effort",
+    "description": "The United States joined with its Group of 7 (G7) allies in stating \"our unwavering support\" for Kyiv and welcoming the ongoing efforts to reach a cease-fire as Russia intensifies attacks as part of its full-scale invasion of Ukraine.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250314-rferl06.htm",
+    "timestamp": "2025-03-15T08:59:32Z"
+  },
+  {
+    "title": "US, Israel eye Africa for displacing Palestinians from Gaza: Report",
+    "description": "The United States and Israel have reportedly spoken to three East African countries for the resettlement of displaced Palestinians from Gaza.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-presstv04.htm",
+    "timestamp": "2025-03-15T08:59:32Z"
+  },
+  {
     "title": "Iraq says key Islamic State leader is dead",
     "description": "One of the Islamic State terror group's most senior leaders is dead, killed in what U.S. and Iraqi officials describe as a joint operation.",
     "link": "https://www.globalsecurity.org/wmd/library/news/iraq/2025/iraq-250315-voa01.htm",
     "timestamp": "2025-03-15T08:59:32Z"
   },
   {
-    "title": "Trump says U.S. \"had very good, productive\" discussions with Putin",
-    "description": "U.S. President Donald Trump said on social media Friday that his administration \"had very good and productive discussions with President Vladimir Putin of Russia yesterday,\" and there is a very good chance that \"this horrible, bloody war\" can finally come to \u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250315-pdo01.htm",
-    "timestamp": "2025-03-15T08:59:32Z"
-  },
-  {
     "title": "Trump vows accountability for those who pursued him in court cases",
     "description": "U.S. President Donald Trump promised to seek accountability for those who pursued legal cases against him when he was out of office, speaking Friday at the Justice Department.",
     "link": "https://www.globalsecurity.org/military/library/news/2025/03/mil-250314-voa02.htm",
+    "timestamp": "2025-03-15T08:59:32Z"
+  },
+  {
+    "title": "Trump says U.S. \"had very good, productive\" discussions with Putin",
+    "description": "U.S. President Donald Trump said on social media Friday that his administration \"had very good and productive discussions with President Vladimir Putin of Russia yesterday,\" and there is a very good chance that \"this horrible, bloody war\" can finally come to \u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/03/ukraine-250315-pdo01.htm",
     "timestamp": "2025-03-15T08:59:32Z"
   },
   {
@@ -556,29 +574,5 @@
     "description": "The\u00a0memo\u00a0lists a\u00a0total of 41\u00a0countries\u00a0divided into three separate groups.",
     "link": "https://nypost.com/2025/03/15/us-news/trump-administration-considering-travel-ban-from-41-countries/",
     "timestamp": "2025-03-15T08:54:35Z"
-  },
-  {
-    "title": "Musk says Starship to depart for Mars at end of 2026",
-    "description": "SpaceX founder Elon Musk said Saturday its massive Starship rocket would leave for Mars at the end of 2026 with Tesla humanoid robot Optimus onboard, adding that human landings could follow \u201cas soon as 2029.\u201d \u201cStarship departs for Mars at the end of next year\u2026",
-    "link": "https://www.digitaljournal.com/world/musk-says-starship-to-depart-for-mars-at-end-of-2026/article",
-    "timestamp": "2025-03-15T08:50:28Z"
-  },
-  {
-    "title": "Head of Islamic State in Iraq and Syria killed, Iraqi prime minister and Trump announce",
-    "description": "'One of the most dangerous terrorists in Iraq and the world': Trump said in a social media post Friday that the fugitive leader of ISIS in Iraq was killed in coordination with the Iraqi government and the Kurdish regional government",
-    "link": "https://www.haaretz.com/israel-news/2025-03-15/ty-article/head-of-islamic-state-in-iraq-and-syria-killed-iraqi-prime-minister-and-trump-announce/00000195-98f3-d8d5-a3f5-fefff7310000",
-    "timestamp": "2025-03-15T08:48:57Z"
-  },
-  {
-    "title": "Musk Says Starship To Depart For Mars At End Of 2026",
-    "description": "SpaceX founder Elon Musk said Saturday its massive Starship rocket would leave for Mars at the end of 2026 with Tesla humanoid robot Optimus onboard, adding that human landings could follow \"as soon as 2029.\"",
-    "link": "https://www.ibtimes.com/musk-says-starship-depart-mars-end-2026-3766372",
-    "timestamp": "2025-03-15T08:45:16Z"
-  },
-  {
-    "title": "War in Ukraine: What is Putin's negotiation strategy?",
-    "description": "Russia's president says he supports the idea of a ceasefire in Ukraine, \"in principle.\" But Vladimir Putin has attached various conditions to his agreement \u2014 which critics say reveal Russia\u2019s true aims.",
-    "link": "https://www.dw.com/en/war-in-ukraine-what-is-putins-negotiation-strategy/a-71928769",
-    "timestamp": "2025-03-15T08:44:00Z"
   }
 ]
