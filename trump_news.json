@@ -1,5 +1,35 @@
 [
   {
+    "title": "Australia defends PBS as US pharma giants urge Trump to impose reciprocal tariffs",
+    "description": "American medical giants want tariffs imposed on Australia as punishment for its Pharmaceutical Benefits Scheme, which sees the government negotiate cheaper prices for medicines for Australians.",
+    "link": "https://www.abc.net.au/news/2025-03-19/australia-defends-pbs-us-pharma-urges-reciprocal-tariffs/105072750",
+    "timestamp": "2025-03-19T07:41:39Z"
+  },
+  {
+    "title": "Japan's exports surge in February, leaving trade surplus as worries persist over Trump's tariffs",
+    "description": "Japan's exports grew at an 11.4% annual pace in February while imports declined slightly, leaving a surplus after two straight months of deficits as worries grow about President Donald Trump\u2019s tariff hikes. The stronger export growth yielded a trade surplus l\u2026",
+    "link": "https://japantoday.com/category/business/japan%27s-exports-surge-in-february-leaving-a-trade-surplus-as-worries-persist-over-trump%27s-tariffs",
+    "timestamp": "2025-03-19T07:39:46Z"
+  },
+  {
+    "title": "Bank of Japan keeps key interest rate unchanged, warning of trade uncertainty",
+    "description": "The Bank of Japan left its key interest rate unchanged Wednesday in a widely expected move given the global economic uncertainty fueled by U.S. trade tariffs. Following a two-day policy meeting, the central bank said it was keeping its key interest rate at ar\u2026",
+    "link": "https://japantoday.com/category/business/bank-of-japan-holds-rates-warning-of-trade-uncertainty",
+    "timestamp": "2025-03-19T07:39:31Z"
+  },
+  {
+    "title": "Taoiseach to face D\u00e1il criticism over Trump meeting",
+    "description": "Senator Frances Black says she is open to running for president",
+    "link": "https://www.irishtimes.com/politics/2025/03/19/inside-politics-newsletter-martin-trump-mcgregor-frances-black-dail/",
+    "timestamp": "2025-03-19T07:36:07Z"
+  },
+  {
+    "title": "Germany Says \"Putin Playing A Game\" After New Ukraine Strikes",
+    "description": "Germany accused President Vladimir Putin on Wednesday of &quot;playing a game&quot; after Kyiv reported Russian strikes on Ukranian civilian infrastructure hours after Moscow agreed to temporarily pause attacks on energy facilities.",
+    "link": "https://www.ndtv.com/world-news/germany-says-putin-playing-a-game-after-new-ukraine-strikes-7958263",
+    "timestamp": "2025-03-19T07:35:24Z"
+  },
+  {
     "title": "In US, A Pastry Chef Attempts To Crack An Egg-free Menu",
     "description": "Since avian flu turned eggs into a luxury item, pastry chef Annie Clemmons has spent countless hours in her Maryland workshop, racking her brains about how to replace them in her recipes.",
     "link": "https://www.ibtimes.com/us-pastry-chef-attempts-crack-egg-free-menu-3766815",
@@ -324,15 +354,15 @@
     "timestamp": "2025-03-19T06:00:00Z"
   },
   {
-    "title": "Trump\u2019s tariffs: A necessary shield for U.S. industry, but at what cost to allies like Australia?",
-    "description": "The Trump administration\u2019s 25% tariffs on steel and aluminium imports, including those from Australia, aim to protect U.S. industries but have sparked debates over their effects on international alliances. Australian Treasurer Jim Chalmers criticized the tari\u2026",
-    "link": "https://www.naturalnews.com/2025-03-19-trump-tariffs-necessary-shield-for-us-industry.html",
-    "timestamp": "2025-03-19T06:00:00Z"
-  },
-  {
     "title": "Putin and Trump agree to PARTIAL CEASEFIRE in Ukraine, but path to lasting peace remains uncertain",
     "description": "Russian President Vladimir Putin and U.S. President Donald Trump agreed to a 30-day limited ceasefire targeting energy infrastructure during a two-and-a-half-hour phone call. This marks a rare diplomatic engagement between the two nations amid the ongoing Ukr\u2026",
     "link": "https://www.naturalnews.com/2025-03-19-putin-trump-agree-partial-ceasefire-in-ukraine.html",
+    "timestamp": "2025-03-19T06:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s tariffs: A necessary shield for U.S. industry, but at what cost to allies like Australia?",
+    "description": "The Trump administration\u2019s 25% tariffs on steel and aluminium imports, including those from Australia, aim to protect U.S. industries but have sparked debates over their effects on international alliances. Australian Treasurer Jim Chalmers criticized the tari\u2026",
+    "link": "https://www.naturalnews.com/2025-03-19-trump-tariffs-necessary-shield-for-us-industry.html",
     "timestamp": "2025-03-19T06:00:00Z"
   },
   {
@@ -354,15 +384,15 @@
     "timestamp": "2025-03-19T06:00:00Z"
   },
   {
-    "title": "Trump administration DEFIES federal judge, proceeds with deporting gang members",
-    "description": "The Trump administration deported over 250 Venezuelan Tren de Aragua (TdA) and 23 MS-13 members to El Salvador under the Alien Enemies Act, despite a federal judge\u2019s emergency order to halt the expulsions. U.S. District Judge James Boasberg issued an emergenc\u2026",
-    "link": "https://www.naturalnews.com/2025-03-19-trump-admin-proceeds-with-deporting-gang-members.html",
-    "timestamp": "2025-03-19T06:00:00Z"
-  },
-  {
     "title": "Trump admin seeking to deport Israel critic as a \u2018foreign policy threat,\u2019 not lawbreaker",
     "description": "The Trump administration is seeking to deport\u00a0\u201canti-Semitic\u201d pro-Palestine activist Mahmoud Khalil\u00a0not because he broke any law but instead because his political activism poses a \u201cnational security risk\u201d that threatens US \u201cforeign policy.\u201d (Article by Chris M\u2026",
     "link": "https://www.naturalnews.com/2025-03-19-trump-admin-seeking-to-deport-israel-critic.html",
+    "timestamp": "2025-03-19T06:00:00Z"
+  },
+  {
+    "title": "Trump administration DEFIES federal judge, proceeds with deporting gang members",
+    "description": "The Trump administration deported over 250 Venezuelan Tren de Aragua (TdA) and 23 MS-13 members to El Salvador under the Alien Enemies Act, despite a federal judge\u2019s emergency order to halt the expulsions. U.S. District Judge James Boasberg issued an emergenc\u2026",
+    "link": "https://www.naturalnews.com/2025-03-19-trump-admin-proceeds-with-deporting-gang-members.html",
     "timestamp": "2025-03-19T06:00:00Z"
   },
   {
@@ -502,35 +532,5 @@
     "description": "If you\u2019ve spent any time on X (formerly Twitter) lately, chances are you\u2019ve been flooded with the \u201clet\u2019s ask Grok\u201d trend.",
     "link": "https://www.forbes.com/sites/anishasircar/2025/03/19/the-unhinged-ai-chatbot-how-elon-musks-grok-is-shaking-up-social-media/",
     "timestamp": "2025-03-19T05:29:15Z"
-  },
-  {
-    "title": "Mahmoud Khalil Calls Himself \"Political Prisoner\" After US Arrest",
-    "description": "Mahmoud Khalil, the Columbia University Palestinian graduate student who the Trump administration is seeking to deport for his role in pro-Palestinian protests, called himself a political prisoner on Tuesday, in his first direct comments since his de",
-    "link": "https://www.ndtv.com/world-news/mahmoud-khalil-calls-himself-political-prisoner-after-us-arrest-over-protests-7957341",
-    "timestamp": "2025-03-19T05:28:45Z"
-  },
-  {
-    "title": "Jimmy Kimmel Is Annoyed by How Long the JKF Assassination Files Are: \u00a0\u2018Gonna Take Me Forever to Read This to My Kids\u2019 | Video",
-    "description": "\"There are 80,000 pages of files,\" the ABC host jokes, \"that\u2019s almost 20 times longer than the entire Harry Potter book series\nThe post Jimmy Kimmel Is Annoyed by How Long the JKF Assassination Files Are: \u00a0\u2018Gonna Take Me Forever to Read This to My Kids\u2019 | Vid\u2026",
-    "link": "https://www.thewrap.com/jimmy-kimmel-jfk-assassination-files-too-long-monologue/",
-    "timestamp": "2025-03-19T05:28:13Z"
-  },
-  {
-    "title": "Relationship of PM Modi, President Putin \"may be helpful\" for talks, says Polish Deputy Foreign Minister",
-    "description": "Poland's Deputy Foreign Minister indicates PM Modi's relationship with President Putin may aid in negotiating the Russia-Ukraine war's end. He emphasizes President Trump's significant influence on Putin. Bartoszewski also condemns Israel's airstrikes on Gaza,\u2026",
-    "link": "https://economictimes.indiatimes.com/news/india/relationship-of-pm-modi-president-putin-may-be-helpful-for-talks-says-polish-deputy-foreign-minister/articleshow/119192839.cms",
-    "timestamp": "2025-03-19T05:24:43Z"
-  },
-  {
-    "title": "JFK assassination files released, sending history buffs hunting for new clues",
-    "description": "Unredacted documents related to the 1963 assassination of President John F. Kennedy have been released following an order by President Donald Trump shortly after he took office. The documents were posted on the website of the U.S. National Archives and\u2026",
-    "link": "https://apnews.com/article/jfk-assassination-files-release-trump-3e8f31e18468d96b53210572e0992c07",
-    "timestamp": "2025-03-19T05:23:00Z"
-  },
-  {
-    "title": "Badlands nightclub in Midtown Sacramento bans MAGA-related attire",
-    "description": "\"I've never worn a red Trump hat to the gay bars before. I said, What the heck? Let's see what happens.\"",
-    "link": "https://www.kcra.com/article/badlands-midtown-sacramento-bans-maga-attire/64225779",
-    "timestamp": "2025-03-19T05:21:27Z"
   }
 ]
