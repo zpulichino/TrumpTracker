@@ -1,5 +1,53 @@
 [
   {
+    "title": "Veeam fixed critical Backup & Replication flaw CVE-2025-23120",
+    "description": "Veeam released security patches for a critical Backup & Replication vulnerability that could let attackers remotely execute code. Veeam addressed a critical security vulnerability, tracked as\u00a0CVE-2025-23120 (CVSS score of 9.9), impacting its Backup & Replicat\u2026",
+    "link": "https://securityaffairs.com/175674/slider/veeam-critical-backup-replication-vulnerability.html",
+    "timestamp": "2025-03-20T19:26:50Z"
+  },
+  {
+    "title": "Democratic Gov. Beshear vetoes GOP bill aimed at dismantling DEI efforts in public universities",
+    "description": "Kentucky Democratic Gov. Andy Beshear has vetoed a GOP-backed bill to dismantle diversity, equity and inclusion efforts at the state's public universities",
+    "link": "https://abcnews.go.com/US/wireStory/democratic-gov-beshear-vetoes-gop-bill-aimed-dismantling-119997299",
+    "timestamp": "2025-03-20T19:26:28Z"
+  },
+  {
+    "title": "Karoline Leavitt Says Department Of Education \u2018Never Educated A Child\u2019 As Trump Plans To Shutter Agency",
+    "description": "White House Press Secretary Karoline Leavitt told Harris Faulkner Donald Trump was \u201csaving\u201d American children by shuttering the Department of Education.",
+    "link": "https://dailycaller.com/2025/03/20/karoline-leavitt-says-department-of-education-never-educated-a-child-as-trump-plans-to-shutter-agency/",
+    "timestamp": "2025-03-20T19:26:06Z"
+  },
+  {
+    "title": "Why some Canadian researchers feel threatened by a questionnaire sent by Trump administration",
+    "description": "The Canadian Association of University Teachers says the administration is 'undermining the integrity and independence of academic research conducted in Canada'",
+    "link": "https://nationalpost.com/news/canada/questionnaire-canadian-researchers-trump-admin",
+    "timestamp": "2025-03-20T19:26:05Z"
+  },
+  {
+    "title": "In latest blow to Tesla, regulators recall nearly all Cybertrucks - Boston News, Weather, Sports | WHDH 7News",
+    "description": "U.S. safety regulators on Thursday recalled virtually all Cybertrucks on the road, the eighth recall of the Tesla-made vehicles since deliveries to customers began just<a class=\"excerpt-read-more\" href=\"https://whdh.com/news/in-latest-blow-to-tesla-regulators\u2026",
+    "link": "https://whdh.com/news/in-latest-blow-to-tesla-regulators-recall-nearly-all-cybertrucks/",
+    "timestamp": "2025-03-20T19:25:37Z"
+  },
+  {
+    "title": "How the Justice Department is remaking itself in Trump\u2019s image",
+    "description": "Attorney General Pam Bondi has curtailed the agency\u2019s anti-corruption efforts, ratcheted up immigration enforcement and redirected the civil rights divisionPam Bondi vowed at her confirmation hearing this year that \u201cpolitics will not play a part\u201d in her time \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4305647/posts",
+    "timestamp": "2025-03-20T19:22:09Z"
+  },
+  {
+    "title": "JD Vance: Unlike Kamala Harris I Don't Have 'Four Shots of Vodka Before Every Meeting'",
+    "description": "Vice President JD Vance blasted former Vice President Kamala Harris when asked how he is handling the vice presidency differently than his predecessor, joking that he does not have \"four shots of vodka before every meeting.\"\nThe post JD Vance: Unlike Kamala H\u2026",
+    "link": "https://www.breitbart.com/politics/2025/03/20/jd-vance-unlike-kamala-harris-i-dont-have-four-shots-of-vodka-before-every-meeting/",
+    "timestamp": "2025-03-20T19:22:04Z"
+  },
+  {
+    "title": "How Azerbaijan became one of Israel\u2019s closest Muslim allies",
+    "description": "Despite regional complexities, the South Caucasus nation has positioned itself as one of Israel\u2019s most significant partners.",
+    "link": "https://www.jpost.com/israel-news/article-846963",
+    "timestamp": "2025-03-20T19:21:49Z"
+  },
+  {
     "title": "FBI agent who criticized the bureau under Trump is charged with disclosing confidential information",
     "description": "Johnathan Buma, a 15-year FBI veteran, was charged with sharing classified FBI documents and messages he was using to write a book about his career.",
     "link": "https://www.foxnews.com/us/fbi-agent-who-criticized-bureau-under-trump-charged-disclosing-confidential-information",
@@ -526,53 +574,5 @@
     "description": "The Daily Show's Jordan Klepper called out his studio audience for cheering over \"petty acts of domestic terrorism\" as they watched Tesla vehicles burning.\nThe post Daily Show\u2019s Jordan Klepper Ribs Studio Audience Cheering On Tesla Arson: \u2018Wow, You Guys Like \u2026",
     "link": "https://www.mediaite.com/tv/daily-shows-jordan-klepper-ribs-studio-audience-cheering-on-tesla-arson-wow-you-guys-like-petty-acts-of-domestic-terrorism/",
     "timestamp": "2025-03-20T18:21:58Z"
-  },
-  {
-    "title": "Zaporizhzhia nuclear plant not discussed with Trump, Zelenskyy says",
-    "description": "European leaders were meeting in Brussels and London on Thursday as the push intensified for a ceasefire to Russia's war on Ukraine.",
-    "link": "https://www.cbc.ca/news/world/ukraine-war-latest-march20-1.5595470",
-    "timestamp": "2025-03-20T18:21:37Z"
-  },
-  {
-    "title": "Ukraine's Zelenskyy calls for Europe's help in buying artillery shells",
-    "description": "European Union leaders said on Thursday that they will continue to support Ukraine, but they did not immediately endorse a call by Ukrainian President Volodymyr Zelenskyy to approve a package of at least five billion euros for artillery purchases.",
-    "link": "https://www.cbc.ca/news/world/ukraine-war-russia-artillery-europe-1.5595470",
-    "timestamp": "2025-03-20T18:21:37Z"
-  },
-  {
-    "title": "US, UAE deepen AI partnership",
-    "description": "The News\nThe United Arab Emirates plans to deepen its artificial intelligence investments in the US after US President Donald Trump hosted the Gulf nation\u2019s top national security adviser.\nSheikh Tahnoon bin Zayed\u2019s visit to Washington this week signaled that \u2026",
-    "link": "https://biztoc.com/x/204619bac2214530",
-    "timestamp": "2025-03-20T18:20:18Z"
-  },
-  {
-    "title": "Ontario colleges, universities and businesses call for more post-secondary funding",
-    "description": "TORONTO \u2014 Three major organizations representing Ontario\u2019s colleges, universities and business community are urging the province to boost investment in the post-secondary sector, saying the economic threat from the United States underscores the need. The Onta\u2026",
-    "link": "https://financialpost.com/pmn/ontario-colleges-universities-and-businesses-call-for-more-post-secondary-funding",
-    "timestamp": "2025-03-20T18:20:13Z"
-  },
-  {
-    "title": "Donald Trump Impeachment Warning Issued",
-    "description": "Florida Congresswoman Anna Paulina Luna predicts that Trump will face impeachment if Republicans lose the House in 2026.",
-    "link": "https://biztoc.com/x/8c9044a19fda3f7a",
-    "timestamp": "2025-03-20T18:20:02Z"
-  },
-  {
-    "title": "Scottie Scheffler implores media to 'go ask' LIV players why golf is 'not back together'",
-    "description": "Scottie Scheffler appeared to place blame on the LIV players for the game's divide as talks between LIV and PGA continue to drag on.",
-    "link": "https://www.foxnews.com/sports/scottie-scheffler-implores-media-go-ask-liv-players-why-golf-not-back-together",
-    "timestamp": "2025-03-20T18:19:59Z"
-  },
-  {
-    "title": "Kirsty Coventry elected IOC president and is first woman to lead the global Olympic body",
-    "description": "Kirsty Coventry has been elected president of the International Olympic Committee. She's the first woman and first African to get perhaps the biggest job in global sports.",
-    "link": "https://www.pbs.org/newshour/world/kirsty-coventry-elected-ioc-president-and-is-first-woman-to-lead-the-global-olympic-body",
-    "timestamp": "2025-03-20T18:19:35Z"
-  },
-  {
-    "title": "\u2018He\u2019s Not A Criminal\u2019: Mom Bereft After Spotting Son Among Alleged Venezuelan Gang Members",
-    "description": "\"He doesn't belong to any criminal gang, either in the U.S. or in Venezuela,\" she said after seeing him shackled among migrants Trump sent to El Salvador.",
-    "link": "https://www.huffpost.com/entry/family-venezuelan-deportees-el-salvador-prison-react_n_67dc07c0e4b038b4d0a65335",
-    "timestamp": "2025-03-20T18:18:02Z"
   }
 ]
