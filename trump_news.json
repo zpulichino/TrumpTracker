@@ -1,5 +1,11 @@
 [
   {
+    "title": "European Council urges immediate ceasefire and hostage release in Gaza",
+    "description": "European Council says it \"deplores\" both the recent breakdown of the ceasefire in Gaza as well as Hamas' refusal to release hostages, calls for full implementation of the ceasefire.",
+    "link": "https://www.israelnationalnews.com/news/405698",
+    "timestamp": "2025-03-21T03:51:27Z"
+  },
+  {
     "title": "From bumper stickers to boycotts, how Tesla owners are distancing themselves from Elon Musk",
     "description": "Many Tesla owners who were once proud to own the electric vehicle are reportedly now embarrassed to be associated with the brand as public furor against the company and its CEO, billionaire Elon Musk, gains momentum.",
     "link": "https://www.cbc.ca/news/business/tesla-elon-musk-car-owners-1.7489099",
@@ -270,15 +276,15 @@
     "timestamp": "2025-03-21T02:30:01Z"
   },
   {
-    "title": "EU could impose more sanctions on Russia as Volodymyr Zelensky calls out delays in Ukraine\u2019s membership to union",
-    "description": "\u201cPlease do not ease pressure on \u00adRussia over the war,\u201d Ukrainian president \u00adVolodymyr Zelensky told EU leaders as they gathered in Brussels for an EU summit.",
-    "link": "https://www.independent.ie/irish-news/eu-could-impose-more-sanctions-on-russia-as-volodymyr-zelensky-calls-out-delays-in-ukraines-membership-to-union/a1850357481.html",
-    "timestamp": "2025-03-21T02:30:00Z"
-  },
-  {
     "title": "The Irish Independent\u2019s View: Donald Trump claims he\u2019s a peacemaker \u2013 now he must prove it",
     "description": "There was once a time when European summits were preoccupied with butter mountains and wine lakes.",
     "link": "https://www.independent.ie/opinion/editorial/the-irish-independents-view-donald-trump-claims-hes-a-peacemaker-now-he-must-prove-it/a1069788683.html",
+    "timestamp": "2025-03-21T02:30:00Z"
+  },
+  {
+    "title": "EU could impose more sanctions on Russia as Volodymyr Zelensky calls out delays in Ukraine\u2019s membership to union",
+    "description": "\u201cPlease do not ease pressure on \u00adRussia over the war,\u201d Ukrainian president \u00adVolodymyr Zelensky told EU leaders as they gathered in Brussels for an EU summit.",
+    "link": "https://www.independent.ie/irish-news/eu-could-impose-more-sanctions-on-russia-as-volodymyr-zelensky-calls-out-delays-in-ukraines-membership-to-union/a1850357481.html",
     "timestamp": "2025-03-21T02:30:00Z"
   },
   {
@@ -562,11 +568,5 @@
     "description": "The U.S. president made the comments at a White House event after signing an order to increase U.S. production of critical minerals.",
     "link": "https://www.japantimes.co.jp/news/2025/03/21/world/politics/trump-ukraine-minerals-deal/",
     "timestamp": "2025-03-21T01:36:00Z"
-  },
-  {
-    "title": "Trump threatens judge pressing DOJ for answers over El Salvador deportations - NPR",
-    "description": "Trump threatens judge pressing DOJ for answers over El Salvador deportationsNPR Trump demands Supreme Court step in after federal judges block his agenda: 'These people are Lunatics'Fox News Trump calls for a stop to nationwide injunctions amid court setbacks\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176781547",
-    "timestamp": "2025-03-21T01:34:07Z"
   }
 ]
