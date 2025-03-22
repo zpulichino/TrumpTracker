@@ -1,5 +1,401 @@
 [
   {
+    "title": "Conor McGregor Says He Will Run for President of Ireland",
+    "description": "The announcement comes after visiting the White House on St. Patrick's Day.",
+    "link": "https://www.complex.com/sports/a/jose-martinez/conor-mcgregor-running-president-ireland",
+    "timestamp": "2025-03-21T02:21:52Z"
+  },
+  {
+    "title": "Biopharma exec says Bitcoin could help industry through \u2018biotech winter\u2019",
+    "description": "NASDAQ-listed biopharmaceutical firm Atai Life Sciences says cryptocurrencies like Bitcoin could be key to survival for biotech startups as they wade through years of regulatory approvals.\u00a0Atai, which is developing mental health treatments using psychedelics \u2026",
+    "link": "https://cointelegraph.com/news/biopharma-exec-bitcoin-help-industry-biotech-winter",
+    "timestamp": "2025-03-21T02:19:37Z"
+  },
+  {
+    "title": "Trump Ramps Up Attacks On Judges, Calls Out Justice John Roberts",
+    "description": "Trump baselessly argued that rulings and decisions from judges that he disagrees with could \"very well lead to the destruction of our Country!\"",
+    "link": "https://www.huffpost.com/entry/trump-attacks-roberts-judges_n_67dc9e95e4b0f519c38c7501",
+    "timestamp": "2025-03-21T02:18:15Z"
+  },
+  {
+    "title": "Trump orders increased minerals production, says Ukraine deal coming soon",
+    "description": "US president invokes wartime powers to boost production of rare earths and other critical minerals.",
+    "link": "https://www.aljazeera.com/economy/2025/3/21/trump-orders-increased-minerals-production-says-ukraine-deal-coming-soon",
+    "timestamp": "2025-03-21T02:17:51Z"
+  },
+  {
+    "title": "World\u2019s glacier mass shrank again in 2024, says UN",
+    "description": "All 19 of the world\u2019s glacier regions experienced a net loss of mass in 2024 for the third consecutive year, the United Nations said on Friday, warning that saving the planet\u2019s glaciers was now a matter of \u201csurvival\u201d. Five of the last six years have seen the \u2026",
+    "link": "https://www.digitaljournal.com/world/worlds-glacier-mass-shrank-again-in-2024-says-un/article",
+    "timestamp": "2025-03-21T02:17:20Z"
+  },
+  {
+    "title": "Schumer: 'Lawless, Angry' Trump Has Put United States in a Constitutional Crisis",
+    "description": "During an interview that will air on Sunday\u2019s \"Meet the Press,\" Senate Minority Leader Chuck Schumer (D-NY) told NBC\u2019s Kristen Welker that the United States was in a \"constitutional crisis.\"\nThe post Schumer: \u2018Lawless, Angry\u2019 Trump Has Put United States in a \u2026",
+    "link": "https://www.breitbart.com/clips/2025/03/20/schumer-lawless-angry-trump-has-put-united-states-in-a-constitutional-crisis/",
+    "timestamp": "2025-03-21T02:16:26Z"
+  },
+  {
+    "title": "Detained Georgetown University grad student never made pro-Hamas statements, attorney says",
+    "description": "A Georgetown University graduate student from India who was taken into custody this week and targeted for deportation by the Trump administration never made any pro-Hamas or antisemitic comments, his lawyer said.",
+    "link": "https://www.nbcnews.com/news/us-news/detained-georgetown-university-grad-student-never-made-hamas-statement-rcna197405",
+    "timestamp": "2025-03-21T02:16:19Z"
+  },
+  {
+    "title": "Taiwan's president says the defense budget will exceed 3% of GDP in military overhaul",
+    "description": "Taiwanese President William Lai Ching-te said Thursday that the island\u2019s defense budget will exceed 3% of its economic output as it overhauls its military in the face of the rising threat from China",
+    "link": "https://abcnews.go.com/Business/wireStory/taiwans-president-defense-budget-exceed-3-gdp-military-120008734",
+    "timestamp": "2025-03-21T02:14:24Z"
+  },
+  {
+    "title": "Trump won't like that! Pochettino's USMNT knocked out of Nations League and memes pour in",
+    "description": "The U.S. National Team has just consummated what is the first failure in the Mauricio Pochettino era, a coach who came in for maximum accountability and has failed in the tournamen",
+    "link": "https://www.marca.com/en/football/2025/03/21/67dccad5e2704e3f4b8b456c.html",
+    "timestamp": "2025-03-21T02:11:57Z"
+  },
+  {
+    "title": "Trump to award US Air Force's next-generation fighter jet contract on Friday, sources say",
+    "description": "President Trump is set to announce the Pentagon's decision on the Next Generation Air Dominance (NGAD) fighter jet contract, valued at over $20 billion, on Friday. Lockheed Martin and Boeing are competing for this crucial contract, which aims to replace the F\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/trump-to-award-us-air-forces-next-generation-fighter-jet-contract-on-friday-sources-say/articleshow/119280353.cms",
+    "timestamp": "2025-03-21T02:11:13Z"
+  },
+  {
+    "title": "McCaskill: Trump 'Gone Much Further' than Orban, Erdogan \u2014 'Absolutely Autocratic'",
+    "description": "MSNBC contributor Claire McCaskill claimed Thursday on \"Deadline\" that President Donald Trump has gone further than Hungary's leader Viktor Orban or Turkey's leader Recep Tayyip Erdogan in an authoritarian direction.\nThe post McCaskill: Trump \u2018Gone Much Furth\u2026",
+    "link": "https://www.breitbart.com/clips/2025/03/20/mccaskill-trump-gone-much-further-than-orban-erdogan-its-absolutely-autocratic/",
+    "timestamp": "2025-03-21T02:11:11Z"
+  },
+  {
+    "title": "Pentagon to brief Musk on top-secret plan for potential war with China, New York Times reports",
+    "description": "Billionaire Elon Musk, U.S. President Donald Trump's close ally, is due to be briefed on Friday by the Pentagon on the U.S. military's plan for any war that might break out with China, the New York Times reported on Thursday, citing U.S. officials. Access to \u2026",
+    "link": "https://japantoday.com/category/world/pentagon-to-brief-musk-on-top-secret-plan-for-potential-war-with-china-nyt-reports",
+    "timestamp": "2025-03-21T02:10:56Z"
+  },
+  {
+    "title": "Inside the Conviction of Iran\u2019s Would-Be Assassins in New York",
+    "description": "A federal jury returned guilty verdicts against two Eastern European self-described gangsters hired by Iran to send a hit man to kill Masih Alinejad at her Brooklyn home.",
+    "link": "https://time.com/7270415/iran-assassins-new-york-trial-conviction-guilty-verdict-masih-alinejad/",
+    "timestamp": "2025-03-21T02:10:00Z"
+  },
+  {
+    "title": "Trump demands courts stop blocking his agenda",
+    "description": "U.S. President Donald Trump demanded Thursday that courts stop blocking his agenda, edging closer to a constitutional showdown after a judge suggested the administration ignored an order to block summary deportations. A federal judge, in a strongly worded ord\u2026",
+    "link": "https://japantoday.com/category/world/trump-pressures-courts-after-reprimand-on-deportations",
+    "timestamp": "2025-03-21T02:08:56Z"
+  },
+  {
+    "title": "Taiwan's president says the defense budget will exceed 3% of GDP in military overhaul",
+    "description": "Taiwanese President William Lai Ching-te said Thursday that the island\u2019s defense budget will exceed 3% of its economic output as it overhauls its military in the face of the rising threat from China. Along with the latest equipment \u2014 much of it from the Unite\u2026",
+    "link": "https://www.seattlepi.com/news/world/article/taiwan-s-president-says-the-defense-budget-will-20232144.php",
+    "timestamp": "2025-03-21T02:08:29Z"
+  },
+  {
+    "title": "Taiwan signals intent to buy Alaskan natural gas",
+    "description": "Alaskan natural gas \"can meet our needs and ensure our energy security,\" said Taiwan President Lai Ching-te.",
+    "link": "https://www.japantimes.co.jp/news/2025/03/21/asia-pacific/taiwan-alaska-lng/",
+    "timestamp": "2025-03-21T02:07:00Z"
+  },
+  {
+    "title": "Bitcoin, Ethereum, Dogecoin Erase Gains Even As Trump Reiterates 'Crypto Capital' Pledge: Arthur Hayes Says 'Odds Are Shifting More Bullish' For BTC",
+    "description": "Leading cryptocurrencies pulled back Thursday despite President Donald Trump's supportive remarks for the industry at an event.\nCryptocurrency\nGains +/-\nPrice (Recorded at 8:30 p.m. ET)\nBitcoin (CRYPTO: BTC)\n-2.39%\n$84,391.51\nEthereum (CRYPTO: ETH) \n-2.45%\n$1\u2026",
+    "link": "https://biztoc.com/x/71877b0b765ccb4b",
+    "timestamp": "2025-03-21T02:06:59Z"
+  },
+  {
+    "title": "Accenture Says It Lost Sales Amid Government Efficiency Effort",
+    "description": "Accenture disclosed Thursday (March 20) that it has lost sales and revenue in its Accenture Federal Services business unit and faces continuing uncertainty due to the Trump administration\u2019s efforts to operate the government more efficiently. Speaking during t\u2026",
+    "link": "https://www.pymnts.com/earnings/2025/accenture-says-it-lost-sales-amid-government-efficiency-effort/",
+    "timestamp": "2025-03-21T02:04:15Z"
+  },
+  {
+    "title": "Trump says US will sign Ukraine minerals deal soon",
+    "description": "President Trump announced that the U.S. is close to signing a minerals and natural resources deal with Ukraine, and his peace talks between Ukraine and Russia are progressing well. Trump highlighted a temporary pause in Russian attacks on energy infrastructur\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-us-will-sign-ukraine-minerals-deal-soon/articleshow/119280196.cms",
+    "timestamp": "2025-03-21T02:03:14Z"
+  },
+  {
+    "title": "Donald Trump, Peter Thiel, and the Technocrats",
+    "description": "Donald Trump\u2019s 2nd term is off to a controversial start, with his supporters celebrating his Executive Orders to free Ross Ulbricht, ending funding for schools requiring COVID19 injections, calling for releasing the JFK, MLK, and RFK files, and ending support\u2026",
+    "link": "https://www.activistpost.com/donald-trump-peter-thiel-and-the-technocrats-2/",
+    "timestamp": "2025-03-21T02:03:00Z"
+  },
+  {
+    "title": "President of Congo seeks Trump\u2019s help to end conflict, offers $20 trillion in minerals",
+    "description": "In a move that\u2019s raising eyebrows worldwide, the President of the Democratic Republic of Congo (DRC) has officially reached out to former President Donald Trump for assistance in restoring peace to the conflict-ridden nation. This is no ordinary request; the \u2026",
+    "link": "https://freerepublic.com/focus/f-bloggers/4305735/posts",
+    "timestamp": "2025-03-21T02:01:49Z"
+  },
+  {
+    "title": "Houthi chutzpah cannot last in face of Israel, US strength",
+    "description": "As Jerusalemites rush to shelters amid Houthi missile threats, they represent the smallest of Iran's proxies - like schoolyard followers shouting \"Yeah!\" behind bullies.",
+    "link": "https://www.jpost.com/opinion/article-846990",
+    "timestamp": "2025-03-21T02:01:48Z"
+  },
+  {
+    "title": "Trump signs order to 'eliminate' US Education Department",
+    "description": "<p>WASHINGTON - US President Donald Trump signed an order Thursday aimed at \"eliminating\" the Department of Education, a decades-old goal of the American right, which wants individual states to run schools free from the federal government.</p>",
+    "link": "https://www.bangkokpost.com/world/2984703/trump-signs-order-to-eliminate-us-education-department",
+    "timestamp": "2025-03-21T02:00:00Z"
+  },
+  {
+    "title": "Eric Trump joins Metaplanet strategic board of advisors",
+    "description": "Bitcoin-stacking firm Metaplanet has appointed US President Donald Trump\u2019s son, Eric Trump, to its newly established Strategic Board of Advisors to further Metaplanet\u2019s mission to become a \u201cglobal leader in the Bitcoin economy.\u201d\u201dHis business acumen, love of t\u2026",
+    "link": "https://cointelegraph.com/news/eric-trump-joins-metaplanet-strategic-board-advisors",
+    "timestamp": "2025-03-21T01:56:21Z"
+  },
+  {
+    "title": "Taiwan\u2019s president says the defense budget will exceed 3% of GDP in military overhaul",
+    "description": "TAIPEI, Taiwan (AP) \u2014 Taiwanese President William Lai Ching-te said Thursday that the island\u2019s defense budget will exceed 3% of its economic output as it overhauls its military in the face of the rising threat from China. Along with the latest equipment \u2014 muc\u2026",
+    "link": "https://financialpost.com/pmn/taiwans-president-says-the-defense-budget-will-exceed-3-of-gdp-in-military-overhaul",
+    "timestamp": "2025-03-21T01:56:00Z"
+  },
+  {
+    "title": "North Korea says it tested new missiles as it threatens against US-South Korea drills",
+    "description": "North Korea says it has test-launched new anti-aircraft missiles, as its military threatens unspecified grave steps against the U.S. and South Korea over their military drills",
+    "link": "https://abcnews.go.com/International/wireStory/north-korea-tested-new-missiles-threatens-strong-steps-120006244",
+    "timestamp": "2025-03-21T01:54:52Z"
+  },
+  {
+    "title": "Alexandria Ocasio-Cortez and Bernie Sanders rally Democrats, calling for a party that 'fights harder'",
+    "description": "LAS VEGAS \u2014 At the first stop of their \u201cFighting Oligarchy\u201d tour out West, two of the Democratic Party\u2019s most unabashed progressive lawmakers had plenty to say about President Donald Trump.",
+    "link": "https://www.nbcnews.com/politics/congress/alexandria-ocasio-cortez-bernie-sanders-rally-democrats-rcna197296",
+    "timestamp": "2025-03-21T01:53:27Z"
+  },
+  {
+    "title": "Zimbabwean millennial Kirsty Coventry gets Olympic top job",
+    "description": "Zimbabwean Olympic swimmer Kirsty Coventry has been elected to head the International Olympic Committee. The two-time gold medalist is marking a whole new set of 'firsts.'",
+    "link": "https://www.npr.org/2025/03/20/nx-s1-5335529/zimbabwean-millennial-kirsty-coventry-gets-olympic-top-job",
+    "timestamp": "2025-03-21T01:52:38Z"
+  },
+  {
+    "title": "Musk To Be Briefed On Top-Secret US Plan For Potential War With China: Report",
+    "description": "Access to the closely guarded military plan would mark a sharp expansion of Elon Musk&#039;s role as a Donald Trump adviser who has spearheaded efforts to cut US government spending.",
+    "link": "https://www.ndtv.com/world-news/elon-musk-to-be-briefed-on-top-secret-us-plan-for-potential-war-with-china-report-7972817",
+    "timestamp": "2025-03-21T01:52:35Z"
+  },
+  {
+    "title": "U.S. dollar stands tall after Fed signals no rush to cut rates",
+    "description": "The U.S. dollar strengthened against major currencies following a Federal Reserve decision to keep interest rates steady, signaling no rush to cut rates. The Australian and New Zealand dollars suffered losses due to concerns over economic impacts from Trump's\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/u-s-dollar-stands-tall-after-fed-signals-no-rush-to-cut-rates/articleshow/119279945.cms",
+    "timestamp": "2025-03-21T01:51:44Z"
+  },
+  {
+    "title": "US judge blocks expulsion of Indian researcher detained over alleged Hamas ties",
+    "description": "A US judge has prevented the deportation of Indian researcher Badar Khan Suri, who was detained over alleged ties to Hamas. Georgetown University's Suri faces accusations of spreading Hamas propaganda. The ACLU and his lawyer argue the detention is an unconst\u2026",
+    "link": "https://economictimes.indiatimes.com/news/india/us-judge-blocks-expulsion-of-indian-researcher-detained-over-alleged-hamas-ties/articleshow/119279919.cms",
+    "timestamp": "2025-03-21T01:50:42Z"
+  },
+  {
+    "title": "White House strikes deal with major law firm to lift sanctions (Daniel Barnes/Politico)",
+    "description": "Daniel Barnes / Politico:\nWhite House strikes deal with major law firm to lift sanctions -- Paul, Weiss agrees to provide free legal assistance for causes favored by the White House. -- President Donald Trump has reached a peace deal with a prominent law firm\u2026",
+    "link": "https://www.memeorandum.com/250320/p151",
+    "timestamp": "2025-03-21T01:50:00Z"
+  },
+  {
+    "title": "Kennedy Center employee delivers naked video monologue deriding the president\u2019s takeover: \u2018F\u2013k Donald Trump\u2019",
+    "description": "\u201cHe vowed to ban drag performers from [the Center's] stages, and as the saying goes, \u2018We\u2019re all born naked, and the rest is drag,'\" he said before stripping down to his birthday suit in the video.",
+    "link": "https://nypost.com/2025/03/20/us-news/kennedy-center-employee-delivers-naked-video-monologue-deriding-the-presidents-takeover-f-k-donald-trump/",
+    "timestamp": "2025-03-21T01:49:34Z"
+  },
+  {
+    "title": "Trump trade upheaval leaves foreign central banks guessing",
+    "description": "Slowing U.S. growth and rising inflation from Trump's tariff policies could drag the global economy, prompting central banks like the Bank of England and Bank of Japan to maintain cautious stances. The Fed projects slower U.S. growth tied with higher inflatio\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/trump-trade-upheaval-leaves-foreign-central-banks-guessing/articleshow/119279866.cms",
+    "timestamp": "2025-03-21T01:48:07Z"
+  },
+  {
+    "title": "Pentagon to brief Musk on top-secret plan for potential war with China, NYT reports",
+    "description": "Access to the closely guarded military plan would mark an sharp expansion of Musk's role as a Trump adviser who has spearheaded efforts to cut US government spending.",
+    "link": "https://www.jpost.com/breaking-news/article-846989",
+    "timestamp": "2025-03-21T01:46:22Z"
+  },
+  {
+    "title": "Oil set for weekly gain on Iran sanctions, OPEC+ plan to rein in overproduction",
+    "description": "Oil prices have risen and are set for their second consecutive weekly gains following new U.S. sanctions on Iran and an OPEC+ plan to cut output. Brent crude and WTI prices have both increased, with Brent at $72.40 per barrel and WTI at $68.52 a barrel, spurr\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-weekly-gain-on-iran-sanctions-opec-plan-to-rein-in-overproduction/articleshow/119279816.cms",
+    "timestamp": "2025-03-21T01:46:18Z"
+  },
+  {
+    "title": "Pentagon to Brief Musk on Plans for Potential War With China: Report",
+    "description": "Elon Musk is set to be briefed Friday on plans for any war the U.S. might have with China, two U.S. officials told The New York Times.\nThe post Pentagon to Brief Musk on Plans for Potential War With China: Report first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/news/pentagon-to-brief-musk-on-plans-for-potential-war-with-china-report/",
+    "timestamp": "2025-03-21T01:45:27Z"
+  },
+  {
+    "title": "US Judge Blocks Indian Researcher's Deportation Over Alleged Hamas Ties",
+    "description": "A US judge ordered Thursday that an Indian researcher at a top American university not be removed from the country, following his arrest and threat of expulsion for alleged Hamas ties.",
+    "link": "https://www.ndtv.com/world-news/badar-khan-suri-deportation-news-us-judge-blocks-indian-researchers-deportation-over-alleged-hamas-ties-7972781",
+    "timestamp": "2025-03-21T01:41:49Z"
+  },
+  {
+    "title": "US dollar stands tall after Fed signals no rush to cut rates",
+    "description": "TOKYO : The U.S. dollar was on the front foot against major peers on Friday after its best single-day performance for three weeks with the Federal Reserve indicating no rush to cut interest rates.The risk-sensitive Australian and New Zealand dollars remained \u2026",
+    "link": "https://www.channelnewsasia.com/business/us-dollar-stands-tall-after-fed-signals-no-rush-cut-rates-5014871",
+    "timestamp": "2025-03-21T01:40:06Z"
+  },
+  {
+    "title": "World's Glacier Mass Shrank For The Third Consecutive Year In 2024: UN",
+    "description": "All 19 of the world&#039;s glacier regions experienced a net loss of mass in 2024 for the third consecutive year, the United Nations said on Friday, warning that saving the planet&#039;s glaciers was now a matter of &quot;survival&quot;.",
+    "link": "https://www.ndtv.com/world-news/worlds-glacier-mass-shrank-for-the-third-consecutive-year-in-2024-un-7972746",
+    "timestamp": "2025-03-21T01:38:19Z"
+  },
+  {
+    "title": "Fired Federal Official Explains Exactly Why She Believes Trump's 'Afraid Of' Her",
+    "description": "Rebecca Kelly Slaughter, one of two Democratic members fired from the FTC, slammed the president for his \"absolutely illegal\" move in letting her go.",
+    "link": "https://www.huffpost.com/entry/fired-ftc-commissioner-rebecca-kelly-slaughter-trump_n_67dca136e4b0a8152475976a",
+    "timestamp": "2025-03-21T01:37:43Z"
+  },
+  {
+    "title": "Trump says U.S. will sign Ukraine minerals deal soon",
+    "description": "The U.S. president made the comments at a White House event after signing an order to increase U.S. production of critical minerals.",
+    "link": "https://www.japantimes.co.jp/news/2025/03/21/world/politics/trump-ukraine-minerals-deal/",
+    "timestamp": "2025-03-21T01:36:00Z"
+  },
+  {
+    "title": "Trump threatens judge pressing DOJ for answers over El Salvador deportations - NPR",
+    "description": "Trump threatens judge pressing DOJ for answers over El Salvador deportationsNPR Trump demands Supreme Court step in after federal judges block his agenda: 'These people are Lunatics'Fox News Trump calls for a stop to nationwide injunctions amid court setbacks\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176781547",
+    "timestamp": "2025-03-21T01:34:07Z"
+  },
+  {
+    "title": "Avoid U.S. stocks while 'chaos monkeys' run the show, economist says",
+    "description": "President Donald Trump has upended the global geopolitical order in place for more than 70 years with major economic consequences that have only begun to be felt, and which won\u2019t help the U.S., according to economist David McWilliams.\nThe president\u2019s \u201cterrify\u2026",
+    "link": "https://biztoc.com/x/82e5a319ab6a8c4f",
+    "timestamp": "2025-03-21T01:33:09Z"
+  },
+  {
+    "title": "Shares of CK Hutchison set to open down after drop in profit",
+    "description": "HONG KONG : Shares of CK Hutchison were set to open down 2.7 per cent on Friday after the company reported an 11 per cent drop in underlying profit for 2024.",
+    "link": "https://www.channelnewsasia.com/business/shares-hong-kongs-ck-hutchison-drop-dividend-disappointment-volatile-outlook-5014846",
+    "timestamp": "2025-03-21T01:30:28Z"
+  },
+  {
+    "title": "Shares of CK Hutchison set to open down after drop in profit",
+    "description": "HONG KONG : Shares of CK Hutchison were set to open down 2.7 per cent on Friday after the company reported an 11 per cent drop in underlying profit for 2024.",
+    "link": "https://www.channelnewsasia.com/business/shares-ck-hutchison-set-open-down-after-drop-profit-5014846",
+    "timestamp": "2025-03-21T01:30:28Z"
+  },
+  {
+    "title": "President Trump on Truth Social: If Justice Roberts and the United States Supreme Court do not fix this toxic and unprecedented situation IMMEDIATELY, our Country is in very serious trouble!",
+    "description": "Donald J. Trump @realDonaldTrump Unlawful Nationwide Injunctions by Radical Left Judges could very well lead to the destruction of our Country! These people are Lunatics, who do not care, even a little bit, about the repercussions from their very dangerous an\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4305729/posts",
+    "timestamp": "2025-03-21T01:30:07Z"
+  },
+  {
+    "title": "FedEx cuts full-year results forecast on 'uncertainty' in economy, bad weather",
+    "description": "FedEx\u00a0lowered its full-year profit and revenue forecasts on Thursday, as the parcel delivery firm battles stubbornly soft demand and uncertainty in the U.S. industrial economy as President\u00a0Donald Trump\u00a0imposes\u00a0tariffs\u00a0on trading partners.",
+    "link": "https://www.cnbc.com/2025/03/20/fedex-cuts-full-year-results-forecast-on-uncertainty-in-economy-bad-weather.html",
+    "timestamp": "2025-03-21T01:26:08Z"
+  },
+  {
+    "title": "Donald Trump reportedly expressed affection for \u2018Fiddler on the Roof\u2019 at Kennedy Center meeting",
+    "description": "Trump has not previously been reported to be a Fiddler fan, but the musical has intersected with him before.",
+    "link": "https://www.jpost.com/international/article-846988",
+    "timestamp": "2025-03-21T01:24:54Z"
+  },
+  {
+    "title": "Alarm as Elon Musk gets access to top-secret plan for war with China",
+    "description": "Elon Musk is set to receive a briefing at the Pentagon on Friday over top-secret U.S.-China war plans, The New York Times reported late Thursday.The Times spoke with two U.S. officials who confirmed the scheduled meeting. A third official said the briefing wo\u2026",
+    "link": "https://www.rawstory.com/elon-musk-2671373515/",
+    "timestamp": "2025-03-21T01:21:54Z"
+  },
+  {
+    "title": "Trump Tells Digital Asset Summit Attendees US Will \u2018Dominate Crypto\u2019",
+    "description": "President Donald Trump told a digital asset conference Thursday (March 20) that the United States is going to \u201cdominate crypto and the next generation of financial technologies.\u201d\nIn remarks delivered remotely to the Blockworks Digital Asset Summit in New York\u2026",
+    "link": "https://biztoc.com/x/a0a4f0dddc711834",
+    "timestamp": "2025-03-21T01:21:35Z"
+  },
+  {
+    "title": "House Democrats\u2019 Campaign Committee Beats Republicans In February Fundraising",
+    "description": "The main campaign arm for House Democrats beat its Republican counterpart in fundraising in February, a bright spot for Democratic Leader Hakeem Jeffries following intra-party discord over the recent government funding fight. The Democrats Congressional Campa\u2026",
+    "link": "http://deadline.com/2025/03/house-democrats-campaign-fundraising-1236346159/",
+    "timestamp": "2025-03-21T01:19:11Z"
+  },
+  {
+    "title": "Trump trade upheaval leaves foreign central banks guessing",
+    "description": "The stagflationary direction noted of the U.S. outlook has central banks across the globe parsing what the fallout may mean for them.",
+    "link": "https://www.japantimes.co.jp/business/2025/03/21/economy/trump-trade-foreign-banks-uncertainty/",
+    "timestamp": "2025-03-21T01:18:00Z"
+  },
+  {
+    "title": "EU\u2019s Kallas \u2018angered\u2019 by Spanish PM \u2013 Euractiv",
+    "description": "The EU\u2019s foreign policy chief, Kaja Kallas, reportedly had a tense exchange with Spanish Prime Minister Pedro Sanchez Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/614563-kallas-angry-with-pedro-sanchez/",
+    "timestamp": "2025-03-21T01:17:57Z"
+  },
+  {
+    "title": "DOGE deputy, Treasury Secretary dish on crusade to pull the IRS out of its 'really big hole'",
+    "description": "Department of Government Efficiency deputy Sam Corcos and Treasury Secretary Scott Bessent break down efforts to end wasteful spending on 'The Ingraham Angle.'",
+    "link": "https://www.foxnews.com/media/doge-deputy-treasury-secretary-dish-crusade-pull-irs-out-its-really-big-hole",
+    "timestamp": "2025-03-21T01:16:08Z"
+  },
+  {
+    "title": "World's Glacier Mass Shrank Again In 2024, Says UN",
+    "description": "All 19 of the world's glacier regions experienced a net loss of mass in 2024 for the third consecutive year, the United Nations said on Friday, warning that saving the planet's glaciers was now a matter of \"survival\".",
+    "link": "https://www.ibtimes.com/worlds-glacier-mass-shrank-again-2024-says-un-3767146",
+    "timestamp": "2025-03-21T01:15:13Z"
+  },
+  {
+    "title": "White House strikes deal with major law firm to lift sanctions - POLITICO",
+    "description": "White House strikes deal with major law firm to lift sanctionsPOLITICO ADDRESSING RISKS FROM PAUL WEISSThe White House White House rescinds executive order targeting prominent law firmThe Associated Press Trump Withdrawing Paul Weiss Order After $40 Million A\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176781465",
+    "timestamp": "2025-03-21T01:13:21Z"
+  },
+  {
+    "title": "Judge Prevents DOGE From Accessing Social Security Information",
+    "description": "A federal judge issued a temporary restraining order preventing the White House\u2019s Department of Government Efficiency (DOGE) from accessing personally identifiable information from the Social Security Administration. The ruling came in response to a lawsuit b\u2026",
+    "link": "https://www.pymnts.com/politics/2025/judge-prevents-doge-from-accessing-social-security-information/",
+    "timestamp": "2025-03-21T01:12:41Z"
+  },
+  {
+    "title": "US Attorney General Says District Judge Has 'No Right' To Ask Flight Deportation Questions",
+    "description": "U.S. Attorney General Pam Bondi said that a federal judge who blocked the Trump administration from invoking the 1798 Alien Enemies Act to remove illegal immigrants has \u201cno right\u201d to ask questions on flights carrying deported individuals.U.S. District Judge J\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4305725/posts",
+    "timestamp": "2025-03-21T01:12:31Z"
+  },
+  {
+    "title": "2 Teslas set on fire in Calgary this week, police say",
+    "description": "Calgary police are looking into what they believe are two separate arsons linked to Tesla vehicles in the city this week.",
+    "link": "https://www.cbc.ca/news/canada/calgary/2-teslas-set-on-fire-in-calgary-this-week-police-say-1.7489407",
+    "timestamp": "2025-03-21T01:11:07Z"
+  },
+  {
+    "title": "Asian stocks jittery as tariff concerns mount",
+    "description": "Japan\u2019s stock market opened higher, but South Korean shares fell and equity index futures for Hong Kong were down. US futures edged higher after the S&P 500 closed slightly down Thursday, a sign that investors are struggling to find a clear sense of direction.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-jittery-as-tariff-concerns-mount/articleshow/119279005.cms",
+    "timestamp": "2025-03-21T01:07:40Z"
+  },
+  {
+    "title": "The Department of Education is Unconstitutional \u2013 and Unnecessary",
+    "description": "President Donald Trump angered much of America\u2019s education establishment Thursday when he signed an executive order to begin the dismantling of the Department of Education \u201cas quickly as possible.\u201d Predictably, ahead of the signing, teachers unions issued dir\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4305722/posts",
+    "timestamp": "2025-03-21T01:07:08Z"
+  },
+  {
+    "title": "Trump signs order aimed at dismantling US Department of Education",
+    "description": "President Trump signed an executive order aiming to dismantle the federal Department of Education, shifting control of education to states and local boards. This move, aligned with conservative views, has sparked concerns among liberal education advocates, as\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-signs-order-aimed-at-dismantling-us-department-of-education/articleshow/119278914.cms",
+    "timestamp": "2025-03-21T01:02:55Z"
+  },
+  {
+    "title": "CNBC Daily Open: DOGE cuts and tariffs hit Accenture and Nike hard",
+    "description": "The Trump administration\u2019s radical overhaul of the federal government and economic policy is bleeding into corporate numbers.",
+    "link": "https://www.cnbc.com/2025/03/21/cnbc-daily-open-doge-cuts-and-tariffs-hit-accenture-and-nike-hard.html",
+    "timestamp": "2025-03-21T01:02:31Z"
+  },
+  {
+    "title": "Money-hungry AI search startup Perplexity in talks to raise up to $1B in fresh funding",
+    "description": "The artificial intelligence search application company Perpexity AI Inc. is gearing up for yet another mammoth funding round, according to the latest chat from Bloomberg and CNBC. Anonymous sources told Bloomberg that the early-stage discussions with investor\u2026",
+    "link": "https://siliconangle.com/2025/03/20/money-hungry-ai-search-startup-perplexity-talks-raise-1b-fresh-funding/",
+    "timestamp": "2025-03-21T01:02:19Z"
+  },
+  {
+    "title": "Trump has outflanked the Civil War as the greatest threat to the U.S.",
+    "description": "While there's more persevering truth than some will concede in the wrenching paradox of the Lost Cause as the Civil War's victor in reactionary sentiment, the conflict's self-contradiction ends there; the Confederacy failed in its weaponized attempt to first \u2026",
+    "link": "https://www.pmcarpenter.com/post/trump-has-outflanked-the-civil-war-as-the-greatest-threat-to-the-u-s",
+    "timestamp": "2025-03-21T01:02:15Z"
+  },
+  {
     "title": "Donald Trump signs executive order to \u2018eliminate\u2019 Department of Education",
     "description": "The executive order begins the process of dismantling the department, a process which requires congressional approval.",
     "link": "https://www.aljazeera.com/news/2025/3/21/donald-trump-signs-executive-order-to-eliminate-department-of-education",
@@ -178,395 +574,5 @@
     "description": "Illinois Republicans are facing mounting pressure to break from President Trump and oppose proposed Medicaid cuts that could impact hundreds of thousands of residents.",
     "link": "https://www.fox32chicago.com/news/illinois-doctors-patients-rally-against-trump-backed-medicaid-cuts-im-furious",
     "timestamp": "2025-03-21T00:20:33Z"
-  },
-  {
-    "title": "Macron Announces Fresh Coalition Meeting On Ukraine Next Week In Paris",
-    "description": "French President Emmanuel Macron said leaders of the coalition backing Ukraine would meet again next week, hoping to finalise plans to secure a potential truce in the war with Russia.",
-    "link": "https://www.ndtv.com/world-news/emmanuel-macron-announces-fresh-coalition-meeting-on-ukraine-next-week-in-paris-7972504",
-    "timestamp": "2025-03-21T00:20:14Z"
-  },
-  {
-    "title": "Transgender runner blows out competition, sets season records in girls\u2019 races at Oregon high school track meet",
-    "description": "The same\u00a0Oregon high school\u00a0that came under fire last year for allowing a transgender athlete to compete against girls continues to blow away the competition one year later.",
-    "link": "https://nypost.com/2025/03/20/us-news/transgender-runner-blows-out-competition-sets-season-records-in-girls-races-at-oregon-high-school-track-meet/",
-    "timestamp": "2025-03-21T00:19:06Z"
-  },
-  {
-    "title": "Maine universities agree to keep transgender athletes out of women's sports after Trump admin pauses funding",
-    "description": "The U.S. Department of Agriculture announced Wednesday the University of Maine System has agreed to keep trans athletes out of women's sports.",
-    "link": "https://www.foxnews.com/sports/maine-universities-agree-keep-trans-athletes-out-womens-sports-after-trump-admin-pauses-funding",
-    "timestamp": "2025-03-21T00:18:27Z"
-  },
-  {
-    "title": "Trump Signs Order To 'Eliminate' US Education Department",
-    "description": "US President Donald Trump signed an order Thursday aimed at \"eliminating\" the Department of Education, a decades-old goal of the American right, which wants individual states to run schools free from the federal government.",
-    "link": "https://www.ibtimes.com/trump-signs-order-eliminate-us-education-department-3767143",
-    "timestamp": "2025-03-21T00:18:07Z"
-  },
-  {
-    "title": "Greenpeace $660mn Damages Ruling Shocks Global NGOs",
-    "description": "Civil society groups on Thursday condemned a US court order that Greenpeace pay over $660 million in damages to an oil pipeline company as a chilling attack on climate action around the globe.",
-    "link": "https://www.ibtimes.com/greenpeace-660mn-damages-ruling-shocks-global-ngos-3767140",
-    "timestamp": "2025-03-21T00:18:06Z"
-  },
-  {
-    "title": "Trump threatens to impose US tariffs on India from April 2",
-    "description": "US News: US President Donald Trump said he has a \u201cvery good relationship\u201d with India, but the \u201conly problem\u201d he has with the country is that it is \u201cone of the .",
-    "link": "https://timesofindia.indiatimes.com/world/us/trump-threatens-to-impose-us-tariffs-on-india-from-april-2/articleshow/119277688.cms",
-    "timestamp": "2025-03-21T00:17:20Z"
-  },
-  {
-    "title": "US President Donald Trump begins dismantling the Department of Education",
-    "description": "US President Donald Trump begins dismantling the Department of Education7news.com.au",
-    "link": "https://7news.com.au/news/us-president-donald-trump-begins-dismantling-the-department-of-education-c-18111398",
-    "timestamp": "2025-03-21T00:15:04Z"
-  },
-  {
-    "title": "Ceasefire proposed by Trump Has Already Been Violated by Ukraine \u2013 Russian FM Spokeswoman",
-    "description": "Russian Foreign Ministry spokeswoman Maria Zakharova commented on Ukraine\u2019s continued attacks on Russian energy infrastructure, despite the partial ceasefire brokered by US President Donald Trump.",
-    "link": "https://sputnikglobe.com/20250321/ceasefire-proposed-by-trump-has-already-been-violated-by-ukraine--russian-fm-spokeswoman-1121658003.html",
-    "timestamp": "2025-03-21T00:14:00Z"
-  },
-  {
-    "title": "Donald Trump Just Tied His Own Approval Rating Record",
-    "description": "President Donald Trump has struggled to gain approval from the public on his handling of key issues on which he campaigned.",
-    "link": "https://www.newsweek.com/donald-trump-tied-record-approval-rating-2048308",
-    "timestamp": "2025-03-21T00:13:57Z"
-  },
-  {
-    "title": "\u30c8\u30e9\u30f3\u30d7\u6c0f\u3001\u6559\u80b2\u7701\u5ec3\u6b62\u306b\u5411\u3051\u305f\u5927\u7d71\u9818\u4ee4\u306b\u7f72\u540d",
-    "description": "\u8ee2\u8f09\u5143: https://hayabusa.open2ch.net/test/read.cgi/livejupiter/1742514240/1: \u540d\u7121\u3057\u3055\u3093\uff20\u304a\u30fc\u3077\u3093 25/03/21(\u91d1) 08:44:00 ID:kPSh\nBREAKING: President Donald Trump signs an executive order calling for the elimination of the U.S. Education Department. https:...",
-    "link": "http://blog.livedoor.jp/nanjstu/archives/62232018.html",
-    "timestamp": "2025-03-21T00:13:47Z"
-  },
-  {
-    "title": "\u2018Nothing Scares These Swamp Creatures More\u2019: House Rep Discusses Plan To Take On Activist Judges",
-    "description": "Florida Republican Rep. Kat Cammack laid out a plan to confront activist judges during her appearance on Fox Business Thursday.",
-    "link": "https://dailycaller.com/2025/03/20/kat-cammack-reins-act-activist-judge/",
-    "timestamp": "2025-03-21T00:13:30Z"
-  },
-  {
-    "title": "Immediate Measures to Increase American Mineral Production - The White House",
-    "description": "Immediate Measures to Increase American Mineral ProductionThe White House Trump signs order to increase critical mineral production in the U.S.CNBC Trump invokes emergency powers to boost US critical minerals productionReuters Trump signs minerals order, conf\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176781189",
-    "timestamp": "2025-03-21T00:13:29Z"
-  },
-  {
-    "title": "Nuclear experts pour cold water on US idea to restore and run Ukrainian power plant - CNN",
-    "description": "Nuclear experts pour cold water on US idea to restore and run Ukrainian power plantCNN Ukraine\u2019s phony peace has begun. Only Trump still believes it\u2019s real.POLITICO Europe Partial ceasefire comes with warning from Kyiv: Russia breaches dealsThe Washington Pos\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176781185",
-    "timestamp": "2025-03-21T00:13:18Z"
-  },
-  {
-    "title": "Trump Reiterates Support for Crypto, Stablecoin Legislation",
-    "description": "Donald Trump rehashed the crypto-supportive actions taken by his administration since he returned to the US presidency and reiterated support for stablecoin legislation, saying it will help expand the dollar\u2019s dominance.\n\u201cI\u2019ve also called on Congress to pass \u2026",
-    "link": "https://biztoc.com/x/1321027a9e218554",
-    "timestamp": "2025-03-21T00:13:12Z"
-  },
-  {
-    "title": "Democratic Gov. Beshear vetoes GOP bill to dismantle DEI efforts at Kentucky\u2019s public universities",
-    "description": "FRANKFORT, Ky. (AP) \u2014 Kentucky Democratic Gov. Andy Beshear vetoed a GOP-backed bill Thursday to dismantle diversity, equity and inclusion efforts at public universities, declaring that diversity should be embraced as a strength while branding the legislation\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4305713/posts",
-    "timestamp": "2025-03-21T00:13:08Z"
-  },
-  {
-    "title": "Manitoba government boots Tesla from EV rebate program as part of budget's 'elbows up' commitment",
-    "description": "The Manitoba government is fighting back in the ongoing trade war with the United States by ending its provincial parks pass\u00a0contract with a Texas-based company and kicking electric vehicles made by Elon Musk's company Tesla out of its rebate program.",
-    "link": "https://www.cbc.ca/news/canada/manitoba/tesla-budget-ev-rebate-1.7488033",
-    "timestamp": "2025-03-21T00:13:04Z"
-  },
-  {
-    "title": "US Border Crackdown No Threat To 2026 World Cup: Football Chief",
-    "description": "CONCACAF football chief Victor Montagliani played down concerns over a US border crackdown impacting the 2026 World Cup on Thursday, following a flurry of recent cases involving foreign visitors who have been detained or deported after attempting to enter the\u2026",
-    "link": "https://www.ibtimes.com/us-border-crackdown-no-threat-2026-world-cup-football-chief-3767138",
-    "timestamp": "2025-03-21T00:12:06Z"
-  },
-  {
-    "title": "FBI Agent Who Opposed Trump's First Term Charged for Disclosing Confidential Information",
-    "description": "An FBI agent who opposed Trump during his first term was arrested and charged on Monday for sharing confidential information.\nThe post FBI Agent Who Opposed Trump\u2019s First Term Charged for Disclosing Confidential Information appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2025/03/20/fbi-agent-who-opposed-trumps-first-term-charged-for-disclosing-confidential-information/",
-    "timestamp": "2025-03-21T00:07:29Z"
-  },
-  {
-    "title": "Rachel Zegler says \u2018Snow White\u2019 role was \u2018honor of a lifetime\u2019 after calling original film \u2018weird\u2019: \u2018Huge Disney fan\u2019",
-    "description": "The fairest role of them all?",
-    "link": "https://nypost.com/2025/03/20/entertainment/rachel-zegler-calls-snow-white-role-honor-of-a-lifetime-after-backlash/",
-    "timestamp": "2025-03-21T00:06:48Z"
-  },
-  {
-    "title": "Trump Tells Digital Asset Summit Attendees US Will \u2018Dominate Crypto\u2019",
-    "description": "President Donald Trump told a digital asset conference Thursday (March 20) that the United States is going to \u201cdominate crypto and the next generation of financial technologies.\u201d In remarks delivered remotely to the Blockworks\u00a0Digital Asset Summit in New York\u2026",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/trump-tells-digital-asset-summit-attendees-us-will-dominate-crypto/",
-    "timestamp": "2025-03-21T00:06:29Z"
-  },
-  {
-    "title": "States Are Waiting to Hear What Abolishing the Education Department Means for Them (Violet Jira/NOTUS)",
-    "description": "Violet Jira / NOTUS:\nStates Are Waiting to Hear What Abolishing the Education Department Means for Them -- Trump says his executive order is about giving education back to the states. What that means functionally is light on details. -- Copy -- President Dona\u2026",
-    "link": "https://www.memeorandum.com/250320/p142",
-    "timestamp": "2025-03-21T00:05:02Z"
-  },
-  {
-    "title": "Trump signs order aimed at dismantling US Department of Education (Reuters)",
-    "description": "Reuters:\nTrump signs order aimed at dismantling US Department of Education -- Flanked by students and educators, U.S. President Donald Trump on Thursday signed an executive order intended to essentially dismantle the federal Department of Education, making go\u2026",
-    "link": "https://www.memeorandum.com/250320/p141",
-    "timestamp": "2025-03-21T00:05:02Z"
-  },
-  {
-    "title": "Fed would be much better off cutting rates, says Trump",
-    "description": "Trump's post Wednesday evening comes as his administration prepares to unveil a fresh wave of tariffs, which Federal Reserve Chair Jerome Powell signaled was hanging over forecasts.",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fed-would-be-much-better-off-cutting-rates-says-trump/articleshow/119277563.cms",
-    "timestamp": "2025-03-21T00:03:27Z"
-  },
-  {
-    "title": "Georgetown researcher arrest escalates Trump speech crackdown, scholars say",
-    "description": "Georgetown fellow Badar Khan Suri, an Indian citizen, was targeted over his personal views on Palestine, supporters say.",
-    "link": "https://www.aljazeera.com/news/2025/3/20/georgetown-researcher-arrest-escalates-trump-speech-crackdown-scholars-say",
-    "timestamp": "2025-03-21T00:01:44Z"
-  },
-  {
-    "title": "US tariffs could cost Irish economy more than \u20ac18bn in lost trade",
-    "description": "ESRI study warns of \u2018significant negative impact\u2019 on economy from US tariffs and other protectionist measures",
-    "link": "https://www.irishtimes.com/business/2025/03/21/us-tariffs-could-cost-irish-economy-more-than-18bn-in-lost-trade/",
-    "timestamp": "2025-03-21T00:01:00Z"
-  },
-  {
-    "title": "Trump Media Executives Enter Crypto\u2014$180 Million SPAC Announced",
-    "description": "Top executives from the Trump Media & Technology Group have collaborated to launch a special purpose acquisition company (SPAC). The company aims to raise roughly $179 million to fund its expansion into blockchain, crypto, and data security. The new company i\u2026",
-    "link": "https://bitcoinist.com/trump-media-executives-enter-crypto-180-million-spac-announced/",
-    "timestamp": "2025-03-21T00:00:30Z"
-  },
-  {
-    "title": "Jackie Robinson Again Teaches Us to Never Back Down to Bigots",
-    "description": "Activism\n \n \n / \n March 21, 2025\n \r\n\n \nJackie Robinson Again Teaches Us to Never Back Down to Bigots\r\n\n\n\nAn article on Jackie Robinson\u2019s military career was restored to the Defense Department\u2019s website. It\u2019s reminder that we can beat back the racist right.\r\n\n\u2026",
-    "link": "https://www.thenation.com/article/society/jackie-robinson-defense-department-pete-hegseth/",
-    "timestamp": "2025-03-21T00:00:00Z"
-  },
-  {
-    "title": "Embattled Tesla recalls nearly all Cybertrucks over risk of panel detachment",
-    "description": "More than 46,000 vehicles suffer defect.",
-    "link": "https://www.nzherald.co.nz/business/embattled-tesla-recalls-nearly-all-cybertrucks-over-risk-of-panel-detachment/3RCJLBTF3RGPRL35KM2KDT6SV4/",
-    "timestamp": "2025-03-20T23:59:27Z"
-  },
-  {
-    "title": "Has US Education Dept impeded students? False claims by conservatives",
-    "description": "Do American students really rank at the bottom of international comparisons and does the United States really spend more per pupil than any other country? Those are the false claims made by President Donald Trump and his backers to justify shutting the Depart\u2026",
-    "link": "https://www.rawstory.com/department-of-education-2671373260/",
-    "timestamp": "2025-03-20T23:57:38Z"
-  },
-  {
-    "title": "REVEALED: Chief Justice John Roberts Caught in Secretive, Invite-Only Club for Elite Judges and Lawyers That Includes James Boasberg, Beryl Howell, Amit Mehta and Ketanji Brown Jackson",
-    "description": "Full title: Chief Justice John Roberts Caught in Secretive, Invite-Only Club for Elite Judges and Lawyers That Includes James Boasberg, Beryl Howell, Amit Mehta and Ketanji Brown Jackson .... This is a shocking development.",
-    "link": "https://freerepublic.com/focus/f-news/4305712/posts",
-    "timestamp": "2025-03-20T23:57:22Z"
-  },
-  {
-    "title": "Trump pressures courts after reprimand on deportations",
-    "description": "US President Donald Trump demanded Thursday that courts stop blocking his agenda, edging closer to a constitutional showdown after a judge suggested the administration ignored an order to block summary deportations. A federal judge, in a strongly worded order\u2026",
-    "link": "https://www.digitaljournal.com/world/trump-pressures-courts-after-reprimand-on-deportations-2/article",
-    "timestamp": "2025-03-20T23:57:20Z"
-  },
-  {
-    "title": "The potential impacts of closing the Department of Education, explained",
-    "description": "The federal agency handles financial aid for college students, civil rights enforcement and federal funding for marginalized K-12 students.",
-    "link": "https://www.snopes.com//news/2025/03/20/trump-abolish-education-explained/",
-    "timestamp": "2025-03-20T23:56:00Z"
-  },
-  {
-    "title": "Donald Trump Has Issued An Executive Order To Close The Department Of Education. Now What?",
-    "description": "The order is short on specifics; what can President Trump and Secretary of Education Linda McMahon actually legally do?",
-    "link": "https://www.forbes.com/sites/petergreene/2025/03/20/donald-trump-has-issued-an-executive-order-to-close-the-department-of-education-now-what/",
-    "timestamp": "2025-03-20T23:55:59Z"
-  },
-  {
-    "title": "US border crackdown no threat to 2026 World Cup: football chief",
-    "description": "by Rob WoollardCONCACAF football chief Victor Montagliani played down concerns over a US border crackdown impacting the 2026 World Cup on Thursday, following a flurry of recent cases involving foreign visitors who have been detained or deported after attempti\u2026",
-    "link": "https://www.rawstory.com/world-cup/",
-    "timestamp": "2025-03-20T23:55:54Z"
-  },
-  {
-    "title": "Trump Admin Arrests FBI Agent Who Went After Rudy Giuliani",
-    "description": "A veteran FBI agent who blew the whistle on what he saw as political meddling in the bureau\u2019s work was arrested this week by federal authorities while...",
-    "link": "https://www.thedailybeast.com/trump-admin-arrests-fbi-agent-who-went-after-rudy-giuliani/",
-    "timestamp": "2025-03-20T23:55:39Z"
-  },
-  {
-    "title": "As Russia looms, EU defence plans fail to quell joint borrowing calls",
-    "description": "EU leaders on Thursday broadly welcomed a blueprint from Brussels to help ramp up defence spending to face Russia -- but a raft of countries pressed to go...",
-    "link": "https://www.yahoo.com/news/russia-looms-eu-defence-plans-150704388.html",
-    "timestamp": "2025-03-20T23:53:50Z"
-  },
-  {
-    "title": "Elon Musk Issued Summons Over Twitter Stake Disclosure",
-    "description": "Elon Musk, the world&#039;s richest man and a top adviser to U.S. President Donald Trump, was issued a summons in connection with the Securities and Exchange Commission&#039;s lawsuit against him, a court filing on Thursday showed.",
-    "link": "https://www.ndtv.com/world-news/elon-musk-issued-summons-over-twitter-stake-disclosure-7972440",
-    "timestamp": "2025-03-20T23:53:23Z"
-  },
-  {
-    "title": "The release of a 1961 plan to break up the CIA revives an old conspiracy theory about who killed JFK",
-    "description": "A memo outlining the proposal was among the JFK assassination documents released this week.",
-    "link": "https://www.bostonherald.com/2025/03/20/jfk-assassination-documents-cia/",
-    "timestamp": "2025-03-20T23:46:23Z"
-  },
-  {
-    "title": "Venezuela Calls Nayib Bukele an 'Imperial Puppy' for Deal with Trump on Illegal Aliens",
-    "description": "Venezuelan Interior Minister Diosdado Cabello, a long-suspected drug lord actively wanted by U.S. authorities, on Wednesday evening accused Salvadoran President Nayib Bukele of being an \"imperial puppy and lackey.\"\nThe post Venezuela Calls Nayib Bukele an \u2018Im\u2026",
-    "link": "https://www.breitbart.com/latin-america/2025/03/20/venezuela-calls-nayib-bukele-an-imperial-puppy-for-deal-with-trump-on-illegal-aliens/",
-    "timestamp": "2025-03-20T23:45:41Z"
-  },
-  {
-    "title": "Conor McGregor says he wants to be Ireland's next president",
-    "description": "Former mixed martial arts fighter Conor McGregor has said he wants to be the next president of Ireland and said he would put the EU Migration Pact to a referendum if elected.",
-    "link": "https://news.sky.com/story/conor-mcgregor-says-he-wants-to-be-irelands-next-president-13332918",
-    "timestamp": "2025-03-20T23:44:00Z"
-  },
-  {
-    "title": "'Outrageous': Ex-Trump campaign lawyer blasts 'sloppy' admin. as SSNs leaked in JFK files",
-    "description": "A former lawyer for President Donald Trump's campaign expressed fury as the personal information of hundreds of congressional staffers was mistakenly included in a massive document dump related to the assassination of President John F. Kennedy. On Tuesday, th\u2026",
-    "link": "https://www.rawstory.com/trump-jfk-2671373219/",
-    "timestamp": "2025-03-20T23:43:00Z"
-  },
-  {
-    "title": "Male CNN Panelist Gets Expertly Shut Down For Touching A Woman \u2014 And For Good Reason",
-    "description": "Angela Rye's remarks to Kevin O'Leary on air are striking a chord online. Here's why experts think the exchange actually said a lot.",
-    "link": "https://www.huffpost.com/entry/angela-rye-cnn-kevin-oleary-personal-space-panel_l_67dc54cce4b04a8ab417fda5",
-    "timestamp": "2025-03-20T23:41:01Z"
-  },
-  {
-    "title": "EU delays retaliatory trade action to mid-April to work out the impact of Trump\u2019s reciprocal tariffs",
-    "description": "BRUSSELS (AP) \u2014 The European Union is delaying until mid-April its retaliatory trade action over the Trump administration\u2019s increase in tariffs on all steel and aluminum imports to 25%, senior officials said Thursday. The EU had intended to impose measures on\u2026",
-    "link": "https://financialpost.com/pmn/eu-delays-retaliatory-trade-action-to-mid-april-to-work-out-the-impact-of-trumps-reciprocal-tariffs",
-    "timestamp": "2025-03-20T23:40:32Z"
-  },
-  {
-    "title": "Ukraine\u2019s phony peace has begun. Only Trump still believes it\u2019s real.",
-    "description": "Donald Trump\u2019s talks with Vladimir Putin have paralyzed Ukraine\u2019s allies in Europe. Nobody is ready for peace.",
-    "link": "https://www.politico.eu/article/ukraine-peace-plan-deal-donald-trump-russia-war-ceasefire/",
-    "timestamp": "2025-03-20T23:38:52Z"
-  },
-  {
-    "title": "Tesla\u00a0owners are trading in their EVs at record levels, Edmunds says",
-    "description": "Data from Edmunds shows that Tesla\u00a0owners have been trading in their vehicles at record levels since CEO Elon Musk joined Trump's White House.",
-    "link": "https://www.cnbc.com/2025/03/20/tesla-owners-are-trading-in-their-evs-at-record-levels-edmunds-says.html",
-    "timestamp": "2025-03-20T23:38:38Z"
-  },
-  {
-    "title": "Israel kills 110 as minister threatens \"total destruction\" in Gaza",
-    "description": "Hamas accuses Tel Aviv of attempting to impose surrender agreement.",
-    "link": "https://electronicintifada.net/blogs/maureen-clare-murphy/israel-kills-110-minister-threatens-total-destruction-gaza",
-    "timestamp": "2025-03-20T23:38:23Z"
-  },
-  {
-    "title": "EU delays retaliatory trade action to mid-April to work out the impact of Trump's reciprocal tariffs",
-    "description": "The European Union is delaying until mid-April its retaliatory trade action over the Trump administration\u2019s increase in tariffs on all steel and aluminum...",
-    "link": "https://finance.yahoo.com/news/eu-delays-retaliatory-trade-action-233732091.html",
-    "timestamp": "2025-03-20T23:37:32Z"
-  },
-  {
-    "title": "Trump Signs Order To Shut Down US Education Department",
-    "description": "US President Donald Trump signed an order Thursday aimed at &quot;eliminating&quot; the Department of Education, a decades-old goal of the American right, which wants individual states to run schools free from the federal government.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-signs-order-to-shut-down-us-education-department-7972386",
-    "timestamp": "2025-03-20T23:34:32Z"
-  },
-  {
-    "title": "Trump to Expand Critical Mineral Output Using Wartime Powers - Yahoo Finance",
-    "description": "Trump to Expand Critical Mineral Output Using Wartime PowersYahoo Finance Trump signs order to increase critical mineral production in the U.S.CNBC Trump signs minerals order, confirms Ukraine dealThe Hill Donald Trump invokes wartime powers act to increase U\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176781063",
-    "timestamp": "2025-03-20T23:33:56Z"
-  },
-  {
-    "title": "Photo of 'imperial red banners' with Trump's likeness outside Kennedy Center isn't real",
-    "description": "A picture authentically shows large red banners featuring U.S. President Donald Trump's face outside the John F. Kennedy Center for the Performing Arts in Washington.",
-    "link": "https://www.snopes.com//fact-check/trump-banners-kennedy-center/",
-    "timestamp": "2025-03-20T23:32:00Z"
-  },
-  {
-    "title": "Freed Israeli hostage tells UN, 'No more excuses,' says aid is feeding terrorists",
-    "description": "Eli Sharabi, who was held hostage by Hamas for 491 days, spoke to the United Nations Security Council about his experience and demanded the remaining hostages be released.",
-    "link": "https://www.foxnews.com/world/freed-israeli-hostage-tells-un-no-more-excuses-says-aid-feeding-terrorists",
-    "timestamp": "2025-03-20T23:31:37Z"
-  },
-  {
-    "title": "Trump Pressures Courts After Reprimand On Deportations",
-    "description": "US President Donald Trump demanded Thursday that courts stop blocking his agenda, edging closer to a constitutional showdown after a judge suggested the administration ignored an order to block summary deportations.",
-    "link": "https://www.ibtimes.com/trump-pressures-courts-after-reprimand-deportations-3767134",
-    "timestamp": "2025-03-20T23:30:17Z"
-  },
-  {
-    "title": "'Disappointing and devastating': Steel manufacturer fires workers and blames Trump tariffs",
-    "description": "One steel manufacturer in the Midwest has announced it will be laying off hundreds of workers as a result of President Donald Trump's tariffs.The Minneapolis Star-Tribune reported Thursday that 630 steelworkers in Minnesota are about to lose their jobs. Steel\u2026",
-    "link": "https://www.rawstory.com/trump-tariffs-2671373212/",
-    "timestamp": "2025-03-20T23:30:02Z"
-  },
-  {
-    "title": "NATO to Ask Europe and Canada for 30% Boost in Military Capacity",
-    "description": "NATO plans to ask European allies and Canada to increase their stocks of weaponry and equipment by about 30% in the next few years, according to a senior alliance official.",
-    "link": "https://financialpost.com/pmn/business-pmn/nato-to-ask-europe-and-canada-for-30-boost-in-military-capacity",
-    "timestamp": "2025-03-20T23:28:32Z"
-  },
-  {
-    "title": "Trump pressures courts after reprimand on deportations",
-    "description": "US President Donald Trump demanded Thursday that courts stop blocking his agenda, edging closer to a constitutional showdown after a judge suggested the administration ignored an order to block summary deportations. A federal judge, in a strongly worded order\u2026",
-    "link": "https://www.digitaljournal.com/world/trump-pressures-courts-after-reprimand-on-deportations/article",
-    "timestamp": "2025-03-20T23:28:19Z"
-  },
-  {
-    "title": "\u2018We won\u2019t be silent\u2019 \u2014 Teachers vow legal challenges after Trump moves to slash Department of Education",
-    "description": "President Donald Trump signed an executive order to crack open the Department of Education on Thursday. The American Federation of Teachers and the National Education Association condemned the move, and have promised lawsuits. Earlier this month, the departme\u2026",
-    "link": "https://biztoc.com/x/e99d62acd129cb2d",
-    "timestamp": "2025-03-20T23:27:22Z"
-  },
-  {
-    "title": "Elon Musk issued summons in SEC case over Twitter stake disclosure",
-    "description": "A process server gave the civil summons and other documents on March 14 to a security guard at the Brownsville, Texas, headquarters of SpaceX, the space tech...",
-    "link": "https://www.aol.com/news/elon-musk-issued-summons-sec-232700540.html",
-    "timestamp": "2025-03-20T23:27:00Z"
-  },
-  {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures trade flat as Wall Street grapples with Fed's message",
-    "description": "US stock futures traded flat as Wall Street digested mixed messages from the Federal Reserve in the wake of its decision to hold interest rates steady.",
-    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-wall-street-grapples-with-feds-message-232617975.html",
-    "timestamp": "2025-03-20T23:26:17Z"
-  },
-  {
-    "title": "Trump signs executive order to dismantle US Department of Education",
-    "description": "Department\u2019s main job is distributing money to college students through grants and loans",
-    "link": "https://www.irishtimes.comhttps://www.nytimes.com/2025/03/20/us/can-trump-dismantle-education-department.html",
-    "timestamp": "2025-03-20T23:25:29Z"
-  },
-  {
-    "title": "U.S. moves to curb China\u2019s grip on critical minerals",
-    "description": "Trump invokes emergency powers for more U.S. mining, citing economic and security concerns.",
-    "link": "https://www.japantimes.co.jp/news/2025/03/21/world/politics/trump-minerals-emergency-powers/",
-    "timestamp": "2025-03-20T23:25:00Z"
-  },
-  {
-    "title": "US border crackdown no threat to 2026 World Cup: football chief",
-    "description": "CONCACAF football chief Victor Montagliani played down concerns over a US border crackdown impacting the 2026 World Cup on Thursday, following a flurry of recent cases involving foreign visitors who have been detained or deported after attempting to enter the\u2026",
-    "link": "https://sports.yahoo.com/article/us-border-crackdown-no-threat-232344135.html",
-    "timestamp": "2025-03-20T23:23:44Z"
-  },
-  {
-    "title": "Judge Blocks DOGE 'Fishing Expedition' in Sensitive Social Security Data Systems",
-    "description": "Defenders of the Social Security Administration celebrated a federal judge's Thursday order blocking U.S. President Donald Trump and Elon Musk's Department of Government Efficiency from access to millions of Americans' SSA records.\n\n\"The DOGE team is essentia\u2026",
-    "link": "https://www.commondreams.org/news/doge-social-security",
-    "timestamp": "2025-03-20T23:21:12Z"
-  },
-  {
-    "title": "Trump Demands Supreme Court Stop Judges From Blocking Agenda",
-    "description": "US President Donald Trump on Thursday demanded that the Supreme Court stop judges from blocking his agenda, stepping up a fight after a judge sought to block his summary deportations.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-demands-supreme-court-stop-judges-from-blocking-agenda-7972340",
-    "timestamp": "2025-03-20T23:20:49Z"
-  },
-  {
-    "title": "New Liberal Prime Minister of Canada, Banker Mark Carney To Call Snap Elections For Late April",
-    "description": "In a bold political maneuver, newly appointed Prime Minister Mark Carney is set to announce snap elections for April, potentially reshaping Canada's political landscape. Insights into the implications await.\nThe post New Liberal Prime Minister of Canada, Bank\u2026",
-    "link": "https://www.thegatewaypundit.com/2025/03/new-liberal-prime-minister-canada-banker-mark-carney/",
-    "timestamp": "2025-03-20T23:20:39Z"
-  },
-  {
-    "title": "Live updates: Trump orders a plan to eliminate the Education Department (Associated Press)",
-    "description": "Associated Press:\nLive updates: Trump orders a plan to eliminate the Education Department -- President Donald Trump signs an executive order calling for the dismantling of the Education Department. Completely closing it is most likely impossible without an ac\u2026",
-    "link": "https://www.memeorandum.com/250320/p130",
-    "timestamp": "2025-03-20T23:20:04Z"
   }
 ]
