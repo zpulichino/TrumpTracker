@@ -1,5 +1,23 @@
 [
   {
+    "title": "Japan, China and S Korea agree to promote peace, cooperation",
+    "description": "Japan, South Korea and China agreed Saturday that peace on the Korean peninsula was a shared responsibility, Seoul's foreign minister said, in a meeting of the three countries' top diplomats in which they pledged to promote cooperation. The talks followed a r\u2026",
+    "link": "https://japantoday.com/category/politics/japan-china-south-korea-foreign-ministers-meet-in-tokyo",
+    "timestamp": "2025-03-22T07:20:31Z"
+  },
+  {
+    "title": "Trump targets Biden, Harris in US security clearance purge",
+    "description": "The executive order also targets Hillary Clinton and Antony Blinken, former state secretaries, and some Republicans.",
+    "link": "https://www.aljazeera.com/news/2025/3/22/trump-revokes-security-clearances-of-biden-harris-and-clinton",
+    "timestamp": "2025-03-22T07:14:28Z"
+  },
+  {
+    "title": "Columbia University agrees to ban masks on campus after $400M funding freeze by Donald Trump - Hindustan Times",
+    "description": "Columbia University agrees to ban masks on campus after $400M funding freeze by Donald TrumpHindustan Times Decades Ago, Columbia Refused to Pay Trump $400 MillionThe New York Times Columbia University makes policy changes in dispute over federal fundingCNN C\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176789835",
+    "timestamp": "2025-03-22T07:13:46Z"
+  },
+  {
     "title": "Columbia University caves to Trump\u2019s demands, agrees to policy changes under $400 million duress",
     "description": "The university has agreed to ban masks, give new powers to police officers to arrest students and appoint a new head of Middle Eastern studies.",
     "link": "https://7news.com.au/news/columbia-university-caves-to-trumps-demands-agrees-to-policy-changes-under-400-million-duress-c-18125065",
@@ -174,33 +192,9 @@
     "timestamp": "2025-03-22T06:00:01Z"
   },
   {
-    "title": "Trump signs executive order to ramp up U.S. critical mineral production, secure global supply chains",
-    "description": "President Trump signed an executive order to boost domestic production of critical minerals like uranium and rare earths, aiming to enhance U.S. energy independence. The order fast-tracks mining projects, streamlines permitting, and prioritizes federal lands \u2026",
-    "link": "https://www.naturalnews.com/2025-03-22-trump-signs-executive-order-increase-mineral-production.html",
-    "timestamp": "2025-03-22T06:00:00Z"
-  },
-  {
     "title": "Culture wars reach the classroom: what is the best way to teach children about gender and identity?",
     "description": "A new primary level syllabus \u2013 the biggest shake-up in two decades \u2013 is being finalised against a backdrop of polarised online debate and claims of misinformation",
     "link": "https://www.irishtimes.com/health/your-family/2025/03/22/culture-wars-reach-the-classroom-what-is-the-best-way-to-teach-children-about-gender-and-identity/",
-    "timestamp": "2025-03-22T06:00:00Z"
-  },
-  {
-    "title": "Ukraine vows never to accept Kremlin control of Black Sea peninsula: \u2018Most Crimean Tatars would regard it as betrayal\u2019",
-    "description": "Activist and politician Nariman Dzhelyal among latest generation of Crimean Tatars to be persecuted by Russia",
-    "link": "https://www.irishtimes.com/world/europe/2025/03/22/ukraine-vows-never-to-accept-kremlin-control-of-black-sea-peninsula-most-crimean-tatars-would-regard-it-as-betrayal/",
-    "timestamp": "2025-03-22T06:00:00Z"
-  },
-  {
-    "title": "\u2018The thinking has shifted\u2019: Trump\u2019s trade war spells economic pain for Ireland as Dublin plans for damage limitation",
-    "description": "The working assumption had been that Trump would use the threat of tariffs to get people around the table, but that has changed",
-    "link": "https://www.irishtimes.com/politics/2025/03/22/the-thinking-has-shifted-trumps-trade-war-spells-economic-pain-for-ireland-as-dublin-plans-for-damage-limitation/",
-    "timestamp": "2025-03-22T06:00:00Z"
-  },
-  {
-    "title": "DHS Secretary Kristi Noem vows to \u201chunt down\u201d swatters targeting conservative media figures",
-    "description": "DHS Secretary Kristi Noem pledges to pursue perpetrators of swatting attacks targeting conservative media figures, calling the incidents \u201ccowardly\u201d and dangerous. Over a dozen high-profile conservatives have been victimized since March 11, with false emergenc\u2026",
-    "link": "https://www.naturalnews.com/2025-03-22-dhs-noem-hunt-down-swatters-targeting-conservatives.html",
     "timestamp": "2025-03-22T06:00:00Z"
   },
   {
@@ -210,9 +204,33 @@
     "timestamp": "2025-03-22T06:00:00Z"
   },
   {
-    "title": "New American weirdness: Trump contemplates paving paradise as Obama indulges his basketball obsession",
-    "description": "American Diary: Trump regularly invokes George Washington as he keeps one eye on posterity while simultaneously silencing The Voice of America",
-    "link": "https://www.irishtimes.com/world/us/2025/03/22/new-american-weirdness-trump-contemplates-paving-paradise-as-obama-indulges-his-basketball-obsession/",
+    "title": "DHS Secretary Kristi Noem vows to \u201chunt down\u201d swatters targeting conservative media figures",
+    "description": "DHS Secretary Kristi Noem pledges to pursue perpetrators of swatting attacks targeting conservative media figures, calling the incidents \u201ccowardly\u201d and dangerous. Over a dozen high-profile conservatives have been victimized since March 11, with false emergenc\u2026",
+    "link": "https://www.naturalnews.com/2025-03-22-dhs-noem-hunt-down-swatters-targeting-conservatives.html",
+    "timestamp": "2025-03-22T06:00:00Z"
+  },
+  {
+    "title": "\u2018The thinking has shifted\u2019: Trump\u2019s trade war spells economic pain for Ireland as Dublin plans for damage limitation",
+    "description": "The working assumption had been that Trump would use the threat of tariffs to get people around the table, but that has changed",
+    "link": "https://www.irishtimes.com/politics/2025/03/22/the-thinking-has-shifted-trumps-trade-war-spells-economic-pain-for-ireland-as-dublin-plans-for-damage-limitation/",
+    "timestamp": "2025-03-22T06:00:00Z"
+  },
+  {
+    "title": "Ukraine vows never to accept Kremlin control of Black Sea peninsula: \u2018Most Crimean Tatars would regard it as betrayal\u2019",
+    "description": "Activist and politician Nariman Dzhelyal among latest generation of Crimean Tatars to be persecuted by Russia",
+    "link": "https://www.irishtimes.com/world/europe/2025/03/22/ukraine-vows-never-to-accept-kremlin-control-of-black-sea-peninsula-most-crimean-tatars-would-regard-it-as-betrayal/",
+    "timestamp": "2025-03-22T06:00:00Z"
+  },
+  {
+    "title": "Trump signs executive order to ramp up U.S. critical mineral production, secure global supply chains",
+    "description": "President Trump signed an executive order to boost domestic production of critical minerals like uranium and rare earths, aiming to enhance U.S. energy independence. The order fast-tracks mining projects, streamlines permitting, and prioritizes federal lands \u2026",
+    "link": "https://www.naturalnews.com/2025-03-22-trump-signs-executive-order-increase-mineral-production.html",
+    "timestamp": "2025-03-22T06:00:00Z"
+  },
+  {
+    "title": "Conor McGregor says Ireland\u2019s rural towns are being \u2018overrun\u2019 by immigrants. Here are the facts",
+    "description": "His claim about immigration is incorrect, according to figures from the Central Statistics Office",
+    "link": "https://www.irishtimes.com/ireland/2025/03/22/conor-mcgregor-says-irelands-rural-towns-are-being-overrun-by-immigrants-here-are-the-facts/",
     "timestamp": "2025-03-22T06:00:00Z"
   },
   {
@@ -222,9 +240,9 @@
     "timestamp": "2025-03-22T06:00:00Z"
   },
   {
-    "title": "Conor McGregor says Ireland\u2019s rural towns are being \u2018overrun\u2019 by immigrants. Here are the facts",
-    "description": "His claim about immigration is incorrect, according to figures from the Central Statistics Office",
-    "link": "https://www.irishtimes.com/ireland/2025/03/22/conor-mcgregor-says-irelands-rural-towns-are-being-overrun-by-immigrants-here-are-the-facts/",
+    "title": "New American weirdness: Trump contemplates paving paradise as Obama indulges his basketball obsession",
+    "description": "American Diary: Trump regularly invokes George Washington as he keeps one eye on posterity while simultaneously silencing The Voice of America",
+    "link": "https://www.irishtimes.com/world/us/2025/03/22/new-american-weirdness-trump-contemplates-paving-paradise-as-obama-indulges-his-basketball-obsession/",
     "timestamp": "2025-03-22T06:00:00Z"
   },
   {
@@ -486,9 +504,9 @@
     "timestamp": "2025-03-22T04:01:00Z"
   },
   {
-    "title": "Whitewashing the Democrats' Fence",
-    "description": "Democrat campaign operative James Carville may not be a modern day Nostradamus, but he does possess more than his fair share of homespun wisdom when it comes to strategizing a way forward for his party.\r\n\r\nA month or so ago, when he was asked what ki...",
-    "link": "https://www.americanthinker.com/articles/2025/03/whitewashing_the_democrats_fence.html",
+    "title": "Politicizing Science",
+    "description": "A recent article in Nature lamented Trump's policy decisions to cut funding for specific government organizations and his call for investigations into studies laden with gender-based language. The scientific elite found these initiatives so unacc...",
+    "link": "https://www.americanthinker.com/articles/2025/03/politicizing_science.html",
     "timestamp": "2025-03-22T04:00:00Z"
   },
   {
@@ -498,9 +516,9 @@
     "timestamp": "2025-03-22T04:00:00Z"
   },
   {
-    "title": "Politicizing Science",
-    "description": "A recent article in Nature lamented Trump's policy decisions to cut funding for specific government organizations and his call for investigations into studies laden with gender-based language. The scientific elite found these initiatives so unacc...",
-    "link": "https://www.americanthinker.com/articles/2025/03/politicizing_science.html",
+    "title": "Whitewashing the Democrats' Fence",
+    "description": "Democrat campaign operative James Carville may not be a modern day Nostradamus, but he does possess more than his fair share of homespun wisdom when it comes to strategizing a way forward for his party.\r\n\r\nA month or so ago, when he was asked what ki...",
+    "link": "https://www.americanthinker.com/articles/2025/03/whitewashing_the_democrats_fence.html",
     "timestamp": "2025-03-22T04:00:00Z"
   },
   {
@@ -568,23 +586,5 @@
     "description": "The petition, which Elon Musk reposted on X, urges Wisconsin voters to sign by April 1, when the northern state elects a judge for its supreme court.",
     "link": "https://www.ndtv.com/world-news/elon-musk-offers-100-to-wisconsin-voters-ahead-of-us-states-supreme-court-elections-7981552",
     "timestamp": "2025-03-22T03:46:38Z"
-  },
-  {
-    "title": "Wall Street Week Ahead: Dow Transports index slump poses trouble spot as investors seek stocks stability",
-    "description": "The Dow Jones Transportation Average's significant decline from its peak raises concerns about economic slowdown among investors. Continued drops in transportation and semiconductor stocks, and the Federal Reserve\u2019s lower economic growth forecast, indicate po\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/wall-st-week-ahead-dow-transports-index-slump-poses-trouble-spot-as-investors-seek-stocks-stability/articleshow/119328038.cms",
-    "timestamp": "2025-03-22T03:46:30Z"
-  },
-  {
-    "title": "Trump Revokes Security Clearances for Joe Biden, Kamala Harris, and Others",
-    "description": "President Donald Trump announced that he had revoked security clearances and access to classified information from people such as former President Joe Biden, former Vice President Kamala Harris, and former Secretary of State Hillary Clinton, as well as severa\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4305971/posts",
-    "timestamp": "2025-03-22T03:45:08Z"
-  },
-  {
-    "title": "Trump's Use of Wartime Aliens Law For Deportations 'Troublesome': US Judge",
-    "description": "Donald Trump has defended the deportations under the Aliens law, which was last used during World War II to intern Japanese residents.",
-    "link": "https://www.ndtv.com/world-news/donald-trumps-use-of-wartime-aliens-law-for-deportations-troublesome-us-judge-7981534",
-    "timestamp": "2025-03-22T03:40:55Z"
   }
 ]
