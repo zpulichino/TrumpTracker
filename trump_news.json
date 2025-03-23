@@ -1,5 +1,131 @@
 [
   {
+    "title": "Three people killed in Russian drone strike on Ukraine's Zaporizhzhia",
+    "description": "It comes after Russian President Vladimir Putin agreed this week to pause strikes on Ukraine energy targets for 30 days.",
+    "link": "https://www.thejournal.ie/three-killed-russian-drone-strike-zaporizhzhia-ukraine-6656471-Mar2025/",
+    "timestamp": "2025-03-22T10:07:06Z"
+  },
+  {
+    "title": "Russian drone attack kills three in Ukrainian city of Zaporizhzhia",
+    "description": "Drone strike comes after Ukraine and Russia agreed a limited ceasefire in principle on Wednesday",
+    "link": "https://www.irishtimes.com/world/europe/2025/03/22/ukraine-russia-us-war-latest-updates/",
+    "timestamp": "2025-03-22T10:01:21Z"
+  },
+  {
+    "title": "How Poilievre is trying to keep the election about the Liberals, not Donald Trump",
+    "description": "In the lead up to Sunday's election call, anxiety and confusion has set in among some Conservatives, including within Poilievre's office",
+    "link": "https://nationalpost.com/news/canada/poilievre-election-liberals-not-donald-trump",
+    "timestamp": "2025-03-22T10:00:39Z"
+  },
+  {
+    "title": "Migrants, Visitors Anxious Over Trump Travel Ban Debate Heading to US Early",
+    "description": "Immigrants and potential visitors from dozens of counties were still waiting Friday for news of a travel ban from President Donald Trump, with some debating whether heading to the United States now would be a good idea.\nAlthough a draft list was reportedly le\u2026",
+    "link": "https://biztoc.com/x/f006a494f29a8db8",
+    "timestamp": "2025-03-22T10:00:38Z"
+  },
+  {
+    "title": "Bitcoin To Flourish With Or Without Trump's Support, Says Expert: Fed's Rate Cuts Could Make People More 'Inclined' To Buy BTC",
+    "description": "Bitcoin (CRYPTO: BTC) is expected to reach a six-figure valuation by 2025, according to Nigel Green, CEO of deVere Group. This prediction comes despite the lack of explicit support from U.S. President Donald Trump.\nWhat Happened: In a recent video update, Gre\u2026",
+    "link": "https://biztoc.com/x/3522607e447d0b59",
+    "timestamp": "2025-03-22T10:00:38Z"
+  },
+  {
+    "title": "New polls reveal what Americans think about Trump months into his second term",
+    "description": "The latest polls gauge President Donald Trump's standing among Americans two months in to his second tour of duty in the White House.",
+    "link": "https://www.foxnews.com/politics/new-polls-reveal-what-americans-think-about-trump-months-into-his-second-term",
+    "timestamp": "2025-03-22T10:00:27Z"
+  },
+  {
+    "title": "Trump's Health Care Order Will Deliver Big Savings to Patients, Employers | Opinion",
+    "description": "With his groundbreaking executive order on health care price transparency, President Donald Trump paved the way to protecting American patients and employers from the inflationary costs of the American health care system.\nRiddled with waste, fraud, and price \u2026",
+    "link": "https://biztoc.com/x/1907f3911258b4cc",
+    "timestamp": "2025-03-22T10:00:26Z"
+  },
+  {
+    "title": "Cold War redux in more ways than one: Russia and the U.S. look to thaw relations in the hockey rink",
+    "description": "This week Russian President Vladimir Putin revived the Cold War tradition of taking geopolitics onto the ice, suggesting in a call to President Donald Trump that American and Russian skaters play matches against each other.diplomacy.",
+    "link": "https://www.nbcnews.com/news/world/cold-war-redux-russia-us-thaw-relations-hockey-rink-diplomacy-rcna197220",
+    "timestamp": "2025-03-22T10:00:10Z"
+  },
+  {
+    "title": "Migrants, Visitors Anxious Over Trump Travel Ban Debate Heading to US Early",
+    "description": "Over 40 countries are reportedly being considered for travel restrictions of some kind.",
+    "link": "https://www.newsweek.com/trump-travel-ban-immigrants-visitors-debate-political-fallout-2048897",
+    "timestamp": "2025-03-22T10:00:03Z"
+  },
+  {
+    "title": "Trump's Health Care Order Will Deliver Big Savings to Patients, Employers | Opinion",
+    "description": "With his groundbreaking executive order on health care price transparency, President Donald Trump paved the way to protecting American patients.",
+    "link": "https://www.newsweek.com/trumps-health-care-order-will-deliver-big-savings-patients-employers-opinion-2047435",
+    "timestamp": "2025-03-22T10:00:01Z"
+  },
+  {
+    "title": "Trump isn't just attacking judges. Now he's attacking lawyers, too.",
+    "description": "President Donald Trump has escalated his attacks on the legal system to include lawyers who've dared to represent the other side in his legal cases.",
+    "link": "https://www.msnbc.com/inside-with-jen-psaki/trump-paul-weiss-perkins-coie-rule-law-rcna197524",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s FCC leader threatens to kill mergers over DEI policies",
+    "description": "Trump\u2019s handpicked appointee sitting atop the Federal Communications Commission declared that his agency is prepared to block mergers and attempted acquisitions involving companies that promote diversity policies.",
+    "link": "https://www.msnbc.com/top-stories/latest/fcc-chairman-brendan-carr-mergers-dei-media-rcna197567",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Trump's Kennedy Center fantasies are chasing away its primary audiences",
+    "description": "President Trump doesn't seem to understand what the Kennedy Center does or the people who regularly pay to watch performances there.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-kennedy-center-audience-rcna197179",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Chuck Schumer is under siege \u2014 by his own party",
+    "description": "Democrats are calling for Chuck Schumer to resign from leadership after he caved to Trump. Is he in trouble?",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/chuck-schumer-resign-trump-senate-democrats-rcna197375",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Lawmakers fear DOGE cuts will drive away next generation of federal workers",
+    "description": "Members of both parties warn that Trump and Musk's efforts will severely hinder the government's ability to recruit young people and technical experts.",
+    "link": "https://www.nbcnews.com/politics/congress/lawmakers-fear-doge-cuts-will-drive-away-generation-federal-workers-rcna197085",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Author and Activist Bill McKibben on Climate Progress in the Age of Trump 2.0",
+    "description": "This story was originally published by\u00a0Yale e360\u00a0and is reproduced here as part of the\u00a0Climate Desk\u00a0collaboration. In the first six weeks of the new Trump administration, it\u2019s become clear that the president intends to undo not just Joe Biden\u2019s environmental \u2026",
+    "link": "https://www.motherjones.com/politics/2025/03/author-activist-bill-mckibben-elizabeth-kolbert-interview-climate-progress-second-trump-administration/",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Israel\u2019s \u201cCulture of Cruelty\u201d Inspires the Far Right Worldwide, Says Pankaj Mishra",
+    "description": "\u201cThe World After Gaza\u201d author on what Israel\u2019s war reveals about power, violence, and who sets the rules on the world stage.\nThe post Israel\u2019s \u201cCulture of Cruelty\u201d Inspires the Far Right Worldwide, Says Pankaj Mishra appeared first on The Intercept.",
+    "link": "https://theintercept.com/2025/03/22/briefing-podcast-pankaj-mishra-gaza/",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "The Media Is Responding to Trump With a Huge Face-Plant",
+    "description": "In February of 2021, a fitness instructor named Khing Hnin Wai shot what might be history\u2019s most viral aerobics lesson. Filming herself in front of a major thoroughfare in Myanmar\u2019s capital city, Khing went through her paces, gyrating purposefully to some up-\u2026",
+    "link": "https://newrepublic.com/post/193002/media-trump-doge-failure-economy",
+    "timestamp": "2025-03-22T10:00:00Z"
+  },
+  {
+    "title": "Italy PM Giorgia Meloni govt\u2019s deal with Elon Musk\u2019s Starlink has stalled, says defence minister",
+    "description": "Negotiations between Elon Musk's Starlink and the Italian government for an encrypted communication system have stalled. Italy aims to secure communications for officials in risky areas, but talks have been hindered by geopolitical tensions and opposition con\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/italy-pm-giorgia-melonis-govts-deal-with-elon-musks-starlink-has-stalled-says-defence-minister/articleshow/119338328.cms",
+    "timestamp": "2025-03-22T09:58:29Z"
+  },
+  {
+    "title": "Cornell student who challenged Trump EOs targeting pro-Palestinian protesters now faces deportation",
+    "description": "Cornell student who challenged Trump EOs targeting pro-Palestinian protesters now faces deportationgo.com",
+    "link": "https://abcnews.go.com/US/cornell-student-protester-told-turn-ice-asks-court/story?id=120046429",
+    "timestamp": "2025-03-22T09:56:27Z"
+  },
+  {
+    "title": "Grapevine: Wandering Jews",
+    "description": "Movers and shakers in Israeli society.",
+    "link": "https://www.jpost.com/israel-news/article-846711",
+    "timestamp": "2025-03-22T09:56:10Z"
+  },
+  {
     "title": "Judge Boasberg Threatens Trump [semi-satire]",
     "description": "Incensed that he isn't getting obedience from President Trump regarding his several orders related to the deportation of more than 200 members of the Venezuelan gang Tren de Aragua, Federal District Court Judge James Boasberg pointed out \"my term of office is\u2026",
     "link": "https://freerepublic.com/focus/f-bloggers/4306000/posts",
@@ -442,149 +568,5 @@
     "description": "The university has agreed to ban masks, give new powers to police officers to arrest students and appoint a new head of Middle Eastern studies.",
     "link": "https://7news.com.au/news/columbia-university-caves-to-trumps-demands-agrees-to-policy-changes-under-400-million-duress-c-18125065",
     "timestamp": "2025-03-22T07:09:23Z"
-  },
-  {
-    "title": "Trump is compiling a \u2018dirty 15\u2032 list of trade offenders \u2013 and it\u2019s not looking good for Ireland",
-    "description": "The State will be central player in the US president\u2019s tariffs forthcoming \u2018gameshow\u2019 \u2013 and the jeopardy will be real",
-    "link": "https://www.irishtimes.com/opinion/2025/03/22/trump-is-compiling-a-dirty-15-list-of-trade-offenders-and-its-not-looking-good-for-ireland/",
-    "timestamp": "2025-03-22T07:05:00Z"
-  },
-  {
-    "title": "Elon Musk Has Brought 'The R-Word' Back \u2014 And It's Part Of A Disturbing New Trend",
-    "description": "It fits in with a \"politics of cruelty\" that's been running rampant in the White House.",
-    "link": "https://www.huffpost.com/entry/the-r-word-is-back-ano_n_67d9b1d3e4b0bbd8c3b5ca94",
-    "timestamp": "2025-03-22T07:00:12Z"
-  },
-  {
-    "title": "Japanese Bitcoin-Stacking Firm Metaplanet Appoints Eric Trump To Strategic Advisory Board",
-    "description": "Metaplanet has appointed Eric Trump to its newly established Strategic Advisory Board as the investment firm continues to bolster Bitcoin adoption.",
-    "link": "https://zycrypto.com/japanese-bitcoin-stacking-firm-metaplanet-appoints-eric-trump-to-strategic-advisory-board/",
-    "timestamp": "2025-03-22T06:59:36Z"
-  },
-  {
-    "title": "\u2018Little Dubai\u2019: Does the future of Gaza beckon? - Reporter's Notebook",
-    "description": "Gaza, if it were to rehabilitate according to Donald Trump\u2019s plan, could become known as \u201cLittle Dubai.\u201d",
-    "link": "https://www.jpost.com/middle-east/article-846546",
-    "timestamp": "2025-03-22T06:55:20Z"
-  },
-  {
-    "title": "Taoiseach was cock-a-hoop after his meeting with Trump, but a quick reality check followed",
-    "description": "I have never seen such obvious stress as I saw on the faces of Irish officials sitting on the Oval Office couch praying for the ordeal to end. I have never seen such relief afterwards",
-    "link": "https://www.irishtimes.com/opinion/2025/03/22/taoiseach-was-cock-a-hoop-after-his-meeting-with-trump-but-a-quick-reality-check-followed/",
-    "timestamp": "2025-03-22T06:55:00Z"
-  },
-  {
-    "title": "Reconstruction of Gaza should be used to start the next phase of the Abraham Accords",
-    "description": "By tying the expansion of the Abraham Accords to Gaza\u2019s reconstruction, a window of opportunity has opened, and it is imperative that all sides rush to take advantage.",
-    "link": "https://www.jpost.com/opinion/article-846536",
-    "timestamp": "2025-03-22T06:50:58Z"
-  },
-  {
-    "title": "Over 80 Tesla vehicles damaged at a single location",
-    "description": "The Hamilton police in Ontario announced that over 80 Tesla vehicles were damaged in a vandalism attack at a Tesla service center. It\u2019s the latest example of a series of vandalism attacks against Tesla over the last few weeks. On Wednesday March 19, Hamilton \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4305995/posts",
-    "timestamp": "2025-03-22T06:50:37Z"
-  },
-  {
-    "title": "United States imports eggs from Korea, T\u00fcrkiye to help ease prices",
-    "description": "WASHINGTON: The United States is importing Turkish and South Korean eggs to ease an avian flu-fuelled supply crunch that has pushed up prices across the country, Donald Trump's agriculture secretary confirmed Friday (Mar 21). Brooke Rollins told reporters in \u2026",
-    "link": "https://www.channelnewsasia.com/world/us-egg-shortage-prices-import-form-south-korea-turkiye-5017526",
-    "timestamp": "2025-03-22T06:43:34Z"
-  },
-  {
-    "title": "US Desperation for European Eggs Exposes Trump\u2019s Double Standards",
-    "description": "The US Department of Agriculture\u2019s (USDA) desperate endeavor to purchase eggs from Europe exposed the double standards of US President Donald Trump, who only promotes cooperation when it benefits Washington. Although the US is turning to Europe to fill \u2026\nThe \u2026",
-    "link": "https://www.globalresearch.ca/us-desperation-european-eggs-trump-double-standards/5882285",
-    "timestamp": "2025-03-22T06:40:10Z"
-  },
-  {
-    "title": "US terminates legal status for 500,000 immigrants",
-    "description": "The United States said Friday it was terminating the legal status of hundreds of thousands of immigrants, giving them weeks to leave the country. President Donald Trump has pledged to carry out the largest deportation campaign in US history and curb immigrati\u2026",
-    "link": "https://punchng.com/us-terminates-legal-status-for-500000-immigrants/",
-    "timestamp": "2025-03-22T06:38:33Z"
-  },
-  {
-    "title": "\"Others Handled It\": Trump Denies Signing Aliens Law To Deport Venezuelans",
-    "description": "Donald Trump invoked the rare wartime Alien Enemies Act to deport 238 men his administration alleged were members of the Venezuelan gang Tren de Aragua.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-denies-signing-aliens-law-to-deport-venezuelans-others-handled-it-7982473",
-    "timestamp": "2025-03-22T06:35:59Z"
-  },
-  {
-    "title": "Don of a new era: Trump retribution strikes fear in US",
-    "description": "US News: TOI correspondent from Washington: US President Donald Trump has rescinded security clearances and access to classified information for former Preside.",
-    "link": "https://timesofindia.indiatimes.com/world/us/don-of-a-new-era-trump-retribution-strikes-fear-in-us/articleshow/119332519.cms",
-    "timestamp": "2025-03-22T06:35:24Z"
-  },
-  {
-    "title": "Why Rachel Reeves is feeling the heat ahead of her Spring Statement",
-    "description": "The Chancellor hints at a more guarded approach amid global uncertainty - and issues a warning ahead of her announcements",
-    "link": "https://www.bbc.com/news/articles/c0egy79qx93o",
-    "timestamp": "2025-03-22T06:27:21Z"
-  },
-  {
-    "title": "US President Trump says he will pay out of his pocket to the astronauts who got back from space",
-    "description": "US President Donald Trump announced that he would personally compensate astronauts Sunita Williams and Butch Wilmore for their overtime stay in space after learning they received only USD 5 per day. Trump also thanked Elon Musk for bringing the astronauts bac\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-president-trump-says-he-will-pay-out-of-his-pocket-to-the-astronauts-who-got-back-from-space/articleshow/119332410.cms",
-    "timestamp": "2025-03-22T06:24:20Z"
-  },
-  {
-    "title": "What the $660 million Greenpeace verdict means for U.S. activism",
-    "description": "Legal experts warn the decision could significantly deter other environmental groups from protesting oil and gas companies around the U.S.",
-    "link": "https://www.japantimes.co.jp/environment/2025/03/22/greenpeace-us-activism/",
-    "timestamp": "2025-03-22T06:24:00Z"
-  },
-  {
-    "title": "Donald Trump Revokes Security Clearances Of Kamala Harris, Hillary Clinton",
-    "description": "The list of names stripped of their authorisation to see state secrets included Biden, his family members, and former vice-president and Trump presidential rival Kamala Harris.",
-    "link": "https://www.ndtv.com/world-news/after-joe-biden-donald-trump-revokes-security-clearances-of-kamala-harris-hillary-clinton-7982399",
-    "timestamp": "2025-03-22T06:22:37Z"
-  },
-  {
-    "title": "North Korean leader reaffirms support for Russia's war in Ukraine in talks with top official",
-    "description": "North Korean leader Kim Jong Un has reaffirmed his support for Russia's war in Ukraine during a meeting with Russia's Security Council secretary, Sergei Shoigu. The leaders discussed mutual defense commitments and recent agreements, with North Korea reportedl\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/north-korean-leader-reaffirms-support-for-russias-war-in-ukraine-in-talks-with-top-official/articleshow/119332301.cms",
-    "timestamp": "2025-03-22T06:19:39Z"
-  },
-  {
-    "title": "'I Am Upset': Priest Says Dems Misled Him About Town Hall Held at His Church",
-    "description": "DNC chair Ken Martin railed against GOP at church town hall billed as a discussion about Medicaid A Pennsylvania priest admonished an audience of Democratic Party leaders at a town hall at his church on Thursday, saying he was misled about an event billed as \u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4305991/posts",
-    "timestamp": "2025-03-22T06:16:21Z"
-  },
-  {
-    "title": "Trump pulls security clearances for Kamala Harris, Hillary Clinton",
-    "description": "BRIDGEWATER, New Jersey: US President Donald Trump on Friday (Mar 21) took away security clearances for former Vice President Kamala Harris, former Secretary of State Hillary Clinton and others in his latest move against his Democratic opponents. The Republic\u2026",
-    "link": "https://www.channelnewsasia.com/world/trump-pulls-security-clearances-kamala-harris-hillary-clinton-5017521",
-    "timestamp": "2025-03-22T06:16:20Z"
-  },
-  {
-    "title": "As Russia retakes Kursk, Ukrainians ask, 'Was it worth it?'",
-    "description": "KYIV (Reuters) - When Mariia Pankova last exchanged messages with her close friend Pavlo in December, she had no idea that he was among the Ukrainian troops fighting in Russia's Kursk region. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/03/22/as-russia-retakes-kursk-ukrainians-ask-039was-it-worth-it039",
-    "timestamp": "2025-03-22T06:10:00Z"
-  },
-  {
-    "title": "X Plans purchase of last $1.2 billion buyout debt held by banks",
-    "description": "The company\u2019s debt repurchase will allow the group of seven banks, led by Morgan Stanley, to shed the riskiest portion of loans that has sat on their balance sheets since they backed the buyout of the platform, formerly known as Twitter Inc., for $44 billion \u2026",
-    "link": "https://economictimes.indiatimes.com/tech/technology/x-plans-purchase-of-last-1-2-billion-buyout-debt-held-by-banks/articleshow/119332024.cms",
-    "timestamp": "2025-03-22T06:08:27Z"
-  },
-  {
-    "title": "Germany's Friedrich Merz is ready for foreign policy challenges",
-    "description": "The likely next government should have substantial financial leeway, thanks to credit-financed special funds. However, it will also face big foreign policy challenges \u2014 almost all of which are linked to Donald Trump.",
-    "link": "https://www.dw.com/en/germanys-friedrich-merz-is-ready-for-foreign-policy-challenges/a-71983373",
-    "timestamp": "2025-03-22T06:07:00Z"
-  },
-  {
-    "title": "Trump believes US-Canada border 'artificial', Canadian MP calls statehood push \u2018act of war\u2019",
-    "description": "Ontario MP Charlie Angus said that Trump's push for Canada to become a state implied that president believed that Canadians 'don't have a right to a country.'",
-    "link": "https://www.jpost.com/international/article-847056",
-    "timestamp": "2025-03-22T06:05:05Z"
-  },
-  {
-    "title": "\u2018Never Seen Anything Like This\u2019: Crucial Voter Groups Fleeing Democrats, Says Stunned Fmr Clinton Pollster",
-    "description": "Former Clinton pollster Mark Penn said Friday on Fox News that crucial voter groups are fleeing the Democratic Party. The Democratic Party\u2019s favorability rating plummeted to a new low of 29%, according to a CNN/SSRS poll conducted from March 6-9. During an ap\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4305990/posts",
-    "timestamp": "2025-03-22T06:03:17Z"
   }
 ]
