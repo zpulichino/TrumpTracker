@@ -1,5 +1,71 @@
 [
   {
+    "title": "The \u201cSignalgate\u201d Memes Have Entered the Chat",
+    "description": "Users are lampooning government officials\u2019 flippant discussions of a deadly assault with no apparent knowledge of the journalist in the room.",
+    "link": "http://hyperallergic.com/998645/the-signalgate-memes-have-entered-the-chat/",
+    "timestamp": "2025-03-25T21:42:08Z"
+  },
+  {
+    "title": "Columbia University student protester sues Trump admin to prevent deportation",
+    "description": "A Columbia University student has sued President Trump and other administration officials after they attempted to revoke her permanent resident status and remove her.",
+    "link": "https://www.foxnews.com/us/columbia-university-student-protester-sues-trump-admin-prevent-deportation",
+    "timestamp": "2025-03-25T21:41:39Z"
+  },
+  {
+    "title": "New Trump Order Targets Firm That Once Employed \u2018Unethical\u2019 MSNBC Pundit: \u2018Career Has Been Rooted in Weaponized Government\u2019",
+    "description": "President Donald Trump fired off another executive order targeting a law firm on Tuesday, this time taking aim at Jenner & Block because it once employed MSNBC legal analyst Andrew Weissmann. Weissmann first came to public prominence as a member of Special Co\u2026",
+    "link": "https://www.mediaite.com/trump/new-trump-order-targets-firm-that-once-employed-unethical-msnbc-pundit-career-has-been-rooted-in-weaponized-government/",
+    "timestamp": "2025-03-25T21:41:03Z"
+  },
+  {
+    "title": "Trump cuts hit struggling food banks, risking hunger for low-income Americans",
+    "description": "Food banks across the country, already strained by rising demand, say they will have less food to distribute because of at least $1 billion in federal funding cuts and pauses by the Trump administration, according to Reuters interviews with organizations in s\u2026",
+    "link": "https://japantoday.com/category/world/trump-cuts-hit-struggling-food-banks-risking-hunger-for-low-income-americans3",
+    "timestamp": "2025-03-25T21:40:36Z"
+  },
+  {
+    "title": "Mike Huckabee, Trump's pick for Israel ambassador, tries to distance himself from past Palestinian rhetoric",
+    "description": "Mike Huckabee, President Donald Trump's nominee for U.S. ambassador to Israel, attempted to distance himself Tuesday from his past controversial statements about the conflict between Israel and the Palestinian people, pledging on Capitol Hill to \u201ccarry out th\u2026",
+    "link": "https://japantoday.com/category/world/mike-huckabee-trump%27s-pick-for-israel-ambassador-tries-to-distance-from-past-palestinian-rhetoric",
+    "timestamp": "2025-03-25T21:40:21Z"
+  },
+  {
+    "title": "Vance to join wife on visit to Greenland as Trump ups pressure",
+    "description": "U.S. Vice President JD Vance said Tuesday he would join his wife Usha on a trip Friday to Greenland, adding to pressure on the autonomous Danish territory that Donald Trump wants to take over. Vance, who has become Trump's attack dog on foreign policy matters\u2026",
+    "link": "https://japantoday.com/category/world/us-vp-to-visit-greenland-as-trump-ups-pressure",
+    "timestamp": "2025-03-25T21:40:09Z"
+  },
+  {
+    "title": "Russia, Ukraine agree to sea, energy truce; Washington seeks eased sanctions",
+    "description": "The United States reached deals on Tuesday with Ukraine and Russia to pause their attacks at sea and against energy targets, with Washington agreeing to push to lift some sanctions against Moscow. The separate agreements are the first formal commitments by th\u2026",
+    "link": "https://japantoday.com/category/world/russia-ukraine-agree-to-sea-energy-truce-washington-seeks-eased-sanctions",
+    "timestamp": "2025-03-25T21:39:56Z"
+  },
+  {
+    "title": "Trump downplays national security team texting military operation plan on Signal as minor 'glitch'",
+    "description": "U.S. President Donald Trump on Tuesday downplayed the texting of sensitive plans for a military strike against Yemen's Houthis this month to a group chat that included a journalist, saying it was \u201cthe only glitch in two months\u201d of his administration as Democr\u2026",
+    "link": "https://japantoday.com/category/world/trump-downplays-national-security-team-texting-military-operation-plan-on-signal-as-a-minor-%27glitch%27",
+    "timestamp": "2025-03-25T21:39:49Z"
+  },
+  {
+    "title": "Gabbard and Ratcliffe offer unbelievable spin in response to Trump admin\u2019s Signal scandal",
+    "description": "Director of National Intelligence Tulsi Gabbard and CIA director Michael Ratcliffe were evasive during a Senate hearing that focused on their roles in the scandal involving military information that was shared with a journalist at The Atlantic.",
+    "link": "https://www.msnbc.com/top-stories/latest/gabbard-ratcliffe-senate-hearing-signal-yemen-texts-rcna198047",
+    "timestamp": "2025-03-25T21:38:47Z"
+  },
+  {
+    "title": "Trump mandates citizenship question on election ballots \u2014 and cuts funds if states don\u2019t comply",
+    "description": "\"Perhaps some people think I shouldn't be complaining because we won in a landslide, but we're going to straighten out our election,\" Trump said at the White House Tuesday.",
+    "link": "https://nypost.com/2025/03/25/us-news/trump-mandates-citizenship-question-on-election-ballots-and-cuts-funds-if-states-dont-comply/",
+    "timestamp": "2025-03-25T21:37:43Z"
+  },
+  {
+    "title": "'Makes me want to throw up': Lawmaker wags finger at Fox News host politicizing scandal",
+    "description": "Rep. Jim Himes (D-CT) clashed with Fox News host Will Cain on Tuesday over a bombshell report that top Donald Trump administration officials used a Signal group chat to discuss war plans in the presence of a reporter. The explosive report in The Atlantic reve\u2026",
+    "link": "https://www.rawstory.com/signal-scandal/",
+    "timestamp": "2025-03-25T21:36:25Z"
+  },
+  {
     "title": "Trump wants DOGE to look at voter rolls",
     "description": "President Donald Trump has repeatedly made false claims about elections.\nAndrew Harnik/Getty Images\nPresident Donald Trump wants DOGE to look at voter rolls.\nAccording to an executive order, the DOGE office would help review public voter information.\nNo feder\u2026",
     "link": "https://biztoc.com/x/0b09604b33b276b8",
@@ -74,13 +140,13 @@
   {
     "title": "Trump signs sweeping executive action overhauling US elections, including citizenship requirement",
     "description": "The move is consistent with Trump\u2019s long history of railing against election processes.",
-    "link": "https://www.denverpost.com/2025/03/25/trump-election-citizenship-requirement/",
+    "link": "https://www.bostonherald.com/2025/03/25/trump-election-citizenship-requirement/",
     "timestamp": "2025-03-25T21:24:01Z"
   },
   {
     "title": "Trump signs sweeping executive action overhauling US elections, including citizenship requirement",
     "description": "The move is consistent with Trump\u2019s long history of railing against election processes.",
-    "link": "https://www.bostonherald.com/2025/03/25/trump-election-citizenship-requirement/",
+    "link": "https://www.denverpost.com/2025/03/25/trump-election-citizenship-requirement/",
     "timestamp": "2025-03-25T21:24:01Z"
   },
   {
@@ -472,77 +538,5 @@
     "description": "He suggested in an online video that global security is at stake.",
     "link": "https://www.bostonherald.com/2025/03/25/vance-greenland/",
     "timestamp": "2025-03-25T20:38:41Z"
-  },
-  {
-    "title": "He Was Arrested in Panama in 1988. Upon Returning 36 Years Later, Its President Welcomed Him Into the Palace.",
-    "description": "The last time Mike Gonzalez was in Panama, he was arrested. Upon returning 36 years later, he was welcomed into Panama\u2019s presidential palace to meet... Read More\nThe post He Was Arrested in Panama in 1988. Upon Returning 36 Years Later, Its President Welcomed\u2026",
-    "link": "https://www.dailysignal.com/2025/03/25/he-was-arrested-panama-upon-returning-36-years-later-president-welcomed-him-palace/",
-    "timestamp": "2025-03-25T20:37:26Z"
-  },
-  {
-    "title": "Wisconsinites kicked out and denied entry to this Democrat's 'fake town hall'",
-    "description": "Katrina Patterson told Fox News Digital she wanted Walz to address potential cuts to Social Security and Medicare, but she was told to leave.",
-    "link": "https://www.foxnews.com/politics/first-fox-wisconsinites-kicked-out-denied-entry-walz-town-hall",
-    "timestamp": "2025-03-25T20:37:16Z"
-  },
-  {
-    "title": "Maxine Waters suggests Trump should deport Melania at anti-DOGE rally, flubs birthright citizenship meaning",
-    "description": "Left-wing Rep. Maxine Waters implied that President Trump should deport his Slovenia-born wife during a rant against the administration's legal battle to eliminate birthright citizenship.",
-    "link": "https://nypost.com/2025/03/25/us-news/maxine-waters-suggests-trump-should-deport-melania-at-anti-doge-rally-flubs-birthright-citizenship-meaning/",
-    "timestamp": "2025-03-25T20:37:03Z"
-  },
-  {
-    "title": "'Fear and anger': California town halls are not going well for Democrats, either",
-    "description": "Americans are increasingly concerned about President Donald Trump and Elon Musk\u2019s gutting of the federal government, with polls showing a majority of people want Musk\u2019s Department of Government Efficiency cuts to be stopped or slowed down. That\u2019s left Republi\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4306719/posts",
-    "timestamp": "2025-03-25T20:36:44Z"
-  },
-  {
-    "title": "The Trump White House\u2019s attack on official data is also an attack on democracy",
-    "description": "Howard Lutnick, then-nominee to be commerce secretary, looks on as President Donald Trump speaks to reporters in the Oval Office on Feb. 25, 2025.",
-    "link": "https://biztoc.com/x/45d44f0c668dde97",
-    "timestamp": "2025-03-25T20:36:17Z"
-  },
-  {
-    "title": "Trump\u2019s portrait is removed from the Colorado Capitol after he griped how ugly it was",
-    "description": "The Colorado legislature agreed to remove a portrait of President Donald Trump from the state Capitol after he derided the painting as \u201cthe worst\u201d in a lengthy social media post over the weekend.",
-    "link": "https://biztoc.com/x/04f1b7ab50054020",
-    "timestamp": "2025-03-25T20:36:11Z"
-  },
-  {
-    "title": "They Go Low, We Go To Hell: Rep. Jasmine Crockett Got MAGA Hoppin\u2019 Mad Over \u2018Governor Hot Wheels\u2019 Comment",
-    "description": "Rep. Jasmine Crockett calls Texas Governor Greg Abbott \u201cGovernor Hot Wheels\u201d during speech a Human Rights Campaign dinner\nThe post They Go Low, We Go To Hell: Rep. Jasmine Crockett Got MAGA Hoppin\u2019 Mad Over \u2018Governor Hot Wheels\u2019 Comment appeared first on Boss\u2026",
-    "link": "http://bossip.com/2820836/rep-jasmine-crockett-calls-greg-abbott-governor-hot-wheels/",
-    "timestamp": "2025-03-25T20:34:02Z"
-  },
-  {
-    "title": "Trump Just Handed His Biggest Enemy in Media a Slam Dunk",
-    "description": "President Trump insisted that information leaked to Atlantic Editor in Chief Jeffry Goldberg multiple times during a White House press availability Tuesday.\nThe post Trump Just Handed His Biggest Enemy in Media a Slam Dunk first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/opinion/trump-just-handed-his-biggest-enemy-in-media-a-slam-dunk/",
-    "timestamp": "2025-03-25T20:33:31Z"
-  },
-  {
-    "title": "S&P/TSX composite rises Tuesday, U.S. stock markets also higher",
-    "description": "TORONTO \u2014 Canada\u2019s main stock index rose Tuesday, helped by gains in base metal stocks, while U.S. markets were also higher, holding onto the gains from Monday\u2019s rally as the next deadline for U.S. tariffs looms in just over a week. Investors are waiting for \u2026",
-    "link": "https://financialpost.com/pmn/sp-tsx-composite-rises-tuesday-u-s-stock-markets-also-higher",
-    "timestamp": "2025-03-25T20:32:42Z"
-  },
-  {
-    "title": "Biden-era guidance encouraged use of Signal app by highly-targeted govt officials: 'Best practice'",
-    "description": "A Biden-era Cybersecurity and Infrastructure Security Agency (CISA) best guidance document shows highly-targeted government employees were encouraged to use Signal.",
-    "link": "https://www.foxnews.com/politics/biden-era-guidance-encouraged-use-signal-app-highly-targeted-govt-officials-best-practice",
-    "timestamp": "2025-03-25T20:32:24Z"
-  },
-  {
-    "title": "Fox News Politics Newsletter: Pardons from Trump",
-    "description": "Welcome to the Fox News Politics newsletter, with the latest updates on the Trump administration, Capitol Hill and more Fox News politics content.",
-    "link": "https://www.foxnews.com/politics/fox-news-politics-newsletter-pardons-from-trump",
-    "timestamp": "2025-03-25T20:30:08Z"
-  },
-  {
-    "title": "Who will be the first one to leave or be fired from Donald Trump's cabinet following text leak scandal? Bets pour in; here are the members topping the list",
-    "description": "A leaked Signal message revealing U.S. military strategies has caused turmoil in the Trump administration. Defense Secretary Pete Hegseth and Secretary of State Marco Rubio are under scrutiny for their involvement. President Trump denies the severity of the i\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/who-will-be-the-first-one-to-leave-or-be-fired-from-donald-trumps-cabinet-following-text-leak-scandal-bets-pour-in-here-are-the-members-topping-the-list/articleshow/119497842.cms",
-    "timestamp": "2025-03-25T20:29:25Z"
   }
 ]
