@@ -1,5 +1,65 @@
 [
   {
+    "title": "Trump administration pauses processing some green cards, throwing thousands into limbo",
+    "description": "Refugees and asylum seekers could find themselves in limbo after Trump's Homeland Security Department suspended processing some applications for green cards.",
+    "link": "https://www.msnbc.com/top-stories/latest/trump-pauses-green-card-immigration-vetting-rcna198249",
+    "timestamp": "2025-03-26T20:48:12Z"
+  },
+  {
+    "title": "Social Security Administration Backtracks On Part Of Trump's 'Identity Proofing' Policy",
+    "description": "The sudden change shows the agency struggling under the Trump administration's chainsaw approach to governing.",
+    "link": "https://www.huffpost.com/entry/social-security-administration-backtracks-trump-policy_n_67e413bae4b0056c4d434cd1",
+    "timestamp": "2025-03-26T20:47:32Z"
+  },
+  {
+    "title": "What do B.C. voters care about this federal election? According to 3 of them, tariffs and the cost of living",
+    "description": "A political science student, a retired news editor and a small business owner walk into a diner with The Current's Matt Galloway to talk about how they plan to vote this federal election.",
+    "link": "https://www.cbc.ca/radio/thecurrent/bc-voter-panel-1.7494095",
+    "timestamp": "2025-03-26T20:47:04Z"
+  },
+  {
+    "title": "Trump Social Security Nominee Sparks Calls From Democrats for Investigation",
+    "description": "Trump has nominated Frank Bisignano as the next leader of the SSA, but some Democrats say he has lied about his involvement with DOGE.",
+    "link": "https://www.newsweek.com/trump-social-security-nominee-sparks-calls-democrats-investigation-2051079",
+    "timestamp": "2025-03-26T20:46:46Z"
+  },
+  {
+    "title": "New ReaderUpdate malware variants target macOS users",
+    "description": "New ReaderUpdate malware variants, now written in Crystal, Nim, Rust, and Go, targets macOS users, SentinelOne warns. SentinelOne researchers warn that multiple versions of the ReaderUpdate malware written in Crystal, Nim, Rust, and Go programming languages, \u2026",
+    "link": "https://securityaffairs.com/175891/malware/readerupdate-malware-variants-targets-macos.html",
+    "timestamp": "2025-03-26T20:45:09Z"
+  },
+  {
+    "title": "Proposed bill would curb \u2018woke\u2019 ESG investing by state pension funds, force them to focus purely on profits",
+    "description": "The draft law by Congressman Andy Barr will bring in tougher disclosure requirements for so-called 'woke' ESG' investments",
+    "link": "https://nypost.com/2025/03/26/business/congressman-andy-barr-to-introduce-bill-to-curb-woke-esg-investing-by-state-pension-funds/",
+    "timestamp": "2025-03-26T20:43:20Z"
+  },
+  {
+    "title": "Trump Approval Rating Tracker: Here\u2019s Where He Stands\u2014As Poll Shows Concern About Signal Leak",
+    "description": "The latest survey, released March 25 by the Economist/YouGov, found 48% approve of Trump's job performance, compared to 46% who disapprove.",
+    "link": "https://www.forbes.com/sites/saradorn/2025/03/26/trump-approval-rating-tracker-heres-where-he-stands-after-2-months-marked-by-court-battles-trade-wars/",
+    "timestamp": "2025-03-26T20:43:15Z"
+  },
+  {
+    "title": "Trump admin's shifting explanations for how a journalist was added to Signal chat",
+    "description": "The Trump administration has offered different, and at times contradictory, explanations for how Jeffrey Goldberg got included on the sensitive Signal chat.",
+    "link": "https://abcnews.go.com/Politics/trump-admins-shifting-explanations-journalist-added-signal-chat/story?id=120179649",
+    "timestamp": "2025-03-26T20:42:25Z"
+  },
+  {
+    "title": "Jolene Ivey speaks on her health, Prince George\u2019s race exit",
+    "description": "News4 spoke with Jolene Ivey about what happened during her campaign and what\u2019s next for her and the county as it transitions to new leadership.",
+    "link": "https://www.nbcwashington.com/news/local/prince-georges-county/jolene-ivey-opens-up-on-her-health-prince-georges-county-executive-race-exit/3876939/",
+    "timestamp": "2025-03-26T20:42:09Z"
+  },
+  {
+    "title": "Trump administration detains Turkish student at Tufts, revokes visa",
+    "description": "Fulbright scholar Rumeysa Ozturk was arrested days after writing on Palestinian rights.",
+    "link": "https://www.jpost.com/international/article-847753",
+    "timestamp": "2025-03-26T20:42:03Z"
+  },
+  {
     "title": "Dmitry Trenin: Liberalism is dead, this is what comes after",
     "description": "In Trump\u2019s world, great powers don\u2019t preach \u2013 they compete Read Full Article at RT.com",
     "link": "https://www.rt.com/news/614827-dmitry-trenin-liberalism-is-dead/",
@@ -348,15 +408,15 @@
     "timestamp": "2025-03-26T20:00:00Z"
   },
   {
-    "title": "The SignalGate Scandal, the Lies, and the Text Messages",
-    "description": "In the first big scandal of the Trump administration, the editor-in-chief of The Atlantic was invited to participate in a top-secret texting session about bombing the Houthis. Jeffrey Goldberg first thought it was a joke or a scam, but he joined the group and\u2026",
-    "link": "https://dianeravitch.net/2025/03/26/the-signalgate-scandal-the-lies-and-the-text-messages/",
-    "timestamp": "2025-03-26T20:00:00Z"
-  },
-  {
     "title": "Tariff man doubles down on his passion",
     "description": "<p>US President Donald Trump has long been a staunch advocate of import tariffs, proudly calling himself \"Tariff Man\" and asserting that tariff is \"the most beautiful word in the dictionary.\"</p>",
     "link": "https://www.bangkokpost.com/opinion/opinion/2988557/tariff-man-doubles-down-on-his-passion",
+    "timestamp": "2025-03-26T20:00:00Z"
+  },
+  {
+    "title": "The SignalGate Scandal, the Lies, and the Text Messages",
+    "description": "In the first big scandal of the Trump administration, the editor-in-chief of The Atlantic was invited to participate in a top-secret texting session about bombing the Houthis. Jeffrey Goldberg first thought it was a joke or a scam, but he joined the group and\u2026",
+    "link": "https://dianeravitch.net/2025/03/26/the-signalgate-scandal-the-lies-and-the-text-messages/",
     "timestamp": "2025-03-26T20:00:00Z"
   },
   {
@@ -490,71 +550,5 @@
     "description": "UPS is debuting a tool to help online shoppers view the added cost of tariffs. UPS Global Checkout is designed to ease international trade as a trade war between the United States and other nations complicates eCommerce shipping, according to a Wednesday (Mar\u2026",
     "link": "https://www.pymnts.com/shipping/2025/ups-rolls-out-tool-help-shoppers-avoid-surprise-tariffs/",
     "timestamp": "2025-03-26T19:38:17Z"
-  },
-  {
-    "title": "Trump asks Supreme Court to halt millions of dollars in \u2018DEI\u2019-related education grants",
-    "description": "The diversity-related request comes from the Department of Education, which the president wants to dismantle.",
-    "link": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-asks-supreme-court-education-dei-related-grants-rcna198222",
-    "timestamp": "2025-03-26T19:37:49Z"
-  },
-  {
-    "title": "Kavanaugh and Barrett appear likely to break with the Supreme Court\u2019s MAGA wing",
-    "description": "The Supreme Court spent Wednesday morning giving very serious consideration to a case that no one should take seriously.\u00a0 FCC v. Consumers\u2019 Research asks the justices to revive a long-dead legal doctrine known as \u201cnondelegation,\u201d which places strict limits on\u2026",
-    "link": "https://www.vox.com/scotus/405913/supreme-court-kavanaugh-barrett-nondelegation-fcc-consumers-research",
-    "timestamp": "2025-03-26T19:37:48Z"
-  },
-  {
-    "title": "Why Lawyers Are Standing Up To Big Law",
-    "description": "Plus, Lattice CEO on AI agents vs digital workers, DOGE cuts could lead to a U.S. science brain drain and unsecured work group chats gone wrong in this week\u2019s Careers newsletter.",
-    "link": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/03/26/why-lawyers-are-standing-up-to-big-law/",
-    "timestamp": "2025-03-26T19:37:36Z"
-  },
-  {
-    "title": "This year's March Madness reflects rise of Red State America",
-    "description": "The outlook for a blue state sports comeback anytime soon looks bleak.\u00a0 According to Rivals, 28 of this year\u2019s top 40 high school basketball prospects were located in red states.",
-    "link": "https://www.foxnews.com/opinion/years-march-madness-reflects-rise-red-state-america",
-    "timestamp": "2025-03-26T19:37:08Z"
-  },
-  {
-    "title": "Why Black Folks Believe Trump Is Trying To Use Us to Declare Martial Law and What Does That Mean?",
-    "description": "Photo: Greg Nash-Pool (Getty Images)\r\nBlack Americans are carefully reading signs from the White House. And if you\u2019ve been paying attention to President Donald Trump\u2019s first 65 days in office, then you should be on high alert! Since January, Trump has signed \u2026",
-    "link": "https://www.theroot.com/why-black-folks-believe-trump-is-trying-to-use-us-to-de-1851772545",
-    "timestamp": "2025-03-26T19:37:00Z"
-  },
-  {
-    "title": "Inside Mike Johnson's meeting with judiciary hawks over Trump court standoff",
-    "description": "House Republicans on the Judiciary Committee privately met with Speaker Mike Johnson on Tuesday.",
-    "link": "https://www.foxnews.com/politics/inside-mike-johnsons-meeting-judiciary-hawks-over-trump-court-standoff",
-    "timestamp": "2025-03-26T19:35:59Z"
-  },
-  {
-    "title": "Senate Republicans warm to hiking the debt limit in their sweeping party-line bill",
-    "description": "Senate Republicans are warming up to the idea of including a debt ceiling increase in their big party-line bill to advance President Donald Trump\u2019s agenda.",
-    "link": "https://www.nbcnews.com/politics/congress/senate-republicans-debt-limit-sweeping-party-line-bill-rcna198161",
-    "timestamp": "2025-03-26T19:33:07Z"
-  },
-  {
-    "title": "Facing possible primary challenge from Trump ally, long-serving senator gets backing of leader Thune",
-    "description": "Republican Sen. John Cornyn of Texas, facing a possible 2026 primary challenge from Texas Attorney General Ken Paxton, a President Trump ally, lands the endorsement of Senate Majority Leader John Thune.",
-    "link": "https://www.foxnews.com/politics/facing-possible-primary-challenge-from-trump-ally-long-serving-senator-backing-leader-thune",
-    "timestamp": "2025-03-26T19:32:03Z"
-  },
-  {
-    "title": "Comedian Mike Glazer Heckled by Trump Supporter, Called 'Jew Pig'",
-    "description": "Comedian Mike Glazer got heckled by a Donald Trump supporter in the middle of his stand-up act, with the guy calling Mike a \"Jew pig\" ... and it's all on video. Mike was telling a joke about sitting in a corner with his weed pen when suddenly he\u2026\n Permalink",
-    "link": "https://www.tmz.com/2025/03/26/comedian-mike-glazer-called-jew-pig-by-trump-supporter/",
-    "timestamp": "2025-03-26T19:30:58Z"
-  },
-  {
-    "title": "Trump's Latest Executive Order is a Sham--and a Warning (Marc Elias/Democracy Docket)",
-    "description": "Marc Elias / Democracy Docket:\nTrump's Latest Executive Order is a Sham\u2014and a Warning\u00a0 \u2014\u00a0 The greatest threat to Donald Trump's authoritarian dream is not the courts \u2014 it is free and fair elections.\u00a0 While the courts can stand in the way of his twisted vision\u2026",
-    "link": "https://www.memeorandum.com/250326/p92",
-    "timestamp": "2025-03-26T19:30:01Z"
-  },
-  {
-    "title": "Democrats narrowly win a Pennsylvania Senate seat, scoring an upset in Republican-leaning suburbs | CNN Politics",
-    "description": "Democrat James Andrew Malone narrowly won a special election for a Pennsylvania state Senate seat in a stretch of Republican-leaning suburbs and farming communities, scoring an upset in a territory that a Democrat hasn\u2019t represented in the chamber for 136 yea\u2026",
-    "link": "https://www.cnn.com/2025/03/26/politics/pennsylvania-state-senate-special-election-malone/index.html",
-    "timestamp": "2025-03-26T19:29:45Z"
   }
 ]
