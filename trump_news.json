@@ -1,5 +1,485 @@
 [
   {
+    "title": "Trump admin says 'top MS-13 national leader' arrested",
+    "description": "The U.S. has arrested a top MS-13 gang member, according to a post on X by Attorney General Pam Bondi.",
+    "link": "https://abcnews.go.com/US/trump-administration-top-ms-13-national-leader-arrested/story?id=120211143",
+    "timestamp": "2025-03-27T12:38:37Z"
+  },
+  {
+    "title": "GM, Stellantis shares fall after Trump's auto tariff announcement",
+    "description": "President Donald Trump said he would place 25%\u00a0tariffs\u00a0on \"all cars that are not made in the United States.\"",
+    "link": "https://www.cnbc.com/2025/03/27/auto-stocks-trump-tariffs.html",
+    "timestamp": "2025-03-27T12:38:25Z"
+  },
+  {
+    "title": "Party leaders appeal to seniors, autoworkers in Ontario and Quebec campaign stops",
+    "description": "Conservative Leader Pierre Poilievre kicked off the day with a pledge to allow working seniors to earn up to $34,000 tax-free, an increase of $10,000 from the current level.",
+    "link": "https://www.nationalobserver.com/2025/03/27/news/party-leaders-seniors-autoworkers-ontario-quebec-campaign-stops",
+    "timestamp": "2025-03-27T12:38:05Z"
+  },
+  {
+    "title": "Oil executives bluntly criticize Trump tariffs and 'drill, baby, drill' in anonymous survey",
+    "description": "The blunt responses stood in contrast to oil executive public remarks at the industry's big energy conference in Houston.",
+    "link": "https://www.cnbc.com/2025/03/27/oil-execs-slam-trumps-tariffs-and-drill-baby-drill-in-survey.html",
+    "timestamp": "2025-03-27T12:36:17Z"
+  },
+  {
+    "title": "Canadians job loss fears fading as tariff war continues: poll",
+    "description": "S\u00e9bastien Dallaire, Leger\u2019s executive vice-president for Eastern Canada, said the poll results could indicate that Canadians are growing numb to the threats coming from the United States.",
+    "link": "https://www.nationalobserver.com/2025/03/27/news/canadians-job-loss-tariff-war-poll",
+    "timestamp": "2025-03-27T12:35:57Z"
+  },
+  {
+    "title": "Trump Announces 25 Percent Tariffs on Imported Cars",
+    "description": "State of the Union: The new tariffs could be implemented within a week.\nThe post Trump Announces 25 Percent Tariffs on Imported Cars appeared first on The American Conservative.",
+    "link": "https://www.theamericanconservative.com/trump-announces-25-percent-tariffs-on-imported-cars/",
+    "timestamp": "2025-03-27T12:35:44Z"
+  },
+  {
+    "title": "Trump says he 'always thought' Waltz was responsible for Signal chat scandal",
+    "description": "President Donald Trump told reporters on Wednesday that he \"always thought\" National Security Adviser Mike Waltz was responsible for the Signal chat scandal.",
+    "link": "https://www.foxnews.com/politics/trump-says-he-always-thought-waltz-responsible-signal-chat-scandal",
+    "timestamp": "2025-03-27T12:35:17Z"
+  },
+  {
+    "title": "Trump administration cuts $153 million in Illinois public health, substance abuse programs",
+    "description": "The Illinois cuts are part of $12 billion in grants that the federal Department of Health and Human Services canceled this week.",
+    "link": "https://www.wbez.org/politics/2025/03/27/trump-administration-cuts-illinois-mental-health-and-substance-abuse-programs-28-million",
+    "timestamp": "2025-03-27T12:34:41Z"
+  },
+  {
+    "title": "How Did China Work Around Previous U.S. Tariffs? Can They Do It Again?",
+    "description": "Donald Trump has been threatening tariffs of various and ridiculous levels for months now, along with a slew of other economic threats and government actions to convince other countries to do what he wants. Among them are new tariffs against China which is no\u2026",
+    "link": "https://biztoc.com/x/ba43e2db7616e62f",
+    "timestamp": "2025-03-27T12:34:20Z"
+  },
+  {
+    "title": "U.S. health department plans to slash 10,000 jobs as RFK Jr. upends agencies",
+    "description": "The massive cuts at Robert F. Kennedy Jr.'s Health and Human Services Department could affect teams that respond to outbreaks and help with insurance coverage.",
+    "link": "https://www.cnbc.com/2025/03/27/rfk-jr-plans-10000-hhs-job-cuts.html",
+    "timestamp": "2025-03-27T12:34:15Z"
+  },
+  {
+    "title": "MAGA Celebrates Arrest of Top MS-13 Leader: 'Tom Homan Is A Superstar'",
+    "description": "Donald Trump hailed his White House border czar on the news of the arrest.",
+    "link": "https://biztoc.com/x/697f8509e8b266f9",
+    "timestamp": "2025-03-27T12:34:03Z"
+  },
+  {
+    "title": "China Bats Away Trump Offer of Tariffs Reduction For TikTok Deal",
+    "description": "US President Donald Trump\u2019s suggestion that he could cut tariffs on China if Beijing approves an American takeover of TikTok\u2019s US unit has been dismissed by Beijing.\nChina poured cold water on the idea on Thursday, although analysts suspect it could still be \u2026",
+    "link": "https://biztoc.com/x/d92b45fa4863956d",
+    "timestamp": "2025-03-27T12:33:57Z"
+  },
+  {
+    "title": "Tariffs Could Add $10,000 To Car Prices. The Auto Stocks Getting Hit In The Stock Market",
+    "description": "President Donald Trump on Wednesday announced 25% tariffs on \"all cars\" not made in the U.S.\nThe post Tariffs Could Add $10,000 To Car Prices. The Auto Stocks Getting Hit In The Stock Market. appeared first on Investor's Business Daily.",
+    "link": "https://biztoc.com/x/953d2818a893bb66",
+    "timestamp": "2025-03-27T12:33:56Z"
+  },
+  {
+    "title": "Auto stocks slide as U.S. tariffs send 'fatal signal' for trade",
+    "description": "Shares in some of the world's largest auto companies tumbled on Thursday after President Donald Trump put a wall of tariffs around the U.S. vehicle sector, adding to worries about the hit to global trade and to industry profits. Ciara Lee reports.",
+    "link": "https://biztoc.com/x/65eb616e2627488b",
+    "timestamp": "2025-03-27T12:33:53Z"
+  },
+  {
+    "title": "Germany says it 'will not give in' as Trump announces 25% car tariffs",
+    "description": "Germany says it 'will not give in' as Trump announces 25% car tariffs\nGermany has said it \"will not give in\" and that Europe must \"respond firmly\" as US President Donald Trump targets imported cars and car parts with a 25% tax in his latest tariffs.\nOther maj\u2026",
+    "link": "https://biztoc.com/x/602926833446cec8",
+    "timestamp": "2025-03-27T12:33:47Z"
+  },
+  {
+    "title": "Rolls-Royce owner Donald Trump just took a hammer to the U.K.\u2019s $8 billion luxury car market",
+    "description": "The U.K.\u2019s automobile sector, prized for its luxury manufacturers like Bentley and Aston Martin, is reeling after President Donald Trump moved forward with aggressive tariffs that threaten to bring the country\u2019s lucrative export market to its knees.\nThe Trump\u2026",
+    "link": "https://biztoc.com/x/dfa40738122526a7",
+    "timestamp": "2025-03-27T12:33:41Z"
+  },
+  {
+    "title": "MAGA Celebrates Arrest of Top MS-13 Leader: 'Tom Homan Is A Superstar'",
+    "description": "Donald Trump hailed his White House border czar on the news of the arrest.",
+    "link": "https://www.newsweek.com/maga-celebrates-arrest-top-ms-13-leader-tom-homan-superstar-2051369",
+    "timestamp": "2025-03-27T12:31:45Z"
+  },
+  {
+    "title": "The Far-Left\u2019s Violent Attacks on Tesla are Revealing",
+    "description": "In recent weeks, there has been a sharp increase in violent attacks aimed at destroying cars and other property carrying the logo of Elon Musk\u2019s electric car company, Tesla.",
+    "link": "https://www.shtfplan.com/headline-news/the-far-lefts-violent-attacks-on-tesla-are-revealing",
+    "timestamp": "2025-03-27T12:30:55Z"
+  },
+  {
+    "title": "Nightmare Team",
+    "description": "Becky Edmunds\n\nTrump and Vance.\nThe post Nightmare Team appeared first on The Nation.",
+    "link": "https://www.thenation.com/article/politics/nightmare-team/",
+    "timestamp": "2025-03-27T12:30:47Z"
+  },
+  {
+    "title": "New US airstrike campaign targeting Yemen's Houthi rebels more intense than last",
+    "description": "The U.S. has launched a new airstrike campaign against Yemen's Houthi rebels, targeting ranking personnel and urban areas. This shift in tactics comes after the Houthis threatened to resume attacks on Israeli vessels. Concerns over civilian casualties are ris\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/new-us-airstrike-campaign-targeting-yemens-houthi-rebels-more-intense-than-last/articleshow/119597242.cms",
+    "timestamp": "2025-03-27T12:30:32Z"
+  },
+  {
+    "title": "U.S. CISA adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Sitecore CMS and XP, and GitHub Action flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)\u00a0added [1,2] the following vulnerabi\u2026",
+    "link": "https://securityaffairs.com/175915/security/u-s-cisa-adds-sitecore-cms-and-xp-and-github-action-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+    "timestamp": "2025-03-27T12:30:29Z"
+  },
+  {
+    "title": "Trump places 25% tariffs on auto imports, sparking global trade tensions",
+    "description": "If the taxes are fully passed onto consumers, the average auto price on an imported vehicle could jump by $12,500, a sum that could feed into overall inflation.",
+    "link": "https://roanoke.com/news/nation-world/government-politics/article_b97b0136-c1a5-5c5b-a364-4572f03fee4b.html",
+    "timestamp": "2025-03-27T12:30:00Z"
+  },
+  {
+    "title": "Europe lashes out over Trump auto tariffs and the economic threat to both continents",
+    "description": "The most exposed to the Trump auto tariffs are German and Italian carmakers.",
+    "link": "https://www.bostonherald.com/2025/03/27/trump-auto-tariffs-europe-reaction/",
+    "timestamp": "2025-03-27T12:29:45Z"
+  },
+  {
+    "title": "California Has More EV Charging Ports than Gas Pumps, but Demand Struggles",
+    "description": "California now has more electric vehicle (EV) charging stations than gas nozzles, but consumer demand is struggling to meet Gov. Gavin Newsom's target of ending gas-powered vehicle sales by 2035, and federal support is in doubt.\nThe post California Has More E\u2026",
+    "link": "https://www.breitbart.com/politics/2025/03/27/california-has-more-ev-charging-ports-than-gas-pumps-but-demand-struggles/",
+    "timestamp": "2025-03-27T12:29:32Z"
+  },
+  {
+    "title": "'We Have To Prove Europe Can Defend Itself': Zelensky Ahead Of Key Summit",
+    "description": "French President Emmanuel Macron on Thursday was hosting European leaders and Ukraine&#039;s Volodymyr Zelensky on Thursday for a summit aimed at boosting Ukrainian security ahead of any potential ceasefire with Russia.",
+    "link": "https://www.ndtv.com/world-news/russia-ukraine-war-putin-europe-can-defend-itself-we-have-to-prove-it-zelensky-ahead-of-key-summit-8024440",
+    "timestamp": "2025-03-27T12:26:48Z"
+  },
+  {
+    "title": "Can Elon Musk Buy Wisconsin? Ari Berman on Billionaire-Funded Attempt to Flip State Supreme Court",
+    "description": "After spending over a quarter of a billion dollars on Donald Trump\u2019s presidential election campaign, Elon Musk is pouring money into a Supreme Court election in Wisconsin. Musk has spent more than $18 million to support Trump-backed candidate Brad Schimel ove\u2026",
+    "link": "https://www.democracynow.org/2025/3/27/elon_musk_wisconsin_supreme_court_race",
+    "timestamp": "2025-03-27T12:26:04Z"
+  },
+  {
+    "title": "As Donald Trump imposes a 25% tariff on all automobiles imported to the U.S., these favourite cars of yours could cost up to $12,000 more, check before you buy",
+    "description": "US President Donald Trump's new 25% tariff on all foreign-produced cars and auto components, effective April 3, could increase car prices by up to $12,000. As a result, consumers may face higher costs and fewer options. The tariff also applies to assembled ca\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/as-donald-trump-imposes-a-25-tariff-on-all-automobiles-imported-to-the-u-s-these-favourite-cars-of-yours-could-cost-up-to-12000-more-check-before-you-buy/articleshow/119594636.cms",
+    "timestamp": "2025-03-27T12:25:40Z"
+  },
+  {
+    "title": "New U.S. auto tariffs will raise costs and devastate Canadian sector: industry",
+    "description": "Shares of Ford, General Motors and Stellantis all slid in after-hours trading.",
+    "link": "https://www.nationalobserver.com/2025/03/27/news/us-auto-tariffs-raise-costs-devastate-canadian-sector-industry",
+    "timestamp": "2025-03-27T12:24:30Z"
+  },
+  {
+    "title": "Signal Group Chat Fiasco Is Far From The Only Digital Security Issue For Trump White House",
+    "description": "A German news website said it was \"particularly easy\" to obtain Pentagon chief Pete Hegseth's private contact information.",
+    "link": "https://www.huffpost.com/entry/digital-security-issues-trump-officials_n_67e526d0e4b0501fc7710e64",
+    "timestamp": "2025-03-27T12:24:28Z"
+  },
+  {
+    "title": "Trump says US will 'go as far as we have to' to get control of Greenland",
+    "description": "President Donald Trump said the U.S. will \"go as far as we have to go\" to get control of Greenland, ahead of a planned visit to the Arctic island by the vice president.",
+    "link": "https://abcnews.go.com/International/trump-us-control-greenland/story?id=120208823",
+    "timestamp": "2025-03-27T12:23:29Z"
+  },
+  {
+    "title": "Trump\u2019s National Security Advisor Left His Venmo Friends Public",
+    "description": "These are not bright guys.",
+    "link": "https://gizmodo.com/trumps-national-security-advisor-left-his-venmo-friends-public-2000581272",
+    "timestamp": "2025-03-27T12:23:02Z"
+  },
+  {
+    "title": "European carmakers' shares sink after tariffs",
+    "description": "Various European automobile companies observed on Thursday a dip in the prices of their shares after United States President Donald Trump imposed a 25% tariff on all cars made outside the North Americ...",
+    "link": "https://biztoc.com/x/6e29708fe3f9bc3c",
+    "timestamp": "2025-03-27T12:22:55Z"
+  },
+  {
+    "title": "Trump Tariffs on Canada Lumber Risk Pinching Toilet Paper Supply",
+    "description": "President Donald Trump\u2019s promised tariffs on softwood lumber risk disrupting the supply chain for something nobody wants to be caught without: toilet paper.",
+    "link": "https://financialpost.com/pmn/business-pmn/trump-tariffs-on-canada-lumber-risk-pinching-toilet-paper-supply",
+    "timestamp": "2025-03-27T12:22:53Z"
+  },
+  {
+    "title": "A 'coalition of the willing' mulls more aid for Ukraine and a possible European armed force",
+    "description": "Ukraine\u2019s allies from across Europe have gathered for talks in Paris about how to strengthen Kyiv\u2019s hand and its military as it pushes for a ceasefire with Russia",
+    "link": "https://abcnews.go.com/International/wireStory/coalition-mulls-aid-ukraine-european-armed-force-120208121",
+    "timestamp": "2025-03-27T12:22:34Z"
+  },
+  {
+    "title": "US cities located in states won by Trump would be most hurt by Canadian tariffs, an analysis finds",
+    "description": "A new analysis finds the U.S. cities most vulnerable to a trade war with Canada turn out to largely be in the states that helped return Donald Trump to the White House",
+    "link": "https://abcnews.go.com/Politics/wireStory/us-cities-located-states-won-trump-hurt-canadian-120210491",
+    "timestamp": "2025-03-27T12:22:32Z"
+  },
+  {
+    "title": "Europe lashes out over Trump auto tariffs and the economic threat to both continents",
+    "description": "European automakers, already struggling with tepid economic growth at home and looming Chinese competition, on Thursday decried the U.S. import tax on cars as a new, heavy burden that would hurt companies and consumers on both sides of the Atlantic",
+    "link": "https://abcnews.go.com/Business/wireStory/europe-lashes-trump-auto-tariffs-economic-threat-continents-120210493",
+    "timestamp": "2025-03-27T12:22:31Z"
+  },
+  {
+    "title": "Iran shows off \u2018missile city\u2019\u2014But has it just exposed a critical weakness to the US and Israel?",
+    "description": "Iran has unveiled a vast underground missile complex, the third of its kind revealed in under a month, as tensions with the US and Israel escalate. Dubbed a  missile city  by the Revolutionary Guards, the facility houses advanced weaponry, including long-rang\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/iran-shows-off-missile-citybut-has-it-just-exposed-a-critical-weakness-to-the-us-and-israel/articleshow/119595579.cms",
+    "timestamp": "2025-03-27T12:21:57Z"
+  },
+  {
+    "title": "Europe Lashes Out Over Trump's New Auto Tariffs With 'Cost Growth' Warning",
+    "description": "European automakers decried the U.S. import tax on cars as a heavy burden that will punish consumers and companies alike on both sides of the Atlantic.",
+    "link": "https://www.huffpost.com/entry/europe-response-trump-auto-tariffs_n_67e54124e4b0db54f77d355a",
+    "timestamp": "2025-03-27T12:21:24Z"
+  },
+  {
+    "title": "Markets shake after Trump\u2019s tariffs on imported vehicles \u2013 European car stocks plunge",
+    "description": "Tariffs \"much higher than planned\" will be imposed on EU and Canada if they threaten the US, warns US president\nThe post Markets shake after Trump\u2019s tariffs on imported vehicles \u2013 European car stocks plunge appeared first on ProtoThema English.",
+    "link": "https://en.protothema.gr/2025/03/27/markets-shake-after-trumps-tariffs-on-imported-vehicles-european-car-stocks-plunge/",
+    "timestamp": "2025-03-27T12:19:42Z"
+  },
+  {
+    "title": "Oops! Don Jr.\u2019s livestream takes an awkward turn as viewers spot old photos of ex-Kimberly Guilfoyle in the background; this is how he responded",
+    "description": "Donald Trump Jr.'s livestream gained attention when viewers saw photos of his ex, Kimberly Guilfoyle, in the background. This revelation came after his split with Guilfoyle and his new relationship with socialite Bettina Anderson. Trump Jr. and Anderson have \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/oops-don-jr-s-livestream-takes-an-awkward-turn-as-viewers-spot-old-photos-of-ex-kimberly-guilfoyle-in-the-background-this-is-how-he-responded/articleshow/119596565.cms",
+    "timestamp": "2025-03-27T12:18:39Z"
+  },
+  {
+    "title": "Bangladesh to Seal Deal with Musk\u2019s Starlink",
+    "description": "While officials say the decision is driven by the need to improve internet connectivity to benefit Bangladeshis, it is likely also aimed at winning Musk\u2019s favor.",
+    "link": "https://thediplomat.com/2025/03/bangladesh-to-seal-deal-with-musks-starlink/",
+    "timestamp": "2025-03-27T12:18:39Z"
+  },
+  {
+    "title": "Carney suspends election campaign to deal with U.S. auto tariff fallout",
+    "description": "Conservative Leader Pierre Poilievre is set to make stops today in Coquitlam and Surrey, B.C., while NDP Leader Jagmeet Singh is scheduled to meet with union leaders and autoworkers in Windsor, Ont.",
+    "link": "https://www.nationalobserver.com/2025/03/27/news/carney-election-campaign-us-auto-tariff-fallout",
+    "timestamp": "2025-03-27T12:18:33Z"
+  },
+  {
+    "title": "US cities located in states won by Trump would be most hurt by Canadian tariffs, an analysis finds",
+    "description": "Analysis by the Canadian Chamber of Commerce finds San Antonio and Detroit top the list metro areas most dependent on exports to Canada.",
+    "link": "https://www.bostonherald.com/2025/03/27/trump-tariffs-canada-impact/",
+    "timestamp": "2025-03-27T12:18:25Z"
+  },
+  {
+    "title": "Israel Passes Controversial Judicial Reform, Adding Politicians to Selection of Judges",
+    "description": "The Israeli parliament, the Knesset, passed a controversial bill Thursday that will allow elected politicians more input into the selection of judges, a key component of Prime Minister Benjamin Netanyahu's judicial reforms.\nThe post Israel Passes Controversia\u2026",
+    "link": "https://www.breitbart.com/middle-east/2025/03/27/israel-passes-controversial-judicial-reform-adding-politicians-to-selection-of-judges/",
+    "timestamp": "2025-03-27T12:17:51Z"
+  },
+  {
+    "title": "Trump threatens EU and Canada with more tariffs if they work together to harm U.S.",
+    "description": "Trump is threatening large tariffs on the European Union and Canada if they work together to do economic harm to the U.S.",
+    "link": "https://toronto.citynews.ca/2025/03/27/trump-threatens-eu-and-canada-with-more-tariffs-if-they-work-together-to-harm-u-s/",
+    "timestamp": "2025-03-27T12:17:35Z"
+  },
+  {
+    "title": "Trump to Trans Community: \u201cYou Can Never Become a Woman If You\u2019re Born With Male DNA\u201d",
+    "description": "The Trump administration is cracking down on transgender rights, and on Wednesday, he issued a message to the trans community that shocked some people. \u201cFor four long years, we had an administration that tried to abolish the very concept of womanhood and repl\u2026",
+    "link": "https://mediatakeout.com/trump-to-trans-community-you-can-never-become-a-woman-if-youre-born-with-male-dna/",
+    "timestamp": "2025-03-27T12:17:21Z"
+  },
+  {
+    "title": "Zelensky Declares Ukraine Will \u2018Never Cede\u2019 Occupied Territories to Russia, Suggests Trump Being Naive About Putin",
+    "description": "Volodymyr Zelensky said on Wednesday evening that Ukraine will \u201cnever cede\u201d the occupied territories to Russia while expressing doubts about the Trump-led efforts to bring peace and suggesting the President is being deceived by Vladimir Putin. Speaking to the\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4307036/posts",
+    "timestamp": "2025-03-27T12:16:50Z"
+  },
+  {
+    "title": "BREAKING: Radical 9th Circuit Court Agrees with Lower Court \u2013 Tells Trump to Reinstate THOUSANDS of Fired Probationary Employees! WTH IS GOING ON?",
+    "description": "The 9th Circuit Court has dealt a significant blow to the Trump administration by mandating the reinstatement of thousands of probationary employees, raising questions about judicial power and executive authority.\nThe post BREAKING: Radical 9th Circuit Court \u2026",
+    "link": "https://www.thegatewaypundit.com/2025/03/breaking-radical-9th-circuit-court-agrees-lower-court/",
+    "timestamp": "2025-03-27T12:15:43Z"
+  },
+  {
+    "title": "Susan Crawford's Chances of Winning Wisconsin Supreme Court Election: Polls",
+    "description": "Crawford is running against Republican Donald Trump backed candidate Brad Schimel for a spot on Wisconsin's Supreme Court.",
+    "link": "https://www.newsweek.com/wisconsin-supreme-court-race-polls-susan-crawford-brad-schimel-2051318",
+    "timestamp": "2025-03-27T12:15:41Z"
+  },
+  {
+    "title": "Trump says 'we need Greenland for international safety and security' ahead of Vance trip",
+    "description": "The U.S. needs to \"convince\" Greenland that it would be better off as part of the U.S., President Donald Trump said Wednesday.",
+    "link": "https://www.foxnews.com/politics/trump-says-we-need-greenland-international-safety-security-ahead-vance-trip",
+    "timestamp": "2025-03-27T12:15:20Z"
+  },
+  {
+    "title": "Grapevine March 26, 2025: Proof that power corrupts",
+    "description": "Movers and shakers in Israeli society.",
+    "link": "https://www.jpost.com/israel-news/article-847840",
+    "timestamp": "2025-03-27T12:14:50Z"
+  },
+  {
+    "title": "Trump says Signal chat isn't 'really an FBI thing.' The FBI has a long history of such inquiries",
+    "description": "FBI Director Kash Patel may not have been part of a Signal chat in which other Trump administration national security officials discussed detailed attack plans",
+    "link": "https://abcnews.go.com/US/wireStory/trump-signal-chat-fbi-thing-fbi-long-history-120204773",
+    "timestamp": "2025-03-27T12:14:27Z"
+  },
+  {
+    "title": "Trump to impose 25 percent tariffs on all cars not made in the US",
+    "description": "President Donald Trump has signed a proclamation imposing 25 percent tariffs on \"all cars that are not made in the United States\" on top of taxes that are already in place. The tariffs will apply to all imported sedans, SUVs, crossovers, minivans, cargo vans \u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176837479",
+    "timestamp": "2025-03-27T12:12:08Z"
+  },
+  {
+    "title": "Trump Unleashes On \u2018SCAM\u2019 Public Broadcasters And Allies Who\u2019d Dare Help Canada In Late-Night Tirade",
+    "description": "President Donald Trump went on a late-night tirade on Truth Social early Thursday to unleash a stream of attacks on the judiciary, public broadcasters, and longtime American allies\u2014while celebrating the economic brinksmanship of his looming tariffs. The openi\u2026",
+    "link": "https://www.mediaite.com/news/trump-unleashes-on-scam-public-broadcasters-and-allies-whod-dare-help-canada-in-late-night-tirade/",
+    "timestamp": "2025-03-27T12:11:33Z"
+  },
+  {
+    "title": "A \u2018Coalition of the Willing\u2019 Mulls More Aid for Ukraine and a Possible European Armed Force",
+    "description": "French President Emmanuel Macron is hosting the leaders of nearly 30 countries plus NATO and European Union chiefs.",
+    "link": "https://time.com/7272103/ukraine-european-allies-summit-russia-conflict/",
+    "timestamp": "2025-03-27T12:11:31Z"
+  },
+  {
+    "title": "Tesla Out? Surprising New \u2018Magnificent 7\u2019 Stock Index Deals Fresh Blow To Elon Musk",
+    "description": "Tesla, Elon Musk\u2019s electric car company, has seen its share price fall by almost half since its December highs...",
+    "link": "https://www.forbes.com/sites/digital-assets/2025/03/27/tesla-out-new-magnificent-7-stock-index-deals-fresh-blow-to-elon-musk/",
+    "timestamp": "2025-03-27T12:10:56Z"
+  },
+  {
+    "title": "Germany says it 'will not give in' as Trump announces 25% car tariffs",
+    "description": "Major economies vow to retaliate, with China accusing Washington of violating international trade rules.",
+    "link": "https://www.bbc.com/news/articles/cy4vjwzv22eo",
+    "timestamp": "2025-03-27T12:09:53Z"
+  },
+  {
+    "title": "Europe lashes out over Trump auto tariffs and the economic threat to both continents",
+    "description": "FRANKFURT, Germany (AP) \u2014 European automakers, already struggling with tepid economic growth at home and rising competition from China, on Thursday decried the U.S. import tax on cars as a heavy burden that will punish consumers and companies alike on both si\u2026",
+    "link": "https://financialpost.com/pmn/europe-lashes-out-over-trump-auto-tariffs-and-the-economic-threat-to-both-continents",
+    "timestamp": "2025-03-27T12:09:52Z"
+  },
+  {
+    "title": "Iran Ready For Indirect Talks With US, Says Ayatollah Khamenei's Aide",
+    "description": "Kamal Kharrazi, an adviser to Iran&#039;s supreme leader, said on Thursday Tehran has not closed all doors to resolve its disputes with the United States and is ready for indirect negotiations with Washington.",
+    "link": "https://www.ndtv.com/world-news/not-closed-all-doors-iran-ready-for-indirect-talks-with-us-says-ayatollahkhameneis-aide-8024301",
+    "timestamp": "2025-03-27T12:09:34Z"
+  },
+  {
+    "title": "Trump escalates his trade war with new tariffs",
+    "description": "Trump announced plans to impose sweeping 25% tariffs on cars from overseas, and markets aren't happy.",
+    "link": "https://www.businessinsider.com/trump-new-tariffs-auto-industry-trade-war-escalate-tesla-ford-2025-3",
+    "timestamp": "2025-03-27T12:09:30Z"
+  },
+  {
+    "title": "U.S. And Global Auto Stocks Tumble After Trump\u2019s 25% Tariff Announcement\u2014Tesla Shares Unaffected",
+    "description": "President Donald Trump announced what he said was a \u201cpermanent\u201d 25% tariff on all foreign-made cars and trucks.",
+    "link": "https://www.forbes.com/sites/siladityaray/2025/03/27/us-and-global-auto-stocks-tumble-after-trumps-25-tariff-announcement-tesla-shares-unaffected/",
+    "timestamp": "2025-03-27T12:09:04Z"
+  },
+  {
+    "title": "Full transcript of Trump team\u2019s Yemen attack plan that was shared on Signal",
+    "description": "US officials accidentally leaked Yemen attack plans in Signal chat shared with The Atlantic editor-in-chief.",
+    "link": "https://www.aljazeera.com/news/2025/3/27/full-transcript-of-trump-teams-yemen-attack-plan-that-was-shared-on-signal",
+    "timestamp": "2025-03-27T12:08:52Z"
+  },
+  {
+    "title": "GM, Nvidia, Walgreens, Jefferies, Lululemon: Stocks to watch today",
+    "description": "Stocks may fall on Thursday after President Donald Trump imposed 25% tariffs on imported autos Wednesday evening and equities mostly declined in Europe. Futures linked to the S&P 500 and the Nasdaq 100 fell, and those tied to the Dow Jones Industrial Average \u2026",
+    "link": "https://qz.com/stock-watch-nvidia-walgreens-lululemon-1851772551",
+    "timestamp": "2025-03-27T12:08:00Z"
+  },
+  {
+    "title": "'Snow White' Producer\u2019s Son Says 'Immature' Rachel Zegler Injecting \u2018Personal Politics\u2019 'Clearly Hurt the Film'",
+    "description": "The blast zone for the box office bomb that is\u00a0\"Snow White\"\u00a0continues to spread. Jonah Platt, the actor son of Snow White producer Marc Platt, called out\u00a0Rachel Zegler and said her \"dragging her personal politics into the middle of promoting the movie\"\u00a0hurt t\u2026",
+    "link": "https://www.breitbart.com/entertainment/2025/03/27/snow-white-producers-son-says-immature-rachel-zegler-injecting-personal-politics-clearly-hurt-the-film/",
+    "timestamp": "2025-03-27T12:07:52Z"
+  },
+  {
+    "title": "Forbes Daily: As Trump Targets Cars, Wall Street Firms Share Concerns",
+    "description": "Today\u2019s Forbes Daily covers Trump\u2019s auto tariffs, Wall Street\u2019s warnings of a fragile market, MLB\u2019s most valuable teams, Tesla\u2019s China competition and more.",
+    "link": "https://www.forbes.com/sites/chrisdobstaff/2025/03/27/forbes-daily-as-trump-targets-cars-wall-street-firms-share-concerns/",
+    "timestamp": "2025-03-27T12:07:40Z"
+  },
+  {
+    "title": "NATO clarifies comments that four missing US soldiers had died during training in Lithuania",
+    "description": "NATO is clarifying comments that Secretary-General Mark Rutte made when he suggested that four U.S. soldiers who went missing while training in Lithuania had died, even though the U.S. Army said their fate was not yet confirmed",
+    "link": "https://abcnews.go.com/International/wireStory/nato-clarifies-comments-missing-us-soldiers-died-training-120174640",
+    "timestamp": "2025-03-27T12:06:24Z"
+  },
+  {
+    "title": "Posthaste: Trump is trashing America\u2019s reputation as a trading partner in Canada",
+    "description": "Trump's tariffs have caused a third of small businesses to shift to suppliers and markets within Canada. Read more",
+    "link": "https://financialpost.com/news/trump-tariffs-trash-u-s-reputation-trading-partner-canada",
+    "timestamp": "2025-03-27T12:06:19Z"
+  },
+  {
+    "title": "Automakers worst hit as Trump unveils new tariff on foreign vehicles",
+    "description": "Share prices of automakers slid Thursday after US President Donald Trump announced painful tariffs on imported vehicles and parts as he presses hardball trade policies many fear will spark a recession. In Tokyo, Toyota \u2014 the world\u2019s top-selling carmaker \u2014 fel\u2026",
+    "link": "https://punchng.com/automakers-worst-hit-as-trump-unveils-new-tariff-on-foreign-vehicles/",
+    "timestamp": "2025-03-27T12:06:09Z"
+  },
+  {
+    "title": "Live updates: Trump administration news; Signal scandal, health department cuts and new auto tariffs | CNN Politics",
+    "description": "A federal judge ordered key Trump administration agencies to preserve messages sent on Signal from March 11 to 15 after the revelation that Cabinet officials were discussing war plans on the app. Follow for live updates.",
+    "link": "https://www.cnn.com/politics/live-news/trump-presidency-news-03-27-25/index.html",
+    "timestamp": "2025-03-27T12:05:06Z"
+  },
+  {
+    "title": "Devastating HIV aid cuts could result in almost three million deaths by 2030, experts warn",
+    "description": "Experts and HIV charities have warned that cuts to prevention initiatives, including the far-reaching rollback of funding caused by the freezing of US aid \u2013 could have devastating effects on infection rates around the world. Researchers warned that global inf\u2026",
+    "link": "https://www.thepinknews.com/2025/03/27/hiv-aid-cuts-10-million-new-cases-3-million-deaths-trump/",
+    "timestamp": "2025-03-27T12:04:31Z"
+  },
+  {
+    "title": "Afghanistan: US lifts bounties on key Taliban leaders",
+    "description": "Washington's move marks a major shift in its stance toward the leaders of the Haqqani network, which was responsible for some of the deadliest attacks during the US-led war in Afghanistan.",
+    "link": "https://www.dw.com/en/afghanistan-us-lifts-bounties-on-key-taliban-leaders/a-72053190",
+    "timestamp": "2025-03-27T12:02:00Z"
+  },
+  {
+    "title": "Trump threatens \u2018far larger\u2019 tariffs on E.U. and Canada if they unite to do \u2018economic harm\u2019 to the U.S",
+    "description": "President Donald Trump issued an overnight threat to place \"far larger\" tariffs on the European Union and Canada than planned if they work together to retaliate in response to his tariffs.",
+    "link": "https://biztoc.com/x/59e50417ce9ee420",
+    "timestamp": "2025-03-27T12:00:38Z"
+  },
+  {
+    "title": "Swing state senators come together in rare show of bipartisanship, Dems aren't happy about it",
+    "description": "Pennsylvania Sens. Dave McCormick and John Fetterman will host their first joint public event in Pittsburgh this Saturday.",
+    "link": "https://www.foxnews.com/politics/swing-state-senators-come-together-rare-show-bipartisanship-dems-arent-happy",
+    "timestamp": "2025-03-27T12:00:32Z"
+  },
+  {
+    "title": "Private Contact Info and Passwords of Trump\u2019s Top Security Officials \u2014 Including Mike Waltz, Tulsi Gabbard, and Pete Hegseth \u2014 Reportedly Found Online via Hacked Data and Search Engines",
+    "description": "A troubling breach has unveiled the personal contact details of prominent figures in Trump\u2019s security team, raising alarming questions about national security and the potential for foreign intelligence exploitation.\nThe post Private Contact Info and Passwords\u2026",
+    "link": "https://www.thegatewaypundit.com/2025/03/private-contact-info-passwords-trumps-top-security-officials/",
+    "timestamp": "2025-03-27T12:00:13Z"
+  },
+  {
+    "title": "Investigation shows racial disparity in life sentences doled out by San Diego courts",
+    "description": "A look at murder-robbery convictions in San Diego under a former D.A. shows almost all Black people convicted received life without parole while white people received sentences that would eventually allow it, or were offered plea deals to lesser charges. And \u2026",
+    "link": "https://www.kpbs.org/podcasts/san-diego-news-now/investigation-shows-racial-disparity-in-life-sentences-doled-out-by-san-diego-courts",
+    "timestamp": "2025-03-27T12:00:00Z"
+  },
+  {
+    "title": "Dem Lawmakers, CCRKBA Spar Over Kash Patel\u2019s Leadership Role At ATF",
+    "description": "After 14 Democrat members of the U.S. House of Representatives wrote a letter to President Donald Trump asking him to remove Kash Patel, acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), from his leadership post, one gun rights\u2026",
+    "link": "https://www.thetruthaboutguns.com/ccrkba-defends-kash-patel-against-atf-outrage/",
+    "timestamp": "2025-03-27T12:00:00Z"
+  },
+  {
+    "title": "University of Notre Dame commencement departs from presidential tradition",
+    "description": "The University of Notre Dame. / Credit: Grindstone Media Group/Shutterstock\n\nWashington, D.C. Newsroom, Mar 27, 2025 / 08:00 am (CNA).\nNeither U.S. President Donald Trump nor Vice President JD Vance will deliver the commencement address for the 2025 graduatin\u2026",
+    "link": "https://www.catholicnewsagency.com/news/262983/university-of-notre-dame-commencement-departs-from-presidential-tradition",
+    "timestamp": "2025-03-27T12:00:00Z"
+  },
+  {
+    "title": "Tim Barton Inadvertently Makes The Case Against Impeaching Judges",
+    "description": "Tim Barton says the Constitution's system of checks and balances is designed to ensure that \"when you finally have somebody that's crazy, they won't have all the control.\" Um, hello?",
+    "link": "https://www.peoplefor.org/rightwingwatch/tim-barton-inadvertently-makes-case-against-impeaching-judges",
+    "timestamp": "2025-03-27T12:00:00Z"
+  },
+  {
+    "title": "Deported In The Dark",
+    "description": "<ul>\n<li>Sacrificed For The Majority</li>\n<li>Loomer Loomered</li>\n<li>Televangelist Grifter In The White House</li>\n</ul>",
+    "link": "https://www.peoplefor.org/rightwingwatch/deported-dark",
+    "timestamp": "2025-03-27T12:00:00Z"
+  },
+  {
+    "title": "Morning Report | Gordon Ryan: Jon Jones rehearsed Donald Trump dance during warmup for Stipe Miocic",
+    "description": "Jon Jones had to prepare himself to impress President Donald Trump at UFC 309 this past November.",
+    "link": "https://www.mmafighting.com/2025/3/27/24394357/morning-report-gordon-ryan-jon-jones-rehearsed-donald-trump-dance-during-warmup-for-stipe-miocic",
+    "timestamp": "2025-03-27T12:00:00Z"
+  },
+  {
     "title": "US Will 'Ally' With Russia Against Europe: Solovyov",
     "description": "\"Europe and Canada are now in global isolation. Nobody needs them,\" said Kremlin propagandist Vladimir Solovyov.",
     "link": "https://www.newsweek.com/us-ally-russia-europe-solovyov-2051316",
@@ -82,497 +562,5 @@
     "description": "The 25% levy on all imported passenger vehicles and key components set to take effect next week is likely to add thousands to the price of new cars.",
     "link": "https://www.businessinsider.com/auto-tariffs-trump-price-rises-new-cars-ford-gm-tesla-2025-3",
     "timestamp": "2025-03-27T11:48:59Z"
-  },
-  {
-    "title": "Brazilian President Lula swipes at Trump as US imposes auto tariffs",
-    "description": "Brazilian President Luiz In\u00e1cio Lula da Silva has swiped at U.S. President Donald Trump's decision to raise tariffs on a wide range of products. Lula, who is visiting Japan, said Trump was free to make decisions within his own country\u2026",
-    "link": "https://apnews.com/article/japan-brazil-trump-tariffs-auto-3f20b702d0e1fd64df92b49de2de724f",
-    "timestamp": "2025-03-27T11:48:47Z"
-  },
-  {
-    "title": "Trump Risks Ending Years of Disinflation, Ex-Fed Vice Chair Says",
-    "description": "US President Donald Trump\u2019s trade war risks turning powerful influences that helped ease inflation over decades in the opposite direction.",
-    "link": "https://financialpost.com/pmn/business-pmn/trump-risks-ending-years-of-disinflation-ex-fed-vice-chair-says",
-    "timestamp": "2025-03-27T11:47:10Z"
-  },
-  {
-    "title": "Trump is making some US allies question the F-35, creating a golden opportunity for European defense companies",
-    "description": "Trump's actions have caused some US allies to reconsider their commitment to buying F-35s. It could be a big opportunity for European jet makers.",
-    "link": "https://www.businessinsider.com/france-seizing-chance-trump-allies-question-f35-jet-europe-opportunity-2025-3",
-    "timestamp": "2025-03-27T11:47:09Z"
-  },
-  {
-    "title": "President Zelenskyy says 'it's a fact' Putin 'will die soon' in damning statement",
-    "description": "Ukrainian President Zelenskyy is meeting with European officials in France today (27 March).",
-    "link": "https://www.ladbible.com/news/world-news/volodymyr-zelenskyy-vladimir-putin-death-statement-soon-081822-20250327",
-    "timestamp": "2025-03-27T11:46:11Z"
-  },
-  {
-    "title": "Trump blasts \u2018highly conflicted\u2019 Obama-appointed judge James Boasberg after selecting another case involving his admin",
-    "description": "President Donald Trump blasted the \"highly conflicted\" district court judge he says is taking all the cases against the White House for himself while calling for an investigation into the \"rigged system.\"",
-    "link": "https://nypost.com/2025/03/27/us-news/trump-blasts-highly-conflicted-obama-appointed-judge-james-boasberg-after-selecting-another-case-involving-his-admin/",
-    "timestamp": "2025-03-27T11:46:01Z"
-  },
-  {
-    "title": "Two arrested over Trump Turnberry Gaza protest",
-    "description": "The two were released pending further inquiries after a probe into the incident earlier this month.",
-    "link": "https://www.bbc.com/news/articles/c99ne5g8greo",
-    "timestamp": "2025-03-27T11:43:41Z"
-  },
-  {
-    "title": "Ford calls for retaliatory tariffs to 'inflict as much pain as possible' on Americans",
-    "description": "Ontario Premier Doug Ford said he\u2019s in full support of retaliatory tariffs after U.S. President Donald Trump announced a new 25 per cent tariff Wednesday on cross-border auto trade.",
-    "link": "https://www.cbc.ca/news/canada/toronto/ford-retaliatory-tariffs-1.7494676",
-    "timestamp": "2025-03-27T11:43:38Z"
-  },
-  {
-    "title": "A 'coalition of the willing' mulls more aid for Ukraine and a possible European armed force",
-    "description": "European allies met in Paris to discuss strengthening Ukraine's military during ceasefire negotiations with Russia. The summit included talks on deploying a European armed force to deter further Russian aggression. France announced new defense aid for Ukraine\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/a-coalition-of-the-willing-mulls-more-aid-for-ukraine-and-a-possible-european-armed-force/articleshow/119594888.cms",
-    "timestamp": "2025-03-27T11:43:14Z"
-  },
-  {
-    "title": "Anti-abortion groups mount effort to strip Planned Parenthood funding ahead of Supreme Court hearing",
-    "description": "Major anti-abortion groups are gathering in the nation's capital to begin a lobbying effort aimed at eliminating funding for Planned Parenthood.",
-    "link": "https://www.bostonherald.com/2025/03/27/anti-abortion-federal-funding-rally/",
-    "timestamp": "2025-03-27T11:43:12Z"
-  },
-  {
-    "title": "Stock Futures Wobble After Trump Auto Tariff",
-    "description": "The Dow, S&P 500, and Nasdaq are pointing higher Thursday as the stock market digests the latest tariff news.",
-    "link": "https://www.barrons.com/livecoverage/stock-market-today-032725",
-    "timestamp": "2025-03-27T11:42:20Z"
-  },
-  {
-    "title": "'That's a tell': MSNBC hosts highlight hint Trump is 'mad at somebody' over Signal scandal",
-    "description": "Donald Trump is angry at someone in the White House over the recent scandal involving Defense Secretary Pete Hegseth sharing detailed military operations plans to a Signal group that unintentionally included a reporter, according to MSNBC.The outlet's \"Mornin\u2026",
-    "link": "https://www.rawstory.com/msnbc-hosts-trump-tell-mad/",
-    "timestamp": "2025-03-27T11:40:38Z"
-  },
-  {
-    "title": "Trump thinks cutting China's tariffs could seal the TikTok deal",
-    "description": "US President Donald Trump thinks that maybe cutting China tariffs could be the answer to sealing a deal with TikTok.",
-    "link": "https://www.androidheadlines.com/2025/03/trump-thinks-cutting-china-tariffs-could-seal-the-tiktok-deal.html",
-    "timestamp": "2025-03-27T11:40:30Z"
-  },
-  {
-    "title": "NATO clarifies comments that four missing US soldiers had died during training in Lithuania",
-    "description": "NATO clarified Secretary-General Mark Rutte's comments about the fate of four U.S. soldiers missing in Lithuania, stating their status is still unknown. The soldiers' vehicle was found submerged, and recovery efforts are ongoing. Lithuanian President Gitanas \u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/nato-clarifies-comments-that-four-missing-us-soldiers-had-died-during-training-in-lithuania/articleshow/119594744.cms",
-    "timestamp": "2025-03-27T11:39:57Z"
-  },
-  {
-    "title": "U.K. doesn\u2019t want to retaliate against Trump\u2019s 25% vehicle tariffs: \u2018We\u2019re looking to secure a better trading relationship\u2019",
-    "description": "Britain does not want to escalate trade wars, finance minister Rachel Reeves said Thursday after US President Donald Trump announced import tariffs on cars and auto parts.\nThe response came with London locked in talks with Washington over potentially securing\u2026",
-    "link": "https://biztoc.com/x/244578210cff5129",
-    "timestamp": "2025-03-27T11:38:59Z"
-  },
-  {
-    "title": "Trump administration tells oil and biofuels groups to hash out new biofuel policy, sources say",
-    "description": "U.S. President Donald Trump\u2019s administration has asked oil and biofuels producers to hash out a deal on the next phase of the nation\u2019s biofuels policy to avoid the kind of political clashes that marked his first term, according to four people familiar with th\u2026",
-    "link": "https://biztoc.com/x/686f43f9e027d2a1",
-    "timestamp": "2025-03-27T11:38:53Z"
-  },
-  {
-    "title": "Trump endorses Sen. Lindsey Graham for re-election: 'HE WILL NOT LET YOU DOWN'",
-    "description": "President Donald Trump endorsed Sen. Lindsey Graham for re-election in a post on Truth Social, urging South Carolinians to \"help Lindsey have a BIG WIN next year!\"",
-    "link": "https://www.foxnews.com/politics/trump-endorses-sen-lindsey-graham-re-election-he-not-let-you-down",
-    "timestamp": "2025-03-27T11:38:46Z"
-  },
-  {
-    "title": "The Trump Slump",
-    "description": "A new Third Way memo encourages Democrats to zero in on Donald Trump\u2019s early economic actions \u2014 like auto tariffs that could add thousands to car prices \u2014 and to brand his first 100 days",
-    "link": "https://politicalwire.com/2025/03/27/the-trump-slump-2/",
-    "timestamp": "2025-03-27T11:38:39Z"
-  },
-  {
-    "title": "Trump announces 25% tariff on imported cars: What's the strategy?",
-    "description": "President Donald Trump announced Wednesday that he is imposing a 25% tariff on all cars and car parts imported into the United States. Nearly half of all vehicles sold in the United States are imported and many companies, even if they have American factories,\u2026",
-    "link": "https://biztoc.com/x/492a352420af3490",
-    "timestamp": "2025-03-27T11:38:30Z"
-  },
-  {
-    "title": "Trump Calls For End To US Public Funding For Broadcasters NPR, PBS",
-    "description": "President Donald Trump called on Congress on Thursday to &quot;immediately&quot; defund two public broadcasters as he and his supporters ratchet up their long-running battle with the US media.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-calls-for-end-to-us-public-funding-for-broadcasters-npr-pbs-8024018",
-    "timestamp": "2025-03-27T11:37:58Z"
-  },
-  {
-    "title": "Trump's Latest Move A \"Direct Attack\", Canada Will Respond: PM Mark Carney",
-    "description": "US President Donald Trump&#039;s latest move is a &quot;direct attack&quot; on Canada, Prime Minister Mark Carney said on Wednesday. Mr Carney was speaking about the latest tariffs imposed by President Trump, which the latter announced as a &quot;permanent&qu\u2026",
-    "link": "https://www.ndtv.com/world-news/donald-trumps-latest-move-a-direct-attack-canada-will-respond-pm-mark-carney-8024017",
-    "timestamp": "2025-03-27T11:37:45Z"
-  },
-  {
-    "title": "Germany urges strong response to Trump's auto tariffs",
-    "description": "Germany and other top suppliers of cars and car parts to the US are considering retaliation against Donald Trump's newly announced 25% blanket import tariffs.",
-    "link": "https://www.dw.com/en/germany-urges-strong-response-to-trumps-auto-tariffs/a-72052735",
-    "timestamp": "2025-03-27T11:37:00Z"
-  },
-  {
-    "title": "South Korean exchange UPbit saw massive earnings growth in 2024 amid regulatory hiccups",
-    "description": "Dunamu, the parent company of South Korea\u2019s largest crypto exchange UPbit, reported a significant increase in earnings for 2024, defying ongoing regulatory challenges. Chosun Bix, citing the firm\u2019s annual business filing, reported that Dunamu\u2019s operating prof\u2026",
-    "link": "https://cryptoslate.com/south-korean-exchange-upbit-sees-massive-earnings-growth-in-2024-amid-regulatory-hiccups/",
-    "timestamp": "2025-03-27T11:35:32Z"
-  },
-  {
-    "title": "Jeff Bezos & Lauren Sanchez\u2019s wedding guest list: Kushners, Kardashians & Oprah",
-    "description": "We heard several days ago that Jeff Bezos and Lauren Sanchez had finally set the date. They\u2019ve been engaged for two years and I\u2019m sure some people wondered if Lauren was ever going to get this man down the aisle. Well, she is. It really is a mistress fairy ta\u2026",
-    "link": "https://www.celebitchy.com/915337/jeff_bezos_lauren_sanchezs_wedding_guest_list_kushners_kardashians_oprah/",
-    "timestamp": "2025-03-27T11:35:28Z"
-  },
-  {
-    "title": "Trump announces 25% tariffs on car imports to U.S.",
-    "description": "From the BBC World Service: The global auto industry has been rocked by sweeping 25% tariffs on all imports of cars and car parts to the United States under President Donald Trump. Then, Britain is facing issues familiar to many major economies, including a s\u2026",
-    "link": "https://www.marketplace.org/shows/marketplace-morning-report/trump-announces-25-tariffs-on-car-imports-to-u-s/",
-    "timestamp": "2025-03-27T11:31:35Z"
-  },
-  {
-    "title": "Trump to sign more executive orders today",
-    "description": "Live updates and the latest news as President Donald Trump signs more executive orders and senators hold a hearing on antisemitism on college campuses.",
-    "link": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-signal-chat-musk-doge-immigration-live-updates-rcna197447",
-    "timestamp": "2025-03-27T11:31:12Z"
-  },
-  {
-    "title": "Trump reiterates desire to acquire Greenland ahead of Vance visit",
-    "description": "President Donald Trump is reiterating his desire for the United States to acquire Greenland ahead of a high-profile trip by Vice President JD Vance and his wife, Usha Vance, who arrive on Friday. It originally was supposed to be a cultural visit for the secon\u2026",
-    "link": "https://www.today.com/video/jd-vance-and-his-wife-usha-to-visit-greenland-what-to-expect-235510341958",
-    "timestamp": "2025-03-27T11:30:42Z"
-  },
-  {
-    "title": "The Trump administration is still scrambling to explain Signalgate",
-    "description": "The saying goes something like this: Mess around and find out. OK, so that\u2019s the PG version, but you get the drift. The Trump administration messed around this week. And [\u2026]\nThe post The Trump administration is still scrambling to explain Signalgate appeared \u2026",
-    "link": "https://www.poynter.org/commentary/2025/yemen-houthi-signalgate-group-chat-atlantic-jeffrey-goldberg/",
-    "timestamp": "2025-03-27T11:30:00Z"
-  },
-  {
-    "title": "Rising Acceptance of Political Violence Promises Nothing Good for the U.S.",
-    "description": "Left-leaning Americans at peaceful demonstrations are becoming more likely to believe that political violence will be necessary to save America",
-    "link": "https://www.scientificamerican.com/article/rising-acceptance-of-political-violence-promises-nothing-good-for-the-u-s/",
-    "timestamp": "2025-03-27T11:30:00Z"
-  },
-  {
-    "title": "Tariffs Aren\u2019t Reparations",
-    "description": "Trump is trying to turn back time, and businesses are suffering.",
-    "link": "https://www.theatlantic.com/ideas/archive/2025/03/trump-tariffs-businesses-harmed/682168/",
-    "timestamp": "2025-03-27T11:30:00Z"
-  },
-  {
-    "title": "Trump SEC Pick Paul Atkins\u2019 Crypto Ties Draw Sen. Warren\u2019s Ire Ahead of Confirmation Hearing",
-    "description": "In a recent financial disclosure, Atkins admitted to owning up to $6 million in crypto-related assets.",
-    "link": "https://www.coindesk.com/policy/2025/03/26/trump-sec-pick-paul-atkins-crypto-ties-draw-sen-warren-s-ire-ahead-of-confirmation-hearing",
-    "timestamp": "2025-03-27T11:30:00Z"
-  },
-  {
-    "title": "Canadians are anxious as they ponder how to vote this election. Which leader can ease their fears?",
-    "description": "The question on the ballot this election is no longer about Justin Trudeau \u2014 it\u2019s about who Canadians trust to lead them through a disruptive and unpredictable time.",
-    "link": "https://theconversation.com/canadians-are-anxious-as-they-ponder-how-to-vote-this-election-which-leader-can-ease-their-fears-252701",
-    "timestamp": "2025-03-27T11:29:36Z"
-  },
-  {
-    "title": "Left-Wing Program Spending Spree Helped Fuel \u2018Explosive Growth\u2019 In Education Dept\u2019s Budget, Report Shows",
-    "description": "The Department of Education's budget has been increasing with millions funneling into diversity, equity and inclusion programs and Chinese education programs.",
-    "link": "https://dailycaller.com/2025/03/27/left-wing-program-spending-spree-helped-fuel-explosive-growth-in-education-depts-budget-report-shows/",
-    "timestamp": "2025-03-27T11:29:35Z"
-  },
-  {
-    "title": "Dow Jones Futures: Trump Tariffs On Autos Trigger Market Sell-Off; Nvidia, Tesla, Palantir Hit",
-    "description": "Dow Jones futures edged lower early Thursday, along with S&P 500 futures and Nasdaq futures, after President Donald Trump confirmed global auto tariffs. The stock market sold off Wednesday, led by the Nasdaq, on reports that new Trump tariffs were imminent. T\u2026",
-    "link": "https://biztoc.com/x/13af3423a7abb321",
-    "timestamp": "2025-03-27T11:28:00Z"
-  },
-  {
-    "title": "Brazilian President Lula swipes at new 25% auto tariffs, saying Trump is president only of the U.S. not the world",
-    "description": "Brazilian President Luiz In\u00e1cio Lula da Silva swiped Thursday at U.S. President Donald Trump's decision to raise U.S. tariffs on a wide range of products, saying Trump should consider the potential harm to the American and global economies.\nLula made the comm\u2026",
-    "link": "https://biztoc.com/x/b2107a64be764f09",
-    "timestamp": "2025-03-27T11:27:36Z"
-  },
-  {
-    "title": "Anti-abortion groups mount effort to strip Planned Parenthood funding ahead of Supreme Court hearing",
-    "description": "Major anti-abortion groups are gathering in the nation's capital to begin a lobbying effort with Congress and President Donald Trump\u2019s administration aimed at eliminating funding for Planned Parenthood",
-    "link": "https://abcnews.go.com/Business/wireStory/anti-abortion-groups-mount-effort-strip-planned-parenthood-120208498",
-    "timestamp": "2025-03-27T11:26:29Z"
-  },
-  {
-    "title": "Putin 'Will Die Soon': Top 5 Takeaways From Zelensky's Big Interview",
-    "description": "The Ukrainian president seemed to disparage Trump's envoy as he spoke about the ceasefire deal announced this week.",
-    "link": "https://www.newsweek.com/russia-ukraine-zelensky-putin-2051212",
-    "timestamp": "2025-03-27T11:24:43Z"
-  },
-  {
-    "title": "Elon Musk Says Trump Tariffs Will Hit Tesla: 'Cost Impact Not Trivial'",
-    "description": "The billionaire said the president's new car tariffs will impact the cost of parts that are vital to the construction of Tesla vehicles.",
-    "link": "https://www.newsweek.com/elon-musk-trump-car-tariff-hit-tesla-costs-parts-not-trivial-2051288",
-    "timestamp": "2025-03-27T11:23:56Z"
-  },
-  {
-    "title": "FII inflows lift markets as Sensex rebounds despite Trump tariffs",
-    "description": "The market\u2019s resilience was further underscored by the continued interest in midcap and smallcap stocks, with both indices closing in the green",
-    "link": "https://www.thehindubusinessline.com/markets/fii-inflows-lift-markets-as-sensex-rebounds-despite-trump-tariffs/article69381263.ece",
-    "timestamp": "2025-03-27T11:23:29Z"
-  },
-  {
-    "title": "Trump announces 25% tariff on imported cars: What's the strategy?",
-    "description": "President Donald Trump announced Wednesday that he is imposing a 25% tariff on all cars and car parts imported into the United States. Nearly half of all vehicles sold in the United States are imported and many companies, even if they have American factories,\u2026",
-    "link": "https://www.today.com/video/trump-announces-25-tariff-on-cars-and-parts-imported-into-the-us-235509829872",
-    "timestamp": "2025-03-27T11:19:41Z"
-  },
-  {
-    "title": "Democrats' anti-Elon Musk strategy faces first election test: 'Voters are very animated'",
-    "description": "Elon Musk will face a referendum of sorts in next week's Wisconsin Supreme Court race, where he and his super PAC have been heavily involved in efforts to elect conservative candidate Brad Schimel.Donald Trump's billionaire adviser has emerged as the top spen\u2026",
-    "link": "https://www.rawstory.com/elon-musk-wisconsin/",
-    "timestamp": "2025-03-27T11:17:51Z"
-  },
-  {
-    "title": "Trump Threatens Larger Tariffs on EU, Canada in Trade War: Live Updates",
-    "description": "President Donald Trump issued a warning early Thursday on social media, threatening to impose significantly higher tariffs on the European Union and Canada if they collaborate to harm the U.S. economy.\nWhat to know:\n- Trump said on Truth Social that the EU an\u2026",
-    "link": "https://biztoc.com/x/ec9ac89ab8616e68",
-    "timestamp": "2025-03-27T11:16:48Z"
-  },
-  {
-    "title": "Car prices will surge by thousands of dollars because of Trump\u2019s tariffs. It\u2019ll happen before you expect it",
-    "description": "By Chris Isidore | CNN\nNew York \u2014 Get ready to pay more for your next car. Auto prices in the United States will start to rise very soon \u2013 perhaps within the next few weeks.\nThat\u2019s because President Donald Trump once again announced plans for 25% tariffs on i\u2026",
-    "link": "https://biztoc.com/x/375e5fb93331068f",
-    "timestamp": "2025-03-27T11:16:37Z"
-  },
-  {
-    "title": "Stock market today: Global shares sag after Trump raises tariffs on auto imports",
-    "description": "Global shares have sagged after President Donald Trump announced he will raise tariffs on imported cars",
-    "link": "https://biztoc.com/x/64b6c34c8295812a",
-    "timestamp": "2025-03-27T11:16:29Z"
-  },
-  {
-    "title": "Trump Threatens Larger Tariffs on EU, Canada in Trade War: Live Updates",
-    "description": "Trump warns EU, Canada of harsher tariffs if they harm U.S. economy, escalating tensions amid ongoing trade disputes. Follow Newsweek's live blog.",
-    "link": "https://www.newsweek.com/donald-trump-administration-tariffs-live-updates-2051335",
-    "timestamp": "2025-03-27T11:16:03Z"
-  },
-  {
-    "title": "US Fossil Fuel, Farm Groups Rail Against Trump Port Fee Plan at Hearing",
-    "description": "Fossil fuel and agriculture industry executives on Wednesday criticized a plan by President Donald Trump's administration for big fees on China-linked ships entering U.S. ports, arguing at a hearing in Washington that the move would hobble their ability to ex\u2026",
-    "link": "https://gcaptain.com/us-fossil-fuel-farm-groups-rail-against-trump-port-fee-plan-at-hearing/",
-    "timestamp": "2025-03-27T11:15:50Z"
-  },
-  {
-    "title": "Political Struggles Threaten Nigeria\u2019s Oil Production Recovery",
-    "description": "Just as Nigeria had started to increase its oil and gas production under President Bola Tinubu, a series of blasts and fires at major pipelines are threatening to unravel the progress Africa\u2019s top crude producer has made. A political feud and crisis reminded \u2026",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Political-Struggles-Threaten-Nigerias-Oil-Production-Recovery.html",
-    "timestamp": "2025-03-27T11:15:00Z"
-  },
-  {
-    "title": "Trump's Venezuelan oil tariff threat to have little impact on India, experts say",
-    "description": "Crude shipments from Venezuela peaked almost a decade ago and currently account for less than 1% of India's oil imports.",
-    "link": "https://www.livemint.com/industry/energy/trump-venezuela-oil-tariff-india-venezuela-crude-oil-imports-india-us-trade-tariffs-reliance-industries-venezuela-oil-11743068390463.html",
-    "timestamp": "2025-03-27T11:14:26Z"
-  },
-  {
-    "title": "5 things to know for March 27: Yemen group chat, Health care funding, Auto tariffs, Social Security, Tufts student detained",
-    "description": "5 things to know for March 27: Yemen group chat, Health care funding, Auto tariffs, Social Security, Tufts student detainedcnn.com",
-    "link": "https://www.cnn.com/2025/03/27/us/5-things-to-know-for-march-27-yemen-group-chat-health-care-funding-auto-tariffs-social-security-tufts-student-detained/index.html",
-    "timestamp": "2025-03-27T11:13:50Z"
-  },
-  {
-    "title": "What Cars Are Made in America? Trump's 25% Auto Tariffs Explained",
-    "description": "The White House expects the action to generate $100 billion in annual revenue and drive a resurgence in domestic automobile manufacturing.",
-    "link": "https://www.newsweek.com/trump-auto-tariffs-what-cars-are-affected-2051277",
-    "timestamp": "2025-03-27T11:12:48Z"
-  },
-  {
-    "title": "Chappell Roan and other celebs urged to boycott Hungary over Budapest Pride ban",
-    "description": "As thousands of protestors continue to regularly take to the streets of Budapest, celebrities such as Chappell Roan and Emeli Sand\u00e9 are facing calls to boycott Hungary in the wake of the government ban on Pride. The ruling Fidesz party \u2013 recently praised\u00a0by\u00a0D\u2026",
-    "link": "https://www.thepinknews.com/2025/03/27/hungary-lgbtq-chappell-roan-peter-tatchell-pride-ban/",
-    "timestamp": "2025-03-27T11:12:41Z"
-  },
-  {
-    "title": "Trump's auto tariffs and Michael Waltz's role in Signal group chat: Morning Rundown",
-    "description": "Trump's foreign cars tariffs. April 2 \u201cLiberation Day.\u201d Michael Waltz blamed for chat leak. Fewer weather balloons mean less accurate forecast. F1 driver shakeup.",
-    "link": "https://www.nbcnews.com/news/us-news/trumps-tariff-cars-michael-waltz-signal-group-chat-morning-rundown-rcna198313",
-    "timestamp": "2025-03-27T11:10:58Z"
-  },
-  {
-    "title": "Anti-abortion groups mount effort to strip Planned Parenthood funding ahead of Supreme Court hearing",
-    "description": "WASHINGTON (AP) \u2014 Major anti-abortion groups were gathering in the nation\u2019s capital on Thursday to begin a lobbying effort with Congress and President Donald Trump\u2019s administration aimed at eliminating funding for Planned Parenthood ahead of the Supreme Court\u2026",
-    "link": "https://financialpost.com/pmn/anti-abortion-groups-mount-effort-to-strip-planned-parenthood-funding-ahead-of-supreme-court-hearing",
-    "timestamp": "2025-03-27T11:10:01Z"
-  },
-  {
-    "title": "New poll suggests Canadians' fear of losing their jobs to a trade war is fading",
-    "description": "A new poll suggests that Canadians are feeling less anxious about losing their jobs as Trump continues to pursue his trade war with Canada.",
-    "link": "https://toronto.citynews.ca/2025/03/27/new-poll-suggests-canadians-fear-of-losing-their-jobs-to-a-trade-war-is-fading/",
-    "timestamp": "2025-03-27T11:09:58Z"
-  },
-  {
-    "title": "America\u2019s Many Chip Vulnerabilities",
-    "description": "To head off the risk of catastrophic semiconductor supply disruptions that could bring its economy to a halt, the United States needs a coherent strategy that embraces all nodes of the industry. That means looking beyond the most advanced chips and the AI rac\u2026",
-    "link": "https://www.project-syndicate.org/commentary/us-chip-strategy-alliances-and-domestic-production-better-than-export-bans-by-edoardo-campanella-and-john-haigh-2025-03",
-    "timestamp": "2025-03-27T11:09:37Z"
-  },
-  {
-    "title": "Las numerosas vulnerabilidades de los chips estadounidenses",
-    "description": "Project Syndicate - The World\u2019s Opinion Page",
-    "link": "https://www.project-syndicate.org/commentary/us-chip-strategy-alliances-and-domestic-production-better-than-export-bans-by-edoardo-campanella-and-john-haigh-2025-03/spanish",
-    "timestamp": "2025-03-27T11:09:37Z"
-  },
-  {
-    "title": "Canadian Prime Minister calls Trump\u2019s new auto tariffs a \u2018very direct attack\u2019 on his country",
-    "description": "Canadian Prime Minister Mark Carney says Trump's trade war is hurting Americans, noting that American consumer confidence is at a multi-year low.",
-    "link": "https://www.mlive.com/news/2025/03/canadian-prime-minister-calls-trumps-new-auto-tariffs-a-very-direct-attack-on-his-country.html",
-    "timestamp": "2025-03-27T11:08:24Z"
-  },
-  {
-    "title": "Anti-abortion groups mount effort to strip Planned Parenthood funding ahead of Supreme Court hearing",
-    "description": "Major anti-abortion groups were gathering in the nation's capital on Thursday to begin a lobbying effort with Congress and President Donald Trump's...",
-    "link": "https://www.yahoo.com/news/anti-abortion-groups-mount-effort-110708886.html",
-    "timestamp": "2025-03-27T11:07:08Z"
-  },
-  {
-    "title": "TikTok Deal: Trump Hints At Possible Tariff Reductions If China Approves Sale",
-    "description": "President Donald Trump's willingness to use tariffs as leverage shows how serious the administration is about pushing through the sale of the app.",
-    "link": "https://www.ibtimes.com/tiktok-deal-trump-hints-possible-tariff-reductions-if-china-approves-sale-3767842",
-    "timestamp": "2025-03-27T11:07:01Z"
-  },
-  {
-    "title": "Trump warns these universities over antisemitic discrimination against Jewish students. Check details",
-    "description": "Muhlenberg College faced an antisemitism investigation, terminated a professor, and resolved the issue, but confusion remains over the inclusion of other institutions on the investigation list. The U.S. Education Department sent warnings to 60 colleges about \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-warns-these-universities-over-antisemitic-discrimination-against-jewish-students-check-details/articleshow/119593270.cms",
-    "timestamp": "2025-03-27T11:06:19Z"
-  },
-  {
-    "title": "Wyoming Formally Moves To Launch What Could Be The First State-Issued Stable Token",
-    "description": "Wyoming has made the first formal move toward issuing what could be the country's first state-issued stable token, which will be fully backed by U.S. Treasuries, cash, and repurchase agreements.",
-    "link": "https://www.ibtimes.com/wyoming-formally-moves-launch-what-could-first-state-issued-stable-token-3767804",
-    "timestamp": "2025-03-27T11:06:02Z"
-  },
-  {
-    "title": "Trump says he may give China a reduction in tariffs to get TikTok deal done",
-    "description": "U.S. President Donald Trump said on Wednesday he would be willing to reduce tariffs on China to get a deal done with TikTok\u2019s Chinese parent ByteDance to sell the short video app used by 170 million Americans.\nByteDance has an April 5 deadline to find a non-C\u2026",
-    "link": "https://biztoc.com/x/4bca57b230060d4c",
-    "timestamp": "2025-03-27T11:05:27Z"
-  },
-  {
-    "title": "Canadians feeling less anxious about losing jobs as Trump pursues trade war, new poll suggests",
-    "description": "A new poll suggests that Canadians are feeling less anxious about losing their jobs as U.S. President Donald Trump continues to pursue his trade war with Canada and much of the world.\nThe Leger poll for The Canadian Press, which sampled 1,599 Canadian adults \u2026",
-    "link": "https://biztoc.com/x/3d96d4ff48d6d9d6",
-    "timestamp": "2025-03-27T11:05:26Z"
-  },
-  {
-    "title": "World leaders react with fury after Trump unveils 25% tariffs on car imports",
-    "description": "The News\nWorld leaders reacted with fury and automotive stocks plunged following US President Donald Trump\u2019s announcement of sweeping 25% tariffs on imported cars, effective April 3. \nThe new levies mark the latest escalation in Trump\u2019s trade war against top \u2026",
-    "link": "https://biztoc.com/x/d3961571f25f5927",
-    "timestamp": "2025-03-27T11:05:14Z"
-  },
-  {
-    "title": "Elon Musk Under Fire After PAC Awards $1M To Supporter Of Petition Opposing Wisconsin 'Activist Judges'",
-    "description": "Elon Musk has been accused of \"bribing people\" in his America PAC's latest $1 million giveaway to a supporter who signed a petition that opposes \"activist judges\" in the state.",
-    "link": "https://www.ibtimes.com/elon-musk-under-fire-after-pac-awards-1m-supporter-petition-opposing-wisconsin-activist-judges-3767816",
-    "timestamp": "2025-03-27T11:04:01Z"
-  },
-  {
-    "title": "How We Chose the 2025 TIME Earth Awards",
-    "description": "\u200b\u200bThe list honors individuals influencing the future of the planet through their work in climate justice.",
-    "link": "https://time.com/7269124/how-we-chose-2025-time-earth-awards/",
-    "timestamp": "2025-03-27T11:03:06Z"
-  },
-  {
-    "title": "Denmark condemns what it calls Trump's escalated rhetoric on Greenland",
-    "description": "<p>COPENHAGEN - Danish government ministers condemned what they called President Donald Trump's escalated rhetoric on Thursday and praised Greenland's inhabitants for their resilience in the face of US pressure for control over the Arctic island.</p>",
-    "link": "https://www.bangkokpost.com/world/2989074/denmark-condemns-what-it-calls-trumps-escalated-rhetoric-on-greenland",
-    "timestamp": "2025-03-27T11:03:00Z"
-  },
-  {
-    "title": "Takeaways on AP's report on intense new US airstrike campaign targeting Yemen's Houthi rebels",
-    "description": "The Trump administration promised a tougher stance against Yemen\u2019s Houthi rebels, and an Associated Press review of the operation finds its new airstrike campaign appears to be more intense and more extensive",
-    "link": "https://abcnews.go.com/International/wireStory/takeaways-aps-report-intense-new-us-airstrike-campaign-120208123",
-    "timestamp": "2025-03-27T11:02:22Z"
-  },
-  {
-    "title": "The White House says nothing classified was shared on Signal. Democrats say that strains credulity",
-    "description": "Trump administration officials are struggling to stem the fallout from revelations that top national security officials discussed sensitive attack plans over a messaging app and mistakenly added a journalist to the chain",
-    "link": "https://abcnews.go.com/Politics/wireStory/white-house-classified-shared-signal-democrats-strains-credulity-120194457",
-    "timestamp": "2025-03-27T11:02:16Z"
-  },
-  {
-    "title": "Stock market today: Global shares sag after Trump raises tariffs on auto imports",
-    "description": "Global shares have sagged after President Donald Trump announced he will raise tariffs on imported cars",
-    "link": "https://abcnews.go.com/Business/wireStory/stock-market-today-global-shares-sag-after-trump-120204589",
-    "timestamp": "2025-03-27T11:02:14Z"
-  },
-  {
-    "title": "Shabbos Kestenbaum: Jewish students are today's leaders in fight against antisemitism",
-    "description": "\"Jews are not asking for special treatment under the law -- we are asking for equal treatment under the law,\" said Kestenbaum.",
-    "link": "https://www.jpost.com/diaspora/article-847821",
-    "timestamp": "2025-03-27T11:02:11Z"
-  },
-  {
-    "title": "Zelensky Declares Ukraine Will 'Never Cede' Occupied Territories to Russia, Suggests Trump Being Naive About Putin",
-    "description": "Volodymyr Zelensky said on Wednesday evening that Ukraine will \"never cede\" the occupied territories to Russia while expressing doubts about the Trump-led efforts to bring peace and suggesting the President is naive about Vladimir Putin.\nThe post Zelensky Dec\u2026",
-    "link": "https://www.breitbart.com/europe/2025/03/27/zelensky-declares-ukraine-will-never-cede-occupied-territories-to-russia-suggests-trump-being-naive-about-putin/",
-    "timestamp": "2025-03-27T11:01:58Z"
-  },
-  {
-    "title": "How will Trump's car tariffs impact Germany?",
-    "description": "US President Donald Trump has announced another tariff on foreign imports, this time affecting cars and car parts. Here's how its expected to affect the German economy.",
-    "link": "https://www.thelocal.de/20250327/how-will-trumps-car-tariffs-impact-germany",
-    "timestamp": "2025-03-27T11:01:26Z"
-  },
-  {
-    "title": "Canadian Prime Minister Issues Defiant Response To Trump's New Auto Tariffs",
-    "description": "Mark Carney slammed them as a \u201cvery direct attack\u201d on the country.",
-    "link": "https://www.huffpost.com/entry/canada-responds-trump-auto-tariffs_n_67e52e4ae4b08ebfbbf95d9e",
-    "timestamp": "2025-03-27T11:01:12Z"
-  },
-  {
-    "title": "Major Crypto Discussions Ahead: SEC Announces 4 Roundtables",
-    "description": "The Securities and Exchange Commission (SEC) is intensifying its campaign to promote crypto adoption and regulation by scheduling four public roundtables over the next three months. In a press release dated March 25th and published on its official website, th\u2026",
-    "link": "https://bitcoinist.com/major-crypto-discussions-ahead-sec-announces-4-roundtables/",
-    "timestamp": "2025-03-27T11:00:19Z"
-  },
-  {
-    "title": "Can Silicon Valley Find Christianity?",
-    "description": "Much of the faith\u2019s central traditions run counter to the aspirations of this new Christ-curious class.",
-    "link": "https://www.theatlantic.com/ideas/archive/2025/03/tech-religion-antithetical/682184/",
-    "timestamp": "2025-03-27T11:00:00Z"
-  },
-  {
-    "title": "No War but Culture War",
-    "description": "The response to Signalgate reveals a disjuncture between the seriousness with which MAGA treats foreign enemies and perceived domestic ones.",
-    "link": "https://www.theatlantic.com/ideas/archive/2025/03/culture-war-trump-goldberg/682182/",
-    "timestamp": "2025-03-27T11:00:00Z"
-  },
-  {
-    "title": "For 2026, Trump Bolsters Young Upstarts to Carry MAGA Torch",
-    "description": "Sources familiar with Trump\u2019s thinking say he\u2019s strategically intervening in 2026 primaries early to shape the post-Trump Republican Party.",
-    "link": "https://time.com/7271963/donald-trump-2026-maga-byron-donalds/",
-    "timestamp": "2025-03-27T11:00:00Z"
-  },
-  {
-    "title": "10 Times NPR Proved It Doesn\u2019t Deserve Another Taxpayer Cent",
-    "description": "On top of its blackout of the Hunter Biden laptop story, here are 10 other times NPR proved it doesn't deserve another taxpayer dime.",
-    "link": "https://thefederalist.com/2025/03/27/10-times-npr-proved-it-doesnt-deserve-another-taxpayer-cent/",
-    "timestamp": "2025-03-27T11:00:00Z"
-  },
-  {
-    "title": "Trump's commerce secretary said he sold 1K 'gold card' visas in a day. Here's what we know",
-    "description": "U.S. President Donald Trump previously posited that his \"gold card\" visas could make $50 trillion.",
-    "link": "https://www.snopes.com//news/2025/03/27/trump-commerce-secretary-gold-card-visas/",
-    "timestamp": "2025-03-27T11:00:00Z"
-  },
-  {
-    "title": "Iran ready for indirect talks with US, Khamenei aide says",
-    "description": "DUBAI (Reuters) - Kamal Kharrazi, an adviser to Iran's supreme leader, said on Thursday Tehran has not closed all doors to resolve its disputes with the United States and is ready for indirect negotiations with Washington. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/03/27/iran-ready-for-indirect-talks-with-us-khamenei-aide-says",
-    "timestamp": "2025-03-27T10:59:00Z"
-  },
-  {
-    "title": "Exclusive-Trump administration directs spy satellite agencies to surveil U.S.-Mexico border",
-    "description": "WASHINGTON (Reuters) - The Trump administration has directed two intelligence agencies to train their satellite surveillance capabilities on the U.S.-Mexico border region as part of a sweeping crackdown on illegal immigration and drug cartels. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/03/27/exclusive-trump-administration-directs-spy-satellite-agencies-to-surveil-us-mexico-border",
-    "timestamp": "2025-03-27T10:58:00Z"
-  },
-  {
-    "title": "Trump administration faces Signal app fallout",
-    "description": "The White House said the information shared through the publicly available Signal app with Jeffrey Goldberg, the editor-in-chief of The Atlantic magazine, was not classified.",
-    "link": "https://www.wmur.com/article/trump-signal-app-controversy/64306368",
-    "timestamp": "2025-03-27T10:57:35Z"
   }
 ]
