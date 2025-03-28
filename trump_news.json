@@ -1,5 +1,29 @@
 [
   {
+    "title": "Who Is Jonah Platt? 'Snow White' Producer's Son Unleashes on Rachel Zegler",
+    "description": "Marc Platt's son called out the actress, claiming \"her actions clearly hurt the film's box office.\"",
+    "link": "https://www.newsweek.com/snow-white-producer-son-jonah-platt-rachel-zegler-2051228",
+    "timestamp": "2025-03-27T10:50:17Z"
+  },
+  {
+    "title": "Rupee falls 8 paise to settle at 85.77 against US dollar",
+    "description": "Rupee weakens by 8 paise to close at 85.77 against US dollar due to month-end demand and greenback recovery.",
+    "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-8-paise-to-settle-at-8577-against-us-dollar/article69381171.ece",
+    "timestamp": "2025-03-27T10:47:42Z"
+  },
+  {
+    "title": "China, Japan, South Korea to meet as Trump tariffs take shape",
+    "description": "South Korea\u2019s Industry Minister Ahn Duk-geun will host the meeting with Japan\u2019s Yoji Muto and China\u2019s Wang Wentao.",
+    "link": "https://www.japantimes.co.jp/business/2025/03/27/china-japan-sk-meet-trump-tariffs/",
+    "timestamp": "2025-03-27T10:47:00Z"
+  },
+  {
+    "title": "Why protestors in Gaza want Hamas out after months of brutal conflict",
+    "description": "Anti-war protests in Gaza called for Hamas' ouster, with hundreds displaying rare dissent against the militant group that has ruled since 2007.",
+    "link": "https://www.nbcnews.com/news/world/gaza-protests-hamas-war-israel-ceasefire-trump-rcna198315",
+    "timestamp": "2025-03-27T10:45:24Z"
+  },
+  {
     "title": "Vivaldi bundles Proton VPN into its web browser",
     "description": "Vivaldi and Proton have teamed up to make it easier for Vivaldi browser users to privately explore the web without downloading a virtual private network (VPN). Starting today, the free version of Proton VPN is now integrated directly into Vivaldi\u2019s browser, a\u2026",
     "link": "https://www.theverge.com/news/637118/vivaldi-browser-proton-vpn-integration-availability",
@@ -324,6 +348,12 @@
     "timestamp": "2025-03-27T10:00:00Z"
   },
   {
+    "title": "A University, a Rural Town and Their Fight to Survive Trump\u2019s War on Higher Education",
+    "description": "by Molly Parker, Capitol News Illinois \n \n\n \n This article was produced for ProPublica\u2019s Local Reporting Network in partnership with Capitol News Illinois. Sign up for Dispatches to get stories like this one as soon as they are published.\n\n \n\n \n \n \n\n\n\n \nCARBO\u2026",
+    "link": "https://www.propublica.org/article/regional-public-universities-trump-funding-dei",
+    "timestamp": "2025-03-27T10:00:00Z"
+  },
+  {
     "title": "Will Mastercard Stock Fall To $320 On Recession Concerns?",
     "description": "This strong showing was fueled by better-than-expected Q4 2024 results, driven by increased payment and cross-border volumes.",
     "link": "https://www.forbes.com/sites/greatspeculations/2025/03/27/will-mastercard-stock-fall-to-320-on-recession-concerns/",
@@ -336,9 +366,9 @@
     "timestamp": "2025-03-27T10:00:00Z"
   },
   {
-    "title": "A University, a Rural Town and Their Fight to Survive Trump\u2019s War on Higher Education",
-    "description": "by Molly Parker, Capitol News Illinois \n \n\n \n This article was produced for ProPublica\u2019s Local Reporting Network in partnership with Capitol News Illinois. Sign up for Dispatches to get stories like this one as soon as they are published.\n\n \n\n \n \n \n\n\n\n \nCARBO\u2026",
-    "link": "https://www.propublica.org/article/regional-public-universities-trump-funding-dei",
+    "title": "Fighting Back: A Citizen\u2019s Guide to Resistance",
+    "description": "Democracy is not a spectator sport.That truism has been repeated by notables from Gen. Jim Mattis to Barack Obama to George Shultz, Ronald Reagan\u2019s secretary of state. But it\u2019s fitting that the person credited with first saying it was a private citizen whom n\u2026",
+    "link": "https://newrepublic.com/article/193193/citizen-guide-trump-resistance-fighting-back",
     "timestamp": "2025-03-27T10:00:00Z"
   },
   {
@@ -348,21 +378,15 @@
     "timestamp": "2025-03-27T10:00:00Z"
   },
   {
-    "title": "Trump wants FEMA gone. But that could be its own kind of disaster.",
-    "description": "Homeland Security Secretary Kristi Noem said at a Monday Cabinet meeting that she plans to carry out President Donald Trump's plan to eliminate FEMA.",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/kristi-noem-fema-donald-trump-rcna198190",
-    "timestamp": "2025-03-27T10:00:00Z"
-  },
-  {
     "title": "'A crisis moment': New Politics launches $20 million push to recruit service-oriented candidates",
     "description": "New Politics, a group focused on supporting candidates from service backgrounds, is launching a multimillion-dollar effort to recruit thousands of candidates over the next four years.",
     "link": "https://www.nbcnews.com/politics/elections/crisis-moment-20-million-push-recruit-service-candidates-rcna198219",
     "timestamp": "2025-03-27T10:00:00Z"
   },
   {
-    "title": "Fighting Back: A Citizen\u2019s Guide to Resistance",
-    "description": "Democracy is not a spectator sport.That truism has been repeated by notables from Gen. Jim Mattis to Barack Obama to George Shultz, Ronald Reagan\u2019s secretary of state. But it\u2019s fitting that the person credited with first saying it was a private citizen whom n\u2026",
-    "link": "https://newrepublic.com/article/193193/citizen-guide-trump-resistance-fighting-back",
+    "title": "Trump wants FEMA gone. But that could be its own kind of disaster.",
+    "description": "Homeland Security Secretary Kristi Noem said at a Monday Cabinet meeting that she plans to carry out President Donald Trump's plan to eliminate FEMA.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/kristi-noem-fema-donald-trump-rcna198190",
     "timestamp": "2025-03-27T10:00:00Z"
   },
   {
@@ -496,41 +520,5 @@
     "description": "Norway\u2019s central bank delayed a long-communicated cut in borrowing costs until later this year as officials responded to a flare-up in inflation.",
     "link": "https://financialpost.com/pmn/business-pmn/norway-delays-first-rate-cut-of-cycle-after-inflation-pickup",
     "timestamp": "2025-03-27T09:34:52Z"
-  },
-  {
-    "title": "NATO clarifies comments that four missing US soldiers had died during training in Lithuania",
-    "description": "NATO on Wednesday clarified comments that Secretary-General Mark Rutte made earlier in the day, when he suggested that four US soldiers who went missing while training in Lithuania had died, even though the US Army said their fate was not yet confirmed.",
-    "link": "https://nypost.com/2025/03/27/us-news/nato-clarifies-comments-that-four-missing-us-soldiers-had-died-during-training-in-lithuania/",
-    "timestamp": "2025-03-27T09:33:41Z"
-  },
-  {
-    "title": "Trump tariffs have implications for Tesla vehicles, as vehicle parts from other countries could get taxed",
-    "description": "The newly-announced 25% tariff on foreign-made cars imported into the United States announced by United States president Donald Trump will have implications for the cost of parts for Tesla vehicles, Tesla CEO Elon Musk has [\u2026]\nThe post Trump tariffs have impl\u2026",
-    "link": "https://paultan.org/2025/03/27/trump-tariffs-have-implications-for-tesla-vehicles-as-vehicle-parts-from-other-countries-could-get-taxed/",
-    "timestamp": "2025-03-27T09:32:09Z"
-  },
-  {
-    "title": "Welcome to Bozangeles!",
-    "description": "Erica Etelson\n\n\n\nThe greater Bozeman, Montana, region has become ground zero for rampant luxury development that is taking the \u201cpublic\u201d out of public lands.\r\n\n\r\n\n\nThe post Welcome to Bozangeles! appeared first on The Nation.",
-    "link": "https://www.thenation.com/article/society/bozeman-development-trump-public-land/",
-    "timestamp": "2025-03-27T09:30:00Z"
-  },
-  {
-    "title": "CASEY: Roanoke graphic artist fears email compromised by Verizon Wireless",
-    "description": "Neither the U.S. Federal Trade Commission nor the Virginia Attorney General could halt a flood of unwelcome and worrisome emails to Roanoke resident Liz Frankl\u2019s business email address. Then the self-employed graphic designer contacted your humble metro colum\u2026",
-    "link": "https://roanoke.com/news/local/business/article_f904d2c3-44a7-47a4-a0a8-a992e444e8a3.html",
-    "timestamp": "2025-03-27T09:30:00Z"
-  },
-  {
-    "title": "Bombing Yemen: Signalgate Deserves to Be a Major Scandal",
-    "description": "Phyllis Bennis\n\n\n\nBut the assault on Yemeni civilians the hapless conspirators discussed in their private chat group is an even bigger disgrace\u2014though so far the press haven\u2019t paid much attention.\r\n\n\r\n\n\nThe post Bombing Yemen: Signalgate Deserves to Be a Majo\u2026",
-    "link": "https://www.thenation.com/article/world/signal-group-goldberg-bombing-yemen/",
-    "timestamp": "2025-03-27T09:30:00Z"
-  },
-  {
-    "title": "China hopes Europe will make 'rational choice' as transatlantic alliance shifts",
-    "description": "BEIJING: The European Union should safeguard its interests and make the \"rational choice\" of turning further towards China given the uncertainty generated by the new administration in the United States, China's state-run Global Times said in an editorial. The\u2026",
-    "link": "https://www.channelnewsasia.com/east-asia/china-hopes-europe-will-make-rational-choice-transatlantic-alliance-shifts-5027341",
-    "timestamp": "2025-03-27T09:29:56Z"
   }
 ]
