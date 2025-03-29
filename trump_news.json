@@ -1,5 +1,227 @@
 [
   {
+    "title": "Judge blocks Trump's Labor Department from requiring grant recipients to abandon DEI",
+    "description": "A federal judge temporarily allowed Labor Department grant recipients to continue their diversity, equity and inclusion programs.",
+    "link": "https://www.usatoday.com/story/news/politics/2025/03/28/judge-trump-labor-department-dei-requirement/82705440007/",
+    "timestamp": "2025-03-28T16:33:25Z"
+  },
+  {
+    "title": "The TikTok Ban and Its Consequences",
+    "description": "The Supreme Court\u2019s unsigned opinion upholding the TikTok ban sidesteps almost all of the major legal issues in the case.",
+    "link": "http://cacm.acm.org/opinion/the-tiktok-ban-and-its-consequences/",
+    "timestamp": "2025-03-28T16:33:03Z"
+  },
+  {
+    "title": "China warned U.S. on reciprocal-tariff reprisal",
+    "description": "China has warned Washington that it will retaliate against the U.S. if Trump presses ahead with new reciprocal tariffs. Read more here",
+    "link": "https://financialpost.com/news/china-warned-u-s-on-reciprocal-tariff-reprisal",
+    "timestamp": "2025-03-28T16:33:03Z"
+  },
+  {
+    "title": "'OG Facebook' Returns With Revamped Friends Tab In Meta's Latest Change",
+    "description": "Meta is hoping to bring back the original Facebook experience with a new Friends tab that shows only content from friends, removing recommended posts and ads.\u00a0 \nThe feature launched in the US an\u2026",
+    "link": "https://dailyvoice.com/ct/hartford/og-facebook-returns-with-revamped-friends-tab-in-metas-latest-change/",
+    "timestamp": "2025-03-28T16:32:45Z"
+  },
+  {
+    "title": "Somebody Keyed His Tesla. He's Suing for $1M",
+    "description": "A Tesla owner whose vehicle was keyed in a parking lot at Dallas Fort Worth International Airport is suing for an amount that could replace the entire vehicle more than 10 times over. The lawsuit argues that the alleged vandal not only meant to cause physical\u2026",
+    "link": "https://www.newser.com/story/366374/tesla-owner-sues-alleged-vandal-for-1m.html",
+    "timestamp": "2025-03-28T16:32:44Z"
+  },
+  {
+    "title": "Nikola founder Trevor Milton receives a full pardon from President Trump",
+    "description": "Trevor Milton, the founder of electric truck company Nikola, has received a full and unconditional pardon from President Donald Trump. A jury found Milton guilty of one count of securities fraud and two counts of wire fraud in October 2022. In 2023, he was se\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176848769",
+    "timestamp": "2025-03-28T16:32:39Z"
+  },
+  {
+    "title": "Trump, Canada PM ease tensions with \u2018productive\u2019 call",
+    "description": "US President Donald Trump said he had an \"extremely productive\" first call Friday with Canada's new Prime Minister Mark Carney.\nThe post Trump, Canada PM ease tensions with \u2018productive\u2019 call appeared first on Digital Journal.",
+    "link": "https://www.digitaljournal.com/world/trump-canada-pm-ease-tensions-with-productive-call/article",
+    "timestamp": "2025-03-28T16:32:36Z"
+  },
+  {
+    "title": "A Big Law firm hired a conservative legal superstar to fight back against Trump's executive order in court",
+    "description": "WilmerHale and Jenner & Block say Trump's executive orders targeting Big Law are unconstitutional and harm their business.",
+    "link": "https://www.businessinsider.com/wilmerhale-jenner-fight-trump-executive-order-2025-3",
+    "timestamp": "2025-03-28T16:32:31Z"
+  },
+  {
+    "title": "Fox Host Lashes Out At Chris Cuomo For Attacking His Pro-Trump Take On Signalgate",
+    "description": "Brian Kilmeade lashed out at Newsnation's Chris Cuomo for attacking his pro-Trump take on the Signalgate scandal that has engulfed Trump's administration.\nThe post Fox Host Lashes Out At Chris Cuomo For Attacking His Pro-Trump Take On Signalgate first appeare\u2026",
+    "link": "https://www.mediaite.com/news/fox-host-lashes-out-at-chris-cuomo-for-attacking-his-pro-trump-take-on-signalgate/",
+    "timestamp": "2025-03-28T16:32:25Z"
+  },
+  {
+    "title": "These Cars\u2014Chevrolet, Ford, Jeep And More\u2014May Be More Expensive Under Trump\u2019s Auto Tariffs",
+    "description": "Trump reportedly warned some automakers not to raise the price of their vehicles in response to the tariffs.",
+    "link": "https://www.forbes.com/sites/tylerroush/2025/03/28/these-cars-chevrolet-ford-jeep-and-more-may-be-more-expensive-under-trumps-auto-tariffs/",
+    "timestamp": "2025-03-28T16:32:21Z"
+  },
+  {
+    "title": "Who is MAGA's most aggressive loyalist Marjorie Taylor Greene?",
+    "description": " Listen to Sky News Daily on your podcast app ",
+    "link": "https://news.sky.com/story/who-is-magas-most-aggressive-loyalist-marjorie-taylor-greene-13337393",
+    "timestamp": "2025-03-28T16:32:00Z"
+  },
+  {
+    "title": "Iran threatens to strike US bases and 'blow up' the Middle East if Trump launches military action over nuclear deal - as American stealth bombers are deployed to Chagos Islands",
+    "description": "Iran has threatened to strike American bases and 'blow up' the entire Middle East if Donald Trump follows through on his warning of military action in the absence of a new nuclear deal. -snip- 'If the Americans attack the sanctity of Iran, the entire region w\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4307326/posts",
+    "timestamp": "2025-03-28T16:31:47Z"
+  },
+  {
+    "title": "Putin Tests How Far Trump Will Go Against Europe on Sanctions",
+    "description": "The Kremlin has a deliberate strategy to test how far US President Donald Trump is willing to go in pressing Europe to ease sanctions, according to people familiar with the situation.",
+    "link": "https://financialpost.com/pmn/business-pmn/putin-tests-how-far-trump-will-go-against-europe-on-sanctions",
+    "timestamp": "2025-03-28T16:30:56Z"
+  },
+  {
+    "title": "US\u2019s new \u2018America First\u2019 intelligence approach downplays Russia and ignores climate change",
+    "description": "America\u2019s intelligence bosses would not accept that \u2018Signal-gate\u2019 represented a breach of security.",
+    "link": "https://theconversation.com/uss-new-america-first-intelligence-approach-downplays-russia-and-ignores-climate-change-253154",
+    "timestamp": "2025-03-28T16:30:38Z"
+  },
+  {
+    "title": "\u2018No One Wants Her\u2019: Biden Aides Warned Donors That Replacing Joe With His Handpicked VP Would Be A Disaster",
+    "description": "Top aides to former President Joe Biden warned donors that replacing him atop the ticket with his handpicked vice president would be a \"mistake,\" according ...",
+    "link": "https://dailycaller.com/2025/03/28/no-one-wants-her-biden-aides-warned-donors-that-replacing-joe-with-his-handpicked-vp-would-be-a-disaster/",
+    "timestamp": "2025-03-28T16:30:18Z"
+  },
+  {
+    "title": "Carmakers weigh risk of price hikes as Trump tariffs loom, sources say",
+    "description": "European carmakers are trying to work out how much their prices might have to rise in response to looming U.S. import tariffs, industry sources said, fearing...",
+    "link": "https://finance.yahoo.com/news/carmakers-weigh-risk-price-hikes-162914480.html",
+    "timestamp": "2025-03-28T16:29:14Z"
+  },
+  {
+    "title": "FCC to probe Disney over DEI practices: \u2018Going to get to the bottom of everything\u2019",
+    "description": "FCC chair Brendan Carr said he's putting the \"finishing touches\" on a letter to Disney.",
+    "link": "https://nypost.com/2025/03/28/media/fcc-to-probe-disney-over-dei-practices/",
+    "timestamp": "2025-03-28T16:29:13Z"
+  },
+  {
+    "title": "Gang-Affiliated Rapper Who Rallied With Trump Sentenced For Attempted Murder",
+    "description": "Hip-hop artist Sheff G \"used his fame to fund and direct violence,\" prosecutors said. He appeared onstage with Trump last year.",
+    "link": "https://www.huffpost.com/entry/sheff-g-rapper-trump-rally-sentenced_n_67e6b665e4b0ce900a29244c",
+    "timestamp": "2025-03-28T16:28:54Z"
+  },
+  {
+    "title": "Trump Leaves Presidency To Become Even More Powerful District Court Judge",
+    "description": "WASHINGTON, D.C. \u2014 President Donald Trump announced this week that he was leaving office in order to take an even more powerful position as a U.S. District Court judge.",
+    "link": "https://babylonbee.com/news/trump-leaves-presidency-to-become-even-more-powerful-district-court-judge",
+    "timestamp": "2025-03-28T16:28:36Z"
+  },
+  {
+    "title": "Donald Trump speaks with Canada\u2019s Mark Carney amid trade tensions",
+    "description": "US president says he and the Canadian PM 'agree on many things' and will meet after Canada's elections next month.",
+    "link": "https://www.aljazeera.com/news/2025/3/28/donald-trump-speaks-with-canadas-mark-carney-amid-trade-tensions",
+    "timestamp": "2025-03-28T16:27:41Z"
+  },
+  {
+    "title": "Trump, Canada PM Ease Tensions With 'Productive' Call",
+    "description": "US President Donald Trump said he had an \"extremely productive\" first call Friday with Canada's new Prime Minister Mark Carney, after recent tensions over tariffs and Trump's repeated calls to annex his northern neighbor.",
+    "link": "https://www.ibtimes.com/trump-canada-pm-ease-tensions-productive-call-3768041",
+    "timestamp": "2025-03-28T16:27:10Z"
+  },
+  {
+    "title": "Noted economist honored by Trump warns his 25% tariffs could add $4,711 to the cost of a vehicle",
+    "description": "The Presidential Medal of Freedom recipient warns President Trump\u2019s tariffs on auto imports could add $4,700 to the cost of a vehicle.",
+    "link": "https://www.bostonherald.com/2025/03/28/trump-tariffs-noted-economist-warning/",
+    "timestamp": "2025-03-28T16:26:59Z"
+  },
+  {
+    "title": "Noted economist honored by Trump warns his 25% tariffs could add $4,711 to the cost of a vehicle",
+    "description": "The Presidential Medal of Freedom recipient warns President Trump\u2019s tariffs on auto imports could add $4,700 to the cost of a vehicle.",
+    "link": "https://www.denverpost.com/2025/03/28/trump-tariffs-noted-economist-warning/",
+    "timestamp": "2025-03-28T16:26:59Z"
+  },
+  {
+    "title": "How Trump\u2019s election executive order would break mail-in voting",
+    "description": "Donald Trump\u2019s disdain for mail-in voting is at play in his executive order that tries to make ballots mailed on Election Day not able to be counted",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-election-executive-order-break-mail-in-voting-rcna198188",
+    "timestamp": "2025-03-28T16:25:03Z"
+  },
+  {
+    "title": "Chipmaker Wolfspeed's shares plunge over 45% to 27-year low",
+    "description": "Wolfspeed's shares dropped nearly 48%, reaching their lowest point since 1998, after appointing Robert Feurle as the new CEO. The company faces challenges with decreased demand from automotive customers and awaits $750 million in federal funding, critical for\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/chipmaker-wolfspeeds-shares-plunge-over-45-to-27-year-low/articleshow/119665118.cms",
+    "timestamp": "2025-03-28T16:23:32Z"
+  },
+  {
+    "title": "Donald Trump hosts Iftar dinner; a look at iconic White House Iftars over the years",
+    "description": "President Trump hosted an iftar dinner at the White House, recognizing Ramadan and appreciating the support from Muslim Americans in the 2024 election. He emphasized his administration's efforts in Middle East diplomacy. The tradition of hosting iftar at the \u2026",
+    "link": "https://timesofindia.indiatimes.com/etimes/trending/donald-trump-hosts-iftar-dinner-a-look-at-iconic-white-house-iftars-over-the-years/articleshow/119664868.cms",
+    "timestamp": "2025-03-28T16:23:00Z"
+  },
+  {
+    "title": "Weather Service Merges Units as Staffing Pressure Rises",
+    "description": "The US National Weather Service will merge two of its largest forecasting units as it prepares for the loss of as many as 1,000 staffers. Employees were encouraged to take early retirements asa handful of consolidations were announced during an \u2026",
+    "link": "https://www.insurancejournal.com/news/national/2025/03/28/817609.htm",
+    "timestamp": "2025-03-28T16:22:24Z"
+  },
+  {
+    "title": "Marsha Blackburn: Local Media Outlet Astroturfs Sham 'Town Hall' Organized by Radical Left Activists",
+    "description": "Sen. Marsha Blackburn (R-TN) blasted the Chattanooga\u00a0Times Free Press Thursday for reaching out to comment to her about a \"sham town hall\" hosted by radical left activists.\nThe post Marsha Blackburn: Local Media Outlet Astroturfs Sham \u2018Town Hall\u2019 Organized by\u2026",
+    "link": "https://www.breitbart.com/politics/2025/03/28/marsha-blackburn-local-media-outlet-astroturfs-sham-town-hall-organized-by-radical-left-activists/",
+    "timestamp": "2025-03-28T16:21:49Z"
+  },
+  {
+    "title": "US-Sponsored White Helmets: Al-Qaeda* Offshoot Loses USAID Funding",
+    "description": "The Trump administration has halted the flow of millions of US tax dollars to the White Helmets, a controversial Syrian group. What did they do and who benefitted?",
+    "link": "https://sputnikglobe.com/20250328/us-sponsored-white-helmets-al-qaeda-offshoot-loses-usaid-funding--1121706472.html",
+    "timestamp": "2025-03-28T16:21:37Z"
+  },
+  {
+    "title": "Pritzker Heads to Mexico to Talk Trade as Trump Readies Tariffs",
+    "description": "Illinois Governor JB Pritzker will lead a trade mission to Mexico next week as President Donald Trump prepares a new round of tariffs for what he calls a commercial \u201cLiberation Day\u201d for the US.",
+    "link": "https://financialpost.com/pmn/business-pmn/pritzker-heads-to-mexico-to-talk-trade-as-trump-readies-tariffs",
+    "timestamp": "2025-03-28T16:21:02Z"
+  },
+  {
+    "title": "Trump Says Union Rights Are a Threat to National Security",
+    "description": "President Donald Trump signed an executive order attacking the union rights of employees at several federal agencies, citing national security.",
+    "link": "http://www.rollingstone.com/politics/politics-news/trump-signs-executive-order-attacking-federal-union-rights-1235305654/",
+    "timestamp": "2025-03-28T16:20:45Z"
+  },
+  {
+    "title": "Market Rout Starts With Big Tech as Tariff, Inflation Fears Hit",
+    "description": "US stocks buckled again Friday as risk assets were pummeled by everything from renewed tariff concerns to signs that inflation remains sticky while consumer spending wobbles.",
+    "link": "https://financialpost.com/pmn/business-pmn/market-rout-starts-with-big-tech-as-tariff-inflation-fears-hit",
+    "timestamp": "2025-03-28T16:20:43Z"
+  },
+  {
+    "title": "OpenAI, Google AI data centers are under stress after new genAI model launches",
+    "description": "New generative AI (genAI) models introduced this week by Google and OpenAI have put the companies\u2019 data centers under stress \u2014 and both companies are trying to catch up to demand.\r\n\n\n\n\nOpenAI\u2019s CEO Sam Altman on Thursday tweeted that his company was temporari\u2026",
+    "link": "https://www.computerworld.com/article/3856435/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches.html",
+    "timestamp": "2025-03-28T16:20:40Z"
+  },
+  {
+    "title": "Why The Expected Trump M&A Boom Is A Bust\u2013So Far",
+    "description": "Dealmakers\u2019 post-election optimism has fizzled amid Trump-induced economic uncertainty. Are deals dead or just delayed?\nInthe days after Donald Trump sealed his return to the presidency last November, Wall Street celebrated the prospect of lower taxes, looser\u2026",
+    "link": "https://biztoc.com/x/9c7179e869cd4bc7",
+    "timestamp": "2025-03-28T16:19:00Z"
+  },
+  {
+    "title": "Global anti-Elon Musk protests planned at nearly 200 Tesla showroom locations",
+    "description": "Hundreds of protests at Tesla showrooms are planned across the US and internationally on Saturday. Organizers have dubbed it Tesla Takedown\u2019s Global Day of Action, the latest and largest in a series of demonstrations that began shortly after Donald Trump was \u2026",
+    "link": "https://biztoc.com/x/08d3dec4ca245190",
+    "timestamp": "2025-03-28T16:18:41Z"
+  },
+  {
+    "title": "European Airlines Push to Delay Green Fuel Mandate. EU Says No",
+    "description": "Airline CEOs pushing for delays without significantly investing more in the production of greener jet fuels themselves seems like a missed opportunity. -Darin Graham",
+    "link": "http://skift.com/2025/03/28/european-airlines-push-to-delay-green-fuel-mandate-eu-says-no/",
+    "timestamp": "2025-03-28T16:17:20Z"
+  },
+  {
+    "title": "Elon Musk Says $1 Trillion in Federal Cost Cuts Will Be Finished Within Weeks",
+    "description": "Tesla and Space X CEO and richest man in the world, Elon Musk, has said that he will complete the task of cutting down government spending, given to him by President Donald Trump, within weeks. According to Reuters, Musk made the comments Thursday and noted h\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4307325/posts",
+    "timestamp": "2025-03-28T16:16:54Z"
+  },
+  {
     "title": "The View thinks the Greenland trip flub was an attempt to distract from Signalgate",
     "description": "The ladies of \"The View\" mocked Vice President J.D. Vance and second lady Usha Vance for failing to properly stage a diplomatic visit and photo opportunity in Greenland. It was announced that Mrs. Vance would visit the large Dutch island this week, but multip\u2026",
     "link": "https://www.rawstory.com/jd-vance-greenland-2671627495/",
@@ -364,227 +586,5 @@
     "description": "Democratic Party insiders, advisors and consultants revealed serious anxieties about their party's future after MSNBC anchors hosted a DNC chair forum in February.",
     "link": "https://www.foxnews.com/media/democratic-party-insiders-dismayed-after-dnc-meeting-goes-off-rails-titanic-style-anti-trump-forum",
     "timestamp": "2025-03-28T15:51:43Z"
-  },
-  {
-    "title": "Wisconsin\u2019s Supreme Court Race Will Decide the Fate of IVF and Abortion Rights\u2014Just Ask This OB-GYN",
-    "description": "The possible return to a near total abortion ban in Wisconsin\u2014which depends on the outcome of the April 1 state Supreme Court election\u2014would gravely interfere with Dr. Anna Igler\u2019s work as an OB-GYN near Green Bay.\n\u201cTerrible things happen in pregnancy,\u201d said \u2026",
-    "link": "https://msmagazine.com/2025/03/28/wisconsin-supreme-court-race-abortion-ivf-women-health-obgyn/",
-    "timestamp": "2025-03-28T15:51:28Z"
-  },
-  {
-    "title": "Trump Order Targets Museum Opened by Barack Obama",
-    "description": "In 2016, former President Barack Obama opened the National Museum of African American History and Culture in Washington, D.C.",
-    "link": "https://www.newsweek.com/trump-order-african-history-smithsonian-barack-obama-2052071",
-    "timestamp": "2025-03-28T15:51:05Z"
-  },
-  {
-    "title": "Man charged over vandalism at Trump golf course in Scotland",
-    "description": "A man has been charged over the vandalism of a golf course owned by US President Donald Trump.",
-    "link": "https://news.sky.com/story/man-charged-over-vandalism-at-trump-turnberry-golf-resort-in-scotland-13337370",
-    "timestamp": "2025-03-28T15:50:00Z"
-  },
-  {
-    "title": "IDF Strikes Hezbollah Targets in Lebanon After Rocket Fire at Northern Israel",
-    "description": "The Israel Defense Forces (IDF) struck Hezbollah targets in Beirut and southern Lebanon on Friday after the terrorist organization launched rockets at towns in northern Israel earlier, violating the ceasefire that began in November.\nThe post IDF Strikes Hezbo\u2026",
-    "link": "https://www.breitbart.com/middle-east/2025/03/28/idf-strikes-hezbollah-targets-in-lebanon-after-rocket-fire-at-northern-israel/",
-    "timestamp": "2025-03-28T15:49:06Z"
-  },
-  {
-    "title": "GOP Senators Unveil Bill to Bring Hammer Down on Supreme Court Leakers",
-    "description": "DAILY CALLER NEWS FOUNDATION\u2014Senate Republicans will reintroduce a bill Thursday to impose criminal penalties on individuals who leak confidential information pertaining to the U.S. Supreme... Read More\nThe post GOP Senators Unveil Bill to Bring Hammer Down o\u2026",
-    "link": "https://www.dailysignal.com/2025/03/28/gop-senators-unveil-bill-bring-hammer-down-supreme-court-leakers/",
-    "timestamp": "2025-03-28T15:48:21Z"
-  },
-  {
-    "title": "Trump says he had productive call with Canadian PM Carney",
-    "description": "WASHINGTON (Reuters) - U.S. President Donald Trump said he had a productive call on Friday with Canadian Prime Minister Mark Carney and that the two leaders would meet after Canada's election, which is scheduled for next month amid increased tensions between \u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/03/28/trump-says-he-had-productive-call-with-canadian-pm-carney",
-    "timestamp": "2025-03-28T15:48:00Z"
-  },
-  {
-    "title": "How Survival of the Thickest\u2019s Peppermint and Michelle Buteau find joy \u2013 despite Trump\u2019s attacks",
-    "description": "RuPaul\u2019s Drag Race superstar Peppermint and comedian Michelle Buteau have spoken about why maintaining hope and finding joy is \u201ccritical\u201d as Donald Trump\u2019s administration continues to target LGBTQ+ rights. In an impressive and increasingly rare feat, Michelle\u2026",
-    "link": "https://www.thepinknews.com/2025/03/28/survival-of-the-thickest-season-two-peppermint-michelle-buteau-trump/",
-    "timestamp": "2025-03-28T15:47:40Z"
-  },
-  {
-    "title": "House Judiciary calls on Biden DOJ prosecutor to testify in Dr Eithan Haim case",
-    "description": "Dr. Eithan Haim was indicted for exposing Texas Children's Hospital's transgender procedures on minors. The case was dismissed due to the prosecutor's ties to Texas' medical system.",
-    "link": "https://www.foxnews.com/politics/house-judiciary-calls-biden-doj-prosecutor-testify-dr-eithan-haim-case",
-    "timestamp": "2025-03-28T15:46:56Z"
-  },
-  {
-    "title": "The Daily Show: Jon Stewart Pressures Elon Musk for Unedited Interview",
-    "description": "If you had a chance to check it out at the end of February (if you didn't, we have the segment available above), then you know that Comedy Central's The Daily Show host Jon Stewart didn't hold back when he called out Elon Musk, Musk's team of \"DOGE-bags,\" and\u2026",
-    "link": "https://bleedingcool.com/tv/the-daily-show-jon-stewart-pressures-elon-musk-for-unedited-interview/",
-    "timestamp": "2025-03-28T15:46:07Z"
-  },
-  {
-    "title": "Donald Trump Approval Ratings Rising Among Key Groups",
-    "description": "Donald Trump's approval rating is rising among men, Black Americans and Hispanics, as well as Gen Z voters.",
-    "link": "https://www.newsweek.com/donald-trump-approval-rating-age-gender-race-2052097",
-    "timestamp": "2025-03-28T15:45:59Z"
-  },
-  {
-    "title": "Trump announces 25% tariffs on imported cars and parts\u2014here's one way to help offset the costs",
-    "description": "You can't control tariffs, but you can control how much interest you pay on a car loan.",
-    "link": "https://www.cnbc.com/2025/03/28/trump-announces-25percent-tariffs-on-imported-carshow-to-offset-the-costs.html",
-    "timestamp": "2025-03-28T15:45:33Z"
-  },
-  {
-    "title": "Newt Gingrich Thinks Harris Becoming President In 2023 Would Have Only Added To Dems\u2019 Suffering In 2024",
-    "description": "Newt Gingrich said that he believes had former Kamala Harris assumed the presidency in 2023, the 2024 election would have been even more dismal for Democrats.",
-    "link": "https://dailycaller.com/2025/03/28/newt-gingrich-thinks-harris-becoming-president-in-2023-would-have-only-added-to-dems-suffering-in-2024/",
-    "timestamp": "2025-03-28T15:44:07Z"
-  },
-  {
-    "title": "Hillary Clinton lambasts 'dumb' Trump administration over Signal chat leak in NY Times essay",
-    "description": "Hillary Clinton called the Trump administration \"dumb and dangerous\" in a New York Times essay published Friday in the aftermath of the Signal chat leak story.",
-    "link": "https://www.foxnews.com/media/hillary-clinton-lambasts-dumb-trump-administration-over-signal-chat-leak-ny-times-essay",
-    "timestamp": "2025-03-28T15:43:36Z"
-  },
-  {
-    "title": "Chart: How Much Billionaires Are Pouring Into Wisconsin Supreme Court Race",
-    "description": "Millions are being funneling into the Wisconsin Supreme Court race, making it the most expensive judicial race in U.S. history.",
-    "link": "https://www.newsweek.com/chart-how-much-billionaires-are-pouring-wisconsin-supreme-court-race-2052064",
-    "timestamp": "2025-03-28T15:43:02Z"
-  },
-  {
-    "title": "Donald Trump\u2019s economic report card: 3 in 4 Americans say they are worse off under his leadership as they are struggling, most don\u2019t expect a rebound",
-    "description": "Inflation remains a top economic concern for most Americans",
-    "link": "https://economictimes.indiatimes.com/news/international/us/donald-trumps-economic-report-card-3-in-4-americans-say-they-are-worse-off-under-his-leadership-as-they-are-struggling-most-dont-expect-a-rebound/articleshow/119663739.cms",
-    "timestamp": "2025-03-28T15:42:59Z"
-  },
-  {
-    "title": "Social Security Reverses Course on Identity Requirement",
-    "description": "The Social Security Administration (SSA) said Wednesday that it will not implement a policy that would have required many Americans to visit offices to verify their identities. Last week, the SSA announced stronger identity proofing measures in a bid to comba\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4307318/posts",
-    "timestamp": "2025-03-28T15:41:08Z"
-  },
-  {
-    "title": "Why Kanye West and Andrew Tate got together while rapper\u2019s daughter North was visiting",
-    "description": "Kim Kardashian reportedly cut short 11-year-old North's visit with West the night he was with Tate.",
-    "link": "https://pagesix.com/2025/03/28/celebrity-news/kanye-west-andrew-tate-recorded-podcast-during-north-visit/",
-    "timestamp": "2025-03-28T15:40:50Z"
-  },
-  {
-    "title": "Corporate America Ditches Green Bonds as Trump Emboldens GOP Attacks",
-    "description": "Since Donald Trump\u2019s return to the White House, US companies have all but abandoned the green bonds that were once touted as a way for corporate America to have a hand in fixing the planet.",
-    "link": "https://financialpost.com/pmn/business-pmn/corporate-america-ditches-green-bonds-as-trump-emboldens-gop-attacks",
-    "timestamp": "2025-03-28T15:40:37Z"
-  },
-  {
-    "title": "Car prices could jump $6,000 as Trump's 25% import tariff kicks in",
-    "description": "The new tariff on imported cars will take effect on April 2, while the import duty on car parts will go into effect on May 3. The components subject to the new policy include engines and engine parts, transmissions and powertrain components, and electrical sy\u2026",
-    "link": "https://www.techspot.com/news/107330-car-prices-could-jump-6000-trump-25-import.html",
-    "timestamp": "2025-03-28T15:40:00Z"
-  },
-  {
-    "title": "Trump pardons ex-Nikola CEO Trevor Milton",
-    "description": "Trevor Milton, the founder of Nikola Motors who was convicted of defrauding investors in his zero-emission truck company, has been pardoned by President Donald Trump, the White House confirmed Friday. A federal jury convicted Milton of lying about Nikola\u2019s ca\u2026",
-    "link": "https://www.theverge.com/news/638340/nikola-ceo-trevor-milton-trump-pardon",
-    "timestamp": "2025-03-28T15:39:55Z"
-  },
-  {
-    "title": "Labor Department Cancels $577 Million in Useless Grants, Including 'Gender Equity in the Mexican Workplace'",
-    "description": "The U.S. Department of Labor (DOL) has canceled nearly $600 million in grants to foreign countries in another round of major funding cuts, including $10 million for \"gender equity in the Mexican workplace.\"\nThe post Labor Department Cancels $577 Million in Us\u2026",
-    "link": "https://www.breitbart.com/politics/2025/03/28/labor-department-cancels-577-million-in-america-last-grants/",
-    "timestamp": "2025-03-28T15:37:40Z"
-  },
-  {
-    "title": "US accuses Denmark of treating Greenlanders as \u2018second-class citizens\u2019 during Vance visit to Arctic base",
-    "description": "Vice President JD Vance and second lady Usha are visiting Pituffik Space Force Base in Greenland on Friday and will get a briefing on Arctic security issues.",
-    "link": "https://www.foxnews.com/politics/us-accuses-denmark-treating-greenlanders-second-class-citizens-during-vance-visit-arctic-base",
-    "timestamp": "2025-03-28T15:36:50Z"
-  },
-  {
-    "title": "Randy Fine vs. Josh Weil: Democrats hopeful, GOP frets in special election in Florida",
-    "description": "ORLANDO, Fla. \u2014 A Central Florida congressional race that seemed like an easy win for the GOP a few months ago now has Republicans sweating as polls and...",
-    "link": "https://www.orlandosentinel.com/2025/03/28/randy-fine-vs-josh-weil-democrats-hopeful-gop-frets-in-special-election/",
-    "timestamp": "2025-03-28T15:36:00Z"
-  },
-  {
-    "title": "Mass scientist exodus? 75% of U.S. scientists in poll say they are considering leaving under Trump\u2019s administration, favour Canada and Europe",
-    "description": "Discover how Trump-era policies are driving US scientists abroad, with insights on funding cuts, academic instability, and relocation trends. Learn about the growing exodus of researchers.",
-    "link": "https://economictimes.indiatimes.com/news/international/us/mass-scientist-exodus-75-of-u-s-scientists-in-poll-say-they-are-considering-leaving-under-trumps-administration-favour-canada-and-europe/articleshow/119663482.cms",
-    "timestamp": "2025-03-28T15:36:00Z"
-  },
-  {
-    "title": "Trump says he and Carney 'agree on many things' during 'extremely productive' first call",
-    "description": "U.S. President Donald Trump says he and Prime Minister Mark Carney agreed \"on many things\" during an \"extremely productive\" first call between both leaders with new American tariffs looming.",
-    "link": "https://nationalpost.com/news/politics/federal_election/trump-carney-productive-first-call",
-    "timestamp": "2025-03-28T15:35:45Z"
-  },
-  {
-    "title": "Movement in Opposition to \u201cDOGE\u201d Plans Day of Protests Outside Tesla Showrooms",
-    "description": "A Global Day of Action on March 29 has been sparked by Elon Musk's efforts to gut federal programs and agencies.",
-    "link": "https://organizingmythoughts.org/is-march-29-the-day-the-world-turns-on-tesla/",
-    "timestamp": "2025-03-28T15:35:26Z"
-  },
-  {
-    "title": "Elon Musk\u2019s \u2018government efficiency\u2019 team turns its sights to SEC: Report",
-    "description": "The Department of Government Efficiency team \u2014 or DOGE, which is not an official US government department \u2014 led by Tesla CEO Elon Musk is reportedly moving into the Securities and Exchange Commission (SEC).According to a March 28 Reuters report, Musk\u2019s DOGE t\u2026",
-    "link": "https://cointelegraph.com/news/elon-musk-doge-sec",
-    "timestamp": "2025-03-28T15:35:17Z"
-  },
-  {
-    "title": "Carney, Trump have productive talk amid trade spat",
-    "description": "Donald Trump said he had a productive talk with Mark Carney and that the two would meet after Canada holds elections. Read here for more",
-    "link": "https://financialpost.com/news/trump-carney-talk-amid-trade-spat",
-    "timestamp": "2025-03-28T15:34:48Z"
-  },
-  {
-    "title": "Trump, Carney Talk Amid Trade Spat, Plan to Meet After Election",
-    "description": "President Donald Trump said he spoke with Canadian Prime Minister Mark Carney and that the two would meet after Canada holds elections, amid an intensifying tariff war between the neighboring allies and major trading partners.",
-    "link": "https://financialpost.com/pmn/business-pmn/trump-carney-talk-amid-trade-spat-plan-to-meet-after-election",
-    "timestamp": "2025-03-28T15:34:48Z"
-  },
-  {
-    "title": "Donald Trump Reveals Next Steps After First Call with Mark Carney",
-    "description": "President Donald Trump posted his reaction on Truth Social after his Friday morning call with Canadian Prime Minister Mark Carney.\nTrump posted, \"I just finished speaking with Prime Minister Mark Carney, of Canada. It was an extremely productive call, we agre\u2026",
-    "link": "https://biztoc.com/x/4215e21fdb6a9842",
-    "timestamp": "2025-03-28T15:34:21Z"
-  },
-  {
-    "title": "Elon Musk heads to Wisconsin to personally deliver $2M to voters\u2014Why he says this election is 'super important'",
-    "description": "Elon Musk has announced plans to distribute $2 million to two Wisconsin voters who have already voted in the state Supreme Court race, despite potential legal challenges. The race, which could alter the court's ideological balance, has seen significant financ\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/elon-musk-heads-to-wisconsin-to-personally-deliver-2m-to-voterswhy-he-says-this-election-is-super-important-is-that-legal/articleshow/119662901.cms",
-    "timestamp": "2025-03-28T15:33:59Z"
-  },
-  {
-    "title": "Swalwell: 'Pete Hegseth and Mike Waltz Should No Longer Be in the Government'",
-    "description": "On Friday, Rep. Eric Swalwell (D-CA) said on CNN's \"News Central\" that\u00a0Defense Secretary Pete Hegseth and\u00a0National Security Adviser Michael Waltz should not be in government after using Signal for a chat among senior national security officials.\nThe post Swal\u2026",
-    "link": "https://www.breitbart.com/clips/2025/03/28/swalwell-pete-hegseth-and-mike-waltz-should-no-longer-be-in-the-government/",
-    "timestamp": "2025-03-28T15:33:51Z"
-  },
-  {
-    "title": "The D Brief: Accountability watch; Golden Dome options; WH pursues Ukraine\u2019s minerals; EU suggests stockpiling food; And a bit more.",
-    "description": "",
-    "link": "https://www.defenseone.com/threats/2025/03/the-d-brief-march-28-2025/404127/",
-    "timestamp": "2025-03-28T15:31:34Z"
-  },
-  {
-    "title": "Two law firms targeted by Trump sue over executive orders that sought to punish them",
-    "description": "Two law firms targeted by Trump sue over executive orders that sought to punish them",
-    "link": "https://www.livemint.com/companies/news/two-law-firms-targeted-by-trump-sue-over-executive-orders-that-sought-to-punish-them-11743175822027.html",
-    "timestamp": "2025-03-28T15:30:21Z"
-  },
-  {
-    "title": "Jimmy Fallon Mocks Trump\u2019s Call to Defund PBS: \u2018The White House Has a Group Chat About Invading Sesame Street\u2019 | Video",
-    "description": "The NBC host also jokes that the president goes to the same tanning salon as Ernie and Daniel Tiger\nThe post Jimmy Fallon Mocks Trump\u2019s Call to Defund PBS: \u2018The White House Has a Group Chat About Invading Sesame Street\u2019 | Video appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/jimmy-fallon-mocks-trump-defund-pbs-sesame-street/",
-    "timestamp": "2025-03-28T15:30:02Z"
-  },
-  {
-    "title": "How Medicaid Cuts Could Devastate Tribal Health Systems",
-    "description": "Native Americans, and the health centers that serve them, disproportionately rely on the program, which could see major cuts under the Republican budget proposal.",
-    "link": "https://inthesetimes.com/article/medicaid-cuts-native-american-tribal-health-centers",
-    "timestamp": "2025-03-28T15:30:00Z"
-  },
-  {
-    "title": "How Do Things Work",
-    "description": "This wasn't especially important, relatively speaking, but it was an example of how the people running things do not have any idea how things work.\nFeb 14 (Reuters) - Days after U.S. President Donald Trump ended duty-free entry for cheap Chinese goods enterin\u2026",
-    "link": "https://www.eschatonblog.com/2025/03/how-do-things-work.html",
-    "timestamp": "2025-03-28T15:30:00Z"
   }
 ]
