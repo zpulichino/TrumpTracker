@@ -1,5 +1,203 @@
 [
   {
+    "title": "Spirit Airlines to start Richmond-Detroit service",
+    "description": "Spirit Airlines is launching nonstop service from Richmond International Airport to Detroit.",
+    "link": "https://richmond.com/news/state-regional/business/article_28b67ba3-0285-4cd3-aa76-4c1afa2ad2c9.html",
+    "timestamp": "2025-03-28T22:16:00Z"
+  },
+  {
+    "title": "The White House's 'Barstool' problem",
+    "description": "Dave Portnoy, a Trump supporter and the founder of Barstool Sports, went viral for his blistering critique of the administration\u2019s group chat debacle",
+    "link": "https://www.nbcnews.com/politics/trump-administration/white-house-barstool-problem-dave-portnoy-rcna198409",
+    "timestamp": "2025-03-28T22:14:16Z"
+  },
+  {
+    "title": "What can the EU do against Trump's trade war?",
+    "description": "The European Union is measuring up its response to the anticipated new tariffs being imposed by the US administration. But what tools does it have?",
+    "link": "https://www.dw.com/en/what-can-the-eu-do-against-trumps-trade-war/a-72074439",
+    "timestamp": "2025-03-28T22:14:00Z"
+  },
+  {
+    "title": "Trump on Stefanik: 'She's Doing Me a Big Favor'",
+    "description": "President Donald Trump says he will withdraw Representative Elise Stefanik\u2019s nomination to serve as the US ambassador to the United Nations, citing Republicans\u2019 narrow hold on the House.\n\u201cWith a very tight Majority, I don\u2019t want to take a chance on anyone els\u2026",
+    "link": "https://biztoc.com/x/e4edf92ddc8a5d14",
+    "timestamp": "2025-03-28T22:13:17Z"
+  },
+  {
+    "title": "Donald Trump Dealt Three Back-to-Back Legal Blows by Judges",
+    "description": "Federal judges issued more restraining orders against the president's sweeping policy changes.",
+    "link": "https://biztoc.com/x/925538df25c49b7f",
+    "timestamp": "2025-03-28T22:13:12Z"
+  },
+  {
+    "title": "Elon Musk Says His xAI Startup Buying X Platform",
+    "description": "Elon Musk on Friday said his artificial intelligence startup xAI is buying his social networking platform X in a deal valuing the company once known as Twitter at $33 billion.",
+    "link": "https://www.ndtv.com/world-news/elon-musk-says-his-xai-startup-buying-x-platform-8036250",
+    "timestamp": "2025-03-28T22:13:10Z"
+  },
+  {
+    "title": "Donald Trump Dealt Three Back-to-Back Legal Blows by Judges",
+    "description": "Federal judges issued more restraining orders against the president's sweeping policy changes.",
+    "link": "https://www.newsweek.com/trump-administration-legal-blows-immigration-consumer-protections-2052456",
+    "timestamp": "2025-03-28T22:12:21Z"
+  },
+  {
+    "title": "Trump in Talks with Johnson, Thune About Making Interest Payments on American-Made Cars Tax Deductible",
+    "description": "President Donald Trump announced Friday that he has spoken with House Speaker Mike Johnson (R-LA) and Senate Majority Leader John Thune (R-SD) about making interest payments on loans for American-made cars tax deductible.\nThe post Trump in Talks with Johnson,\u2026",
+    "link": "https://www.breitbart.com/economy/2025/03/28/trump-in-talks-with-johnson-thune-about-making-interest-payments-on-american-made-cars-tax-deductible/",
+    "timestamp": "2025-03-28T22:10:36Z"
+  },
+  {
+    "title": "Judge saves the CFPB, for now",
+    "description": "A court took action on Friday to keep the Trump administration and its Department of Government Efficiency (DOGE) from shutting down a consumer watchdog agency while its court case plays out. Judge Amy Berman Jackson granted a preliminary injunction to save t\u2026",
+    "link": "https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge",
+    "timestamp": "2025-03-28T22:10:31Z"
+  },
+  {
+    "title": "Forgoing UN, Stefanik to Resume Role in House GOP Leadership, but in What Capacity?",
+    "description": "In the wake of Rep. Elise Stefanik, R-N.Y., withdrawing from consideration to become U.S. ambassador to the United Nations, the Republican leadership in the House... Read More\nThe post Forgoing UN, Stefanik to Resume Role in House GOP Leadership, but in What \u2026",
+    "link": "https://www.dailysignal.com/2025/03/28/stefanik-to-resume-role-in-house-gop-leadership-but-in-what-capacity/",
+    "timestamp": "2025-03-28T22:10:02Z"
+  },
+  {
+    "title": "Appeals court clears way for Trump to fire leaders of 'independent' federal agencies (Politico)",
+    "description": "Politico:\nAppeals court clears way for Trump to fire leaders of \u2018independent\u2019 federal agencies\u00a0 \u2014\u00a0 The ruling is a victory for Trump's effort to control regulatory bodies that Congress intended to operate with some independence.\u00a0 \u2014\u00a0 A federal appeals court ha\u2026",
+    "link": "https://www.memeorandum.com/250328/p125",
+    "timestamp": "2025-03-28T22:10:02Z"
+  },
+  {
+    "title": "Senators press regulators on Trump\u2019s WLFI stablecoin",
+    "description": "Five Democratic lawmakers in the US Senate have called on leadership at regulatory agencies to consider the potential conflicts of interest from a stablecoin launched by World Liberty Financial (WLFI), the crypto firm backed by US President Donald Trump\u2019s fam\u2026",
+    "link": "https://cointelegraph.com/news/donald-trump-stablecoin-financial-regulators-scrutiny",
+    "timestamp": "2025-03-28T22:10:00Z"
+  },
+  {
+    "title": "Justice Sonia Sotomayor defends 'fearlessly independent' judiciary",
+    "description": "Remarks by liberal Justice Sonia Sotomayor came as President Donald Trump and his allies have harshly criticized judges for blocking his second term agenda.",
+    "link": "https://www.nbcnews.com/politics/supreme-court/justice-sotomayor-defends-independent-judiciary-trump-attacks-rcna198660",
+    "timestamp": "2025-03-28T22:08:39Z"
+  },
+  {
+    "title": "FCC Will Investigate Disney And ABC Over DEI Practices",
+    "description": "In the letter to Disney CEO Bob Iger, FCC Chair Brendan Carr said the commission has concerns Disney may be \u201cpromoting invidious forms of DEI discrimination.\u201d",
+    "link": "https://www.forbes.com/sites/mollybohannon/2025/03/28/fcc-will-investigate-disney-and-abc-over-dei-practices/",
+    "timestamp": "2025-03-28T22:08:20Z"
+  },
+  {
+    "title": "\u2018She Has Failed Miserably\u2019: CNN\u2019s Elie Honig Shreds AG Pam Bondi for Acting Like the \u2018White House Press Secretary\u2019",
+    "description": "CNN Senior Legal Analyst Elie Honig blasted Attorney General Pam Bondi for sounding more like a \"press secretary\" than the nation's top law enforcement official.\nThe post \u2018She Has Failed Miserably\u2019: CNN\u2019s Elie Honig Shreds AG Pam Bondi for Acting Like the \u2018Wh\u2026",
+    "link": "https://www.mediaite.com/tv/she-has-failed-miserably-cnns-elie-honig-shreds-ag-pam-bondi-for-acting-like-the-white-house-press-secretary/",
+    "timestamp": "2025-03-28T22:08:20Z"
+  },
+  {
+    "title": "Could Trump go to jail if democracts win 2028 elections? Steve Bannon answers",
+    "description": "In a recent appearance on Real America&apos;s Voice, former White House strategist Steve Bannon issued a stark warning about the political and legal future of former President Dona",
+    "link": "https://www.marca.com/en/lifestyle/us-news/2025/03/28/67e70d95ca4741f4448b45bd.html",
+    "timestamp": "2025-03-28T22:07:39Z"
+  },
+  {
+    "title": "US Judge Temporarily Blocks Parts of Trump's Anti-DEI Orders",
+    "description": "A federal judge has temporarily blocked the U.S. Department of Labor from implementing parts of President Donald Trump\u2019s executive orders aimed at curbing diversity, equity and inclusion efforts among federal contractors and grant recipients. Judge Matthew Ke\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4307403/posts",
+    "timestamp": "2025-03-28T22:07:35Z"
+  },
+  {
+    "title": "How Donald Trump Is Reshaping America in Just 7 Weeks",
+    "description": "Editor\u2019s note: This is a lightly edited transcript of today\u2019s video from Daily Signal Senior Contributor Victor Davis Hanson.\u00a0Subscribe to our YouTube channel to see... Read More\nThe post How Donald Trump Is Reshaping America in Just 7 Weeks appeared first on\u2026",
+    "link": "https://www.dailysignal.com/2025/03/28/how-donald-trump-is-reshaping-america-in-just-7-weeks/",
+    "timestamp": "2025-03-28T22:06:48Z"
+  },
+  {
+    "title": "Deming Chen\u2019s \u2018Always\u2019 Wins Main Prize at CPH:DOX as Mstyslav Chernov Nabs F:ACT Award for \u20182000 Meters to Adriivka\u2019",
+    "description": "On Friday, the top DOX award at Copenhagen documentary festival CPH:DOX went to \u201cAlways,\u201d the first feature by Chinese director Deming Chen. The film follows eight-year-old Youbin, raised by his father and grandparents in a remote mountain village in Hunan pr\u2026",
+    "link": "https://variety.com/2025/film/global/deming-chen-always-cphdox-1236351538/",
+    "timestamp": "2025-03-28T22:06:02Z"
+  },
+  {
+    "title": "Behind the scenes of Trump's sudden move to withdraw Elise Stefanik's nomination: From the Politics Desk",
+    "description": "In today\u2019s edition, we take you behind the scenes of President Donald Trump\u2019s sudden move to withdraw Elise Stefanik\u2019s U.N. ambassador nomination.",
+    "link": "https://www.nbcnews.com/politics/politics-news/behind-scenes-trump-stefanik-nomination-politics-desk-rcna198659",
+    "timestamp": "2025-03-28T22:05:38Z"
+  },
+  {
+    "title": "Big mouth illegal who boasted of squatting in U.S., booted back to Venezuela",
+    "description": "So-called influencer had explained, \"I didn\u2019t cross the Rio Grande to work like a slave'",
+    "link": "https://www.wnd.com/2025/03/big-mouth-illegal-who-boasted-of-squatting-in-u-s-booted-back-to-venezuela/",
+    "timestamp": "2025-03-28T22:05:02Z"
+  },
+  {
+    "title": "Starmer and Macron Become Obstacles to Peace, as the British and French Leaders Adopt Condescending Tone Towards Trump Administration, Pretend To Teach Them How To Deal With Putin",
+    "description": "As the peace negotiations face the inevitable hurdles from both the Russian and the Ukrainian sides, it\u2019s now the Europeans that are doing their level best to derail the process. And it\u2019s UK\u2019s Prime Minister Keir Starmer and France\u2019s President Emmanuel Macron\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4307402/posts",
+    "timestamp": "2025-03-28T22:04:52Z"
+  },
+  {
+    "title": "Two more law firms stand up to Trump's attempts to punish them",
+    "description": "Two top law firms, WilmerHale and Jenner & Block, filed lawsuits against President Donald Trump's attempts to punish them.",
+    "link": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-law-firms-wilmerhale-jenner-block-deadline-newsletter-rcna198601",
+    "timestamp": "2025-03-28T22:04:38Z"
+  },
+  {
+    "title": "Wisconsin attorney general sues Musk to block his $1 million payment offers to voters",
+    "description": "Wisconsin\u2019s Democratic attorney general asked a court on Friday to block billionaire\u00a0Elon Musk\u00a0from handing out $1 million checks to voters this weekend, just days before\u00a0the state\u2019s hotly contested Supreme Court race\u00a0was to be decided.",
+    "link": "https://www.pbs.org/newshour/politics/wisconsin-attorney-general-sues-musk-to-block-his-1-million-payment-offers-to-voters",
+    "timestamp": "2025-03-28T22:03:57Z"
+  },
+  {
+    "title": "Babydog bridges 'pawtisan' divide in the Senate on social media: 'She knows no political bias'",
+    "description": "Sen. Jim Justice, R-W.Va., suggested to Fox News Digital that Babydog ought to be moderating \"spending discussions around here\" given her popularity on Capitol Hill.",
+    "link": "https://www.foxnews.com/politics/babydog-bridges-pawtisan-divide-senate-social-media-she-knows-no-political-bias",
+    "timestamp": "2025-03-28T22:03:33Z"
+  },
+  {
+    "title": "Elon Musk Says His AI Firm Has Acquired X For $45B In Stock",
+    "description": "X, the social media site formerly known as Twitter, is changing its address but staying within Elon Musk\u2019s corporate portfolio. In a post on X, Musk said his artificial intelligence firm xAI acquired X in an all-stock deal valuing the platform at $45 billion,\u2026",
+    "link": "http://deadline.com/2025/03/elon-musk-ai-company-acquires-x-45-billion-1236353732/",
+    "timestamp": "2025-03-28T22:03:03Z"
+  },
+  {
+    "title": "Trump commutes sentences of Ozy Media founder Carlos Watson and company",
+    "description": "President Donald Trump commuted the criminal fraud sentence of Ozy Media founder Carlos Watson on Friday, just as Watson was due to begin serving a 116-month prison term in California for his multi-million-dollar scheme.\nTrump also commuted the sentence of pr\u2026",
+    "link": "https://biztoc.com/x/b3418fe666319919",
+    "timestamp": "2025-03-28T22:02:37Z"
+  },
+  {
+    "title": "The fight for USAID\u2019s future, briefly explained",
+    "description": "The men trying to close USAID: Secretary of State Marco Rubio and President Donald Trump.\nThis story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Sub\u2026",
+    "link": "https://biztoc.com/x/679885e77170c098",
+    "timestamp": "2025-03-28T22:02:27Z"
+  },
+  {
+    "title": "Trump-Appointed Judge Clears The Way For Trump To Fire Democratic Officials He Doesn't Like",
+    "description": "The ruling is a win for the Trump administration as it tries to assert unprecedented control over independent, quasi-judicial agencies.",
+    "link": "https://www.huffpost.com/entry/dc-circuit-trump-firings-ruling_n_67e71514e4b0a5c9f3d5aa11",
+    "timestamp": "2025-03-28T22:00:38Z"
+  },
+  {
+    "title": "Commentary: The bogus trade rationale for the Signalgate attacks",
+    "description": "Bombing the Houthis won\u2019t help global commerce but Donald Trump\u2019s auto and shipping protectionism will certainly damage it, says the Financial Times\u2019 Alan Beattie.",
+    "link": "https://www.channelnewsasia.com/commentary/united-states-signal-chat-houthi-attack-global-trade-port-fee-china-5029896",
+    "timestamp": "2025-03-28T22:00:00Z"
+  },
+  {
+    "title": "Federal cuts are hitting Richmond nonprofits hard, Warner hears",
+    "description": "It\u2019s not just the Trump administration\u2019s spending freezes or the threatend cuts that worry the Richmond nonprofit agencies that step in to help with housing, health care and services for vulnerable youth their leaders told Sen. Mark Warner.at a Richmond round\u2026",
+    "link": "https://richmond.com/news/state-regional/government-politics/article_6dc6dd01-ad8a-4e61-9b1f-47a18d1974db.html",
+    "timestamp": "2025-03-28T22:00:00Z"
+  },
+  {
+    "title": "Inside the Homes of the Ultra-Rich",
+    "description": "From the daily newsletter: a report from Florida\u2019s billionaire enclave.",
+    "link": "https://www.newyorker.com/newsletter/the-daily/inside-the-homes-of-the-ultra-rich",
+    "timestamp": "2025-03-28T22:00:00Z"
+  },
+  {
+    "title": "Vance scolds Denmark during Greenland trip",
+    "description": "Denmark's prime minister said the\u00a0visit by the US VP and other top officials \u00a0showed a\u00a0\"lack\u00a0of\u00a0respect\".",
+    "link": "https://www.bbc.com/news/articles/cr525e49m2do",
+    "timestamp": "2025-03-28T21:59:48Z"
+  },
+  {
     "title": "Tesla Vandals Caught In The FUNNIEST WAYS!",
     "description": "They don't understand Sentry mode...",
     "link": "https://freerepublic.com/focus/f-chat/4307397/posts",
@@ -370,209 +568,5 @@
     "description": "Nobody really knows how many babies are born to parents without immigration status.",
     "link": "https://www.newsweek.com/birthright-citizenship-tracking-numbers-trump-administration-2052392",
     "timestamp": "2025-03-28T21:23:25Z"
-  },
-  {
-    "title": "Hegseth\u2019s younger brother is serving in a key role as liaison and senior adviser inside the Pentagon",
-    "description": "It\u2019s not the first time Phil Hegseth has worked alongside his older brother.",
-    "link": "https://www.bostonherald.com/2025/03/28/hegseth-brother/",
-    "timestamp": "2025-03-28T21:21:11Z"
-  },
-  {
-    "title": "Elizabeth Catlett: Black Revolutionary Artist, At National Gallery Of Art",
-    "description": "\u201cA Black Revolutionary Artist and All That It Implies\u201d being staged at the National Gallery. one mile from the White House, makes it impossible to divorce from current events.",
-    "link": "https://www.forbes.com/sites/chaddscott/2025/03/28/elizabeth-catlett-black-revolutionary-artist-at-national-gallery-of-art/",
-    "timestamp": "2025-03-28T21:21:10Z"
-  },
-  {
-    "title": "DOJ Task Force Takes Aim At Anticompetitive Regulations",
-    "description": "A Justice Department Task Force will help federal agencies identify and eliminate anticompetitive regulations. A strategy to dismantle bad foreign rules is also helpful.",
-    "link": "https://www.forbes.com/sites/aldenabbott/2025/03/28/doj-task-force-takes-aim-at-anticompetitive-regulations/",
-    "timestamp": "2025-03-28T21:20:38Z"
-  },
-  {
-    "title": "US court urged to block Musk from handing millions to voters in Wisconsin race",
-    "description": "Billionaire accused of interfering in state\u2019s hotly contested Supreme Court election",
-    "link": "https://www.irishtimes.com/world/us/2025/03/28/us-court-urged-to-block-musk-from-handing-millions-to-voters-in-wisconsin-race/",
-    "timestamp": "2025-03-28T21:20:21Z"
-  },
-  {
-    "title": "Trump Can Fire Independent Agency Heads, Appeals Court Says (Zoe Tillman/Bloomberg)",
-    "description": "Zoe Tillman / Bloomberg:\nTrump Can Fire Independent Agency Heads, Appeals Court Says\u00a0 \u2014\u00a0 Donald Trump can fire members of two independent agencies, a divided federal appeals court in Washington ruled, boosting the president's efforts to dramatically reshape t\u2026",
-    "link": "https://www.memeorandum.com/250328/p114",
-    "timestamp": "2025-03-28T21:20:01Z"
-  },
-  {
-    "title": "Trump budget cuts canceled 20 truckloads of food for Cleveland food bank",
-    "description": "Budget cuts by U.S. President Donald Trump's administration caused cancellations of 20 truckloads of food while en route to the Greater Cleveland Food Bank.",
-    "link": "https://www.snopes.com//fact-check/trump-cleveland-food-bank-cuts/",
-    "timestamp": "2025-03-28T21:20:00Z"
-  },
-  {
-    "title": "Judge orders CFPB to reinstate fired employees, preserve records and get back to work",
-    "description": null,
-    "link": "https://www.cnbc.com/2025/03/28/judge-orders-cfpb-to-reinstate-fired-employees-preserve-records-and-get-back-to-work.html",
-    "timestamp": "2025-03-28T21:19:47Z"
-  },
-  {
-    "title": "Vandalized Tesla Cybertruck Investigated as Hate Crime in New York",
-    "description": "The NYPD's Hate Crime Task Force is investigating an incident where two individuals carved a swastika on a Tesla in Brooklyn.",
-    "link": "https://www.newsweek.com/tesla-cybertruck-vandalism-hate-crime-new-york-2052425",
-    "timestamp": "2025-03-28T21:19:02Z"
-  },
-  {
-    "title": "Trump's Interior Life Is a Clown Car of Neurotic Conflicts\u2014And So We All Must Suffer",
-    "description": "A senior consultant in Saul Alinsky\u2019s Industrial Areas Foundation used to teach progressive leaders that there is a necessary difference between the values and functions of public vs. private relationships. In private life, relationships are ends in themselve\u2026",
-    "link": "https://www.commondreams.org/opinion/what-is-wrong-with-trump",
-    "timestamp": "2025-03-28T21:17:25Z"
-  },
-  {
-    "title": "Trump \u2018contemptuous\u2019 of Zelensky \u2013 The Times",
-    "description": "US President Donald Trump is \u201ccontemptuous\u201d of Ukraine\u2019s Vladimir Zelensky, The Times\u2019 Hugh Tomlinson has said Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/614926-trump-contemptuous-zelensky-times/",
-    "timestamp": "2025-03-28T21:17:08Z"
-  },
-  {
-    "title": "Crypto market cycle permanently shifted \u2014 Polygon founder",
-    "description": "The four-year crypto market cycle that traders and investors have become accustomed to is no longer as pronounced due to the maturation of crypto as an asset class and the participation of institutional investors, according to Polygon co-founder Sandeep Nailw\u2026",
-    "link": "https://cointelegraph.com/news/crypto-market-cycle-permanently-shifted-polygon-founder",
-    "timestamp": "2025-03-28T21:15:15Z"
-  },
-  {
-    "title": "What is the Smithsonian, and why is President Trump unhappy with it?",
-    "description": "Critics say Trump's order is an attempt to whitewash American history.",
-    "link": "https://www.bostonherald.com/2025/03/28/what-is-the-smithsonian/",
-    "timestamp": "2025-03-28T21:14:52Z"
-  },
-  {
-    "title": "Crooks are reviving the Grandoreiro banking trojan",
-    "description": "Grandoreiro Banking Trojan resurfaces, targeting users in Latin America and Europe in new phishing campaigns. Forcepoint X-Labs researchers warn of new phishing campaigns targeting Latin America and Europe in new phishing campaigns. The Trojan has been active\u2026",
-    "link": "https://securityaffairs.com/175964/malware/crooks-are-reviving-the-grandoreiro-banking-trojan.html",
-    "timestamp": "2025-03-28T21:14:09Z"
-  },
-  {
-    "title": "Ahead of Tesla protests, Musk threatens his company\u2019s critics",
-    "description": "During an interview with Fox News, Elon Musk, vowed to sic the federal government on his critics ahead of a weekend when Tesla protests are scheduled in more than 200 locations.",
-    "link": "https://www.msnbc.com/top-stories/latest/tesla-protests-musk-threats-critics-rcna198628",
-    "timestamp": "2025-03-28T21:13:27Z"
-  },
-  {
-    "title": "Two More Law Firms Targeted by Trump File Lawsuits Against His \u2018Unprecedented and Unconstitutional\u2019 Executive Orders",
-    "description": "On Friday, two more firms joined Perkins Coie on the front lines of this battle against the White House, filing their own lawsuits staunchly defending their First Amendment rights and rights to defend their clients.\nThe post Two More Law Firms Targeted by Tru\u2026",
-    "link": "https://www.mediaite.com/lawcrime/two-more-law-firms-targeted-by-trump-file-lawsuits-against-his-unprecedented-and-unconstitutional-executive-orders/",
-    "timestamp": "2025-03-28T21:11:15Z"
-  },
-  {
-    "title": "Trump administration favours fossil fuels over clean energy with grant cancellations",
-    "description": "President Donald Trump declared an energy emergency early in his term and is working to speed up fossil fuel development, which he sums up as \u201cdrill, baby, drill.\u201d",
-    "link": "https://www.nationalobserver.com/2025/03/28/news/trump-administration-fossil-fuels-clean-energy-cancelling-grants",
-    "timestamp": "2025-03-28T21:10:41Z"
-  },
-  {
-    "title": "Trump Celebrates as Another Law Firm Bends the Knee",
-    "description": "Donald Trump has successfully bullied yet another big law firm into doing his bidding\u2014but this time, Trump didn\u2019t even have to threaten them.\r\nSkadden, Arps, Slate, Meagher & Flom agreed to a slate of major concessions to Trump Friday, after the president tar\u2026",
-    "link": "https://newrepublic.com/post/193349/donald-trump-celebrates-law-firm-bends-knee",
-    "timestamp": "2025-03-28T21:10:18Z"
-  },
-  {
-    "title": "Apology Tour: Democrat Shill Stephen Colbert Grills Chuck Schumer Weeks After His Trump Spending Bill Surrender",
-    "description": "Senator Chuck Schumer (D-NY) has entered week two of his apology tour, after caving and backing the\u00a0Republican spending bill to fund the government until September, telling CBS's left-wing late-night host Stephen Colbert even though he caved once, it won't ha\u2026",
-    "link": "https://www.breitbart.com/entertainment/2025/03/28/apology-tour-democrat-shill-stephen-colbert-grills-chuck-schumer-weeks-after-his-trump-spending-bill-surrender/",
-    "timestamp": "2025-03-28T21:10:03Z"
-  },
-  {
-    "title": "US auto and tech industry push for accelerated self-driving deployment against global competition",
-    "description": "At Nvidia GTC 2025, the discussion surrounding advanced autonomous driving heated up, with US automotive alliances and tech industry groups joining forces to urge President Donald Trump to take action. Their goal: to expedite the deployment of self-driving ca\u2026",
-    "link": "https://www.digitimes.com/news/a20250326PD212/nvidia-gtc-autonomous-driving-automakers-high-end.html",
-    "timestamp": "2025-03-28T21:10:00Z"
-  },
-  {
-    "title": "Trump\u2019s Pick for Wall Street Prosecutor Will Keep Apollo Stock",
-    "description": "President Donald Trump\u2019s pick to police Wall Street\u2019s financial crimes plans to hang onto holdings in Apollo Global Management, American Express and a digital asset platform, according to documents released Friday by the Office of Government Ethics.",
-    "link": "https://www.livemint.com/companies/company-results/trumps-pick-for-wall-street-prosecutor-will-keep-apollo-stock-11743196168585.html",
-    "timestamp": "2025-03-28T21:09:28Z"
-  },
-  {
-    "title": "Trump Lawyer Ridiculed for Citing 'Separation of Powers' for Why Judges Shouldn't Block Executive Orders: 'This Was Taught in Grade School'",
-    "description": "Alina Habba is being ridiculed for criticizing judges blocking executive orders, saying \"separation of powers\" should prevent them from doing so.",
-    "link": "https://www.ibtimes.com/trump-lawyer-ridiculed-citing-separation-powers-why-judges-shouldnt-block-executive-orders-3768061",
-    "timestamp": "2025-03-28T21:08:47Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureauwesh.com",
-    "link": "https://www.wesh.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:08:12Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureauketv.com",
-    "link": "https://www.ketv.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:08:03Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureauwtae.com",
-    "link": "https://www.wtae.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:07:57Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureauwbaltv.com",
-    "link": "https://www.wbaltv.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:07:56Z"
-  },
-  {
-    "title": "City, State Expecting To Lose Half A Billion Dollars For Public Health As Trump Cuts Swell",
-    "description": "Federal funds from the axed pandemic-era grants were being used for lab testing, vaccine clinics and to track and investigate possible outbreaks, city officials said Friday.",
-    "link": "https://blockclubchicago.org/2025/03/28/city-state-expecting-to-lose-half-a-billion-dollars-for-public-health-as-trump-cuts-swell/",
-    "timestamp": "2025-03-28T21:07:53Z"
-  },
-  {
-    "title": "HIV patients now at the mercy of fate after 41,000 health staff fired",
-    "description": "Patients fear stigma and treatment errors from unfamiliar staff after HIV services moved to outpatient units. State urged to form a single coordinating body for country\u2019s HIV response.",
-    "link": "https://www.standardmedia.co.ke/health/health-science/article/2001514981/hiv-patients-now-at-the-mercy-of-fate-after-41000-health-staff-fired",
-    "timestamp": "2025-03-28T21:07:47Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureauwlwt.com",
-    "link": "https://www.wlwt.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:07:32Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureauwcvb.com",
-    "link": "https://www.wcvb.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:07:25Z"
-  },
-  {
-    "title": "Trump Defends Fraudster He Pardoned: \u2018He Supported Trump\u2019",
-    "description": "Donald Trump explained why he pardoned fraudster Trevor Milton on Friday in part by touting that Milton supported his presidency.",
-    "link": "http://www.rollingstone.com/politics/politics-news/trump-explains-trevor-milton-pardon-1235306150/",
-    "timestamp": "2025-03-28T21:07:24Z"
-  },
-  {
-    "title": "'Huge problem': Ex-White House adviser warns Trump strategy will take years to pay off",
-    "description": "President Donald Trump's latest round of tariffs is going to cause immediate harm to the economy for hypothetical benefits that would take years to be realized \u2014 if ever, Democratic strategist Meghan Hays said on a CNN panel Friday afternoon.The tariffs, whic\u2026",
-    "link": "https://www.rawstory.com/trump-strategy/",
-    "timestamp": "2025-03-28T21:07:06Z"
-  },
-  {
-    "title": "Vance Says Denmark Has Let Down the People of Greenland",
-    "description": "Vice President JD Vance said that Denmark \u201chasn\u2019t done a good job at keeping Greenland safe\u201d as he toured a military facility in Greenland on Friday afternoon, as President Donald Trump reiterated his desire for the US to take control of the remote and resour\u2026",
-    "link": "https://biztoc.com/x/96c20c30a3c2b569",
-    "timestamp": "2025-03-28T21:06:57Z"
-  },
-  {
-    "title": "Trump's 25% Auto Tariffs Rattle Wall Street, Fed's Favorite Inflation Gauge Surges, Consumer Price Worries Rocket: This Week In Markets",
-    "description": "Risk sentiment deteriorated sharply in the second half of the week after President Donald Trump announced sweeping tariffs on imported automobiles, compounding concerns about rising inflationary pressures.\nOn Wednesday evening, the White House revealed plans \u2026",
-    "link": "https://biztoc.com/x/4e6013747e928af5",
-    "timestamp": "2025-03-28T21:06:55Z"
-  },
-  {
-    "title": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureau",
-    "description": "A federal judge has agreed to block the Trump administration from dismantling the Consumer Financial Protection Bureaukcra.com",
-    "link": "https://www.kcra.com/article/federal-judge-blocks-trump-dismantling-cfpb/64324446",
-    "timestamp": "2025-03-28T21:06:26Z"
   }
 ]
