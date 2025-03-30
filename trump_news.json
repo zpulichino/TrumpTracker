@@ -1,5 +1,29 @@
 [
   {
+    "title": "My Day Inside America\u2019s Most Hated Car",
+    "description": "The Cybertruck is a 7,000-pound Rorschach test.",
+    "link": "https://www.theatlantic.com/technology/archive/2025/03/cybertruck-washington-dc/682232/",
+    "timestamp": "2025-03-29T14:47:29Z"
+  },
+  {
+    "title": "Myanmar\u2019s Earthquake Death Toll Jumps to More Than 1,600 as Rescue Efforts Continue",
+    "description": "The death toll from a 7.7 magnitude earthquake\u00a0in Myanmar jumped to more than 1,600 on Saturday as more bodies were pulled from the rubble.",
+    "link": "https://time.com/7272793/myanmar-earthquake-death-toll-thailand-missing-persons/",
+    "timestamp": "2025-03-29T14:47:16Z"
+  },
+  {
+    "title": "US tells European companies to comply with Donald Trump's anti-diversity order (Financial Times)",
+    "description": "Financial Times:\nUS tells European companies to comply with Donald Trump's anti-diversity order\u00a0 \u2014\u00a0 Move signals push by American president to widen his ideological campaign abroad\u00a0 \u2014\u00a0 The Trump administration has sent a letter to some large companies in the \u2026",
+    "link": "https://www.memeorandum.com/250329/p22",
+    "timestamp": "2025-03-29T14:45:01Z"
+  },
+  {
+    "title": "Trump presses advisers for tariff escalation ahead of April 2, Washington Post reports",
+    "description": "US President Donald Trump is urging senior advisers to take a more aggressive stance on tariffs as the administration prepares for a major escalation in its global trade war, the Washington Post reported on Saturday (Mar 29), citing four people familiar with \u2026",
+    "link": "https://www.channelnewsasia.com/world/trump-presses-advisers-tariff-escalation-ahead-apr-2-washington-post-reports-5032386",
+    "timestamp": "2025-03-29T14:44:00Z"
+  },
+  {
     "title": "Four in Ukraine killed in drone strike as Russia claims advances on ground",
     "description": "Kyiv and Moscow have stepped up their aerial attacks as US pushes the warring parties to agree on a ceasefire.",
     "link": "https://www.aljazeera.com/news/2025/3/29/four-in-ukraine-killed-in-drone-strike-as-russia-claims-advances-on-ground",
@@ -498,45 +522,15 @@
     "timestamp": "2025-03-29T12:00:26Z"
   },
   {
-    "title": "King Charles Charity Reveals New Frontline of Inequality",
-    "description": "Artificial intelligence has the potential to transform work but some around the world still struggle to access computers, a King's Trust report warns.",
-    "link": "https://www.newsweek.com/king-charles-trust-frontline-inequality-artificial-intelligence-2051324",
-    "timestamp": "2025-03-29T12:00:01Z"
-  },
-  {
     "title": "IRS DeFi Rule Gets Axed\u2014A Major Win For Crypto?",
     "description": "Decentralized finance (DeFi) protocols might no longer report to American tax authorities after the US Senate repealed the IRS \u201cbroker\u201d rule. Many analysts believe that US President Donald Trump will issue a resolution in the upcoming weeks adopting the Senat\u2026",
     "link": "https://bitcoinist.com/irs-defi-rule-gets-axed-what-it-means-for-crypto-investors/",
     "timestamp": "2025-03-29T12:00:01Z"
   },
   {
-    "title": "Greenland: Danish minister pushes back at JD Vance's 'tone'",
-    "description": "JD Vance claimed Denmark had \"under invested\" in the security of Greenland when he visited a US Space Base on the Arctic Island. Denmark's foreign minister hit back, saying he did not appreciate Vance's \"tone.\"",
-    "link": "https://www.dw.com/en/denmark-not-pleased-with-vances-tone/a-72081826",
-    "timestamp": "2025-03-29T11:59:00Z"
-  },
-  {
-    "title": "Trump draws laughs when defining a 'woman' \u2014\u00a0until he touches on a serious issue",
-    "description": "When asked to define a \"woman,\" President Donald Trump started with funny lines before turning to a serious issue, the inclusion of transgender athletes in women's sports, which he called \"crazy.\"",
-    "link": "https://www.foxnews.com/politics/trump-draws-laughs-when-defining-woman-until-he-touches-serious-issue",
-    "timestamp": "2025-03-29T11:56:07Z"
-  },
-  {
-    "title": "Elon Musk sells X for $33 billion in all-stock deal",
-    "description": "Elon Musk sells X for $33 billion in all-stock dealsyracuse.com",
-    "link": "https://www.syracuse.com/business/2025/03/elon-musk-sells-x-for-33-billion-in-all-stock-deal.html",
-    "timestamp": "2025-03-29T11:53:48Z"
-  },
-  {
-    "title": "Is Elon Musk Planning To Quit Trump's DOGE Team? Here's What He Said",
-    "description": "US President Donald Trump&#039;s billionaire ally Elon Musk has signalled that he is planning to step down from his cost-cutting role at the Department of Government Efficiency (DOGE) by the end of May after reducing the US deficit by $1 trillion.",
-    "link": "https://www.ndtv.com/world-news/is-elon-musk-planning-to-step-down-from-donald-trumps-doge-team-heres-what-he-said-8040145",
-    "timestamp": "2025-03-29T11:51:47Z"
-  },
-  {
-    "title": "Global Aid Effort Begins For Myanmar Quake Relief",
-    "description": "A powerful earthquake has killed more than 1,000 people in war-torn Myanmar and neighbouring Thailand and caused widespread damage.",
-    "link": "https://www.ndtv.com/world-news/global-aid-effort-begins-for-myanmar-earthquake-relief-8040142",
-    "timestamp": "2025-03-29T11:50:52Z"
+    "title": "King Charles Charity Reveals New Frontline of Inequality",
+    "description": "Artificial intelligence has the potential to transform work but some around the world still struggle to access computers, a King's Trust report warns.",
+    "link": "https://www.newsweek.com/king-charles-trust-frontline-inequality-artificial-intelligence-2051324",
+    "timestamp": "2025-03-29T12:00:01Z"
   }
 ]
