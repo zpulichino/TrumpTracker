@@ -1,5 +1,71 @@
 [
   {
+    "title": "Trump says he's considering ways to serve a third term as president",
+    "description": "President Donald Trump says he's considering ways to serve a third term",
+    "link": "https://abcnews.go.com/Politics/wireStory/trump-ways-serve-term-president-120319949",
+    "timestamp": "2025-03-31T05:42:17Z"
+  },
+  {
+    "title": "Tourists are cancelling trips to the US \u2013 here\u2019s how this could affect its economy",
+    "description": "There is already some evidence of travel cancellations. Since Trump announced 25% tariffs on many Canadian goods, the number of Canadians driving across the border at some crossings has fallen by up to 45%, on some days, when compared to last year",
+    "link": "https://www.thehindubusinessline.com/news/world/tourists-are-cancelling-trips-to-the-us-heres-how-this-could-affect-its-economy/article69395393.ece",
+    "timestamp": "2025-03-31T05:42:13Z"
+  },
+  {
+    "title": "'Makes me sick': Former NATO chief Willy Claes frets over Trump",
+    "description": "Former NATO Secretary General Willy Claes expresses concern over the anti-European stance of the Trump administration and its outreach to Russia. Claes calls for greater European autonomy in NATO decisions and highlights the need for dialogue on nuclear disar\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/makes-me-sick-former-nato-chief-willy-claes-frets-over-trump/articleshow/119791152.cms",
+    "timestamp": "2025-03-31T05:40:40Z"
+  },
+  {
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "description": "The Indian stock market remained closed on Monday for Eid al-Fitr 2025. On Friday, Sensex and Nifty ended lower due to weakness in auto and IT stocks, amid investor caution over upcoming US tariffs. However, foreign inflows and hopes of domestic growth recove\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/119791098.cms",
+    "timestamp": "2025-03-31T05:40:33Z"
+  },
+  {
+    "title": "Trump and Starmer \u2018agree to keep pressure on Putin\u2019 after US president says he is \u2018p***ed off\u2019 as Ukraine peace talks drag on",
+    "description": "British prime minister Keir Starmer and US President Donald Trump have agreed on the need to \u201ckeep up the collective pressure on Putin\u201d during a phone call, Downing Street said.",
+    "link": "https://www.independent.ie/world-news/europe/trump-and-starmer-agree-to-keep-pressure-on-putin-after-us-president-says-he-is-ped-off-as-ukraine-peace-talks-drag-on/a70010753.html",
+    "timestamp": "2025-03-31T05:40:00Z"
+  },
+  {
+    "title": "Coy Donald Trump \u2018not joking\u2019 about third term: \u2018There are methods\u2019",
+    "description": "US president warns tariffs will be applied to \u2018a lot of countries\u2019 rather than to smaller group",
+    "link": "https://www.irishtimes.com/world/us/2025/03/31/coy-donald-trump-not-joking-about-third-term-there-are-methods/",
+    "timestamp": "2025-03-31T05:39:09Z"
+  },
+  {
+    "title": "Trump says he hopes \u2018terrorists\u2019 who damaged Scottish golf course are \u2018treated harshly\u2019",
+    "description": "Donald Trump has said anyone involved with causing damage to a Scottish golf course is a \u201cterrorist\u201d, adding he hopes they are \u201ctreated harshly\u201d.",
+    "link": "https://www.independent.ie/world-news/britain/trump-says-he-hopes-terrorists-who-damaged-scottish-golf-course-are-treated-harshly/a1011438170.html",
+    "timestamp": "2025-03-31T05:37:32Z"
+  },
+  {
+    "title": "Historic decline in US-German bond yield spread signals investment shift to Europe",
+    "description": "As Germany moves towards increased government spending, U.S. economic indicators show signs of slowdown, prompting a drop in Treasury yields.",
+    "link": "https://www.thehindubusinessline.com/money-and-banking/historic-decline-in-us-german-bond-yield-spread-signals-investment-shift-to-europe/article69395377.ece",
+    "timestamp": "2025-03-31T05:36:17Z"
+  },
+  {
+    "title": "Oil markets wait to see if Trump's Russian oil tariff threat is a bluff",
+    "description": "Trump threatens tariffs on buyers of Russian oil, but analysts doubt seriousness; oil markets remain unfazed.",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/oil-markets-wait-to-see-if-trumps-russian-oil-tariff-threat-is-a-bluff/article69395363.ece",
+    "timestamp": "2025-03-31T05:35:53Z"
+  },
+  {
+    "title": "Asian shares are sharply lower, Tokyo tumbles 4%, after Wall Street retreat",
+    "description": "Asian shares are sharply lower, with Tokyo's benchmark falling more than 4%, after another wipeout slammed Wall Street",
+    "link": "https://abcnews.go.com/Business/wireStory/asian-shares-sharply-lower-tokyo-tumbles-4-after-120322609",
+    "timestamp": "2025-03-31T05:34:29Z"
+  },
+  {
+    "title": "$XRP, $ADA Lead Crypto Market Plunge Amid News Of Trump's New Global Tariffs",
+    "description": "$XRP and $ADA led the weekend's crypto market bloodbath as financial markets reeled from news that Donald Trump will announce new reciprocal tariffs on \"all countries\" this week.",
+    "link": "https://www.ibtimes.com/xrp-ada-lead-crypto-market-plunge-amid-news-trumps-new-global-tariffs-3768253",
+    "timestamp": "2025-03-31T05:32:26Z"
+  },
+  {
     "title": "If FEMA Didn\u2019t Exist, Could State\u2019s Handle Disaster Response?",
     "description": "Imagine a world in which a hurricane devastates the Gulf Coast, and the U.S. has no federal agency prepared to quickly send supplies, financial aid and temporary housing assistance. Could the states manage this catastrophic event on their own? Normally, the F\u2026",
     "link": "https://www.counterpunch.org/2025/03/31/if-fema-didnt-exist-could-states-handle-disaster-response/",
@@ -496,71 +562,5 @@
     "description": "\u201cPresident Donald Trump said he has agreed to meet with perennial critic Bill Maher as a favor to their shared friend, Kid Rock,\u201d The Wrap reports. Said Trump: \u201cI got a call from a very",
     "link": "https://politicalwire.com/2025/03/30/trump-says-hes-agreed-to-meet-with-bill-maher/",
     "timestamp": "2025-03-31T03:14:02Z"
-  },
-  {
-    "title": "Thousands March In Dallas To Protest Trump's Immigration Policies",
-    "description": "A massive crowd marched through downtown Dallas today, protesting President Donald Trump&#039;s immigration policies and demanding the release of students who have been detained by immigration officials across the country, as reported by CNN.",
-    "link": "https://www.ndtv.com/world-news/thousands-march-in-dallas-to-protest-trumps-immigration-policies-8050844",
-    "timestamp": "2025-03-31T03:13:58Z"
-  },
-  {
-    "title": "Trump Tells His Plans For TikTok's Future In US As April 5 Deadline Looms",
-    "description": "The future of TikTok in the United States seems secure, as US President Donald Trump said a deal with the short video app&#039;s Chinese parent ByteDance to sell it would be struck before a deadline on Saturday.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-tells-his-plans-for-tiktoks-future-in-us-as-april-5-deadline-looms-8050841",
-    "timestamp": "2025-03-31T03:13:21Z"
-  },
-  {
-    "title": "Trump: Zelensky trying to back out of minerals deal",
-    "description": "United States President Donald Trump told reporters aboard Air Force One that Ukrainian President Volodymyr Zelensky is attempting to back out of a crucial minerals deal.\n\"He's trying to bac...",
-    "link": "https://biztoc.com/x/43f15cb3cc4079cd",
-    "timestamp": "2025-03-31T03:10:21Z"
-  },
-  {
-    "title": "You Won\u2019t Believe What Insanity HHS Was Funding",
-    "description": "Do you want your taxpayer dollars funding studies on preventing pregnancy in \u201ctransgender boys\u201d or HIV stigma in Thailand? Fortunately, Trump\u2019s Health and Human Services secretary also considers that a waste, so he\u2019s cutting numerous idiotic woke studies. The\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4307832/posts",
-    "timestamp": "2025-03-31T03:10:15Z"
-  },
-  {
-    "title": "You Won\u2019t Believe What Insanity HHS Was Funding",
-    "description": "Do you want your taxpayer dollars funding studies on preventing pregnancy in \u201ctransgender boys\u201d or HIV stigma in Thailand? Fortunately, Trump\u2019s Health and Human Services secretary also considers that a waste, so he\u2019s cutting numerous idiotic woke studies. The\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4307832/posts",
-    "timestamp": "2025-03-31T03:10:15Z"
-  },
-  {
-    "title": "Elon Musk Hands Out $1 Million Payments After Wisconsin Supreme Court Declines Request To Stop Him",
-    "description": "Elon Musk has given out $1 million checks to two Wisconsin voters, declaring them spokespeople for his political group.",
-    "link": "https://www.huffpost.com/entry/wisconsin-supreme-court-elon-musk-handout_n_67ea06a7e4b0893d7b5b1e4d",
-    "timestamp": "2025-03-31T03:07:41Z"
-  },
-  {
-    "title": "Team Trump To Honour Bangladesh Women Student Protesters For Bravery",
-    "description": "Women student leaders, who were &quot;key drivers&quot; in the protest against the Sheikh Hasina government in Bangladesh last year, are among the women from around the world who will be awarded by the Donald Trump administration.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-administration-to-honour-bangladesh-women-student-protesters-for-bravery-8050356",
-    "timestamp": "2025-03-31T03:03:33Z"
-  },
-  {
-    "title": "Goldman Sachs raises its recession odds as Trump sounds more hawkish on tariffs",
-    "description": "President Donald Trump has sounded more hawkish on trade in recent days after previously downplaying his plans for new tariffs set to be announced this week, according to a new report. It comes as Goldman Sachs (GS) economists have increased their forecasted \u2026",
-    "link": "https://qz.com/goldman-sachs-recession-odds-forecast-trump-tariffs-1851773363",
-    "timestamp": "2025-03-31T03:02:00Z"
-  },
-  {
-    "title": "New tariffs this week will hit all countries, Trump says",
-    "description": "The comments come as the US president is set  to unveil a massive slate of import taxes on Wednesday.",
-    "link": "https://www.bbc.com/news/articles/czjny8kee1zo",
-    "timestamp": "2025-03-31T03:01:56Z"
-  },
-  {
-    "title": "Asian stocks slide as US tariff date nears",
-    "description": "Asian stock markets started the week lower on Monday as investors reacted to concerns over tariffs from United States Donald Trump, which are set to take effect on April 2.\nThe lower start to the wee...",
-    "link": "https://biztoc.com/x/a657bacbe5dcac55",
-    "timestamp": "2025-03-31T02:59:13Z"
-  },
-  {
-    "title": "Gold surges past $3,100 as US tariffs, uncertainty propel safe-haven flows",
-    "description": "<p>Gold prices on Monday soared above US$3,100 per ounce for the first time as concerns around US President Donald Trump's tariffs and the potential economic fallout, combined with geopolitical worries, drove a fresh wave of investments into the safe-haven as\u2026",
-    "link": "https://www.bangkokpost.com/world/2991717/gold-surges-past-3-100-as-us-tariffs-uncertainty-propel-safe-haven-flows",
-    "timestamp": "2025-03-31T02:58:00Z"
   }
 ]
