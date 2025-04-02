@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hiding WordPress malware in the mu-plugins directory to avoid detection",
+    "description": "Sucuri researchers spotted threat actors deploying WordPress malware in the mu-plugins directory to evade security checks. In February, Sucuri warned of threat actors exploiting WordPress mu-plugins, which auto-load without activation, to maintain persistence\u2026",
+    "link": "https://securityaffairs.com/176083/malware/wordpress-malware-in-the-mu-plugins-directory.html",
+    "timestamp": "2025-04-01T07:45:44Z"
+  },
+  {
+    "title": "Without Radio Free Asia, Who Will Expose China\u2019s Atrocities?",
+    "description": "Shutting down the U.S.-funded broadcaster will silence voices that are already suppressed by Asia's authoritarian regimes.",
+    "link": "https://thediplomat.com/2025/04/without-radio-free-asia-who-will-expose-chinas-atrocities/",
+    "timestamp": "2025-04-01T07:44:27Z"
+  },
+  {
     "title": "LCD TV panel rally fizzles under Trump tariffs, China trade-in policy fatigue",
     "description": "LCD TV panel prices are losing steam following a brief rally that began in late 2024, initially fueled by front-loaded orders. Rising inflation concerns and renewed tariff threats from US President Donald Trump are dampening global trade confidence, prompting\u2026",
     "link": "https://www.digitimes.com/news/a20250401PD222/lcd-tv-panel-demand-policy-china-tariff.html",
@@ -216,6 +228,12 @@
     "timestamp": "2025-04-01T07:00:00Z"
   },
   {
+    "title": "Survey: Trump Policies Push 75% of Scientists to Consider Leaving U.S.",
+    "description": "Three-quarters of American researchers who responded to a recent Nature survey said they\u2019re considering jobs abroad\u2014mostly in Canada and Europe\u2014in light of President Donald Trump\u2019s sweeping changes to federal science policy. Since retaking the White House in \u2026",
+    "link": "https://www.insidehighered.com/news/quick-takes/2025/04/01/poll-75-scientists-consider-leaving-us",
+    "timestamp": "2025-04-01T07:00:00Z"
+  },
+  {
     "title": "Can Europe fight back against Trump\u2019s tariffs?",
     "description": "Inside Politics podcast with Hugh Linehan",
     "link": "https://www.irishtimes.com/podcasts/inside-politics/can-europe-fight-back-against-trumps-tariffs/",
@@ -225,12 +243,6 @@
     "title": "Watchmakers Band Together, Focus on Value, Innovation, Craftsmanship in Volatile\u00a0Times",
     "description": "\u201cBeing together makes us stronger,\u201d said Matthieu Humair, the organizer of Watches and Wonders, which is unfurling against a backdrop of lackluster luxury sales and social, political and economic uncertainty worldwide.",
     "link": "http://wwd.com/business-news/business-features/watchmakers-unite-focus-value-innovation-volatile-times-1237058050/",
-    "timestamp": "2025-04-01T07:00:00Z"
-  },
-  {
-    "title": "Survey: Trump Policies Push 75% of Scientists to Consider Leaving U.S.",
-    "description": "Three-quarters of American researchers who responded to a recent Nature survey said they\u2019re considering jobs abroad\u2014mostly in Canada and Europe\u2014in light of President Donald Trump\u2019s sweeping changes to federal science policy. Since retaking the White House in \u2026",
-    "link": "https://www.insidehighered.com/news/quick-takes/2025/04/01/poll-75-scientists-consider-leaving-us",
     "timestamp": "2025-04-01T07:00:00Z"
   },
   {
@@ -432,15 +444,15 @@
     "timestamp": "2025-04-01T06:04:50Z"
   },
   {
-    "title": "World Health Organization in crisis, prepares for DOWNSIZING after U.S. withdrawal and funding problems",
-    "description": "The World Health Organization faces severe financial strain after the U.S. (its largest donor) withdrew, forcing a 21 percent budget reduction ($5.3 billion to $4.2 billion) and workforce layoffs, including senior roles in Geneva. U.S. President Donald Trump \u2026",
-    "link": "https://www.naturalnews.com/2025-04-01-world-health-organization-in-crisis-prepares-downsizing.html",
-    "timestamp": "2025-04-01T06:00:00Z"
-  },
-  {
     "title": "Pentagon memo suggests U.S. will not defend Europe from Russian aggression, prioritizing China and homeland security",
     "description": "A leaked Pentagon memo reveals a strategic shift, with the U.S. focusing on deterring China in the Indo-Pacific and homeland security, reducing military commitments to Europe in case of Russian aggression. While maintaining nuclear deterrence against Russia, \u2026",
     "link": "https://www.naturalnews.com/2025-04-01-us-will-not-defend-europe-from-russian-aggression.html",
+    "timestamp": "2025-04-01T06:00:00Z"
+  },
+  {
+    "title": "World Health Organization in crisis, prepares for DOWNSIZING after U.S. withdrawal and funding problems",
+    "description": "The World Health Organization faces severe financial strain after the U.S. (its largest donor) withdrew, forcing a 21 percent budget reduction ($5.3 billion to $4.2 billion) and workforce layoffs, including senior roles in Geneva. U.S. President Donald Trump \u2026",
+    "link": "https://www.naturalnews.com/2025-04-01-world-health-organization-in-crisis-prepares-downsizing.html",
     "timestamp": "2025-04-01T06:00:00Z"
   },
   {
@@ -450,15 +462,9 @@
     "timestamp": "2025-04-01T06:00:00Z"
   },
   {
-    "title": "Trump takes on ticket scalpers with new executive order targeting bots and price gouging",
-    "description": "President Trump signed an executive order targeting ticket scalping and bots to protect consumers from inflated prices. The order enforces the BOTS Act, mandates price transparency, and requires IRS compliance for resellers. Agencies must submit recommendatio\u2026",
-    "link": "https://www.naturalnews.com/2025-04-01-trump-ticket-scalpers-executive-order-bots.html",
-    "timestamp": "2025-04-01T06:00:00Z"
-  },
-  {
-    "title": "Blackweek April Fools Stunt Puts a Spotlight on DEI Rollbacks",
-    "description": "Ad industry observers may have noticed yesterday that Blackweek, the industry conference dedicated to unlocking the spending power, influence, and potential of Black consumers, changed its name to \u201cBlankweek\u201d in [\u2026]",
-    "link": "https://www.adweek.com/brand-marketing/blackweek-april-fools-stunt-puts-a-spotlight-on-dei-rollbacks/",
+    "title": "Trump administration executes mass firings at U.S. Institute of Peace, citing wasteful spending",
+    "description": "DOGE terminated between 200 and 300 employees at USIP, nearly its entire headquarters staff, as part of the Trump administration\u2019s effort to dismantle the organization. The administration argues USIP has failed its mission of promoting global peace and wastes\u2026",
+    "link": "https://www.naturalnews.com/2025-04-01-trump-administration-executes-mass-firings-at-usip.html",
     "timestamp": "2025-04-01T06:00:00Z"
   },
   {
@@ -468,15 +474,21 @@
     "timestamp": "2025-04-01T06:00:00Z"
   },
   {
-    "title": "Iranian MP urges nuclear weapons development, citing North Korea as model",
-    "description": "An Iranian lawmaker is publicly advocating for nuclear weapons, citing North Korea, as a deterrent against U.S. threats. Supreme Leader Khamenei vows retaliation if the U.S. attacks, escalating tensions. Iran rejects direct talks with the U.S. while expanding\u2026",
-    "link": "https://www.naturalnews.com/2025-04-01-iranian-mp-urges-nuclear-weapons-development.html",
+    "title": "Blackweek April Fools Stunt Puts a Spotlight on DEI Rollbacks",
+    "description": "Ad industry observers may have noticed yesterday that Blackweek, the industry conference dedicated to unlocking the spending power, influence, and potential of Black consumers, changed its name to \u201cBlankweek\u201d in [\u2026]",
+    "link": "https://www.adweek.com/brand-marketing/blackweek-april-fools-stunt-puts-a-spotlight-on-dei-rollbacks/",
     "timestamp": "2025-04-01T06:00:00Z"
   },
   {
-    "title": "Trump administration executes mass firings at U.S. Institute of Peace, citing wasteful spending",
-    "description": "DOGE terminated between 200 and 300 employees at USIP, nearly its entire headquarters staff, as part of the Trump administration\u2019s effort to dismantle the organization. The administration argues USIP has failed its mission of promoting global peace and wastes\u2026",
-    "link": "https://www.naturalnews.com/2025-04-01-trump-administration-executes-mass-firings-at-usip.html",
+    "title": "Trump takes on ticket scalpers with new executive order targeting bots and price gouging",
+    "description": "President Trump signed an executive order targeting ticket scalping and bots to protect consumers from inflated prices. The order enforces the BOTS Act, mandates price transparency, and requires IRS compliance for resellers. Agencies must submit recommendatio\u2026",
+    "link": "https://www.naturalnews.com/2025-04-01-trump-ticket-scalpers-executive-order-bots.html",
+    "timestamp": "2025-04-01T06:00:00Z"
+  },
+  {
+    "title": "Iranian MP urges nuclear weapons development, citing North Korea as model",
+    "description": "An Iranian lawmaker is publicly advocating for nuclear weapons, citing North Korea, as a deterrent against U.S. threats. Supreme Leader Khamenei vows retaliation if the U.S. attacks, escalating tensions. Iran rejects direct talks with the U.S. while expanding\u2026",
+    "link": "https://www.naturalnews.com/2025-04-01-iranian-mp-urges-nuclear-weapons-development.html",
     "timestamp": "2025-04-01T06:00:00Z"
   },
   {
@@ -510,15 +522,15 @@
     "timestamp": "2025-04-01T05:49:29Z"
   },
   {
-    "title": "Trump says will be \u2018kind\u2019 with tariffs as deadline looms",
-    "description": "US President Donald Trump said Monday he would be \u201cvery kind\u201d to trading partners when he unveils further tariffs this week, risking global turmoil to address what he says are unfair trade imbalances. Trump \u2014 who has been making unprecedented use of president\u2026",
-    "link": "https://www.digitaljournal.com/world/trump-says-will-be-kind-with-tariffs-as-deadline-looms/article",
-    "timestamp": "2025-04-01T05:47:34Z"
-  },
-  {
     "title": "Carmakers face doubts and jolts over US tariffs",
     "description": "Raise prices or cut into their margins, open or close factories: carmakers must soon make major decisions as the United States imposes stiff tariffs on imported vehicles. The 25-percent tariffs that the administration of President Donald Trump is imposing as \u2026",
     "link": "https://www.digitaljournal.com/world/carmakers-face-doubts-and-jolts-over-us-tariffs/article",
+    "timestamp": "2025-04-01T05:47:34Z"
+  },
+  {
+    "title": "Trump says will be \u2018kind\u2019 with tariffs as deadline looms",
+    "description": "US President Donald Trump said Monday he would be \u201cvery kind\u201d to trading partners when he unveils further tariffs this week, risking global turmoil to address what he says are unfair trade imbalances. Trump \u2014 who has been making unprecedented use of president\u2026",
+    "link": "https://www.digitaljournal.com/world/trump-says-will-be-kind-with-tariffs-as-deadline-looms/article",
     "timestamp": "2025-04-01T05:47:34Z"
   },
   {
@@ -550,17 +562,5 @@
     "description": "Burgess Everett / Semafor:\nBooker bids for a marathon anti-Trump speech\u00a0 \u2014\u00a0 Sen. Cory Booker began a marathon speech on the Senate floor on Monday evening, vowing to speak as long as he's \u201cphysically able\u201d to protest President Donald Trump's agenda.\u00a0 \u2014\u00a0 \u201cIn j\u2026",
     "link": "https://www.memeorandum.com/250401/p1",
     "timestamp": "2025-04-01T05:40:01Z"
-  },
-  {
-    "title": "Japan\u2019s Ishiba says he will push for US auto tariffs exemption",
-    "description": "TOKYO (AP) \u2014 Japan\u2019s Prime Minister Shigeru Ishiba said Tuesday his government is making last ditch efforts to get U.S. President Donald Trump to exclude his country from an increase in auto tariffs due to take effect from Wednesday. Ishiba told reporters he \u2026",
-    "link": "https://financialpost.com/pmn/japans-ishiba-says-he-will-push-for-us-auto-tariffs-exemption",
-    "timestamp": "2025-04-01T05:36:40Z"
-  },
-  {
-    "title": "The oil markets are worried about the latest round of Trump's tariff threats",
-    "description": "Oil prices jumped after the US President Donald Trump threatened so-called secondary tariffs on Russia and Iran.",
-    "link": "https://markets.businessinsider.com/news/commodities/crude-oil-price-markets-donald-trump-secondary-tariffs-russia-iran-2025-4",
-    "timestamp": "2025-04-01T05:35:42Z"
   }
 ]
