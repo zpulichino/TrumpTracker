@@ -1,5 +1,83 @@
 [
   {
+    "title": "Investors are stunned after the stock market closed its worst quarter in 3 year",
+    "description": "Investors have come to a grim realization: President Donalf Trump's not in their corner.",
+    "link": "https://www.businessinsider.com/investors-have-pain-ahead-2025-4",
+    "timestamp": "2025-04-01T11:42:13Z"
+  },
+  {
+    "title": "Russia: No US signal to Kiev about ending war",
+    "description": "Russian Deputy Foreign Minister Sergey Ryabkov stated Tuesday that Moscow saw no signal from the United States about ending the Ukraine war. \"We have not heard from [US President Donald] Trump a signa...",
+    "link": "https://biztoc.com/x/2ab49d9960d9892b",
+    "timestamp": "2025-04-01T11:40:21Z"
+  },
+  {
+    "title": "Trump's auto tariffs will lead to autoworker pain, 2 Michigan business groups say",
+    "description": "Increased costs would cause \"significant disruption throughout the supply chain,\" according to the Detroit Regional Chamber and MichAuto, an automotive and mobility association.",
+    "link": "https://www.cbc.ca/news/canada/windsor/trump-tariff-autoworker-pain-michigan-1.7498729",
+    "timestamp": "2025-04-01T11:40:06Z"
+  },
+  {
+    "title": "Randy Fine's Chances of Losing Florida Special Election, According to Polls",
+    "description": "The Republican candidate is running for the seat that National Security Adviser Michael Waltz won by 33 points in November.",
+    "link": "https://www.newsweek.com/randy-fine-chances-losing-special-election-florida-6th-polls-2053474",
+    "timestamp": "2025-04-01T11:38:25Z"
+  },
+  {
+    "title": "Finland plans to withdraw from landmines treaty, prime minister says",
+    "description": "HELSINKI (Reuters) - NATO member Finland plans to withdraw from the Ottawa convention banning anti-personnel landmines and will also boost its overall defence spending in the coming years, Prime Minister Petteri Orpo said on Tuesday. Read full story",
+    "link": "https://www.thestar.com.my/news/world/2025/04/01/finland-plans-to-withdraw-from-landmines-treaty-prime-minister-says",
+    "timestamp": "2025-04-01T11:38:00Z"
+  },
+  {
+    "title": "Tesla, Nvidia, CoreWeave, Calvin Klein's parent PVH, XPeng: Stocks to watch",
+    "description": "Stock futures fell premarket on Tuesday ahead of President Donald Trump\u2019s tariff announcement on Wednesday. Measures tied to the S&P 500, Nasdaq 100 and and the Dow Jones industrial average all signaled a slightly lower open as of 7:37 a.m.Read more...",
+    "link": "https://qz.com/stock-watch-tesla-nvidia-coreweave-pvh-xpeng-1851773683",
+    "timestamp": "2025-04-01T11:38:00Z"
+  },
+  {
+    "title": "Russia condemns 'ultimatums' after Trump threatens to bomb Iran",
+    "description": "MOSCOW (Reuters) -Russia has warned that strikes against Iran's nuclear infrastructure would have \"catastrophic\" consequences, after U.S. President Donald Trump threatened to bomb Iran unless it came to an agreement with Washington over its nuclear program. R\u2026",
+    "link": "https://www.thestar.com.my/news/world/2025/04/01/russia-condemns-039ultimatums039-after-trump-threatens-to-bomb-iran",
+    "timestamp": "2025-04-01T11:38:00Z"
+  },
+  {
+    "title": "Black Mirror, Amber Ruffin/WHCD, Kid Rock & More: BCTV Daily Dispatch",
+    "description": "Welcome back, folks! With My Chemical Romance kicking things off with \"Sing\" (BCTV DD's unofficial \"official\" theme) \u2013 welcome back to the BCTV\u00a0Daily Dispatch! Here's where we look back at what we've been doing for the past 24 hours that you might've missed o\u2026",
+    "link": "https://bleedingcool.com/tv/black-mirror-amber-ruffin-whcd-kid-rock-more-bctv-daily-dispatch/",
+    "timestamp": "2025-04-01T11:37:07Z"
+  },
+  {
+    "title": "Trump\u2019s tariffs: what do they mean for Ireland?",
+    "description": "What will the US president announce  and how will the State and EU respond?",
+    "link": "https://www.irishtimes.com/business/2025/04/01/trumps-tariffs-what-do-they-mean-for-ireland/",
+    "timestamp": "2025-04-01T11:36:56Z"
+  },
+  {
+    "title": "Trump\u2019s nominee to be the next Joint Chiefs chairman will face senators\u2019 questions",
+    "description": "Caine's nomination is likely to raise questions from some Democrats whether he will remain independent of Trump.",
+    "link": "https://www.bostonherald.com/2025/04/01/trump-joint-chiefs-nomination-hearing/",
+    "timestamp": "2025-04-01T11:36:21Z"
+  },
+  {
+    "title": "PwC suggests IDEA framework for Indian companies to navigate US tariff uncertainties",
+    "description": "PwC introduces the IDEA Framework for Indian businesses to handle US reciprocal tariffs. This involves investing in technology, diversifying export markets, expressing concerns to the government, and staying aware of changing trade policies. The framework aim\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pwc-suggests-idea-framework-for-indian-companies-to-navigate-us-tariff-uncertainties/articleshow/119865237.cms",
+    "timestamp": "2025-04-01T11:36:11Z"
+  },
+  {
+    "title": "GOP eyes its House majority in special elections in Florida to replace Waltz, Gaetz",
+    "description": "A pair of special elections for the U.S. House in Florida on Tuesday to fill the vacancies left by former Republican Reps. Mike Waltz and Matt Gaetz has heated up.",
+    "link": "https://abcnews.go.com/Politics/gop-eyes-house-majority-special-elections-florida-replace/story?id=120331257",
+    "timestamp": "2025-04-01T11:35:54Z"
+  },
+  {
+    "title": "Canada a 51st state? Here\u2019s how American annexation could actually favour Canada",
+    "description": "The notion of a friendly U.S.\u2013Canada merger invites reflection since both countries are economically interlocked and geographically co-located, though culturally distinct.",
+    "link": "https://theconversation.com/canada-a-51st-state-heres-how-american-annexation-could-actually-favour-canada-251547",
+    "timestamp": "2025-04-01T11:35:39Z"
+  },
+  {
     "title": "Trump\u2019s Pharma Threats Take Tariffs Into Uncharted Territory",
     "description": "For more than three decades, the pharmaceutical sector has been protected from tariffs by a World Trade Organization agreement designed to improve access to life-saving drugs.",
     "link": "https://financialpost.com/pmn/business-pmn/trumps-pharma-threats-take-tariffs-into-uncharted-territory",
@@ -466,89 +544,5 @@
     "description": "As the United States prepares to welcome the world for FIFA\u2019s Club World Cup this June, golf\u2019s Ryder Cup in September, the World Cup next year and the Los Angeles Olympics in 2028, the question becomes: Will the world want to come",
     "link": "https://abcnews.go.com/Politics/wireStory/trumps-tariff-wars-canada-mexico-affect-2026-world-120363380",
     "timestamp": "2025-04-01T10:55:09Z"
-  },
-  {
-    "title": "Crypto ETP outflows, explained \u2014 What investors need to know",
-    "description": "What are crypto ETP outflows? \r\nCrypto ETPs give exposure to digital assets via traditional financial instruments. When more money exits these products rather than entering them, it is known as an \u201coutflow\u201d rather than an \u201cinflow\u201d \u2014 i.e., more people are sell\u2026",
-    "link": "https://cointelegraph.com/explained/crypto-etp-outflows-explained-what-investors-need-to-know",
-    "timestamp": "2025-04-01T10:55:00Z"
-  },
-  {
-    "title": "US criticises excessive, non-existent, DMA fines ahead of tariffs",
-    "description": "Donald Trump is expected to announce tariffs tomorrow, 2 April, at 21:00 CET.",
-    "link": "https://www.euractiv.com/section/tech/news/us-criticises-excessive-non-existent-dma-fines-ahead-of-tariffs/",
-    "timestamp": "2025-04-01T10:54:10Z"
-  },
-  {
-    "title": "As Future of Panama Canal Hangs in Balance, Mexico Quietly Begins Testing Its Interoceanic Rail Corridor",
-    "description": "South Korean car manufacturer Hyundai just became the first company to use the rail corridor, which is being touted as a possible plan B to the embattled canal.\u00a0\u00a0 Just a few weeks ago, the Trump Administration was celebrating what seemed to be an early strate\u2026",
-    "link": "https://www.nakedcapitalism.com/2025/04/as-future-of-panama-canal-hangs-in-balance-mexico-quietly-inaugurates-its-interoceanic-rail-corridor.html",
-    "timestamp": "2025-04-01T10:53:15Z"
-  },
-  {
-    "title": "Howard Lutnick May Be the Fall Guy If Tariffs Go Wrong",
-    "description": "\u201cPresident Donald Trump is struggling to message a scattered economic agenda, but his Commerce secretary, Howard Lutnick, is taking the blame,\u201d Politico reports. \u201cWhite House and administration officials, as well as Trump\u2019s outside allies, are",
-    "link": "https://politicalwire.com/2025/04/01/howard-lutnick-may-be-the-fall-guy-if-tariffs-go-wrong/",
-    "timestamp": "2025-04-01T10:53:09Z"
-  },
-  {
-    "title": "Tariffs can be reversed, but it might be too late to avoid a recession",
-    "description": "The U.S. economy is heading towards a potential recession due to contractionary policies: reduced federal government size, broad tariffs, and deportations. These policies risk job losses, business shutdowns, and low wage growth. The situation is compounded by\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/tariffs-can-be-reversed-but-it-might-be-too-late-to-avoid-a-recession/articleshow/119862084.cms",
-    "timestamp": "2025-04-01T10:52:58Z"
-  },
-  {
-    "title": "Trump-linked crypto ventures may complicate US stablecoin policy",
-    "description": "A US dollar-pegged stablecoin launched by a cryptocurrency platform tied to US President Donald Trump\u2019s family could complicate ongoing bipartisan efforts to pass stablecoin legislation in Congress, raising concerns about potential conflicts of interest.The T\u2026",
-    "link": "https://cointelegraph.com/news/trump-crypto-ventures-complicate-us-stablecoin-policy",
-    "timestamp": "2025-04-01T10:52:38Z"
-  },
-  {
-    "title": "Ukrainian drone strikes passenger bus \u2013 Donbass officials",
-    "description": "A Ukrainian kamikaze drone targeted a passenger bus in the city of Gorlovka, according to Russian officials Read Full Article at RT.com",
-    "link": "https://www.rt.com/russia/615082-gorlovka-drone-strike-bus/",
-    "timestamp": "2025-04-01T10:50:23Z"
-  },
-  {
-    "title": "Options Pros Are Missing a Key Risk from Trump Tariff Escalation",
-    "description": "Options traders are underpricing risks in materials stocks, allowing bearish investors to cheaply protect against losses wrought by President Donald Trump\u2019s tariff agenda, according to a Barclays Plc strategist.",
-    "link": "https://financialpost.com/pmn/business-pmn/options-pros-are-missing-a-key-risk-from-trump-tariff-escalation",
-    "timestamp": "2025-04-01T10:49:07Z"
-  },
-  {
-    "title": "Pardon His French? Quebec's Crush on Carney",
-    "description": "With 78 of the 343 seats in the House of Commons, Quebec isn\u2019t just a battleground\u2026it could decide the entire election. And this time, the usual Bloc-Liberal-NDP tug-of-war is taking some unexpected turns. We hit the streets of Montreal to find out what is on\u2026",
-    "link": "https://shows.acast.com/canadaland/episodes/67eb3ce77828ca699c7f4431",
-    "timestamp": "2025-04-01T10:45:00Z"
-  },
-  {
-    "title": "The U.S. Has a Long History of Tariffs. Here\u2019s How Trump\u2019s Compare",
-    "description": "Since its founding, the U.S. has pursued protectionism to boost economic growth. But history shows that sometimes this approach backfires.",
-    "link": "https://time.com/7268866/history-of-tariffs-trump/",
-    "timestamp": "2025-04-01T10:45:00Z"
-  },
-  {
-    "title": "Oil extends climb on supply fears; trade war concerns cap gains",
-    "description": "Oil prices inched higher on Tuesday after threats by U.S. President Donald Trump to impose secondary tariffs on Russian crude and attack Iran, though worries about the impact of a trade war on global growth capped gains.\nBrent futures rose 21 cents, or 0.3 pe\u2026",
-    "link": "https://biztoc.com/x/b75c90a453c7f5d3",
-    "timestamp": "2025-04-01T10:44:50Z"
-  },
-  {
-    "title": "EU \u2018holds a lot of cards\u2019 in tariff dispute, von der Leyen says",
-    "description": "Transatlantic trade war will create \u2018bureaucratic monster\u2019 of new custom checks, European Commission head warns",
-    "link": "https://www.irishtimes.com/business/economy/2025/04/01/eu-holds-a-lot-of-cards-in-tariff-dispute-von-der-leyen-says/",
-    "timestamp": "2025-04-01T10:44:45Z"
-  },
-  {
-    "title": "The most aggressive tariff move yet by the most tariff-obsessed president | CNN Business",
-    "description": "President Donald Trump has kept his promise on tariffs \u2014 so much so that it\u2019s freaking out investors, economists, CEOs and a growing segment of the population who fear the import taxes will do more harm than good.",
-    "link": "https://www.cnn.com/2025/04/01/business/trump-tariff-liberation-day/index.html",
-    "timestamp": "2025-04-01T10:43:23Z"
-  },
-  {
-    "title": "BlackRock CEO: Bitcoin Might Dethrone US Dollar as Global Reserve Currency",
-    "description": "BlackRock's Outlook 2025 called Bitcoin \"a tactical hedge against specific risks, like gold.\" Larry Fink, the CEO of the world's largest asset manager, who had once labeled Bitcoin as an \"index of money laundering,\" experienced a notable change of heart last \u2026",
-    "link": "https://sputnikglobe.com/20250401/blackrock-ceo-bitcoin-might-dethrone-us-dollar-as-global-reserve-currency--1121724448.html",
-    "timestamp": "2025-04-01T10:42:18Z"
   }
 ]
