@@ -1,5 +1,455 @@
 [
   {
+    "title": "Delta To Trim Capacity In Light Of Weakening Travel Demand",
+    "description": "Delta Air Lines withdrew its full-year profit forecast Wednesday and shelved some planned capacity hikes, pointing to a weakening demand outlook amid recession worries and whipsawing trade wars.",
+    "link": "https://www.ibtimes.com/delta-trim-capacity-light-weakening-travel-demand-3769448",
+    "timestamp": "2025-04-09T18:21:09Z"
+  },
+  {
+    "title": "National Social Security Fund of Morocco Suffers Data Breach",
+    "description": "Threat actor \u2018Jabaroot\u2019 claims breach of National Social Security Fund of Morocco, aiming to steal large volumes of sensitive citizen data. Resecurity has identified a threat actor targeting government systems in Morocco with the goal of exfiltrating large vo\u2026",
+    "link": "https://securityaffairs.com/176388/security/national-social-security-fund-of-morocco-suffers-data-breach.html",
+    "timestamp": "2025-04-09T18:21:09Z"
+  },
+  {
+    "title": "Republican mega donor Michael Minogue spoke with MassGOP about running for governor",
+    "description": "South Hamilton\u2019s Michael Minogue spoke with MassGOP Chair Amy Carnevale about running for governor of Massachusetts, another sign that the local Republican mega donor is weighing a campaign in 2026, according to multiple sources with knowledge of the discussi\u2026",
+    "link": "https://www.bostonherald.com/2025/04/09/republican-mega-donor-michael-minogue-spoke-with-massgop-about-running-for-governor/",
+    "timestamp": "2025-04-09T18:20:47Z"
+  },
+  {
+    "title": "Biden aides 'scripted' everything, allowed his faculties to 'atrophy,' new book claims",
+    "description": "A new book claims that the White House limited former President Joe Biden's social interactions, which worsened his cognitive function.",
+    "link": "https://www.foxnews.com/politics/biden-aides-scripted-everything-allowed-his-faculties-atrophy-new-book-claims",
+    "timestamp": "2025-04-09T18:20:33Z"
+  },
+  {
+    "title": "DHS Says Social Media Will Be Screened for \u2018Antisemitism\u2019 as It Purges Pro-Palestine Immigrants",
+    "description": "Homeland Secretary Kristi Noem says people shouldn't try to \"hide behind the First Amendment.\"",
+    "link": "https://gizmodo.com/dhs-says-social-media-will-be-screened-for-antisemitism-as-it-purges-pro-palestine-immigrants-2000587089",
+    "timestamp": "2025-04-09T18:20:23Z"
+  },
+  {
+    "title": "DOJ suggests U.S. agencies free to disregard judge\u2019s order in law firm dispute",
+    "description": "The Justice Department has suggested to federal agencies that they are free to disregard a judge\u2019s ruling that halted enforcement of a White House executive order that targeted a prominent law firm.",
+    "link": "https://www.pbs.org/newshour/politics/doj-suggests-u-s-agencies-free-to-disregard-judges-order-in-law-firm-dispute",
+    "timestamp": "2025-04-09T18:20:12Z"
+  },
+  {
+    "title": "Bitcoin jumps 8% after Trump announces 90-day tariff pause for all countries but China",
+    "description": "Bitcoin rises 8% as Trump announces a 90-day tariff pause for all countries except China, causing a market rally.\nThe post Bitcoin jumps 8% after Trump announces 90-day tariff pause for all countries but China appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/tariff-pause-bitcoin-spike/",
+    "timestamp": "2025-04-09T18:19:57Z"
+  },
+  {
+    "title": "Your cheat sheet to Congress\u2019 budget fight",
+    "description": "This week, Republican leaders hope that the House approves the budget framework that passed the Senate. Nothing less than President Donald Trump\u2019s legislative agenda hinges on it.",
+    "link": "https://www.pbs.org/newshour/politics/your-cheat-sheet-to-congress-budget-fight",
+    "timestamp": "2025-04-09T18:19:20Z"
+  },
+  {
+    "title": "Who benefits from Trump\u2019s abrupt reversals of policy?",
+    "description": "When last Wednesday Trump announced his huge set of tariffs on every country, the stock markets tanked globally on Thursday and Friday. Then on Monday and Tuesday, Trump insisted that the tariffs were here to stay and that there would be no pause in them goin\u2026",
+    "link": "https://freethoughtblogs.com/singham/2025/04/09/who-benefits-from-trumps-abrupt-reversals-of-policy/",
+    "timestamp": "2025-04-09T18:19:11Z"
+  },
+  {
+    "title": "Ukraine reportedly will take another stab at rare minerals deal with Trump",
+    "description": "1st plan blew up during Zelensky's confrontation with president in Oval Office",
+    "link": "https://www.wnd.com/2025/04/ukraine-reportedly-will-take-another-stab-at-rare-minerals-deal-with-trump/",
+    "timestamp": "2025-04-09T18:18:48Z"
+  },
+  {
+    "title": "Microsoft says it\u2019s \u2018slowing or pausing\u2019 some AI data center projects, including $1B plan for Ohio",
+    "description": "Microsoft was also scaling back some of its international data center expansion.",
+    "link": "https://www.bostonherald.com/2025/04/09/microsoft-data-centers/",
+    "timestamp": "2025-04-09T18:18:45Z"
+  },
+  {
+    "title": "Fed minutes show broad sense US risks tilted towards higher inflation, slower growth",
+    "description": "Minutes from the Federal Reserve's March meeting reveal near-unanimous concern about the U.S. economy facing higher inflation and slower growth. Policymakers noted potential \"difficult tradeoffs\" ahead, with risks of persistent inflation and weakening growth.\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/fed-minutes-show-broad-sense-us-risks-tilted-towards-higher-inflation-slower-growth/articleshow/120136924.cms",
+    "timestamp": "2025-04-09T18:17:53Z"
+  },
+  {
+    "title": "Bitcoin rips to $82k after Trump\u2019s 90-day pause on tariffs catalyze bullish sentiment",
+    "description": "Bitcoin (BTC) soared back above $82,000 on April 9 after President Donald Trump announced that his administration would pause tariffs on most nations for 90 days, igniting a broad rally in global markets after a bloody week. Trump\u2019s post, which excluded China\u2026",
+    "link": "https://cryptoslate.com/bitcoin-rips-to-82k-after-trumps-90-day-pause-on-tariffs-catalyze-bullish-sentiment/",
+    "timestamp": "2025-04-09T18:17:46Z"
+  },
+  {
+    "title": "NYC lets immigration officials open an office at Rikers jail, a priority for Trump",
+    "description": "The Rikers Island jail complex has long suffered from rampant disorder and neglect.",
+    "link": "https://www.bostonherald.com/2025/04/09/immigration-rikers-ice-office/",
+    "timestamp": "2025-04-09T18:17:28Z"
+  },
+  {
+    "title": "The reason Tiger Woods missed famed Masters Champions Dinner",
+    "description": "Woods last won the Masters in 2019.",
+    "link": "https://nypost.com/2025/04/09/sports/the-reason-tiger-woods-missed-2025-masters-champions-dinner/",
+    "timestamp": "2025-04-09T18:17:27Z"
+  },
+  {
+    "title": "Market Strategist: Stocks May Quickly Return to Pre-Tariff Levels",
+    "description": "5 min ago\nMarket Strategist: Stocks May Quickly Return to Pre-Tariff Levels\nWall Street may be in the process of turning back the clock to April 2, those more innocent times when there wasn\u2019t a global trade war.\nStocks skyrocketed Wednesday after President Do\u2026",
+    "link": "https://biztoc.com/x/ff55a6e340626be2",
+    "timestamp": "2025-04-09T18:17:27Z"
+  },
+  {
+    "title": "Trump pauses higher tariffs for dozens of countries, but hikes China rate to 125%",
+    "description": "SUMMARY Donald Trump announces a 90-day pause on higher tariffs for dozens of countries - but hikes levies on China to 125% There will now be a universal tariff of 10% on all countries' goods, except for China He says the higher rate for China is because of \"\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4309986/posts",
+    "timestamp": "2025-04-09T18:16:28Z"
+  },
+  {
+    "title": "Trump Pauses Tariffs for 75 Countries Negotiating With US \u2013 but Hits China With 125% \u2013 as Market Rebound Surges",
+    "description": "The 90-day pause and reduction to 10% tariffs was for countries actively working with the U.S. to restructure trade deals\nThe post Trump Pauses Tariffs for 75 Countries Negotiating With US \u2013 but Hits China With 125% \u2013 as Market Rebound Surges appeared first o\u2026",
+    "link": "https://www.thewrap.com/trump-pause-tariffs-75-countries-negotiating-us-trade-deals-china-125-markets/",
+    "timestamp": "2025-04-09T18:16:10Z"
+  },
+  {
+    "title": "Trump Will Force Energy Industry To Buy More Coal Over Everyone's Dead Bodies",
+    "description": "Much safer than wind power since that gives you wind cancer.",
+    "link": "https://www.wonkette.com/p/trump-will-force-energy-industry",
+    "timestamp": "2025-04-09T18:15:51Z"
+  },
+  {
+    "title": "Trump temporarily drops tariffs to 10% for most countries, hits China harder with 125% (Dan Mangan/CNBC)",
+    "description": "Dan Mangan / CNBC:\nTrump temporarily drops tariffs to 10% for most countries, hits China harder with 125% \u2026 President Donald Trump on Wednesday dropped tariffs under his new trade plan to 10% on imports from most countries, as he announced a 90-day pause for \u2026",
+    "link": "https://www.memeorandum.com/250409/p101",
+    "timestamp": "2025-04-09T18:15:00Z"
+  },
+  {
+    "title": "Appeals court clears the way for the Trump administration to fire thousands of probationary workers",
+    "description": "A federal appeals court has cleared the way for President Donald Trump\u2019s administration to fire thousands of probationary workers, halting a judge\u2019s order requiring them to be reinstated",
+    "link": "https://abcnews.go.com/US/wireStory/appeals-court-clears-trump-administration-fire-thousands-probationary-120647272",
+    "timestamp": "2025-04-09T18:14:47Z"
+  },
+  {
+    "title": "\"We Like It\" Says White House Adviser As Musk, Trump Trade Advisor Spar",
+    "description": "The White House has downplayed the feud, with spokeswoman Karoline Leavitt stating, &quot;Boys will be boys, and we will let their public sparring continue.&quot;",
+    "link": "https://www.ndtv.com/world-news/we-like-it-says-white-house-adviser-as-musk-trump-trade-advisor-spar-report-8127791",
+    "timestamp": "2025-04-09T18:14:47Z"
+  },
+  {
+    "title": "Supreme Court says Trump doesn\u2019t have to rehire independent labor board members for now | CNN Politics",
+    "description": "Chief Justice John Roberts on Wednesday allowed President Donald Trump to temporarily remove two board members at independent labor agencies while the justices consider whether the president may permanently fire them.",
+    "link": "https://www.cnn.com/2025/04/09/politics/trump-supreme-court-labor-boards/index.html",
+    "timestamp": "2025-04-09T18:14:35Z"
+  },
+  {
+    "title": "Microsoft says it's 'slowing or pausing' some AI data center projects",
+    "description": "Microsoft says it's \u201cslowing or pausing\u201d some of data center construction, including a $1 billion project in Ohio",
+    "link": "https://abcnews.go.com/Technology/wireStory/microsoft-slowing-pausing-ai-data-center-projects-including-120648114",
+    "timestamp": "2025-04-09T18:14:28Z"
+  },
+  {
+    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
+    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%",
+    "link": "https://abcnews.go.com/Politics/wireStory/trump-pauses-tariffs-nations-90-days-raises-taxes-120649749",
+    "timestamp": "2025-04-09T18:14:19Z"
+  },
+  {
+    "title": "Federal Inmates Being Scammed With Halfway House Promises",
+    "description": "Set Up for Scam The Federal Bureau of Prisons (BOP) announced last week a very disappointing directive for prisoners that prerelease custody under the Second Chance Ac...",
+    "link": "https://www.forbes.com/sites/walterpavlo/2025/04/09/federal-inmates-being-scammed-with-halfway-house-promises/",
+    "timestamp": "2025-04-09T18:13:12Z"
+  },
+  {
+    "title": "The Protocol: EigenLayer Ready to Launch Missing Feature",
+    "description": "Also: Bitcoin L2 SDKs; North Korea's THORChain Use; and Quantum-Resistant BTC",
+    "link": "https://www.coindesk.com/tech/2025/04/09/the-protocol-eigenlayer-ready-to-launch-missing-feature",
+    "timestamp": "2025-04-09T18:13:12Z"
+  },
+  {
+    "title": "'Boss just pulled the rug': Dem shocked as Trump's trade rep clueless about tariff pause",
+    "description": "President Donald Trump announced a 90-day pause on most of his so-called reciprocal tariffs while his trade representative was in the middle of defending the policy on Capitol Hill.The president reversed course from Wednesday morning, when he urged investors \u2026",
+    "link": "https://www.rawstory.com/jamieson-greer-trump/",
+    "timestamp": "2025-04-09T18:13:04Z"
+  },
+  {
+    "title": "Oil prices fall, then recover, after Trump announces 90-day tariff pause",
+    "description": "Oil prices swung wildly on Wednesday, sinking to a four-year low in anticipation of slowing economic growth due to a burgeoning trade war, before jumping 2% after President Donald Trump announced a 90-day pause on most of his tariffs.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-then-recover-after-trump-announces-90-day-tariff-pause/articleshow/120136767.cms",
+    "timestamp": "2025-04-09T18:12:46Z"
+  },
+  {
+    "title": "Trump Loyalist Judge Smacks Down Trump Admin Over Blocking The AP",
+    "description": "For someone who claims he single-handedly brought free speech back, Donald Trump sure spends a lot of time trying to silence speech he doesnt like. His latest attempt just got demolished by one of his own hand-picked judges, as Judge Trevor McFadden ruled aga\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176987641",
+    "timestamp": "2025-04-09T18:12:15Z"
+  },
+  {
+    "title": "Augusta provides a president-free oasis amid the Trump maelstrom",
+    "description": "In one little corner of Georgia you notice Donald Trump most by his ringing absence from the conversation",
+    "link": "https://www.irishtimes.com/sport/golf/2025/04/09/augusta-provides-a-president-free-oasis-amid-the-trump-maelstrom/",
+    "timestamp": "2025-04-09T18:11:05Z"
+  },
+  {
+    "title": "Trump hits 90-day pause on tariff hike claiming many countries are 'kissing my a**' to make a deal. But he punishes China",
+    "description": "US News: TOI correspondent from Washington: MAGA supremo Donald Trump on Tuesday paused his reciprocal tariff on most countries, including India, for 90 days, .",
+    "link": "https://timesofindia.indiatimes.com/world/us/trump-hits-90-day-pause-on-tariff-hike-claiming-many-countries-are-kissing-my-ass-to-make-a-deal-but-he-punishes-china/articleshow/120136611.cms",
+    "timestamp": "2025-04-09T18:09:49Z"
+  },
+  {
+    "title": "Trump\u2019s tariff pause lifts dollar against safe-haven currencies",
+    "description": "The dollar, which had been weakening earlier in the session due to the initial rollout of reciprocal tariffs, reversed losses as markets rallied and investors responded positively to the partial trade de-escalation.",
+    "link": "https://www.thehindubusinessline.com/markets/forex/trumps-tariff-pause-lifts-dollar-against-safe-haven-currencies/article69432822.ece",
+    "timestamp": "2025-04-09T18:09:23Z"
+  },
+  {
+    "title": "Trump Blinks on Tariffs and Markets Skyrocket",
+    "description": "President Donald Trump announced that he would be pausing his reciprocal tariffs for three months, just days after officials rejected such a move was in the works.",
+    "link": "http://nymag.com/intelligencer/article/trump-blinks-on-tariffs-and-trade-war-and-markets-skyrocket.html",
+    "timestamp": "2025-04-09T18:08:36Z"
+  },
+  {
+    "title": "Settlement champion Huckabee confirmed as US Israel envoy",
+    "description": "The US Senate on Wednesday confirmed Mike Huckabee, an evangelical Christian who has said Israel enjoys a divine right to the West Bank, as ambassador to Israel. Huckabee will head to the US embassy in Jerusalem as Israel seizes large areas of Gaza, part of a\u2026",
+    "link": "https://www.digitaljournal.com/world/settlement-champion-huckabee-confirmed-as-us-israel-envoy/article",
+    "timestamp": "2025-04-09T18:07:20Z"
+  },
+  {
+    "title": "Trump administration asks Supreme Court to oust board members fired by president while case goes on",
+    "description": "The Trump administration is asking the Supreme Court for an emergency order to oust board members who oversee independent agencies",
+    "link": "https://abcnews.go.com/US/wireStory/trump-administration-asks-supreme-court-oust-board-members-120649720",
+    "timestamp": "2025-04-09T18:06:46Z"
+  },
+  {
+    "title": "Canada was mostly spared from Trump\u2019s reciprocal tariffs, but it must not grow complacent",
+    "description": "Canada must stand in solidarity with the international community to exert collective pressure on the U.S. A co-ordinated global response could compel Trump to reconsider his unilateral trade policies.",
+    "link": "https://theconversation.com/canada-was-mostly-spared-from-trumps-reciprocal-tariffs-but-it-must-not-grow-complacent-253813",
+    "timestamp": "2025-04-09T18:06:38Z"
+  },
+  {
+    "title": "Trump: Tariffs cut to 10% for 90 days for most countries",
+    "description": "United States President Donald Trump announced he will pause the reciprocal tariffs announced last week for 90 days for countries that have not retaliated after receiving calls for negotiations on the...",
+    "link": "https://biztoc.com/x/ce1a1fb5b07bcb4c",
+    "timestamp": "2025-04-09T18:06:27Z"
+  },
+  {
+    "title": "Tesla jumps almost 18% after Trump's tariff delay",
+    "description": "Tesla Inc. shares jumped 16% after United States President Donald Trump shook the markets again, delaying tariffs for 90 days and lowering reciprocal tariffs he previously imposed on other countries d...",
+    "link": "https://biztoc.com/x/009b5674b73339ea",
+    "timestamp": "2025-04-09T18:06:21Z"
+  },
+  {
+    "title": "US Federal Judges Halt Deportations Of Venezuelans Under Wartime Law",
+    "description": "Federal judges in New York and Texas temporarily blocked the Trump administration on Wednesday from deporting alleged Venezuelan gang members without a court hearing.",
+    "link": "https://www.ibtimes.com/us-federal-judges-halt-deportations-venezuelans-under-wartime-law-3769444",
+    "timestamp": "2025-04-09T18:06:17Z"
+  },
+  {
+    "title": "Bessent: Tariff 'pause' was Trump's strategy 'all along'",
+    "description": "United States Treasury Secretary Scott Bessent told reporters on Wednesday that US President Donald Trump had planned to pause reciprocal tariffs on countries who do not retaliate from the very beginn...",
+    "link": "https://biztoc.com/x/c2d7a24fa8f01ebf",
+    "timestamp": "2025-04-09T18:06:08Z"
+  },
+  {
+    "title": "Bitcoin Jumps 6% to $81K as Crypto Prices Surge on Trump's Tariff Pause",
+    "description": "Bitcoin Jumps 6% to $81K as Crypto Prices Surge on Trump's Tariff Pause\nPresident Trump said he authorized a 90-day pause on tariffs on countries that haven't retaliated against the U.S.\nWhat to know:\n- Cryptocurrencies surged after President Donald Trump ann\u2026",
+    "link": "https://biztoc.com/x/2e7b7913e6f671a1",
+    "timestamp": "2025-04-09T18:06:01Z"
+  },
+  {
+    "title": "Amazon Kuiper launches first satellites to take on SpaceX's Starlink, capitalize on anti-Musk fervor",
+    "description": "Amazon has spent six years on Project Kuiper, its $10-billion-plus effort to take on Elon Musk's Starlink.",
+    "link": "https://www.cnbc.com/2025/04/09/amazon-kuiper-launches-first-satellites-takes-on-elon-musks-starlink.html",
+    "timestamp": "2025-04-09T18:05:57Z"
+  },
+  {
+    "title": "China raises tariff on U.S. goods to 84% and vows to \u2018fight to the end\u2019",
+    "description": "President Donald Trump has raised tariffs on China to 125%, hours after China boosted tariffs on American goods to 84% and vowed to \u201cfight to the end.\u201d",
+    "link": "https://biztoc.com/x/bb8491dfa5e5d7d5",
+    "timestamp": "2025-04-09T18:05:56Z"
+  },
+  {
+    "title": "Hollywood Impact of Trump Tariff Pause, China Escalation",
+    "description": "The president said in a post Wednesday that there will be a 90-day pause on tariffs against most countries, but also raised the tariff on Chinese goods to 125 percent, and the ad business may still feel the pain.",
+    "link": "http://www.hollywoodreporter.com/business/business-news/trump-tariff-pause-china-escalation-advertising-1236186027/",
+    "timestamp": "2025-04-09T18:05:27Z"
+  },
+  {
+    "title": "T\u00fcrkiye has no intention to conflict in Syria, FM says",
+    "description": "Foreign Minister Hakan Fidan on Wednesday reaffirmed his country's non-confrontational stance in Syria but vowed to take preventive action against security threats.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-has-no-intention-to-conflict-with-other-countries-fidan-says-207871",
+    "timestamp": "2025-04-09T18:05:00Z"
+  },
+  {
+    "title": "Karoline Leavitt Scolds the Media for Missing \u2018The Art of the Deal\u2019 After Trump Tariff Pause",
+    "description": "White House Press Secretary Karoline Leavitt ripped the media after Donald Trump announced his intention to delay the implementation of tariffs on 75 countries.\nThe post Karoline Leavitt Scolds the Media for Missing \u2018The Art of the Deal\u2019 After Trump Tariff Pa\u2026",
+    "link": "https://www.mediaite.com/tv/karoline-leavitt-scolds-the-media-for-missing-the-art-of-the-deal-after-trump-tariff-pause/",
+    "timestamp": "2025-04-09T18:04:59Z"
+  },
+  {
+    "title": "Trump Asks Supreme Court To Allow Him To Fire Agency Leaders",
+    "description": "President Donald Trump asked the Supreme Court on Wednesday to allow him to move forward with firing two agency leaders.",
+    "link": "https://dailycaller.com/2025/04/09/trump-asks-supreme-court-to-allow-him-to-fire-agency-leaders/",
+    "timestamp": "2025-04-09T18:04:01Z"
+  },
+  {
+    "title": "US dollar rebounds against safe-haven currencies after Trump pauses tariffs",
+    "description": "The U.S. dollar rebounded against safe-haven currencies including the yen and Swiss franc after President Donald Trump announced a 90-day pause on many new tariffs on trading partners but hiked duties on Chinese goods, escalating a confrontation.",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-rebounds-against-safe-haven-currencies-after-trump-pauses-tariffs/articleshow/120136581.cms",
+    "timestamp": "2025-04-09T18:03:54Z"
+  },
+  {
+    "title": "'Nobody's going to stomach that': Major supporter Dave Portnoy sounds warning for Trump",
+    "description": "Barstool Sports founder Dave Portnoy, a Donald Trump supporter who recently bemoaned losing some $20 million in the tanking stock market, told CNN's Dana Bash that he'll stick by the GOP until the midterms.\n\nPortnoy, who sold his wildly successful site and no\u2026",
+    "link": "https://www.rawstory.com/can-t-stomach-that-barstool-sports-founder-vows-to-stand-by-gop-until-midterms/",
+    "timestamp": "2025-04-09T18:03:05Z"
+  },
+  {
+    "title": "Defence secretary to urge coalition of the willing to increase pressure on Russia to end war",
+    "description": "The defence secretary will urge \"coalition of the willing\" nations to increase pressure on Russia to end its war in Ukraine as plans to support peace ramp up.",
+    "link": "https://news.sky.com/story/defence-secretary-to-urge-coalition-of-the-willing-to-increase-pressure-on-russia-to-end-war-13345346",
+    "timestamp": "2025-04-09T18:03:00Z"
+  },
+  {
+    "title": "Trump Approval Rating Tracker: Two Post-Tariff Surveys Show Decline",
+    "description": "The latest survey, released April 7, shows 52% disapprove of Trump's job performance.",
+    "link": "https://www.forbes.com/sites/saradorn/2025/04/09/trump-approval-rating-tracker-trade-score-reaches-new-low-in-latest-survey/",
+    "timestamp": "2025-04-09T18:02:55Z"
+  },
+  {
+    "title": "US federal judges halt deportations of Venezuelans under wartime law",
+    "description": "Federal judges in New York and Texas temporarily blocked the Trump administration on Wednesday from deporting alleged Venezuelan gang members without a court hearing. The US Supreme Court on Monday lifted a lower court order barring the deportation of undocum\u2026",
+    "link": "https://www.digitaljournal.com/world/us-federal-judges-halt-deportations-of-venezuelans-under-wartime-law/article",
+    "timestamp": "2025-04-09T18:02:22Z"
+  },
+  {
+    "title": "Trump Loyalist Judge Smacks Down Trump Admin Over Blocking The AP",
+    "description": "For someone who claims he single-handedly \u201cbrought free speech back,\u201d Donald Trump sure spends a lot of time trying to silence speech he doesn\u2019t like. His latest attempt just got demolished by one of his own hand-picked judges, as Judge Trevor McFadden ruled \u2026",
+    "link": "https://www.techdirt.com/2025/04/09/trump-loyalist-judge-smacks-down-trump-admin-over-blocking-the-ap/",
+    "timestamp": "2025-04-09T18:02:00Z"
+  },
+  {
+    "title": "Trump Says Tariffs Will Be Paused for 90 Days (Except China) in Wild Reversal",
+    "description": "Tariffs on China will be raised to 125%, according to the mad king.",
+    "link": "https://gizmodo.com/trump-says-tariffs-will-be-paused-for-90-days-except-china-in-wild-reversal-2000587150",
+    "timestamp": "2025-04-09T18:01:57Z"
+  },
+  {
+    "title": "Trump says he's raising China tariffs further, pausing reciprocal tariffs for others",
+    "description": "The tariff tit-for-tat between the U.S. and China escalated again Wednesday, with President Donald Trump saying that he is immediately raising the tariffs on Chinese goods to 125% over Beijing\u2019s \"lack of respect\" toward America, while pausing and lowering rec\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4309983/posts",
+    "timestamp": "2025-04-09T18:01:38Z"
+  },
+  {
+    "title": "Nintendo Switch 2 Price Increase May Not Happen Following Tariffs Change",
+    "description": "It seems like the price of the Nintendo Switch 2 might not increase in the United States after all following a new change. This past week, Nintendo made the shocking announcement that it wouldn\u2019t be doing pre-orders for the Switch 2 on April 9th in the U.S. a\u2026",
+    "link": "http://comicbook.com/gaming/news/nintendo-switch-2-price-pre-order-tariffs-change/",
+    "timestamp": "2025-04-09T18:01:26Z"
+  },
+  {
+    "title": "Why Isn\u2019t XRP Skyrocketing? Expert Explains The Hidden Forces",
+    "description": "XRP prices dipped below $2 for the first time since December 2024 on Monday, even after a number of positive developments for the cryptocurrency. The decline is surprising to many investors who had hoped recent good news would send its value higher. Market an\u2026",
+    "link": "http://www.newsbtc.com/altcoin/why-isnt-xrp-skyrocketing-expert-explains-the-hidden-forces/",
+    "timestamp": "2025-04-09T18:00:59Z"
+  },
+  {
+    "title": "Wall Street leaps after Trump announces 90-day tariff pause | Honolulu Star-Advertiser",
+    "description": "Wall Street\u2019s main indexes jumped today after U.S. President Donald Trump authorized a 90-day pause on tariffs, effective immediately.",
+    "link": "https://www.staradvertiser.com/2025/04/09/breaking-news/wall-street-leaps-after-trump-announces-90-day-tariff-pause/",
+    "timestamp": "2025-04-09T18:00:58Z"
+  },
+  {
+    "title": "The Media is Calling the Shots in the Tariff War",
+    "description": "The media is sensationalizing the escalation in hostilities between China and the U.S. while ignoring the 70 countries that have already lined up to negotiate with us.\nThe post The Media is Calling the Shots in the Tariff War first appeared on Le\u00b7gal In\u00b7sur\u00b7r\u2026",
+    "link": "https://legalinsurrection.com/2025/04/the-media-is-calling-the-shots-in-the-tariff-war/",
+    "timestamp": "2025-04-09T18:00:35Z"
+  },
+  {
+    "title": "\u2018Are the Numbers I\u2019m Seeing Correct?!\u2019 CNBC Gobsmacked While Reporting in Real Time On the \u2018Miracle Moves\u2019 in Stock Market Post-Tariff Pause",
+    "description": "Kelly Evans marveled in real time at the \"miracle moves\" happening in the stock market just moments after Trump announced a pause on a number of tariffs.\n\u00a0\nThe post \u2018Are the Numbers I\u2019m Seeing Correct?!\u2019 CNBC Gobsmacked While Reporting in Real Time On the \u2018Mi\u2026",
+    "link": "https://www.mediaite.com/tv/are-the-numbers-im-seeing-correct-cnbc-gobsmacked-while-reporting-in-real-time-on-the-miracle-moves-in-stock-market-post-tariff-pause/",
+    "timestamp": "2025-04-09T18:00:15Z"
+  },
+  {
+    "title": "Sen. Kennedy: \u2018Trump Has Won,\u2019 40% of the World Wants a Deal",
+    "description": "Senator John Kennedy (R-LA) said Wednesday on MSNBC\u2019s \u201cMorning Joe\u201d that President Donald Trump \u201chas won\u201d with his tariff policies because 40% of the world wanted to negotiate. Kennedy said, \u201cHere\u2019s my point from one perspective, from my perspective, you may \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4309982/posts",
+    "timestamp": "2025-04-09T18:00:14Z"
+  },
+  {
+    "title": "Trump Drops Tariffs to 10%",
+    "description": "Just minutes after Goldman Sachs put out a note forecasting a recession, Mr. Trump lowered all tariffs to 10% (except China).   First, from ...",
+    "link": "https://www.calculatedriskblog.com/2025/04/trump-drops-tariffs-to-10.html",
+    "timestamp": "2025-04-09T18:00:00Z"
+  },
+  {
+    "title": "Investors Flee Treasuries As Liquidity Squeezes Markets",
+    "description": "US government bonds have entered a \u201cmeltdown\u201d as long-yield Treasuries briefly reached over five per cent last night amid market panic over Donald Trump\u2019s tariffs. US 30-year Treasury yields spiked briefly above five per cent last night, before settling at 4.\u2026",
+    "link": "https://oilprice.com/Finance/the-Economy/Investors-Flee-Treasuries-As-Liquidity-Squeezes-Markets.html",
+    "timestamp": "2025-04-09T18:00:00Z"
+  },
+  {
+    "title": "The blue whale: the world's most versatile measuring stick?",
+    "description": "Feedback is delighted to hear from a reader who proposes an ingenious new unit of data \u2013 but we have some quibbles with the maths",
+    "link": "https://www.newscientist.com/article/mg26635381-400-the-blue-whale-the-worlds-most-versatile-measuring-stick/",
+    "timestamp": "2025-04-09T18:00:00Z"
+  },
+  {
+    "title": "Project 2025 wanted to hobble the federal workforce. DOGE has hastily done that, and more",
+    "description": "The controversial policy blueprint sought to cut back on civil servants\u2019 powers, but the Trump administration\u2019s turbulent method of execution wasn\u2019t part of the plan.",
+    "link": "https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/",
+    "timestamp": "2025-04-09T18:00:00Z"
+  },
+  {
+    "title": "Strategic Bitcoin Reserve and Digital Asset Stockpile Plans and Gainx Launches New Token",
+    "description": "New York, NY, April 09, 2025 (GLOBE NEWSWIRE) -- Cryptocurrencies saw a surge in value following President Donald Trump\u2019s announcement regarding the creation of a\u00a0Strategic Bitcoin Reserve for the United States. The reserve, originally announced on March 2nd \u2026",
+    "link": "https://www.globenewswire.com/news-release/2025/04/09/3058800/0/en/Strategic-Bitcoin-Reserve-and-Digital-Asset-Stockpile-Plans-and-Gainx-Launches-New-Token.html",
+    "timestamp": "2025-04-09T18:00:00Z"
+  },
+  {
+    "title": "Trump Suddenly Pauses Tariffs, Jacks Up Tax on Chinese Goods",
+    "description": "Donald Trump announced that he would issue a 90-day pause on most tariffs, while increasing tariff rates on China in a Truth Social post.",
+    "link": "http://www.rollingstone.com/politics/politics-news/trump-pauses-tariffs-90-days-china-1235314003/",
+    "timestamp": "2025-04-09T17:59:31Z"
+  },
+  {
+    "title": "Trump Suddenly Pauses Tariffs, Jacks Up Tax on Chinese Goods",
+    "description": "President Donald Trump announced that he is instituting a 90-day pause on most of the tariffs he announced last week, but not those on China.",
+    "link": "http://www.rollingstone.com/politics/politics-news/trump-pauses-tariffs-jacks-up-tax-china-1235314003/",
+    "timestamp": "2025-04-09T17:59:31Z"
+  },
+  {
+    "title": "Poll: Majority Have Unfavorable View of Democrats in Congress",
+    "description": "A majority have an unfavorable view of Democrats in Congress, a weekly survey from the Economist/YouGov found.\nThe post Poll: Majority Have Unfavorable View of Democrats in Congress appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/politics/2025/04/09/poll-majority-have-unfavorable-view-of-democrats-in-congress/",
+    "timestamp": "2025-04-09T17:59:29Z"
+  },
+  {
+    "title": "MrBeast \u2018Feastables\u2019 is now candy for the \u2018globalist\u2019 elite after YouTuber complains about tariffs",
+    "description": "James Stephen Donaldson, the YouTuber known as MrBeast, was attacked by conservatives for criticizing President Donald Trump's tariffs.\n\n\nIn a statement to X on Tuesday, MrBeast said that Trump's tariffs made it cheaper to produce his \"Feastables\" line of cho\u2026",
+    "link": "https://www.dailydot.com/debug/conservatives-attack-mrbeast-tariff-complaints/",
+    "timestamp": "2025-04-09T17:59:23Z"
+  },
+  {
+    "title": "Trump-Appointed Judge Says Administration Can\u2019t Block AP From White House Events",
+    "description": "Access restrictions to the White House \u201cmust be reasonable and not viewpoint based,\u201d the judge ruled.",
+    "link": "https://truthout.org/articles/trump-appointed-judge-says-administration-cant-block-ap-from-white-house-events/",
+    "timestamp": "2025-04-09T17:59:01Z"
+  },
+  {
+    "title": "Donald Trump Hits 90-Day Pause On Tariffs On 75 Countries, Raises Them On China",
+    "description": "Donald Trump said he was pausing tariffs on 75 countries for 90 days, a major shift in his signature economic policy initiative that has sent markets gyrating and economists and CEOs predicting recession. Meanwhile, he said that he was raising the tariff on C\u2026",
+    "link": "http://deadline.com/2025/04/trump-tariff-pause-1236364561/",
+    "timestamp": "2025-04-09T17:59:00Z"
+  },
+  {
+    "title": "NYC lets immigration officials open an office at Rikers jail, a priority for Trump",
+    "description": "New York City Mayor Eric Adams is allowing federal immigration officials to operate at the Rikers Island jail to work on gang and drug-related criminal investigations",
+    "link": "https://abcnews.go.com/US/wireStory/nyc-lets-immigration-officials-open-office-rikers-jail-120648909",
+    "timestamp": "2025-04-09T17:58:46Z"
+  },
+  {
+    "title": "Trump Issues 90-Day Pause on Widespread 'Reciprocal' Tariffs",
+    "description": "Just hours after implementing tariffs of varying levels on trade partners worldwide, President Donald Trump said he would pause the 'reciprocal' import taxes for 90 days. In a post on Truth Social, Trump said the pause would be effective immediately and the b\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4309981/posts",
+    "timestamp": "2025-04-09T17:58:19Z"
+  },
+  {
     "title": "Bitcoin Jumps 6% to $81K as Crypto Prices Surge on Trump's Tariff Pause",
     "description": "President Trump said he authorized a 90-day pause on tariffs on countries that haven't retaliated against the U.S.",
     "link": "https://www.coindesk.com/markets/2025/04/09/bitcoin-jumps-6-above-usd80k-as-cryptos-surge-on-trump-s-tariff-pause",
@@ -124,449 +574,5 @@
     "description": "Jordan Fabian / Bloomberg:\nTrump Pauses Higher Duties on Most Nations, Hikes China Rate\u00a0 \u2014\u00a0 President Donald Trump said he would pause higher reciprocal tariffs on dozens of non-retaliating countries for 90 days, while raising duties on China to 125%.\u00a0 \u2014\u00a0 It \u2026",
     "link": "https://www.memeorandum.com/250409/p96",
     "timestamp": "2025-04-09T17:50:00Z"
-  },
-  {
-    "title": "Trump declares 90 day \u2018reciprocal\u2019 tariff pause, except for China",
-    "description": "China will see even higher levies.",
-    "link": "https://www.euractiv.com/section/economy-jobs/news/trump-declares-90-day-reciprocal-tariff-pause-except-for-china/",
-    "timestamp": "2025-04-09T17:49:58Z"
-  },
-  {
-    "title": "Trump Media Expands To Canada And Mexico Amid Global Tariff War",
-    "description": "Trump Media platforms, including Truth Social, are now available in Canada and Mexico.",
-    "link": "https://www.forbes.com/sites/gennacontino/2025/04/09/trump-media-expands-to-canada-and-mexico-amid-global-tariff-war/",
-    "timestamp": "2025-04-09T17:49:53Z"
-  },
-  {
-    "title": "Will There Be a 90-Day Tariff Pause? What Trump Says",
-    "description": "Amid widespread concern over new tariffs implemented by the Trump administration, some are wondering if the president is pausing them.",
-    "link": "https://hollywoodlife.com/2025/04/09/will-there-be-a-90-day-tariff-pause/",
-    "timestamp": "2025-04-09T17:49:28Z"
-  },
-  {
-    "title": "Apple Stock Jumps as Trump Pauses Some Tariffs for 90 Days",
-    "description": "Apple stock is on the rise after U.S. President Donald Trump announced plans to pause most tariffs for a 90-day period. Tariffs are immediately on hold in countries that have not enacted retaliatory tariffs, which means this pause does not apply to China, but\u2026",
-    "link": "https://www.macrumors.com/2025/04/09/apple-stock-up-tariff-pause/",
-    "timestamp": "2025-04-09T17:49:27Z"
-  },
-  {
-    "title": "U.S. issues new sanctions targeting Iran's nuclear program as Trump seeks talks",
-    "description": "The U.S. Treasury said it imposed sanctions on five Iran-based entities and one person based in Iran for their support of Iran's nuclear program with the aim of denying Tehran a nuclear weapon",
-    "link": "https://www.haaretz.com/middle-east-news/iran/2025-04-09/ty-article/united-states-issues-new-sanctions-on-iran-as-trump-seeks-talks/00000196-1b85-d78d-a1de-1f9d653c0000",
-    "timestamp": "2025-04-09T17:49:24Z"
-  },
-  {
-    "title": "Stocks Shoot To Historic Gains As Trump Announces 90-Day Tariff Pause",
-    "description": "The S&P 500, which follows 500 of the largest public American companies across industries, jumped 7% minutes after Trump's tariff delay announcement.",
-    "link": "https://www.forbes.com/sites/dereksaul/2025/04/09/stocks-shoot-to-historic-gains-as-trump-announces-90-day-tariff-pause/",
-    "timestamp": "2025-04-09T17:49:18Z"
-  },
-  {
-    "title": "Donald Trump Pauses Tariffs for 90 Days, Imposes 125% Tariff on China",
-    "description": "President Donald Trump has issued an update to his tariff policy that saw the stock market in shambles the past few days. He announced he\u2019s \u201cauthorized a 90 day PAUSE, and a substantially lowered Reciprocal Tariff during this period, of 10%, also effective im\u2026",
-    "link": "https://www.justjared.com/2025/04/09/donald-trump-pauses-tariffs-for-90-days-imposes-125-tariff-on-china/",
-    "timestamp": "2025-04-09T17:49:10Z"
-  },
-  {
-    "title": "What Trump\u2019s Tariffs Mean for Mortgage Rates",
-    "description": "As the stock market volatility rocks the U.S. economy, homebuyers wonder how President Trump's tariffs will affect mortgage rates.",
-    "link": "https://time.com/7276132/what-trumps-tariffs-mean-for-mortgage-rates/",
-    "timestamp": "2025-04-09T17:48:58Z"
-  },
-  {
-    "title": "Elon Musk\u2019s Brother Slams JD Vance Over Support for Tariffs: \u2018Republicans for Higher Prices\u2019",
-    "description": "The younger brother of Elon Musk called out JD Vance for championing tariffs despite their adverse effects on \"under-served communities\" Wednesday.\nThe post Elon Musk\u2019s Brother Slams JD Vance Over Support for Tariffs: \u2018Republicans for Higher Prices\u2019 first app\u2026",
-    "link": "https://www.mediaite.com/news/elon-musks-brother-slams-jd-vance-over-support-for-tariffs-republicans-for-higher-prices/",
-    "timestamp": "2025-04-09T17:47:44Z"
-  },
-  {
-    "title": "Millions of People Enrolled in Medicaid Mistakenly Believe They\u2019re Uninsured",
-    "description": "As Republicans push for cuts, some Americans don\u2019t realize their health insurance is funded by that very program.",
-    "link": "https://stateline.org/2025/04/09/a-fifth-of-americans-are-on-medicaid-some-of-them-have-no-idea/",
-    "timestamp": "2025-04-09T17:47:26Z"
-  },
-  {
-    "title": "Trump announces a \u201990-day pause\u2019 on tariffs outside of China",
-    "description": "President Donald Trump\u2019s so-called \u201creciprocal\u201d tariffs have only been in effect since midnight ET, and he has already announced \u201ca 90 day PAUSE, and a substantially lowered Reciprocal Tariff\u201d of 10 percent for countries that haven\u2019t retaliated against the ta\u2026",
-    "link": "https://www.theverge.com/news/646029/trump-announces-a-90-day-pause-on-tariffs-outside-of-china",
-    "timestamp": "2025-04-09T17:47:19Z"
-  },
-  {
-    "title": "Trump says he's pausing reciprocal tariffs for 90 days \u2014 but raising China's to 125%",
-    "description": "Just days after the president insisted that his trade tariffs were \u201chere to stay\u201d and would \u201cnever change,\" the president announced an unexpected pause.",
-    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-pauses-reciprocal-tariffs-90-days-raises-china-stocks-rcna200464",
-    "timestamp": "2025-04-09T17:47:17Z"
-  },
-  {
-    "title": "\u2018Just Terrific Stuff!\u2019 Fox\u2019s Larry Kudlow Sings Trump\u2019s Praises After Markets Surge 6% On Tariff Pause",
-    "description": "Fox Business host Larry Kudlow sang his former boss\u2019s praises on Wednesday following a 6% stock market rally on news that President Donald Trump paused tariffs on 75 countries for 90 days while slapping an additional levy on China. Kudlow, a former Trump econ\u2026",
-    "link": "https://www.mediaite.com/tv/just-terrific-stuff-foxs-larry-kudlow-sings-trumps-praises-after-markets-surge-6-on-tariff-pause/",
-    "timestamp": "2025-04-09T17:47:13Z"
-  },
-  {
-    "title": "Microsoft says it\u2019s \u2018slowing or pausing\u2019 some AI data center projects, including $1B plan for Ohio",
-    "description": "AP Technology Writer (AP) \u2014 Microsoft said it is \u201cslowing or pausing\u201d some of its data center construction, including a $1 billion project in Ohio, the latest sign that the demand for artificial intelligence technology that drove a massive infrastructure expa\u2026",
-    "link": "https://financialpost.com/pmn/microsoft-says-its-slowing-or-pausing-some-ai-data-center-projects-including-1b-plan-for-ohio",
-    "timestamp": "2025-04-09T17:47:01Z"
-  },
-  {
-    "title": "Trump Escalates Trade War With 125% Tariffs, Triggering Global Economic Uncertainty",
-    "description": "China's Finance Ministry has criticized the U.S. move, calling it a \"mistake on top of a mistake.\"",
-    "link": "https://www.ibtimes.com/trump-escalates-trade-war-125-tariffs-triggering-global-economic-uncertainty-3769440",
-    "timestamp": "2025-04-09T17:46:08Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, hikes China import tax to 125%",
-    "description": "While global markets surged in response, Trump also escalated pressure on Beijing by hiking tariffs on Chinese imports to 125%",
-    "link": "https://www.thehindubusinessline.com/news/world/trump-pauses-tariffs-on-most-nations-for-90-days-hikes-china-import-tax-to-125/article69432770.ece",
-    "timestamp": "2025-04-09T17:45:54Z"
-  },
-  {
-    "title": "Trump pauses some tariffs for 90 days but doubles down on China",
-    "description": "Trump says he's backing down on most nations' tariffs for 90 days amid market meltdown, but he's raising China tariffs.",
-    "link": "https://www.dallasnews.com/business/economy/2025/04/09/trump-pauses-some-tariffs-for-90-days-but-doubles-down-on-china/",
-    "timestamp": "2025-04-09T17:45:53Z"
-  },
-  {
-    "title": "Rosie O\u2019Donnell\u2019s daughter Chelsea files to change last name after comedian reportedly cuts her out of will",
-    "description": "The comedian\u2019s adopted daughter is requesting to go by her birth mother\u2019s maiden name",
-    "link": "https://www.the-independent.com/life-style/rosie-odonnell-daughter-chelsea-last-name-will-b2730382.html",
-    "timestamp": "2025-04-09T17:45:36Z"
-  },
-  {
-    "title": "US Senate confirms staunch pro-Israel conservative Huckabee as Israel ambassador",
-    "description": "An evangelical Christian, Huckabee has been a vocal Israel supporter and has defended Jewish settlements in the West Bank.",
-    "link": "https://www.jpost.com/breaking-news/article-849547",
-    "timestamp": "2025-04-09T17:45:08Z"
-  },
-  {
-    "title": "Trump announces 90-day pause on most new tariffs but an increase on Chinese imports",
-    "description": "Trump announces 90-day pause on most new tariffs but an increase on Chinese importsoregonlive.com",
-    "link": "https://www.oregonlive.com/business/2025/04/trump-announces-90-day-pause-on-most-new-tariffs-but-an-increase-on-china.html",
-    "timestamp": "2025-04-09T17:44:52Z"
-  },
-  {
-    "title": "Breaking: Trump hits pause on reciprocal tariffs",
-    "description": "US President Donald Trump announces a 90-day pause \"reciprocal\" tariffs that had just been placed on imports from dozens of countries.",
-    "link": "https://www.abc.net.au/news/2025-04-10/donald-trump-announces-90-day-pause-on-reciprocal-tariffs/105158842",
-    "timestamp": "2025-04-09T17:44:51Z"
-  },
-  {
-    "title": "Local bike company hangs on for dear life as Trump tariffs take hold",
-    "description": "\"It's preposterous. It's impossible, but we're going to hold on as long as we can.\"",
-    "link": "https://bikeportland.org/2025/04/09/local-bike-company-hangs-on-for-dear-life-as-trump-tariffs-take-hold-393905",
-    "timestamp": "2025-04-09T17:44:47Z"
-  },
-  {
-    "title": "Trump raises China tariffs to 125%, pauses others at 10%",
-    "description": "Trump announced the changes on Truth Social, citing disrespect from China.",
-    "link": "https://www.nzherald.co.nz/nz/trump-raises-china-tariffs-to-125-pauses-others-at-10/ZAPTETW4NNHKNAM66ZF6TKTS5M/",
-    "timestamp": "2025-04-09T17:44:22Z"
-  },
-  {
-    "title": "Microsoft says it's 'slowing or pausing' some AI data center projects, including $1B plan for Ohio",
-    "description": "Microsoft said it is \u201cslowing or pausing\u201d some of its data center construction, including a $1 billion project in Ohio, the latest sign that the demand for...",
-    "link": "https://finance.yahoo.com/news/microsoft-says-slowing-pausing-ai-174413910.html",
-    "timestamp": "2025-04-09T17:44:13Z"
-  },
-  {
-    "title": "Trump announces 90-day pause on tariffs for non-retaliating countries",
-    "description": "President Donald Trump says he is pausing his tariffs scheme for 90 days on all trading partners who have not retaliated against the U.S.",
-    "link": "https://biztoc.com/x/b88c6d425710a5bb",
-    "timestamp": "2025-04-09T17:44:11Z"
-  },
-  {
-    "title": "Nvidia jumps 13% after crackdown delay report",
-    "description": "Nvidia Corporation's stock surged over 13% on Wednesday following news that the US temporarily suspended restrictions on its H20 chip after the tech giant pledged to the US President Donald Trump admi...",
-    "link": "https://biztoc.com/x/0c5043ef6c474bde",
-    "timestamp": "2025-04-09T17:44:08Z"
-  },
-  {
-    "title": "US resurrects with Dow up over 2,000 pts, Nasdaq up over 8%",
-    "description": "The United States stock markets continued to thrive on Wednesday as United States President Donald Trump dropped a bombshell, stating that tariffs on most countries will be postponed, while duties on ...",
-    "link": "https://biztoc.com/x/793d8eb736325573",
-    "timestamp": "2025-04-09T17:44:06Z"
-  },
-  {
-    "title": "President Donald Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "WASHINGTON \u2014 Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.\nIt was seemingly an attempt to narrow what had been an unpre\u2026",
-    "link": "https://biztoc.com/x/040386bbceb44f86",
-    "timestamp": "2025-04-09T17:44:04Z"
-  },
-  {
-    "title": "Dow surges 2,000 after President Donald Trump announces a pause on many of his tariffs except for China",
-    "description": "NEW YORK \u2014 U.S. stocks are flying higher after President Donald Trump announced a drop in some of his tariffs, except for China. The S&P 500 was up 5.7% after erasing an earlier loss of 0.7%. The Dow Jones Industrial Average soared 2,000 points, or 5%, and th\u2026",
-    "link": "https://biztoc.com/x/4eec359b90587a6a",
-    "timestamp": "2025-04-09T17:44:04Z"
-  },
-  {
-    "title": "Trump announces 90-day tariff pause for at least some countries",
-    "description": "President Donald Trump on Wednesday announced a 90-day pause on the full effect of his new tariffs for at least some countries.\nTrump in a social media post also said that he \"substantially lowered Reciprocal Tariff during this period, of 10%, also effective \u2026",
-    "link": "https://biztoc.com/x/5d7b86307a63743a",
-    "timestamp": "2025-04-09T17:44:03Z"
-  },
-  {
-    "title": "Trump says he's raising China tariffs further, pausing reciprocal tariffs for others",
-    "description": "The tariff tit-for-tat between the U.S. and China escalated again Wednesday, with President Donald Trump saying that he is immediately raising the tariffs on Chinese goods to 125% over Beijing\u2019s \"lack of respect\" toward America, while pausing and lowering rec\u2026",
-    "link": "https://biztoc.com/x/7bb76c22f21bcc44",
-    "timestamp": "2025-04-09T17:44:01Z"
-  },
-  {
-    "title": "Switch 2 Price Remains In Limbo As New Tariffs Reduced And Paused, With One Major Exception",
-    "description": "In the wake of a crumbling global market, US President Donald Trump announced today that he is scaling back his original tariff plan, lowering tariffs significantly basically everywhere except China. It remains to be seen what this means for the Switch 2, whi\u2026",
-    "link": "https://www.gamespot.com/articles/switch-2-price-remains-in-limbo-as-new-tariffs-reduced-and-paused-with-one-major-exception/1100-6530739/",
-    "timestamp": "2025-04-09T17:44:00Z"
-  },
-  {
-    "title": "Trump backs down on most tariffs for 90 days but raising rate on Chinese imports to 125%",
-    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports.",
-    "link": "https://biztoc.com/x/8c18808161a0c7b5",
-    "timestamp": "2025-04-09T17:44:00Z"
-  },
-  {
-    "title": "Trump Tells Americans to Stay Calm: 'This Is a Great Time to Buy'",
-    "description": "President Donald Trump is telling Americans to \"be cool\" and it \"is a great time to buy\" as his reciprocal tariff policies officially go into effect.\nThe post Trump Tells Americans to Stay Calm: \u2018This Is a Great Time to Buy\u2019 appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2025/04/09/trump-tells-americans-to-stay-calm-this-is-a-great-time-to-buy/",
-    "timestamp": "2025-04-09T17:43:59Z"
-  },
-  {
-    "title": "Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days",
-    "description": "Apple's stock has regained some of its losses after the announcement of a 90-day pause on some new tariffs, while the tariff on imports from China to the U.S. has been jacked up to 125%.Tim Cook (left) and President TrumpFollowing the introduction of a 104% t\u2026",
-    "link": "https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days",
-    "timestamp": "2025-04-09T17:43:51Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://www.news4jax.com/business/2025/04/09/trump-is-trying-to-reshape-the-global-economy-it-seems-in-open-rebellion-against-his-tariffs/",
-    "timestamp": "2025-04-09T17:43:40Z"
-  },
-  {
-    "title": "Tahawwur Rana being brought to India in special flight: Sources",
-    "description": "Tahawwur Rana, accused in the 2008 Mumbai terror attacks, is expected to be extradited to India on a special flight after the US Supreme Court rejected his appeal. Rana, a Canadian national of Pakistani origin, was involved with David Coleman Headley in the a\u2026",
-    "link": "https://economictimes.indiatimes.com/news/india/tahawwur-rana-being-brought-to-india-in-special-flight-sources/articleshow/120136205.cms",
-    "timestamp": "2025-04-09T17:43:40Z"
-  },
-  {
-    "title": "Montana Republicans Say No to Prosecuting Parents for Trans Care",
-    "description": "Five days after President Donald Trump declared \u201cgender ideology\u201d to be \u201cone of the most prevalent forms of child abuse,\u201d Montana\u2019s Republican-controlled House of Representatives killed a bill that would have enshrined much the same idea into state law by cri\u2026",
-    "link": "https://www.motherjones.com/politics/2025/04/montana-republicans-say-no-to-prosecuting-parents-for-trans-care/",
-    "timestamp": "2025-04-09T17:43:01Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Facing a global market meltdown, Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://richmond.com/news/nation-world/government-politics/article_07aac46a-3976-5721-a4a7-c95abcbe4ad7.html",
-    "timestamp": "2025-04-09T17:43:00Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Facing a global market meltdown, Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://roanoke.com/news/nation-world/government-politics/article_19e02663-ac13-504b-bd53-cbdbff3638e0.html",
-    "timestamp": "2025-04-09T17:43:00Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://www.ksat.com/business/2025/04/09/trump-is-trying-to-reshape-the-global-economy-it-seems-in-open-rebellion-against-his-tariffs/",
-    "timestamp": "2025-04-09T17:42:52Z"
-  },
-  {
-    "title": "Donald Trump slowly throttling Iran, says U.S. will directly talk to Tehran about nuclear program, warns if Ayatollahs don\u2019t budge, the country will be in great danger",
-    "description": "Donald Trump Iran nuclear program headlines again as the U.S. ramps up pressure on Tehran with new sanctions targeting five entities and one individual involved in Iran\u2019s nuclear efforts. Trump confirmed the U.S. is set for direct nuclear talks, but warned th\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/donald-trump-slowly-throttling-iran-says-u-s-will-directly-talk-to-tehran-about-nuclear-program-warns-if-ayatollahs-dont-budge-the-country-will-be-in-great-danger/articleshow/120134574.cms",
-    "timestamp": "2025-04-09T17:42:10Z"
-  },
-  {
-    "title": "US Stocks Surge After Trump's 90-Day Pause On Tariffs For Most Nations",
-    "description": "Wall Street stocks rocketed higher suddenly on Wednesday after US President Donald Trump announced a 90-day tariff pause on all countries except China.",
-    "link": "https://www.ndtv.com/world-news/us-stocks-surge-after-trumps-90-day-pause-on-tariffs-for-most-nations-8127587",
-    "timestamp": "2025-04-09T17:42:05Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://www.detroitnews.com/story/business/2025/04/09/trump-tariffs-global-economy/83008909007/",
-    "timestamp": "2025-04-09T17:42:01Z"
-  },
-  {
-    "title": "Trump authorizes 90-Day pause on most tariffs",
-    "description": "Facing a a global market crisis, the US President decided to pause tariffs on most countries for 90 days. He also raised the tariff rate for China to 125%. DW has more.",
-    "link": "https://www.dw.com/en/trump-authorizes-90-day-pause-on-most-tariffs/live-72179999",
-    "timestamp": "2025-04-09T17:42:00Z"
-  },
-  {
-    "title": "Trump announces 90-day pause on tariffs for all trading partners except for China",
-    "description": "President Donald Trump says he is pausing his tariffs scheme for all trading partners except China for 90 days.",
-    "link": "https://www.today.com/news/politics/trump-announces-90-day-pause-tariffs-trading-partners-china-rcna200472",
-    "timestamp": "2025-04-09T17:41:57Z"
-  },
-  {
-    "title": "Biden's inner circle 'convinced themselves' he was capable to run for re-election, author Chris Whipple says",
-    "description": "Author Chris Whipple said Wednesday that former President Biden's inner circle convinced themselves he was up to run for a second term, despite evidence that he wasn't.",
-    "link": "https://www.foxnews.com/media/bidens-inner-circle-convinced-themselves-he-capable-run-re-election-author-chris-whipple-says",
-    "timestamp": "2025-04-09T17:41:31Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "WASHINGTON (AP) \u2014 Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days,<a class=\"excerpt-read-more\" href=\"https://wsvn.com/news/us-world/trump-pauses-tariffs-on-most-nations-for-9\u2026",
-    "link": "https://wsvn.com/news/us-world/trump-pauses-tariffs-on-most-nations-for-90-days-raises-taxes-on-chinese-imports/",
-    "timestamp": "2025-04-09T17:41:28Z"
-  },
-  {
-    "title": "US President Donald Trump issues 90-day pause on reciprocal tariffs",
-    "description": "United States President Donald Trump has issued a 90-day pause for \"reciprocal tariffs,\" and lowered the tariff rate to 10% on countries that do not retaliate with counter-tariffs.However, the President also said he would increase the reciprocal tariff rate o\u2026",
-    "link": "https://cointelegraph.com/news/us-president-donald-trump-issues-90-day-pause-reciprocal-tariffs",
-    "timestamp": "2025-04-09T17:41:20Z"
-  },
-  {
-    "title": "Wall Street soars as Trump halts tariffs for 90 days",
-    "description": "At 01:26 p.m. the Dow Jones Industrial Average rose 2,169.93 points, or 5.76%, to 39,801.82, the S&P 500 gained 321.89 points, or 6.46%, to 5,304.66, and the Nasdaq Composite gained 1,229.20 points, or 8.04%, to 16,497.11.",
-    "link": "https://www.thehindubusinessline.com/markets/wall-street-soars-as-trump-halts-tariffs-for-90-days/article69432753.ece",
-    "timestamp": "2025-04-09T17:41:01Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed off his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://www.local10.com/business/2025/04/09/trump-is-trying-to-reshape-the-global-economy-it-seems-in-open-rebellion-against-his-tariffs/",
-    "timestamp": "2025-04-09T17:40:46Z"
-  },
-  {
-    "title": "BREAKING: Trump Announces Immediate Tariff Increase on China to 125% and Grants 90-Day Tariff Reduction for Over 75 Other Countries",
-    "description": "In a dramatic shift, President Trump imposes a staggering 125% tariff on Chinese imports while announcing a 90-day tariff pause. This bold maneuver raises significant questions about U.S.-China trade relations.\nThe post BREAKING: Trump Announces Immediate Tar\u2026",
-    "link": "https://www.thegatewaypundit.com/2025/04/breaking-trump-announces-immediate-tariff-increase-china-125/",
-    "timestamp": "2025-04-09T17:40:45Z"
-  },
-  {
-    "title": "President Donald Trump: 90-Day Pause for Countries Not Retaliating to Tariffs, China Increases to 125%",
-    "description": "President Donald Trump on Wednesday is rallying the world against China, hitting the adversary with increased tariffs effective immediately while instituting a 90-day pause and \"substantially lowered Reciprocal Tariff during this period\" for other countries t\u2026",
-    "link": "https://www.breitbart.com/politics/2025/04/09/president-donald-trump-90-day-pause-for-countries-not-retaliating-to-tariffs-china-increases-to-125/",
-    "timestamp": "2025-04-09T17:40:25Z"
-  },
-  {
-    "title": "Delta Air Lines pulls financial forecast, saying Trump tariffs hit demand",
-    "description": "DELTA AIR-RESULTS/ (UPDATE 4, PIX):UPDATE 4-Delta Air Lines pulls financial forecast, saying Trump tariffs hit demand",
-    "link": "https://www.livemint.com/companies/company-results/delta-air-lines-pulls-financial-forecast-saying-trump-tariffs-hit-demand-11744220414756.html",
-    "timestamp": "2025-04-09T17:40:14Z"
-  },
-  {
-    "title": "WATCH: Trump\u2019s border czar gets GOP cheers, Democratic tears at Arizona state Capitol",
-    "description": "President Donald Trump's border czar, Tom Homan, was boycotted by Democrat lawmakers at the Arizona legislature within seconds of speaking about the administration's mass deportation program.",
-    "link": "https://www.foxnews.com/politics/trumps-border-czar-gets-gop-cheers-democratic-tears-arizona-state-capitol",
-    "timestamp": "2025-04-09T17:40:12Z"
-  },
-  {
-    "title": "Some fund managers worry Trump 'might be insane,' analyst says",
-    "description": "Fundstrat Global Advisors' Thomas Lee said he's had conversations with fund managers who think the president's actions aren't rational and go beyond politics",
-    "link": "https://qz.com/analysts-worry-about-trumps-sanity-tariffs-1851775478",
-    "timestamp": "2025-04-09T17:40:00Z"
-  },
-  {
-    "title": "Trump says he's backing off of his original retaliatory tariffs \u2014 for 90 days",
-    "description": "At the same time, Trump announced that Chinese goods would now be subject to a 125% tariff, a further escalation in his trade war with China.",
-    "link": "https://www.businessinsider.com/trump-backs-off-retaliatory-tariffs-90-days-china-increase-2025-4",
-    "timestamp": "2025-04-09T17:39:43Z"
-  },
-  {
-    "title": "Trump pauses tariffs on most nations for 90 days, raises taxes on Chinese imports",
-    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports to 125%.",
-    "link": "https://www.clickondetroit.com/business/2025/04/09/trump-is-trying-to-reshape-the-global-economy-it-seems-in-open-rebellion-against-his-tariffs/",
-    "timestamp": "2025-04-09T17:39:40Z"
-  },
-  {
-    "title": "Tariffs Paused for 90 Days (except for China)",
-    "description": "Based on the lack of respect that China has shown to the World\u2019s Markets, I am hereby raising the Tariff charged to China by the United States of America to 125%, effective immediately. At some point, hopefully in the near future, China will realize that the \u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4309970/posts",
-    "timestamp": "2025-04-09T17:39:19Z"
-  },
-  {
-    "title": "GOP Pushback on Trump Tariffs Was Getting Loud Before Pause",
-    "description": "Before President Trump paused his trade war, a growing number of Republicans were voicing their opposition to tariffs, with some backing legislation to rein in Trump\u2019s powers.",
-    "link": "http://nymag.com/intelligencer/article/more-republicans-were-coming-out-against-trumps-new-tariffs.html",
-    "timestamp": "2025-04-09T17:38:24Z"
-  },
-  {
-    "title": "Wall Street leaps after Trump announces 90-day tariff pause",
-    "description": "Trump declared a 90-day pause on reciprocal and 10% tariffs that he had unveiled initially last week, while raising duties on China to 125%.",
-    "link": "https://www.jpost.com/breaking-news/article-849545",
-    "timestamp": "2025-04-09T17:38:17Z"
-  },
-  {
-    "title": "Trump Pauses Higher Tariffs On All Countries",
-    "description": "The ongoing turmoil in financial markets from the day the president declared \u201cLiberation Day\u201d finally generated enough pressure for at least a temporary pause.",
-    "link": "https://www.huffpost.com/entry/donald-trump-pauses-tariffs_n_67f3ecfbe4b0afc2a9d7c2a7",
-    "timestamp": "2025-04-09T17:37:44Z"
-  },
-  {
-    "title": "Trump announces 90-day tariff pause for at least some countries",
-    "description": "President Donald Trump on Wednesday announced a 90-day pause on the full effect of his new tariffs for at least some countries. Trump also said in a social media post that he was raising the tariffs imposed on imports from China to 125% \u201ceffective immediately\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4309969/posts",
-    "timestamp": "2025-04-09T17:37:44Z"
-  },
-  {
-    "title": "Blake Lively reportedly regrets legal showdown with Justin Baldoni as \u2018It Ends With Us\u2019 fallout takes a personal toll",
-    "description": "Blake Lively is reportedly struggling with the personal fallout from her lawsuit against Justin Baldoni. As photos show her retreating to a quiet farm life, insiders say she\u2019s feeling overwhelmed and regretful. With friendships fading and constant public scru\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/blake-lively-reportedly-regrets-legal-showdown-with-justin-baldoni-as-it-ends-with-us-fallout-takes-a-personal-toll/articleshow/120136076.cms",
-    "timestamp": "2025-04-09T17:36:28Z"
-  },
-  {
-    "title": "Bitcoin, XRP and Stocks Surge as Trump Confirms 90-Day Pause on Tariffs\u2014Except on China",
-    "description": "Crypto and stock prices alike are skyrocketing after President Trump confirmed that he has authorized a pause on most trade tariffs.",
-    "link": "https://decrypt.co/314162/bitcoin-xrp-stocks-surge-trump-tariffs-pause",
-    "timestamp": "2025-04-09T17:36:22Z"
-  },
-  {
-    "title": "President Trump says he\u2019s backing down on most tariffs for 90 days, but raising China tariffs",
-    "description": "President Trump says he\u2019s backing down on most tariffs for 90 days, but raising China tariffswsbtv.com",
-    "link": "https://www.wsbtv.com/news/trending/trump-says-hes-backing-down-most-nations-tariffs-90-days-amid-market-meltdown/HBWE2SYSVNCGVCS4GI5T5JWBTY/",
-    "timestamp": "2025-04-09T17:36:14Z"
-  },
-  {
-    "title": "Trump announces 90-day tariff pause for at least some countries",
-    "description": "Trump in a social media post also said that he \"substantially lowered Reciprocal Tariff during this period, of 10%, also effective immediately. \"",
-    "link": "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html",
-    "timestamp": "2025-04-09T17:36:13Z"
-  },
-  {
-    "title": "Trump backs down on most tariffs for 90 days but raising rate on Chinese imports to 125%",
-    "description": "Facing a global market meltdown, President Donald Trump on Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised his tax rate on Chinese imports.",
-    "link": "https://www.pbs.org/newshour/politics/trump-backs-down-on-most-tariffs-for-90-days-but-raising-rate-on-chinese-imports-to-125",
-    "timestamp": "2025-04-09T17:35:47Z"
-  },
-  {
-    "title": "Stocks Soar After Strong Demand in Treasury Auction and Tariff Pause",
-    "description": "The Dow jumped 5.9 percent, the S&P 500 rose 7.3 percent, and the Nasdaq soared 8.9 percent, capping a dramatic rebound from a week of steep losses triggered by spiking bond yields and escalating global tariffs.\nThe post Stocks Soar After Strong Demand in Tre\u2026",
-    "link": "https://www.breitbart.com/economy/2025/04/09/stocks-soar-after-strong-demand-in-treasury-auction/",
-    "timestamp": "2025-04-09T17:34:39Z"
-  },
-  {
-    "title": "Trump announces 90-day 'pause' on reciprocal tariffs for all but China",
-    "description": "\"Based on the lack of respect that China has shown to the World\u2019s Markets, I am hereby raising the Tariff charged to China by the United States of America to 125%, effective immediately. At some point, hopefully in the near future, China will realize that the\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-90-day-pause-on-reciprocal-tariffs-for-all-but-china/articleshow/120136078.cms",
-    "timestamp": "2025-04-09T17:34:01Z"
-  },
-  {
-    "title": "Trump not seeking to re-invigorate US-Russia trade with lack of tariffs, Greer says",
-    "description": "WASHINGTON (Reuters) - U.S. Trade Representative Jamieson Greer told lawmakers on Wednesday that President Donald Trump was not trying to re-invigorate trade with Russia by sparing Russian goods from new tariffs, but it was up to Trump whether to impose any f\u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/04/10/trump-not-seeking-to-re-invigorate-us-russia-trade-with-lack-of-tariffs-greer-says",
-    "timestamp": "2025-04-09T17:34:00Z"
-  },
-  {
-    "title": "New Trump Orders Aim to Keep Coal Power Alive, Despite Climate and Economic Costs - Inside Climate News",
-    "description": "New Trump Orders Aim to Keep Coal Power Alive, Despite Climate and Economic CostsInside Climate News As the White House\u2019s campaign against law firms continues, Trump says a bit too muchMSNBC News Donald Trump Wants to Save the Coal Industry. He\u2019s Too LateWIRE\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176987397",
-    "timestamp": "2025-04-09T17:33:44Z"
-  },
-  {
-    "title": "Trump administration freezes $1B for Cornell, $790M for Northwestern - Politico",
-    "description": "Trump administration freezes $1B for Cornell, $790M for NorthwesternPolitico Trump administration freezes $1 billion in funding for Cornell University, $790 million for Northwestern UniversityCNN Trump Administration Cuts Princeton Funding to Study Climate Ch\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176987389",
-    "timestamp": "2025-04-09T17:33:33Z"
-  },
-  {
-    "title": "Cryptos rebound, Bitcoin over $81,000 again",
-    "description": "The price of cryptocurrencies saw a sharp increase on Wednesday immediately after the news that United States President Donald Trump ordered a 90-day delay on implementing tariffs on and \"substantiall...",
-    "link": "https://biztoc.com/x/5030f1760290962f",
-    "timestamp": "2025-04-09T17:33:17Z"
   }
 ]
