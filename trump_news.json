@@ -1,5 +1,413 @@
 [
   {
+    "title": "Video shows Ukrainian POWs killed by men identified as Russian soldiers",
+    "description": "Ukrainian drone video seen by The Associated Press shows four Ukrainian soldiers who have surrendered being shot to death by men identified as Russian troops in the village of Piatykhatky.",
+    "link": "https://www.pbs.org/newshour/world/video-shows-ukrainian-pows-killed-by-men-identified-as-russian-soldiers",
+    "timestamp": "2025-04-10T18:26:50Z"
+  },
+  {
+    "title": "Tariff risks cloud near-term pharma deals outlook: Rothschild's Stefano Beschi",
+    "description": "Uncertainty surrounding potential US tariffs is threatening to disrupt India's booming pharma deal market, according to Rothschild & Co. While short-term M&A activity may slow due to a lack of confidence and predictability, the industry remains resilient in t\u2026",
+    "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/tariff-risks-cloud-near-term-pharma-deals-outlook-rothschilds-stefano-beschi/articleshow/120174013.cms",
+    "timestamp": "2025-04-10T18:26:33Z"
+  },
+  {
+    "title": "U.S. CISA adds Linux Kernel\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Linux Kernel\u00a0flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)\u00a0added Linux Kernel\u00a0flaws, respectively tracked as CVE-2024-53\u2026",
+    "link": "https://securityaffairs.com/176427/hacking/u-s-cisa-adds-linux-kernel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+    "timestamp": "2025-04-10T18:25:59Z"
+  },
+  {
+    "title": "Panama on edge as US targets China's canal influence",
+    "description": "Panama and the US appear to have agreed to let American warships use the Panama Canal, effectively for free. But beneath the agreement is an ongoing threat to Panamanian sovereignty over the use of the canal.",
+    "link": "https://www.dw.com/en/panama-on-edge-as-us-targets-chinas-canal-influence/a-72207874",
+    "timestamp": "2025-04-10T18:24:00Z"
+  },
+  {
+    "title": "Elon Musk Says DOGE Will Produce Savings Of $150 Billion In FY2026",
+    "description": "The Department of Government Efficiency and Elon Musk have been working for months to reduce government spending and its workforce.",
+    "link": "https://www.forbes.com/sites/mollybohannon/2025/04/10/elon-musk-says-doge-will-produce-savings-of-150-billion-in-fy2026/",
+    "timestamp": "2025-04-10T18:23:56Z"
+  },
+  {
+    "title": "Ana Navarro: Trump 'Should Be in a Padded Room Playing with His Own Drool'",
+    "description": "Ana Navarro told her co-hosts Thursday on ABC's \"The View\"\u00a0 that President Donald Trump \"should be in a padded room.\"\nThe post Ana Navarro: Trump \u2018Should Be in a Padded Room Playing with His Own Drool\u2019 appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/clips/2025/04/10/ana-navarro-trump-should-be-in-a-padded-room-playing-with-his-own-drool/",
+    "timestamp": "2025-04-10T18:23:56Z"
+  },
+  {
+    "title": "Director of ICE Says Deportations Should Operate More Like Amazon Prime",
+    "description": "When Donald Trump first ran for president in 2016, he promised his voters that he would run the government like a business \u2014 draining the swamp of corrupt bureaucrats, leveraging tax loopholes to keep money flowing, and keeping operations \"under budget and ah\u2026",
+    "link": "https://futurism.com/ice-director-deportations-amazon",
+    "timestamp": "2025-04-10T18:23:34Z"
+  },
+  {
+    "title": "Trump punts on markets question as stocks continue to fall",
+    "description": "President Donald Trump said he was not tracking a fall in the stock market as he met with his Cabinet secretaries, a plunge on Thursday that came amid worsening trade tensions with China.",
+    "link": "https://www.nbcnews.com/politics/trump-administration/trump-punts-markets-question-stocks-continue-fall-rcna200683",
+    "timestamp": "2025-04-10T18:23:20Z"
+  },
+  {
+    "title": "In today's \"Bend the knee to Trump, get punished anyway\" news, Columbia University has all NIH grants frozen [Followup]",
+    "description": "In today's \"Bend the knee to Trump, get punished anyway\" news, Columbia University has all NIH grants frozen",
+    "link": "https://www.fark.com/comments/13630080/In-todays-Bend-knee-to-Trump-get-punished-anyway-news-Columbia-University-has-all-NIH-grants-frozen",
+    "timestamp": "2025-04-10T18:23:02Z"
+  },
+  {
+    "title": "Trump says he\u2019s attracted $7 trillion in private investments",
+    "description": "Includes Apple, Eli Lilly, Stargate, the United Arab Emirates, Japan, Saudi Arabia",
+    "link": "https://www.wnd.com/2025/04/trump-says-hes-attracted-7-trillion-in-private-investments/",
+    "timestamp": "2025-04-10T18:22:23Z"
+  },
+  {
+    "title": "Finance Ministry asks ministries to frontload Capex, calls for zero project delays",
+    "description": "India\u2019s finance ministry has urged all ministries to front-load capital expenditure (capex) in FY26 to support domestic growth amid global uncertainty. With no election-related delays this year, the government expects efficient fund utilisation and timely pro\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/finance-ministry-asks-ministries-to-frontload-capex-calls-for-zero-project-delays/articleshow/120173870.cms",
+    "timestamp": "2025-04-10T18:22:22Z"
+  },
+  {
+    "title": "'US auto sales may fall by 1 m in 2025'",
+    "description": "Goldman Sachs has significantly lowered its forecast for US automobile sales this year, anticipating a decrease of nearly one million units. This revision is primarily attributed to President Trump's tariffs, which are expected to increase the cost of both im\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-auto-sales-may-fall-by-1-m-in-2025/articleshow/120173868.cms",
+    "timestamp": "2025-04-10T18:22:21Z"
+  },
+  {
+    "title": "US tariffs on China unleash animal spirits in electronics",
+    "description": "The Indian electronics industry anticipates a surge in investments following the US's temporary suspension of reciprocal tariffs on India while imposing hefty duties on Chinese exports. Industry leaders plan to collaborate with the government to facilitate th\u2026",
+    "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/us-tariffs-on-china-unleash-animal-spirits-in-electronics/articleshow/120173867.cms",
+    "timestamp": "2025-04-10T18:22:21Z"
+  },
+  {
+    "title": "MAGA loyalists says the tariff pause was Trump's plan all along. Trump himself said otherwise",
+    "description": "President Donald Trump announced Wednesday he'd be pausing his retaliatory tariffs plan for 90 days.\nKevin Dietsch/Getty Images\nDonald Trump put a 90-day pause on his tariffs plan.\nIt sure seems like it was prompted by the market meltdown.\nThe president's MAG\u2026",
+    "link": "https://biztoc.com/x/f22a0f496bdf6d17",
+    "timestamp": "2025-04-10T18:21:32Z"
+  },
+  {
+    "title": "These are the people Trump picked for top roles in his administration and their connections",
+    "description": "President Donald Trump has prioritized loyalty in building his second-term team.",
+    "link": "https://biztoc.com/x/93277d249a73a503",
+    "timestamp": "2025-04-10T18:21:31Z"
+  },
+  {
+    "title": "Analysis: The lesson from Trump\u2019s backtrack \u2014 beware the bond market",
+    "description": "Liz\u2019s view\nIt turns out there a \u201cTrump put.\u201d It just had a lower strike price than we thought and was on a different market.\nInvestors who had clung to the idea that enough pain would force Donald Trump to buy back his policies \u2014 a \u201cput\u201d in market-speak \u2014 tur\u2026",
+    "link": "https://biztoc.com/x/bd2019db7461be53",
+    "timestamp": "2025-04-10T18:21:31Z"
+  },
+  {
+    "title": "Goolsbee Says Tariffs Present Stagflationary Shock for Fed",
+    "description": "Federal Reserve Bank of Chicago President Austan Goolsbee said tariffs are a \u201cstagflationary shock\u201d and they pit the central bank\u2019s goals of price stability and full employment against one another.",
+    "link": "https://financialpost.com/pmn/business-pmn/goolsbee-says-tariffs-present-stagflationary-shock-for-fed",
+    "timestamp": "2025-04-10T18:20:56Z"
+  },
+  {
+    "title": "RFK Jr. Says US Will Know Cause of Autism 'Epidemic 'by September",
+    "description": "Last month, the CDC said it is moving forward with a study examining potential connections between vaccines and autism.",
+    "link": "https://www.newsweek.com/rfk-jr-says-us-will-know-cause-autism-epidemic-september-2058191",
+    "timestamp": "2025-04-10T18:20:27Z"
+  },
+  {
+    "title": "26/11 Attacks Survivor Recalls Horror, How He Escaped Death",
+    "description": "Tahawwur Hussain Rana, a terrorist who was jailed in the US for his role in the 26/11 Mumbai terror attacks, has been extradited to India and will be put to trial for his role in the attacks that shook the nation to its core in 2008.",
+    "link": "https://www.ndtv.com/india-news/smoke-began-coming-in-thought-it-was-over-26-11-survivor-ajay-bagga-recalls-taj-attacks-8135532",
+    "timestamp": "2025-04-10T18:20:17Z"
+  },
+  {
+    "title": "Canadian retailers are seeing a surge in domestic sales amid the \u2018Buy Canadian\u2019 movement",
+    "description": "Though still in its early stages, the \u2018Buy Canadian\u2019 movement is already delivering promising results across the retail sector.",
+    "link": "https://theconversation.com/canadian-retailers-are-seeing-a-surge-in-domestic-sales-amid-the-buy-canadian-movement-253502",
+    "timestamp": "2025-04-10T18:19:22Z"
+  },
+  {
+    "title": "With coal executive orders, Trump returns to the scene of the con",
+    "description": "While Trump tries to destroy the fast-growing green energy industry, he wants Americans to believe that our future depends on burning more coal.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-coal-executive-orders-con-rcna200329",
+    "timestamp": "2025-04-10T18:19:07Z"
+  },
+  {
+    "title": "Close to deals with trading partners: US",
+    "description": "The United States is evaluating tariff agreement offers from 15 countries, with potential deals on the horizon, according to White House economic advisor Kevin Hassett. Following recent market volatility and a reversal on tariffs by President Trump, trade off\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/close-to-deals-with-trading-partners-us/articleshow/120173763.cms",
+    "timestamp": "2025-04-10T18:19:02Z"
+  },
+  {
+    "title": "P.E.I. projects record $183.9M deficit in budget designed with population growth, trade war in mind",
+    "description": "Prince Edward Island is projecting the largest budget deficit in its history for the 2025-2026 fiscal year, according to the province\u2019s latest budget, tabled in the legislature Thursday by Finance Minister Jill Burridge.",
+    "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-record-budget-deficit-1.7507028",
+    "timestamp": "2025-04-10T18:18:22Z"
+  },
+  {
+    "title": "Major NYT report exposes Trump's 'formal plan' to seize control of Greenland",
+    "description": "The New York Times is reporting that President Donald Trump's administration has crafted a \"formal plan\" to take control of Greenland \u2014 although for the moment the plan does not involve using military force to seize the territory.Instead, the Times reports th\u2026",
+    "link": "https://www.rawstory.com/trump-greenland-2671742286/",
+    "timestamp": "2025-04-10T18:17:44Z"
+  },
+  {
+    "title": "Trump tariff spike fuels new House bill to lock China out of US government tech",
+    "description": "A bipartisan duo in the House is leading a crackdown on Chinese technology in the U.S. after President Donald Trump's tariff announcement.",
+    "link": "https://www.foxnews.com/politics/trump-tariff-spike-fuels-new-house-bill-lock-china-out-us-government-tech",
+    "timestamp": "2025-04-10T18:17:43Z"
+  },
+  {
+    "title": "Trump\u2019s Tariffs Are a Gift to Xi",
+    "description": "Despite the steep tax on China, the U.S.-led economic roller coaster could work out in Beijing\u2019s favor.",
+    "link": "http://foreignpolicy.com/2025/04/10/trump-us-tariffs-china-impact-xi-jinping-global-order/",
+    "timestamp": "2025-04-10T18:17:31Z"
+  },
+  {
+    "title": "Supreme Court tepid on Trump while defending power to check president: ANALYSIS",
+    "description": "As President Trump pushes the limits of executive power, the Supreme Court is avoiding confrontation with the White House while flexing its right of judicial review.",
+    "link": "https://abcnews.go.com/Politics/supreme-court-tepid-trump-defending-power-check-president/story?id=120653002",
+    "timestamp": "2025-04-10T18:16:52Z"
+  },
+  {
+    "title": "Musk says DOGE set to top $150B in fraud savings in FY 2026",
+    "description": "Elon Musk told President Donald Trump on Thursday that DOGE expects to save the U.S. government more than $150 billion in waste and fraud in FY 2026.",
+    "link": "https://www.foxnews.com/politics/musk-says-doge-set-top-150b-fraud-savings-fy-2026",
+    "timestamp": "2025-04-10T18:16:10Z"
+  },
+  {
+    "title": "African nations that faced steep Trump tariffs get some relief but mostly more uncertainty",
+    "description": "CAPE TOWN, South Africa (AP) \u2014 African nations that faced some of the steepest reciprocal tariffs from the Trump administration were given a moment of relief Thursday by the suspension of the duties, only for new uncertainties to hang over key businesses send\u2026",
+    "link": "https://financialpost.com/pmn/african-nations-that-faced-steep-trump-tariffs-get-some-relief-but-mostly-more-uncertainty",
+    "timestamp": "2025-04-10T18:15:18Z"
+  },
+  {
+    "title": "Chinese Supermarket Facing Tariffs Hit: 'Not Easy for Us'",
+    "description": "Kam Man Food, a Chinese supermarket in Manhattan, told Newsweek's Bianca He that tariffs are already impacting the local store.",
+    "link": "https://www.newsweek.com/chinese-supermarket-facing-tariffs-hit-not-easy-us-2058113",
+    "timestamp": "2025-04-10T18:15:07Z"
+  },
+  {
+    "title": "Trump pick to lead Interior's land management agency withdraws nomination (Ben Lefebvre/Politico)",
+    "description": "Ben Lefebvre / Politico:\nTrump pick to lead Interior's land management agency withdraws nomination\u00a0 \u2014\u00a0 Kathleen Sgamma's withdrawal comes after a 4-year-old memo resurfaced showing she criticized President Donald Trump's role in the Jan. 6 riot at the Capitol\u2026",
+    "link": "https://www.memeorandum.com/250410/p91",
+    "timestamp": "2025-04-10T18:15:01Z"
+  },
+  {
+    "title": "Young people won't, or can't, read a book. Now democracy is dying. Coincidence? (Will Bunch/The Philadelphia Inquirer)",
+    "description": "Will Bunch / The Philadelphia Inquirer:\nYoung people won't, or can't, read a book.\u00a0 Now democracy is dying.\u00a0 Coincidence?\u00a0 \u2014\u00a0 The notion of Donald Trump \u2014 who lived most of his adult life in a gilded penthouse above Fifth Avenue and thinks that he invented th\u2026",
+    "link": "https://www.memeorandum.com/250410/p93",
+    "timestamp": "2025-04-10T18:15:01Z"
+  },
+  {
+    "title": "US aims to uncover autism cause by September after eluding scientists for decades",
+    "description": "WASHINGTON (Reuters) -The United States will identify the cause of autism by September this year, Secretary of Health and Human Services Robert F. Kennedy Jr...",
+    "link": "https://www.yahoo.com/news/health-secretary-kennedy-says-us-181457493.html",
+    "timestamp": "2025-04-10T18:14:57Z"
+  },
+  {
+    "title": "These are the people Trump picked for top roles in his administration and their connections",
+    "description": "President Donald Trump has prioritized loyalty in building his second-term team.",
+    "link": "https://www.pbs.org/newshour/politics/these-are-the-people-trump-picked-for-top-roles-in-his-administration-and-their-connections",
+    "timestamp": "2025-04-10T18:14:23Z"
+  },
+  {
+    "title": "Sneakers Will Cost More Due To Trump Tariffs, Explained",
+    "description": "On Wednesday (April 9), Donald Trump might\u2019ve certainly committed market manipulation when he paused his ridiculous tariff policies on most of the world (those penguins on the McDonald Islands must be relieved), but unfortunately, his tariffs on China remain \u2026",
+    "link": "https://hiphopwired.com/2673804/matt-priest-president-fdra-explains-sneakers-cost-trump-tariffs/",
+    "timestamp": "2025-04-10T18:14:20Z"
+  },
+  {
+    "title": "I have a shipment coming from Temu. Am I going to have to pay a giant fee?",
+    "description": "I placed a Temu order just before Donald Trump's \"Liberation Day\" tariffs. Since then, it's been chaos. The one big question: Will my stuff arrive?",
+    "link": "https://www.businessinsider.com/temu-order-trump-tariffs-what-happens-now-2025-4",
+    "timestamp": "2025-04-10T18:14:19Z"
+  },
+  {
+    "title": "Nintendo may sell the Switch 2 at a loss in the US due to tariffs",
+    "description": "The Nintendo Switch 2 is functionally similar to its predecessor. Sure, the detachable controllers can now each be used as a mouse (on your pants, no less), the screen is bigger, the hardware is more powerful and there's a built-in mic for voice chat. But oth\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176995661",
+    "timestamp": "2025-04-10T18:13:33Z"
+  },
+  {
+    "title": "Iran\u2019s president insists Tehran \u2018not after nuclear bomb,\u2019 invites US investors - The Times of Israel",
+    "description": "Iran\u2019s president insists Tehran \u2018not after nuclear bomb,\u2019 invites US investorsThe Times of Israel Donald Trump\u2019s oddly sensible move: seeking a deal with IranThe Economist As Trump Squares Off With Iran, the Middle East Is on EdgeWSJ Long, fraught timeline of\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=176995655",
+    "timestamp": "2025-04-10T18:12:57Z"
+  },
+  {
+    "title": "We want to give negotiations a chance, says EU",
+    "description": "The European Union will temporarily suspend its retaliatory measures for 90 days, aligning with President Trump's decision to pause new tariffs on global trading partners. This pause aims to facilitate negotiations and find solutions to US trade concerns.",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/we-want-to-give-negotiations-a-chance-says-eu/articleshow/120173493.cms",
+    "timestamp": "2025-04-10T18:12:04Z"
+  },
+  {
+    "title": "Senate Republicans cheer Trump\u2019s tariff \u2018pause\u2019",
+    "description": "'It's good to see other countries coming in, negotiating \u2013 over 70 of them now'",
+    "link": "https://www.wnd.com/2025/04/senate-republicans-cheer-trumps-tariff-pause/",
+    "timestamp": "2025-04-10T18:11:31Z"
+  },
+  {
+    "title": "Oeuf! U.S. egg prices hit record high despite Trump's claim they're 'much cheaper'",
+    "description": "U.S. egg prices increased again last month to reach a new record high of $6.23 US per dozen despite U.S. President Donald Trump's predictions.",
+    "link": "https://www.cbc.ca/news/world/egg-prices-trump-1.7506739",
+    "timestamp": "2025-04-10T18:10:51Z"
+  },
+  {
+    "title": "MAGA loyalists says the tariff pause was Trump's plan all along. Trump himself said otherwise.",
+    "description": "After Trump announced on Wednesday he'd be pausing his retaliatory tariffs plan, some MAGA faithful rushed to defend it as part of a larger strategy.",
+    "link": "https://www.businessinsider.com/trump-tariff-pause-part-of-plan-or-not-2025-4",
+    "timestamp": "2025-04-10T18:10:11Z"
+  },
+  {
+    "title": "US consumer inflation eases ahead of tariffs",
+    "description": "WASHINGTON, April 10 (Reuters) - U.S. consumer prices unexpectedly fell in March amid cheaper gasoline and used motor vehicles, but the benign inflation reading is unlikely to be sustained after President Donald Trump doubled down on tariffs on imported Chine\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4310218/posts",
+    "timestamp": "2025-04-10T18:08:58Z"
+  },
+  {
+    "title": "House GOP Approves Economic Attack on Poor to Fund 'Big Payout' for Billionaires",
+    "description": "In a party-line vote, House Republicans on Thursday approved a budget blueprint that sets the stage for the GOP to pass another round of tax cuts for the rich, paid for in part by slashing Medicaid, federal nutrition assistance, and other critical programs.\n\n\u2026",
+    "link": "https://www.commondreams.org/news/house-republicans-budget-blueprint",
+    "timestamp": "2025-04-10T18:08:17Z"
+  },
+  {
+    "title": "Were They \u201cGetting Yippy\u201d or Was Trump Manipulating the Market?",
+    "description": "Sasha Abramsky\n\n\n\nI don\u2019t know exactly what went down in the hours before Trump publicly announced a \u201cpause\u201d on tariffs, but it merits investigation.\r\n\n\r\n\n\nThe post Were They \u201cGetting Yippy\u201d or Was Trump Manipulating the Market? appeared first on The Nation.",
+    "link": "https://www.thenation.com/article/economy/getting-yippy-trump-market/",
+    "timestamp": "2025-04-10T18:07:33Z"
+  },
+  {
+    "title": "US Congress paves way for Trump tax giveaway",
+    "description": "WASHINGTON: The Republican-led US Congress adopted a budget Thursday (Apr 10) that unlocks trillions of dollars for President Donald Trump's agenda, jump-starting what Democrats say is",
+    "link": "https://www.channelnewsasia.com/world/us-congress-paves-way-trump-tax-giveaway-5058081",
+    "timestamp": "2025-04-10T18:07:20Z"
+  },
+  {
+    "title": "Florida to charge man already jailed for attempted Trump assassination",
+    "description": "Florida's attorney general said Ryan Routh will face additional state terrorism and attempted murder charges.",
+    "link": "https://www.cbsnews.com/miami/news/florida-brings-charges-against-a-man-jailed-on-federal-counts-of-trying-to-assassinate-trump-4/",
+    "timestamp": "2025-04-10T18:06:59Z"
+  },
+  {
+    "title": "\u2018I\u2019ve Heard of Worse Things\u2019: Trump Laughs Off China Blocking Hollywood Releases In Retaliation to Tariffs",
+    "description": "President Donald Trump laughed off China blocking the release of Hollywood movies in retaliation against his tariffs.\nThe post \u2018I\u2019ve Heard of Worse Things\u2019: Trump Laughs Off China Blocking Hollywood Releases In Retaliation to Tariffs first appeared on Mediait\u2026",
+    "link": "https://www.mediaite.com/news/ive-heard-of-worse-things-trump-laughs-off-china-blocking-hollywood-releases-in-retaliation-to-tariffs/",
+    "timestamp": "2025-04-10T18:06:24Z"
+  },
+  {
+    "title": "Uncle Scam: Trump Administration Facing Insider Trading Allegations",
+    "description": "Democrats in Congress are questioning if President Donald Trump's about-face on tariffs was insider trading in light of the stock market's improvement Wednesday.",
+    "link": "https://hiphopwired.com/2673931/trump-administration-facing-insider-trading-allegations/",
+    "timestamp": "2025-04-10T18:06:22Z"
+  },
+  {
+    "title": "$ slumps on Trump's stop-start on duties",
+    "description": "The US dollar experienced a significant decline against the euro and other major currencies on Thursday following President Trump's decision to halt tariff increases on all nations except China, heightening market instability. Anticipation of weaker US inflat\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/-slumps-on-trumps-stop-start-on-duties/articleshow/120173341.cms",
+    "timestamp": "2025-04-10T18:05:58Z"
+  },
+  {
+    "title": "Trump Undoes 'Ridiculous' Obama-Biden Rule with the Stroke of a Pen",
+    "description": "President Donald Trump has rescued Americans' showers from the clutches of an Obama-Biden rule that limited water flow.",
+    "link": "https://www.westernjournal.com/trump-undoes-ridiculous-obama-biden-rule-stroke-pen/",
+    "timestamp": "2025-04-10T18:05:46Z"
+  },
+  {
+    "title": "This federal rule helped clear air over America\u2019s most beloved parks. Trump\u2019s EPA wants to kill it",
+    "description": "The regional haze rule is among the environmental regulations in danger of being rolled back.",
+    "link": "https://www.bostonherald.com/2025/04/10/trump-epa-parks-haze/",
+    "timestamp": "2025-04-10T18:04:40Z"
+  },
+  {
+    "title": "Trump\u2019s Bureau of Land Management Pick Bails Out Over January 6 Condemnation",
+    "description": "This story was\u00a0originally published\u00a0on the Substack\u00a0Public Domain,\u00a0to which you can subscribe\u00a0here. Kathleen Sgamma, a longtime oil and gas activist, withdrew her nomination to lead the federal Bureau of Land Management hours before her confirmation hearing T\u2026",
+    "link": "https://www.motherjones.com/politics/2025/04/trump-bureau-land-management-blm-pick-kathleen-sgamma-withdraws-nomination-january-6-criticism/",
+    "timestamp": "2025-04-10T18:04:03Z"
+  },
+  {
+    "title": "House Passes Senate Budget Plan Backing Trump Priorities After Conservative Pushback",
+    "description": "In a close victory, House GOP members barely passed a budget resolution which will allow them to begin unlocking President Donald Trump\u2019s agenda package. In a 216-214 vote on Thursday, the measure passed. The vote was made tighter as two Republicans, Represen\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4310215/posts",
+    "timestamp": "2025-04-10T18:03:08Z"
+  },
+  {
+    "title": "The Data Shows Trump\u2019s \u2018Radical Leftist Judge\u2019 Claims Are Pure MAGA Delusion & Projection",
+    "description": "For four years, Trump supporters regularly exploited the federal judiciary, carefully selecting friendly judges in single-judge districts to block Biden administration policies through nationwide injunctions. Now that the shoe is on the other foot, with court\u2026",
+    "link": "https://www.techdirt.com/2025/04/10/the-data-shows-trumps-radical-leftist-judge-claims-are-pure-maga-delusion-projection/",
+    "timestamp": "2025-04-10T18:03:00Z"
+  },
+  {
+    "title": "Will both parties see a leadership change in the next parliament?",
+    "description": "Election results trigger, or subsequently lead to, leadership resets. Even in the turmoil of a campaign, players will also have their eyes on the future.",
+    "link": "https://www.abc.net.au/news/2025-04-11/will-both-parties-see-a-leadership-change/105162922",
+    "timestamp": "2025-04-10T18:03:00Z"
+  },
+  {
+    "title": "Will both parties see a leadership change in the next parliament?",
+    "description": "Election results trigger, or subsequently lead to, leadership resets. Even in the turmoil of a campaign, players will also have their eyes on the future.",
+    "link": "https://www.abc.net.au/news/2025-04-11/michelle-grattan-template/105162922",
+    "timestamp": "2025-04-10T18:03:00Z"
+  },
+  {
+    "title": "'Re-tale' Walmart sees tariffs as opportunity to gain mkt share",
+    "description": "Walmart remains confident in achieving its financial targets for the year, despite economic uncertainty caused by tariff turbulence. The company anticipates net sales growth of 3% to 4%, factoring in the impact of tariffs. To maintain competitive pricing, Wal\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/re-tale-walmart-sees-tariffs-as-opportunity-to-gain-mkt-share/articleshow/120173243.cms",
+    "timestamp": "2025-04-10T18:02:48Z"
+  },
+  {
+    "title": "Fed Leans Against Inflation and Away From Preemptive Rate Cuts",
+    "description": "Federal Reserve officials are prepared to hold their policy rate steady to minimize the risk that President Donald Trump\u2019s tariffs trigger a persistent rise in inflation, even if the labor market softens further.",
+    "link": "https://financialpost.com/pmn/business-pmn/fed-leans-against-inflation-and-away-from-preemptive-rate-cuts",
+    "timestamp": "2025-04-10T18:01:17Z"
+  },
+  {
+    "title": "Inflation Drops to Lowest Level in Four Years 2.4%",
+    "description": "The Bureau of Labor and Statistics (BLS) releases the Consumer Price Index for February [DATA HERE], reflecting a drop in the year-over-year inflation rate to the lowest level in four years.The rate of inflation dropped significantly due to lower gasoline (-6\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4310214/posts",
+    "timestamp": "2025-04-10T18:01:15Z"
+  },
+  {
+    "title": "Inflation Drops to Lowest Level in Four Years 2.4%",
+    "description": "The Bureau of Labor and Statistics (BLS) releases the Consumer Price Index for February [DATA HERE], reflecting a drop in the year-over-year inflation rate to the lowest level in four years.The rate of inflation dropped significantly due to lower gasoline (-6\u2026",
+    "link": "https://freerepublic.com/focus/f-bloggers/4310214/posts",
+    "timestamp": "2025-04-10T18:01:15Z"
+  },
+  {
+    "title": "Trump: 'Getting closer to returning hostages, Hamas are very bad people'",
+    "description": "US envoy Steve Witkoff tells hostage families a deal to return their loved ones could be \"a matter of days.",
+    "link": "https://www.israelnationalnews.com/news/406728",
+    "timestamp": "2025-04-10T18:01:00Z"
+  },
+  {
+    "title": "Exclusive: Rep. Tom Tiffany Debuts Bill Taking U.S. Out of World Trade Organization",
+    "description": "Rep. Tom Tiffany (R-WI) introduced a one-page bill on Thursday that would withdraw Congressional approval for the United States to be a member of the World Trade Organization (WTO), an international institution built to promote economic globalism and set stan\u2026",
+    "link": "https://www.breitbart.com/economy/2025/04/10/exclusive-rep-tom-tiffany-debuts-bill-taking-u-s-out-of-world-trade-organization/",
+    "timestamp": "2025-04-10T18:00:28Z"
+  },
+  {
+    "title": "Why 'The Big Short' investor Kyle Bass says the US might need to go through a recession",
+    "description": "\"We must reset our trade relationships with the rest of the world, we also must narrow our fiscal deficit,\" Bass said on Thursday.",
+    "link": "https://www.businessinsider.com/tariffs-recession-kylebass-big-short-stagflation-stock-market-crash-2025-4",
+    "timestamp": "2025-04-10T18:00:13Z"
+  },
+  {
+    "title": "TikTok fuels ByteDance revenue as US ban looms: report",
+    "description": "TikTok's international revenue boomed last year as China-based parent ByteDance faced a deadline to sell the app or have it banned in the United States, The Information reported on Thursday.",
+    "link": "https://techxplore.com/news/2025-04-tiktok-fuels-bytedance-revenue-looms.html",
+    "timestamp": "2025-04-10T18:00:05Z"
+  },
+  {
+    "title": "Billionaires, trusted allies, media personalities. These are the people Trump picked for top roles",
+    "description": "Also included are people who worked on Project 2025.",
+    "link": "https://www.bostonherald.com/2025/04/10/trump-connections-billionaires/",
+    "timestamp": "2025-04-10T17:59:33Z"
+  },
+  {
+    "title": "The tariff apocalypse has not been canceled",
+    "description": "Last week, President Donald Trump declared a series of tariffs that pitted the United States against the rest of the world. Big companies stayed nervously silent; small ones panicked. The stock market plunged. And surely worst of all, Switch 2 preorders were \u2026",
+    "link": "https://biztoc.com/x/ba3f8312cf1b8913",
+    "timestamp": "2025-04-10T17:59:27Z"
+  },
+  {
+    "title": "Trump: I haven't seen today's market drop",
+    "description": "United States President Donald Trump indicated he was unaware of the day's market performance. \"Well I haven't seen it because I've been here,\" he answered when asked for a reaction during his cabinet...",
+    "link": "https://biztoc.com/x/565c21a8df76178c",
+    "timestamp": "2025-04-10T17:59:24Z"
+  },
+  {
     "title": "Investor Bill Ackman: China Isolated After Trump Tariff Reversal Move",
     "description": "Billionaire investor Bill Ackman said on Thursday China was now isolated and other U.S. trading partners were lining up to make deals following President Donald Trump's stunning reversal of his tariff decision.Trump said on Wednesday he would temporarily lowe\u2026",
     "link": "https://freerepublic.com/focus/f-news/4310213/posts",
@@ -154,407 +562,5 @@
     "description": "Donald Trump asked HHS Secretary Robert F. Kennedy Jr. to weigh in on the release of government files pertaining to the assassination of his father.\nThe post \u2018Bobby, How Do You Feel About That?\u2019 Trump Asks RFK Jr. to Weigh in on \u2018Very Personal\u2019 Release of His\u2026",
     "link": "https://www.mediaite.com/trump/bobby-how-do-you-feel-about-that-trump-asks-rfk-jr-to-weigh-in-on-very-personal-release-of-his-fathers-assassination-files/",
     "timestamp": "2025-04-10T17:49:42Z"
-  },
-  {
-    "title": "Congress Is Still Trying to Wrest Back Trade Authority From Trump",
-    "description": "But it will likely take far more economic damage to reverse decades of trade delegation.",
-    "link": "http://foreignpolicy.com/2025/04/10/congress-trade-trump-tariffs-economics/",
-    "timestamp": "2025-04-10T17:49:27Z"
-  },
-  {
-    "title": "Wall Street loses more than half of Wednesday's historic surge as US-China trade tensions escalate",
-    "description": "U.S. stocks are surrendering a chunk of their historic gains from the day before as President Donald Trump\u2019s trade war continues to confuse and threaten the economy, even if its temperature has cooled a bit.",
-    "link": "https://www.clickondetroit.com/business/2025/04/10/japans-benchmark-nikkei-225-shoots-up-in-early-trading-gaining-more-than-2000-points/",
-    "timestamp": "2025-04-10T17:48:54Z"
-  },
-  {
-    "title": "Donald Trump bends to the power of the markets",
-    "description": "But trade war with China and tariffs on most US imports still risk great harm",
-    "link": "https://biztoc.com/x/716a9cd72ef09c54",
-    "timestamp": "2025-04-10T17:48:40Z"
-  },
-  {
-    "title": "The Trump Administration Is Turning Science Against Itself",
-    "description": "In addition to firing researchers and pulling funds, the Trump administration is also inverting science.",
-    "link": "https://www.wired.com/story/trump-administration-science/",
-    "timestamp": "2025-04-10T17:48:37Z"
-  },
-  {
-    "title": "Rimini Street, Inc. (RMNI): Among Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout",
-    "description": "We recently published a list of 10 Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout. In this article, we are going to take a look at where Rimini...",
-    "link": "https://finance.yahoo.com/news/rimini-street-inc-rmni-among-174836218.html",
-    "timestamp": "2025-04-10T17:48:36Z"
-  },
-  {
-    "title": "Former Air Force Secretary: If You Are Not Alarmed by Gen. Timothy Haugh's Removal, You Should Be | Opinion",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nYou may have missed it amid a flurry of news about President Donald Trump's disastrous \"Liberation Day,\" which sent stock markets into a tailspin and sparked fears of a recession. But late last week, Trump mad\u2026",
-    "link": "https://biztoc.com/x/e46326622657da3c",
-    "timestamp": "2025-04-10T17:48:34Z"
-  },
-  {
-    "title": "EU to announce verdict in Apple & Meta antitrust cases in coming weeks",
-    "description": "The European Union (EU) is all set to announce verdicts in the antitrust cases against Apple and Meta in the coming weeks.",
-    "link": "https://www.androidheadlines.com/2025/04/eu-announce-verdict-apple-meta-antitrust-cases.html",
-    "timestamp": "2025-04-10T17:48:03Z"
-  },
-  {
-    "title": "Trump ends Biden-era water regulations to \u2018make America\u2019s showers great again\u2019",
-    "description": "Trump has signed an executive order directing the Secretary of Energy to rescind a \"complicated\" rule that limited water output in households appliances.",
-    "link": "https://www.foxnews.com/politics/trump-ends-biden-era-water-regulations-make-americas-showers-great-again",
-    "timestamp": "2025-04-10T17:47:43Z"
-  },
-  {
-    "title": "China reaches out to other nations as Trump layers on tariffs",
-    "description": "China is reaching out to other nations as the U.S. layers on tariffs, in what appears to be an attempt by Beijing to form a united front to compel Washington to retreat.",
-    "link": "https://www.pbs.org/newshour/world/china-reaches-out-to-other-nations-as-trump-layers-on-tariffs",
-    "timestamp": "2025-04-10T17:47:08Z"
-  },
-  {
-    "title": "Trump praises Dem Gov. Gretchen Whitmer after slamming her last year: 'Very good person'",
-    "description": "President Donald Trump praised Michigan Gov. Gretchen Whitmer this week after slamming her last year as a \"terrible governor.\"",
-    "link": "https://www.foxnews.com/politics/trump-praises-dem-gov-gretchen-whitmer-after-slamming-her-last-year-very-good-person",
-    "timestamp": "2025-04-10T17:46:50Z"
-  },
-  {
-    "title": "LA County homeless spending under the microscope of newly appointed US attorney",
-    "description": "Newly appointed U.S. Attorney Bill Essayli has launched a federal task force to investigate billions in unaccounted homeless funds in Los Angeles County.",
-    "link": "https://www.foxnews.com/us/la-county-homeless-spending-under-microscope-newly-appointed-us-attorney",
-    "timestamp": "2025-04-10T17:46:28Z"
-  },
-  {
-    "title": "Former Air Force Secretary: If You Are Not Alarmed by Gen. Timothy Haugh's Removal, You Should Be | Opinion",
-    "description": "The move to install leadership loyal to President Donald Trump personally at NSA and CYBERCOM is one more disturbing part of the Trump administration's pattern of abuse of power, coercion, and disregard for the rule of law.",
-    "link": "https://www.newsweek.com/former-air-force-secretary-if-you-are-not-alarmed-gen-timothy-haughs-removal-you-should-2058170",
-    "timestamp": "2025-04-10T17:46:05Z"
-  },
-  {
-    "title": "Apple has few incentives to start making iPhones in US, despite Trump's trade war with China",
-    "description": "Despite Trump's tariffs aiming to push Apple to manufacture iPhones in the U.S., experts say it's unlikely due to high costs, complex supply chains, and labor challenges. Shifting production could triple iPhone prices, hurt sales, and isn\u2019t feasible before at\u2026",
-    "link": "https://economictimes.indiatimes.com/tech/technology/apple-has-few-incentives-to-start-making-iphones-in-us-despite-trumps-trade-war-with-china/articleshow/120172618.cms",
-    "timestamp": "2025-04-10T17:44:16Z"
-  },
-  {
-    "title": "Inside Trump\u2019s decision to pause most tariffs \u2014 and turn up heat on China \u2014 to lock in better trade deals for US",
-    "description": "The idea of scaling back eye-watering \"reciprocal\" tariffs rattled around President Trump's head for several days after the April 2 \"Liberation Day\" announcement.",
-    "link": "https://nypost.com/2025/04/10/us-news/how-trump-decided-to-pause-most-tariffs-and-turn-up-heat-on-china/",
-    "timestamp": "2025-04-10T17:44:11Z"
-  },
-  {
-    "title": "How To Defend Democracy with Color Revolutions",
-    "description": "Translating demoralization agent Norm Eisen's doublespeak in \"Democracy Playbook 2025\" - why did Chief Justice John Roberts spend a week living with him? Comrades: Norm Eisen is orchestrating color revolutions in plain sight. In January, he published \"Democra\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4310209/posts",
-    "timestamp": "2025-04-10T17:43:45Z"
-  },
-  {
-    "title": "nCino, Inc. (NCNO): Among Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout",
-    "description": "We recently published a list of 10 Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout. In this article, we are going to take a look at where nCino...",
-    "link": "https://finance.yahoo.com/news/ncino-inc-ncno-among-stocks-174319615.html",
-    "timestamp": "2025-04-10T17:43:19Z"
-  },
-  {
-    "title": "House passes bill targeting noncitizen voting - already illegal in federal elections - in Trump-aligned push | CNN Politics",
-    "description": "The House passed a Republican-led bill Thursday to require documentary proof of US citizenship to register to vote in federal elections, despite the fact that it is already illegal for noncitizens to vote in federal elections.",
-    "link": "https://www.cnn.com/2025/04/10/politics/save-act-noncitizen-voting-bill-house/index.html",
-    "timestamp": "2025-04-10T17:42:52Z"
-  },
-  {
-    "title": "'Republicans have put themselves in a bind' with budget plan: MSNBC's Ryan Noble\u200bs",
-    "description": "MSNBC's Ryan Nobles on Thursday said that congressional Republicans have made things more difficult for themselves as they move to try to pass President Donald Trump's budget package.After Republicans in the House of Representatives successfully passed a blue\u2026",
-    "link": "https://www.rawstory.com/republicans-budget-2671742196/",
-    "timestamp": "2025-04-10T17:42:01Z"
-  },
-  {
-    "title": "Mid-America Apartment Communities (MAA): Among Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout",
-    "description": "We recently published a list of 10 Stocks Insiders Sold in April After Trump\u2019s Tariff Rollout. In this article, we are going to take a look at where Mid...",
-    "link": "https://finance.yahoo.com/news/mid-america-apartment-communities-maa-174108372.html",
-    "timestamp": "2025-04-10T17:41:08Z"
-  },
-  {
-    "title": "The House passed a requirement to prove US citizenship to vote. This is how it could affect voting",
-    "description": "The SAVE Act now heads to the Senate.",
-    "link": "https://www.denverpost.com/2025/04/10/congress-elections-save-act/",
-    "timestamp": "2025-04-10T17:40:56Z"
-  },
-  {
-    "title": "The House passed a requirement to prove US citizenship to vote. This is how it could affect voting",
-    "description": "The SAVE Act now heads to the Senate.",
-    "link": "https://www.bostonherald.com/2025/04/10/congress-elections-save-act/",
-    "timestamp": "2025-04-10T17:40:56Z"
-  },
-  {
-    "title": "Trump\u2019s tariffs \u2018pause\u2019 could help Nintendo ship more Switch 2s",
-    "description": "President Donald Trump\u2019s \u201c90-day pause\u201d on high tariffs for many countries could be good news for Nintendo. The shift marks an opportunity for the company to ship more Switch 2 units from Vietnam to the US. And customs data reported on by Bloomberg suggests t\u2026",
-    "link": "https://www.theverge.com/news/646693/trump-tariffs-pause-nintendo-switch-2",
-    "timestamp": "2025-04-10T17:39:25Z"
-  },
-  {
-    "title": "Billionaires dream of building utopian techno-city in Greenland",
-    "description": "The 'freedom city' is the latest effort to create stateless cities with minimal corporate regulation.\nThe post Billionaires dream of building utopian techno-city in Greenland appeared first on Popular Science.",
-    "link": "https://www.popsci.com/technology/billionaire-freedom-city-greenland/",
-    "timestamp": "2025-04-10T17:38:39Z"
-  },
-  {
-    "title": "Israel fears 'real danger' Trump may strike mediocre nuke deal with Iran",
-    "description": "Top Israeli sources warned the Post that Trump may circumscribe the IDF\u2019s current unique opportunity to strike the Islamic Republic's nuclear program.",
-    "link": "https://www.jpost.com/middle-east/iran-news/article-849751",
-    "timestamp": "2025-04-10T17:37:33Z"
-  },
-  {
-    "title": "Donald Trump Acknowledges 'Transition Problems' As Tariffs Roil Wall Street",
-    "description": "As Trump and the cabinet met, U.S. stocks tumbled again Thursday, giving back a significant portion of the historic gains.",
-    "link": "https://biztoc.com/x/9426ded72b311bcc",
-    "timestamp": "2025-04-10T17:37:02Z"
-  },
-  {
-    "title": "Trump Congratulates House for Passing Budget Resolution, Paving Way for $1.5T in Spending Cuts",
-    "description": "President Donald Trump congratulated the House Republicans for passing a budget resolution Thursday, which moves his agenda forward.",
-    "link": "https://www.westernjournal.com/trump-congratulates-house-passing-budget-resolution-paving-way-1-5t-spending-cuts/",
-    "timestamp": "2025-04-10T17:35:33Z"
-  },
-  {
-    "title": "Trump\u2019s World Liberty Financial Denies Selling Off Ethereum Stash",
-    "description": "On-chain data suggested earlier this week that a wallet \u201cclosely tied\u201d to the project began selling off millions in ETH at the peak of tariff-related market panic.",
-    "link": "https://decrypt.co/314367/trump-world-liberty-financial-denies-selling-ethereum",
-    "timestamp": "2025-04-10T17:35:24Z"
-  },
-  {
-    "title": "Florida brings charges against a man jailed on federal counts of trying to assassinate Trump",
-    "description": "Florida's attorney general says his office will bring terrorism and attempted murder counts against a man already jailed on federal charges of attempting to assassinate then-presidential candidate Donald Trump while he was golfing last fall",
-    "link": "https://www.wftv.com/news/politics/florida-brings/XSFFPP3PLBC7FF3VG3X2H3OBNM/",
-    "timestamp": "2025-04-10T17:35:12Z"
-  },
-  {
-    "title": "Pete Hegseth reviews plans for space-based 'Golden Dome' US defense system",
-    "description": "President Donald Trump's plans for the space-based \"Golden Dome\" missile defense system to defend the United States has been sent to Defense Secretary Pete Hegseth's desk for review. Trump has previously spoken about making a missile defense system similar to\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4310205/posts",
-    "timestamp": "2025-04-10T17:35:03Z"
-  },
-  {
-    "title": "The TV Show Host Who's Now In Charge Of Medicare Wants To Replace Doctors With AI",
-    "description": "Who among us hasn't indulged in the daytime TV schlock of personalities like Dr. Phil, Jerry Springer, or Judge Judy. Sure it's mildly exploitative, sure it's chock full of scammy product placement, but hey, it's not like these guys are in charge of federal p\u2026",
-    "link": "https://futurism.com/dr-oz-medicare-ai",
-    "timestamp": "2025-04-10T17:33:23Z"
-  },
-  {
-    "title": "Trump nominee for public lands post withdraws after her criticism of Jan. 6 Capitol attack surfaces",
-    "description": "BILLINGS, Mont. (AP) \u2014 President Donald Trump\u2019s nominee to oversee an agency that manages a quarter-billion acres of public land has withdrawn her nomination following revelations that she criticized the Republican president in 2021 for inciting the Jan. 6 at\u2026",
-    "link": "https://financialpost.com/pmn/trump-nominee-for-public-lands-post-withdraws-after-her-criticism-of-jan-6-capitol-attack-surfaces",
-    "timestamp": "2025-04-10T17:32:37Z"
-  },
-  {
-    "title": "Tariffs, trade war inflation impact to be 'pretty ugly' by summer, economists say",
-    "description": "Tariffs will take a few months to filter through to consumer prices, economists said.",
-    "link": "https://www.cnbc.com/2025/04/10/tariffs-trade-war-inflation-impact-to-be-pretty-ugly-by-summer.html",
-    "timestamp": "2025-04-10T17:32:13Z"
-  },
-  {
-    "title": "Amazon CEO Andy Jassy Sees Tariffs Raising Prices For Consumers As Media Stocks, Markets Fall",
-    "description": "Amazon chief executive Andrew Jassy says \u201cI\u2019m guessing sellers will pass that cost on\u201d as President Donald Trump raises the price to import good into the U.S. He made the comments on CNBC as media stocks and jittery markets reversed Tuesday\u2019s gains with a big\u2026",
-    "link": "http://deadline.com/2025/04/amazon-ceo-andy-jassy-tariffs-raise-prices-consumers-media-stocks-1236365587/",
-    "timestamp": "2025-04-10T17:31:16Z"
-  },
-  {
-    "title": "US suspends additional 26 pc tariff on India till July 9: White House",
-    "description": "NEW DELHI: The US has announced the suspension of additional tariffs on India for 90 days until July 9 this year, according to the White House executive orders. On April 2, US President Donald Trump slapped universal duties on about 60 countries exporting goo\u2026",
-    "link": "https://statetimes.in/us-suspends-additional-26-pc-tariff-on-india-till-july-9-white-house/",
-    "timestamp": "2025-04-10T17:31:00Z"
-  },
-  {
-    "title": "Lessons Trump could learn from the last Soviet leader",
-    "description": "Trying to salvage and empower an empire in decline, only to end up hastening its demise \u2013 we\u2019ve seen that somewhere before Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/615548-trump-tariffs-gorbachev-common/",
-    "timestamp": "2025-04-10T17:30:58Z"
-  },
-  {
-    "title": "WATCH: Biden Dozed Near Pool During Debate Prep, Author Says",
-    "description": "Former president Joe Biden fell asleep poolside during a prep session ahead of his disastrous June debate with Donald Trump, according to the author of a new book on the 2024 election.\nThe post WATCH: Biden Dozed Near Pool During Debate Prep, Author Says appe\u2026",
-    "link": "https://freebeacon.com/latest-news/watch-biden-dozed-near-pool-during-debate-prep-author-says/",
-    "timestamp": "2025-04-10T17:30:54Z"
-  },
-  {
-    "title": "Small business angst is rising amid Trump's tariffs and spending cuts (Katherine Hapgood/Politico)",
-    "description": "Katherine Hapgood / Politico:\nSmall business angst is rising amid Trump's tariffs and spending cuts\u00a0 \u2014\u00a0 Uncertainty is growing on Main Street as tariffs roil the economy and the Trump administration moves to cut small business programs.\u00a0 \u2014\u00a0 President Donald T\u2026",
-    "link": "https://www.memeorandum.com/250410/p83",
-    "timestamp": "2025-04-10T17:30:00Z"
-  },
-  {
-    "title": "Trump 'Insider Trading' Scandal: How The Don Is Facing Stock Market Manipulation Accusations After Declaring It Was 'A Great Time to Buy' Following Tariff Trade War U-Turn",
-    "description": "Donald Trump is now being accused of manipulating the stock market, after he encouraged people to buy some amid the tariffs increase \u2013 before changing his mind.",
-    "link": "https://radaronline.com/p/trump-insider-trading-stock-market-manipulation-tariff-trade-war/",
-    "timestamp": "2025-04-10T17:30:00Z"
-  },
-  {
-    "title": "Meme after meme: China targets Donald Trump and his advisers with AI war to counter tariffs; here are some causing a sensation",
-    "description": "Trump tariffs spark China meme war as Beijing fires back with hilarious, AI-style videos mocking Trump, Elon Musk, and JD Vance over rising tariffs. From factory worker memes to inflated MAGA hat prices, China is using viral content to hit back at America\u2019s t\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/meme-after-meme-china-targets-donald-trump-and-his-advisers-with-ai-war-to-counter-tariffs-here-are-some-causing-a-sensation/articleshow/120171743.cms",
-    "timestamp": "2025-04-10T17:29:37Z"
-  },
-  {
-    "title": "Biden official's criticism of Trump so strong that it 'led to an additional sell-off': CNN",
-    "description": "Former treasury secretary Janet Yellen denounced president Donald Trump's tariffs and identified the reason she believes that he backed down from most of them.The president's sweeping, so-called reciprocal tariffs went into effect Wednesday against global tra\u2026",
-    "link": "https://www.rawstory.com/janet-yellen-china-tariffs/",
-    "timestamp": "2025-04-10T17:29:18Z"
-  },
-  {
-    "title": "Could Trump strike a nuclear deal with Tehran?",
-    "description": "Government officials are growing more concerned that the US president will strike a deal with Iran without considering Israeli interests.",
-    "link": "https://www.jpost.com/israel-news/article-849748",
-    "timestamp": "2025-04-10T17:28:53Z"
-  },
-  {
-    "title": "How Top Performing Companies Handle Tech Investment",
-    "description": "Also in the Forbes CIO newsletter: Introducing the AI 50, tariffs undermine AI infrastructure, Adobe\u2019s AI agents presented to empower creativity.",
-    "link": "https://www.forbes.com/sites/cio/2025/04/10/how-top-performing-companies-handle-tech-investment/",
-    "timestamp": "2025-04-10T17:28:47Z"
-  },
-  {
-    "title": "Does the \u2018Emergency Legislation\u2019 allow Donald Trump to impose tariffs and can US Supreme Court reverse it? Here\u2019s what legal experts say",
-    "description": "Amid growing criticism, Trump announced a temporary halt on most tariffs, keeping a 10% baseline rate while proceeding with the 125% tariff on Chinese imports.",
-    "link": "https://economictimes.indiatimes.com/news/international/us/does-the-emergency-legislation-allow-donald-trump-to-impose-tariffs-and-can-us-supreme-court-reverse-it-heres-what-legal-experts-say/articleshow/120171855.cms",
-    "timestamp": "2025-04-10T17:26:40Z"
-  },
-  {
-    "title": "Florida Business Sues Donald Trump Over Tariffs",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nA Florida stationary company is suing president Trump for his China tariffs.\nWhy It Matters\nTrump has imposed 125 percent tariffs on Chinese goods, and on March 10, China retaliated with 84 percent tariffs on \u2026",
-    "link": "https://biztoc.com/x/f882f02e796d9cfb",
-    "timestamp": "2025-04-10T17:26:39Z"
-  },
-  {
-    "title": "The Brief \u2013 Give the world what it so craves, Eurobonds",
-    "description": "Now is the time to show the world that Europe can be trusted.",
-    "link": "https://www.euractiv.com/section/politics/opinion/the-brief-give-the-world-what-it-so-craves-eurobonds/",
-    "timestamp": "2025-04-10T17:26:38Z"
-  },
-  {
-    "title": "Danger in Trump\u2019s Mind",
-    "description": "On 7 April, a Mondoweiss headline ran as: \u201cTrump announces surprise Iran talks during Netanyahu meeting.\u201d\nUnited States president Donald Trump had met with Israeli prime minister Benjamin Netanyahu to discuss \u201cGaza, tariffs, and the alleged nuclear threat of \u2026",
-    "link": "https://www.globalresearch.ca/danger-trump-mind/5884105",
-    "timestamp": "2025-04-10T17:26:21Z"
-  },
-  {
-    "title": "Donald Trump Acknowledges 'Transition Problems' As Tariffs Roil Wall Street",
-    "description": "As Trump and the cabinet met, U.S. stocks tumbled again Thursday, giving back a significant portion of the historic gains.",
-    "link": "https://www.newsweek.com/donald-trump-acknowledges-transition-problems-tariffs-roil-wall-street-2058163",
-    "timestamp": "2025-04-10T17:26:08Z"
-  },
-  {
-    "title": "BEST WEEK EVER: Trump Frees Hottest US Hostage After Winning Trade War, Making Showers Great Again (PHOTOS)",
-    "description": "President Donald Trump is having one of the best weeks of his presidency. The stock market surged on Wednesday after Trump declared victory against unfair trade practices. He also ended the Obama-Biden \"war on water pressure\" and \"make America's showers great\u2026",
-    "link": "https://freebeacon.com/politics/best-week-ever-trump-frees-hottest-us-hostage-after-winning-trade-war-making-showers-great-again-photos/",
-    "timestamp": "2025-04-10T17:25:52Z"
-  },
-  {
-    "title": "Florida Business Sues Donald Trump Over Tariffs",
-    "description": "The company, which makes stylized planners and notebooks, says the Trump tariffs will cost it hundreds of thousands of dollars a year",
-    "link": "https://www.newsweek.com/president-donald-trump-china-tariffs-florida-company-lawsuit-imports-2058109",
-    "timestamp": "2025-04-10T17:24:33Z"
-  },
-  {
-    "title": "Justice Department restored Mel Gibson's gun rights? Here's what we know",
-    "description": "The actor lost his right to own a firearm following a 2011 battery conviction.",
-    "link": "https://www.snopes.com//news/2025/04/10/mel-gibson-gun-rights-justice-department/",
-    "timestamp": "2025-04-10T17:24:00Z"
-  },
-  {
-    "title": "Video shows 4 captive Ukrainian troops killed by men identified as Russian forces",
-    "description": "Ukrainian prosecutors and U.N. officials say killings of Ukrainian POWs have surged.",
-    "link": "https://www.bostonherald.com/2025/04/10/russia-ukraine-pow-killings/",
-    "timestamp": "2025-04-10T17:23:27Z"
-  },
-  {
-    "title": "Fact-checking Trump\u2019s previous claim he wasn\u2019t looking at pausing tariffs",
-    "description": "For two days, Trump and the White House denied that he was considering changing his tariff plan, before doing just that on April 9.",
-    "link": "https://www.pbs.org/newshour/politics/fact-checking-trumps-previous-claim-he-wasnt-looking-at-pausing-tariffs",
-    "timestamp": "2025-04-10T17:22:37Z"
-  },
-  {
-    "title": "Usha Vance Is Apparently Loving Her New Role, Kennedy Center Boos and All",
-    "description": "In her first interview since becoming second lady, Vance tells the Free Press that despite life being \u201clonely\u201d and \u201cvery strange,\u201d her political experience has been \u201calmost uniformly positive.\u201d",
-    "link": "https://www.vanityfair.com/style/story/usha-vance-second-lady-free-press-interview",
-    "timestamp": "2025-04-10T17:22:17Z"
-  },
-  {
-    "title": "1st LD-Writethru: EU, UAE to start free trade talks: EU chief",
-    "description": "BRUSSELS, April 10 (Xinhua) -- The European Union (EU) and the United Arab Emirates (UAE) have agreed to kick off free trade negotiations, European Commission President Ursula von der Leyen said on Thursday. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/04/11/1st-ld-writethru-eu-uae-to-start-free-trade-talks-eu-chief",
-    "timestamp": "2025-04-10T17:22:00Z"
-  },
-  {
-    "title": "US efforts to secure release of American-Israeli hostage from Hamas fall short",
-    "description": "Officials from the Trump administration met with Hamas representatives, going against the US policy of not engaging directly with the terrorist organization.",
-    "link": "https://www.jpost.com/international/article-849706",
-    "timestamp": "2025-04-10T17:21:36Z"
-  },
-  {
-    "title": "Ottawa said to plan meeting with U.S. banks after Trump complaints",
-    "description": "The Canadian government has invited representatives from United States banks including JPMorgan Chase & Co. for a meeting, according to people with knowledge of the matter, after U.S. President Donald Trump complained that American banks have trouble doing bu\u2026",
-    "link": "https://financialpost.com/pmn/business-pmn/canadian-officials-said-to-plan-meeting-with-us-banks-after-trump-complaints",
-    "timestamp": "2025-04-10T17:20:37Z"
-  },
-  {
-    "title": "Ottawa said to plan meeting with U.S. banks after Trump complaints",
-    "description": "Ottawa has invited representatives from U.S. banks for a meeting after Donald Trump's complaints about doing business in Canada. Read more.",
-    "link": "https://financialpost.com/pmn/business-pmn/ottawa-meeting-us-banks-donald-trump-complaints",
-    "timestamp": "2025-04-10T17:20:37Z"
-  },
-  {
-    "title": "The Wall Street Journal Twists the Knife After Trump Tariff Retreat: \u2018The Biggest Threat to the World Economy\u2019",
-    "description": "The Wall Street Journal\u00a0slammed President Donald Trump's trade policy in a scathing editorial celebrating his partial retreat on Wednesday.\nThe post The Wall Street Journal Twists the Knife After Trump Tariff Retreat: \u2018The Biggest Threat to the World Economy\u2019\u2026",
-    "link": "https://www.mediaite.com/news/the-wall-street-journal-twists-the-knife-after-trump-tariff-retreat-the-biggest-threat-to-the-world-economy/",
-    "timestamp": "2025-04-10T17:19:54Z"
-  },
-  {
-    "title": "Nvidia Stock Could Fall If 125% China Tariff Drives Price Increases",
-    "description": "One thing contributing to the drop is the 2024 election which brought Donald Trump back to the Oval Office. Trump's 125% tariff on China could raise Nvidia's prices.",
-    "link": "https://www.forbes.com/sites/petercohan/2025/04/10/nvidia-stock-could-fall-if-125-china-tariff-drives-price-increases/",
-    "timestamp": "2025-04-10T17:18:29Z"
-  },
-  {
-    "title": "Trump tariff hike brings added China rate for many goods to 145%",
-    "description": "WASHINGTON:\u00a0US President Donald\u00a0Trump's steep\u00a0tariff\u00a0hike\u00a0targeting Chinese\u00a0goods, which took effect Thursday (Apr 10),\u00a0brings\u00a0Washington's addi",
-    "link": "https://www.channelnewsasia.com/world/trump-tariff-hike-brings-added-china-rate-many-goods-145-5057991",
-    "timestamp": "2025-04-10T17:18:20Z"
-  },
-  {
-    "title": "Sticker Mule scrubs pro-Trump posts from Instagram",
-    "description": "Sticker Mule, an online sticker merchandising firm that blew up in the public eye with a blast email to its entire customer base following an assassination attempt on President Donald Trump, appears to have cleared its Instagram account of any political suppo\u2026",
-    "link": "https://www.dailydot.com/debug/sticker-mule-trump-instagram/",
-    "timestamp": "2025-04-10T17:18:10Z"
-  },
-  {
-    "title": "European stocks rally closes off highs as selling resumes on Wall Street",
-    "description": "Relief sees markets \u2018mechanically rebound\u2019 across continent",
-    "link": "https://www.irishtimes.com/business/2025/04/10/european-stocks-rally-closes-off-highs-as-selling-resumes-on-wall-street/",
-    "timestamp": "2025-04-10T17:17:20Z"
-  },
-  {
-    "title": "Florida brings charges against a man jailed on federal counts of trying to assassinate Trump",
-    "description": "Ryan Routh is facing additional state terrorism and attempted murder charges.",
-    "link": "https://www.bostonherald.com/2025/04/10/trump-shooting-attempt-florida/",
-    "timestamp": "2025-04-10T17:16:44Z"
-  },
-  {
-    "title": "Trump is running the U.S. economy like a mad king",
-    "description": "Chris Hayes explains how Trump's erratic tariff policy is undermining faith in the U.S. economy and says he's behaving like a mad king.",
-    "link": "https://www.msnbc.com/top-stories/latest/trump-tariffs-economy-mad-king-bonds-rcna200616",
-    "timestamp": "2025-04-10T17:16:42Z"
-  },
-  {
-    "title": "Trump's immigration policy is weighing on beer sales, Constellation Brands CEO says",
-    "description": "President Donald Trump\u2019s tariffs aren\u2019t the only presidential policy that is weighing on Constellation Brands.",
-    "link": "https://www.nbcnews.com/business/consumer/trumps-immigration-policy-weighing-beer-sales-constellation-brands-ceo-rcna200672",
-    "timestamp": "2025-04-10T17:16:28Z"
-  },
-  {
-    "title": "Why House Democrats are sticking with their long-shot anti-tariff strategy",
-    "description": "The News\nHouse Democrats are encountering a new obstacle as they try to drive a wedge within the GOP on tariffs: Their potential Republican allies aren\u2019t moving in their direction.\nEven before President Donald Trump paused many of his tariffs on Wednesday, hi\u2026",
-    "link": "https://biztoc.com/x/aed4f19559beb1d7",
-    "timestamp": "2025-04-10T17:15:26Z"
-  },
-  {
-    "title": "Whatever Donald Trump does next, this chaos will soon be shaping ordinary lives for the worse | Gaby Hinsliff",
-    "description": "There is now little prospect of the growth Labour promised. With Reform nipping at his heels, Starmer must offer protection to the British people\nIf it\u2019s brown, lie down. If it\u2019s black, fight back. If it\u2019s white, say goodnight.\nThe rhyme we learned hiking as \u2026",
-    "link": "https://biztoc.com/x/2fb7d2d47b05f6eb",
-    "timestamp": "2025-04-10T17:15:13Z"
   }
 ]
