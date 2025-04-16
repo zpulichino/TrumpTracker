@@ -1,5 +1,77 @@
 [
   {
+    "title": "In First Post-Presidency Speech, Biden Calls to Treat Disabled People with Dignity",
+    "description": "On Tuesday, former President Joe Biden gave his first speech following the end of his presidency in January, at the Chicago national conference of Advocates, Counselors, and Representatives for the Disabled. \u201cEveryone deserves to be treated with dignity,\u201d Bid\u2026",
+    "link": "https://www.motherjones.com/politics/2025/04/biden-post-speech-disability-social-security/",
+    "timestamp": "2025-04-15T23:29:01Z"
+  },
+  {
+    "title": "Army takes control of federal land along New Mexico border to increase security, protect the environment",
+    "description": "Secretary of the Interior Doug Burgum announced the U.S. Army will take control of federal lands along the U.S.-Mexico border in order to increase security and protect the environment.",
+    "link": "https://www.foxnews.com/politics/army-takes-control-federal-land-along-new-mexico-border-increase-security-protect-environment",
+    "timestamp": "2025-04-15T23:28:33Z"
+  },
+  {
+    "title": "Vivago's HiDream Image Generator Beats Major Players, Makes Open-Source AI Great Again",
+    "description": "Vivago\u2019s little-known AI model beats Stable Diffusion, ranks just behind ChatGPT and ByteDance\u2019s Mogao in blind tests. So, how did it do?",
+    "link": "https://decrypt.co/314940/vivago-hidream-image-generator-beats-major-players",
+    "timestamp": "2025-04-15T23:27:37Z"
+  },
+  {
+    "title": "Trump officials are using federal agencies to make life in the U.S. untenable for undocumented immigrants",
+    "description": "From sharing IRS data with ICE, calling for registries and revoking the legal mechanisms thousands have used to come to the U.S., Trump's directives send a clear message.",
+    "link": "https://www.nbcnews.com/news/latino/trump-officials-are-using-federal-agencies-make-life-us-untenable-undo-rcna201365",
+    "timestamp": "2025-04-15T23:27:11Z"
+  },
+  {
+    "title": "Texas judge throws out rule that would have capped credit card late fees",
+    "description": "By JUAN A. LOZANO\nHOUSTON (AP) \u2014 A Texas judge on Tuesday threw out a federal rule that would have capped credit card late fees after officials with President Donald Trump\u2019s administration and a coalition of major banking groups agreed that the rule was illeg\u2026",
+    "link": "https://biztoc.com/x/f038836e67fcf465",
+    "timestamp": "2025-04-15T23:25:30Z"
+  },
+  {
+    "title": "Donald Trump is shrugging off the Supreme Court. These are uncharted waters.",
+    "description": "The Supreme Court told Donald Trump to do something \u2014 and it looks like he's not going to do it. Where does the United States go from here?",
+    "link": "https://www.businessinsider.com/donald-trump-defies-supreme-court-dangerous-precedent-why-2025-4",
+    "timestamp": "2025-04-15T23:23:41Z"
+  },
+  {
+    "title": "Biden goes after Trump on Social Security in his first public post-presidency speech",
+    "description": "Former President Joe Biden used his first public remarks since leaving office in January to rebuke the Trump administration\u2019s approach to Social Security.",
+    "link": "https://www.nbcnews.com/politics/joe-biden/biden-trump-social-security-first-post-presidency-speech-rcna201309",
+    "timestamp": "2025-04-15T23:22:17Z"
+  },
+  {
+    "title": "US plans to use tariff negotiations to isolate China, WSJ reports",
+    "description": "U.S. officials plan to use negotiations with more than 70 nations to ask them to disallow China to ship goods through their countries and prevent Chinese fir...",
+    "link": "https://www.aol.com/news/us-plans-tariff-negotiations-isolate-232117343.html",
+    "timestamp": "2025-04-15T23:21:17Z"
+  },
+  {
+    "title": "Trump exempts nearly 70 coal plants from Biden-era rule on mercury and other toxic air pollution",
+    "description": "The Trump administration has granted nearly 70 coal-fired power plants a two-year exemption from federal requirements to reduce emissions of toxic chemicals ...",
+    "link": "https://www.yahoo.com/news/trump-exempts-nearly-70-coal-232044503.html",
+    "timestamp": "2025-04-15T23:20:44Z"
+  },
+  {
+    "title": "Conservative MPs attack Carney for his work at Brookfield. They also invested in its companies",
+    "description": "Six Conservative MPs, including the party's deputy leader, disclosed last year they personally invested in companies related to Brookfield Corp., despite attacking Liberal Leader Mark Carney for his work chairing one of its spinoff companies.",
+    "link": "https://www.cbc.ca/news/politics/canada-election-brookfield-corp-conservative-party-mp-investments-mark-carney-1.7511153",
+    "timestamp": "2025-04-15T23:19:56Z"
+  },
+  {
+    "title": "Trump has no shortage of targets in his war against blue state climate lawfare",
+    "description": "President Donald Trump has plenty of targets to choose from to begin his war against blue state lawsuits and legislation designed to punish energy companies ...",
+    "link": "https://dailycaller.com/2025/04/15/trump-has-no-shortage-of-targets-in-his-war-against-blue-state-climate-lawfare/",
+    "timestamp": "2025-04-15T23:19:04Z"
+  },
+  {
+    "title": "UNICEF projects 20% drop in 2026 funding after US cuts",
+    "description": "UNITED NATIONS (Reuters) - UNICEF has projected that its 2026 budget will shrink by at least 20% compared to 2024, a spokesperson for the U.N. children's agency said on Tuesday, after U.S. President Donald Trump slashed global humanitarian aid. Read full story",
+    "link": "https://www.thestar.com.my/news/world/2025/04/16/unicef-projects-20-drop-in-2026-funding-after-us-cuts",
+    "timestamp": "2025-04-15T23:19:00Z"
+  },
+  {
     "title": "Firm Behind Fox News Lawsuit Lands Big Win in Battle Against Trump",
     "description": "A judge handed President Donald Trump a fresh loss by blocking most of his executive order against yet another big law firm he tried to push around. Susman...",
     "link": "https://www.thedailybeast.com/firm-behind-fox-news-lawsuit-lands-big-win-in-battle-against-trump/",
@@ -502,83 +574,5 @@
     "description": "President Donald Trump wants Congress to change a policy that gives certain drugs longer protection from drug price negotiations in Medicare, a fix that could address one of the drug industry\u2019s top complaints with the Biden-era law.",
     "link": "https://financialpost.com/pmn/business-pmn/trump-signs-order-aimed-at-lowering-prescription-drug-prices",
     "timestamp": "2025-04-15T22:01:57Z"
-  },
-  {
-    "title": "Bitcoin Net Taker Volume Signals Bullish Momentum \u2013 Temporary Hype Or Trend Reversal?",
-    "description": "Bitcoin is holding firm above the $85,000 mark, signaling early signs of a recovery as market sentiment begins to shift. The renewed momentum follows last week\u2019s major geopolitical development: a 90-day tariff pause announced by U.S. President Donald Trump fo\u2026",
-    "link": "https://bitcoinist.com/bitcoin-net-taker-volume-signals-bullish-momentum-temporary-hype-or-trend-reversal/",
-    "timestamp": "2025-04-15T22:00:04Z"
-  },
-  {
-    "title": "Commentary: Malaysia can weather the Donald Trump tariff storm",
-    "description": "Malaysia could have two things going for it if Donald Trump\u2019s \u201creciprocal\u201d tariffs kick in after the temporary pause, says Stewart Nixon from Malaysian think tank IDEAS.",
-    "link": "https://www.channelnewsasia.com/commentary/malaysia-trump-tariffs-impact-economy-singapore-sez-5066856",
-    "timestamp": "2025-04-15T22:00:00Z"
-  },
-  {
-    "title": "A Weird Tax Season at the I.R.S.",
-    "description": "From the daily newsletter: Harvard versus the White House; and Trump eyes a minerals deal with the Democratic Republic of the Congo.",
-    "link": "https://www.newyorker.com/newsletter/the-daily/a-weird-tax-season-at-the-irs",
-    "timestamp": "2025-04-15T22:00:00Z"
-  },
-  {
-    "title": "Trump\u2019s Trade War With China Enters a More Aggressive Phase",
-    "description": "The fact that U.S. President Donald Trump ordered a pause on the raft of new tariffs against most of the world\u2019s countries \u2013 but not on most of those directed at China \u2013 highlights what these new levies are really all about. They are in large part specificall\u2026",
-    "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Trade-War-With-China-Enters-a-More-Aggressive-Phase.html",
-    "timestamp": "2025-04-15T22:00:00Z"
-  },
-  {
-    "title": "President Trump reveals his proudest accomplishment of his historic first 100 days",
-    "description": "President Donald Trump revealed what accomplishments he is most proud of from his first 100 days in office during an interview on Fox Noticias.",
-    "link": "https://www.foxnews.com/media/president-trump-reveals-his-proudest-accomplishment-his-historic-first-100-days",
-    "timestamp": "2025-04-15T21:59:41Z"
-  },
-  {
-    "title": "DOGE trumpets unemployment fraud that the government already found years ago",
-    "description": "Such fraud had already been reported by the type of federal workers DOGE has demonized.",
-    "link": "https://www.bostonherald.com/2025/04/15/doge-unemployment-fraud/",
-    "timestamp": "2025-04-15T21:58:37Z"
-  },
-  {
-    "title": "DOGE trumpets unemployment fraud that the government already found years ago",
-    "description": "Such fraud had already been reported by the type of federal workers DOGE has demonized.",
-    "link": "https://www.denverpost.com/2025/04/15/doge-unemployment-fraud/",
-    "timestamp": "2025-04-15T21:58:37Z"
-  },
-  {
-    "title": "Harvard law professor warns Trump could be seen as 'weak and impotent' in deportation saga",
-    "description": "Laurence Tribe, constitutional law scholar and professor emeritus at Harvard University, thinks Americans understand the seriousness of President Donald Trump's administration defying an order from the U.S. Supreme Court. Last week, the high court ruled 9-0 t\u2026",
-    "link": "https://www.rawstory.com/trump-constitutional-crisis/",
-    "timestamp": "2025-04-15T21:54:44Z"
-  },
-  {
-    "title": "Trump Trade Talks Plus Deregulation Could Spur Faster Economic Growth",
-    "description": "New Trump Administration trade talks could focus on getting rid of anticompetitive trade barriers. U.S. regulatory reform efforts could be a \"carrot\" to get trade deals.",
-    "link": "https://www.forbes.com/sites/aldenabbott/2025/04/15/trump-trade-talks-plus-deregulation-could-spur-faster-economic-growth/",
-    "timestamp": "2025-04-15T21:54:17Z"
-  },
-  {
-    "title": "Donald Trump's Approval Rating Is Underwater in State He Won: Poll",
-    "description": "Voters in North Carolina, which backed Trump in 2016, 2020 and 2024, are wary of Trump's tariffs, according to a new poll.",
-    "link": "https://www.newsweek.com/donald-trump-north-carolina-approval-underwater-2060200",
-    "timestamp": "2025-04-15T21:52:43Z"
-  },
-  {
-    "title": "Jasmine Crockett Uses 2 Cutting Words To Describe The Trump Era",
-    "description": "The Democratic congresswoman isn\u2019t holding back.",
-    "link": "https://www.huffpost.com/entry/jasmine-crockett-trump-abusive-relationship_n_67fec77ae4b0b0977ad551ed",
-    "timestamp": "2025-04-15T21:51:10Z"
-  },
-  {
-    "title": "\u2018That\u2019s Not True! Stop!\u2019 Jessica Tarlov Throws Down With Co-Host While Debunking Claim Jailed Migrant Was a Gang Member",
-    "description": "\u201cAnd it is not the same thing to deport someone to their home country as to send them to a prison. You know that!\u201d Tarlov concluded\nThe post \u2018That\u2019s Not True! Stop!\u2019 Jessica Tarlov Throws Down With Co-Host While Debunking Claim Jailed Migrant Was a Gang Membe\u2026",
-    "link": "https://www.mediaite.com/tv/thats-not-true-stop-jessica-tarlov-throws-down-with-co-host-while-debunking-claim-jailed-migrant-was-a-gang-member/",
-    "timestamp": "2025-04-15T21:50:53Z"
-  },
-  {
-    "title": "Mahmoud Khalil will fight 'to the end' after judge OKs deportation case, says lawyer",
-    "description": "It's been nearly 40 days since activist Mahmoud Khalil was arrested without charge in front of his pregnant wife and sent to an immigration detention facility, but his lawyer says he remains \"very strong.\"",
-    "link": "https://www.cbc.ca/radio/asithappens/mahmoud-khalil-next-steps-1.7510994",
-    "timestamp": "2025-04-15T21:50:11Z"
   }
 ]
