@@ -1,5 +1,329 @@
 [
   {
+    "title": "The 5 at 5: Tuesday",
+    "description": "Five minutes, five stories, five o\u2019clock\u2026",
+    "link": "https://www.thejournal.ie/5-at-5-15-04-25-6679076-Apr2025/",
+    "timestamp": "2025-04-15T16:30:09Z"
+  },
+  {
+    "title": "Indonesia to Offer to Buy $10 Billion of Additional U.S. Energy Goods",
+    "description": "As Indonesia seeks to negotiate a reduction of a planned tariff of 32% on Indonesian goods sold in the United States, the government of Southeast Asia\u2019s biggest economy will offer to buy an additional $10 billion worth of American oil and liquefied petroleum \u2026",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Indonesia-to-Offer-to-Buy-10-Billion-of-Additional-US-Energy-Goods.html",
+    "timestamp": "2025-04-15T16:30:00Z"
+  },
+  {
+    "title": "Amid US Tariff War, China Convenes Rare Central Conference on Neighborhood Diplomacy",
+    "description": "As the China-U.S. trade war escalates, Beijing is turning its focus to its immediate periphery to ensure both economic and national security.",
+    "link": "https://thediplomat.com/2025/04/amid-us-tariff-war-china-convenes-rare-central-conference-on-neighborhood-diplomacy/",
+    "timestamp": "2025-04-15T16:30:00Z"
+  },
+  {
+    "title": "Californians Are Seriously Unenthused About A Hypothetical Kamala Harris Gubernatorial Bid, Poll Finds",
+    "description": "Political insiders in California are largely unenthused about the prospect of former Vice President Kamala Harris launching a gubernatorial bid, per a new poll.",
+    "link": "https://dailycaller.com/2025/04/15/californians-are-seriously-unenthused-about-a-hypothetical-kamala-harris-gubernatorial-bid-poll-finds/",
+    "timestamp": "2025-04-15T16:29:45Z"
+  },
+  {
+    "title": "Columbia will not surrender independence in face of federal demands, acting president says",
+    "description": "\"We would reject any agreement that would require us to relinquish our independence and autonomy as an educational institution,\" acting president Claire Shipman said on Monday.",
+    "link": "https://www.jpost.com/international/article-850216",
+    "timestamp": "2025-04-15T16:29:25Z"
+  },
+  {
+    "title": "Dylan Mulvaney says trans rights 'shouldn't be political' - ahead of ruling to define 'woman'",
+    "description": "Social media influencer Dylan Mulvaney has told Sky News discussion about transgender rights should not be political.",
+    "link": "https://news.sky.com/story/dylan-mulvaney-says-trans-rights-shouldnt-be-political-ahead-of-ruling-to-define-woman-13349540",
+    "timestamp": "2025-04-15T16:29:00Z"
+  },
+  {
+    "title": "Jeffries backs stock trading ban after Greene buys market dip",
+    "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Monday backed a stock trading ban for sitting members of Congress, after ripping Rep. Marjorie Taylor Greene (R-Ga.) for reportedly profiting off market fluctuations during President Trump\u2019s tariff roller-coas\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4311161/posts",
+    "timestamp": "2025-04-15T16:28:22Z"
+  },
+  {
+    "title": "Trump Admin\u2019s New Defense For Accidentally Sending Abrego Garcia To Salvadoran Torture Camp: We Meant To Do That",
+    "description": "The Trump administration has settled on a terrifying new legal theory: they can declare anyone a \u201cterrorist,\u201d ship them to an offshore torture camp without due process, and courts can do nothing about it because it\u2019s \u201cforeign affairs.\u201d This isn\u2019t speculation \u2026",
+    "link": "https://www.techdirt.com/2025/04/15/trump-admins-new-defense-for-accidentally-sending-abrego-garcia-to-salvadoran-torture-camp-we-meant-to-do-that/",
+    "timestamp": "2025-04-15T16:27:26Z"
+  },
+  {
+    "title": "Obama Judge Blocks Trump\u2019s Move To End Biden-Era Parole Program For Half A Million Migrants",
+    "description": "A federal judge appointed by the Obama administration blocked President Donald Trump\u2019s effort to end a controversial parole program that allowed roughly half-a-million foreign nationals into the United States. U.S. District Judge Indira Talwani in Boston, Mas\u2026",
+    "link": "https://dailycaller.com/2025/04/15/obama-judge-blocks-trumps-chnv-order/",
+    "timestamp": "2025-04-15T16:26:11Z"
+  },
+  {
+    "title": "Video: Trump struggles to say 'Make America Great Again' in Spanish during Fox News interview",
+    "description": "Fox News Host Rachel Campos-Duffy tried to teach US President Donald Trump how to say \u2018Make America Great Again\u2019 in Spanish. A video of the conversation has gone viral on social media with netizens heaping praises on Trump. Trump responded with \"Am\u00e9rica grand\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/video-trump-struggles-to-say-make-america-great-again-in-spanish-during-fox-news-interview/articleshow/120317656.cms",
+    "timestamp": "2025-04-15T16:25:51Z"
+  },
+  {
+    "title": "Ro Khanna Slams Elon Musk And Reveals 1 Odd Trend Of His: 'Like You Do With An Ex'",
+    "description": "The congressman condemned Musk's Department of Government Efficiency on Monday for gutting essential services when he shared some private insight.",
+    "link": "https://www.huffpost.com/entry/ro-khanna-slams-elon-musk-and-doge-cuts_n_67fe5019e4b0095bc4905c06",
+    "timestamp": "2025-04-15T16:25:49Z"
+  },
+  {
+    "title": "Trump Has His Next Target for the Chopping Block: Entire Embassies",
+    "description": "Donald Trump\u2019s administration is planning to shutter U.S. embassies around the world, continuing to dilute American soft power in its latest effort to shrink the federal workforce.\r\nA memorandum that was part of a broader budget for 2026 that is due to the Of\u2026",
+    "link": "https://newrepublic.com/post/194019/donald-trump-next-target-chopping-block-entire-embassies",
+    "timestamp": "2025-04-15T16:25:31Z"
+  },
+  {
+    "title": "As administration digs in, case of wrongly deported Maryland man returns to court",
+    "description": "The judge who ordered the government to facilitate the return of a wrongly deported Maryland man from El Salvador will hear from DOJ attorneys at a hearing Tuesday.",
+    "link": "https://abcnews.go.com/US/trump-administration-digs-case-wrongly-deported-maryland-man/story?id=120822855",
+    "timestamp": "2025-04-15T16:25:22Z"
+  },
+  {
+    "title": "Watch: Hagerty Consultant Stumped When Asked What Company Actually Does in Disasters",
+    "description": "A representative of Hagerty Consulting was stumped last week when asked by leaders within the Pacific Palisades about what his company is actually doing to help the community recover from recent wildfires.\nThe post Watch: Hagerty Consultant Stumped When Asked\u2026",
+    "link": "https://www.breitbart.com/politics/2025/04/15/watch-hagerty-consultant-stumped-when-asked-what-company-actually-does-in-disasters/",
+    "timestamp": "2025-04-15T16:25:16Z"
+  },
+  {
+    "title": "Trump says China 'reneged' on Boeing deal as tensions flare",
+    "description": "US President Donald Trump said Tuesday that China has gone back on a major Boeing deal, after a news report that Beijing ordered airlines not to take further deliveries of the US aviation giant's jets. Trump took aim at Beijing again on Tuesday, saying on Tru\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/trump-says-china-reneged-on-boeing-deal-as-tensions-flare/articleshow/120317775.cms",
+    "timestamp": "2025-04-15T16:25:16Z"
+  },
+  {
+    "title": "Major Hedge Fund Bets Against Trump Media",
+    "description": "Voice is AI-generated. Inconsistencies may occur.\nHedge fund Qube Research & Technologies has disclosed a $105-million short position in President Donald Trump's company, Trump Media & Technology Group (TMTG), according to a filing.\nWhen an investor takes a s\u2026",
+    "link": "https://biztoc.com/x/a1ec1bf10d6c3209",
+    "timestamp": "2025-04-15T16:25:13Z"
+  },
+  {
+    "title": "Van Hollen: Trump Believes in First Amendment Rights for Himself But Nobody Else",
+    "description": "Senator Chis Van Hollen (D-MD) claimed on\u00a0Tuesday on CNN's \"News Central\" that President Donald Trump \"believes in First Amendment rights for himself, but apparently for nobody else.\"\nThe post Van Hollen: Trump Believes in First Amendment Rights for Himself B\u2026",
+    "link": "https://www.breitbart.com/clips/2025/04/15/van-hollen-trump-believes-in-first-amendment-rights-for-himself-but-nobody-else/",
+    "timestamp": "2025-04-15T16:24:00Z"
+  },
+  {
+    "title": "Can Trump\u2019s Tariffs Be Undone In Court? First Lawsuit Targets \u2018Liberation Day\u2019 Orders As Conservative Lawyers Protest Policy",
+    "description": "Trump may have gone too far in how he justified his sweeping tariffs, some legal experts allege.",
+    "link": "https://www.forbes.com/sites/alisondurkee/2025/04/15/can-trumps-tariffs-be-undone-in-court-first-lawsuit-targets-liberation-day-orders-as-conservative-lawyers-protest-policy/",
+    "timestamp": "2025-04-15T16:23:58Z"
+  },
+  {
+    "title": "Marjorie Taylor Greene brings town hall to Harris-won Georgia county, shrugs off possible 'outbursts'",
+    "description": "Rep. Marjorie Taylor Greene spoke with Fox News Digital ahead of her Tuesday evening town hall in Cobb County.",
+    "link": "https://www.foxnews.com/politics/marjorie-taylor-greene-brings-town-hall-harris-won-georgia-county-shrugs-off-possible-outbursts",
+    "timestamp": "2025-04-15T16:23:25Z"
+  },
+  {
+    "title": "Jimmy Kimmel Says \u2018Manufactured\u2019 Liberal Outrage Over Comedians Is a Big Reason Trump Got Reelected",
+    "description": "\"A lot of these people who are angry aren\u2019t really angry,\" the late-night host says\nThe post Jimmy Kimmel Says \u2018Manufactured\u2019 Liberal Outrage Over Comedians Is a Big Reason Trump Got Reelected appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/jimmy-kimmel-liberals-attacking-comedians-helped-trump/",
+    "timestamp": "2025-04-15T16:23:09Z"
+  },
+  {
+    "title": "Trump\u2019s China Ship Fees Set to Hit Global Shipping Giants",
+    "description": "(Bloomberg) \u2014 Container ships, the workhorses of global trade transporting almost 90% of the world\u2019s manufactured goods, have become a target in Donald Trump\u2019s conflict with China \u2014 and none...",
+    "link": "https://gcaptain.com/trumps-china-ship-fees-set-to-hit-global-shipping-giants/",
+    "timestamp": "2025-04-15T16:22:56Z"
+  },
+  {
+    "title": "Crypto\u2019s new prince? Donald Trump\u2019s 29-year-old whiz kid Bo Hines is shaking up policy and drawing billionaire backers with bold plans",
+    "description": "Bo Hines, a former college football player, now shapes US crypto policy under President Trump. Trump aims for crypto-friendly rules, reversing Biden's approach. Hines is meeting with industry leaders like Ripple's Brad Garlinghouse. Dismissal of SEC lawsuits \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/cryptos-new-prince-donald-trumps-29-year-old-whiz-kid-bo-hines-is-shaking-up-policy-and-drawing-billionaire-backers-with-bold-plans/articleshow/120316431.cms",
+    "timestamp": "2025-04-15T16:21:59Z"
+  },
+  {
+    "title": "Major Hedge Fund Bets Against Trump Media",
+    "description": "Qube Research & Technologies disclosed a $105-million short position in Trump Media & Technology Group on Monday.",
+    "link": "https://www.newsweek.com/qube-research-trump-media-hedge-fund-2059864",
+    "timestamp": "2025-04-15T16:21:51Z"
+  },
+  {
+    "title": "Texas Grandmother Detained by ICE After Car Bursts Into Flames",
+    "description": "The Houston PD said that the woman was detained after an officer ran her ID and a system revealed an active ICE warrant.",
+    "link": "https://www.newsweek.com/texas-grandmother-detained-ice-car-flames-2059965",
+    "timestamp": "2025-04-15T16:21:39Z"
+  },
+  {
+    "title": "DOGE Cuts Update Today: IRS Doesn't 'Have Time' for Tax Cases Amid Layoffs",
+    "description": "The IRS began layoffs that could end up cutting as many as 20,000 workers,",
+    "link": "https://www.newsweek.com/doge-cuts-update-irs-layoffs-2059957",
+    "timestamp": "2025-04-15T16:18:10Z"
+  },
+  {
+    "title": "'White Lotus' star Aimee Lou Wood says she wasn't crying over 'SNL' sketch",
+    "description": "'The White Lotus' season 3 star Aimee Lou Wood reacted to paparazzi photos of herself crying in public, noting that she wasn't emotional over a recent 'Saturday Night Live' sketch.",
+    "link": "https://ew.com/white-lotus-star-aimee-lou-wood-clarifies-crying-photos-11715396",
+    "timestamp": "2025-04-15T16:15:50Z"
+  },
+  {
+    "title": "Federal judge temporarily blocks Trump\u2019s use of Alien Enemies Act to deport Venezuelans from Colorado",
+    "description": "The ACLU filed a lawsuit on behalf of two Venezuelan men accused of being part of Tren de Aragua.",
+    "link": "https://www.bostonherald.com/2025/04/15/colorado-alien-enemies-act-deporations-temporarily-blocked/",
+    "timestamp": "2025-04-15T16:15:13Z"
+  },
+  {
+    "title": "At US antitrust trial, Meta's Zuckerberg admits he bought Instagram because it was 'better'",
+    "description": "WASHINGTON : Meta CEO Mark Zuckerberg made a key confession at a U.S. antitrust trial on Tuesday, saying he bought Instagram because it had a \"better\" camera than the one his company was trying to build for flagship app Facebook at the time.The acknowledgemen\u2026",
+    "link": "https://www.channelnewsasia.com/business/us-antitrust-trial-metas-zuckerberg-admits-he-bought-instagram-because-it-was-better-5067681",
+    "timestamp": "2025-04-15T16:14:56Z"
+  },
+  {
+    "title": "Meta's Zuckerberg admits he bought Instagram because its camera was 'better'",
+    "description": "WASHINGTON :Meta CEO Mark Zuckerberg made a key concession at a U.S. antitrust trial on Tuesday, saying he bought Instagram because it had a \"better\" camera than the one his company was trying to build under its flagship Facebook brand at the time.The acknowl\u2026",
+    "link": "https://www.channelnewsasia.com/business/metas-zuckerberg-admits-he-bought-instagram-because-its-camera-was-better-5067681",
+    "timestamp": "2025-04-15T16:14:56Z"
+  },
+  {
+    "title": "Trump Blames China, Biden For Boeing Deal Collapse",
+    "description": "Donald Trump has accused China of backing out of a major aircraft deal with Boeing, claiming the country is refusing delivery of jets it previously committed to purchase. In a Truth Social post, Trump said China \u201creneged\u201d on the agreement and blamed President\u2026",
+    "link": "https://biztoc.com/x/d6539e3ca316969a",
+    "timestamp": "2025-04-15T16:13:59Z"
+  },
+  {
+    "title": "Flat exports, high imports widen India\u2019s trade deficit to $21.54 b in March",
+    "description": "Persistent global uncertainties slowed down exports in FY 25; exporters tense about future due to lack of clarity in US policies",
+    "link": "https://www.thehindubusinessline.com/economy/flat-exports-high-imports-widen-indias-trade-deficit-to-2154-b-in-march/article69453882.ece",
+    "timestamp": "2025-04-15T16:13:58Z"
+  },
+  {
+    "title": "Here\u2019s what\u2019s about to become more expensive with the next round of tariffs | CNN Business",
+    "description": "President Donald Trump is forging ahead with his aggressive tariff campaign, moving on from \u201creciprocal\u201d tariffs to the sector-specific tariffs he promised.",
+    "link": "https://www.cnn.com/2025/04/15/economy/next-round-of-tariffs-cost/index.html",
+    "timestamp": "2025-04-15T16:13:48Z"
+  },
+  {
+    "title": "Trump Showdown With Courts In Spotlight At Migrant Hearing",
+    "description": "US President Donald Trump's showdown with the judicial system will be in the spotlight Tuesday at a hearing on the fate of a migrant who was wrongly deported to El Salvador.",
+    "link": "https://www.ibtimes.com/trump-showdown-courts-spotlight-migrant-hearing-3770172",
+    "timestamp": "2025-04-15T16:12:20Z"
+  },
+  {
+    "title": "Nvidia says there's 'not a whole lot we can do about tariffs' should Trump nix the exemption around RTX 5060 and RTX 5060 Ti graphics cards",
+    "description": "But really, will we see these cards at MSRP in the wild anyway?",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-theres-not-a-whole-lot-we-can-do-about-tariffs-should-trump-nix-the-exemption-around-rtx-5060-and-rtx-5060-ti-graphics-cards/",
+    "timestamp": "2025-04-15T16:11:45Z"
+  },
+  {
+    "title": "I Came to the U.S. to Study. Now I\u2019m Afraid to Speak.",
+    "description": "International students across the U.S. are losing their visas without warning. For many, the only explanation is a dream turned nightmare\u2014and a government no longer pretending to welcome us.\nThe post I Came to the U.S. to Study. Now I\u2019m Afraid to Speak. appea\u2026",
+    "link": "https://msmagazine.com/2025/04/15/usa-international-student-visa-revoked-trump-protest-deported/",
+    "timestamp": "2025-04-15T16:11:05Z"
+  },
+  {
+    "title": "FAIR: \u2018They\u2019re Doing Their Best to Turn People Who Have Not Committed Any Crime Into Criminals\u2019:\u00a0CounterSpin interview with Dara Lind on criminalizing immigrants",
+    "description": "\"They're taking far more sweeping, categorical actions toward people with fewer protections under current law, and it's harder to talk about those.\"",
+    "link": "https://fair.org/home/theyre-doing-their-best-to-turn-people-who-have-not-committed-any-crime-into-criminals/",
+    "timestamp": "2025-04-15T16:10:56Z"
+  },
+  {
+    "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+    "description": "Indian markets surged on Tuesday, with Sensex rising 1,577 points and Nifty 500 points, as Trump's tariff exemptions spurred broad-based buying across sectors despite weak earnings forecasts.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/120317230.cms",
+    "timestamp": "2025-04-15T16:10:33Z"
+  },
+  {
+    "title": "Tuesday, April 15. Russia\u2019s War On Ukraine: News And Information From Ukraine",
+    "description": "Dispatches from Ukraine. Day 1,147.",
+    "link": "https://www.forbes.com/sites/katyasoldak/2025/04/15/tuesday-april-15-russias-war-on-ukraine-news-and-information-from-ukraine/",
+    "timestamp": "2025-04-15T16:09:29Z"
+  },
+  {
+    "title": "Mar-a-Lago Has Gone to the Dogs: Inside a Surreal Canine Fundraising Gala",
+    "description": "Inside the club\u2019s gilded gates, photographer Sarah Rae Sherman turns her lens on Big Dog Ranch Rescue\u2019s lavish charity fundraiser\u2014where a presidential cameo, pampered rescue pups, and millions in donations blur the line between politics and a noble cause.",
+    "link": "https://www.vanityfair.com/news/story/mar-a-lago-has-gone-to-the-dogs",
+    "timestamp": "2025-04-15T16:08:59Z"
+  },
+  {
+    "title": "A 'neo-Nazi' allegedly planned to kill Trump. Federal cuts could slow foiling similar plots.",
+    "description": "The FBI says 17-year-old Nikita Casap plotted to assassinate the president as a way to spur a race war. Federal funding cuts could hamper similar probes.",
+    "link": "https://www.msnbc.com/top-stories/latest/nikita-casap-neo-nazi-trump-assassination-plot-rcna201228",
+    "timestamp": "2025-04-15T16:08:58Z"
+  },
+  {
+    "title": "China Suspends All Future Boeing Deliveries Amid Ongoing US Trade Standoff \u2013 Reports",
+    "description": "WASHINGTON (Sputnik) \u2013 China has ordered its airlines to halt all future deliveries of Boeing aircraft and any purchases of aircraft-related equipment and parts from US companies amid the ongoing trade war between Washington and Beijing, Bloomberg reported on\u2026",
+    "link": "https://sputnikglobe.com/20250415/china-suspends-all-future-boeing-deliveries-amid-ongoing-us-trade-standoff--reports-1121876780.html",
+    "timestamp": "2025-04-15T16:08:54Z"
+  },
+  {
+    "title": "At US antitrust trial, Meta's Mark Zuckerberg admits he bought Instagram because it was 'better'",
+    "description": "The acknowledgement appeared to bolster allegations by US antitrust enforcers that Meta had used a \"buy or bury\" strategy to snap up potential rivals, keep smaller competitors at bay and maintain an illegal monopoly.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/at-us-antitrust-trial-metas-mark-zuckerberg-admits-he-bought-instagram-because-it-was-better/articleshow/120317266.cms",
+    "timestamp": "2025-04-15T16:08:45Z"
+  },
+  {
+    "title": "Donald Trump\u2019s Tariff Whiplash Sparks Meme Storm and Online Economics Lessons",
+    "description": "Social media was filled with AI-generated memes mocking America\u2019s trade war with China, as well as explainers by small business owners on the real-world impact of Trump\u2019s policies.",
+    "link": "https://www.vanityfair.com/news/story/donald-trumps-tariff-whiplash-sparks-meme-storm-and-online-economics-lessons",
+    "timestamp": "2025-04-15T16:07:58Z"
+  },
+  {
+    "title": "Trump showdown with courts in spotlight at migrant hearing",
+    "description": "US President Donald Trump\u2019s showdown with the judicial system will be in the spotlight Tuesday at a hearing on the fate of a migrant who was wrongly deported to El Salvador. The Trump administration admitted that Kilmar Abrego Garcia, who was living in the st\u2026",
+    "link": "https://www.digitaljournal.com/world/trump-showdown-with-courts-in-spotlight-at-migrant-hearing/article",
+    "timestamp": "2025-04-15T16:07:20Z"
+  },
+  {
+    "title": "Andrew Tate Will Face U.K. Abuse Trial In 2027\u2014As Legal Issues Grow Internationally",
+    "description": "Tate\u2019s legal issues span the United Kingdom, Romania and United States, where he faces civil and criminal investigations over alleged abuse and sexual assault.",
+    "link": "https://www.forbes.com/sites/conormurray/2025/04/15/andrew-tate-will-face-uk-abuse-trial-in-2027-as-legal-issues-grow-internationally/",
+    "timestamp": "2025-04-15T16:06:19Z"
+  },
+  {
+    "title": "Trump says Harvard should lose its tax exempt status, be treated as 'political entity' amid funding dispute",
+    "description": "President Donald Trump said Harvard University's tax exempt status is \"contingent\" on acting in the public interest after pulling $2.2 billion in funding.",
+    "link": "https://www.foxnews.com/politics/trump-says-harvard-should-lose-tax-exempt-status-treated-political-entity-funding-dispute",
+    "timestamp": "2025-04-15T16:06:04Z"
+  },
+  {
+    "title": "China escalates cyber fight with U.S., names alleged NSA hackers",
+    "description": "China has for the first time publicly accused three hackers of working for the National Security Agency and offered a reward for information leading to their arrest, echoing tactics the U.S. routinely uses against alleged Chinese cyberspies.",
+    "link": "https://www.nbcnews.com/tech/security/china-escalates-cyber-fight-us-names-alleged-nsa-hackers-rcna201286",
+    "timestamp": "2025-04-15T16:05:50Z"
+  },
+  {
+    "title": "Federal judge temporarily blocks Trump\u2019s use of Alien Enemies Act to deport Venezuelans from Colorado",
+    "description": "The American Civil Liberties Union filed a lawsuit on behalf of two Venezuelan men in Colorado who have been accused of being part of the Tren de Aragua gang.",
+    "link": "https://www.denverpost.com/2025/04/15/colorado-alien-enemies-act-deporations-temporarily-blocked/",
+    "timestamp": "2025-04-15T16:05:21Z"
+  },
+  {
+    "title": "No Tariff Exemptions for American Farmers\nThey voted for the tariffs when they voted for Trump.",
+    "description": "American farmers are pleading for exemptions from President Donald Trump\u2019s tariffs. Republican members of Congress from farm states are working to deliver the relief farmers want. But farmers do not deserve special treatment and should not get it.",
+    "link": "https://freerepublic.com/focus/f-news/4311159/posts",
+    "timestamp": "2025-04-15T16:04:40Z"
+  },
+  {
+    "title": "El Salvador should face 'severe' consequences for helping Trump scheme: Dem lawmaker",
+    "description": "In an appearance on CNN, Rep. Richie Torres (D-NY) slammed President Donald Trump\u2019s deportation of Maryland resident Abrego Garcia and also spoke about a new bill which \u201cwould require the U.S. to secure the return of mistakenly deported individuals.\"While spe\u2026",
+    "link": "https://www.rawstory.com/trump-immigration-2671773849/",
+    "timestamp": "2025-04-15T16:04:29Z"
+  },
+  {
+    "title": "JD Vance Clarifies Stance on Russia, Zelensky: 'Absurd'",
+    "description": "Vice President JD Vance said the U.S. must understand both Russia and Ukraine's strategic red lines to end the war, and dismissed Ukrainian President Volodymyr Zelensky's \"absurd\" suggestion that Washington is taking Moscow's side. Zelensky had told CBS' 60 M\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4311158/posts",
+    "timestamp": "2025-04-15T16:04:07Z"
+  },
+  {
+    "title": "How Nayib Bukele\u2019s White House performance plays into Trump\u2019s litigation defiance",
+    "description": "Monday\u2019s meeting between President Donald Trump and Salvadoran President Nayib Bukele made it clear that the two men are political partners in Trump\u2019s deportation efforts.",
+    "link": "https://biztoc.com/x/a389b6d4aff7fc3e",
+    "timestamp": "2025-04-15T16:02:35Z"
+  },
+  {
+    "title": "Is Donald Trump targeting Black Americans? President says he's studying options to deport heinous, violent criminals who are U.S. citizens to hell-hole El Salvador prison",
+    "description": "Trump deportation proposal has sparked national outrage after President Donald Trump suggested deporting even U.S. citizens convicted of violent crimes to El Salvador. His controversial remarks\u2014made during an Oval Office meeting with El Salvador\u2019s president\u2014a\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/is-donald-trump-targeting-black-americans-president-says-hes-studying-options-to-deport-heinous-violent-criminals-who-are-u-s-citizens-to-hell-hole-el-salvador-prison/articleshow/120316254.cms",
+    "timestamp": "2025-04-15T16:02:28Z"
+  },
+  {
+    "title": "Putin wants permanent peace in Ukraine \u2013 Trump envoy",
+    "description": "Steve Witkoff met with Russian President Vladimir Putin last week as part of ongoing talks between Moscow and Washington Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/615790-witkoff-putin-meeting-ukraine-conflict/",
+    "timestamp": "2025-04-15T16:02:19Z"
+  },
+  {
     "title": "A-1 Steak Sauce Responds To Linda McMahon's Stupidity",
     "description": "Donald Trump's unqualified Education Secretary Linda McMahon embarrassed herself and the entire country when she started describing artificial intelligence as A1 steak sauce during a conference last week.\nMSNBC's Rachel Maddow explained that McMahon's job is \u2026",
     "link": "https://crooksandliars.com/2025/04/trump-education-secretary-embarrasses",
@@ -36,15 +360,15 @@
     "timestamp": "2025-04-15T16:00:03Z"
   },
   {
-    "title": "Musk and Trump Are Increasingly Unpopular, New Polling Finds",
-    "description": "The Tesla CEO's chaotic and aggressive push into federal agencies have made him a particular liability for the administration",
-    "link": "http://www.rollingstone.com/politics/politics-features/musk-trump-increasingly-unpopular-new-poll-1235317605/",
-    "timestamp": "2025-04-15T16:00:00Z"
-  },
-  {
     "title": "Jelly Like US Robot Battery Can Survive All Assaults Including Twists, Cuts, Stabbing",
     "description": "Researchers from UC Berkeley, Georgia Tech, and Hong Kong University have developed a new jelly-like lithium-ion battery that defies conventional limitations. Unlike traditional lithium-ion batteries, this innovative battery can withstand twists, cuts, and st\u2026",
     "link": "https://www.ponoko.com/blog/ponoko/jelly-like-us-robot-battery-can-survive-all-assaults-including-twists-cuts-stabbing/",
+    "timestamp": "2025-04-15T16:00:00Z"
+  },
+  {
+    "title": "Musk and Trump Are Increasingly Unpopular, New Polling Finds",
+    "description": "The Tesla CEO's chaotic and aggressive push into federal agencies have made him a particular liability for the administration",
+    "link": "http://www.rollingstone.com/politics/politics-features/musk-trump-increasingly-unpopular-new-poll-1235317605/",
     "timestamp": "2025-04-15T16:00:00Z"
   },
   {
@@ -256,329 +580,5 @@
     "description": "Trump has said his admin is trying to find ways to make it legal anyway.",
     "link": "https://www.denverpost.com/2025/04/15/trump-citizens-prison/",
     "timestamp": "2025-04-15T15:40:19Z"
-  },
-  {
-    "title": "Trump says he wants to imprison US citizens in El Salvador. That\u2019s likely illegal",
-    "description": "Trump has said his admin is trying to find ways to make it legal anyway.",
-    "link": "https://www.bostonherald.com/2025/04/15/trump-citizens-prison/",
-    "timestamp": "2025-04-15T15:40:19Z"
-  },
-  {
-    "title": "Jimmy Kimmel:\u00a0Trump Was Elected Due to the Same \u2018Liberals\u2019 Who Are Always \u2018Viciously Attacking Comedians\u2019",
-    "description": "Jimmy Kimmel explained why he believes Trump was elected because of the same 'liberals' who are 'viciously attacking comedians.'",
-    "link": "https://www.indiewire.com/news/general-news/jimmy-kimmel-liberals-attack-comedians-1235115650/",
-    "timestamp": "2025-04-15T15:40:00Z"
-  },
-  {
-    "title": "ICE Arrests Palestinian Immigrant at His Citizenship Test",
-    "description": "Columbia student Mohsen Mahdawi thought he was going to become an American. Instead, ICE whisked him away into detention.",
-    "link": "https://reason.com/2025/04/15/ice-arrests-palestinian-immigrant-at-his-citizenship-test/",
-    "timestamp": "2025-04-15T15:39:21Z"
-  },
-  {
-    "title": "Trump eyes near 50 percent cut in State Dept budget: US media",
-    "description": "The US State Department\u00a0is expected to propose an unprecedented scaling back of Washington\u2019s diplomatic reach, multiple news outlets reported Tuesday, shuttering programs and embassies worldwide to slash the budget by almost 50 percent.\u00a0 The proposals, contai\u2026",
-    "link": "https://www.digitaljournal.com/world/trump-eyes-near-50-percent-cut-in-state-dept-budget-us-media/article",
-    "timestamp": "2025-04-15T15:38:19Z"
-  },
-  {
-    "title": "Trump-China trade war: Which US companies could be worst hit",
-    "description": "Tech companies, fashion firms and agribusinesses face body blows from Trump's eye-watering tariffs on China.",
-    "link": "https://www.aljazeera.com/news/2025/4/15/trump-china-trade-war-which-us-companies-could-be-worst-hit",
-    "timestamp": "2025-04-15T15:37:15Z"
-  },
-  {
-    "title": "Trump threatens to strip defiant Harvard of tax-exempt status",
-    "description": "President Donald Trump on Tuesday threatened to strip Harvard of its tax-exempt status after the elite US university refused to accept far-reaching policy changes ordered by the White House. Trump had already moved to freeze $2.2 billion of federal funds on M\u2026",
-    "link": "https://punchng.com/trump-threatens-to-strip-defiant-harvard-of-tax-exempt-status/",
-    "timestamp": "2025-04-15T15:37:05Z"
-  },
-  {
-    "title": "The Poor Are Taking Power Back Into Their Own Hands in a \u201cSurvival Revival\u201d",
-    "description": "Organizers are weaving the often-siloed survival struggles of the poor into a more unified force.",
-    "link": "https://tomdispatch.com/you-only-get-what-youre-organized-to-take/",
-    "timestamp": "2025-04-15T15:36:45Z"
-  },
-  {
-    "title": "China 'tearing down walls' as it looks to boost trade ties in Asia",
-    "description": "Chinese President Xi Jinping has landed in Malaysia after visiting Vietnam, as he tries to secure more support from South-East Asian neighbours amid the trade war with Donald Trump.",
-    "link": "https://www.abc.net.au/news/2025-04-16/xi-jinping-visits-vietnam-cambodia-malaysia-amid-us-trade-war/105180986",
-    "timestamp": "2025-04-15T15:36:37Z"
-  },
-  {
-    "title": "Congressman Warns \u2018Any American\u2019 Could Be \u2018Abducted,\u2019 Deported, and \u2018Tortured\u2019 Under Trump",
-    "description": "Richie Torres warned that \"any American\" could be \"abducted\" and \"tortured\" under President Donald Trump's administration.\nThe post Congressman Warns \u2018Any American\u2019 Could Be \u2018Abducted,\u2019 Deported, and \u2018Tortured\u2019 Under Trump first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/tv/congressman-warns-any-american-could-be-abducted-deported-and-tortured-under-trump-due-to-his-contempt-of-due-process/",
-    "timestamp": "2025-04-15T15:36:28Z"
-  },
-  {
-    "title": "Trump Eyes Near 50 Percent Cut In State Dept Budget: US Media",
-    "description": "The US State Department is expected to propose an unprecedented scaling back of Washington's diplomatic reach, multiple news outlets reported Tuesday, shuttering programs and embassies worldwide to slash the budget by almost 50 percent.",
-    "link": "https://www.ibtimes.com/trump-eyes-near-50-percent-cut-state-dept-budget-us-media-3770167",
-    "timestamp": "2025-04-15T15:36:22Z"
-  },
-  {
-    "title": "EU Expects US Tariffs to Stay as Talks Make Little Progress",
-    "description": "The European Union and US made scant progress bridging trade differences this week as officials from President Donald Trump\u2019s administration indicated that the bulk of the US tariffs imposed on the bloc will not be removed.",
-    "link": "https://financialpost.com/pmn/business-pmn/eu-expects-us-tariffs-to-stay-as-talks-make-little-progress",
-    "timestamp": "2025-04-15T15:35:45Z"
-  },
-  {
-    "title": "Democrats in disarray",
-    "description": "The party must focus now on the Nov\u201926 mid-terms",
-    "link": "https://www.thehindubusinessline.com/opinion/democrats-in-disarray/article69453704.ece",
-    "timestamp": "2025-04-15T15:35:27Z"
-  },
-  {
-    "title": "\u2018A monster\u2019: Illegal migrant convicted of raping, murdering American mother of 5",
-    "description": "Trump: 'We will never forget Rachel Morin, and are committed to protecting women like her across our country'",
-    "link": "https://www.wnd.com/2025/04/a-monster-illegal-migrant-convicted-of-raping-murdering-american-mother-of-5/",
-    "timestamp": "2025-04-15T15:34:38Z"
-  },
-  {
-    "title": "Harvard And Jane Fonda Are Leading. Who\u2019s Following?",
-    "description": "Leaders like Jane Fonda, Harvard, and Bishop Budde are resisting inertia. How can corporate leaders do the same to serve as leaders with clarity, courage, and presence.",
-    "link": "https://www.forbes.com/sites/nelldebevoise/2025/04/15/harvard-and-jane-fonda-are-leading-whos-following/",
-    "timestamp": "2025-04-15T15:34:38Z"
-  },
-  {
-    "title": "Aircraft Carriers Truman And Vinson Move In As Trump Plans To Corner Iran",
-    "description": "Donald Trump is calculating his next move as he aims to corner Iran over nuclear talks between Washington and Tehran. The US President has decided to put an end to Iran&#039;s rapidly advancing nuclear programme.",
-    "link": "https://www.ndtv.com/world-news/shah-mat-uss-truman-and-uss-vinson-move-in-as-donald-trump-looks-to-corner-iran-over-nuke-program-8172129",
-    "timestamp": "2025-04-15T15:33:51Z"
-  },
-  {
-    "title": "Obama blasts Trump administration's 'unlawful' Harvard demands",
-    "description": "Barack Obama praised Harvard for its rejection of President Donald Trump's demands as the university faces a funding freeze for alleged inaction on antisemitism.",
-    "link": "https://abcnews.go.com/Politics/obama-praises-harvard-rejecting-white-house-demands-trump/story?id=120824379",
-    "timestamp": "2025-04-15T15:33:34Z"
-  },
-  {
-    "title": "Apple Airlifted iPhones Worth $2 Billion From India Before US Tariff Order",
-    "description": "Apple&#039;s main India suppliers, Foxconn and Tata, shipped nearly $2 billion worth of iPhones to the United States in March, an all-time high, as the US company airlifted devices to bypass President Donald Trump&#039;s impending tariffs, customs data shows.",
-    "link": "https://www.ndtv.com/world-news/apple-airlifted-2-billion-worth-iphones-from-india-before-trumps-tariff-order-8172118",
-    "timestamp": "2025-04-15T15:32:44Z"
-  },
-  {
-    "title": "CNN\u2019s Kaitlan Collins was insulted once again by Donald Trump over a question; here\u2019s what the President did",
-    "description": "US President Donald Trump confronted CNN's Kaitlan Collins during a meeting with El Salvador's President Nayib Bukele. Collins questioned Trump about the deportation of Kilmar Abrego Garcia. The Supreme Court had ordered Abrego Garcia's return. Trump dismisse\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/cnns-kaitlan-collins-was-insulted-once-again-by-donald-trump-over-a-question-heres-what-the-president-did/articleshow/120315755.cms",
-    "timestamp": "2025-04-15T15:32:20Z"
-  },
-  {
-    "title": "Donald Trump's Approval Rating Implodes With Republican Pollster",
-    "description": "Several Republican pollsters have shown a dip in Trump's approval ratings in recent days amid fears about a potential recession.",
-    "link": "https://www.newsweek.com/donald-trump-approval-rating-republican-pollster-2059924",
-    "timestamp": "2025-04-15T15:31:49Z"
-  },
-  {
-    "title": "Marjorie Taylor Greene\u2019s well-timed stock purchases draw scrutiny",
-    "description": "Before pausing much of his tariffs agenda, Donald Trump wrote online, \u201cTHIS IS A GREAT TIME TO BUY!!!\u201d",
-    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/marjorie-taylor-greenes-well-timed-stock-purchases-draw-scrutiny-rcna201321",
-    "timestamp": "2025-04-15T15:31:47Z"
-  },
-  {
-    "title": "US Economy to Lose Billions as Foreign Tourists Stay Away",
-    "description": "The US economy is set to lose billions of dollars in revenue in 2025 from a pullback in foreign tourism and boycotts of American products, adding to a growing list of headwinds keeping recession risk elevated.",
-    "link": "https://financialpost.com/pmn/business-pmn/us-economy-to-lose-billions-as-foreign-tourists-stay-away",
-    "timestamp": "2025-04-15T15:30:26Z"
-  },
-  {
-    "title": "Matthews: Trump Has \u2018Weird Love\u2019 for \u2018Our Enemies,\u2019 Attacks Our Allies",
-    "description": "Tuesday, during an appearance on \u201cMorning Joe,\u201d long-time MSNBC personality Chris Matthews claimed President Donald Trump has a \u201cweird love\u201d for the enemies of the United States. Matthews said, \u201cWe are taking friends and turning them into enemies. We\u2019re turni\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4311151/posts",
-    "timestamp": "2025-04-15T15:30:11Z"
-  },
-  {
-    "title": "Donald Trump Eligible to Run for Third Term, Half of MAGA Republicans Say",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nAlmost half of the Republicans who identify as members of the Make America Great Again movement have said President Donald Trump can run for a third term in office despite being term-limited by the Constitutio\u2026",
-    "link": "https://biztoc.com/x/83d720410c0c2cf7",
-    "timestamp": "2025-04-15T15:30:09Z"
-  },
-  {
-    "title": "Trump Trade: Smartphones, computers, chips get break from highest tariffs",
-    "description": "In This Article:\nCatch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly:\nStay Ahead of the Market:\n-\nDiscover ou\u2026",
-    "link": "https://biztoc.com/x/c885e12b453f1c08",
-    "timestamp": "2025-04-15T15:30:06Z"
-  },
-  {
-    "title": "Global markets rise, US futures muted amid tariff uncertainty",
-    "description": "US stocks little changed amid tariff uncertainty\nTrump signaled a willingness to ease some tariffs but also impose new ones.\nU.S. stocks were little changed in early trading on Tuesday, a day after President Donald Trump signaled a willingness to ease some ta\u2026",
-    "link": "https://biztoc.com/x/e187a73e1230fec0",
-    "timestamp": "2025-04-15T15:30:05Z"
-  },
-  {
-    "title": "Trump Tests the True Limits of Presidential Power (Jeffrey Blehar/National Review)",
-    "description": "Jeffrey Blehar / National Review:\nTrump Tests the True Limits of Presidential Power\u00a0 \u2014\u00a0 Greetings and welcome to this week's midair performance of the Carnival of Fools!\u00a0 Like a prestige subscription-service drama, our story resumes from a potent cliff-hanger\u2026",
-    "link": "https://www.memeorandum.com/250415/p51",
-    "timestamp": "2025-04-15T15:30:03Z"
-  },
-  {
-    "title": "Trump says China 'reneged' on Boeing deal as tensions flare",
-    "description": "WASHINGTON: United States President Donald Trump said on Tuesday (Apr 15) that China has gone back on a major Boeing deal, after a news report that Beijing ordered airlines not to take further deliveries of the",
-    "link": "https://www.channelnewsasia.com/world/boeing-china-trump-deal-tariffs-trade-war-5067611",
-    "timestamp": "2025-04-15T15:30:00Z"
-  },
-  {
-    "title": "Even More",
-    "description": "Whoopsie.\nChina has ordered its airlines not to take any further deliveries of Boeing Co. jets as part of the tit-for-tat trade war that\u2019s seen US President Donald Trump levy tariffs of as high as 145% on Chinese goods, according to people familiar with the m\u2026",
-    "link": "https://www.eschatonblog.com/2025/04/even-more.html",
-    "timestamp": "2025-04-15T15:30:00Z"
-  },
-  {
-    "title": "Offshore Wind Power Poses Only Limited Risk to Whales, Government Watchdog Report Finds",
-    "description": "Republicans asked Congress\u2019s watchdog to scrutinize offshore wind power\u2019s effect on commercial fishing, marine navigation and wildlife, but the resulting report undermines anti-wind-power talking points",
-    "link": "https://subscriber.politicopro.com/article/eenews/2025/04/15/republicans-wanted-a-bombshell-report-on-offshore-wind-they-got-something-else-00289323",
-    "timestamp": "2025-04-15T15:30:00Z"
-  },
-  {
-    "title": "Federal Judge Halts Trump Deportations Amid Fears of False Gang Ties",
-    "description": "The decision comes after the Supreme Court ruled that individuals targeted under Trump's order must first be granted a hearing.",
-    "link": "https://www.newsweek.com/federal-judge-halts-trump-deportations-amid-fears-false-gang-ties-2060060",
-    "timestamp": "2025-04-15T15:29:55Z"
-  },
-  {
-    "title": "Trump to allegedly skip WH press dinner again",
-    "description": "United States President Donald Trump will not attend the annual White House Correspondents' Association dinner at the end of the month, Politico reported on Tuesday, citing a White House official fami...",
-    "link": "https://biztoc.com/x/15a48340da11ddc7",
-    "timestamp": "2025-04-15T15:29:51Z"
-  },
-  {
-    "title": "Do Americans Really Want To Bring Back Manufacturing?",
-    "description": "President Donald Trump pledged that he would make America \"a manufacturing nation once again,\" during his inauguration speech. Since then, Trump has issued a number of executive orders to this end. But most Americans say that they would not be better off if t\u2026",
-    "link": "https://biztoc.com/x/7d82fc98055e4c27",
-    "timestamp": "2025-04-15T15:29:25Z"
-  },
-  {
-    "title": "Donald Trump Eligible to Run for Third Term, Half of MAGA Republicans Say",
-    "description": "A SurveyUSA poll shows that the president's supporters agree he could seek a return to the White House in 2028.",
-    "link": "https://www.newsweek.com/donald-trump-eligible-third-term-maga-poll-2028-2059883",
-    "timestamp": "2025-04-15T15:27:18Z"
-  },
-  {
-    "title": "Trump Says Would 'Love' To Send US Citizens To El Salvador Jail",
-    "description": "President Donald Trump stepped up his extraordinary threats to send Americans to foreign jails, saying Tuesday he would love to deport \"homegrown\" US citizens who commit violent crimes to a notorious mega-prison in El Salvador.",
-    "link": "https://www.ibtimes.com/trump-says-would-love-send-us-citizens-el-salvador-jail-3770164",
-    "timestamp": "2025-04-15T15:27:08Z"
-  },
-  {
-    "title": "Mark Zuckerberg takes the stand in historic antitrust trial that could force breakup of Meta",
-    "description": "The trial could force the tech giant to break off Instagram and WhatsApp, startups it bought more than a decade ago that have since grown into social media powerhouses.",
-    "link": "https://www.pbs.org/newshour/nation/mark-zuckerberg-takes-the-stand-in-historic-antitrust-trial-that-could-force-breakup-of-meta",
-    "timestamp": "2025-04-15T15:26:50Z"
-  },
-  {
-    "title": "Here's how much home prices in Canada are expected to drop in 2025",
-    "description": "Following an uptick in home prices in 2024, British Columbia could be among the parts of Canada to see a potential decline in housing prices in 2025.\r\nAccording to a recent forecast by TD Bank's economists, average home prices in B.C. will fall by 4.1 per cen\u2026",
-    "link": "https://dailyhive.com/toronto/canada-real-estate-home-prices-forecast-spring-2025",
-    "timestamp": "2025-04-15T15:26:06Z"
-  },
-  {
-    "title": "\u2018Supporting Sickness\u2019: Trump Threatens to Strip Harvard of Tax-Exempt Status for Defying Latest Demands",
-    "description": "Trump punished the university for defying his demands by announcing the government would then \u201cfreeze $2.2 billion in multi-year grants\nThe post \u2018Supporting Sickness\u2019: Trump Threatens to Strip Harvard of Tax-Exempt Status for Defying Latest Demands first appe\u2026",
-    "link": "https://www.mediaite.com/politics/supporting-sickness-trump-threatens-to-strip-harvard-of-tax-exempt-status-for-defying-latest-demands/",
-    "timestamp": "2025-04-15T15:25:57Z"
-  },
-  {
-    "title": "India is well placed to navigate world challenges: ITC Chairman",
-    "description": "ITC Chairman Sanjiv Puri anticipates India navigating US tariff disruptions effectively, driven by potential trade agreements with the US, EU, and UK. Negotiations for a Bilateral Trade Agreement with the US are progressing rapidly, aiming to double bilateral\u2026",
-    "link": "https://economictimes.indiatimes.com/news/india/india-is-well-placed-to-navigate-world-challenges-itc-chairman/articleshow/120316330.cms",
-    "timestamp": "2025-04-15T15:25:35Z"
-  },
-  {
-    "title": "Honda to boost US manufacturing, shift production from Canada, Mexico in response to Trump tariffs",
-    "description": "Honda plans to boost its production in the US by up to 30% over the next two-to-three years, the Nikkei reported.",
-    "link": "https://nypost.com/2025/04/15/business/honda-to-boost-manufacturing-in-us-after-trump-tariffs/",
-    "timestamp": "2025-04-15T15:24:45Z"
-  },
-  {
-    "title": "WATCH LIVE: Wife of man mistakenly deported to El Salvador speaks ahead of court hearing",
-    "description": "The U.S. Supreme Court has called on the administration to \u201cfacilitate\u201d Kilmar Abrego Garcia's return.",
-    "link": "https://www.pbs.org/newshour/politics/watch-live-wife-of-man-mistakenly-deported-to-el-salvador-speaks-ahead-of-court-hearing",
-    "timestamp": "2025-04-15T15:24:20Z"
-  },
-  {
-    "title": "How Nayib Bukele\u2019s White House performance plays into Trump\u2019s litigation defiance",
-    "description": "Monday\u2019s meeting between President Donald Trump and Salvadoran President Nayib Bukele made it clear that the two men are political partners in Trump\u2019s deportation efforts.",
-    "link": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/nayib-bukele-white-house-kilmar-abrego-garcia-rcna201287",
-    "timestamp": "2025-04-15T15:22:52Z"
-  },
-  {
-    "title": "Trump says would \u2018love\u2019 to send US citizens to El Salvador jail",
-    "description": "President Donald Trump stepped up his extraordinary threats to send Americans to foreign jails, saying Tuesday he would love to deport \u201chomegrown\u201d US citizens who commit violent crimes to a notorious mega-prison in El Salvador. Trump raised the idea in talks \u2026",
-    "link": "https://www.digitaljournal.com/world/trump-says-would-love-to-send-us-citizens-to-el-salvador-jail/article",
-    "timestamp": "2025-04-15T15:22:20Z"
-  },
-  {
-    "title": "Citi, Bank of America post higher profits as traders cash in on tariff turmoil",
-    "description": "The banks reaped the benefits of investors adjusting their portfolios after being spooked about a possible return to protectionist trade policies, following a similar trend at JPMorgan and Goldman Sachs.",
-    "link": "https://nypost.com/2025/04/15/business/citi-bank-of-america-post-higher-profits-as-traders-cash-in-on-tariff-turmoil/",
-    "timestamp": "2025-04-15T15:20:04Z"
-  },
-  {
-    "title": "USA Rare Earth Stock Continues To Surge: What's Going On?",
-    "description": "USA Rare Earth Inc (NASDAQ:USAR) shares are seeing continued momentum Tuesday after metals and mining companies surged on Monday following reports the Trump administration plans to stockpile deep-sea metals to counter China.\nWhat To Know: President Donald Tru\u2026",
-    "link": "https://biztoc.com/x/7f6c98d48aee55af",
-    "timestamp": "2025-04-15T15:19:12Z"
-  },
-  {
-    "title": "Chinese TikTok Influencers 'Expose' Cheap Nike, Lululemon Suppliers To Bypass Trump Tariffs",
-    "description": "A surge of TikTok influencers are targeting American consumers with videos that claim to reveal the Chinese factories behind major brands like Nike, Inc. (NYSE:NKE) and Lululemon Athletica, Inc. (NASDAQ:LULU).\nThe influencers claim that viewers can bypass Pre\u2026",
-    "link": "https://biztoc.com/x/1bdf31826ff76e02",
-    "timestamp": "2025-04-15T15:19:07Z"
-  },
-  {
-    "title": "Trump Blames Biden, Putin, Zelenskyy For Ukraine War, Says He's Working To End It",
-    "description": "Trump Blames Biden, Putin, Zelenskyy For Ukraine War, Says He's Working To End It\n \nAuthored by Tom Ozimek via The Epoch Times,\nU.S. President Donald Trump blamed former U.S. President Joe Biden, Russian President Vladimir Putin, and Ukrainian President Volod\u2026",
-    "link": "https://biztoc.com/x/3c43fa25bb7bc6b6",
-    "timestamp": "2025-04-15T15:18:52Z"
-  },
-  {
-    "title": "Jimmy Kimmel: Liberals \u2018Viciously Attacking Comedians\u2019 and Policing What\u2019s Funny Is a \u2018Big Reason Trump Is President Right Now\u2019",
-    "description": "Jimmy Kimmel was asked in a new Rolling Stone interview about what is acceptable in comedy today, which prompted the ABC late night host to say that increasingly attacking what comedians can or can\u2019t say is one of the reasons Donald Trump is president again. \u2026",
-    "link": "https://variety.com/2025/tv/news/jimmy-kimmel-liberals-attacking-comedians-trump-president-1236369771/",
-    "timestamp": "2025-04-15T15:18:49Z"
-  },
-  {
-    "title": "Trump blasts China over Boeing delivery halt",
-    "description": "United States President Donald Trump hit back on China's decision to halt deliveries of Boeing jets, tying it to a broader escalation in the ongoing trade war that has seen Washington impose tariffs o...",
-    "link": "https://biztoc.com/x/6260f025294da74a",
-    "timestamp": "2025-04-15T15:18:49Z"
-  },
-  {
-    "title": "Here\u2019s what a new poll reveals about Kamala Harris\u2019 chances of winning 2026 California governor\u2019s race",
-    "description": "The poll conducted by POLITICO and UC Berkeley\u2019s Citrin Center shows a mixed reaction to a hypothetical Harris bid for",
-    "link": "https://www.yahoo.com/news/poll-reveals-kamala-harris-chances-151623033.html",
-    "timestamp": "2025-04-15T15:16:23Z"
-  },
-  {
-    "title": "Trans Canadian Singer Bells Larsen Forced to Cancel US Tour Dates Over Visa Sex Rules",
-    "description": "Transgender Canadian singer Bells Larsen canceled U.S. tour dates over visa rules\u00a0stipulating travelers need to have their actual sex listed on their documentation.\nThe post Trans Canadian Singer Bells Larsen Forced to Cancel US Tour Dates Over Visa Sex Rules\u2026",
-    "link": "https://www.breitbart.com/entertainment/2025/04/15/trans-canadian-singer-bells-larsen-forced-to-cancel-us-tour-dates-over-visa-sex-rules/",
-    "timestamp": "2025-04-15T15:16:09Z"
-  },
-  {
-    "title": "Trump Tech Aide Calls for \u2018Creative\u2019 R&D Push After Budget Cuts",
-    "description": "White House science and technology director Michael Kratsios said the US will need to make \u201csmart choices\u201d with public research funding to stay competitive in areas like artificial intelligence as the Trump administration\u2019s sweeping budget cuts spread to rese\u2026",
-    "link": "https://financialpost.com/pmn/business-pmn/trump-tech-aide-calls-for-creative-rd-push-after-budget-cuts",
-    "timestamp": "2025-04-15T15:15:15Z"
-  },
-  {
-    "title": "Trump Trade: Smartphones, computers, chips get break from highest tariffs",
-    "description": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald...",
-    "link": "https://finance.yahoo.com/news/trump-trade-smartphones-computers-chips-151512534.html",
-    "timestamp": "2025-04-15T15:15:12Z"
-  },
-  {
-    "title": "Global supply panic: China\u2019s rare earth export freeze hits everyone and not just U.S; tech, automotive, and defense sectors brace for major global shortages",
-    "description": "China\u2019s rare earth export freeze has triggered a global supply panic, hitting not just the U.S. but major economies like Japan and Germany. After President Trump\u2019s \u201cLiberation Day\u201d tariffs, China retaliated by halting all rare earth shipments \u2014 minerals cruci\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/global-supply-panic-chinas-rare-earth-export-freeze-hits-everyone-and-not-just-u-s-tech-automotive-and-defense-sectors-brace-for-major-global-shortages/articleshow/120316142.cms",
-    "timestamp": "2025-04-15T15:14:55Z"
-  },
-  {
-    "title": "China Mocks US Trains With Embassy Meme Post",
-    "description": "Chinese state media and social media accounts have ramped up their use of barbed posts as trade tensions escalate.",
-    "link": "https://www.newsweek.com/china-embassy-mocks-us-trains-rail-2059845",
-    "timestamp": "2025-04-15T15:13:19Z"
   }
 ]
