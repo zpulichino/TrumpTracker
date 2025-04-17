@@ -1,5 +1,59 @@
 [
   {
+    "title": "Boeing is in the crosshairs of the US-China trade war",
+    "description": "Last week, China Southern Airlines said it was suspending the sale of 10 used Boeing planes.",
+    "link": "https://www.businessinsider.com/boeing-us-china-trade-war-plane-deliveries-cancelled-tariffs-2025-4",
+    "timestamp": "2025-04-16T07:18:13Z"
+  },
+  {
+    "title": "Europe seeks to break its US tech addiction",
+    "description": "With President Donald Trump more unpredictable than ever and transatlantic ties reaching new lows, calls are growing louder for Europe to declare independence from U.S. tech.",
+    "link": "https://www.hurriyetdailynews.com/europe-seeks-to-break-its-us-tech-addiction-208122",
+    "timestamp": "2025-04-16T07:18:12Z"
+  },
+  {
+    "title": "China\u2019s economy grows faster than expected",
+    "description": "Government stimulus measures help to boost consumption",
+    "link": "https://www.irishtimes.com/business/2025/04/16/chinas-economy-grows-faster-than-expected/",
+    "timestamp": "2025-04-16T07:17:40Z"
+  },
+  {
+    "title": "US considering \u2018eliminating almost all funding\u2019 for NATO \u2013 NYT",
+    "description": "The Trump administration is eyeing a proposal to cut funding for NATO and the UN, the New York Times has reported Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/615818-us-eliminate-nato-un-funding/",
+    "timestamp": "2025-04-16T07:16:13Z"
+  },
+  {
+    "title": "\u2018Comrades and Brothers\u2019: Is China Pulling Vietnam Back Into Its Orbit?",
+    "description": "Despite welcoming China's Xi Jinping with unprecedented pomp, Hanoi will avoid overdependence on any single great power.",
+    "link": "https://thediplomat.com/2025/04/comrades-and-brothers-is-china-pulling-vietnam-back-into-its-orbit/",
+    "timestamp": "2025-04-16T07:14:00Z"
+  },
+  {
+    "title": "Who Will Pay the Highest Price for Trump\u2019s Postal Service Privatization Push?",
+    "description": "\"Without competition from our public Postal Service, for-profit firms would jack up delivery fees on as many customers as possible.\"",
+    "link": "https://www.nakedcapitalism.com/2025/04/who-will-pay-the-highest-price-for-trumps-postal-service-privatization-push.html",
+    "timestamp": "2025-04-16T07:11:47Z"
+  },
+  {
+    "title": "Nvidia warns Trump curbs on China chips to cost $5.5bn",
+    "description": "Bar on sales of H20 chip will hamstring product line designed to comply with previous US curbs",
+    "link": "https://www.irishtimes.com/business/2025/04/16/nvidia-warns-trump-curbs-on-china-chips-to-cost-55bn/",
+    "timestamp": "2025-04-16T07:10:20Z"
+  },
+  {
+    "title": "Chinese cars are taking over the global south",
+    "description": "Petrol engines, not batteries, are powering their growth",
+    "link": "https://www.livemint.com/industry/chinese-car-exports-byd-electric-vehicles-china-auto-industry-global-chinese-ev-market-share-china-car-exports-11744786735995.html",
+    "timestamp": "2025-04-16T07:08:28Z"
+  },
+  {
+    "title": "Nvidia shares fall after it says US controls on exports of AI chip will cost it $5.5B",
+    "description": "Shares in Nvidia slumped in after-hours trading late Tuesday after it said that tighter U.S. government controls on its exports of computer chips used for artificial intelligence will cost it an extra $5.5 billion",
+    "link": "https://abcnews.go.com/Business/wireStory/nvidia-shares-fall-after-us-controls-exports-ai-120854991",
+    "timestamp": "2025-04-16T07:03:38Z"
+  },
+  {
     "title": "Harvard just stood up to Trump. How long can it last?",
     "description": "With billions in the balance, the battle may just be starting between the US government and universities.",
     "link": "https://www.bbc.com/news/articles/c20z60vxvmjo",
@@ -162,12 +216,6 @@
     "timestamp": "2025-04-16T06:06:11Z"
   },
   {
-    "title": "Russia jails woman for criticism; as Sumy buries victims of Russian double strike",
-    "description": "Moscow (AFP) April 15, 2025\n\n A Russian court on Tuesday jailed a woman for more than five years for criticising the army on social media, allegedly after she was denounced by her neighbour. \n\nAnna Aleksandrova, a 47-year-old hairdresser, was arrested in Nove\u2026",
-    "link": "https://www.spacewar.com/reports/Russia_jails_woman_whose_neighbour_alleged_army_criticism_999.html",
-    "timestamp": "2025-04-16T06:05:39Z"
-  },
-  {
     "title": "Trump resurrects ghost of US military bases in Panama",
     "description": "Panama City (AFP) April 15, 2025\n\n\n US President Donald Trump's bid to take back control of the Panama Canal has put his counterpart Jose Raul Mulino in a difficult position and revived fears in the Central American country that US military bases will return.\u2026",
     "link": "https://www.spacewar.com/reports/Trump_resurrects_ghost_of_US_military_bases_in_Panama_999.html",
@@ -180,9 +228,9 @@
     "timestamp": "2025-04-16T06:05:39Z"
   },
   {
-    "title": "Zelensky tells NATO chief Ukraine has 'acute' need of air defences",
-    "description": "Odesa, Ukraine (AFP) April 15, 2025\n\n President Volodymyr Zelensky on Tuesday told NATO chief Mark Rutte that Ukraine urgently needed air defence systems after recent Russian missile strikes killed dozens of civilians. \n\n\"Absolutely everyone sees how acute Uk\u2026",
-    "link": "https://www.spacewar.com/reports/Zelensky_tells_NATO_chief_Ukraine_has_acute_need_of_air_defences_999.html",
+    "title": "Russia jails woman for criticism; as Sumy buries victims of Russian double strike",
+    "description": "Moscow (AFP) April 15, 2025\n\n A Russian court on Tuesday jailed a woman for more than five years for criticising the army on social media, allegedly after she was denounced by her neighbour. \n\nAnna Aleksandrova, a 47-year-old hairdresser, was arrested in Nove\u2026",
+    "link": "https://www.spacewar.com/reports/Russia_jails_woman_whose_neighbour_alleged_army_criticism_999.html",
     "timestamp": "2025-04-16T06:05:39Z"
   },
   {
@@ -198,9 +246,9 @@
     "timestamp": "2025-04-16T06:05:39Z"
   },
   {
-    "title": "Khamenei says Iran-US talks going well but may lead nowhere",
-    "description": "Tehran (AFP) April 15, 2025\n\n Iran's supreme leader Ayatollah Ali Khamenei said on Tuesday he was satisfied with talks with arch-foe the United States but warned they could ultimately prove fruitless. \n\nTehran and Washington are due to meet again in Muscat on\u2026",
-    "link": "https://www.spacewar.com/reports/Khamenei_says_Iran-US_talks_going_well_but_may_lead_nowhere_999.html",
+    "title": "Zelensky tells NATO chief Ukraine has 'acute' need of air defences",
+    "description": "Odesa, Ukraine (AFP) April 15, 2025\n\n President Volodymyr Zelensky on Tuesday told NATO chief Mark Rutte that Ukraine urgently needed air defence systems after recent Russian missile strikes killed dozens of civilians. \n\n\"Absolutely everyone sees how acute Uk\u2026",
+    "link": "https://www.spacewar.com/reports/Zelensky_tells_NATO_chief_Ukraine_has_acute_need_of_air_defences_999.html",
     "timestamp": "2025-04-16T06:05:39Z"
   },
   {
@@ -210,10 +258,22 @@
     "timestamp": "2025-04-16T06:05:39Z"
   },
   {
+    "title": "Khamenei says Iran-US talks going well but may lead nowhere",
+    "description": "Tehran (AFP) April 15, 2025\n\n Iran's supreme leader Ayatollah Ali Khamenei said on Tuesday he was satisfied with talks with arch-foe the United States but warned they could ultimately prove fruitless. \n\nTehran and Washington are due to meet again in Muscat on\u2026",
+    "link": "https://www.spacewar.com/reports/Khamenei_says_Iran-US_talks_going_well_but_may_lead_nowhere_999.html",
+    "timestamp": "2025-04-16T06:05:39Z"
+  },
+  {
     "title": "Chipmaker stocks slide as Nvidia faces $5.5B charge with US restrictions",
     "description": "Chipmaking giants Nvidia and AMD have seen their share prices slide in after-hours trading after Nvidia said US restrictions on artificial intelligence chips to China would cause it to face major costs.Nvidia stated in an April 15 regulatory filing that it is\u2026",
     "link": "https://cointelegraph.com/news/chip-maker-stocks-slide-nvidia-faces-us-ai-chip-restrictions",
     "timestamp": "2025-04-16T06:03:52Z"
+  },
+  {
+    "title": "Second Trump would-be assassin Ryan Wesley Routh facing STATE CHARGES in Florida",
+    "description": "Ryan Wesley Routh, the second shooter who attempted to assassinate President Donald Trump in September 2024, now faces new state charges, including attempted first-degree murder and terrorism, as announced by Florida AG James Uthmeier. Uthmeier accused the Bi\u2026",
+    "link": "https://www.naturalnews.com/2025-04-16-second-trump-assassin-facing-state-charges-florida.html",
+    "timestamp": "2025-04-16T06:00:00Z"
   },
   {
     "title": "Trump administration expands DEPORTATIONS of violent illegals to El Salvador\u2019s supermax CECOT prison",
@@ -225,12 +285,6 @@
     "title": "David Hogg\u2019s anti-gun group misfires and collapses\u00e2\u0080\u00a6",
     "description": "The left has gone so far off the rails, even their own pet projects are crashing and burning. When you push radical nonsense long enough, eventually the donors dry up, the base checks out, and the circus tent folds up and collapses. Well, that\u2019s exactly what\u2019\u2026",
     "link": "https://www.naturalnews.com/2025-04-16-david-hoggs-anti-gun-group-misfires-collapses.html",
-    "timestamp": "2025-04-16T06:00:00Z"
-  },
-  {
-    "title": "Second Trump would-be assassin Ryan Wesley Routh facing STATE CHARGES in Florida",
-    "description": "Ryan Wesley Routh, the second shooter who attempted to assassinate President Donald Trump in September 2024, now faces new state charges, including attempted first-degree murder and terrorism, as announced by Florida AG James Uthmeier. Uthmeier accused the Bi\u2026",
-    "link": "https://www.naturalnews.com/2025-04-16-second-trump-assassin-facing-state-charges-florida.html",
     "timestamp": "2025-04-16T06:00:00Z"
   },
   {
@@ -472,77 +526,5 @@
     "description": "The US plans to cut its troop presence in Syria by half, consolidating bases as part of a broader regional military review.",
     "link": "https://www.jpost.com/american-politics/article-850274",
     "timestamp": "2025-04-16T04:49:18Z"
-  },
-  {
-    "title": "Canadian Car Travel To U.S. Plunges 32% In March As Boycott Escalates",
-    "description": "Three times as many Canadians are staying away from the U.S. than the national travel industry first predicted\u2014setting up a potential $6 billion economic loss this year. Key Facts Last month, the number of Canadians taking road trips into the U.S.\u2014representin\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4311280/posts",
-    "timestamp": "2025-04-16T04:45:07Z"
-  },
-  {
-    "title": "Europe seeks to break its US tech addiction",
-    "description": "<p>BRUSSELS - With President Donald Trump more unpredictable than ever and transatlantic ties reaching new lows, calls are growing louder for Europe to declare independence from US tech.</p>",
-    "link": "https://www.bangkokpost.com/life/tech/3004241/europe-seeks-to-break-its-us-tech-addiction",
-    "timestamp": "2025-04-16T04:45:00Z"
-  },
-  {
-    "title": "Facebook Added \"Value\" To Instagram: Mark Zuckerberg At US Antitrust Trial",
-    "description": "Social media titan Mark Zuckerberg testified for a second day Tuesday in a landmark US antitrust trial, defending his conglomerate Meta against accusations it took over Instagram and WhatsApp to devour budding competitors.",
-    "link": "https://www.ndtv.com/world-news/mark-zuckerberg-at-us-antitrust-trial-facebook-added-value-to-instagram-8175710",
-    "timestamp": "2025-04-16T04:44:32Z"
-  },
-  {
-    "title": "Vivek Ramaswamy Takes Massive Lead In Ohio Governor's Race-- All Thanks to Trump",
-    "description": "Republican Ohio gubernatorial candidate Vivek Ramaswamy\u2019s bid for governor has gained significant momentum following a full endorsement from President Donald Trump, who praised Ramaswamy as \"Young, Strong, and Smart\" and a \"very good person who truly loves ou\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4311278/posts",
-    "timestamp": "2025-04-16T04:42:12Z"
-  },
-  {
-    "title": "First trans woman to compete in Miss Maine USA",
-    "description": "Isabelle St. Cyr will be the first openly transgender woman to compete in the Miss Maine USA beauty pageant. St. Cyr, who is 24 years old and was born in Howland, Maine, will compete in her first pageant next month at Miss Maine USA in Portland, according to \u2026",
-    "link": "https://www.thepinknews.com/2025/04/16/miss-maine-usa-isabelle-st-cyr-trans/",
-    "timestamp": "2025-04-16T04:42:06Z"
-  },
-  {
-    "title": "Risky Business #788 -- Trump targets Chris Krebs, SentinelOne",
-    "description": "On this week\u2019s show Patrick Gray talks to former NSA Cybersecurity Director Rob Joyce about Donald Trump\u2019s unprecedented, unwarranted and completely bonkers political persecution of Chris Krebs and his employer SentineOne.\n\nThey also talk through the week\u2019s c\u2026",
-    "link": "https://risky.biz/RB788/",
-    "timestamp": "2025-04-16T04:34:04Z"
-  },
-  {
-    "title": "Tokyo has 'many cards' to play in U.S. tariff negotiations, says Japanese economic advisor",
-    "description": "He pointed out that Japan has been the biggest foreign investor in the U.S. and the largest holder of U.S. Treasury bonds.",
-    "link": "https://www.cnbc.com/2025/04/16/tokyo-has-many-cards-to-play-in-us-tariff-talks-japan-advisor.html",
-    "timestamp": "2025-04-16T04:32:59Z"
-  },
-  {
-    "title": "Don't like a columnist's opinion? Los Angeles Times offers an AI-generated opposing viewpoint",
-    "description": "The Los Angeles Times is facing internal turmoil over owner Dr. Patrick Soon-Shiong's efforts to diversify its opinion pages. Soon-Shiong's initiative includes AI-generated \"Insights\" offering opposing viewpoints and a push for more conservative voices. These\u2026",
-    "link": "https://timesofindia.indiatimes.com/world/us/dont-like-a-columnists-opinion-los-angeles-times-offers-an-ai-generated-opposing-viewpoint/articleshow/120330261.cms",
-    "timestamp": "2025-04-16T04:30:52Z"
-  },
-  {
-    "title": "What to Know About the Universities That Have Had Their Funding Targeted by the Trump Administration",
-    "description": "Harvard is just the latest elite education institution targeted by the Trump Administration to try to force compliance with its agenda.",
-    "link": "https://time.com/7278236/university-funding-trump-harvard-cornell-northwestern-brown-princeton-penn-columbia/",
-    "timestamp": "2025-04-16T04:30:00Z"
-  },
-  {
-    "title": "Trump Orders Critical Minerals Probe That May Bring New Tariffs",
-    "description": "US President Donald Trump ordered a probe Tuesday that may result in tariffs on critical minerals, rare-earth metals and associated products such as smartphones, in an escalation of his dispute with global trade partners.",
-    "link": "https://www.ibtimes.com/trump-orders-critical-minerals-probe-that-may-bring-new-tariffs-3770249",
-    "timestamp": "2025-04-16T04:24:21Z"
-  },
-  {
-    "title": "Trump says US raking in record tariffs, inflation 'down'",
-    "description": "United States President Donald Trump claimed that the US is collecting record amounts in tariffs, while prices on key items are falling. Trump also stated inflation is declining, calling it part of hi...",
-    "link": "https://biztoc.com/x/6be40164e8116860",
-    "timestamp": "2025-04-16T04:22:29Z"
-  },
-  {
-    "title": "Vermont maple syrup makers face uncertainty amid Canada and China tariff chaos",
-    "description": "Making maple syrup in New England\u2019s fickle spring weather can be an unpredictable business",
-    "link": "https://abcnews.go.com/Business/wireStory/vermont-maple-syrup-makers-face-uncertainty-amid-canada-120853867",
-    "timestamp": "2025-04-16T04:22:29Z"
   }
 ]
