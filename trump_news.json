@@ -1,5 +1,71 @@
 [
   {
+    "title": "How will Wall Street react to the Trump-Powell showdown?",
+    "description": "President Donald Trump is talking about firing Jerome Powell, chair of the Federal Reserve. Powell's termination \"cannot come fast enough,\" Trump wrote this week on Truth Social. But the firing of Powell could upend Wall Street's stability in what is already \u2026",
+    "link": "https://biztoc.com/x/c7df7162b171148a",
+    "timestamp": "2025-04-18T19:27:21Z"
+  },
+  {
+    "title": "Tech CEOs Realizing They Made a Terrible Mistake by Supporting Trump",
+    "description": "Tech CEOs rallied behind Donald Trump in hopes that he would lower regulations and increase profits \u2014 and although he's already done the former, the latter now seems like a pipe dream. As\u00a0Vox reports, any gains tech companies have gleaned from Trump's deregul\u2026",
+    "link": "https://futurism.com/tech-ceos-trump-mistake",
+    "timestamp": "2025-04-18T19:27:19Z"
+  },
+  {
+    "title": "Nintendo Switch 2 retail preorder to begin April 24 following tariff delays",
+    "description": "Nintendo on Friday announced that retail preorder for its Nintendo Switch 2 gaming system will begin on April 24 starting at $449.99.",
+    "link": "https://www.nbcnews.com/business/business-news/nintendo-switch-2-retail-preorder-begin-april-24-tariff-delays-rcna201896",
+    "timestamp": "2025-04-18T19:27:05Z"
+  },
+  {
+    "title": "Why Trump\u2019s Embattled US Attorney in DC Is Talking About Russia",
+    "description": "Ed Martin, the acting US attorney in Washington, who has earned some notoriety through attempts to use his office to attack political opponents of the Trump administration, recently turned his sights on Special Counsel Robert Mueller\u2019s investigation into Russ\u2026",
+    "link": "https://www.motherjones.com/politics/2025/04/ed-martin-why-trumps-embattled-us-attorney-in-dc-is-talking-about-russia/",
+    "timestamp": "2025-04-18T19:26:05Z"
+  },
+  {
+    "title": "ASUS routers with AiCloud vulnerable to auth bypass exploit",
+    "description": "ASUS warns of an authentication bypass vulnerability in routers with AiCloud enabled that could allow unauthorized execution of functions on the device. ASUS warns of an authentication bypass vulnerability, tracked as\u00a0CVE-2025-2492\u00a0(CVSS v4 score: 9.2), which\u2026",
+    "link": "https://securityaffairs.com/176697/security/asus-warns-of-a-router-authentication-bypass-flaw.html",
+    "timestamp": "2025-04-18T19:26:02Z"
+  },
+  {
+    "title": "'Lying around like a loaded weapon': Analyst warns Trump tempted to use deeply flawed law",
+    "description": "President Donald Trump, infuriated at Harvard University's refusal to capitulate to his demands to crack down on protest, is now plotting the nuclear option \u2014 go after the school's tax-exempt status, which would wreck the ability of the school to fundraise. B\u2026",
+    "link": "https://www.rawstory.com/trump-harvard-2671801924/",
+    "timestamp": "2025-04-18T19:25:41Z"
+  },
+  {
+    "title": "White House embraces lab leak as \u2018true\u2019 pandemic origin, axing covid website(Fauci in trouble?)",
+    "description": "The White House on Friday launched a website deeming a laboratory leak as the \u201ctrue\u201d origin of the covid-19 virus, embracing a theory that has become a popular explanation for a pandemic that has killed more than 1 million Americans but remains divisive in th\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4311851/posts",
+    "timestamp": "2025-04-18T19:25:28Z"
+  },
+  {
+    "title": "The wolf was always there",
+    "description": "Trump is just openly, unambiguously defying court orders now: With these posts, they\u2019ve made it essentially inarguable that they\u2019re deliberately defying the Supreme Court. [image or embed] \u2014 southpaw (@nycsouthpaw.bsky.social) April 18, 2025 at 8:44 AM When y\u2026",
+    "link": "https://www.lawyersgunsmoneyblog.com/2025/04/the-wolf-was-always-there",
+    "timestamp": "2025-04-18T19:25:00Z"
+  },
+  {
+    "title": "White House Trolls NY Times Headline About Van Hollen's El Salvador Trip -- 'Fixed it for You'",
+    "description": "The White House posted a photo on social media\u00a0mocking the\u00a0New York Times'\u00a0headline on their article covering Senator Chris Van Hollen's trip\u00a0to El Salvador. The senator traveled to the Central American country to visit a deported MS-13 gang member, Kilmar Ar\u2026",
+    "link": "https://www.breitbart.com/border/2025/04/18/white-house-trolls-ny-times-headline-about-van-hollens-el-salvador-trip-fixed-it-for-you/",
+    "timestamp": "2025-04-18T19:24:12Z"
+  },
+  {
+    "title": "Trump says US may \u2018pass\u2019 on helping end war if Russia, Ukraine resist deal",
+    "description": "Ukraine has agreed to a full temporary ceasefire and accused Russia of stalling on a truce agreement.",
+    "link": "https://www.aljazeera.com/news/2025/4/18/trump-says-us-may-pass-on-helping-end-war-if-russia-ukraine-resist-deal",
+    "timestamp": "2025-04-18T19:23:54Z"
+  },
+  {
+    "title": "US congressmen visit Syria in first trip since Assad's ouster",
+    "description": "The two are US Representatives Cory Mills of Florida, who serves on the House Foreign Affairs and Armed Services committees, and Marlin Stutzman of Indiana.",
+    "link": "https://www.jpost.com/breaking-news/article-850641",
+    "timestamp": "2025-04-18T19:21:59Z"
+  },
+  {
     "title": "Trump, Rubio threaten to walk away from Ukraine-Russia peace talks",
     "description": "Trump, Rubio threaten to walk away from Ukraine-Russia peace talksgo.com",
     "link": "https://abcnews.go.com/Politics/trump-rubio-threatens-walk-ukraine-russia-peace-talks/story?id=120955800",
@@ -514,65 +580,5 @@
     "description": "B.C. Premier David Eby is calling out Ottawa's unfair treatment of provinces, warning that ignoring Western Canada's concerns could fuel separatist talk. He says federal funds heavily favor Ontario and Quebec while B.C. is left behind. Eby urges the next Prim\u2026",
     "link": "https://economictimes.indiatimes.com/news/international/canada/b-c-premier-david-eby-says-ottawa-must-treat-provinces-fairly-as-talk-of-western-canadas-separation-from-the-rest-of-the-country-grows/articleshow/120414119.cms",
     "timestamp": "2025-04-18T18:04:03Z"
-  },
-  {
-    "title": "Phoenix Ikner Updates: New Details Emerge on FSU Shooter's Childhood",
-    "description": "A review of Florida court documents shed light on Ikner's childhood.",
-    "link": "https://www.newsweek.com/phoenix-ikner-updates-new-details-emerge-fsu-shooters-childhood-2061561",
-    "timestamp": "2025-04-18T18:03:57Z"
-  },
-  {
-    "title": "Dr. Oz's Granddaughter Faints In Oval Office During President Trump Remarks",
-    "description": "The job never stops for Dr. Oz ... because one of his granddaughters fainted during his swearing-in ceremony at the White House -- and he got called into action!!! Ya gotta see the video ... President Donald Trump is answering questions about Iran\u2026\n Permalink",
-    "link": "https://www.tmz.com/2025/04/18/dr-oz-granddaughter-faints-oval-office/",
-    "timestamp": "2025-04-18T18:03:40Z"
-  },
-  {
-    "title": "Trump renews call for interest rate cut, says rates would be lower if Fed chief Powell 'understood what he was doing'",
-    "description": "President Donald Trump said once again on Friday that Federal Reserve Chair Jerome Powell should lower interest rates.",
-    "link": "https://www.cnbc.com/2025/04/18/trump-renews-call-for-powell-to-lower-interest-rates-he-should-bring-them-down.html",
-    "timestamp": "2025-04-18T18:03:01Z"
-  },
-  {
-    "title": "Court rejects Trump bid to end Venezuelan migrants' legal status",
-    "description": "(Reuters) - A federal appeals court rejected on Friday a request by U.S. President Donald Trump's administration to allow it to move forward with stripping temporary legal protections for about 350,000 Venezuelan migrants, exposing them to imminent deportatio\u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/04/19/court-rejects-trump-bid-to-end-venezuelan-migrants039-legal-status",
-    "timestamp": "2025-04-18T18:03:00Z"
-  },
-  {
-    "title": "DOGE Installs a Former Tesla Employee at the FBI",
-    "description": "Former Tesla employee Tarak Makecha has roles at the FBI and the Justice Department, records reviewed by The Intercept show.\nThe post DOGE Installs a Former Tesla Employee at the FBI appeared first on The Intercept.",
-    "link": "https://theintercept.com/2025/04/18/doge-tesla-employee-justice-department-fbi/",
-    "timestamp": "2025-04-18T18:01:32Z"
-  },
-  {
-    "title": "The US has a single rare earths mine. Chinese export limits are energizing a push for more",
-    "description": "Experts say prices are likely to increase quickly if China extends its import controls.",
-    "link": "https://www.bostonherald.com/2025/04/18/trump-tariffs-rare-earths/",
-    "timestamp": "2025-04-18T18:01:07Z"
-  },
-  {
-    "title": "The US has a single rare earths mine. Chinese export limits are energizing a push for more",
-    "description": "Experts say prices are likely to increase quickly if China extends its import controls.",
-    "link": "https://www.denverpost.com/2025/04/18/trump-tariffs-rare-earths/",
-    "timestamp": "2025-04-18T18:01:07Z"
-  },
-  {
-    "title": "Self-Described Communist Instructor at Washington State U. Allegedly Assaulted Student Over Trump Hat",
-    "description": "\"Mahoney has been active in pro-Palestinian demonstrations in the city and is linked to the Democratic Socialists of America and other progressive labor groups.\"\nThe post Self-Described Communist Instructor at Washington State U. Allegedly Assaulted Student O\u2026",
-    "link": "https://legalinsurrection.com/2025/04/self-described-communist-instructor-at-washington-state-u-allegedly-assaulted-student-over-trump-hat/",
-    "timestamp": "2025-04-18T18:00:54Z"
-  },
-  {
-    "title": "Jim Acosta takes shot at Trump supporters, says only half the country cares about the truth",
-    "description": "Ex-CNN anchor Jim Acosta called for more fact-checking of President Donald Trump in an interview, saying \"half the country still wants to hear the truth.\"",
-    "link": "https://www.foxnews.com/media/jim-acosta-takes-shot-trump-supporters-says-only-half-country-cares-about-truth",
-    "timestamp": "2025-04-18T18:00:44Z"
-  },
-  {
-    "title": "Mortgage Rates at a Tipping Point. Why Trump's Tariffs Have the Housing Market on Edge",
-    "description": "The trade war is making homebuyers brace for a spike in mortgage interest rates.",
-    "link": "https://www.cnet.com/personal-finance/mortgages/mortgage-rates-at-a-tipping-point-why-trumps-tariffs-have-the-housing-market-on-edge/",
-    "timestamp": "2025-04-18T18:00:18Z"
   }
 ]
