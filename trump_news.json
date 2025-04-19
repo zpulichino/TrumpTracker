@@ -1,5 +1,41 @@
 [
   {
+    "title": "US and Ukraine Sign Minerals Deal Memorandum: What To Know",
+    "description": "Ukraine's economic minister has said that Kyiv and Washington have \"taken a step\" towards inking a \"partnership agreement\" on rare earth minerals.",
+    "link": "https://www.newsweek.com/us-ukraine-minerals-deal-memorandum-signed-donald-trump-volodymyr-zelensky-2061368",
+    "timestamp": "2025-04-18T07:50:34Z"
+  },
+  {
+    "title": "Trump can still reinvent the Middle East, despite economic horror show",
+    "description": "MIDDLE ISRAEL | Trump\u2019s economic alchemy has now attacked not only by liberal media \u2013 that went without saying \u2013 but also by the most pro-market press.",
+    "link": "https://www.jpost.com/opinion/article-850487",
+    "timestamp": "2025-04-18T07:48:38Z"
+  },
+  {
+    "title": "We cannot fail the hostages again",
+    "description": "A young woman survives unspeakable horrors, comes home, and is met not with silence or support but with a digital lynching.",
+    "link": "https://www.jpost.com/opinion/article-850498",
+    "timestamp": "2025-04-18T07:48:29Z"
+  },
+  {
+    "title": "DOGE deactivates 470K credit cards used by federal employees in 7 weeks after audit; Elon Musk calls 4.6M total \u2018crazy\u2019",
+    "description": "Department of Government Efficiency (DOGE) found that there were around 4.6M active cards/accounts at the start of the audit. Elon Musk slams the total number of cards as crazy.",
+    "link": "https://www.livemint.com/money/personal-finance/doge-deactivates-470k-credit-cards-used-by-federal-employees-in-7-weeks-after-audit-elon-musk-calls-4-6m-total-crazy-11744956938169.html",
+    "timestamp": "2025-04-18T07:48:25Z"
+  },
+  {
+    "title": "The Shin Bet leaker is not a hero, the hostages are",
+    "description": "A soldier or reservist who unilaterally decides to leak top-secret documents is not exposing corruption or safeguarding democracy.",
+    "link": "https://www.jpost.com/opinion/article-850507",
+    "timestamp": "2025-04-18T07:48:23Z"
+  },
+  {
+    "title": "Video Shows Houthi Port Ablaze After U.S. Attack",
+    "description": "The U.S. intensified strikes against Houthi targets in Yemen in an extended military operation",
+    "link": "https://www.newsweek.com/video-shows-houthi-port-ablaze-after-us-attack-2061360",
+    "timestamp": "2025-04-18T07:46:17Z"
+  },
+  {
     "title": "Trump's attacks on Powell threaten the Fed's independence. Here's why it matters",
     "description": "Donald Trump has stepped up his attacks on Federal Reserve Chair Jerome Powell at the same time that the Supreme Court is considering a case that could make it easier for the president to fire him",
     "link": "https://abcnews.go.com/Politics/wireStory/trumps-attacks-powell-threaten-feds-independence-matters-120937026",
@@ -402,18 +438,6 @@
     "timestamp": "2025-04-18T06:00:02Z"
   },
   {
-    "title": "Chinese vent anger at Trump's trade war with memes, mockery",
-    "description": "While China's leaders use their economic and political might to fight Donald Trump's trade war \"to the end\", its army of social media soldiers are embarking on a more humorous campaign online. Read full story",
-    "link": "https://www.thestar.com.my/tech/tech-news/2025/04/18/chinese-vent-anger-at-trump039s-trade-war-with-memes-mockery",
-    "timestamp": "2025-04-18T06:00:00Z"
-  },
-  {
-    "title": "U.S. demands U.K. protect FREE SPEECH, repeal hate speech authoritarianism, in latest trade deal negotiations",
-    "description": "In a move that has sparked intense debate on both sides of the Atlantic, the Trump administration is reportedly demanding that the UK\u00a0repeal its hate speech laws as a condition for securing a trade deal. This demand, according to sources close to U.S. Vice Pr\u2026",
-    "link": "https://www.naturalnews.com/2025-04-18-us-demands-uk-protect-free-speech.html",
-    "timestamp": "2025-04-18T06:00:00Z"
-  },
-  {
     "title": "Dollar dominance under threat as markets react to Trump\u00e2\u0080\u0099s trade policies",
     "description": "Trump\u2019s tariffs risk speeding up the decline of the dollar\u2019s global reserve status, unsettling markets. The dollar\u2019s dominance has long lowered U.S. borrowing costs, but alternatives from China and Russia threaten it. Trade wars and sanctions push countries t\u2026",
     "link": "https://www.naturalnews.com/2025-04-18-dollar-dominance-threatened-markets-react-trump-trade.html",
@@ -423,6 +447,18 @@
     "title": "Trump administration BANS Associated Press reporters from Oval Office, defying court order",
     "description": "The Trump administration barred Associated Press reporters from covering a press conference with President Donald Trump and Salvadoran President Nayib Bukele, defying a federal court injunction ordering the White House to restore AP\u2018s access. A Trump-appointe\u2026",
     "link": "https://www.naturalnews.com/2025-04-18-trump-admin-bans-ap-reporters-oval-office.html",
+    "timestamp": "2025-04-18T06:00:00Z"
+  },
+  {
+    "title": "U.S. demands U.K. protect FREE SPEECH, repeal hate speech authoritarianism, in latest trade deal negotiations",
+    "description": "In a move that has sparked intense debate on both sides of the Atlantic, the Trump administration is reportedly demanding that the UK\u00a0repeal its hate speech laws as a condition for securing a trade deal. This demand, according to sources close to U.S. Vice Pr\u2026",
+    "link": "https://www.naturalnews.com/2025-04-18-us-demands-uk-protect-free-speech.html",
+    "timestamp": "2025-04-18T06:00:00Z"
+  },
+  {
+    "title": "Chinese vent anger at Trump's trade war with memes, mockery",
+    "description": "While China's leaders use their economic and political might to fight Donald Trump's trade war \"to the end\", its army of social media soldiers are embarking on a more humorous campaign online. Read full story",
+    "link": "https://www.thestar.com.my/tech/tech-news/2025/04/18/chinese-vent-anger-at-trump039s-trade-war-with-memes-mockery",
     "timestamp": "2025-04-18T06:00:00Z"
   },
   {
@@ -444,27 +480,27 @@
     "timestamp": "2025-04-18T06:00:00Z"
   },
   {
-    "title": "Trump vows to work with American farmers to avoid deporting migrant workers essential to agricultural sector",
-    "description": "President Donald Trump has vowed to collaborate with American farmers to prevent the deportation of migrant workers essential to the agricultural sector, addressing concerns over labor shortages and rising costs. Georgia Senator (and farmer) Sam Watson warns \u2026",
-    "link": "https://www.naturalnews.com/2025-04-18-trump-to-avoid-deporting-essential-migrant-workers.html",
-    "timestamp": "2025-04-18T06:00:00Z"
-  },
-  {
     "title": "DOJ takes over Maine Title IX case as battle over trans athletes in girls\u2019 sports escalates",
     "description": "The Department of Justice (DOJ) is poised to take legal action against Maine after a Department of Education (DOE) investigation found the state violated Title IX by allowing biological males to compete in girls\u2019 sports. Maine refused to comply with a federal\u2026",
     "link": "https://www.naturalnews.com/2025-04-18-doj-takes-over-maine-title-ix-case.html",
     "timestamp": "2025-04-18T06:00:00Z"
   },
   {
-    "title": "Trump\u00e2\u0080\u0099s critical Ukraine minerals deal nears completion",
-    "description": "The U.S. is finalizing a deal with Ukraine for privileged access to its critical minerals, oil, and gas. The agreement reflects Trump\u2019s transactional policy, demanding repayment via resource extraction for past U.S. aid. Ukraine\u2019s rare earth deposits help cou\u2026",
-    "link": "https://www.naturalnews.com/2025-04-18-trump-critical-ukraine-minerals-deal-completion.html",
+    "title": "Trump vows to work with American farmers to avoid deporting migrant workers essential to agricultural sector",
+    "description": "President Donald Trump has vowed to collaborate with American farmers to prevent the deportation of migrant workers essential to the agricultural sector, addressing concerns over labor shortages and rising costs. Georgia Senator (and farmer) Sam Watson warns \u2026",
+    "link": "https://www.naturalnews.com/2025-04-18-trump-to-avoid-deporting-essential-migrant-workers.html",
     "timestamp": "2025-04-18T06:00:00Z"
   },
   {
     "title": "BlackRock\u00e2\u0080\u0099s Panama port deal stirs debate over Chinese chokehold on strategic shipping routes",
     "description": "Trump warns of strategic risks as BlackRock seeks $22B Panama Canal ports deal. Panama Canal\u2019s US-built legacy at stake amid China\u2019s opposition to the acquisition. BlackRock\u2019s global port control could weaken China\u2019s Belt and Road Initiative influence. Milita\u2026",
     "link": "https://www.naturalnews.com/2025-04-18-blackrock-panama-port-deal-chinese-chokehold.html",
+    "timestamp": "2025-04-18T06:00:00Z"
+  },
+  {
+    "title": "Trump\u00e2\u0080\u0099s critical Ukraine minerals deal nears completion",
+    "description": "The U.S. is finalizing a deal with Ukraine for privileged access to its critical minerals, oil, and gas. The agreement reflects Trump\u2019s transactional policy, demanding repayment via resource extraction for past U.S. aid. Ukraine\u2019s rare earth deposits help cou\u2026",
+    "link": "https://www.naturalnews.com/2025-04-18-trump-critical-ukraine-minerals-deal-completion.html",
     "timestamp": "2025-04-18T06:00:00Z"
   },
   {
@@ -544,47 +580,5 @@
     "description": "The conflict near the Red Sea is intensifying as the Yemeni rebel group has continued attacks",
     "link": "https://www.newsweek.com/houthis-trump-iran-yemen-attacks-2061332",
     "timestamp": "2025-04-18T05:42:36Z"
-  },
-  {
-    "title": "Cathie Wood Says She's Trusting Trump Will Get Call On Tariffs Right: 'Investors Shorting The Equity Market Now Will Be Caught Flat Footed Or Worse'",
-    "description": "Asset manager Cathie Wood hinted at her support for President Donald Trump\u2019s trade and economic playbook by sharing an article on the destructive impact of tariffs, written by renowned supply-side economist Arthur Laffer.\nWhat Happened: On Wednesday, Cathie W\u2026",
-    "link": "https://biztoc.com/x/e13e2240901c2e01",
-    "timestamp": "2025-04-18T05:41:07Z"
-  },
-  {
-    "title": "Trump suggests September date being set for UK visit",
-    "description": "Donald Trump has suggested a date for September is being set for him to meet the King of Britain.",
-    "link": "https://www.independent.ie/world-news/britain/trump-suggests-september-date-being-set-for-uk-visit/a621193306.html",
-    "timestamp": "2025-04-18T05:36:10Z"
-  },
-  {
-    "title": "UN nuclear chief says Iran, US running out of time to secure deal",
-    "description": "U.N. nuclear watchdog chief Rafael Grossi said Thursday that\u00a0Iran\u00a0and the United States were running out of time to secure a deal as they prepare to hold fresh nuclear talks this weekend.",
-    "link": "https://www.hurriyetdailynews.com/un-nuclear-chief-says-iran-us-running-out-of-time-to-secure-deal-208208",
-    "timestamp": "2025-04-18T05:35:38Z"
-  },
-  {
-    "title": "Indonesia plans business incentives to advance US tariff talks",
-    "description": "The Indonesian government intends to offer facilities and incentives to US companies operating in the country to smooth the ongoing negotiations over the new ...",
-    "link": "https://en.antaranews.com/news/352169/indonesia-plans-business-incentives-to-advance-us-tariff-talks",
-    "timestamp": "2025-04-18T05:35:31Z"
-  },
-  {
-    "title": "Chinese vent anger at Trump's trade war with memes, mockery",
-    "description": "As the US-China trade war escalates, Chinese social media users are employing humor to counter Trump's tariffs. They mock American dependence on Chinese-made goods through viral AI-generated videos and posts. These online campaigns target perceived hypocrisy \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/chinese-vent-anger-at-trumps-trade-war-with-memes-mockery/articleshow/120400056.cms",
-    "timestamp": "2025-04-18T05:35:11Z"
-  },
-  {
-    "title": "Ukraine and US sign outline minerals deal in lead-up to full agreement",
-    "description": "Donald Trump says he expects to sign a full minerals deal with Ukraine next week",
-    "link": "https://www.irishtimes.com/world/europe/2025/04/18/ukraine-and-us-sign-outline-minerals-deal-in-lead-up-to-full-agreement/",
-    "timestamp": "2025-04-18T05:32:32Z"
-  },
-  {
-    "title": "Asia mixed after Japan's inflation data",
-    "description": "Asia-Pacific markets traded mixed on Friday as United States President Donald Trump stated he didn't want tariffs on China to \"go higher,\" as he clarified that higher tariffs \"you make it where people...",
-    "link": "https://biztoc.com/x/b7cd9fce8919e2da",
-    "timestamp": "2025-04-18T05:30:19Z"
   }
 ]
