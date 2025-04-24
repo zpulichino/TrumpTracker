@@ -1,5 +1,77 @@
 [
   {
+    "title": "US new home sales jump in March; supply still rising",
+    "description": "WASHINGTON (Reuters) -Sales of new U.S. single-family homes increased more than expected in March as buyers rushed to take advantage of a decline in mortgage...",
+    "link": "https://finance.yahoo.com/news/us-home-sales-jump-march-144550766.html",
+    "timestamp": "2025-04-23T14:45:50Z"
+  },
+  {
+    "title": "Leader of Colombia says Trump admin revoked his US visa",
+    "description": "The president of Colombia, Gustavo Petro, claimed in a cabinet meeting on Monday that the Trump administration revoked his travel visa.",
+    "link": "https://www.foxnews.com/politics/leader-colombia-says-trump-admin-revoked-his-us-visa",
+    "timestamp": "2025-04-23T14:45:36Z"
+  },
+  {
+    "title": "Socialists urge EU tech chief to deliver results in blockbuster US tech probes",
+    "description": "European Commissioner Henna Virkkunen is facing growing pressure to wrap up investigations into TikTok, Meta and X.",
+    "link": "https://www.politico.eu/article/sd-urges-eu-tech-chief-to-wrap-up-content-probes-into-us-big-tech/",
+    "timestamp": "2025-04-23T14:44:59Z"
+  },
+  {
+    "title": "Europe hits Meta, Apple with \u20ac700M in fines for flouting DMA",
+    "description": "Bad timing, claim industry watchers, who say rulings could seriously upset an already delicate US-EU relationship\nMeta and Apple have earned the dubious honor of being the first companies fined for non-compliance with the EU's Digital Markets Act, which exper\u2026",
+    "link": "https://www.theregister.com/2025/04/23/meta_apple_dma_ruling/",
+    "timestamp": "2025-04-23T14:44:06Z"
+  },
+  {
+    "title": "Medicaid Cuts Could Cause 30,000 Deaths a Year, Group Warns",
+    "description": "House Republicans passed a budget resolution earlier this month that analysts said would result in unavoidable cuts to Medicaid.",
+    "link": "https://www.newsweek.com/medicaid-cuts-cause-30000-deaths-year-group-warns-2063010",
+    "timestamp": "2025-04-23T14:43:31Z"
+  },
+  {
+    "title": "The Parental Rights Movement Has a Big Day at the Supreme Court",
+    "description": "Montgomery County, Maryland, is the most religiously diverse county in the United States. When its Board of Education approved a slate of storybooks with queer characters for K-5 English classes beginning in the 2022-23 school year, its main goal was to give \u2026",
+    "link": "https://www.motherjones.com/politics/2025/04/the-parental-rights-movement-has-a-big-day-at-the-supreme-court/",
+    "timestamp": "2025-04-23T14:40:45Z"
+  },
+  {
+    "title": "George Clooney Tells Dems They Need \u2018Better\u2019 Representatives With \u2018Sense of Humor\u2019 and \u2018Purpose\u2019 Against \u2018Charismatic\u2019 Trump",
+    "description": "George Clooney admitted Democrats need to find \"better\" lawmakers with a \"sense of humor\" and \"purpose\" to go against the \"charismatic\" President Donald Trump.\nThe post George Clooney Tells Dems They Need \u2018Better\u2019 Representatives With \u2018Sense of Humor\u2019 and \u2018Pu\u2026",
+    "link": "https://www.mediaite.com/entertainment/george-clooney-tells-dems-they-need-better-representatives-with-sense-of-humor-and-purpose-against-charismatic-trump/",
+    "timestamp": "2025-04-23T14:40:38Z"
+  },
+  {
+    "title": "U.S. Aid Cuts Are Hitting Global Conservation Projects Hard",
+    "description": "The Trump Administration\u2019s dismantling of USAID has done more than cut off life-saving humanitarian assistance. It has also eliminated funding for environmental protection and conservation work in dozens of countries, with many programs now being forced to sh\u2026",
+    "link": "https://e360.yale.edu/features/usaid-cuts-conservation",
+    "timestamp": "2025-04-23T14:40:00Z"
+  },
+  {
+    "title": "Trump Approval Rating Tracker: Economic Performance Gets Poor Marks",
+    "description": "The latest survey, released April 23, shows 53% disapprove of his job performance.",
+    "link": "https://www.forbes.com/sites/saradorn/2025/04/23/trump-approval-rating-tracker-economic-performance-gets-poor-marks/",
+    "timestamp": "2025-04-23T14:38:21Z"
+  },
+  {
+    "title": "RKF Jr. building Autism Registry to track Americans by using their personal data",
+    "description": "Data will be collected from pharmacy medication records, insurance claims, and even smartwatches.",
+    "link": "https://www.mlive.com/news/2025/04/rkf-jr-building-autism-registry-to-track-americans-by-using-their-personal-data.html",
+    "timestamp": "2025-04-23T14:38:14Z"
+  },
+  {
+    "title": "EU refusing to lift Russia sanctions for peace \u2013 Reuters",
+    "description": "The US outlined a proposal for the restrictions to be rolled back in a bid to facilitate a deal between Moscow and Kiev Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/616144-eu-rejects-lifiting-russia-sanctions/",
+    "timestamp": "2025-04-23T14:37:14Z"
+  },
+  {
+    "title": "Trump plugged his new pro-Bitcoin SEC chair on X\u2014the account is already pushing a crypto scam",
+    "description": "The White House may have helped scammers make a quick buck. \nSign up to receive the Daily Dot\u2019s Internet Insider newsletter for urgent news from the frontline of online.\nThe post Trump plugged his new pro-Bitcoin SEC chair on X\u2014the account is already pushing \u2026",
+    "link": "https://www.dailydot.com/debug/paul-atkins-x-white-house-sec/",
+    "timestamp": "2025-04-23T14:37:05Z"
+  },
+  {
     "title": "The Big Tech vs. Europe war just ratcheted up. But Trump is also taking on Big Tech.",
     "description": "Big Tech faces a dual challenge: Europe just fined Apple and Meta $800 million for antitrust violations. And Trump is taking on tech titans, too.",
     "link": "https://www.businessinsider.com/apple-meta-big-tech-eu-fine-donald-trump-tariffs-negotiation-2025-4",
@@ -490,65 +562,5 @@
     "description": "HOUSTON (Reuters) -The U.S. upstream oil and gas M&A market is bracing for the most challenging conditions since the COVID-19 pandemic as oil prices slump...",
     "link": "https://finance.yahoo.com/news/weak-oil-prices-limited-shale-133450123.html",
     "timestamp": "2025-04-23T13:34:50Z"
-  },
-  {
-    "title": "Trump Economic Approval Rating Drops To 37% As Market Selloff Erodes Public Support: Poll",
-    "description": "A new Reuters/Ipsos poll suggests a decrease in approval for President Donald Trump\u2018s management of the U.S. economy and inflation as he approaches his 100th day in office.\nWhat Happened: Trump\u2019s assertive economic strategies, including trade wars and Federal\u2026",
-    "link": "https://biztoc.com/x/1618a957722eafe6",
-    "timestamp": "2025-04-23T13:34:36Z"
-  },
-  {
-    "title": "Dow Surges 700 Points at the Open as Stock Rally Continues",
-    "description": "1 min ago\nDow Surges 700 Points at the Open as Stock Rally Continues\nDid President Donald Trump blink on trade? The market thinks so.\nStocks and long-dated U.S. Treasuries continued to rally on Wednesday after Trump seemed to ease his rhetoric against both Ch\u2026",
-    "link": "https://biztoc.com/x/50ee4eb0618a84f5",
-    "timestamp": "2025-04-23T13:34:15Z"
-  },
-  {
-    "title": "What Student Loan Borrowers Should Know About The New Collections Crackdown By The Department Of Education",
-    "description": "Here\u2019s what student loan borrowers need to know about the Department of Education\u2019s crackdown on defaulted federal student loan borrowers.",
-    "link": "https://www.forbes.com/sites/adamminsky/2025/04/23/what-student-loan-borrowers-should-know-about-the-new-collections-crackdown-by-the-department-of-education/",
-    "timestamp": "2025-04-23T13:32:50Z"
-  },
-  {
-    "title": "Markets jump after Trump softens rhetoric on China and Fed chair",
-    "description": "U.S. stocks opened higher Wednesday after President Donald Trump signaled a softer stance toward the eye-watering tariffs he had set for China, while also stating he would not make an immediate change in leadership at the Federal Reserve.",
-    "link": "https://www.nbcnews.com/business/markets/markets-jump-higher-trump-softens-rhetoric-china-fed-chair-rcna202547",
-    "timestamp": "2025-04-23T13:31:57Z"
-  },
-  {
-    "title": "EU fines Apple 500M euros, Meta 200M euros for breaking competition rules",
-    "description": "The companies were fined in separate cases as the European Union steps up enforcement of its Digital Markets Act, a sweeping rulebook that amounts to a set of do's and don'ts designed to prevent Big Tech \"gatekeepers\" from cornering digital markets.",
-    "link": "https://www.cbc.ca/news/business/eu-fines-apple-meta-1.7516164",
-    "timestamp": "2025-04-23T13:30:59Z"
-  },
-  {
-    "title": "This Man Just Disappeared",
-    "description": "The curious case of Ricardo Prada Vasquez: The Trump administration has lost a Venezuelan migrant they deported. His family cannot track him down, and the",
-    "link": "https://reason.com/2025/04/23/this-man-just-disappeared/",
-    "timestamp": "2025-04-23T13:30:27Z"
-  },
-  {
-    "title": "Warren Warns of \u2018Backdoor Way\u2019 Trump and Musk Want to Gut Social Security",
-    "description": "The Massachusetts senator is taking the fight against the president and the world's richest man to a platform popular with seniors: YouTube",
-    "link": "http://www.rollingstone.com/politics/politics-news/warren-warns-trump-musk-gutting-social-security-1235323184/",
-    "timestamp": "2025-04-23T13:30:00Z"
-  },
-  {
-    "title": "Panicking Trump Walks Back His Attacks on the Fed and China",
-    "description": "Donald Trump is backtracking on some of his wild economic moves. \r\nThe president said Tuesday that has \u201cno intention\u201d of firing Federal Reserve chair Jerome Powell after days of insults and threats over whether Powell would cut interest rates. It\u2019s quite a re\u2026",
-    "link": "https://newrepublic.com/post/194283/trump-walks-back-attacks-fed-china",
-    "timestamp": "2025-04-23T13:27:04Z"
-  },
-  {
-    "title": "Crypto Fundraising Is Positive, But Slower Than Expected Under Trump Administration",
-    "description": "Fundraising for sophisticated crypto investment vehicles has yet to fully experience the anticipated positive headwind of the Donald Trump presidency, according to a new report by the Crypto Insight Group.\nMomentum \"remains positive but slower than [fund] man\u2026",
-    "link": "https://biztoc.com/x/7a1b061dabb77176",
-    "timestamp": "2025-04-23T13:23:22Z"
-  },
-  {
-    "title": "Stocks are rallying as Trump pivots from the 2 biggest things dragging down markets",
-    "description": "Trump's softer tone on China tariffs and Fed chair Powell sparked a strong relief rally on Wednesday. Stocks, bonds, and the dollar rose.",
-    "link": "https://www.businessinsider.com/stock-market-rally-trump-powell-firing-interest-rates-china-tariffs-2025-4",
-    "timestamp": "2025-04-23T13:21:05Z"
   }
 ]
