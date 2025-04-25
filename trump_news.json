@@ -1,5 +1,497 @@
 [
   {
+    "title": "Apple and Meta hit by $798 million in EU tech fines after Trump threats",
+    "description": "The punishments are far lower than previous ones under traditional EU competition law, and are likely to be seen as an attempt to avoid provoking Trump.",
+    "link": "https://www.japantimes.co.jp/business/2025/04/24/companies/apple-meta-eu-law-fine/",
+    "timestamp": "2025-04-24T01:37:00Z"
+  },
+  {
+    "title": "Japan plans to send foreign minister to Pope's funeral",
+    "description": "The head of the Catholic Church died Monday at the age of 88. His funeral is due to take place at the Vatican on Saturday.",
+    "link": "https://www.japantimes.co.jp/news/2025/04/24/japan/pope-funeral-foreign-minister/",
+    "timestamp": "2025-04-24T01:37:00Z"
+  },
+  {
+    "title": "Illinois Gov. JB Pritzker moves to boycott El Salvador for aiding Trump over Kilmar Abrego Garcia\u2019s detention",
+    "description": "Illinois state agencies have been ordered to review investments and contracts with business linked to El Salvador, Gov. J.B. Pritzker said.",
+    "link": "https://www.foxnews.com/politics/illinois-gov-jb-pritzker-moves-boycott-el-salvador-aiding-trump-over-kilmar-abrego-garcias-detention",
+    "timestamp": "2025-04-24T01:36:32Z"
+  },
+  {
+    "title": "Transparency Regarding Foreign Influence at American Universities (President Donald J. Trump/The White House)",
+    "description": "President Donald J. Trump / The White House:\nTransparency Regarding Foreign Influence at American Universities\u00a0 \u2014\u00a0 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:\u00a0 \u2014\u00a0 Section 1\u2026",
+    "link": "https://www.memeorandum.com/250423/p144",
+    "timestamp": "2025-04-24T01:35:01Z"
+  },
+  {
+    "title": "'We have a deal with Russia': Trump pressures Ukraine to cede Crimea to Russia as his 'patience runs thin'",
+    "description": "President Donald Trump is pressing Ukraine to accept a U.S.-designed peace proposal that would legitimise Russia\u2019s control over Crimea and other occupied territories, while blocking Ukraine\u2019s path to NATO. Ukrainian President Volodymyr Zelenskyy has rejected \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/we-have-a-deal-with-russia-trump-pressures-ukraine-to-cede-crimea-to-russia-as-his-patience-runs-thin/articleshow/120567074.cms",
+    "timestamp": "2025-04-24T01:31:09Z"
+  },
+  {
+    "title": "Pastor calls for 'full Target boycott' over concerns about diversity, equity, inclusion",
+    "description": "The pastor of a Georgia megachurch who led a nationwide 40-day \u201cfast\u201d against Target stores is now calling for a \u201cfull Target boycott.\u201d.",
+    "link": "https://www.news4jax.com/business/2025/04/23/pastor-calls-for-full-target-boycott-over-concerns-about-diversity-equity-inclusion/",
+    "timestamp": "2025-04-24T01:30:33Z"
+  },
+  {
+    "title": "Trump says he won't fire Fed chair, urges him to lower rates",
+    "description": "WASHINGTON, April 23 (Xinhua) -- U.S. President Donald Trump said Tuesday that he has no intention o",
+    "link": "http://en.people.cn/n3/2025/0424/c90000-20306560.html",
+    "timestamp": "2025-04-24T01:30:12Z"
+  },
+  {
+    "title": "Mint Quick Edit | After the Greenspan put, the Powell stay-put",
+    "description": "To the relief of markets, Trump said he doesn\u2019t intend to fire the Federal Reserve chief. Is this because the US president changed his mind, the law won\u2019t let him or a fall-guy is needed for an economic slowdown?",
+    "link": "https://www.livemint.com/opinion/online-views/trump-jerome-powell-conflict-federal-reserve-independence-us-interest-rate-cuts-us-recession-fears-monetary-policy-fed-11745421257617.html",
+    "timestamp": "2025-04-24T01:30:07Z"
+  },
+  {
+    "title": "Today\u2019s top TV and streaming choices: Ambulance, Priscilla and Bullet Train Explosion",
+    "description": "Planning a night on the couch? Here are today\u2019s top TV and streaming picks:",
+    "link": "https://www.independent.ie/entertainment/television/todays-top-tv-and-streaming-choices-ambulance-priscilla-and-bullet-train-explosion/a2111913137.html",
+    "timestamp": "2025-04-24T01:30:00Z"
+  },
+  {
+    "title": "Donald Trump accuses Volodymyr Zelensky of prolonging \u2018killing field\u2019 for refusing to give up Crimea",
+    "description": "US president Donald Trump yesterday lashed out at Ukrainian president Volodymyr Zelensky, saying Mr Zelensky is prolonging the \u201ckilling field\u201d after he pushed back on ceding Crimea to Russia as part of a potential peace plan.",
+    "link": "https://www.independent.ie/world-news/donald-trump-accuses-volodymyr-zelensky-of-prolonging-killing-field-for-refusing-to-give-up-crimea/a1571289716.html",
+    "timestamp": "2025-04-24T01:30:00Z"
+  },
+  {
+    "title": "Oracle believes impact of Donald Trump\u2019s tariffs will be \u2018minimal\u2019",
+    "description": "The directors of the main Irish arm of Oracle, the firm co-founded by Larry Ellison, believe the direct impact of US and EU tariffs and non-tariff measures will be minimal.",
+    "link": "https://www.independent.ie/business/irish/oracle-believes-impact-of-donald-trumps-tariffs-will-be-minimal/a1106242030.html",
+    "timestamp": "2025-04-24T01:30:00Z"
+  },
+  {
+    "title": "Euro\u2019s surprise strength against the dollar has created a new set of challenges for Irish exporters",
+    "description": "Irish exporters are facing unexpected headwinds as the euro has strengthened in recent weeks, hurting competitiveness just as US tariffs kicked in.",
+    "link": "https://www.independent.ie/business/small-business/euros-surprise-strength-against-the-dollar-has-created-a-new-set-of-challenges-for-irish-exporters/a1432221967.html",
+    "timestamp": "2025-04-24T01:30:00Z"
+  },
+  {
+    "title": "Letters: Pope Francis\u2019s humane response to refugee crisis was a high point of his pontificate",
+    "description": "While wishing that the Catholic Church would allow ordination of women and pursue other long overdue reforms, I have the greatest respect for the late Pope Francis.",
+    "link": "https://www.independent.ie/opinion/letters/letters-pope-franciss-humane-response-to-refugee-crisis-was-a-high-point-of-his-pontificate/a2117738723.html",
+    "timestamp": "2025-04-24T01:30:00Z"
+  },
+  {
+    "title": "Markets rebound stalls as talk of easing tariffs on China cools yet again",
+    "description": "A broad recovery across financial markets that began on Tuesday ran out of steam on Wednesday after the latest White House interjection on tariffs.",
+    "link": "https://www.independent.ie/business/world/markets-rebound-stalls-as-talk-of-easing-tariffs-on-china-cools-yet-again/a1818086827.html",
+    "timestamp": "2025-04-24T01:30:00Z"
+  },
+  {
+    "title": "How Zelensky Responded To Trump's Demand Of Ceding Crimea To Russia",
+    "description": "After another explosive exchange with the US President Donald Trump, Ukraine&#039;s Volodymyr Zelenskiy posted a 2018 declaration from Trump&#039;s first term, which said Crimea is a Ukrainian territory.",
+    "link": "https://www.ndtv.com/world-news/how-ukraines-volodymyr-zelensky-responded-to-trumps-demand-of-ceding-crimea-to-russia-8241188",
+    "timestamp": "2025-04-24T01:27:14Z"
+  },
+  {
+    "title": "Audit shadows BluSmart\u2019s books; Zomato leadership rejig",
+    "description": "Happy Thursday! BluSmart\u2019s board has engaged consultancy firm Grant Thorntonto conduct a forensic audit of the ride-hailing startup\u2019s financials. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/audit-shadows-blusmarts-books-zomato-leadership-rejig/articleshow/120567009.cms",
+    "timestamp": "2025-04-24T01:27:00Z"
+  },
+  {
+    "title": "Reforming Accreditation to Strengthen Higher Education (President Donald J. Trump/The White House)",
+    "description": "President Donald J. Trump / The White House:\nReforming Accreditation to Strengthen Higher Education\u00a0 \u2014\u00a0 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:\u00a0 \u2014\u00a0 Section 1.\u00a0 Purpose.\u2026",
+    "link": "https://www.memeorandum.com/250423/p143",
+    "timestamp": "2025-04-24T01:25:00Z"
+  },
+  {
+    "title": "CNBC Daily Open: Trump starts trade war but also blinks first",
+    "description": "The president's softer tone towards China despite no formal talks was in stark contrast to his more combative rhetoric earlier in April",
+    "link": "https://www.cnbc.com/2025/04/24/cnbc-daily-open-trump-starts-trade-war-but-also-blinks-first.html",
+    "timestamp": "2025-04-24T01:23:08Z"
+  },
+  {
+    "title": "Citadel CEO Ken Griffin Warns Trump\u2019s Tariffs Are Tarnishing the \u2018American Brand\u2019",
+    "description": "\"When you tarnish that brand, it can take a lifetime to repair the damage that has been done.\"",
+    "link": "https://observer.com/2025/04/citadel-ceo-ken-griffin-trump-tariff/",
+    "timestamp": "2025-04-24T01:22:28Z"
+  },
+  {
+    "title": "'Significant vulnerabilities': Trump admin attorney warned against risky $20B plot",
+    "description": "The Trump administration had been cautioned that they were treading shaky legal ground as they plotted to block eight nonprofits from using $20 billion in Biden-era climate grants that had already been disbursed, according to a new report in Politico.But Envi\u2026",
+    "link": "https://www.rawstory.com/trump-administration-2671834346/",
+    "timestamp": "2025-04-24T01:21:23Z"
+  },
+  {
+    "title": "Twelve states sue Trump over tariffs, claiming they\u2019re \u2018illegal\u2019 and harmful to US economy",
+    "description": "Twelve states are suing President Trump over sweeping tariffs, claiming they\u2019re unconstitutional, economically harmful and imposed without congressional approval.",
+    "link": "https://www.foxnews.com/politics/twelve-states-sue-trump-over-tariffs-claiming-theyre-illegal-harmful-us-economy",
+    "timestamp": "2025-04-24T01:20:16Z"
+  },
+  {
+    "title": "Judge rules federal government owes nearly $28 million to North Dakota for pipeline protests",
+    "description": "A federal judge has found the U.S. government liable to the state of North Dakota for nearly $28 million in the state's lawsuit for recouping money spent on policing the protest of the Dakota Access Pipeline",
+    "link": "https://abcnews.go.com/US/wireStory/judge-rules-federal-government-owes-28-million-north-121105535",
+    "timestamp": "2025-04-24T01:18:17Z"
+  },
+  {
+    "title": "Trump Launches AI Education Push With Latest Executive Order",
+    "description": "Trump\u2019s executive order will establish a task force and training grants to advance AI learning for students and educators.",
+    "link": "https://decrypt.co/316080/trump-launches-ai-education-push-latest-executive-order",
+    "timestamp": "2025-04-24T01:17:45Z"
+  },
+  {
+    "title": "Dinner with the president: Trump meme coin surges on offer to top buyers",
+    "description": "NEW YORK :President Donald Trump's meme coin surged more than 60 per cent on Wednesday after a post announcing \"the most EXCLUSIVE INVITATION in the world\" promised the top 220 buyers of $TRUMP a private gala dinner with the president on May 22. In addition t\u2026",
+    "link": "https://www.channelnewsasia.com/business/dinner-president-trump-meme-coin-surges-offer-top-buyers-5085221",
+    "timestamp": "2025-04-24T01:17:27Z"
+  },
+  {
+    "title": "IMF urges BOJ flexibility on rates as tariffs dent outlook",
+    "description": "Along with downgraded global growth projections, the IMF's forecast for Japan\u2019s expansion in 2025 was trimmed by 0.5 percentage points to 0.6%.",
+    "link": "https://www.japantimes.co.jp/business/2025/04/24/economy/imf-urge-boj-flexibility/",
+    "timestamp": "2025-04-24T01:16:00Z"
+  },
+  {
+    "title": "Trump signs orders on university accreditation, foreign gifts",
+    "description": "WASHINGTON:\u00a0In his latest step pressuring US universities, President Donald Trump on Wednesday (Apr 23) signed an order intended to toughen standards for college accreditation, a requirement for accessing billions of dollars in federal student financial aid. \u2026",
+    "link": "https://www.channelnewsasia.com/world/trump-signs-orders-university-accreditation-foreign-gifts-5085216",
+    "timestamp": "2025-04-24T01:15:11Z"
+  },
+  {
+    "title": "Trump to host dinner with top holders of his meme coin (Gregory Svirnovskiy/Politico)",
+    "description": "Gregory Svirnovskiy / Politico:\nTrump to host dinner with top holders of his meme coin\u00a0 \u2014\u00a0 \u201c$TRUMP Power!\u00a0 The Biggest and Most Important $TRUMP Holders will Proudly have a Gala Dinner with the President,\u201d the meme coin's website announced.\u00a0 \u201cWill You Be One \u2026",
+    "link": "https://www.memeorandum.com/250423/p142",
+    "timestamp": "2025-04-24T01:15:01Z"
+  },
+  {
+    "title": "Bill Owens And 10 Other Media Figures Who Quit Because Of Trump",
+    "description": "The '60 Minutes' producer is just the latest high-profile person to quit in protest of Trump administration policies or actions or other reasons related to president.",
+    "link": "https://www.forbes.com/sites/tonifitzgerald/2025/04/23/bill-owens-and-10-other-media-figures-who-quit-because-of-trump/",
+    "timestamp": "2025-04-24T01:14:32Z"
+  },
+  {
+    "title": "\"Economically Reckless\": 12 US States Sue Trump Over Tariffs",
+    "description": "A coalition of 12 American states filed a lawsuit Wednesday to challenge the Trump administration&#039;s tariffs, saying the president cannot institute the levies without the approval of Congress.",
+    "link": "https://www.ndtv.com/world-news/12-us-states-sue-donald-trump-over-tariffs-8241141",
+    "timestamp": "2025-04-24T01:14:20Z"
+  },
+  {
+    "title": "'Fed up': CNN reporter 'alarmed' as FEMA sheds 20% of staff facing MAGA attacks",
+    "description": "President Donald Trump and tech billionaire Elon Musk have caused a mass exodus of experienced staffers at the Federal Emergency Management Agency, or FEMA \u2014 just in time for what could be a brutal hurricane season, CNN's Gabe Cohen told anchor Jake Tapper on\u2026",
+    "link": "https://www.rawstory.com/fema-layoffs/",
+    "timestamp": "2025-04-24T01:13:00Z"
+  },
+  {
+    "title": "Americanism and Zionism are inseparable",
+    "description": "Mike Huckabee\u2019s appointment as US Ambassador to Israel highlights the deep religious connection between the two nations, with a focus on Zionism and Americanism as intertwined ideologies.",
+    "link": "https://www.jpost.com/opinion/article-851255",
+    "timestamp": "2025-04-24T01:12:46Z"
+  },
+  {
+    "title": "Trump's cabinet ready to take back power with Musk stepping back, sources say",
+    "description": "Elon Musk plans to reduce his government time commitment to one or two days a week to focus on his battered car company, Tesla.",
+    "link": "https://www.japantimes.co.jp/news/2025/04/24/world/politics/trump-cabinet-power-musk-step-back/",
+    "timestamp": "2025-04-24T01:12:00Z"
+  },
+  {
+    "title": "Trump says Zelensky's statement \"very harmful to the peace negotiations with Russia\"",
+    "description": "WASHINGTON, April 23 (Xinhua) -- U.S. President Donald Trump on Wednesday slammed Ukrainian Presiden",
+    "link": "http://en.people.cn/n3/2025/0424/c90000-20306531.html",
+    "timestamp": "2025-04-24T01:09:13Z"
+  },
+  {
+    "title": "EU fines Apple, Meta amid transatlantic trade strains",
+    "description": "A woman talks through an iPhone at the Berlaymont building, headquarters of the European Commission",
+    "link": "http://en.people.cn/n3/2025/0424/c90000-20306528.html",
+    "timestamp": "2025-04-24T01:09:04Z"
+  },
+  {
+    "title": "Manitoba handed out $1.3M in Tesla rebates before vehicles were pulled from EV program",
+    "description": "Owners of Tesla vehicles were the biggest beneficiaries in recent months of electric-vehicle rebates offered by the Manitoba government, newly released documents show.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/tesla-electric-vehicle-rebate-manitoba-1.7517045",
+    "timestamp": "2025-04-24T01:07:16Z"
+  },
+  {
+    "title": "Share Market Highlights: Sensex, Nifty snap 7-day rally on profit-taking, weak HUL earnings",
+    "description": "Sensex, Nifty updates on 24 April 2025: Equity benchmarks Sensex and Nifty ended lower on Thursday, snapping a seven-session winning streak amid profit-booking and weak earnings from Hindustan Unilever Ltd (HUL). The Sensex fell 315.06 points (0.39%) to 79,80\u2026",
+    "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-24-april-2025/article69482948.ece",
+    "timestamp": "2025-04-24T01:06:16Z"
+  },
+  {
+    "title": "Why Trump prefers Commanders\u2019 controversial former name",
+    "description": "President Donald Trump prefers the Washington Commanders\u2019 controversial former name, he told reporters when asked about a new stadium at the RFK site.",
+    "link": "https://www.nbcwashington.com/news/sports/washington-commanders/its-a-superior-name-trump-prefers-commanders-controversial-former-name/3898354/",
+    "timestamp": "2025-04-24T01:05:42Z"
+  },
+  {
+    "title": "Restoring Equality of Opportunity and Meritocracy (President Donald J. Trump/The White House)",
+    "description": "President Donald J. Trump / The White House:\nRestoring Equality of Opportunity and Meritocracy\u00a0 \u2014\u00a0 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:\u00a0 \u2014\u00a0 Section 1.\u00a0 Purpose.\u00a0 A b\u2026",
+    "link": "https://www.memeorandum.com/250423/p140",
+    "timestamp": "2025-04-24T01:05:00Z"
+  },
+  {
+    "title": "Asia would welcome trade deals that exclude China",
+    "description": "The real cost to developing countries of China\u2019s trade practices runs deeper: lost jobs can be counted, but missed opportunities can\u2019t.",
+    "link": "https://www.japantimes.co.jp/commentary/2025/04/24/world/trade-deals-that-exclude-china/",
+    "timestamp": "2025-04-24T01:05:00Z"
+  },
+  {
+    "title": "Gov. Sanders, Arkansas lawmakers urge Trump to reconsider denial of disaster relief",
+    "description": "After severe storms hit the state in mid-March, Gov. Sarah Huckabee Sanders applied for disaster relief through FEMA.",
+    "link": "https://abcnews.go.com/Politics/sarah-huckabee-sanders-arkansas-lawmakers-urge-trump-reconsider/story?id=121105810",
+    "timestamp": "2025-04-24T01:04:01Z"
+  },
+  {
+    "title": "Asian stocks fluctuate after wavering tariff news",
+    "description": "A regional gauge of stocks swung between small gains and losses as market enthusiasm got curbed after Treasury Secretary Scott Bessent cast doubt on a timely resolution to the US-China trade war. That trimmed the S&P 500\u2019s gain to 1.7% while the Nasdaq 100 ro\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-fluctuate-after-wavering-tariff-news/articleshow/120566970.cms",
+    "timestamp": "2025-04-24T01:01:51Z"
+  },
+  {
+    "title": "Illinois Gov. JB Pritzker takes steps to boycott El Salvador in protest of Kilmar Abrego Garcia's detention",
+    "description": "Illinois Gov. JB Pritzker, a Democrat, announced Wednesday that he\u2019ll direct several state agencies to review their ties to El Salvador in the wake of what his office said was \u201caiding the Trump administration\u2019s unlawful and unconstitutional actions.\u201d",
+    "link": "https://www.nbcnews.com/politics/politics-news/illinois-gov-jb-pritzker-takes-steps-boycott-el-salvador-protest-kilma-rcna202720",
+    "timestamp": "2025-04-24T01:01:05Z"
+  },
+  {
+    "title": "Inside Europe's plans to strike back in a Trump trade war",
+    "description": "Trump's mercantilist approach to foreign policy has caused transatlantic tensions. European allies are considering how to respond.",
+    "link": "https://www.businessinsider.com/europe-plans-strike-back-trump-trade-war-2025-4",
+    "timestamp": "2025-04-24T01:01:02Z"
+  },
+  {
+    "title": "Paramount, CBS settle discrimination lawsuit over DEI policies punishing straight White males",
+    "description": "CBS and Paramount Global settled a lawsuit with a former \u201cSEAL Team\" script coordinator who alleged the company discriminated against him as a White man.",
+    "link": "https://www.foxnews.com/media/paramount-cbs-settle-discrimination-lawsuit-over-dei-policies-punishing-straight-white-males",
+    "timestamp": "2025-04-24T01:00:56Z"
+  },
+  {
+    "title": "Trump approval falls, Kilmar Abrego Garcia, 100 days, and Robert F. Kennedy, Jr.: April 19-22, 2025 Economist/YouGov Poll (David Montgomery/YouGov)",
+    "description": "David Montgomery / YouGov:\nTrump approval falls, Kilmar Abrego Garcia, 100 days, and Robert F. Kennedy, Jr.: April 19-22, 2025 Economist/YouGov Poll\u00a0 \u2014\u00a0 Findings from the latest Economist/YouGov poll about:\u00a0 \u2014 How much Donald Trump's approval rating has falle\u2026",
+    "link": "https://www.memeorandum.com/250423/p139",
+    "timestamp": "2025-04-24T01:00:05Z"
+  },
+  {
+    "title": "Trump has mentioned Biden 580 TIMES since becoming president...",
+    "description": null,
+    "link": "https://www.irishstar.com/news/us-news/obsessed-trump-mentioned-joe-biden-35107663",
+    "timestamp": "2025-04-24T01:00:05Z"
+  },
+  {
+    "title": "Ken Griffin sounds alarm...",
+    "description": "Citadel CEO Ken Griffin told Semafor Wednesday that there are \u2018no great opportunities\u2019 in today\u2019s rattled markets.",
+    "link": "https://www.semafor.com/article/04/23/2025/citadel-ceo-ken-griffin-trump-is-eroding-us-brand-and-making-the-country-poorer",
+    "timestamp": "2025-04-24T01:00:05Z"
+  },
+  {
+    "title": "A dozen US states sue to halt Trump's tariffs",
+    "description": "The lawsuit argues President Trump did not have the authority to enact the levies and start a global trade war",
+    "link": "https://www.bbc.com/news/articles/ce924pnvpyvo",
+    "timestamp": "2025-04-24T00:59:57Z"
+  },
+  {
+    "title": "Trump Will Have 'Intimate' Dinner With Whoever Spends The Most On His Memecoin",
+    "description": "Sen. Chris Murphy called it \"the most brazenly corrupt thing a President has ever done.\"",
+    "link": "https://www.huffpost.com/entry/trump-memecoin-dinner-promotion_n_6809694de4b0c4479136c2f1",
+    "timestamp": "2025-04-24T00:54:46Z"
+  },
+  {
+    "title": "12 US States Sue Over Trump's Tariffs",
+    "description": "A coalition of 12 American states filed a lawsuit Wednesday to challenge the Trump administration's tariffs, saying the president cannot institute the levies without the approval of Congress.",
+    "link": "https://www.ibtimes.com/12-us-states-sue-over-trumps-tariffs-3771153",
+    "timestamp": "2025-04-24T00:53:24Z"
+  },
+  {
+    "title": "Trump's threats unite Canadians - even many who want independence",
+    "description": "A surge in Canadian patriotism has even hit French-speaking Quebec - and that could help the Liberals retain power.",
+    "link": "https://www.bbc.com/news/articles/c98576z8ln8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "timestamp": "2025-04-24T00:51:13Z"
+  },
+  {
+    "title": "EVs, tariffs in the spotlight as Chinese automakers take leading role at Shanghai auto show",
+    "description": "Leading automakers are showcasing their latest designed-for-China and the world models at the Shanghai auto show this week, fighting not to be edged aside in the world's largest car market while watching for U.S. President Donald Trump's next steps in his tra\u2026",
+    "link": "https://techxplore.com/news/2025-04-evs-tariffs-spotlight-chinese-automakers.html",
+    "timestamp": "2025-04-24T00:50:01Z"
+  },
+  {
+    "title": "One Court Case Could Totally Upend Google\u2019s Search Engine Empire",
+    "description": "Google's search empire faces a reckoning as the DOJ's antitrust case entered its remedies phase, allowing a judge to dismantle the company's monopoly on search.",
+    "link": "https://dailycaller.com/2025/04/23/google-antitrust-search-mehta-android-chrome-big-tech-remedies/",
+    "timestamp": "2025-04-24T00:46:48Z"
+  },
+  {
+    "title": "Trump seeks 'fair deal' with China but pathway unclear",
+    "description": "WASHINGTON &mdash; United States President Donald Trump on Wednesday played up prospects of a \"fair deal\" on trade with China, but his top officials offered few details of how Washington might de-escalate its damaging tariff war with Beijing.",
+    "link": "https://www.bangkokpost.com/business/general/3010186/trump-seeks-fair-deal-with-china-but-pathway-unclear",
+    "timestamp": "2025-04-24T00:45:00Z"
+  },
+  {
+    "title": "Greg Gutfeld Applauds \u2018The Office\u2019 Star Rainn Wilson for Calling Out MSNBC\u2019s Biden Double-Standard: \u2018Most Actors Wouldn\u2019t Do That\u2019 | Video",
+    "description": "The Fox News host believes it \"healthy not to believe the media anymore\"\nThe post Greg Gutfeld Applauds \u2018The Office\u2019 Star Rainn Wilson for Calling Out MSNBC\u2019s Biden Double-Standard: \u2018Most Actors Wouldn\u2019t Do That\u2019 | Video appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/greg-gutfeld-celebrates-rainn-wilson-msnbc-double-standard/",
+    "timestamp": "2025-04-24T00:42:51Z"
+  },
+  {
+    "title": "A dozen states sue Trump administration to stop tariff policy",
+    "description": "A dozen states sued the Trump administration in the U.S. Court of International Trade in New York on Wednesday to stop its tariff policy, saying it is unlawful and has brought chaos to the American economy. The lawsuit said the policy put in place by Presiden\u2026",
+    "link": "https://japantoday.com/category/world/a-dozen-states-sue-the-trump-administration-to-stop-tariff-policy",
+    "timestamp": "2025-04-24T00:39:56Z"
+  },
+  {
+    "title": "At UN, tariff-targeted China denounces US 'bullying'",
+    "description": "UNITED NATIONS, United States:\u00a0China savaged US trade practices as \"bullying\" and \"blackmail\" on Wednesday (Apr 24) in a fiery United Nations speech, accusations rejected by Washington, which levelled its own criticism at rival Beijing's policies. \"Unilateral\u2026",
+    "link": "https://www.channelnewsasia.com/east-asia/china-denounces-us-bullying-united-nations-trump-tariffs-5085146",
+    "timestamp": "2025-04-24T00:37:56Z"
+  },
+  {
+    "title": "Trump calls on US to remember victims of the Holocaust",
+    "description": "US President Donald Trump called on the people of the United States to observe Holocaust Remembrance Day, the",
+    "link": "https://www.jpost.com/breaking-news/article-851297",
+    "timestamp": "2025-04-24T00:32:47Z"
+  },
+  {
+    "title": "James Carville questions if Americans should wait until Trump is \u2018Hitler\u2019 before taking action",
+    "description": "The former advisor to President Bill Clinton made the comments during the latest episode of his \"Politics War Room\" podcast, titled, \"Is Trump Really Like Hitler.\"",
+    "link": "https://nypost.com/2025/04/23/us-news/james-carville-questions-if-americans-should-wait-until-trump-is-hitler-before-taking-action/",
+    "timestamp": "2025-04-24T00:32:15Z"
+  },
+  {
+    "title": "Trump's threats unite Canadians - even many who want independence",
+    "description": "A surge in Canadian patriotism has even hit French-speaking Quebec - and that could help the Liberals retain power.",
+    "link": "https://www.bbc.com/news/articles/c98576z8ln8o",
+    "timestamp": "2025-04-24T00:31:30Z"
+  },
+  {
+    "title": "5 Democrats Visit Anti-Israel Activist Mahmoud Khalil in ICE Detention: 'Harrowing Conditions'",
+    "description": "A group of Democrat lawmakers visited two anti-Israel activists held in Louisiana Immigration and Customs Enforcement (ICE) facilities this week, claiming they are \"unlawfully held in harrowing conditions\" after having been taken into custody and having their\u2026",
+    "link": "https://www.breitbart.com/immigration/2025/04/23/5-democrats-visit-anti-israel-activist-mahmoud-khalil-ice-detention/",
+    "timestamp": "2025-04-24T00:30:47Z"
+  },
+  {
+    "title": "Donald Trump\u2019s big varsity shake up opens doors for Indian edtech companies",
+    "description": "For executive education firms such as the SoftBank-backed Eruditus, budget cuts for top universities may have a positive impact, the company said. With an aim to meet the deficit arising from budget cuts, these academic institutions are looking to expand part\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/donald-trumps-big-varsity-shake-up-opens-doors-for-indian-edtech-companies/articleshow/120561335.cms",
+    "timestamp": "2025-04-24T00:30:00Z"
+  },
+  {
+    "title": "Trump Says US Could Make Special Trade Deal With China",
+    "description": "President Donald Trump said he plans to be \u201cvery nice\u201d to China in any trade talks and that tariffs will drop if the two countries can reach a deal, a sign he may be backing down from his tough stance on Beijing amid market volatility. #trump #us #china #tari\u2026",
+    "link": "https://biztoc.com/x/ca7c345c24ef8504",
+    "timestamp": "2025-04-24T00:28:56Z"
+  },
+  {
+    "title": "Markets rally after Trump eases concerns over tariffs and Fed",
+    "description": "Markets rally after Trump eases concerns over tariffs and Fed\nFollow the latest news on President Donald Trump and his administration | April 23, 2025\nToday\u2019s live updates have ended. Find more coverage at APNews.com.\nU.S. stocks rose Wednesday as a worldwide\u2026",
+    "link": "https://biztoc.com/x/367e985ef462be93",
+    "timestamp": "2025-04-24T00:28:55Z"
+  },
+  {
+    "title": "New Trump order targets university accreditation",
+    "description": "The executive order aims to overhaul the process colleges must go through to receive federal financial aid.",
+    "link": "https://www.bbc.com/news/articles/c93gjxq0j71o",
+    "timestamp": "2025-04-24T00:24:17Z"
+  },
+  {
+    "title": "Trump marks Holocaust Remembrance Day: Never again means now",
+    "description": "On Yom Hashoah, US President issues solemn proclamation honoring the victims of the Holocaust, condemning rising antisemitism, and reaffirming the US commitment to Holocaust remembrance and the defense of Israel.",
+    "link": "https://www.israelnationalnews.com/news/407301",
+    "timestamp": "2025-04-24T00:24:16Z"
+  },
+  {
+    "title": "CNN Data Chief Says This Cabinet Member Is A Real 'Headache' For Trump",
+    "description": "Harry Enten named a Trump official whose net favorability rating is \"way underwater\" with Americans.",
+    "link": "https://www.huffpost.com/entry/cnn-harry-enten-trump-polling-pete-hegseth_n_680969bfe4b0ce4f6eba6cb4",
+    "timestamp": "2025-04-24T00:21:21Z"
+  },
+  {
+    "title": "Trump starts the clock for new tariffs to take effect | CNN Business",
+    "description": "President Donald Trump said Wednesday that he could re-impose \u201creciprocal\u201d tariffs on some countries in as soon as two or three weeks, a potentially significant re-escalation of the global trade war that has already raised fears of a US and global recession.",
+    "link": "https://www.cnn.com/2025/04/23/business/new-tariffs-trump-weeks/index.html",
+    "timestamp": "2025-04-24T00:16:51Z"
+  },
+  {
+    "title": "Twelve States File Lawsuit Challenging Trump's IEEPA Tariffs",
+    "description": "Today, twelve blue and purple states, led by the state of Oregon, filed a lawsuit in the US Court of International Trade challenging Donald Trump's",
+    "link": "https://reason.com/volokh/2025/04/23/twelve-states-file-lawsuit-challenging-trumps-ieepa-tariffs/",
+    "timestamp": "2025-04-24T00:15:43Z"
+  },
+  {
+    "title": "Trump says any reduction in tariffs on China depends on Beijing's actions",
+    "description": "He added that he expects to strike a deal and set the final tariff figure on China over the next two or three weeks.",
+    "link": "https://www.abc.net.au/news/2025-04-24/trump-says-tariffs-reduction-depends-on-china/105209942",
+    "timestamp": "2025-04-24T00:11:44Z"
+  },
+  {
+    "title": "How NOT to fight a trade war",
+    "description": "'Impulsive decision-making can be an asset in foreign policy'",
+    "link": "https://www.wnd.com/2025/04/how-not-to-fight-a-trade-war/",
+    "timestamp": "2025-04-24T00:08:50Z"
+  },
+  {
+    "title": "Trump kills US agency funding Africa infrastructure",
+    "description": "President Donald Trump\u2019s administration on Wednesday ordered the closure of a US agency that invested billions in African and other developing countries\u2019 infrastructure in return for good governance, effectively ceding ground to China. The Millennium Challeng\u2026",
+    "link": "https://www.digitaljournal.com/world/trump-kills-us-agency-funding-africa-infrastructure/article",
+    "timestamp": "2025-04-24T00:07:20Z"
+  },
+  {
+    "title": "Trump Pours Cold Water On Millionaire Tax Floated By Some Republicans",
+    "description": "Trump has steered clear of raising taxes on the wealthy in the U.S. after the Biden administration sought to impose new taxes on some of America\u2019s richest people.",
+    "link": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/23/trump-pours-cold-water-on-millionaire-tax-floated-by-some-republicans/",
+    "timestamp": "2025-04-24T00:07:14Z"
+  },
+  {
+    "title": "Trump considering exemption for automakers on some tariffs, White House says",
+    "description": "President Donald Trump is considering exemptions for automakers from some tariffs announced by his administration, the White House confirmed Wednesday to CNBC's Eamon Javers.\nThe confirmation follows a Financial Times report that Trump is planning to exempt a\u2026",
+    "link": "https://biztoc.com/x/5b4f0e0cea6c1924",
+    "timestamp": "2025-04-24T00:07:04Z"
+  },
+  {
+    "title": "Trump Kills US Agency Funding Africa Infrastructure",
+    "description": "President Donald Trump's administration on Wednesday ordered the closure of a US agency that invested billions in African and other developing countries' infrastructure in return for good governance, effectively ceding ground to China.",
+    "link": "https://www.ibtimes.com/trump-kills-us-agency-funding-africa-infrastructure-3771149",
+    "timestamp": "2025-04-24T00:06:21Z"
+  },
+  {
+    "title": "Trump speaks out against sports teams abandoning Native American names",
+    "description": "Trump called the wave of sports teams that changed names in recent years to remove references to Native American heritage 'degrading to the Indian population'",
+    "link": "https://www.foxnews.com/sports/trump-speaks-out-against-sports-teams-abandoning-native-american-names",
+    "timestamp": "2025-04-24T00:05:49Z"
+  },
+  {
+    "title": "Dem Rep. Goldman: Trump's Corrupt Actions Turning America into 'Banana Republic'",
+    "description": "Representative Dan Goldman (D-NY) claimed on Tuesday on MSNBC's \"Deadline\" that President Donald Trump's executive orders and immigration policies are turning America into a \"banana republic.\"\nThe post Dem Rep. Goldman: Trump\u2019s Corrupt Actions Turning America\u2026",
+    "link": "https://www.breitbart.com/clips/2025/04/23/dem-rep-goldman-trumps-corrupt-actions-turing-america-into-banana-republic/",
+    "timestamp": "2025-04-24T00:03:08Z"
+  },
+  {
+    "title": "Joy Behar pushes back on George Clooney's optimism for America, tells actor 'you're wrong'",
+    "description": "Joy Behar said Wednesday on \"The View\" that actor George Clooney was wrong to suggest American would \"get through\" a second Donald Trump term.",
+    "link": "https://www.foxnews.com/media/joy-behar-pushes-back-george-clooneys-optimism-america-tells-actor-youre-wrong",
+    "timestamp": "2025-04-24T00:00:36Z"
+  },
+  {
+    "title": "Why is crypto up today? U.S. \u2013 China tensions ease, helping BTC, altcoins",
+    "description": "Here's how top crypto assets performed after Bitcoin reclaimed $94K.",
+    "link": "https://ambcrypto.com/why-is-crypto-up-today-u-s-china-tensions-ease-helping-btc-altcoins/",
+    "timestamp": "2025-04-24T00:00:16Z"
+  },
+  {
+    "title": "Clearing The Air On Tariffs And Trade Deficits",
+    "description": "A tariff is a tax on imports, and the importer pays almost all of it.",
+    "link": "https://www.hoover.org/research/clearing-air-tariffs-and-trade-deficits",
+    "timestamp": "2025-04-24T00:00:00Z"
+  },
+  {
+    "title": "Crude Caught in Crossfire of OPEC+ Discord and Tariff Shocks",
+    "description": "The U.S. stock markets enjoyed a broad rally on Wednesday, with the S&P 500 jumping nearly 2% a day after U.S. President Donald Trump announced that China tariffs will come down substantially, with another potential boost coming from a Wednesday Reuters repor\u2026",
+    "link": "https://oilprice.com/Energy/Crude-Oil/Crude-Caught-in-Crossfire-of-OPEC-Discord-and-Tariff-Shocks.html",
+    "timestamp": "2025-04-24T00:00:00Z"
+  },
+  {
+    "title": "Mass deportations are critical to America\u2019s future",
+    "description": "In a late-night order, the Supreme Court on Saturday blocked the Trump administration from using the Alien Enemies Act to deport illegal aliens. The administration had relied on the law to expedite removals of some of the most dangerous individuals in the cou\u2026",
+    "link": "https://www.theblaze.com/columns/opinion/mass-deportations-are-critical-to-americas-future",
+    "timestamp": "2025-04-24T00:00:00Z"
+  },
+  {
     "title": "\ud64d\uc900\ud45c \u201c\ud2b8\ub7fc\ud504 \ubcf4\uba74 \ub9c9\ub9d0 \ub9c9 \ud558\ub354\ub77c\u201d",
     "description": "SK Hynix's earnings results will likely show it topped Samsung as the world\u2019s top DRAM vendor for the first time, thanks to AI demand https://t.co/O2ZmY4fT05\u2014 Bloomberg (@business) April 23, 2025 Bearish bets on shares of SK Hynix surged to an all-time high t\u2026",
     "link": "https://ryueyes11.tistory.com/511580",
@@ -94,479 +586,5 @@
     "description": "The Supreme Court heard oral arguments Wednesday in a landmark case that could upend California's Clean Air Act waiver.",
     "link": "https://dailycaller.com/2025/04/23/supreme-court-california-epa-emissions-rule-electric-vehicles/",
     "timestamp": "2025-04-23T23:42:26Z"
-  },
-  {
-    "title": "Carney, touring B.C. battlegrounds, says trade talks with Trump should happen face-to-face",
-    "description": "Liberal Leader Mark Carney says if he wins the election on Monday, he will push for an immediate meeting with U.S. President Donald Trump.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/carney-trade-talks-1.7516919",
-    "timestamp": "2025-04-23T23:41:43Z"
-  },
-  {
-    "title": "Trump reinserts himself into Canadian politics, saying 'as a state, it works great'",
-    "description": "Days before the federal election and after more than a week without commenting on Canada, U.S. President Donald Trump once again brought up his 51st state idea Wednesday afternoon.",
-    "link": "https://www.cbc.ca/news/politics/trump-canada-politics-1.7516951",
-    "timestamp": "2025-04-23T23:41:24Z"
-  },
-  {
-    "title": "Trump seeks 'fair deal' with China but pathway unclear",
-    "description": "WASHINGTON:\u00a0US President Donald Trump on Wednesday (Apr 23) played up prospects of a \"fair deal\" on trade with China, but his top officials offered few details of how Washington might de-escalate its damaging tariff war with Beijing. Trump told reporters his \u2026",
-    "link": "https://www.channelnewsasia.com/east-asia/donald-trump-seek-fair-deal-china-pathway-unclear-5085116",
-    "timestamp": "2025-04-23T23:40:24Z"
-  },
-  {
-    "title": "Trump signs executive orders targeting colleges, plus schools' equity efforts",
-    "description": "President Donald Trump has ordered sharper scrutiny of America\u2019s colleges and the accreditors that oversee them, part of his escalating campaign to end what ...",
-    "link": "https://www.yahoo.com/news/trump-signs-executive-orders-targeting-233945597.html",
-    "timestamp": "2025-04-23T23:39:45Z"
-  },
-  {
-    "title": "How to play the 'sell America' trade with ASX ETFs",
-    "description": "ASX ETF investors have several options to diversify away from US equities.\nThe post How to play the 'sell America' trade with ASX ETFs appeared first on The Motley Fool Australia.",
-    "link": "https://www.fool.com.au/2025/04/24/how-to-play-the-sell-america-trade-with-asx-etfs/",
-    "timestamp": "2025-04-23T23:38:29Z"
-  },
-  {
-    "title": "'Unethical as you can get': Experts decry Trump's latest 'naked quid pro quo'",
-    "description": "A special VIP tour of the White House or even an exclusive dinner with President Donald Trump can be yours \u2013 for a price.The Trump-owned company that unveiled the president\u2019s official meme coin just before his inauguration announced Wednesday that top holders\u2026",
-    "link": "https://www.rawstory.com/trump-coin/",
-    "timestamp": "2025-04-23T23:37:36Z"
-  },
-  {
-    "title": "12 US states sue over Trump\u2019s tariffs",
-    "description": "A coalition of 12 American states filed a lawsuit Wednesday to challenge the Trump administration\u2019s tariffs, saying the president cannot institute the levies without the approval of Congress. \u201cPresident Trump\u2019s insane tariff scheme is not only economically re\u2026",
-    "link": "https://www.digitaljournal.com/world/12-us-states-sue-over-trumps-tariffs/article",
-    "timestamp": "2025-04-23T23:37:32Z"
-  },
-  {
-    "title": "Russia easier to deal with than Ukraine \u2013 Trump",
-    "description": "US President Donald Trump has previously accused Ukraine\u2019s Vladimir Zelensky of stalling his peace efforts Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/616179-zelensky-harder-to-deal-with-trump/",
-    "timestamp": "2025-04-23T23:35:59Z"
-  },
-  {
-    "title": "Trump pushes job training for trades over college degrees | Honolulu Star-Advertiser",
-    "description": "WASHINGTON >> President Donald Trump signed today an order to improve job training for skilled trades, an initiative twinned with tariffs in his gambit to revive U.S. manufacturing.",
-    "link": "https://www.staradvertiser.com/2025/04/23/breaking-news/trump-pushes-job-training-for-trades-over-college-degrees/",
-    "timestamp": "2025-04-23T23:35:52Z"
-  },
-  {
-    "title": "Elon Musk says Tesla will have \u2018thousands\u2019 of Optimus robots by year\u2019s end, but China slapping controls on rare earths is hobbling production",
-    "description": "Elon Musk says Tesla will have \u2018thousands\u2019 of Optimus robots by year\u2019s end, but China slapping controls on rare earths is hobbling production\nChina\u2019s retaliation against punitive tariffs from U.S. President Donald Trump (right) poses problems for Elon Musk (l\u2026",
-    "link": "https://biztoc.com/x/0922edaa643617b0",
-    "timestamp": "2025-04-23T23:33:29Z"
-  },
-  {
-    "title": "Days before Canada's election, Trump insists that Canada needs the US more than the US needs it",
-    "description": "Days before Canada's election, Trump insists that Canada needs the US more than the US needs itclickondetroit.com",
-    "link": "https://www.clickondetroit.com/news/politics/2025/04/23/days-before-canadas-election-trump-makes-more-comments-about-canadas-reliance-on-us/",
-    "timestamp": "2025-04-23T23:32:08Z"
-  },
-  {
-    "title": "New Poll Has Trump Underwater with ALL Demographics \u2014 Including 45 Point Deficit With Hispanics",
-    "description": "A new poll from Pew Research Center offered a grim assessment of President Donald Trump's approval rating, with him underwater across all demographic groups and on all issues polled.\nThe post New Poll Has Trump Underwater with ALL Demographics \u2014 Including 45 \u2026",
-    "link": "https://www.mediaite.com/trump/new-poll-has-trump-underwater-with-all-demographics-including-45-point-deficit-with-hispanics/",
-    "timestamp": "2025-04-23T23:30:49Z"
-  },
-  {
-    "title": "SF and Santa Clara Counties Ask US Court to Halt Trump\u2019s \u2018Sanctuary\u2019 City Funding Freeze",
-    "description": "The suit, led by Santa Clara and San Francisco, has revived a legal battle from Trump\u2019s first term over immigration, sanctuary status and funding.",
-    "link": "https://www.kqed.org/news/12037376/sf-santa-clara-counties-ask-us-court-halt-trumps-sanctuary-city-funding-freeze",
-    "timestamp": "2025-04-23T23:30:02Z"
-  },
-  {
-    "title": "Trump upends DOJ's Civil Rights Division, sparking 'bloodbath' in senior ranks",
-    "description": "More than a dozen senior lawyers in the Justice Department's Civil Rights Division \u2013 many with decades of experience \u2013 have been reassigned.",
-    "link": "https://www.nbcnews.com/politics/justice-department/trump-upends-dojs-civil-rights-division-sparking-bloodbath-senior-rank-rcna202622",
-    "timestamp": "2025-04-23T23:29:35Z"
-  },
-  {
-    "title": "Pastor calls for \u2018full Target boycott\u2019 over concerns about diversity, equity, inclusion",
-    "description": "Rev. Jamal Bryant previously led a nationwide 40-day 'fast' against the retailer.",
-    "link": "https://www.bostonherald.com/2025/04/23/target-boycott-pastor/",
-    "timestamp": "2025-04-23T23:25:30Z"
-  },
-  {
-    "title": "Pastor calls for \u2018full Target boycott\u2019 over concerns about diversity, equity, inclusion",
-    "description": "Rev. Jamal Bryant previously led a nationwide 40-day 'fast' against the retailer.",
-    "link": "https://www.denverpost.com/2025/04/23/target-boycott-pastor/",
-    "timestamp": "2025-04-23T23:25:30Z"
-  },
-  {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures stumble after Wall Street's 2-day rally",
-    "description": "US stock futures traded flat after a mostly upbeat day on Wall Street, driven by fresh signs President Trump is aiming to strike a trade deal with China.",
-    "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stumble-after-wall-streets-2-day-rally-232526886.html",
-    "timestamp": "2025-04-23T23:25:26Z"
-  },
-  {
-    "title": "Why South Africa and Ukraine are wooing each other - and what will Trump think?",
-    "description": "Volodymyr Zelensky is on a historic visit to South Africa to counter Russia's influence on the continent.",
-    "link": "https://www.bbc.com/news/articles/c4g75825r94o",
-    "timestamp": "2025-04-23T23:25:13Z"
-  },
-  {
-    "title": "A dozen states sue to stop Trump's tariffs",
-    "description": "Democratic attorneys general from 12 states filed a joint lawsuit arguing that the president does not have the constitutional authority to execute his sweeping tariff agenda.",
-    "link": "https://www.nbcnews.com/politics/trump-administration/dozen-democratic-states-sue-stop-president-trumps-tariffs-rcna202682",
-    "timestamp": "2025-04-23T23:24:09Z"
-  },
-  {
-    "title": "Tesla vehicles were tops among recent EV rebates in Manitoba, documents show",
-    "description": "WINNIPEG \u2014 Owners of Tesla vehicles were the biggest beneficiaries in recent months of electric-vehicle rebates offered by the Manitoba government, newly released documents show. The province announced last summer that it would offer rebates of up to $4,000 t\u2026",
-    "link": "https://financialpost.com/pmn/tesla-vehicles-were-tops-among-recent-ev-rebates-in-manitoba-documents-show-2",
-    "timestamp": "2025-04-23T23:23:53Z"
-  },
-  {
-    "title": "Why Ukraine is in an impossible spot with the White House peace deal",
-    "description": "What Team Trump wants, Zelensky can't say yes to.",
-    "link": "https://nypost.com/2025/04/23/opinion/why-ukraine-is-in-an-impossible-spot-with-the-white-house-peace-deal/",
-    "timestamp": "2025-04-23T23:23:00Z"
-  },
-  {
-    "title": "CP chief sees gains from US tariffs",
-    "description": "Thailand has the potential to gain two big investment windfalls -- in data centres and electronics automation -- as a result of US President Donald Trump's sweeping global tariffs, thanks to Thailand's open policies, says Charoen Pokphand (CP) chief executive\u2026",
-    "link": "https://www.bangkokpost.com/business/general/3010051/cp-chief-sees-gains-from-us-tariffs",
-    "timestamp": "2025-04-23T23:23:00Z"
-  },
-  {
-    "title": "Harvard Poll: Young Americans' Support for Dems Plummets",
-    "description": "A poll of young Americans conducted by the Institute of Politics at Harvard Kennedy School shows that \"[w]hile [President Donald] Trump's overall approval has remained stable, support for Democrats has eroded.\" \"The share of young Americans who approve of Con\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4312869/posts",
-    "timestamp": "2025-04-23T23:21:17Z"
-  },
-  {
-    "title": "South Korea Q1 GDP unexpectedly contracts, reinforcing rate cut chances",
-    "description": "SEOUL : South Korea's economy unexpectedly contracted in the first quarter as exports and consumption stalled amid fears over the impact of Washington's aggressive tariffs, fanning expectations of more interest rate cuts.Gross domestic product (GDP) contracte\u2026",
-    "link": "https://www.channelnewsasia.com/business/south-korea-q1-gdp-unexpectedly-contracts-reinforcing-rate-cut-chances-5085096",
-    "timestamp": "2025-04-23T23:19:48Z"
-  },
-  {
-    "title": "Fox\u2019s Brit Hume Baffled by Trump\u2019s Putin Comment: \u2018I\u2019m Not Exactly Sure What the President\u2019s Talking About\u2019",
-    "description": "Fox News Chief Political Analyst Brit Hume expressed puzzlement at some comments President Donald Trump made about his efforts to end Russia's war in Ukraine.\u00a0\nThe post Fox\u2019s Brit Hume Baffled by Trump\u2019s Putin Comment: \u2018I\u2019m Not Exactly Sure What the President\u2026",
-    "link": "https://www.mediaite.com/tv/foxs-brit-hume-baffled-by-trumps-putin-comment-im-not-exactly-sure-what-the-presidents-talking-about/",
-    "timestamp": "2025-04-23T23:18:44Z"
-  },
-  {
-    "title": "Trump Calls $5,000 \u2018Baby Bonus\u2019 For New Mothers \u2018A Good Idea\u2019\u2014What We Know About Incentive Proposal",
-    "description": "The idea has surfaced as a potential incentive for families after the U.S. recorded a historically low birth rate in 2023.",
-    "link": "https://www.forbes.com/sites/antoniopequenoiv/2025/04/23/trump-calls-5000-baby-bonus-for-new-mothers-a-good-idea-what-we-know-about-incentive-proposal/",
-    "timestamp": "2025-04-23T23:18:16Z"
-  },
-  {
-    "title": "South Korea GDP contracts 0.1% in the first quarter amid political uncertainty",
-    "description": "Data from the Bank of Korea showed that the drop was mostly due to a fall in construction, with the sector contracting 12.4% year-on-year.",
-    "link": "https://www.cnbc.com/2025/04/24/south-korea-gdp-contracts-in-the-first-quarter.html",
-    "timestamp": "2025-04-23T23:16:40Z"
-  },
-  {
-    "title": "Trump's Cabinet ready to take back power with Musk stepping back, sources say",
-    "description": "WASHINGTON:\u00a0Members of President Donald Trump's Cabinet will likely move to limit the influence of Department of Government Efficiency employees and reassert control over budgets and staffing once Elon Musk steps back\u00a0from DOGE, two government sources with di\u2026",
-    "link": "https://www.channelnewsasia.com/world/donald-trump-cabinet-ready-take-back-power-elon-musk-step-back-5085071",
-    "timestamp": "2025-04-23T23:15:41Z"
-  },
-  {
-    "title": "John Ivison: Carney dreams of majority but dare not say it",
-    "description": "He has to appear confident, but not too confident; exude momentum but not too much; to veer leftward but not can't alienate centrist voters.",
-    "link": "https://nationalpost.com/opinion/ivison-mark-carney-dreams-of-majority-but-dare-not-say-it",
-    "timestamp": "2025-04-23T23:15:40Z"
-  },
-  {
-    "title": "Donald Trump attacks Ukraine for not recognising Russian occupation of Crimea (Financial Times)",
-    "description": "Financial Times:\nDonald Trump attacks Ukraine for not recognising Russian occupation of Crimea\u00a0 \u2014\u00a0 US president says Kyiv's position is \u2018very harmful to the peace negotiations with Russia\u2019\u00a0 \u2014\u00a0 President Donald Trump has attacked Ukrainian leader Volodymyr Zel\u2026",
-    "link": "https://www.memeorandum.com/250423/p134",
-    "timestamp": "2025-04-23T23:15:01Z"
-  },
-  {
-    "title": "Trump and Zelenskyy clash again and U.S. warns it could abandon Ukraine talks",
-    "description": "Zelenskyy reiterated that Ukraine would never cede Crimea to Russia, stoking Trump's ire at the slow pace of peace talks.",
-    "link": "https://www.japantimes.co.jp/news/2025/04/24/world/politics/trump-zelenskyy-clash-again/",
-    "timestamp": "2025-04-23T23:14:00Z"
-  },
-  {
-    "title": "How Springfield and its Haitian immigrants are still dealing with election\u2019s spotlight",
-    "description": "During the campaign, Springfield, Ohio, became a flashpoint in the national conversation when Donald Trump and JD Vance amplified false rumors that Haitian immigrants were abducting and eating pets. Months later, Springfield is reckoning with its turn in the \u2026",
-    "link": "https://biztoc.com/x/5d20dac85faf7e07",
-    "timestamp": "2025-04-23T23:11:39Z"
-  },
-  {
-    "title": "Days before Canada\u2019s election, Trump makes more comments about Canada\u2019s reliance on US",
-    "description": "WASHINGTON (AP) \u2014 President Donald Trump said Wednesday that Canada would \u201ccease to exist\u201d if it weren\u2019t for the United States _ comments that came just days before Canadians are set to vote in an election dominated by Trump\u2019s comments on the country\u2019s econom\u2026",
-    "link": "https://financialpost.com/pmn/days-before-canadas-election-trump-makes-more-comments-about-canadas-reliance-on-us",
-    "timestamp": "2025-04-23T23:11:37Z"
-  },
-  {
-    "title": "Rosie O'Donnell was 'shocked' that Trump's election made Ellen DeGeneres flee the US",
-    "description": "Rosie O'Donnell, who recently moved to Ireland, was surprised fellow comedian Ellen DeGeneres left the United States after Donald Trump became president.",
-    "link": "https://www.foxnews.com/entertainment/rosie-odonnell-shocked-trumps-election-made-ellen-degeneres-flee-us",
-    "timestamp": "2025-04-23T23:10:29Z"
-  },
-  {
-    "title": "CBS anchors salute outgoing '60 Minutes' producer, say effort to settle Trump lawsuit tied to corporate merger",
-    "description": "The anchors of \"CBS Evening News\" addressed the abrupt exit of \"60 Minutes\" executive producer Bill Owens as the network continues its legal battle with President Donald Trump.",
-    "link": "https://www.foxnews.com/media/cbs-anchors-salute-outgoing-60-minutes-producer-say-effort-settle-trump-lawsuit-tied-corporate-merger",
-    "timestamp": "2025-04-23T23:08:50Z"
-  },
-  {
-    "title": "GM to increase production at Ohio transmission facility",
-    "description": "General Motors\u00a0is increasing\u00a0production\u00a0of\u00a0transmissions at its Toledo,\u00a0Ohio\u00a0facility, shifting away from EV drive unit manufacturing toward parts for gasoline vehicles, the company confirmed Wednesday.",
-    "link": "https://www.cnbc.com/2025/04/23/gm-to-increase-production-at-ohio-transmission-facility.html",
-    "timestamp": "2025-04-23T23:06:05Z"
-  },
-  {
-    "title": "Tesla vehicles were tops among recent EV rebates in Manitoba, documents show",
-    "description": "WINNIPEG \u2014 Owners of Tesla vehicles were the biggest beneficiaries in recent months of electric-vehicle rebates offered by the Manitoba government, newly released documents show. The province announced last summer that it would offer rebates of up to $4,000 t\u2026",
-    "link": "https://financialpost.com/pmn/tesla-vehicles-were-tops-among-recent-ev-rebates-in-manitoba-documents-show",
-    "timestamp": "2025-04-23T23:05:21Z"
-  },
-  {
-    "title": "Trump says auto tariffs could increase further for Canada",
-    "description": "U.S. President Donald Trump says at some point the automobile tariffs slapped on Canadian imports could increase, while also indicating his administration is working on a deal with Canada.",
-    "link": "https://www.nationalobserver.com/2025/04/23/news/trump-auto-tariffs-increase-canada",
-    "timestamp": "2025-04-23T23:05:07Z"
-  },
-  {
-    "title": "\"Bullying, Blackmail\": US, China Exchange Barbs Over Trade War At UN",
-    "description": "The Chinese envoy took direct aim at the United States, saying the government headed by Donald Trump &quot;severely disrupts the global economic order&quot; by imposing shock tariffs on its trading partners.",
-    "link": "https://www.ndtv.com/world-news/us-china-exchange-barbs-over-trade-war-at-un-8240705",
-    "timestamp": "2025-04-23T23:02:43Z"
-  },
-  {
-    "title": "Indian Visa Migrants Lose Jobs amid Corporate, Federal Crackdowns",
-    "description": "Hundreds of Indian and Chinese college-graduate migrants in the United States have been fired from white-collar jobs in California, Washington, DC, and elsewhere,\nThe post Indian Visa Migrants Lose Jobs amid Corporate, Federal Crackdowns appeared first on Bre\u2026",
-    "link": "https://www.breitbart.com/economy/2025/04/23/indian-visa-migrants-lose-jobs-in-ethics-enforcement/",
-    "timestamp": "2025-04-23T23:01:58Z"
-  },
-  {
-    "title": "Trump reportedly plans to exempt automakers from some tariffs; GM, Ford shares climb",
-    "description": "Shares of General Motors, Ford and Jeep parent Stellantis advanced in after-hours trading Wednesday in the wake of a report that President Donald Trump plans to spare automakers from some tariffs.",
-    "link": "https://biztoc.com/x/05b53e81a122df54",
-    "timestamp": "2025-04-23T23:00:54Z"
-  },
-  {
-    "title": "Alleged Tren de Aragua Member Charged With Terrorism, 27 Others Face RICO Charges",
-    "description": "Also, would it shock you to find out that Venezulan government officials probably helped move TdA members into America? Yeah, me either.\nThe post Alleged Tren de Aragua Member Charged With Terrorism, 27 Others Face RICO Charges first appeared on Le\u00b7gal In\u00b7sur\u2026",
-    "link": "https://legalinsurrection.com/2025/04/alleged-tren-de-aragua-member-charged-with-terrorism-27-others-face-rico-charges/",
-    "timestamp": "2025-04-23T23:00:37Z"
-  },
-  {
-    "title": "Foreign Ministry to oversee M\u2019sia-China MoU implementation",
-    "description": "PUTRAJAYA: The Foreign Ministry will be in charge of coordinating the implementation of the 31 Memoranda of Understanding (MoU) inked between Malaysia and China, says Datuk Fahmi Fadzil (pic). Read full story",
-    "link": "https://www.thestar.com.my/news/nation/2025/04/24/foreign-ministry-to-oversee-msia-china-mou-implementation",
-    "timestamp": "2025-04-23T23:00:00Z"
-  },
-  {
-    "title": "Don\u2019t fall for \u2018Iran deal\u2019 lie, Mr. President \u2014 the mullahs can\u2019t be trusted",
-    "description": "President Trump\u2019s attitude towards Iran is causing many to scratch their heads.",
-    "link": "https://nypost.com/2025/04/23/opinion/dont-fall-for-iran-deal-lie-mr-president-the-mullahs-cant-be-trusted/",
-    "timestamp": "2025-04-23T22:58:30Z"
-  },
-  {
-    "title": "US President\u2019s planned dinner for TRUMP memecoin holders triggers 52% price surge \u2014 Will it last?",
-    "description": "Official Trump (TRUMP) jumped 52% on April 23 after the announcement of an exclusive in-person dinner for the top tokenholders with US President Donald Trump. For some crypto advocates, this marks the end of the bear market, especially as Bitcoin (BTC) bounce\u2026",
-    "link": "https://cointelegraph.com/news/us-president-s-planned-dinner-for-trump-memecoin-holders-triggers-52-price-surge-will-it-last",
-    "timestamp": "2025-04-23T22:58:18Z"
-  },
-  {
-    "title": "Story of baby named 'MAGA' born at Missouri hospital is satire",
-    "description": "People sharing the story claimed the baby received the name \"MAGA Trump Jr.\" \u2014 a reference to U.S. President Donald Trump and his campaign slogan.",
-    "link": "https://www.snopes.com//fact-check/baby-hospital-missouri-maga/",
-    "timestamp": "2025-04-23T22:58:00Z"
-  },
-  {
-    "title": "Trio Of Top CEOs Warn Trump Tariffs Will Empty Store Shelves: Report (Kelby Vera/HuffPost)",
-    "description": "Kelby Vera / HuffPost:\nTrio Of Top CEOs Warn Trump Tariffs Will Empty Store Shelves: Report\u00a0 \u2014\u00a0 Executives for Walmart, Target and Home Depot didn't beat around the bush during a Monday meeting in the Oval Office.\u00a0 \u2014\u00a0 Executives from three of America's bigges\u2026",
-    "link": "https://www.memeorandum.com/250423/p130",
-    "timestamp": "2025-04-23T22:55:03Z"
-  },
-  {
-    "title": "Ex-NFL Kicker Jay Feely Credits 1 Trump Moment For Inspiring His Run For Congress (Ron Dicker/HuffPost)",
-    "description": "Ron Dicker / HuffPost:\nEx-NFL Kicker Jay Feely Credits 1 Trump Moment For Inspiring His Run For Congress\u00a0 \u2014\u00a0 The MAGA-aligned Republican said he'd first discussed a run for office with Trump at Mar-a-Lago two years ago.\u00a0 \u2014\u00a0 Former NFL kicker and Donald Trump \u2026",
-    "link": "https://www.memeorandum.com/250423/p132",
-    "timestamp": "2025-04-23T22:55:03Z"
-  },
-  {
-    "title": "Trump administration refuses to comply with court order on wrongful deportation",
-    "description": "The Trump administration on Wednesday persisted in defying a federal judge\u2019s directive to disclose what actions, if any, it has taken to bring back a Maryland man who was mistakenly deported to El Salvador.",
-    "link": "https://www.wmur.com/article/trump-administration-refuses-to-comply-court-order-wrongful-deportation/64569148",
-    "timestamp": "2025-04-23T22:53:42Z"
-  },
-  {
-    "title": "\u2018The View\u2019 co-hosts trash Trump for considering $5K baby bonus, suggest racial motivation",
-    "description": "\"The View\" co-hosts unloaded on President\u00a0Donald Trump\u00a0for saying that giving mothers a $5,000 bonus was a \"good idea\" during the show on Wednesday.",
-    "link": "https://nypost.com/2025/04/23/media/the-view-co-hosts-trash-trump-for-considering-5k-baby-bonus-suggest-racial-motivation/",
-    "timestamp": "2025-04-23T22:53:05Z"
-  },
-  {
-    "title": "Trump seeks 'fair deal' with China but pathway unclear",
-    "description": "Trump told reporters his country would have a \"fair deal with China,\" adding that \"everything's active\" when asked if Washington was talking to Beijing.",
-    "link": "https://www.japantimes.co.jp/business/2025/04/24/economy/trump-china-deal-pathway-unclear/",
-    "timestamp": "2025-04-23T22:52:00Z"
-  },
-  {
-    "title": "Let the Massapequa Chiefs keep their name",
-    "description": "Memo to the stick-in-the-mud Karens at the State Education Department: Let Massapequa High School keep on being the \"Chiefs.\"",
-    "link": "https://nypost.com/2025/04/23/opinion/the-history-erasing-doe-should-let-the-massapequa-chiefs-keep-their-name/",
-    "timestamp": "2025-04-23T22:51:38Z"
-  },
-  {
-    "title": "Trump seeks 'fair deal' with China but pathway unclear",
-    "description": "US President Donald Trump on Wednesday played up prospects of a \"fair deal\" on trade with China, but his top officials offered few details of how Washington ...",
-    "link": "https://www.yahoo.com/news/trump-seeks-fair-deal-china-212046430.html",
-    "timestamp": "2025-04-23T22:49:22Z"
-  },
-  {
-    "title": "\u2018Don\u2019t fight the Oval Office\u2019: Investors are finally taking Trump seriously, and it\u2019s causing a volatility spike",
-    "description": "\u2018Don\u2019t fight the Oval Office\u2019: Investors are finally taking Trump seriously, and it\u2019s causing a volatility spike in markets as they try to figure out his next move\nPresident Donald Trump with a portrait of 40th President Ronald Reagan in the background.\nSaul \u2026",
-    "link": "https://biztoc.com/x/9f6381d748e01901",
-    "timestamp": "2025-04-23T22:49:15Z"
-  },
-  {
-    "title": "Imax CEO \u2018Highly Confident\u2019 That China\u2019s Plan to Reduce US Film Releases Won\u2019t Affect His Company",
-    "description": "Rich Gelfond expects that China will target smaller budget films, not those that \"drives Imax\u2019s business\"\nThe post Imax CEO \u2018Highly Confident\u2019 That China\u2019s Plan to Reduce US Film Releases Won\u2019t Affect His Company appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/imax-china-us-releases/",
-    "timestamp": "2025-04-23T22:47:33Z"
-  },
-  {
-    "title": "Trump Dismisses Raising Taxes on the Rich \u2018Because a Lot of the Millionaires Would Leave the Country\u2019",
-    "description": "President Donald Trump threw cold water on reports that he's open to tax hikes on high-earning individuals.\u00a0\nThe post Trump Dismisses Raising Taxes on the Rich \u2018Because a Lot of the Millionaires Would Leave the Country\u2019 first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/trump/trump-dismisses-raising-taxes-on-the-rich-because-a-lot-of-the-millionaires-would-leave-the-country/",
-    "timestamp": "2025-04-23T22:47:13Z"
-  },
-  {
-    "title": "Jim Cramer describes Trump's unique sway over the market: 'I've never, ever seen the market bend so readily to the wishes of one man'",
-    "description": "CNBC's Jim Cramer explained how President Donald Trump's actions rule the tides on Wall Street.",
-    "link": "https://www.cnbc.com/2025/04/23/jim-cramer-describes-trumps-unique-sway-over-the-market.html",
-    "timestamp": "2025-04-23T22:46:42Z"
-  },
-  {
-    "title": "'Central Park Five' Raymond Santana Discusses Defamation Case Against Trump",
-    "description": "Raymond Santana -- one of the wrongfully convicted Central Park Five -- is celebrating after a federal judge shut down President Donald Trump\u2019s attempt to toss out the defamation lawsuit they filed against him. TMZ caught up with Raymond in\u2026\n Permalink",
-    "link": "https://www.tmz.com/2025/04/23/central-park-five-raymond-santana-donald-trump-defamation-case/",
-    "timestamp": "2025-04-23T22:45:11Z"
-  },
-  {
-    "title": "Traders pour into leveraged ETFs, gold in bid to weather volatility \u2014 Bloomberg",
-    "description": "Traders are embracing diametrically opposed exchange-traded fund (ETF) strategies in a bid to navigate one of the most unpredictable financial markets in recent history, according to data from Bloomberg Intelligence.\u00a0The year-to-date has seen record inflows t\u2026",
-    "link": "https://cointelegraph.com/news/traders-into-leveraged-etfs-gold-volatility-bloomberg",
-    "timestamp": "2025-04-23T22:45:00Z"
-  },
-  {
-    "title": "Trump calls Modi, condemns J-K terror attack",
-    "description": "WASHINGTON/NEW YORK, April 23: US President Donald Trump strongly condemned the terror attack in Kashmir\u2019s Pahalgam in a phone call with Prime Minister Narendra Modi and expressed full support to India to bring to justice the perpetrators of the \u201cheinous atta\u2026",
-    "link": "https://thehillstimes.in/national/trump-calls-modi-condemns-j-k-terror-attack",
-    "timestamp": "2025-04-23T22:45:00Z"
-  },
-  {
-    "title": "Trump And Zelensky Clash Again As US Says Crimea Now Russian Territory",
-    "description": "Donald Trump and Ukrainian President Volodymyr Zelenskiy had another unpleasant exchange on Wednesday as negotiators weighed possibilities that could result in ending the years-long war in Ukraine.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-and-ukraines-zelensky-clash-again-as-us-says-crimea-now-russian-territory-8240635",
-    "timestamp": "2025-04-23T22:43:25Z"
-  },
-  {
-    "title": "Trump on Trade Talks with China: \u2018Everybody Wants to Be a Part of What We\u2019re Doing\u2019",
-    "description": "President Donald Trump said that the entire world wants to be a part of trade negotiations with the United States when asked about discussions with China on Wednesday.\nThe post Trump on Trade Talks with China: \u2018Everybody Wants to Be a Part of What We\u2019re Doing\u2026",
-    "link": "https://www.breitbart.com/politics/2025/04/23/trump-on-trade-talks-with-china-everybody-wants-to-be-a-part-of-what-were-doing/",
-    "timestamp": "2025-04-23T22:42:09Z"
-  },
-  {
-    "title": "SBF on the Move Again: From 'Victimville' to Low-Security Prison",
-    "description": "FTX co-founder and former CEO Sam Bankman-Fried has landed in a low-security prison after a brief spell at one nicknamed \"Victimville.\"",
-    "link": "https://decrypt.co/316061/sbf-transferred-victimville-low-security-prison",
-    "timestamp": "2025-04-23T22:42:05Z"
-  },
-  {
-    "title": "Inside the Fight Over Trump\u2019s Foreign Policy",
-    "description": "His administration is locked in a secret struggle over America\u2019s role in the world.",
-    "link": "https://www.theatlantic.com/newsletters/archive/2025/04/trump-iran-foreign-policy-agreement/682568/",
-    "timestamp": "2025-04-23T22:42:00Z"
-  },
-  {
-    "title": "TRUMP EFFECT: A Running List of New U.S. Investment in President Trump\u2019s Second Term",
-    "description": "Since President Donald J. Trump took office, his unwavering commitment to revitalizing American industry has spurred trillions of dollars of investments in U.S. manufacturing, production, and innovation \u2014 and the list only continues to grow.Here is a non-comp\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4312864/posts",
-    "timestamp": "2025-04-23T22:41:59Z"
-  },
-  {
-    "title": "U.S. stocks advance as Trump eases rhetoric on Powell, tariffs",
-    "description": "NEW YORK, April 23 (Xinhua) -- U.S. stocks extended gains on Wednesday, as U.S. President Donald Trump struck a more conciliatory tone on both Federal Reserve Chair Jerome Powell and tariffs on Chinese goods, soothing investor fears that had weighed on market\u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/04/24/us-stocks-advance-as-trump-eases-rhetoric-on-powell-tariffs",
-    "timestamp": "2025-04-23T22:41:00Z"
-  },
-  {
-    "title": "Ted Koppel Does a Lousy Job on USAID",
-    "description": "I watch CBS Sunday morning every week. One segment on April 20 was Ted Koppel\u2019s look at the cuts in USAID spending. There were three main things wrong with his reporting, all of which showed laziness or indifference or something else.\nKoppel interviewed a Bri\u2026",
-    "link": "https://www.econlib.org/ted-koppel-does-a-lousy-job-on-usaid/",
-    "timestamp": "2025-04-23T22:40:48Z"
-  },
-  {
-    "title": "Judge rules federal government owes nearly $28M to North Dakota for pipeline protests",
-    "description": "A federal judge on Wednesday found the U.S. government liable to the state of North Dakota for more than $28 million in the state's lawsuit for recouping millions of dollars for policing the protest of the Dakota Access Pipeline",
-    "link": "https://abcnews.go.com/Business/wireStory/judge-rules-federal-government-owes-28-million-north-121105536",
-    "timestamp": "2025-04-23T22:40:18Z"
-  },
-  {
-    "title": "Treasury secretary says China tariffs not sustainable as US signals willingness to de-escalate Trump\u2019s trade war \u2013 live",
-    "description": "Trump says US education is getting out of DEI 'after being in that jungle for a long time'\nAs he signed the last in a series of executive orders on education in the Oval Office on Wednesday, Donald Trump mused aloud that by directing schools to get out of wha\u2026",
-    "link": "https://biztoc.com/x/8c1b59d3a4756997",
-    "timestamp": "2025-04-23T22:38:43Z"
-  },
-  {
-    "title": "Trump warns Canada auto tariff could go up",
-    "description": "United States President Donald Trump warned that the current 25% levy on automobiles imported from Canada could increase. He said he had a good conversation with Canadian Prime Minister Mark Carney, a...",
-    "link": "https://biztoc.com/x/4e0f246c42ffeb19",
-    "timestamp": "2025-04-23T22:38:11Z"
-  },
-  {
-    "title": "Donald Trump Gives Update on Potential Ukraine, Russia War Deal",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nDonald Trump told reporters in the Oval Office on Wednesday that he believes he has a peace deal with Russia and Ukraine.\nThe president suggested that Ukrainian President Volodymyr Zelensky had not fully signe\u2026",
-    "link": "https://biztoc.com/x/1fff2b6da57af294",
-    "timestamp": "2025-04-23T22:38:08Z"
-  },
-  {
-    "title": "Auto Stocks See Brief Spike In After-Hours Trading Wednesday As Trump Plans To Ease Tariffs On Automakers",
-    "description": "Shares of Ford Motor Co (NYSE:F), General Motors Co (NYSE:GM) and Stellantis N.V. (NYSE:STLA) spiked in Wednesday\u2019s after-hours session before pulling back. Here\u2019s a look at what\u2019s going on.\nWhat Happened: According to a Financial Times report, President Dona\u2026",
-    "link": "https://biztoc.com/x/1f3fed255c0c175f",
-    "timestamp": "2025-04-23T22:37:59Z"
-  },
-  {
-    "title": "Treasury chief floats possible de-escalation with Beijing but says no talks yet (Politico)",
-    "description": "Politico:\nTreasury chief floats possible de-escalation with Beijing but says no talks yet\u00a0 \u2014\u00a0 President Donald Trump says U.S. is \u201cactively\u201d talking with China, but Bessent says negotiations have not begun.\u00a0 \u2014\u00a0 Treasury Secretary Scott Bessent on Wednesday sa\u2026",
-    "link": "https://www.memeorandum.com/250423/p128",
-    "timestamp": "2025-04-23T22:35:00Z"
-  },
-  {
-    "title": "\"I Think We Have A Deal With Russia\" To End Ukraine War, Says Trump",
-    "description": "US President Donald Trump said Wednesday he thought Russia had agreed to a deal to end the conflict in Ukraine, with President Volodymr Zelensky now the holdout.",
-    "link": "https://www.ndtv.com/world-news/donald-trump-says-he-thinks-russia-agrees-to-end-ukraine-war-8240606",
-    "timestamp": "2025-04-23T22:31:54Z"
-  },
-  {
-    "title": "DOW DOOM: CNN Cries Potential \u2018Great Depression\u2019 in Stock Market",
-    "description": "President Donald Trump\u2019s first 100 days haven\u2019t even been completed yet and CNN is already whipping out \"Great Depression\" scare porn to describe the current stock market under his administration. No, you didn\u2019t misread that. \u201cWe\u2019re suddenly talking about the\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4312861/posts",
-    "timestamp": "2025-04-23T22:31:52Z"
-  },
-  {
-    "title": "White House Doesn\u2019t Deny Reported Musk-Bessent Shouting Match, Touts \u2018Healthy Debate Process\u2019",
-    "description": "A shouting match between Elon Musk and Treasury Secretary Scott Bessent during a conversation about the IRS was first reported Wednesday.",
-    "link": "https://www.forbes.com/sites/mollybohannon/2025/04/23/white-house-doesnt-deny-musk-bessent-shouting-match-touts-healthy-debate-process/",
-    "timestamp": "2025-04-23T22:31:00Z"
-  },
-  {
-    "title": "Donald Trump Gives Update on Potential Ukraine, Russia War Deal",
-    "description": "Donald Trump told reporters in the Oval Office on Wednesday that he believes he has a peace deal with Russia and Ukraine.",
-    "link": "https://www.newsweek.com/donald-trump-gives-update-potential-ukraine-russia-war-deal-2063353",
-    "timestamp": "2025-04-23T22:30:07Z"
-  },
-  {
-    "title": "Trump says 25 per cent tariff on cars made in Canada could go up",
-    "description": "President Donald Trump on Wednesday said a 25 percent tariff imposed on cars imported from Canada to the United States could go up.\n\u201cWhen I put tariffs on Canada - they\u2019re paying 25 per cent - but that could go up, in terms of cars,\u201d Trump told reporters in t\u2026",
-    "link": "https://biztoc.com/x/1cf136aa64c76af5",
-    "timestamp": "2025-04-23T22:27:26Z"
-  },
-  {
-    "title": "Trump Says He Has No Intention of Firing Fed Chair Powell",
-    "description": "President Donald Trump said he had no intention of firing Federal Reserve Chair Jerome Powell despite his frustration with the central bank not moving more quickly to slash interest rates.\n\u201cNever did,\u201d Trump told reporters on Tuesday. \u201cThe press runs away wit\u2026",
-    "link": "https://biztoc.com/x/86966efd525419c2",
-    "timestamp": "2025-04-23T22:27:25Z"
   }
 ]
