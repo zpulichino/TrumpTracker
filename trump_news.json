@@ -1,5 +1,53 @@
 [
   {
+    "title": "Elon Musk pulls back from Trump's DOGE role to refocus on Tesla",
+    "description": "Musk posted a picture of himself wearing an X-branded t-shirt, instead of the \"Tech Support\" and \"DOGE\" t-shirts he has frequently been wearing since Donald Trump returned as US President. The post comes days after Tesla\u2019s earnings call, where the car maker r\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/elon-musk-pulls-back-from-trumps-doge-role-to-refocus-on-tesla/articleshow/120641123.cms",
+    "timestamp": "2025-04-26T07:58:30Z"
+  },
+  {
+    "title": "Trump and First Lady pay respects to Pope Francis",
+    "description": "US President Donald Trump and First Lady Melania Trump paid their respects to Pope Francis this morning on Saturday, standing solemnly in front of the pope's coffin at St. Peter's Basilica. The couple...",
+    "link": "https://biztoc.com/x/4c8a05d421e7d79b",
+    "timestamp": "2025-04-26T07:57:58Z"
+  },
+  {
+    "title": "China foreign minister says Trump's tariffs reveal 'extreme egoism' as he speaks out against protectionism",
+    "description": "Chinese Foreign Minister Wang Yi said Friday that Beijing backs international rules when it comes to tariffs imposed by U.S. President Donald Trump and that the U.S. levies show \"extreme egoism.\"\nThe foreign minister made the comments while he was in Kazakhst\u2026",
+    "link": "https://biztoc.com/x/3223a765504923f5",
+    "timestamp": "2025-04-26T07:57:57Z"
+  },
+  {
+    "title": "Trump met with Zelenskyy ahead of Pope's funeral",
+    "description": "Donald Trump has met Volodymyr Zelenskyy ahead of the Pope's funeral, according to Vatican sources.",
+    "link": "https://news.sky.com/story/trump-met-with-zelenskyy-ahead-of-popes-funeral-13355783",
+    "timestamp": "2025-04-26T07:57:00Z"
+  },
+  {
+    "title": "'I will keep fighting' to bring everyone home, Noa Argamani says at Time Magazine gala",
+    "description": "Argamani, who survived 246 days of captivity in Gaza before being rescued during Operation Arnon, has been named to Time Magazine\u2019s list of the 100 most influential people.",
+    "link": "https://www.jpost.com/israel-news/article-851570",
+    "timestamp": "2025-04-26T07:55:58Z"
+  },
+  {
+    "title": "Virginia Giuffre, Jeffrey Epstein and Prince Andrew accuser, dies by suicide, says family",
+    "description": "Giuffre settled lawsuit against Andrew after she said she was trafficked by Epstein and Ghislaine Maxwell",
+    "link": "https://www.irishtimes.com/world/australia/2025/04/26/virginia-giuffre-death-jeffrey-epstein-prince-andrew/",
+    "timestamp": "2025-04-26T07:55:51Z"
+  },
+  {
+    "title": "US Judge Arrested For Obstructing Immigration Arrest In Trump Crackdown",
+    "description": "Hannah Dugan, a Milwaukee County circuit judge, allegedly &quot;intentionally misdirected federal agents away from the subject&quot; whom agents were intending to detain at her courthouse, FBI director Kash Patel said in a post on X.",
+    "link": "https://www.ndtv.com/world-news/hannah-dugan-us-judge-arrested-for-obstructing-immigration-arrest-in-donald-trump-crackdown-8261077",
+    "timestamp": "2025-04-26T07:54:46Z"
+  },
+  {
+    "title": "CEO of cybersecurity firm charged with installing malware on hospital systems",
+    "description": "Veritaco CEO Jeffrey Bowie faces charges for allegedly installing malware on hospital computers, violating Oklahoma\u2019s Computer Crimes Act. Jeffrey Bowie, CEO of the cybersecurity firm Veritaco, is facing two counts of violating Oklahoma\u2019s Computer Crimes Act \u2026",
+    "link": "https://securityaffairs.com/177020/cyber-crime/ceo-of-cybersecurity-firm-charged-with-installing-malware-on-hospital-systems.html",
+    "timestamp": "2025-04-26T07:53:27Z"
+  },
+  {
     "title": "Zelensky Publicly Rejected Trump's Peace Plan, Preferring Push For Maximalist Total Victory Scenario",
     "description": "Even as talks progress and Trump says there is hope for a deal, Zelensky saying the Ukrainian constitution calls for total victory.\nThe post Zelensky Publicly Rejected Trump\u2019s Peace Plan, Preferring Push For Maximalist Total Victory Scenario appeared first on\u2026",
     "link": "https://www.breitbart.com/europe/2025/04/26/zelensky-publicly-rejected-trumps-peace-plan-preferring-push-for-maximalist-total-victory-scenario/",
@@ -246,15 +294,15 @@
     "timestamp": "2025-04-26T06:00:06Z"
   },
   {
-    "title": "HHS Secretary Kennedy considers removing COVID-19 vaccine from childhood immunization schedule",
-    "description": "HHS Secretary Robert F. Kennedy Jr. is considering removing the COVID-19 vaccine from the CDC\u2019s childhood immunization schedule, reflecting ongoing debates over vaccine efficacy and safety. This potential change marks a significant shift in policy, as the CDC\u2026",
-    "link": "https://www.naturalnews.com/2025-04-26-kennedy-considers-removing-covid19-vaccine-immunization-schedule.html",
-    "timestamp": "2025-04-26T06:00:00Z"
-  },
-  {
     "title": "HARVARD POLL: Congressional Democrats\u2019 approval among young voters plummets, GOP gains ground",
     "description": "Approval of Congressional Democrats among young voters (18-29) has plummeted 19 points since 2017 (from 42 percent to 23 percent), while GOP approval slightly rose (28 percent to 29 percent). White millennial men now favor Republicans 46 percent to 37 percent\u2026",
     "link": "https://www.naturalnews.com/2025-04-26-congressional-dems-approval-among-young-voters-plummets.html",
+    "timestamp": "2025-04-26T06:00:00Z"
+  },
+  {
+    "title": "HHS Secretary Kennedy considers removing COVID-19 vaccine from childhood immunization schedule",
+    "description": "HHS Secretary Robert F. Kennedy Jr. is considering removing the COVID-19 vaccine from the CDC\u2019s childhood immunization schedule, reflecting ongoing debates over vaccine efficacy and safety. This potential change marks a significant shift in policy, as the CDC\u2026",
+    "link": "https://www.naturalnews.com/2025-04-26-kennedy-considers-removing-covid19-vaccine-immunization-schedule.html",
     "timestamp": "2025-04-26T06:00:00Z"
   },
   {
@@ -484,35 +532,5 @@
     "description": "Pope Francis is being laid to rest in ceremony reflecting his priorities as pope and wishes as pastor",
     "link": "https://abcnews.go.com/International/wireStory/pope-francis-funeral-set-begin-ceremony-helped-reimagine-121184272",
     "timestamp": "2025-04-26T04:46:23Z"
-  },
-  {
-    "title": "StormBreaker Advanced Glide Bomb Lands In Yemen Largely Intact",
-    "description": "Cutting-edge StormBreaker was only recently confirmed as being used in combat and could be of major intelligence value to an adversary. By signing up you agree to our Terms of Service and Privacy Policy. The wreckage of a GBU-53/B StormBreaker glide bomb, als\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4313347/posts",
-    "timestamp": "2025-04-26T04:40:30Z"
-  },
-  {
-    "title": "Pope Francis\u2019 funeral is set to begin, in a ceremony he helped reimagine",
-    "description": "As many as 200,000 people are expected to attend the funeral, which Francis choreographed himself.",
-    "link": "https://www.bostonherald.com/2025/04/26/pope-francis-funeral/",
-    "timestamp": "2025-04-26T04:38:40Z"
-  },
-  {
-    "title": "Pope Francis\u2019 funeral is set to begin, in a ceremony he helped reimagine",
-    "description": "As many as 200,000 people are expected to attend the funeral, which Francis choreographed himself.",
-    "link": "https://www.denverpost.com/2025/04/25/pope-francis-funeral/",
-    "timestamp": "2025-04-26T04:38:40Z"
-  },
-  {
-    "title": "Trump's Deportation Policies Could Worsen Social Security's Funding Shortfall by 11%, Warns New Report",
-    "description": "The Trump administration's immigration policies could weaken Social Security's financial health without changing any laws, threatening a program that millions of Americans rely on for retirement security.",
-    "link": "https://www.benzinga.com/news/25/04/45025822/trumps-deportation-policies-could-worsen-social-securitys-funding-shortfall-by-11-warns-new-report",
-    "timestamp": "2025-04-26T04:37:45Z"
-  },
-  {
-    "title": "Wall Street Week Ahead: Big tech earnings, US jobs data highlight busy week for markets",
-    "description": "The US stock market is set for a crucial week. Corporate results from Apple and Microsoft are awaited. Global trade developments could bring volatility. US employment report and economic growth data are also due. Investors are assessing if the recent market s\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-big-tech-earnings-us-jobs-data-highlight-busy-week-for-markets/articleshow/120636880.cms",
-    "timestamp": "2025-04-26T04:31:45Z"
   }
 ]
