@@ -1,5 +1,23 @@
 [
   {
+    "title": "Gold slumps 1% as US-China trade tensions ease",
+    "description": "Gold prices fell over 1% on Monday as easing trade relations between the US and China increased market confidence and reduced safe-haven demand.Last week, US President Donald Trump indicated a possibl...",
+    "link": "https://biztoc.com/x/c211a7f7ecb39a2f",
+    "timestamp": "2025-04-28T09:40:15Z"
+  },
+  {
+    "title": "PoC rootkit Curing evades traditional Linux detection systems",
+    "description": "Researchers created a PoC rootkit called Curing that uses Linux\u2019s io_uring feature to evade traditional system call monitoring. Armo researchers have demonstrated a proof-of-concept (PoC) rootkit named\u00a0Curing\u00a0that relies on Linux asynchronous I/O mechanism io\u2026",
+    "link": "https://securityaffairs.com/177098/hacking/poc-rootkit-curing-evades-traditional-linux-detection-systems.html",
+    "timestamp": "2025-04-28T09:38:36Z"
+  },
+  {
+    "title": "The $160 Billion Fund Behind Novo Nordisk Puts Investing on Hold",
+    "description": "The $160 billion fund behind Ozempic-maker Novo Nordisk A/S says President Donald Trump\u2019s tariff war has created so much economic uncertainty that it now sees little likelihood it will move ahead with any big investments.",
+    "link": "https://financialpost.com/pmn/business-pmn/the-160-billion-fund-behind-novo-nordisk-puts-investing-on-hold",
+    "timestamp": "2025-04-28T09:37:58Z"
+  },
+  {
     "title": "Aging army tanks donated to Ukraine are yet to leave Australia",
     "description": "A fleet of retired tanks the Albanese government pledged to Ukraine last year remain stuck in Australia, with defence figures in part blaming resistance from the United States for their delayed transfer.",
     "link": "https://www.abc.net.au/news/2025-04-28/aging-tanks-donated-to-ukraine-are-yet-to-leave-australia/105226280",
@@ -556,29 +574,5 @@
     "description": "For 14 of the last 15 federal elections, the party taking the most seats in Ontario has also formed government. Tonight we'll learn whether that trend continues.",
     "link": "https://www.cbc.ca/news/canada/toronto/federal-election-setup-ontario-1.7516853",
     "timestamp": "2025-04-28T08:00:00Z"
-  },
-  {
-    "title": "China\u2019s billion-dollar footprint near Florida coast poses US national security risk, expert warns",
-    "description": "China is expanding its influence in the Caribbean and Americas through diplomacy, infrastructure and strategic partnerships, an expert warned.",
-    "link": "https://www.foxnews.com/us/china-billion-dollar-footprint-near-florida-coast-poses-us-national-security-risk-expert-warns",
-    "timestamp": "2025-04-28T08:00:00Z"
-  },
-  {
-    "title": "China and Philippines unfurl competing flags on disputed South China Sea sandbars, reviving tensions | CNN",
-    "description": "China and the Philippines have each unfurled their national flags on tiny sandbars in the South China Sea, staking competing sovereignty claims in strategic waters seen as a potential flashpoint for global conflict.",
-    "link": "https://www.cnn.com/2025/04/28/asia/china-philippines-sandy-cave-dispute-intl-hnk/index.html",
-    "timestamp": "2025-04-28T07:59:04Z"
-  },
-  {
-    "title": "'Awful Awful Awful':\u00a0CNN Data Chief Exposes Trump's 'Just Horrible' New Poll",
-    "description": "Harry Enten says \"the American people do not like what they are seeing\" from the president.",
-    "link": "https://www.huffpost.com/entry/harry-enten-trump-awful-poll_n_680f196ce4b049bc73d55cf3",
-    "timestamp": "2025-04-28T07:55:21Z"
-  },
-  {
-    "title": "Stock Futures Fall After a Strong Week. Jobs, Microsoft, Apple Earnings Ahead.",
-    "description": "Dow, S&P 500, and Nasdaq 100 futures are falling in premarket trading as the stock market braces for another busy week of Trump tariff news and earnings.",
-    "link": "https://www.barrons.com/livecoverage/stock-market-today-042825",
-    "timestamp": "2025-04-28T07:52:31Z"
   }
 ]
