@@ -1,5 +1,449 @@
 [
   {
+    "title": "Trump Admin Ends All Beagle Experimentation at NIH",
+    "description": "Dr. Jay Bhattacharya announced the closure of the National Institutes of Health's last remaining beagle experiment lab over the weekend.",
+    "link": "https://www.breitbart.com/health/2025/05/04/trump-admin-ends-all-beagle-experimentation-nih/",
+    "timestamp": "2025-05-05T01:47:39Z"
+  },
+  {
+    "title": "Trump announces 100 per cent tariffs on movies made outside of America",
+    "description": "In a post to Truth Social, Donald Trump has announced his plan to rejuvenate the American film industry, with a 100 per cent tariff on movies produced overseas.",
+    "link": "https://www.abc.net.au/news/2025-05-05/donald-trump-foreign-movies-tariff/105253020",
+    "timestamp": "2025-05-05T01:45:07Z"
+  },
+  {
+    "title": "Former Vice President Pence will receive the Profile in Courage Award for his actions on Jan. 6",
+    "description": "BOSTON \u2014 Former Vice President Mike Pence on Sunday will receive the John F. Kennedy Profile in Courage Award for his refusal to go along with President Donald Trump\u2019s efforts to remain in office after losing the 2020 election... The award recognizes Pence \u201cf\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4315061/posts",
+    "timestamp": "2025-05-05T01:44:22Z"
+  },
+  {
+    "title": "Trump announces 100% tariff for movies produced outside US: \u2018National Security threat\u2019",
+    "description": "\"This is a concerted effort by other Nations and, therefore, a National Security threat. It is, in addition to everything else, messaging and propaganda,\" Trump said in a post on Truth Social.",
+    "link": "https://nypost.com/2025/05/04/us-news/trump-announces-100-tariff-for-movies-produced-outside-us-national-security-threat/",
+    "timestamp": "2025-05-05T01:43:34Z"
+  },
+  {
+    "title": "Trump orders reopening of Alcatraz prison to jail \u2018America\u2019s most ruthless offenders\u2019",
+    "description": "Donald Trump Alcatraz Prison: Donald Trump orders rebuilding and reopening of Alcatraz. He wants to house America's most violent offenders there. Alcatraz previously held criminals like Al Capone. It closed in 1963 due to high operating costs. Trump calls reo\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-orders-reopening-of-alcatraz-prisons-to-jail-americas-most-ruthless-offenders/articleshow/120884394.cms",
+    "timestamp": "2025-05-05T01:40:25Z"
+  },
+  {
+    "title": "Washington, D.C. reportedly set to host 2027 NFL Draft as Commanders prepare to return to the city",
+    "description": "Washington, D.C., and Denver had both submitted bids to host the 2027 NFL Draft.",
+    "link": "https://sports.yahoo.com/nfl/article/washington-dc-reportedly-set-to-host-2027-nfl-draft-as-commanders-prepare-to-return-to-the-city-013603311.html",
+    "timestamp": "2025-05-05T01:36:03Z"
+  },
+  {
+    "title": "Donald Trump Reveals If He's Really Seeking Third Term as US President",
+    "description": "Donald Trump is addressing if he\u2019ll be running for office for a third term as President of the United States. The 78-year-old has previously suggested that he would be trying to serve a third term, despite the constitution stating that a President can be elec\u2026",
+    "link": "https://www.justjared.com/2025/05/04/donald-trump-reveals-if-hes-really-seeking-third-term-as-us-president/",
+    "timestamp": "2025-05-05T01:30:49Z"
+  },
+  {
+    "title": "Trump to Impose 100% Tariff on Movies Produced in Foreign Countries: 'We Want Movies Made in America Again'",
+    "description": "President Donald Trump revealed that his administration will be imposing a 100 percent tariff \"on any and all\" movies coming into the United States that are produced in foreign countries, noting that the film industry in the U.S. was \"dying.\"",
+    "link": "https://www.breitbart.com/entertainment/2025/05/04/trump-to-impose-100-tariff-on-movies-produced-in-foreign-countries-we-want-movies-made-in-america-again/",
+    "timestamp": "2025-05-05T01:30:15Z"
+  },
+  {
+    "title": "Letters: Government needs to do more if its concerns about Gaza are to be believed",
+    "description": "Ireland is in a moral trough, with our failure to effectively assist Gaza, despite our insights and empathy.",
+    "link": "https://www.independent.ie/opinion/letters/letters-government-needs-to-do-more-if-its-concerns-about-gaza-are-to-be-believed/a1278126028.html",
+    "timestamp": "2025-05-05T01:30:00Z"
+  },
+  {
+    "title": "Donald Trump says he \u2018doesn\u2019t know\u2019 if he must uphold?constitution",
+    "description": "Donald Trump has said he does not know if he has to uphold the US constitution, the nation\u2019s founding legal document.",
+    "link": "https://www.independent.ie/world-news/north-america/donald-trump-says-he-doesnt-know-if-he-must-upholdconstitution/a198835924.html",
+    "timestamp": "2025-05-05T01:30:00Z"
+  },
+  {
+    "title": "Election win gives Anthony Albanese a strong hand to deal with Trump",
+    "description": "Australian prime minister Anthony Albanese is likely to work more closely with centre-left governments in the UK and Canada, as well as other democratic allies, after a resounding election win strengthened his hand in dealing with the US, analysts said.",
+    "link": "https://www.independent.ie/opinion/analysis/election-win-gives-anthony-albanese-a-strong-hand-to-deal-with-trump/a225993503.html",
+    "timestamp": "2025-05-05T01:30:00Z"
+  },
+  {
+    "title": "The week ahead in business: Bank of England rate cuts, Start-Up Day at the Aviva Stadium and National Development Plan roundtable",
+    "description": "While there is no sign that the Federal Reserve in America is planning to cut interest rates any time soon, much to the annoyance of US president Donald Trump, there is likely to be a reduction across the water this week.",
+    "link": "https://www.independent.ie/business/the-week-ahead-in-business-bank-of-england-rate-cuts-start-up-day-at-the-aviva-stadium-and-national-development-plan-roundtable/a390549773.html",
+    "timestamp": "2025-05-05T01:30:00Z"
+  },
+  {
+    "title": "Does he need to uphold constitution as prez? Trump says, 'I don't know'",
+    "description": "President Donald Trump said in an interview that aired on Sunday that he did not know whether every person on American soil was entitled to due proces.",
+    "link": "https://timesofindia.indiatimes.com/world/us/does-he-need-to-uphold-constitution-as-prez-trump-says-i-dont-know/articleshow/120884314.cms",
+    "timestamp": "2025-05-05T01:26:20Z"
+  },
+  {
+    "title": "Trump Orders 100% Tariff On Movies Produced Outside US",
+    "description": "US President Donald Trump said on Monday that he has ordered his officials to impose a 100% tariff on films produced overseas, which would further escalate his trade war.",
+    "link": "https://www.ndtv.com/world-news/trump-orders-100-tariff-on-movies-produced-outside-us-8331661",
+    "timestamp": "2025-05-05T01:24:46Z"
+  },
+  {
+    "title": "Trump Says he Will Reopen Alcatraz Prison",
+    "description": "President Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a hard-to-reach California island off San Francisco that has been closed for more than 60 years. In a post on his Truth Social site Sunday\u2026",
+    "link": "https://www.kqed.org/news/12038676/trump-says-he-will-reopen-alcatraz-prison",
+    "timestamp": "2025-05-05T01:24:39Z"
+  },
+  {
+    "title": "President Trump orders reopening of infamous Alcatraz prison",
+    "description": "The federal prison at Alcatraz housed notorious U.S. criminals such as Al Capone before it closed in 1963.",
+    "link": "https://www.usatoday.com/story/news/politics/2025/05/04/donald-trump-alcatraz-prison/83449658007/",
+    "timestamp": "2025-05-05T01:19:43Z"
+  },
+  {
+    "title": "Relatives urge North Korea to release abductees",
+    "description": "The news conference was held after members of the association returned from a trip to the United States.",
+    "link": "https://www.japantimes.co.jp/news/2025/05/05/japan/north-korea-abductees-relatives/",
+    "timestamp": "2025-05-05T01:19:00Z"
+  },
+  {
+    "title": "'She can't even think straight': Trump blasts Mexico's Sheinbaum for rejecting offer to send US troops into Mexico to fight cartels",
+    "description": "Donald Trump proposed sending American troops to Mexico to fight drug cartels. Claudia Sheinbaum declined the offer, emphasizing Mexico's sovereignty. Sheinbaum stated that Mexico would never accept U.S. military presence. Trump expressed disappointment, sugg\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/she-cant-even-think-straight-trump-blasts-mexicos-sheinbaum-for-rejecting-offer-to-send-us-troops-into-mexico-to-fight-cartels/articleshow/120884284.cms",
+    "timestamp": "2025-05-05T01:18:42Z"
+  },
+  {
+    "title": "Trump says he will reopen Alcatraz prison",
+    "description": "President Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a hard-to-reach California island off San Francisco that has been closed for more than 60 years.",
+    "link": "https://www.denverpost.com/2025/05/04/trump-alcatraz-prison/",
+    "timestamp": "2025-05-05T01:17:21Z"
+  },
+  {
+    "title": "Vance Angrily Defends \u2018Pope Trump\u2019 Meme in Clash With Kristol: \u2018Fine With Telling Jokes\u2026 Not With Starting Wars\u2019",
+    "description": "The Vice President and the Bulwark writer got into a tiff over the weekend regarding the meme shared by Trump depicting himself as a new Pope.\nThe post Vance Angrily Defends \u2018Pope Trump\u2019 Meme in Clash With Kristol: \u2018Fine With Telling Jokes\u2026 Not With Starting \u2026",
+    "link": "https://www.mediaite.com/trump/vance-angrily-defends-pope-trump-meme-in-clash-with-kristol-fine-with-telling-jokes-not-with-starting-wars/",
+    "timestamp": "2025-05-05T01:16:10Z"
+  },
+  {
+    "title": "Democracy in Nepal: A ritual without substance?",
+    "description": "Democratic politics matters not simply because it provides a system for choosing leaders through periodic elections, but because it holds the promise of institutionalizing justice, dignity, inclusion, and accountability. A substantial body of political scienc\u2026",
+    "link": "https://english.khabarhub.com/2025/05/463923/",
+    "timestamp": "2025-05-05T01:15:46Z"
+  },
+  {
+    "title": "Trump considering Stephen Miller for National Security Adviser role",
+    "description": "President Trump tells reporters he may tap Stephen Miller to replace Mike Waltz, who was ousted after sharing sensitive Yemen strike plans.",
+    "link": "https://www.israelnationalnews.com/news/407843",
+    "timestamp": "2025-05-05T01:15:44Z"
+  },
+  {
+    "title": "Nordics hope to attract U.S. researchers alienated by Trump",
+    "description": "Experts have voiced concerns that Trump's cuts to American research threaten the United States' standing as a global science leader.",
+    "link": "https://www.japantimes.co.jp/news/2025/05/05/world/science-health/nordics-us-researchers-trump/",
+    "timestamp": "2025-05-05T01:14:00Z"
+  },
+  {
+    "title": "Trump says he will reopen infamous Alcatraz prison for 'vicious' criminals",
+    "description": "The order comes as Trump has been clashing with the courts as he tries to send accused gang members to a prison in El Salvador, without due process. Trump has also directed the opening of a detention centre\u00a0at Guantanamo Bay to hold up to 30,000 of what he ha\u2026",
+    "link": "https://www.cbc.ca/news/world/trump-reopen-alcatraz-1.7526332",
+    "timestamp": "2025-05-05T01:13:02Z"
+  },
+  {
+    "title": "A Tale of Two Elections: Trump Casts Shadow Over Australia and Singapore - Council on Foreign Relations",
+    "description": "A Tale of Two Elections: Trump Casts Shadow Over Australia and SingaporeCouncil on Foreign Relations A New Trend in Global Elections: The Anti-Trump BumpThe New York Times Blaming Donald Trump for conservative losses in both Canada and Australia is being too \u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=177317519",
+    "timestamp": "2025-05-05T01:12:38Z"
+  },
+  {
+    "title": "Trump announces new 100% tariffs on all foreign movies",
+    "description": "President Donald Trump announced plans Sunday to implement a 100% tariff on movies made in other countries that are imported to the United States, decrying other nations for offering financial incentives meant to \u201cdraw our filmmakers and studios away from the\u2026",
+    "link": "https://www.nbcnews.com/politics/trump-administration/trump-announces-new-tariffs-foreign-movies-rcna204747",
+    "timestamp": "2025-05-05T01:11:14Z"
+  },
+  {
+    "title": "Trump Will Start Nominating Federal Judges \u2018Rapidly,\u2019 He Says",
+    "description": "President Donald Trump will nominate federal judges \u201crapidly,\u201d he told The Daily Signal on Sunday night. \u201cWe\u2019re putting them in rapidly and trying to get... Read More\nThe post Trump Will Start Nominating Federal Judges \u2018Rapidly,\u2019 He Says appeared first on The\u2026",
+    "link": "https://www.dailysignal.com/2025/05/04/trump-will-start-nominating-federal-judges-rapidly-he-says/",
+    "timestamp": "2025-05-05T01:11:02Z"
+  },
+  {
+    "title": "Share Market Highlights: Sensex rises 295 points, Nifty hits 24,461 on foreign inflows; Oil & Gas stocks rally",
+    "description": "Sensex, Nifty updates on 5 May 2025: Indian equity benchmarks ended higher on Monday, supported by strong foreign inflows, optimism over a potential India-U.S. trade deal, and falling crude oil prices. The Nifty 50 rose 0.47% to close at 24,461.15, while the \u2026",
+    "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-5-may-2025/article69537324.ece",
+    "timestamp": "2025-05-05T01:10:23Z"
+  },
+  {
+    "title": "Trump insists on the annexation of Greenland: \u201cI do not rule out the use of military force\u201d",
+    "description": "The governments of both Greenland and Denmark continue to categorically reject the ambitions of the American president\nThe post Trump insists on the annexation of Greenland: \u201cI do not rule out the use of military force\u201d appeared first on ProtoThema English.",
+    "link": "https://en.protothema.gr/2025/05/05/trump-insists-on-the-annexation-of-greenland-i-do-not-rule-out-the-use-of-military-force/",
+    "timestamp": "2025-05-05T01:09:45Z"
+  },
+  {
+    "title": "Newborn U.S. citizen and Guatemalan mom detained as she faces deportation",
+    "description": "A Guatemalan woman who gave birth to an American baby four days ago is being held along with her newborn as she faces deportation, U.S. officials said.",
+    "link": "https://www.nbcnews.com/news/us-news/newborn-us-citizen-guatemalan-mom-detained-faces-deportation-rcna204727",
+    "timestamp": "2025-05-05T01:09:05Z"
+  },
+  {
+    "title": "Donald Trump Wants to Impose a \u2018100% Tariff\u2019 on U.S. Films Made Outside the Country",
+    "description": "Trump said he wants to enact a 100 percent tariff on U.S. films produced in 'foreign lands.'",
+    "link": "http://www.rollingstone.com/politics/politics-news/donald-trump-movies-tariffs-hollywood-1235331166/",
+    "timestamp": "2025-05-05T01:08:51Z"
+  },
+  {
+    "title": "Trump orders \u2019100% tariff\u2019 on all movies produced abroad",
+    "description": "US President orders tariffs on foreign films, claiming Hollywood is being 'devastated'.",
+    "link": "https://www.nzherald.co.nz/business/trump-orders-100-tariff-on-all-movies-produced-abroad/RRT2HZ4GS5FYJP4GMO5YISE2ZI/",
+    "timestamp": "2025-05-05T01:08:02Z"
+  },
+  {
+    "title": "Trump\u2019s \u2018100% tariff\u2019 on non-American movies sounds bad for anime",
+    "description": "On Sunday night, President Donald Trump announced his latest tariff target: cinema. Trump\u2019s fast-and-loose approach to trade war has already has caused ripple effects in everything from handheld gaming to the board game industry, but his latest proclamation i\u2026",
+    "link": "https://www.polygon.com/movies/597689/trump-movie-tariff",
+    "timestamp": "2025-05-05T01:06:22Z"
+  },
+  {
+    "title": "Trump orders feds to reopen Alcatraz to house 'America's most ruthless and violent' criminals (Fox News)",
+    "description": "Fox News:\nTrump orders feds to reopen Alcatraz to house 'America's most ruthless and violent' criminals\u00a0 \u2014\u00a0 President Donald Trump is calling for the notorious prison and now historical landmark, Alcatraz, in San Francisco, California, to be rebuilt larger an\u2026",
+    "link": "https://www.memeorandum.com/250504/p69",
+    "timestamp": "2025-05-05T01:05:00Z"
+  },
+  {
+    "title": "Tech site 404 Media says Signal-like app used by Trump adviser was hacked",
+    "description": "WASHINGTON :The unofficial version of Signal used by Donald Trump's former National Security Adviser Mike Waltz has been hacked, tech site 404 Media said Sunday, raising further concern over the security of the communications exchanged at the highest levels o\u2026",
+    "link": "https://www.channelnewsasia.com/business/tech-site-404-media-says-signal-app-used-trump-adviser-was-hacked-5108706",
+    "timestamp": "2025-05-05T01:04:17Z"
+  },
+  {
+    "title": "Trump criticised after posting AI image of himself as Pope",
+    "description": "US President Donald Trump has attracted criticism from some Catholics after posting an AI-generated image of himself as the Pope. The picture, which was shared by official White House social media accounts, comes as Catholics mourn the death of Pope Francis, \u2026",
+    "link": "https://thechronicle.com.gh/trump-criticised-after-posting-ai-image-of-himself-as-pope/",
+    "timestamp": "2025-05-05T01:04:09Z"
+  },
+  {
+    "title": "Trump Blasts Mexican President For Rejecting Offer To Send U.S. Troops Into Mexico To Fight Cartels",
+    "description": "Mexican President Claudia Sheinbaum said that U.S. troops operating inside Mexico was going too far.",
+    "link": "https://www.huffpost.com/entry/trump-blasts-mexican-president-rejecting-offer-send-troops-fight-cartels_n_68180a9ae4b0e811371e4287",
+    "timestamp": "2025-05-05T01:00:41Z"
+  },
+  {
+    "title": "Trump orders reopening of notorious Alcatraz prison",
+    "description": "President Trump says the famous island prison off San Francisco is to be reopened to house \"ruthless and violent\" offenders.",
+    "link": "https://www.bbc.com/news/articles/cze17n02gego",
+    "timestamp": "2025-05-05T01:00:36Z"
+  },
+  {
+    "title": "Oil slumps after OPEC+ plan, US stock futures drop",
+    "description": "Crude oil fell 3.4% after the group of oil-producing nations continued an accelerated revival of supply that\u2019s sent prices plunging. US equity-index futures dropped 0.5%, extending their decline after US President Donald Trump said he had no plans to talk to \u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-slumps-after-opec-plan-us-stock-futures-drop/articleshow/120884139.cms",
+    "timestamp": "2025-05-05T01:00:10Z"
+  },
+  {
+    "title": "Trump says he will put 100% tariff on all foreign films",
+    "description": "US president claims that Hollywood is undergoing a 'very fast death' despite raking in $30bn in revenues in 2024.",
+    "link": "https://www.aljazeera.com/news/2025/5/5/trump-says-he-will-put-100-tariff-on-all-foreign-films",
+    "timestamp": "2025-05-05T00:59:06Z"
+  },
+  {
+    "title": "A \u2018Trump slump\u2019 has lifted the left in Canada and now Australia \u2013 what are the lessons for NZ?",
+    "description": "The \u2018Trump effect\u2019 has influenced elections in Canada and Australia. But the New Zealand left can\u2019t bank on the same thing happening here.",
+    "link": "https://theconversation.com/a-trump-slump-has-lifted-the-left-in-canada-and-now-australia-what-are-the-lessons-for-nz-255715",
+    "timestamp": "2025-05-05T00:55:02Z"
+  },
+  {
+    "title": "Beneath the Surface: Is the Trump-Netanyahu \u2018Unthinkable\u2019 About To Erupt?",
+    "description": "Israeli Prime Minister Benjamin Netanyahu\u2019s recent\u00a0visit\u00a0to Washington was no ordinary trip. The consensus among Israeli analysts, barring a few remaining loyalists, is that Netanyahu was not invited but,\u00a0rather, summoned by US President Donald Trump. All evi\u2026",
+    "link": "https://www.activistpost.com/beneath-the-surface-is-the-trump-netanyahu-unthinkable-about-to-erupt/",
+    "timestamp": "2025-05-05T00:55:00Z"
+  },
+  {
+    "title": "White House Turns Donald Trump Into Sith Lord in Divisive \u2018May the Fourth\u2019 Post",
+    "description": "For more than a decade, fans around the world have come together on May 4 to celebrate\u00a0Star Wars\u00a0Day, coined with the phrase, \u201cMay the fourth be with you.\u201d Fans will continue to celebrate on May 5 and May 6, and they are a bit divided on what sounds better \u2014 \u2026",
+    "link": "https://insidethemagic.net/2025/05/white-house-turns-donald-trump-into-sith-lord-in-divisive-may-the-fourth-post-ks1/",
+    "timestamp": "2025-05-05T00:54:31Z"
+  },
+  {
+    "title": "Trump calls for reopening of Alcatraz to house 'most ruthless and violent offenders'",
+    "description": "US President Donald Trump has called for the reopening of notorious prison Alcatraz.",
+    "link": "https://news.sky.com/story/trump-calls-for-reopening-of-alcatraz-to-house-most-ruthless-and-violent-offenders-13362068",
+    "timestamp": "2025-05-05T00:53:00Z"
+  },
+  {
+    "title": "Trump confirms US offered to help Mexico in cartel fight",
+    "description": "United States President Donald Trump confirmed that he offered Mexico his country's help in fighting cartels.Speaking to the press while returning to the White House, Trump said he told his Mexican co...",
+    "link": "https://biztoc.com/x/29935b4b5aa1b868",
+    "timestamp": "2025-05-05T00:52:42Z"
+  },
+  {
+    "title": "Ending foreign aid, military assistance could re-orient US-Israel relationship",
+    "description": "WASHINGTON WATCH | Slashing military financing will elevate Israel to a \u201ctrue strategic partnership\u201d with the US, thinks the Heritage Foundation.",
+    "link": "https://www.jpost.com/israel-news/article-852629",
+    "timestamp": "2025-05-05T00:44:55Z"
+  },
+  {
+    "title": "Trump says ordering '100% tariff' on all movies produced abroad",
+    "description": "WASHINGTON: President Donald Trump said Sunday (May 4) he was ordering new tariffs on all films made outside the United States, claiming Hollywood was being \"devastated\" by a trend of US filmmakers and studios working abroad. The announcement comes as the Whi\u2026",
+    "link": "https://www.channelnewsasia.com/world/us-president-donald-trump-orders-100-cent-tariff-movies-produced-abroad-5108641",
+    "timestamp": "2025-05-05T00:42:57Z"
+  },
+  {
+    "title": "Donald Trump Announces Alcatraz Will \u201cRebuild And Open\u201d As Prison",
+    "description": "After raising red flags with his administration\u2019s plans to deport and jail U.S. citizens abroad, Donald Trump is reopening one of the country\u2019s most notorious prisons. On Sunday, the president announced plans to \u201crebuild and open\u201d Alcatraz Federal Penitentiar\u2026",
+    "link": "http://deadline.com/2025/05/donald-trump-alcatraz-rebuild-open-prison-1236385007/",
+    "timestamp": "2025-05-05T00:41:37Z"
+  },
+  {
+    "title": "Trump says non-US movies to be hit with 100% tariffs",
+    "description": "Trump says non-US movies to be hit with 100% tariffs\nUS President Donald Trump says he plans to hit movies made in foreign countries with 100% tariffs, as he ramps up trade disputes with countries around the world.\nTrump said he was authorising the US Trade R\u2026",
+    "link": "https://biztoc.com/x/ad9b03c9f3901afb",
+    "timestamp": "2025-05-05T00:41:36Z"
+  },
+  {
+    "title": "Trump Announces 100% Tariff on Movies Made Outside of America",
+    "description": "Trump claims movies being made outside of the US are a \"national security threat.\"\nTrump Announces 100% Tariff on Movies Made Outside of America\nAlex Young",
+    "link": "https://consequence.net/2025/05/trump-movie-tariff/",
+    "timestamp": "2025-05-05T00:40:37Z"
+  },
+  {
+    "title": "Global factories struggle to overcome Trump tariffs and uncertainty",
+    "description": "Purchasing manager indexes across Asia, along with revised numbers in Europe, showed new or persisting contractions in factory activity in April.",
+    "link": "https://www.japantimes.co.jp/business/2025/05/05/economy/factories-trump-tariffs-uncertainty/",
+    "timestamp": "2025-05-05T00:39:00Z"
+  },
+  {
+    "title": "US president Donald Trump announces 100% tariffs on all movies produced abroad to protect Hollywood",
+    "description": "Donald Trump announced new tariffs on foreign films. He claims Hollywood is suffering due to US filmmakers working abroad. Trump authorized the Commerce Department to impose a 100% tariff on imported movies. This follows China's reduction of US film imports. \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-ordering-100-tariff-on-all-movies-produced-abroad/articleshow/120883991.cms",
+    "timestamp": "2025-05-05T00:36:57Z"
+  },
+  {
+    "title": "Trump announces 100% tariff on all foreign-produced movies: 'WE WANT MOVIES MADE IN AMERICA, AGAIN!'",
+    "description": "President Donald Trump took to social media on Sunday to express his dissatisfaction with the film industry and announced his plans to impose a movie-related tariff.",
+    "link": "https://www.foxnews.com/politics/trump-announces-100-tariff-all-foreign-produced-movies-we-want-movies-made-america-again",
+    "timestamp": "2025-05-05T00:34:02Z"
+  },
+  {
+    "title": "Trump raises doubt over Americans' right to due process",
+    "description": "In a wideranging interview covering his plans for Canada, the economy and a possible third term, US President Donald Trump says he does not know whether Americans have a right to due process as laid out in the country's constitution.",
+    "link": "https://www.abc.net.au/news/2025-05-05/trump-raises-doubt-over-americans-right-to-due-process/105252212",
+    "timestamp": "2025-05-05T00:33:24Z"
+  },
+  {
+    "title": "Trump says non-US movies to be hit with 100% tariffs",
+    "description": "The president blamed foreign-made movies for the American film industry's \"very fast death\".",
+    "link": "https://www.bbc.com/news/articles/cjr7e2z1rxyo",
+    "timestamp": "2025-05-05T00:32:54Z"
+  },
+  {
+    "title": "President Trump shares intent to reopen Alcatraz as a prison",
+    "description": "In the post, the president said placing convicts at Alcatraz would keep \"dangerous criminals\" away from anyone they could harm.",
+    "link": "https://www.kcra.com/article/president-trump-wants-to-reopen-alcatraz-prison/64666131",
+    "timestamp": "2025-05-05T00:26:34Z"
+  },
+  {
+    "title": "Jasmine Crockett claims Trump is 'terrified of smart, bold Black women\u2019 after president\u2019s 'low IQ' jab",
+    "description": "Democrat Rep. Crockett responded to President Donald Trump on X over remarks he made about her IQ during a recent TV interview.",
+    "link": "https://www.foxnews.com/politics/jasmine-crockett-claims-trump-terrified-smart-bold-black-women-after-presidents-low-iq-jab",
+    "timestamp": "2025-05-05T00:24:10Z"
+  },
+  {
+    "title": "Trump says ordered rebuild and reopening of defunct US prison Alcatraz",
+    "description": "SAN FRANCISCO: US President Donald Trump said on Sunday (May 4) that he was directing the Federal Bureau of Prisons to rebuild and reopen the infamous Alcatraz prison in the San Francisco Bay to \"house America\u2019s most ruthless and violent Offenders\". \"REBUILD,\u2026",
+    "link": "https://www.channelnewsasia.com/world/us-president-donald-trump-ordered-rebuild-reopening-alcatraz-prison-san-francisco-5108581",
+    "timestamp": "2025-05-05T00:23:54Z"
+  },
+  {
+    "title": "\u2018May the 4th be with you\u2019: White House seriously gets into \u2018Star Wars Day\u2019",
+    "description": "Tells 'Radical Left lunatics': 'You're not the Rebellion \u2013 you're the Empire'",
+    "link": "https://www.wnd.com/2025/05/may-the-4th-be-with-you-white-house-seriously-gets-into-star-wars-day/",
+    "timestamp": "2025-05-05T00:20:40Z"
+  },
+  {
+    "title": "Dollar gets limited lift from jobs, trade questions linger",
+    "description": "The solid March payrolls report had offered the dollar support by lengthening the odds on a Federal Reserve rate cut in June, and making it more likely the...",
+    "link": "https://finance.yahoo.com/news/dollar-gets-limited-lift-jobs-002015269.html",
+    "timestamp": "2025-05-05T00:20:15Z"
+  },
+  {
+    "title": "Trump Plans to Impose 100% Tariff on All Movies Produced Outside of the U.S.",
+    "description": "In a post on Truth social, President Trump announced plans to impose a 100% tariff on all movies produced outside of the U.S.",
+    "link": "https://www.indiewire.com/news/breaking-news/trump-tariff-on-movies-produced-outside-of-u-s-1235120458/",
+    "timestamp": "2025-05-05T00:19:10Z"
+  },
+  {
+    "title": "US authorities have indicted Black Kingdom ransomware admin",
+    "description": "A 36-year-old Yemeni man behind Black Kingdom ransomware is indicted in the U.S. for 1,500 attacks on Microsoft Exchange servers. U.S. authorities have indicted Rami Khaled Ahmed (aka \u201cBlack Kingdom,\u201d of Sana\u2019a, Yemen), a 36-year-old Yemeni national, suspecte\u2026",
+    "link": "https://securityaffairs.com/177423/cyber-crime/us-authorities-have-indicted-black-kingdom-ransomware-admin.html",
+    "timestamp": "2025-05-05T00:15:28Z"
+  },
+  {
+    "title": "President Trump threatens 100% tariffs on foreign films: \u2018The movie industry in America is dying\u2019",
+    "description": "\u2018We want movies made in America, again!\u2019 proclaimed the President",
+    "link": "https://www.the-independent.com/arts-entertainment/films/news/trump-tariffs-movies-foreign-films-b2744829.html",
+    "timestamp": "2025-05-05T00:11:19Z"
+  },
+  {
+    "title": "Trump Says He Will Reopen Alcatraz Prison",
+    "description": "\u201cPresident Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a hard-to-reach California island that has been closed for more than 60 years,\u201d the AP reports.",
+    "link": "https://politicalwire.com/2025/05/04/trump-says-he-will-reopen-alcatraz-prison/",
+    "timestamp": "2025-05-05T00:09:31Z"
+  },
+  {
+    "title": "Trump Wants Tariff That Will Make Movies American Again",
+    "description": "Voice is AI-generated. Inconsistencies may occur.\nPresident Donald Trump on Sunday complained in a Truth Social post about the state of Hollywood, saying that a tariff would be a great way to resolve the \"dying\" industry.\nNewsweek reached out to the White Hou\u2026",
+    "link": "https://biztoc.com/x/39cb16a6780e2bd6",
+    "timestamp": "2025-05-05T00:08:46Z"
+  },
+  {
+    "title": "Trump Wants Tariff That Will Make Movies American Again",
+    "description": "President Donald Trump has started to expand the types of products that tariffs will affect.",
+    "link": "https://www.newsweek.com/trump-wants-tariffs-make-movies-american-again-2067916",
+    "timestamp": "2025-05-05T00:08:07Z"
+  },
+  {
+    "title": "Migrant children face fear and lack safety crossing Mexico, study shows",
+    "description": "(Reuters) - Migrant children crossing Mexico in hopes of reaching the United States face alarming levels of violence, exclusion and prolonged uncertainty before, during and after their journey, according to a study published on Monday by Save the Children and\u2026",
+    "link": "https://www.thestar.com.my/news/world/2025/05/05/migrant-children-face-fear-and-lack-safety-crossing-mexico-study-shows",
+    "timestamp": "2025-05-05T00:07:00Z"
+  },
+  {
+    "title": "Trump orders reopening of notorious Alcatraz prison: \u2018Way it\u2019s supposed to be\u2019",
+    "description": "\"When we were a more serious Nation, in times past, we did not hesitate to lock up the most dangerous criminals, and keep them far away from anyone they could harm. That\u2019s the way it\u2019s supposed to be,\u201d President Donald Trump wrote in a Truth Social post.",
+    "link": "https://nypost.com/2025/05/04/us-news/trump-orders-reopening-of-notorious-alcatraz-prison-way-its-supposed-to-be/",
+    "timestamp": "2025-05-05T00:05:25Z"
+  },
+  {
+    "title": "Trump orders a 100% tariff on foreign movies | CNN Business",
+    "description": "President Donald Trump on Sunday extended his trade war to the cinema.",
+    "link": "https://www.cnn.com/2025/05/04/media/movies-tariff-trump",
+    "timestamp": "2025-05-05T00:04:51Z"
+  },
+  {
+    "title": "MAGA Leaders Defend Americans' Right to Boycott Israel",
+    "description": "\"It is my job to defend American's rights to buy or boycott whomever they choose,\" Representative Marjorie Taylor Greene wrote on social media.",
+    "link": "https://www.newsweek.com/maga-leaders-defend-americans-right-boycott-israel-2067909",
+    "timestamp": "2025-05-05T00:01:59Z"
+  },
+  {
+    "title": "World's riskiest bonds lure traders back after tariff turmoil",
+    "description": "In April alone, the extra yield investors demand to own dollar-denominated junk bonds from emerging markets over Treasuries widened 37 basis points to 634 basis points. Meanwhile, credit-default swaps - a type of protection against defaults - saw limited dete\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/bonds/worlds-riskiest-bonds-lure-traders-back-after-tariff-turmoil/articleshow/120883532.cms",
+    "timestamp": "2025-05-05T00:01:25Z"
+  },
+  {
+    "title": "US Senator Warns of \u2018Backdoor\u2019 Way Trump and Musk Could Destroy Social Security \u2014 Is She Right?",
+    "description": "\u200bSenator Elizabeth Warren has issued a stark warning about what she describes as a \"backdoor\" effort by President Donald Trump and Elon Musk to dismantle...",
+    "link": "https://www.yahoo.com/news/us-senator-warns-backdoor-way-000104645.html",
+    "timestamp": "2025-05-05T00:01:04Z"
+  },
+  {
+    "title": "Australian markets set to rally after Prime Minister Albanese's reelection; most Asian markets closed for holiday",
+    "description": "Japanese, South Korean, Hong Kong and Chinese markets were closed for holidays.",
+    "link": "https://www.cnbc.com/2025/05/05/asia-markets-live-australia-markets-set-to-rally.html",
+    "timestamp": "2025-05-05T00:00:52Z"
+  },
+  {
+    "title": "Trump orders feds to reopen Alcatraz to house 'ruthless and violent' criminals",
+    "description": "President Trump directed his administration to reopen the notorious Alcatraz prison in San Francisco, to house America's most violent criminals.",
+    "link": "https://www.foxnews.com/politics/trump-orders-feds-reopen-alcatraz-house-americas-most-ruthless-violent-criminals",
+    "timestamp": "2025-05-05T00:00:34Z"
+  },
+  {
     "title": "The Trojan Horse Charges into the Future",
     "description": "On battlefields literal and virtual, fatal deception thrives.",
     "link": "https://www.hoover.org/research/trojan-horse-charges-future",
@@ -103,14 +547,14 @@
   },
   {
     "title": "Donald Trump Says He\u2019s Pursuing 100% Tariffs On Movies Produced Outside U.S., Calling Runaway Production \u201cA National Security Threat\u201d",
-    "description": "Donald Trump said that he is ordering the U.S. Trade Representative and the Commerce Department to begin the process to impose a 100% tariff on imports of movies that are produced in \u201cforeign lands.\u201d Calling runaway production a \u201cnational security threat,\u201d Tr\u2026",
-    "link": "http://deadline.com/2025/05/trump-movie-tariffs-hollywood-1236384980/",
+    "description": null,
+    "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_85624fe2-667e-4d07-a2e5-331fb49b5190",
     "timestamp": "2025-05-04T23:28:31Z"
   },
   {
     "title": "Donald Trump Says He\u2019s Pursuing 100% Tariffs On Movies Produced Outside U.S., Calling Runaway Production \u201cA National Security Threat\u201d",
-    "description": null,
-    "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_85624fe2-667e-4d07-a2e5-331fb49b5190",
+    "description": "Donald Trump said that he is ordering the U.S. Trade Representative and the Commerce Department to begin the process to impose a 100% tariff on imports of movies that are produced in \u201cforeign lands.\u201d Calling runaway production a \u201cnational security threat,\u201d Tr\u2026",
+    "link": "http://deadline.com/2025/05/trump-movie-tariffs-hollywood-1236384980/",
     "timestamp": "2025-05-04T23:28:31Z"
   },
   {
@@ -130,449 +574,5 @@
     "description": "United States President Donald Trump called for Alcatraz to be rebuilt and reopened, saying that the US has been \"plagued by vicious, violent, and repeat criminal offenders, the dregs of society, who ...",
     "link": "https://biztoc.com/x/0c1d42d2123e957d",
     "timestamp": "2025-05-04T23:24:27Z"
-  },
-  {
-    "title": "Arizona Governor Shoots Down Plans for State Bitcoin Reserve",
-    "description": "Arizona\u2019s governor has vetoed legislation that would have let the state invest in cryptocurrency. \u201cThe Arizona State Retirement System is one of the strongest in the nation because it makes sound and informed investments,\u201d Gov. Katie Hobbs wrote Friday (May 2\u2026",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/arizona-governor-shoots-down-plans-for-state-bitcoin-reserve/",
-    "timestamp": "2025-05-04T23:23:24Z"
-  },
-  {
-    "title": "Rosie O\u2019Donnell suggests Trump is in \u2018cognitive decline\u2019 - Washington Examiner",
-    "description": "O'Donnell's remark is the latest in her lengthy feud with the president, which dates all back to late 2006.",
-    "link": "https://www.washingtonexaminer.com/news/entertainment/3400540/rosie-odonnell-trump-cognitive-decline/",
-    "timestamp": "2025-05-04T23:22:59Z"
-  },
-  {
-    "title": "Trump says he'll reopen Alcatraz prison for 'America\u2019s most ruthless and violent Offenders'",
-    "description": "NEW YORK (AP) \u2014 President Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a hard-to-reach California island off San Francisco that has been closed for more than 60 years.",
-    "link": "https://www.wral.com/story/trump-says-he-will-reopen-alcatraz-prison/21992005/",
-    "timestamp": "2025-05-04T23:18:29Z"
-  },
-  {
-    "title": "Trump says he will reopen Alcatraz prison",
-    "description": "President Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a California island.  \u201cThat is why, ...",
-    "link": "https://www.yahoo.com/news/trump-says-reopen-alcatraz-prison-231829516.html",
-    "timestamp": "2025-05-04T23:18:29Z"
-  },
-  {
-    "title": "Trump announces surprise 'reopening of Alcatraz' to house the 'most dangerous criminals'",
-    "description": "Donald Trump on Sunday announced that he would be \"reopening\" the famous prison on Alcatraz Island.\n\nThe President took to his own social media site, Truth Social, first to insult one of his Fox News defenders. After that, Trump took aim at criminals, despite\u2026",
-    "link": "https://www.rawstory.com/trump-announces-alcatraz-reopening/",
-    "timestamp": "2025-05-04T23:15:34Z"
-  },
-  {
-    "title": "Stocks may snap longest winning streak in 20 years as futures dip while OPEC+ crushes oil prices",
-    "description": "Stocks futures pointed slightly lower Sunday evening, with the S&P 500 signaling that its longest winning streak in 20 years may come to an end. That's despite President Donald Trump hinting at a willingness to lower tariffs on China. Crude oil prices tumbled\u2026",
-    "link": "https://biztoc.com/x/70510fcbfe00a0cf",
-    "timestamp": "2025-05-04T23:13:08Z"
-  },
-  {
-    "title": "Biden\u2019s team debated making him take a cognitive test months before dropping out of 2024 race: book",
-    "description": "A new book revealed that former President\u00a0Joe Biden\u2019s team chose not to have the president take a cognitive test in February 2024, over concerns that taking the test itself would raise more questions about his age, The New York Times reported Sunday. Authors \u2026",
-    "link": "https://nypost.com/2025/05/04/us-news/bidens-team-debated-making-him-take-a-cognitive-test-months-before-dropping-out-of-2024-race-book/",
-    "timestamp": "2025-05-04T23:12:26Z"
-  },
-  {
-    "title": "Patriot air-defense system based in Israel to be refurbished, sent to Ukraine \u2013",
-    "description": "US made deal with Israel under Biden, report says, as Russia fires missiles, drones at Ukrainian cities several times a week; Israeli Air Force decommissioned Patriots last year A Patriot air-defense system that was based in Israel will be refurbished and sen\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4315045/posts",
-    "timestamp": "2025-05-04T23:03:51Z"
-  },
-  {
-    "title": "\u2018Woke nonsense\u2019: Congress to hold hearing investigating lunacy at Bureau of Prisons",
-    "description": "'These are the kinds of changes that should have happened a long time ago'",
-    "link": "https://www.wnd.com/2025/05/woke-nonsense-congress-to-hold-hearing-investigating-lunacy-at-bureau-of-prisons/",
-    "timestamp": "2025-05-04T23:03:04Z"
-  },
-  {
-    "title": "Trump\u2019s \u2018Warm Spot\u2019 for TikTok Could Extend Ban Deadline Again",
-    "description": "President Donald Trump is willing to give TikTok more time to find a new owner.\n\u201cSo perhaps I shouldn\u2019t say this, but I have a little warm spot in my heart for TikTok,\u201d the president told NBC\u2019s \u201cMeet the Press\u201d in an interview that aired Sunday (May 4). \n\u201cTik\u2026",
-    "link": "https://biztoc.com/x/a9d54f27fcd612e8",
-    "timestamp": "2025-05-04T23:02:08Z"
-  },
-  {
-    "title": "How Trump presidential orders targeting law firms impact the rule of law",
-    "description": "In recent weeks, President Trump has signed orders targeting several law firms. Some lawyers warn that the president's assault on the legal profession threatens the rule of law itself.",
-    "link": "https://www.cbsnews.com/news/trump-orders-target-law-firms-some-lawyers-say-that-threatens-rule-of-law-60-minutes-transcript/",
-    "timestamp": "2025-05-04T23:00:18Z"
-  },
-  {
-    "title": "StanChart Cuts 2025 Oil Price Forecast By $16/bbl Amid Trump\u2019s Tariffs",
-    "description": "Previously, we reported that commodity analysts at Standard Chartered were bullish on oil prices in the current year, thanks to strong oil fundamentals, including declining U.S. supply growth and OPEC+ supply discipline. StanChart reported that non-OPEC+ supp\u2026",
-    "link": "https://oilprice.com/Energy/Crude-Oil/StanChart-Cuts-2025-Oil-Price-Forecast-By-16bbl-Amid-Trumps-Tariffs.html",
-    "timestamp": "2025-05-04T23:00:00Z"
-  },
-  {
-    "title": "NYPD never confirmed Trump's height and weight to the public",
-    "description": "The New York Police Department publicly confirmed that U.S. President Donald Trump is 5 feet, 10 inches tall and weighs 287 pounds.",
-    "link": "https://www.snopes.com//fact-check/trump-height-weight-nypd/",
-    "timestamp": "2025-05-04T23:00:00Z"
-  },
-  {
-    "title": "Trump on due process: \u2018I don\u2019t know\u2019",
-    "description": "The 47th President says 'I don't know' if due process is required for deportations or if he's allowed a third term (he's not).",
-    "link": "https://www.bostonherald.com/2025/05/04/trump-on-due-process-i-dont-know/",
-    "timestamp": "2025-05-04T22:59:35Z"
-  },
-  {
-    "title": "Trump reportedly weighing executive order to limit NIL money for college athletes",
-    "description": "President Donald Trump is reportedly considering an executive order that would curb the rapidly growing NIL (name, image, and likeness) payments in college athletics, a move that c",
-    "link": "https://www.marca.com/en/lifestyle/us-news/2025/05/05/6817e1e9e2704e5f238b4598.html",
-    "timestamp": "2025-05-04T22:58:47Z"
-  },
-  {
-    "title": "Trump\u2019s \u2018Warm Spot\u2019 for TikTok Could Extend Ban Deadline Again",
-    "description": "President Donald Trump is willing to give TikTok more time to find a new owner. \u201cSo perhaps I shouldn\u2019t say this, but I have a little warm spot in my heart for TikTok,\u201d the president told NBC\u2019s \u201cMeet the Press\u201d in an interview that aired Sunday (May 4).\u00a0 \u201cTik\u2026",
-    "link": "https://www.pymnts.com/news/social-commerce/2025/trumps-warm-spot-for-tiktok-could-extend-ban-deadline-again/",
-    "timestamp": "2025-05-04T22:51:36Z"
-  },
-  {
-    "title": "Trump Gets Confused On TikTok: 'I Have A Warm Spot In My Heart For Tic Tac'",
-    "description": "President Donald Trump said he could extend the deadline for a deal to spin off TikTok's U.S. assets because he has a \"warm spot\" in his heart for the social media platform.\n\n\n\"I have a little sweet spot in my heart because, as you know, I won young people by\u2026",
-    "link": "https://crooksandliars.com/2025/05/trump-gets-confused-tiktok-i-have-warm",
-    "timestamp": "2025-05-04T22:50:45Z"
-  },
-  {
-    "title": "'Don't Talk Over Me!' Fox News Pundit Blows Up At Democrat During Immigration Spat",
-    "description": "Republican pundit Ben Domenech yelled at Democratic strategist Leslie Marshall after she suggested that the Latino community did not agree with President Donald Trump's immigration policies.\n\n\nDuring a Sunday panel discussion on Fox News, host Howard Kurtz no\u2026",
-    "link": "https://crooksandliars.com/2025/05/dont-talk-over-me-fox-news-pundit-blows",
-    "timestamp": "2025-05-04T22:50:45Z"
-  },
-  {
-    "title": "White House celebrates \u2018Star Wars Day\u2019 with AI image of muscular Trump wielding a lightsaber",
-    "description": "In honor of Star Wars Day, the White House posted an AI picture of President Trump holding a red lightsaber while wearing a Jedi robe and donning a ripped physique.",
-    "link": "https://www.foxnews.com/politics/white-house-celebrates-star-wars-day-ai-image-muscular-trump-wielding-lightsaber",
-    "timestamp": "2025-05-04T22:49:57Z"
-  },
-  {
-    "title": "Trump says 'I don't know' if must uphold U.S. Constitution as president",
-    "description": "The U.S. president has drawn widespread criticism for repeatedly brushing up against constitutional guardrails, most recently over his mass deportation policy.",
-    "link": "https://www.japantimes.co.jp/news/2025/05/05/world/politics/trump-us-constitution-president/",
-    "timestamp": "2025-05-04T22:43:00Z"
-  },
-  {
-    "title": "Oil Sinks as OPEC+ Supply Surge Threatens to Swamp Global Market",
-    "description": "Oil buckled on concerns of a global glut after OPEC+ agreed to another bumper output increase, adding to supply at a time when demand is challenged by the drag from the trade war.",
-    "link": "https://financialpost.com/pmn/business-pmn/oil-sinks-as-opec-supply-surge-threatens-to-swamp-global-market",
-    "timestamp": "2025-05-04T22:41:08Z"
-  },
-  {
-    "title": "Elon Musk Says He And Trump Are On the Same Page \u201880% Of The Time\u2019",
-    "description": "While Musk claims to be on good terms with the president, Trump took a pointed dig at him and other tech giants last week.",
-    "link": "https://www.huffpost.com/entry/trump-elon-musk-friendship_n_6817d073e4b0e811371e3efa",
-    "timestamp": "2025-05-04T22:36:32Z"
-  },
-  {
-    "title": "Call for Thai ministers to do their job",
-    "description": "Clouded by several negative factors, including uncertainty stemming from unresolved negotiations with the US on tariff hikes, the Thai economy is likely to miss the government's forecast of 3% growth this year.",
-    "link": "https://www.bangkokpost.com/business/general/3017957/call-for-thai-ministers-to-do-their-job",
-    "timestamp": "2025-05-04T22:35:00Z"
-  },
-  {
-    "title": "Call for ministers to do their job",
-    "description": "Clouded by several negative factors, including uncertainty stemming from unresolved negotiations with the US on tariff hikes, the Thai economy is likely to miss the government's forecast of 3% growth this year.",
-    "link": "https://www.bangkokpost.com/business/general/3017957/call-for-ministers-to-do-their-job",
-    "timestamp": "2025-05-04T22:35:00Z"
-  },
-  {
-    "title": "Trump plays down talk of a third term, backing Vance and Rubio",
-    "description": "US president said in March he was `not joking\u2019 about running again",
-    "link": "https://www.irishtimes.comhttps://www.nytimes.com/2025/05/04/us/politics/trump-2028-vance-rubio.html",
-    "timestamp": "2025-05-04T22:28:20Z"
-  },
-  {
-    "title": "Australian Assets May Rally After Election Result, Analysts Say",
-    "description": "Australia\u2019s shares and currency may post a relief rally on expectations of policy continuity under Prime Minister Anthony Albanese after his re-election for a second term.",
-    "link": "https://financialpost.com/pmn/business-pmn/australian-assets-may-rally-after-election-result-analysts-say",
-    "timestamp": "2025-05-04T22:25:52Z"
-  },
-  {
-    "title": "Far-Left Rep. Jasmine Crockett SNAPS After President Trump Dunks on Her During Meet the Press Interview (VIDEO)",
-    "description": "President Trump is living rent-free inside the head of one of Congress's most despicable and violent figures.\nThe post Far-Left Rep. Jasmine Crockett SNAPS After President Trump Dunks on Her During Meet the Press Interview (VIDEO) appeared first on The Gatewa\u2026",
-    "link": "https://www.thegatewaypundit.com/2025/05/far-left-rep-jasmine-crockett-snaps-after-president/",
-    "timestamp": "2025-05-04T22:20:36Z"
-  },
-  {
-    "title": "Tammy Duckworth Says Mike Waltz Will Have 'Brutal' Confirmation Hearing For U.N. Ambassador",
-    "description": "The Democratic senator will not vote to confirm the ex-national security adviser, who she says is \"failing up\" after putting the U.S. at risk with the Signalgate scandal.",
-    "link": "https://www.huffpost.com/entry/tammy-duckworth-mike-waltz-hearing-ambassador-signalgate_n_6817db65e4b0e811371e3f00",
-    "timestamp": "2025-05-04T22:20:01Z"
-  },
-  {
-    "title": "'I heard a rumor about CNN': Newsmax host floats new Trump assassination conspiracy theory",
-    "description": "There's something \"interesting\" about how CNN covered a purported assassination attempt of Donald Trump, a host on the right-wing Newsmax said on Sunday.Newsmax host Greg Kelly, who referred to the Democratic National Convention as a form of \"brainwashing,\" o\u2026",
-    "link": "https://www.rawstory.com/rumor-cnn-butler-conspiracy-theory/",
-    "timestamp": "2025-05-04T22:18:11Z"
-  },
-  {
-    "title": "Cory Booker Uses Fictional White House Clip as Proof \u2018We Must Defend\u2019 NPR, PBS Funding From Trump",
-    "description": "A fictional dramatization from Aaron Sorkin's \"The West Wing\" served as evidence for the value of NPR and PBS in an X post from Sen. Booker.\nThe post Cory Booker Uses Fictional White House Clip as Proof \u2018We Must Defend\u2019 NPR, PBS Funding From Trump first appea\u2026",
-    "link": "https://www.mediaite.com/politics/cory-booker-uses-fictional-white-house-clip-as-proof-we-must-defend-npr-pbs-funding-from-trump/",
-    "timestamp": "2025-05-04T22:16:16Z"
-  },
-  {
-    "title": "Freshpet, Inc. (FRPT): The Best Falling Stock to Buy According to Analysts",
-    "description": "We recently published a list of 11 Best-Falling Stocks to Buy According to Analysts. In this article, we are going to take a look at where Freshpet, Inc...",
-    "link": "https://finance.yahoo.com/news/freshpet-inc-frpt-best-falling-221144557.html",
-    "timestamp": "2025-05-04T22:11:44Z"
-  },
-  {
-    "title": "The White House Celebrates STAR WARS DAY With Image Depicting President Donald Trump As A Sith Lord",
-    "description": "Star Wars fans celebrate May the Fourth in all manner of ways, but The White House's official social media accounts decided to share an image which transformed President Donald Trump into a Sith Lord...",
-    "link": "https://comicbookmovie.com/sci_fi/star-wars/the-white-house-celebrates-star-wars-day-with-image-depicting-president-donald-trump-as-a-sith-lord-a219246",
-    "timestamp": "2025-05-04T22:08:39Z"
-  },
-  {
-    "title": "Trump takes credit for 'good parts' of economy, blames 'bad parts' on Biden",
-    "description": "President Donald Trump took credit for the \"good parts\" of the economy in an exclusive interview with NBC News airing Sunday, but said that the \"bad parts\" are former President Joe Biden's economy.\nTrump defended his tariffs, even amid the economic uncertaint\u2026",
-    "link": "https://biztoc.com/x/0eb0c02c108819bd",
-    "timestamp": "2025-05-04T22:07:17Z"
-  },
-  {
-    "title": "Stock market today live updates",
-    "description": "Stock market today live updatescnbc.com",
-    "link": "https://www.cnbc.com/2025/05/04/stock-market-today-live-updates.html",
-    "timestamp": "2025-05-04T22:05:46Z"
-  },
-  {
-    "title": "Is Nike (NKE) the Best Falling Stock to Buy According to Analysts?",
-    "description": "We recently published a list of 11 Best Falling Stocks to Buy According to Analysts. In this article, we are going to take a look at where Nike, Inc...",
-    "link": "https://finance.yahoo.com/news/nike-nke-best-falling-stock-220507302.html",
-    "timestamp": "2025-05-04T22:05:07Z"
-  },
-  {
-    "title": "What Trump Said Off-Air: NBC Cuts Reveal Key Claims on Tariffs, Bezos, and Recession (J.D. Wolf/MeidasTouch News)",
-    "description": "J.D. Wolf / MeidasTouch News:\nWhat Trump Said Off-Air: NBC Cuts Reveal Key Claims on Tariffs, Bezos, and Recession\u00a0 \u2014\u00a0 Read what wasn't aired\u00a0 \u2014\u00a0 In the full, unedited version of Donald Trump's recent Meet the Press interview with Kristen Welker\u2014released onli\u2026",
-    "link": "https://www.memeorandum.com/250504/p55",
-    "timestamp": "2025-05-04T22:05:01Z"
-  },
-  {
-    "title": "Is The AES Corporation (AES) One of the Best Falling Stocks to Buy According to Analysts?",
-    "description": "We recently published a list of 11 Best Falling Stocks to Buy According to Analysts. In this article, we are going to take a look at where The AES...",
-    "link": "https://finance.yahoo.com/news/aes-corporation-aes-one-best-220354044.html",
-    "timestamp": "2025-05-04T22:03:54Z"
-  },
-  {
-    "title": "Becton, Dickinson, and Company (BDX): Among the Best Falling Stocks to Buy According to Analysts",
-    "description": "We recently published a list of 11 Best Falling Stocks to Buy According to Analysts. In this article, we are going to take a look at where Becton, Dickinson,...",
-    "link": "https://finance.yahoo.com/news/becton-dickinson-company-bdx-among-220226131.html",
-    "timestamp": "2025-05-04T22:02:26Z"
-  },
-  {
-    "title": "Everything Wrong In Trump\u2019s May 4 Lightsaber Pic",
-    "description": "The White House celebrated May 4 by tweeting out a bizarre image of Trump as a Star Wars character. Here\u2019s everything they got wrong, from the red lightsaber to the hovering double eagles.",
-    "link": "http://nymag.com/intelligencer/article/trump-red-lightsaber-may-4th-star-wars-image-everything-thats-wrong.html",
-    "timestamp": "2025-05-04T22:02:00Z"
-  },
-  {
-    "title": "White House Releases Yet Another AI-Generated Image Of Trump \u2014 This Time As A Jacked Sith Lord",
-    "description": "The White House seems to be continuing its affinity for artificial intelligence-generated imagery depicting Donald Trump in bizarre and deifying themes, from a falsified photo of him as a would-be pope to now a hunk-ified Sith lord from Star Wars (none of the\u2026",
-    "link": "http://deadline.com/2025/05/white-house-ai-generated-trump-image-star-wars-sith-1236384959/",
-    "timestamp": "2025-05-04T22:00:51Z"
-  },
-  {
-    "title": "Former VP Mike Pence will receive the Profile in Courage Award",
-    "description": "Former Vice President Mike Pence will receive the John F. Kennedy Profile in Courage Award for his refusal to go along with President Donald Trump\u2019s efforts to remain in office after losing the 2020 election.",
-    "link": "https://www.wishtv.com/news/politics/former-vice-president-pence-will-receive-the-profile-in-courage-award-for-his-actions-on-jan-6/",
-    "timestamp": "2025-05-04T22:00:36Z"
-  },
-  {
-    "title": "NPR CEO pressed on implication that organization is biased after Trump signs order slashing taxpayer funds",
-    "description": "NPR CEO Katherine Maher addressed whether her outlet was biased in their news coverage as implied in President Trump's executive order slashing taxpayer funds to NPR and PBS.",
-    "link": "https://www.foxnews.com/media/npr-ceo-pressed-implication-organization-biased-after-trump-signs-order-slashing-taxpayer-funds",
-    "timestamp": "2025-05-04T22:00:32Z"
-  },
-  {
-    "title": "Hard-right candidate secures victory in 1st round of Romania\u2019s presidential election redo",
-    "description": "Nationalist George Simion secured a decisive win Sunday in the first round of Romania\u2019s presidential election redo, nearly complete electoral data showed. The election took place months after an annulled vote plunged the European Union and NATO member country\u2026",
-    "link": "https://www.pbs.org/newshour/world/hard-right-candidate-secures-victory-in-1st-round-of-romanias-presidential-election-redo",
-    "timestamp": "2025-05-04T22:00:17Z"
-  },
-  {
-    "title": "Here's the biggest news you missed this weekend",
-    "description": "President Donald Trump played down the fears of his critics \u2014 from the potential harms of a recession to worries about rising prices due to his tariffs to the possibility that he would seek a constitutionally forbidden third term \u2014 in a wide-ranging, exclusiv\u2026",
-    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-may-4-rcna204164",
-    "timestamp": "2025-05-04T22:00:00Z"
-  },
-  {
-    "title": "Oscar Piastri wins a lively F1 Miami Grand Prix to extend his championship lead",
-    "description": "Oscar Piastri won an action-packed Formula 1 race full of wheel-to-wheel battles  Sunday, extending his championship lead over fellow McLaren driver Lando Norris, who finished in second place.",
-    "link": "https://www.nbcnews.com/sports/formula-1/oscar-piastri-wins-lively-f1-miami-grand-prix-extend-championship-lead-rcna203493",
-    "timestamp": "2025-05-04T21:54:01Z"
-  },
-  {
-    "title": "Trump says he'll speak with any CEO who plans to raise prices due to tariffs",
-    "description": "Trump on Friday reflected on his phone call earlier in the week with Amazon founder and executive chairman Jeff Bezos saying he\u2019d use the same tactic with CEOs of other major retailers if they raise prices due to tariffs",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-call-ceos-plans-prices-tariffs-rcna204702",
-    "timestamp": "2025-05-04T21:52:36Z"
-  },
-  {
-    "title": "Chinese Exporters \u2018Wash\u2019 Products in Third Countries",
-    "description": "\u201cChinese exporters are stepping up efforts to avoid tariffs imposed by President Donald Trump by shipping their goods via third countries to conceal their true origin,\u201d the Financial Times reports. \u201cChinese social media platforms are",
-    "link": "https://politicalwire.com/2025/05/04/chinese-exporters-wash-products-in-third-countries/",
-    "timestamp": "2025-05-04T21:51:03Z"
-  },
-  {
-    "title": "Border Patrol Chief Links Efforts to Darth Vader in May the 4th Posts",
-    "description": "Gregory Bovino, a chief border agent in California, depicted his sector as Darth Vader in social media post.",
-    "link": "https://www.newsweek.com/border-patrol-chief-links-efforts-darth-vader-may-4th-posts-2067873",
-    "timestamp": "2025-05-04T21:49:38Z"
-  },
-  {
-    "title": "Netanyahu Backs Trump\u2019s Iran Warning After Airport Attack, Vows Strike on Tehran-Backed Forces",
-    "description": "Israeli Prime Minister Benjamin Netanyahu declared firm support for President Donald Trump\u2019s stance on Iran, which he declared in a post from March, hours after a deadly Houthi attack targeted Israel\u2019s main airport.\nThe post Netanyahu Backs Trump\u2019s Iran Warni\u2026",
-    "link": "https://www.breitbart.com/politics/2025/05/04/netanyahu-backs-trumps-iran-warning-after-airport-attack-vows-strike-on-tehran-backed-forces/",
-    "timestamp": "2025-05-04T21:44:21Z"
-  },
-  {
-    "title": "DA Decides Not to File Charges in Morgan Hill Nazi Flag Incident",
-    "description": "Authorities said they will not file charges against a person who hung a flag depicting a Nazi swastika on the Burnett Avenue overpass in Morgan Hill. Santa Clara County Supervising Deputy District Attorney Michel Amaral said the DA\u2019s office has concluded an i\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4315038/posts",
-    "timestamp": "2025-05-04T21:41:15Z"
-  },
-  {
-    "title": "Kimberly Guilfoyle 'Hurt' After Trump Family 'Discarded Her Like Yesterday\u2019s News' \u2014 'Iced Out' as Don Jr. Moves on With New Flame",
-    "description": "Kimberly Guilfoyle has been completely frozen out by the entire Trump clan following her breakup with the president\u2019s eldest son.",
-    "link": "https://radaronline.com/p/kimberly-guilfoyle-hurt-trump-family-discarded-don-jr-new-flame/",
-    "timestamp": "2025-05-04T21:40:00Z"
-  },
-  {
-    "title": "Here's what happened during Trump's 15th week in office",
-    "description": "Trump unveiled a major staff shakeup and announced that National Security Advisor Mike Waltz would depart his post at the White House.",
-    "link": "https://www.foxnews.com/politics/heres-what-happened-during-trumps-15th-week-office",
-    "timestamp": "2025-05-04T21:39:37Z"
-  },
-  {
-    "title": "Two men accused of assaulting WSU student fired from university jobs",
-    "description": "Washington State University has fired two Pullman men who police say attacked a student wearing a Donald Trump hat in a late-night brawl. Patrick M. Mahoney, a 34-year-old graduate student, was \u201crelieved of all teaching responsibilities,\u201d and Gerald W. Hoff, \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4315037/posts",
-    "timestamp": "2025-05-04T21:38:07Z"
-  },
-  {
-    "title": "New York cardinal says Trump AI pope image \u2018wasn\u2019t good\u2019 | Honolulu Star-Advertiser",
-    "description": "ROME >> U.S. Cardinal Timothy Dolan said on Sunday that President Donald Trump\u2019s posting of an AI-generated photo showing himself as the pope \u201cwasn\u2019t good\u201d but declined to say whether the White House should apologise to offended Catholics.",
-    "link": "https://www.staradvertiser.com/2025/05/04/breaking-news/new-york-cardinal-says-trump-ai-pope-image-wasnt-good/",
-    "timestamp": "2025-05-04T21:35:54Z"
-  },
-  {
-    "title": "Russia\u2019s Putin says he hopes there will be no need to use nuclear weapons in Ukraine | CNN",
-    "description": "President Vladimir Putin said in remarks published on Sunday that Russia had sufficient strength and resources to take the war in Ukraine to its logical conclusion, though he hoped that there would be no need to use nuclear weapons.",
-    "link": "https://www.cnn.com/2025/05/04/europe/putin-speech-nuclear-weapons-ukraine-intl-latam",
-    "timestamp": "2025-05-04T21:32:56Z"
-  },
-  {
-    "title": "White House AI-generated Donald Trump\u2019s Image Jedi: Everything we know so far",
-    "description": "The official White House X and Instagram accounts shared an AI-generated image of Donald Trump as a Jedi on Star Wars Day. The post labeled Trump\u2019s political rivals as \u201cSith Lords.\u201d It drew attention due to the use of a red lightsaber, typically associated wi\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/white-house-ai-generated-donald-trumps-image-jedi-everything-we-know-so-far/articleshow/120880119.cms",
-    "timestamp": "2025-05-04T21:28:42Z"
-  },
-  {
-    "title": "Trump says won't remove Fed chair Powell, says good parts of economy are his doing",
-    "description": "WASHINGTON: US President\u00a0Donald Trump\u00a0said he will not remove Jerome\u00a0Powell\u00a0as Federal Reserve Board chairman before his term ends in May 2026 while describing the central banker as \"a total sti",
-    "link": "https://www.channelnewsasia.com/world/trump-says-wont-remove-fed-chair-powell-says-good-parts-economy-are-his-doing-5108446",
-    "timestamp": "2025-05-04T21:26:28Z"
-  },
-  {
-    "title": "Trump says won't remove Fed chair Powell; claims credit for good parts of economy",
-    "description": "WASHINGTON: US President\u00a0Donald Trump\u00a0said he will not remove Jerome\u00a0Powell\u00a0as Federal Reserve Board chairman before his term ends in May 2026 while describing the central banker as \"a total sti",
-    "link": "https://www.channelnewsasia.com/world/trump-says-wont-remove-fed-chair-powell-claims-credit-good-parts-economy-5108446",
-    "timestamp": "2025-05-04T21:26:00Z"
-  },
-  {
-    "title": "Jasmine Crockett Reacts to Donald Trump Calling Her a 'Low IQ Person'",
-    "description": "\"For you to be in charge of the WHOLE country, you sure do have my name in your mouth a lot,\" the congresswoman wrote on social media.",
-    "link": "https://biztoc.com/x/633a8546d178b73f",
-    "timestamp": "2025-05-04T21:22:45Z"
-  },
-  {
-    "title": "Two Very Different Messengers for Democrats",
-    "description": "\u201cThe billionaire heir and the former bartender,\u201d the AP reports. \u201cMany Democrats have been in and out of the spotlight as the party looks for effective counters to President Donald Trump and his second administration.",
-    "link": "https://politicalwire.com/2025/05/04/two-very-different-messengers-for-democrats/",
-    "timestamp": "2025-05-04T21:22:42Z"
-  },
-  {
-    "title": "Strategic implications of North Korea\u2019s expanding naval ambitions",
-    "description": "'A coordinated, multidimensional response from the United States, South Korea, Japan, and other regional stakeholders, is urgently required'",
-    "link": "https://www.wnd.com/2025/05/strategic-implications-of-north-koreas-expanding-naval-ambitions/",
-    "timestamp": "2025-05-04T21:21:06Z"
-  },
-  {
-    "title": "Jasmine Crockett Reacts to Donald Trump Calling Her a 'Low IQ Person'",
-    "description": "\"For you to be in charge of the WHOLE country, you sure do have my name in your mouth a lot,\" the congresswoman wrote on social media.",
-    "link": "https://www.newsweek.com/jasmine-crockett-reacts-donald-trump-calling-her-low-iq-person-2067849",
-    "timestamp": "2025-05-04T21:17:30Z"
-  },
-  {
-    "title": "Trump Says May Use Military Force to Annex Greenland",
-    "description": "The American leader has repeatedly said that Greenland, an autonomous region within Denmark, should join the United StatesNEW YORK, May 4. /TASS/. US President Donald Trump did not rule out using military force to establish control over Greenland. \"I don\u2019t ru\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4315032/posts",
-    "timestamp": "2025-05-04T21:13:48Z"
-  },
-  {
-    "title": "Crypto Companies Coming to America as Regulators Relax",
-    "description": "The world\u2019s largest cryptocurrency options exchange is reportedly planning to enter the American market. Dubai-based Deribit is \u201cactively reassessing potential opportunities\u201d in the U.S., CEO Luuk Strijers said in an interview with the Financial Times (FT) Su\u2026",
-    "link": "https://www.pymnts.com/cryptocurrency/2025/crypto-companies-coming-to-america-as-regulators-relax/",
-    "timestamp": "2025-05-04T21:13:02Z"
-  },
-  {
-    "title": "Trump Won't Rule Out Using Force To Take Greenland",
-    "description": "The president also discussed whether he would \u201crule out\u201d the once-inconceivable prospect of using military force against Canada.",
-    "link": "https://www.huffpost.com/entry/trump-greenland-military-force_n_6817b20ae4b0e811371e3baa",
-    "timestamp": "2025-05-04T21:12:44Z"
-  },
-  {
-    "title": "Trump urges Fed to cut rates ahead of meeting this week",
-    "description": "The News\nUS President Donald Trump renewed his pressure campaign on the Federal Reserve Sunday, urging the central bank to cut interest rates at its meeting this week.\nEconomists expect the Fed to keep the cost of borrowing steady until at least the second ha\u2026",
-    "link": "https://biztoc.com/x/69c72334181bdad0",
-    "timestamp": "2025-05-04T21:11:36Z"
-  },
-  {
-    "title": "New York cardinal says Trump AI pope image 'wasn't good'",
-    "description": "ROME: US Cardinal Timothy Dolan said on Sunday (May 4) that President Donald Trump\u2019s posting of an AI-generated photo showing himself as the pope \"wasn\u2019t good\" but declined to say whether the White House shoul",
-    "link": "https://www.channelnewsasia.com/world/new-york-cardinal-says-trump-ai-pope-image-wasnt-good-5108056",
-    "timestamp": "2025-05-04T21:07:44Z"
-  },
-  {
-    "title": "Houthis threaten: We will impose an aerial blockade on Israel",
-    "description": "The military spokesperson of the Houthis in Yemen announces the imposition of a \"comprehensive aerial blockade on Israel.\"",
-    "link": "https://www.israelnationalnews.com/news/407838",
-    "timestamp": "2025-05-04T21:02:01Z"
-  },
-  {
-    "title": "Bolsonaro coup attempt won't land him in jail",
-    "description": "Jair Bolsonaro, Brazil's former president and Trump clone, is facing trial for encouraging a plot that would have restored him to power after he lost the 2022 election, but it is unlikely that he will ever end up in court.",
-    "link": "https://www.bangkokpost.com/opinion/opinion/3017652/bolsonaro-coup-attempt-wont-land-him-in-jail",
-    "timestamp": "2025-05-04T21:00:00Z"
-  },
-  {
-    "title": "Albanese back on the tools as promised agenda looms large",
-    "description": "Anthony Albanese will be back at Parliament House today as his cabinet ponders the scale of the ALP's election promises. Plus, a certain text-loving billionaire may finally have had enough of politics.\nThe post Albanese back on the tools as promised agenda lo\u2026",
-    "link": "http://www.crikey.com.au/2025/05/05/anthony-albanese-election-promises-clive-palmer-senate/",
-    "timestamp": "2025-05-04T20:58:33Z"
-  },
-  {
-    "title": "How the stock market made back all its losses after Trump escalated the trade war",
-    "description": "It felt much longer, but the U.S. stock market needed just a few weeks to roar all the way back to where it was on President Donald Trump's \u201cLiberation Day.\u201d That's when he shocked Wall Street by announcing much steeper tariffs than expected on nearly all U.S\u2026",
-    "link": "https://japantoday.com/category/business/how-the-stock-market-made-back-all-its-losses-after-trump-escalated-the-trade-war",
-    "timestamp": "2025-05-04T20:57:39Z"
-  },
-  {
-    "title": "Missile fired by Yemen's Houthis lands near Israel's main airport",
-    "description": "A missile fired by Yemen's Houthi rebels towards Israel on Sunday landed near the country's main international airport, causing panic among passengers and drawing threats of retaliation against the group and Iran. Yemen's Iran-aligned Houthis claimed responsi\u2026",
-    "link": "https://japantoday.com/category/world/missile-fired-by-yemen%27s-houthis-lands-near-israel%27s-main-airport5",
-    "timestamp": "2025-05-04T20:55:41Z"
-  },
-  {
-    "title": "Trump, in a new interview, says he doesn't know if he backs due process rights",
-    "description": "President Donald Trump is circumspect about his duties to uphold due process rights laid out in the Constitution, saying in a new interview that he does not know whether U.S. citizens and noncitizens alike deserve that guarantee. He also said he does not thin\u2026",
-    "link": "https://japantoday.com/category/world/trump-in-a-new-interview-says-he-doesn%27t-know-if-he-backs-due-process-rights",
-    "timestamp": "2025-05-04T20:55:33Z"
-  },
-  {
-    "title": "\u2018Got To Go\u2019: DOE To Cut Off Billions Of Dollars\u2019 Worth Of Biden-Era Green Energy Projects",
-    "description": "Energy Secretary Chris Wright said on Friday that his agency plans to cut billions in grant funds for Biden-era loans as the Trump administration conducts a review of the department\u2019s $400 billion clean energy investments, a decision that energy policy expert\u2026",
-    "link": "https://dailycaller.com/2025/05/04/ikea-furniture-energy-funds-still-flowing-to-these-biden-era-green-energy-scams/",
-    "timestamp": "2025-05-04T20:50:42Z"
   }
 ]
