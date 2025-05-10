@@ -1,5 +1,17 @@
 [
   {
+    "title": "SonicWall fixed SMA 100 flaws that could be chained to execute arbitrary code",
+    "description": "SonicWall addressed three SMA 100 flaws, including a potential zero-day, that could allow remote code execution if chained. SonicWall patches three SMA 100 vulnerabilities (CVE-2025-32819, CVE-2025-32820, and CVE-2025-32821), including a potential zero-day, t\u2026",
+    "link": "https://securityaffairs.com/177626/hacking/sonicwall-fixed-sma-100-flaws-that-could-be-chained-to-execute-arbitrary-code.html",
+    "timestamp": "2025-05-09T07:50:45Z"
+  },
+  {
+    "title": "Leo XIV, The 'Latin Yankee', To Celebrate First Mass As Pope",
+    "description": "Pope Leo XIV will celebrate mass Friday, the day after becoming the first US head of the Catholic Church, with the world watching for signs of what kind of pope he will be.",
+    "link": "https://www.ibtimes.com.au/leo-xiv-latin-yankee-celebrate-first-mass-pope-1858672",
+    "timestamp": "2025-05-09T07:45:30Z"
+  },
+  {
     "title": "Operation Sindoor: India Strikes Back with Precision, Gains Global Backing Against Terror",
     "description": "India launched Operation SINDOOR after the April 22 terror attack in Pahalgam. The operation was precise, targeted only terror camps and avoided Pakistani military sites. It was meant to be a strong but limited response. On the night of May 7\u20138, Pakistan fire\u2026",
     "link": "https://statetimes.in/operation-sindoor-india-strikes-back-with-precision-gains-global-backing-against-terror/",
@@ -360,15 +372,15 @@
     "timestamp": "2025-05-09T06:00:00Z"
   },
   {
-    "title": "Trump demands 30-day Ukraine ceasefire, threatens sanctions if fighting continues",
-    "description": "Trump demands a 30-day ceasefire between Russia and Ukraine, threatening sanctions on violators from either side. Russia\u2019s struggling economy may push Putin toward negotiations, but past ceasefires have failed. Zelensky cautiously supports the proposal but in\u2026",
-    "link": "https://www.naturalnews.com/2025-05-09-trump-demands-ukraine-ceasefire-threatens-sanctions.html",
-    "timestamp": "2025-05-09T06:00:00Z"
-  },
-  {
     "title": "EU takes Trump to WTO over tariffs, targets U.S. goods with \u00e2\u0082\u00ac95 billion countermeasures",
     "description": "The EU is challenging U.S. tariffs at the WTO, accusing the U.S. of violating trade rules and preparing \u20ac95 billion in retaliatory measures. The U.S. has imposed a 25% tariff on foreign vehicles, harming European automakers, while Trump threatens a 20% tariff\u2026",
     "link": "https://www.naturalnews.com/2025-05-09-eu-trump-wto-tariffs-countermeasures.html",
+    "timestamp": "2025-05-09T06:00:00Z"
+  },
+  {
+    "title": "Trump demands 30-day Ukraine ceasefire, threatens sanctions if fighting continues",
+    "description": "Trump demands a 30-day ceasefire between Russia and Ukraine, threatening sanctions on violators from either side. Russia\u2019s struggling economy may push Putin toward negotiations, but past ceasefires have failed. Zelensky cautiously supports the proposal but in\u2026",
+    "link": "https://www.naturalnews.com/2025-05-09-trump-demands-ukraine-ceasefire-threatens-sanctions.html",
     "timestamp": "2025-05-09T06:00:00Z"
   },
   {
@@ -532,17 +544,5 @@
     "description": "Single? You'll pay more on holiday, in the supermarket and for your tax bill",
     "link": "https://www.irishtimes.com/opinion/2025/05/09/justine-mccarthy-single-unmarried/",
     "timestamp": "2025-05-09T05:00:01Z"
-  },
-  {
-    "title": "\u2018My message is clear for Ireland, electricity is the future,\u2019 IEA director Fatih Birol",
-    "description": "Electrification should be overriding priority for Irish economy, industry and society, says International Energy Agency chief",
-    "link": "https://www.irishtimes.com/business/economy/2025/05/09/electricity-renewables-ireland-iea-birol/",
-    "timestamp": "2025-05-09T05:00:00Z"
-  },
-  {
-    "title": "Starmer agrees to quick US trade deal to save UK car industry",
-    "description": "Negotiations continue over US\u2019s across-the-board 10% reciprocal tariffs",
-    "link": "https://www.irishtimes.com/business/2025/05/09/starmer-agrees-to-quick-us-trade-deal-to-save-the-uk-car-industry/",
-    "timestamp": "2025-05-09T05:00:00Z"
   }
 ]
