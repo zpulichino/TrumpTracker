@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump administration considers suspending habeas corpus",
+    "description": "The White House is \"actively looking at\" suspending the legal right to challenge detention.",
+    "link": "https://www.bbc.com/news/articles/c0qgz18glljo",
+    "timestamp": "2025-05-10T08:50:44Z"
+  },
+  {
     "title": "European leaders arrive in Kyiv in show of joint 'solidarity' with Ukraine",
     "description": "It comes a day after Russia held extravagant celebrations on its annual Victory Day.",
     "link": "https://www.thejournal.ie/european-leaders-arrive-in-kyiv-in-show-of-joint-solidarity-with-ukraine-6701428-May2025/",
@@ -240,15 +246,15 @@
     "timestamp": "2025-05-10T07:01:30Z"
   },
   {
-    "title": "Arab countries hope for big US business amid Gaza war",
-    "description": "US President Trump visits Saudi Arabia, Qatar and the United Arab Emirates from May 13-16. Much is at stake for the US and regional leaders seeking to boost ties while walking a tightrope over Gaza, Israel and Iran.",
-    "link": "https://www.dw.com/en/arab-countries-hope-for-big-us-business-amid-gaza-war/a-72489255",
-    "timestamp": "2025-05-10T06:53:00Z"
-  },
-  {
     "title": "Arab countries hope for big US business amid unresolved Gaza war",
     "description": "US President Trump visits Saudi Arabia, Qatar and the United Arab Emirates from May 13-16. Much is at stake for the US and regional leaders seeking to boost ties while walking a tightrope over Gaza, Israel and Iran.",
     "link": "https://www.dw.com/en/arab-countries-hope-for-big-us-business-amid-unresolved-gaza-war/a-72489255",
+    "timestamp": "2025-05-10T06:53:00Z"
+  },
+  {
+    "title": "Arab countries hope for big US business amid Gaza war",
+    "description": "US President Trump visits Saudi Arabia, Qatar and the United Arab Emirates from May 13-16. Much is at stake for the US and regional leaders seeking to boost ties while walking a tightrope over Gaza, Israel and Iran.",
+    "link": "https://www.dw.com/en/arab-countries-hope-for-big-us-business-amid-gaza-war/a-72489255",
     "timestamp": "2025-05-10T06:53:00Z"
   },
   {
@@ -324,12 +330,6 @@
     "timestamp": "2025-05-10T06:00:00Z"
   },
   {
-    "title": "EU goes on offense to retain firms and counter Trump\u2019s tariffs",
-    "description": "(Bloomberg) -- he European Union is planning to counter President Donald Trump\u2019s efforts to lure companies to the US by easing the bloc\u2019s regulatory burden...",
-    "link": "https://finance.yahoo.com/news/eu-goes-offense-retain-firms-060000243.html",
-    "timestamp": "2025-05-10T06:00:00Z"
-  },
-  {
     "title": "Virologist who endorsed HCQ for COVID-19 appointed to top pandemic post at HHS",
     "description": "Steven J. Hatfill, a former White House COVID-19 advisor under Trump and advocate for hydroxychloroquine (HCQ) as an early COVID-19 treatment, has been appointed as a special adviser to the HHS\u2019 Administration for Strategic Preparedness and Response (ASPR). H\u2026",
     "link": "https://www.naturalnews.com/2025-05-10-virologist-hcq-covid-appointed-top-pandemic-post.html",
@@ -339,6 +339,12 @@
     "title": "Kentucky Rep. Comer warns: Epstein files may have been DESTROYED amid delays with DOJ release of documents",
     "description": "Rep. James Comer (R-KY) warns that critical Epstein files may have been destroyed by the DOJ or FBI, suggesting a deliberate coverup to conceal ties between Epstein\u2019s network and powerful figures, including potential government involvement. Despite orders to \u2026",
     "link": "https://www.naturalnews.com/2025-05-10-comer-epstein-files-possibly-destroyed-doj-delays.html",
+    "timestamp": "2025-05-10T06:00:00Z"
+  },
+  {
+    "title": "EU goes on offense to retain firms and counter Trump\u2019s tariffs",
+    "description": "(Bloomberg) -- he European Union is planning to counter President Donald Trump\u2019s efforts to lure companies to the US by easing the bloc\u2019s regulatory burden...",
+    "link": "https://finance.yahoo.com/news/eu-goes-offense-retain-firms-060000243.html",
     "timestamp": "2025-05-10T06:00:00Z"
   },
   {
@@ -562,11 +568,5 @@
     "description": "These authors seek to understand the behaviour of economies and the influence they have on our societies",
     "link": "https://www.irishtimes.com/culture/books/review/2025/05/10/books-in-brief-paschal-donohoe-on-how-feminist-economics-can-change-our-world-making-sense-of-chaos-and-why-were-getting-poorer/",
     "timestamp": "2025-05-10T04:15:00Z"
-  },
-  {
-    "title": "US Stocks end flat as investors await US-China trade talks",
-    "description": "Wall Street saw a quiet end to the week as investors awaited U.S.-China trade discussions. Donald Trump suggested tariff adjustments before the meeting in Switzerland. The Dow, S&P 500, and Nasdaq experienced slight weekly declines. Energy sector showed gains\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-end-flat-as-investors-await-us-china-trade-talks/articleshow/121047974.cms",
-    "timestamp": "2025-05-10T04:14:08Z"
   }
 ]
