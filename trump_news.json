@@ -1,5 +1,77 @@
 [
   {
+    "title": "US Embassy warns: People staying beyond authorised period face deportation or US travel ban",
+    "description": "On Friday, a federal appeals court refused to allow the Trump administration to restart deporting migrants to nations other than their own without prior notice or the opportunity to seek protection from persecution or torture, CNN reported",
+    "link": "https://www.thehindubusinessline.com/news/world/us-embassy-warns-people-staying-beyond-authorised-period-face-deportation-or-us-travel-ban/article69586698.ece",
+    "timestamp": "2025-05-17T08:17:50Z"
+  },
+  {
+    "title": "China drops to No. 3 holder of US Treasuries, behind UK",
+    "description": "In March, China reduced its US Treasury holdings, allowing the UK to become the second-largest overseas owner. Total foreign holdings increased to a record $9.05 trillion, despite Trump's trade war rhetoric. While Japan increased its holdings, China's move wa\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/china-drops-to-no-3-holder-of-us-treasuries-behind-uk/articleshow/121231508.cms",
+    "timestamp": "2025-05-17T08:17:18Z"
+  },
+  {
+    "title": "How a new tax bill could cause bond yields to spike and stoke a fresh bout of market chaos",
+    "description": "Any tax plan that grows the deficit and dents confidence in the US government's ability to meet its obligations could send bond yields soaring.",
+    "link": "https://www.businessinsider.com/tax-bill-bond-market-us-debt-gop-trump-vigilantes-yields-2025-5",
+    "timestamp": "2025-05-17T08:15:02Z"
+  },
+  {
+    "title": "A Russian drone strike in northeastern Ukraine kills 9 people, officials say",
+    "description": "A Russian drone struck a passenger bus in Ukraine\u2019s northeastern Sumy region on Saturday, killing nine people and injuring four others, Ukrainian officials said.",
+    "link": "https://www.nbcnews.com/world/russia/russian-drone-strike-northeastern-ukraine-kills-people-officials-say-rcna207423",
+    "timestamp": "2025-05-17T08:14:47Z"
+  },
+  {
+    "title": "Russian attack kills 9, Ukraine says, just hours after peace talks",
+    "description": "The deadly attack came just hours after talks between Moscow and Kyiv in Istanbul.",
+    "link": "https://www.euractiv.com/section/politics/news/russian-attack-kills-9-ukraine-says-just-hours-after-peace-talks/",
+    "timestamp": "2025-05-17T08:09:17Z"
+  },
+  {
+    "title": "US, Europe drive emissions higher",
+    "description": "The world&rsquo;s largest power polluter, China, made its biggest cut to power emissions since 2020 so far this year, but global power emissions have still held largely flat due to higher fossil fuel power generation in the United States and Europe.",
+    "link": "https://www.bangkokpost.com/opinion/opinion/3027842/us-europe-drive-emissions-higher",
+    "timestamp": "2025-05-17T08:05:00Z"
+  },
+  {
+    "title": "5 jumbo-sized political cartoons about Qatar's 'gift' to Trump",
+    "description": "Editorial cartoons feature artists' takes on Donald Trump's visit to the Middle East.",
+    "link": "https://theweek.com/cartoons/political-cartoons-qatar-gift-to-trump",
+    "timestamp": "2025-05-17T08:05:00Z"
+  },
+  {
+    "title": "U.S. CISA adds Google Chromium, DrayTek routers, and SAP NetWeaver flaws to its Known Exploited Vulnerabilities catalog",
+    "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Google Chromium, DrayTek routers, and SAP NetWeaver flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)\u00a0added Google Chromium,\u2026",
+    "link": "https://securityaffairs.com/177962/hacking/u-s-cisa-adds-google-chromium-draytek-routers-and-sap-netweaver-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+    "timestamp": "2025-05-17T08:02:24Z"
+  },
+  {
+    "title": "Elon Musk's War With South Africa, Where Apartheid Scars Run Deep",
+    "description": "Newsweek has broken down Elon Musk's life in South Africa for some context about his current relationship.",
+    "link": "https://www.newsweek.com/elon-musk-war-south-africa-apartheid-scars-2073335",
+    "timestamp": "2025-05-17T08:00:02Z"
+  },
+  {
+    "title": "Canada now has a minister of artificial intelligence. What will he do?",
+    "description": "Canada has its very first minister of artificial intelligence in veteran broadcaster and newly elected Toronto Centre MP Evan Solomon. So what does that job exactly entail?",
+    "link": "https://www.cbc.ca/news/politics/artificial-intelligence-evan-solomon-1.7536218",
+    "timestamp": "2025-05-17T08:00:00Z"
+  },
+  {
+    "title": "A fool and his money are lucky enough to get together in the first place",
+    "description": "I am sympathetic to some victims of even fairly obvious scams. This is the other kind: A man in Rhode Island bought his wife a Donald Trump-branded watch as a gift, but what they got was a \u201cRump\u201d watch due to an unfortunate typo on the watch face. Tim Petit p\u2026",
+    "link": "https://www.lawyersgunsmoneyblog.com/2025/05/a-fool-and-his-money-are-lucky-enough-to-get-together-in-the-first-place-6",
+    "timestamp": "2025-05-17T07:58:30Z"
+  },
+  {
+    "title": "A Russian drone strike in northeastern Ukraine kills 9 people, officials say",
+    "description": "A Russian drone has struck a passenger bus in Ukraine\u2019s northeastern Sumy region, killing nine people and injuring four others",
+    "link": "https://abcnews.go.com/International/wireStory/russian-drone-strike-northeastern-ukraine-kills-9-people-121900188",
+    "timestamp": "2025-05-17T07:58:26Z"
+  },
+  {
     "title": "Inside Trump\u2019s Trip to the Middle East: Adulation and Not a Whiff of Protests - The New York Times",
     "description": "Inside Trump\u2019s Trip to the Middle East: Adulation and Not a Whiff of ProtestsThe New York Times \u2018Commerce not chaos': Trump remakes the foreign tripPolitico Five key takeaways from US President Donald Trump\u2019s Middle East tripAl Jazeera The New MAGA World Orde\u2026",
     "link": "https://slashdot.org/firehose.pl?op=view&amp;id=177577749",
@@ -496,77 +568,5 @@
     "description": "The ex-vice president's previous comments about Robert Hur's report in defense of Biden could cast doubt on her credibility, a legal analyst told \"Newsweek.\"",
     "link": "https://www.newsweek.com/joe-bidens-hur-tape-could-backfire-kamala-harris-2073566",
     "timestamp": "2025-05-17T03:58:16Z"
-  },
-  {
-    "title": "Rescuers say 100 dead as Israel launches fresh Gaza offensive",
-    "description": "The Israeli military said Saturday it had launched \u201cextensive strikes\u201d as part of a fresh offensive in Gaza, after rescuers reported 100 people killed in the besieged Palestinian territory. The army said on Telegram it had begun the \u201cinitial stages\u201d of the of\u2026",
-    "link": "https://www.digitaljournal.com/world/rescuers-say-100-dead-as-israel-launches-fresh-gaza-offensive/article",
-    "timestamp": "2025-05-17T03:57:20Z"
-  },
-  {
-    "title": "\u0422\u0440\u0430\u043c\u043f \u043d\u0435 \u0441\u0442\u0430\u043b \u043d\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u041f\u0443\u0442\u0438\u043d\u0430 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u0435\u043c \u043a \u043c\u0438\u0440\u0443 \u0441 \u0423\u043a\u0440\u0430\u0438\u043d\u043e\u0439: \u041e\u043d \u0443\u0441\u0442\u0430\u043b \u0438 \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u043d\u0435\u0432\u0430\u0436\u043d\u043e",
-    "description": "The US President is convinced that without him there will be no progress between Ukraine and Russia",
-    "link": "https://news.liga.net/politics/news/tramp-ne-stal-nazyvat-putina-prepyatstviem-k-miru-s-ukrainoi-on-ustal-i-vyglyadit-nevazhno",
-    "timestamp": "2025-05-17T03:54:11Z"
-  },
-  {
-    "title": "Arab League to meet in Baghdad to discuss regional crises",
-    "description": "The Arab League is meeting in Baghdad on Saturday to discuss Gaza and other regional crises, but some key leaders are expected to miss the talks that come straight after US President Donald Trump\u2019s Gulf tour. Trump sparked uproar earlier this year by declarin\u2026",
-    "link": "https://www.digitaljournal.com/world/arab-league-to-meet-in-baghdad-to-discuss-regional-crises/article",
-    "timestamp": "2025-05-17T03:52:20Z"
-  },
-  {
-    "title": "Arab League To Meet In Baghdad To Discuss Regional Crises",
-    "description": "The Arab League is meeting in Baghdad on Saturday to discuss Gaza and other regional crises, but some key leaders are expected to miss the talks that come straight after US President Donald Trump's Gulf tour.",
-    "link": "https://www.ibtimes.com/arab-league-meet-baghdad-discuss-regional-crises-3773828",
-    "timestamp": "2025-05-17T03:51:21Z"
-  },
-  {
-    "title": "Ivanka Trump visits Eagles\u2019 locker room looking for player who called her \u2018beautiful\u2019",
-    "description": "Ivanka's post\u00a0was in direct response to Ricks' original tweet that said, \"Donald trump daughter is beautiful,\" from April 28.",
-    "link": "https://nypost.com/2025/05/16/sports/ivanka-trump-visits-philadelphia-eagles-locker-room-looking-for-eli-ricks-who-called-her-beautiful/",
-    "timestamp": "2025-05-17T03:50:03Z"
-  },
-  {
-    "title": "Secret Service agents questions Comey about his Trump social media post",
-    "description": "Secret Service agents interviewed James Comey about his \u201c8647\u201d social media post. Administration officials called it a death threat against President Trump. Comey called it a political statement.",
-    "link": "https://www.nbcnews.com/politics/national-security/secret-service-agents-questions-comey-trump-social-media-post-rcna207407",
-    "timestamp": "2025-05-17T03:44:33Z"
-  },
-  {
-    "title": "Rep. Ro Khanna Wants To Be In The \u2018Conversation\u2019 For 2028 Dem Contenders",
-    "description": "Democratic California Rep. Ro Khanna said he wants \"to be part of the national conversation\" for 2028 when asked whether he plans to run for president.",
-    "link": "https://dailycaller.com/2025/05/16/ro-khanna-progressive-caucus-conversation-2028-presidential-election-democrats-rising/",
-    "timestamp": "2025-05-17T03:41:08Z"
-  },
-  {
-    "title": "5 world market themes for the week ahead",
-    "description": "Global markets are bracing for a week of key events. The G7 meeting in Canada will address trade tensions. China's economy is showing positive signs after a tariff truce. Major US retailers will reveal the impact of tariffs on consumer spending. Brexit negoti\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/121226879.cms",
-    "timestamp": "2025-05-17T03:38:33Z"
-  },
-  {
-    "title": "Brain-Dead Pregnant Woman In US Kept Alive Due To Abortion Ban: Family",
-    "description": "A 30-year-old pregnant woman in the southeastern US state of Georgia has been kept on life support for three months -- despite being declared brain-dead -- due to the state&#039;s abortion restrictions, the woman&#039;s mother says.",
-    "link": "https://www.ndtv.com/world-news/brain-dead-pregnant-woman-in-us-kept-alive-due-to-abortion-ban-family-8435394",
-    "timestamp": "2025-05-17T03:37:39Z"
-  },
-  {
-    "title": "Trump Reiterates India Tariff Claim After S Jaishankar's \"Premature\" Remark",
-    "description": "On Donald Trump&#039;s claim that India has offered a trade deal with &quot;literally zero tariffs&quot;, S Jaishankar said that the ongoing negotiations are complex and far from final.",
-    "link": "https://www.ndtv.com/world-news/trump-reiterates-india-tariff-claim-after-s-jaishankars-premature-remark-8435393",
-    "timestamp": "2025-05-17T03:37:03Z"
-  },
-  {
-    "title": "Biden fails to remember when son Beau died and Trump's election year in leaked Hur interview audio",
-    "description": "Leaked audio of Joe Biden's interview with Robert Hur raises questions about his memory as he struggles to recall key events like the death of his son Beau.",
-    "link": "https://www.foxnews.com/politics/biden-fails-remember-when-son-beau-died-trumps-election-year-leaked-hur-interview-audio",
-    "timestamp": "2025-05-17T03:36:47Z"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,178",
-    "description": "These are the key events on day 1,178 of Russia\u2019s war on Ukraine.",
-    "link": "https://www.aljazeera.com/news/2025/5/17/russia-ukraine-war-list-of-key-events-day-1178",
-    "timestamp": "2025-05-17T03:36:00Z"
   }
 ]
