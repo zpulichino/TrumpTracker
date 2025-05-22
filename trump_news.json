@@ -1,5 +1,83 @@
 [
   {
+    "title": "A critical flaw in OpenPGP.js lets attackers spoof message signatures",
+    "description": "A critical flaw in OpenPGP.js, tracked as CVE-2025-47934, lets attackers spoof message signatures; updates have been released to address the flaw. A critical vulnerability, tracked as CVE-2025-47934, in OpenPGP.js allowed spoofing of message signature verific\u2026",
+    "link": "https://securityaffairs.com/178131/uncategorized/a-openpgp-js-flaw-lets-attackers-spoof-message-signatures.html",
+    "timestamp": "2025-05-21T08:46:15Z"
+  },
+  {
+    "title": "Who will benefit from melting glaciers?",
+    "description": "In a remote corner of North America, salmon and mining companies are vying for new territory.",
+    "link": "http://grist.org/indigenous/melting-glacier-alaska-canada-bc-mining-salmon-territory/",
+    "timestamp": "2025-05-21T08:45:00Z"
+  },
+  {
+    "title": "Trump's One big, Beautiful bill: When will no tax on tips, overtime, Social Security start?",
+    "description": "Officially titled the \"One Big, Beautiful Bill Act,\" this megabill fulfills a laundry list of President Donald Trump's campaign promises from taxes to border security. The bill aims to make the 2017 tax cuts permanent and introduce new temporary tax breaks, s\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-one-big-beautiful-bill-when-will-no-tax-on-tips-overtime-social-security-start/articleshow/121312217.cms",
+    "timestamp": "2025-05-21T08:41:25Z"
+  },
+  {
+    "title": "Taiwan marks highest-ever April exports, driven by rising global demand of AI",
+    "description": "Taiwan's export orders surge in April fueled by global demand for AI, electronics, surpassing expectations, with U.S. as top customer.",
+    "link": "https://www.thehindubusinessline.com/news/world/taiwan-marks-highest-ever-april-exports-driven-by-rising-global-demand-of-ai/article69600918.ece",
+    "timestamp": "2025-05-21T08:41:00Z"
+  },
+  {
+    "title": "US futures down amid earnings, budget talks",
+    "description": "Wall Street futures traded lower on Wednesday as Republicans continued tense negotiations on the new budget. United States President Donald Trump claimed the party remains united and insisted there wi...",
+    "link": "https://biztoc.com/x/6fa703683fbc4e1f",
+    "timestamp": "2025-05-21T08:39:00Z"
+  },
+  {
+    "title": "FBI folds the public corruption squad that aided Jack Smith's Trump investigations",
+    "description": "The FBI\u2019s Washington Field Office is folding its federal public corruption squad, the same unit that aided Jack Smith\u2019s special counsel investigation into President Donald Trump, three people familiar with the matter tell NBC News. The field office has three \u2026",
+    "link": "https://freerepublic.com/focus/f-backroom/4318227/posts",
+    "timestamp": "2025-05-21T08:37:49Z"
+  },
+  {
+    "title": "Local communities vow to fight new Panama Canal reservoir",
+    "description": "Panama\u2019s new canal dam plan puts thousands of villagers at risk, prompting protests over mass displacement.",
+    "link": "https://www.aljazeera.com/gallery/2025/5/21/local-communities-vow-to-fight-new-panama-canal-reservoir",
+    "timestamp": "2025-05-21T08:34:49Z"
+  },
+  {
+    "title": "Japan's Nikkei falls on profit-taking, yen; Mizuho climbs",
+    "description": "Japan's Nikkei share average fell on Wednesday as traders locked in recent gains and appreciation in the yen sapped demand for exporters.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-falls-on-profit-taking-yen-mizuho-climbs/articleshow/121312089.cms",
+    "timestamp": "2025-05-21T08:33:42Z"
+  },
+  {
+    "title": "The EU Needs a Navy. Can the UK Supply It? | Opinion",
+    "description": "Two centuries ago, the Royal Navy utterly dominated the world's oceans. The UK was buoyed by the global empire that its ships were tasked with expanding and defending.",
+    "link": "https://www.newsweek.com/eu-needs-navy-can-uk-supply-it-opinion-2073272",
+    "timestamp": "2025-05-21T08:33:01Z"
+  },
+  {
+    "title": "Six Ukrainian soldiers killed in Russian strike on training exercise",
+    "description": "Ukraine's National Guard said the attack took place while the men were carrying out exercises at a firing range.",
+    "link": "https://www.bbc.com/news/articles/cvg770d0gpko",
+    "timestamp": "2025-05-21T08:32:57Z"
+  },
+  {
+    "title": "US Supreme Court clears way to end TPS for Venezuelans: What it means?",
+    "description": "Court order paves the way for potential deportation of some 348,000 Venezuelans granted TPS status by Biden.",
+    "link": "https://www.aljazeera.com/news/2025/5/21/us-supreme-court-clears-way-to-end-tps-for-venezuelans-what-it-means",
+    "timestamp": "2025-05-21T08:30:10Z"
+  },
+  {
+    "title": "The US government stole the Black Hills. Now it\u2019s clear-cutting them.",
+    "description": "The Trump administration wants to fast-track logging in the Black Hills. What could go wrong? A lot, say tribes, scientists, and conservationists.",
+    "link": "http://grist.org/indigenous/the-u-s-government-stole-the-black-hills-now-its-clearcutting-them/",
+    "timestamp": "2025-05-21T08:30:00Z"
+  },
+  {
+    "title": "'As it currently stands, I was a no': Republicans divided over Trump's major tax bill",
+    "description": "NPR's Steve Inskeep speaks with New York Rep. Mike Lawler about Republicans' divisions that threaten to derail the ongoing budget negotiations.",
+    "link": "https://www.npr.org/2025/05/21/nx-s1-5404993/trump-tax-bill-budget-republicans",
+    "timestamp": "2025-05-21T08:29:39Z"
+  },
+  {
     "title": "Tesla on Track to Launch Robotaxi Trial in Texas by June End",
     "description": "Tesla will begin a test of its long-promised robotaxi service on schedule in Austin, Texas, by the end of June. CEO Elon Musk has said he will reduce his work for the Trump administration and focus on his EV company.",
     "link": "https://www.gadgets360.com/auto/news/tesla-launch-robotaxi-trial-austin-texas-june-end-elon-musk-8469398",
@@ -102,15 +180,15 @@
     "timestamp": "2025-05-21T08:00:00Z"
   },
   {
-    "title": "RBC Canadian Open poised for launch, as Nick Taylor's 2023 win helped spur a national golf renaissance",
-    "description": "The beginning of the decade had been rough for golf in Canada. Now, as the 2025 Canadian Open is set to be played from June 5-8 for the first time at TPC Toronto, billed by Golf Canada as the Canadian home of golf, the tournament and game itself appear to hav\u2026",
-    "link": "https://www.cbc.ca/sports/golf/canada-golfers-2025-canadian-open-1.7539480",
-    "timestamp": "2025-05-21T08:00:00Z"
-  },
-  {
     "title": "You Asked, We Delivered: 21 Reclining Chairs That Don\u2019t *Look* Like Recliners",
     "description": "The year was 2017: Beyonc\u00e9 announced her pregnancy with her twins with great fanfare. Prince Harry and Meghan Markle got engaged. Millions of people participated in Women\u2019s Marches worldwide, protesting the election of Donald Trump and advocating for women\u2019s \u2026",
     "link": "https://stylebyemilyhenderson.com/blog/you-asked-we-delivered-21-reclining-chairs-that-dont-look-like-recliners",
+    "timestamp": "2025-05-21T08:00:00Z"
+  },
+  {
+    "title": "RBC Canadian Open poised for launch, as Nick Taylor's 2023 win helped spur a national golf renaissance",
+    "description": "The beginning of the decade had been rough for golf in Canada. Now, as the 2025 Canadian Open is set to be played from June 5-8 for the first time at TPC Toronto, billed by Golf Canada as the Canadian home of golf, the tournament and game itself appear to hav\u2026",
+    "link": "https://www.cbc.ca/sports/golf/canada-golfers-2025-canadian-open-1.7539480",
     "timestamp": "2025-05-21T08:00:00Z"
   },
   {
@@ -496,71 +574,5 @@
     "description": "Few details were known about Monday's call, aside from Trump's reported attempt to initiate peace talks aimed at ending the ongoing conflict in Ukraine.",
     "link": "https://www.newsweek.com/putin-aide-trump-putin-call-2074702",
     "timestamp": "2025-05-21T06:11:01Z"
-  },
-  {
-    "title": "Trump unveils plans for 'Golden Dome' missile shield for US",
-    "description": "U.S. President Donald Trump unveiled new details Tuesday on his plan for a \"Golden Dome\" missile shield system to protect the country against attacks, saying it should be operational in about three years.",
-    "link": "https://www.hurriyetdailynews.com/trump-unveils-plans-for-golden-dome-missile-shield-for-us-209422",
-    "timestamp": "2025-05-21T06:10:48Z"
-  },
-  {
-    "title": "Napier Port on the up as NZ sharemarket rises - Market close",
-    "description": "The port revealed a special dividend after upgrading its forecast.",
-    "link": "https://www.nzherald.co.nz/business/markets/shares/napier-port-on-the-up-as-nz-sharemarket-rises-market-close/E6LCG2QOPBBEVJLJJ7IHMJWU6Y/",
-    "timestamp": "2025-05-21T06:06:49Z"
-  },
-  {
-    "title": "KindlyMD shareholders OK merger with Trump-linked Bitcoin firm",
-    "description": "Shareholders of the healthcare services provider KindlyMD, Inc have approved a proposed merger with Bitcoin holding company Nakamoto Holdings, founded by US President Donald Trump\u2019s crypto adviser, David Bailey.KindlyMD and Nakamoto Holdings, a newly formed c\u2026",
-    "link": "https://cointelegraph.com/news/kindlymd-shareholders-ok-merger-with-trump-linked-bitcoin-firm",
-    "timestamp": "2025-05-21T06:01:51Z"
-  },
-  {
-    "title": "Trump\u00e2\u0080\u0099s $175 billion \u00e2\u0080\u009cGolden Dome\u00e2\u0080\u009d missile defense system to shield U.S. from Russia, China",
-    "description": "President Trump unveiled the $175 billion \u201cGolden Dome\u201d missile defense system, a multi-layered shield integrating land, sea, and space-based technologies to counter advanced missile threats. The system, inspired by Israel\u2019s Iron Dome but more advanced, aims \u2026",
-    "link": "https://www.naturalnews.com/2025-05-21-trump-golden-dome-missile-defense-system.html",
-    "timestamp": "2025-05-21T06:00:00Z"
-  },
-  {
-    "title": "Courts nationwide dismantle \u201cquackery\u201d against energy firms",
-    "description": "A growing trend of rulings by federal and state judges \u2014 including in Pennsylvania, New York City, Maryland and Delaware \u2014 has dismissed lawsuits seeking to hold energy companies liable for climate damages, citing jurisdictional limits and legal precedent und\u2026",
-    "link": "https://www.naturalnews.com/2025-05-21-courts-nationwide-dismantle-quackery-against-energy-firms.html",
-    "timestamp": "2025-05-21T06:00:00Z"
-  },
-  {
-    "title": "Joe Biden diagnosed with aggressive PROSTATE CANCER",
-    "description": "Former President Joe Biden, 82, has been diagnosed with aggressive prostate cancer (Gleason 9, Grade Group 5). His cancer is hormone-sensitive, allowing for potential management. Previously treated for basal cell carcinoma in 2023, Biden\u2019s health remains a pu\u2026",
-    "link": "https://www.naturalnews.com/2025-05-21-joe-biden-diagnosed-with-aggressive-prostate-cancer.html",
-    "timestamp": "2025-05-21T06:00:00Z"
-  },
-  {
-    "title": "Hard-right candidate who lost Romania\u2019s presidential race contests results at top court",
-    "description": "The hard-right nationalist who lost Romania\u2019s presidential election rerun says he has asked a top court to annul the election results",
-    "link": "https://abcnews.go.com/International/wireStory/hard-candidate-lost-romanias-presidential-race-contests-results-122002690",
-    "timestamp": "2025-05-21T05:58:15Z"
-  },
-  {
-    "title": "Putin visits Kursk region for first time since Ukrainian troops ejected - as Russian missile attack kills six",
-    "description": "Vladimir Putin has visited Kursk for the first time since his troops ejected Ukrainian forces from the Russian city.",
-    "link": "https://news.sky.com/story/putin-visits-kursk-region-for-first-time-since-ukrainian-troops-ejected-as-russian-missile-attack-kills-six-13371910",
-    "timestamp": "2025-05-21T05:56:00Z"
-  },
-  {
-    "title": "Putin visits Russian region for first time since recapture from Ukraine",
-    "description": "Vladimir Putin has visited Kursk for the first time since his troops ejected Ukrainian forces from the Russian city.",
-    "link": "https://news.sky.com/story/putin-visits-kursk-region-for-first-time-since-ukrainian-troops-ejected-13371910",
-    "timestamp": "2025-05-21T05:56:00Z"
-  },
-  {
-    "title": "Teamsters\u2019 Sean O\u2019Brien\u00a0Doing MAGA\u2019s Dirty Work in the Labor Movement",
-    "description": "Soon after Donald Trump announced that he was going to propose a one percent tariff on films produced in\u00a0\u201cforeign lands,\u201d\u00a0Teamsters\u2019 General President Sean O\u2019Brien rushed to\u00a0Fox News\u00a0\u00a0and\u00a0proclaimed\u00a0his eager support. Striking a jovial pose, he was fawned ove\u2026",
-    "link": "https://www.counterpunch.org/2025/05/21/teamsters-sean-obrien-doing-magas-dirty-work-in-the-labor-movement/",
-    "timestamp": "2025-05-21T05:55:17Z"
-  },
-  {
-    "title": "Trump misjudged influence on Putin, German defence minister says",
-    "description": "BERLIN (Reuters) -U.S. President Donald Trump misjudged his influence on Russian President Vladimir Putin, Germany's defence minister said on Tuesday, after a phone call between the two leaders yielded no progress in Ukraine peace talks, prompting Europe to a\u2026",
-    "link": "https://www.thestar.com.my/news/world/2025/05/21/trump-misjudged-influence-on-putin-german-defence-minister-says",
-    "timestamp": "2025-05-21T05:53:00Z"
   }
 ]
