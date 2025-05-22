@@ -1,5 +1,23 @@
 [
   {
+    "title": "Corey O'Connor Ousts Incumbent Pittsburgh Mayor Ed Gainey In Democratic Primary",
+    "description": "O\u2019Connor is all but assured of winning November\u2019s general election in a city that hasn\u2019t elected a GOP mayor in nearly a century.",
+    "link": "https://www.huffpost.com/entry/pittburgh-mayor-democratic-primary-results_n_682d9240e4b0c95f7335ee78",
+    "timestamp": "2025-05-21T08:54:55Z"
+  },
+  {
+    "title": "Donald Trump announces $175 billion golden dome and people think they know his next move",
+    "description": "The US President has announced a new missile defence system for the nation",
+    "link": "https://www.ladbible.com/news/us-news/donald-trump-golden-dome-missile-defence-175-billion-815693-20250521",
+    "timestamp": "2025-05-21T08:53:29Z"
+  },
+  {
+    "title": "Ukraine pitches tougher Russia sanctions plan to EU as US wavers",
+    "description": "KYIV: Ukraine will ask the EU next week to consider big new steps to isolate Moscow, including seizing Russian assets and bringing in sanctions for some buyers of Russian oil, as US President Donald Trump has backed off from tightening sanctions. A previously\u2026",
+    "link": "https://www.channelnewsasia.com/world/ukraine-pitches-tougher-russia-sanctions-plan-eu-us-wavers-5144056",
+    "timestamp": "2025-05-21T08:49:13Z"
+  },
+  {
     "title": "A critical flaw in OpenPGP.js lets attackers spoof message signatures",
     "description": "A critical flaw in OpenPGP.js, tracked as CVE-2025-47934, lets attackers spoof message signatures; updates have been released to address the flaw. A critical vulnerability, tracked as CVE-2025-47934, in OpenPGP.js allowed spoofing of message signature verific\u2026",
     "link": "https://securityaffairs.com/178131/uncategorized/a-openpgp-js-flaw-lets-attackers-spoof-message-signatures.html",
@@ -562,17 +580,5 @@
     "description": "The move comes as the New York-listed company grapples with a pullback in client spending and greater scrutiny of US government contracts under President Donald Trump, who wants to prove taxpayers are getting value for their money. Accenture abandoned its div\u2026",
     "link": "https://economictimes.indiatimes.com/tech/information-tech/accenture-to-promote-50000-staff-after-six-month-delay/articleshow/121308862.cms",
     "timestamp": "2025-05-21T06:13:41Z"
-  },
-  {
-    "title": "Child\u2019s Sharp Question About Trump Delivers Viral Moment At White House",
-    "description": "The query to Trump White House press secretary Karoline Leavitt left the room laughing.",
-    "link": "https://www.huffpost.com/entry/karoline-leavitt-answers-questions-from-children_n_682d641be4b0627160e7a41d",
-    "timestamp": "2025-05-21T06:11:54Z"
-  },
-  {
-    "title": "Putin's Aide Reveals New Details About Donald Trump Call",
-    "description": "Few details were known about Monday's call, aside from Trump's reported attempt to initiate peace talks aimed at ending the ongoing conflict in Ukraine.",
-    "link": "https://www.newsweek.com/putin-aide-trump-putin-call-2074702",
-    "timestamp": "2025-05-21T06:11:01Z"
   }
 ]
