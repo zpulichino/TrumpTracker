@@ -1,5 +1,77 @@
 [
   {
+    "title": "Federal judge orders Trump administration to track deported immigrants to South Sudan",
+    "description": "A federal judge orders President Donald Trump's administration to maintain custody of deported immigrants amid legal challenges over South Sudan removals.",
+    "link": "https://www.foxnews.com/politics/federal-judge-orders-trump-administration-track-deported-immigrants-south-sudan",
+    "timestamp": "2025-05-21T11:35:33Z"
+  },
+  {
+    "title": "Trump unveils 'Golden Dome', his millionaire missile defense system for the US",
+    "description": "Donald Trump unveiled the new missile defense system called &apos;Golden Dome&apos; on Tuesday and said it will be &quot;fully operational&quot; before the end of his term in Janua",
+    "link": "https://www.marca.com/en/lifestyle/us-news/2025/05/21/682db8a8268e3e6e688b456c.html",
+    "timestamp": "2025-05-21T11:33:17Z"
+  },
+  {
+    "title": "Trump Organization breaks ground on $1.5 billion golf club in\u00a0Vietnam",
+    "description": "Vietnam\u2019s prime minister and President Donald Trump\u2019s son Eric held a groundbreaking ceremony Wednesday for a $1.5 billion luxury residential development outside Hanoi.",
+    "link": "https://www.nbcnews.com/world/asia/trump-organization-breaks-ground-15-billion-golf-club-vietnam-rcna208169",
+    "timestamp": "2025-05-21T11:30:25Z"
+  },
+  {
+    "title": "U.S. adviser reportedly pushed officials to rewrite intelligence so it would not be used against Trump",
+    "description": "A top adviser to the U.S. director of national intelligence acknowledged in a March 24 email that the Venezuelan government may not have specifically directed the activities of a gang that the Trump administration has used to justify fast-tracking deportation\u2026",
+    "link": "https://www.cbc.ca/news/world/us-tren-de-aragua-venezuela-1.7539727",
+    "timestamp": "2025-05-21T11:30:19Z"
+  },
+  {
+    "title": "Marjorie Taylor Greene pushes bill to punish those who perform gender transition measures on minors",
+    "description": "Republican Rep. Marjorie Taylor Greene of Georgia fields measure to punish individuals who perform gender transition measures on minors.",
+    "link": "https://www.foxnews.com/politics/marjorie-taylor-greene-pushes-bill-punish-those-who-perform-gender-transition-measures-minors",
+    "timestamp": "2025-05-21T11:30:18Z"
+  },
+  {
+    "title": "What Trump Got Right in the Middle East",
+    "description": "He put business front and center and politics to the side.",
+    "link": "https://www.theatlantic.com/international/archive/2025/05/trump-middle-east-trip/682860/",
+    "timestamp": "2025-05-21T11:30:00Z"
+  },
+  {
+    "title": "Europe\u2019s Reckoning: Genocide in Plain Sight, Diplomacy in Disguise",
+    "description": "For the past 19 months, European leaders have attempted to obscure their characterization of what appears to be a clear and consistent pattern of behavior by the Israeli government in its response to the revolt organized by Hamas on October 7, 2023. Most non-\u2026",
+    "link": "https://www.fairobserver.com/region/europe/europes-reckoning-genocide-in-plain-sight-diplomacy-in-disguise/",
+    "timestamp": "2025-05-21T11:29:30Z"
+  },
+  {
+    "title": "Andrew Cuomo Slapped With DOJ Probe Over COVID Nursing Home Death Testimony as He Plots Political Comeback",
+    "description": "Andrew Cuomo is facing a federal criminal investigation over claims he misled Congress \u2014 just as he attempts a political comeback in New York City\u2019s pivotal 2025 mayoral race. The Department of Justice is examining whether the former New York governor gave fa\u2026",
+    "link": "https://www.mediaite.com/media/news/andrew-cuomo-slapped-with-doj-probe-over-covid-nursing-home-death-testimony-as-he-plots-political-comeback/",
+    "timestamp": "2025-05-21T11:29:10Z"
+  },
+  {
+    "title": "Kremlin denies dragging out Ukraine peace talks",
+    "description": "The Kremlin on Wednesday rejected Ukrainian and European accusations that it was stalling Ukraine peace talks, saying it plans to name its conditions for a ceasefire, but declining to give a time frame. \u00a0 Moscow has for weeks defied Western pressure for a ful\u2026",
+    "link": "https://www.digitaljournal.com/world/kremlin-denies-dragging-out-ukraine-peace-talks/article",
+    "timestamp": "2025-05-21T11:28:26Z"
+  },
+  {
+    "title": "EU plans to slash red tape for medium-sized companies",
+    "description": "The EU unveiled plans Wednesday to cut red tape for medium-sized companies\u00a0and abolish barriers for businesses to sell goods across the bloc as part of its efforts to catch up with China and the United States. The European Union wants to make doing business i\u2026",
+    "link": "https://www.digitaljournal.com/world/eu-plans-to-slash-red-tape-for-medium-sized-companies/article",
+    "timestamp": "2025-05-21T11:27:32Z"
+  },
+  {
+    "title": "China says it backs Pakistan in defending 'sovereignty'",
+    "description": "Beijing (AFP) May 20, 2025\n\n\n China said on Tuesday it supports Pakistan in defending \"national sovereignty and territorial integrity\", after a ceasefire ended four days of fighting with India over a deadly attack in Kashmir. \n\nChinese foreign minister Wang Y\u2026",
+    "link": "https://www.spacewar.com/reports/China_says_it_backs_Pakistan_in_defending_sovereignty_999.html",
+    "timestamp": "2025-05-21T11:27:24Z"
+  },
+  {
+    "title": "Trump unveils plans for 'Golden Dome' missile shield for US",
+    "description": "Washington (AFP) May 21, 2025\n\n\n US President Donald Trump has announced new details and initial funding for his \"Golden Dome\" missile shield system, with geopolitical rival China accusing Washington on Wednesday of undermining global stability. \n\nTrump on Tu\u2026",
+    "link": "https://www.spacewar.com/reports/Trump_unveils_plans_for_Golden_Dome_missile_shield_for_US_999.html",
+    "timestamp": "2025-05-21T11:27:24Z"
+  },
+  {
     "title": "Kremlin Denies Dragging Out Ukraine Peace Talks",
     "description": "The Kremlin on Wednesday rejected Ukrainian and European accusations that it was stalling Ukraine peace talks, saying it plans to name its conditions for a ceasefire, but declining to give a time frame.",
     "link": "https://www.ibtimes.com/kremlin-denies-dragging-out-ukraine-peace-talks-3774139",
@@ -508,65 +580,5 @@
     "description": "Inflation in the U.K. spiked to its highest level for more than a year in April amid higher domestic bills such as energy and water",
     "link": "https://abcnews.go.com/International/wireStory/uk-inflation-rises-highest-level-january-2024-after-122019945",
     "timestamp": "2025-05-21T10:07:56Z"
-  },
-  {
-    "title": "Iconic Director Trashes Trump With Muffled Cannes Mic-Drop",
-    "description": "The movie maker didn't explicitly name the president. But he didn't have to.",
-    "link": "https://www.huffpost.com/entry/spike-lee-cannes-film-festival-2025-donald-trump_n_682d9265e4b0627160e7bcf9",
-    "timestamp": "2025-05-21T10:07:37Z"
-  },
-  {
-    "title": "Trump Rolls The Dice On Syria",
-    "description": "By Wallace White, Daily Caller News Foundation | May 19, 2025\nPresident Donald Trump is taking a massive gamble by attempting to normalize relations with Syria after decades of bipartisan consensus against formal ties with the war-torn nation, experts told th\u2026",
-    "link": "https://biztoc.com/x/4e4838bbb8032bd2",
-    "timestamp": "2025-05-21T10:07:35Z"
-  },
-  {
-    "title": "Chinese Vice Premier meets WHO head, calling on safeguarding scientific integrity and seriousness of COVID19 origin-tracing research",
-    "description": "During his meeting with WHO Director-General Tedros Adhanom Ghebreyesus during the 78th World Health Assembly (WHA) on Monday, Chinese Vice Premier Liu Guozhong, also a member of the Political Bureau of the Communist Party of China Central Committee, said tha\u2026",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/05/sec-250520-globaltimes02.htm",
-    "timestamp": "2025-05-21T10:06:25Z"
-  },
-  {
-    "title": "'Don\u2019t f*** around with Medicaid': Trump's stern warning to Republicans in latest \u2018big beautiful bill\u2019 drama",
-    "description": "President Donald Trump on Tuesday warned House Republicans, \u201cDon\u2019t f--- around with Medicaid,\u201d as he pressed them during a closed-door meeting to pass a major tax bill. President Trump's blunt message came during a visit to Capitol Hill. Trump\u2019s Capitol Hill \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-dont-f-around-with-medicaid-trumps-stern-warning-to-republicans-in-latest-big-beautiful-bill-drama/articleshow/121314084.cms",
-    "timestamp": "2025-05-21T10:05:30Z"
-  },
-  {
-    "title": "'Heartbreaking': Trump cuts shutter clinic \u2014 force students to travel 50 miles for care",
-    "description": "With the closure of a nearby Planned Parenthood clinic at the beginning of May, students from Utah State University in Logan, Utah, face a \u201cscary\u201d situation in terms of accessing health care, prompting the creation of a carpool to drive patients on two-hour r\u2026",
-    "link": "https://www.rawstory.com/raw-investigates/trump-abortion-2672134876/",
-    "timestamp": "2025-05-21T10:03:42Z"
-  },
-  {
-    "title": "Donald Trump's Approval Rating Underwater on Nearly All Key Issues",
-    "description": "Trump is in the negative on almost every issue other than border security, where his net approval rating stands at +12 points.",
-    "link": "https://www.newsweek.com/donald-trump-approval-rating-polls-2075092",
-    "timestamp": "2025-05-21T10:02:38Z"
-  },
-  {
-    "title": "This tax-bill fine print could send businesses fleeing from New York \u2014 or derail Trump\u2019s agenda",
-    "description": "A bit of late-surfacing fine print might yet throw negotiations over President Donald Trump\u2019s Big Beautiful Bill into chaos, as it poses a dire threat to a key class of businesses in New York and other high-tax states.",
-    "link": "https://nypost.com/2025/05/21/opinion/this-tax-bill-fine-print-could-send-businesses-fleeing-from-new-york-or-derail-trumps-agenda/",
-    "timestamp": "2025-05-21T10:01:00Z"
-  },
-  {
-    "title": "Trump fast-tracked processing of White South African refugees. But not everyone wants to leave | CNN",
-    "description": "A group of 59 White South Africans arrived in the United States last week after being granted refugee status by the White House, which has fast-tracked the processing of Afrikaner refugees but paused refugee applications for other nationalities.",
-    "link": "https://www.cnn.com/2025/05/21/africa/trump-resettling-south-africas-afrikaners-intl",
-    "timestamp": "2025-05-21T10:00:51Z"
-  },
-  {
-    "title": "Matthew Lau: Trump\u2019s central planning will push people to free-market philosophies",
-    "description": "The strongest argument for markets has always been the repeated failure of government-run markets. This time will be no different. Read here",
-    "link": "https://financialpost.com/opinion/matthew-lau-trumps-central-planning-will-push-people-to-free-market-philosophies",
-    "timestamp": "2025-05-21T10:00:43Z"
-  },
-  {
-    "title": "Trump-Harvard feud sparks debate among students about discrimination in admissions",
-    "description": "Students speak out while Harvard University faces scrutiny from President Trump over admissions and antisemitism, with funding cuts and a lawsuit highlighting issues of elitism.",
-    "link": "https://www.foxnews.com/media/trump-harvard-feud-sparks-debate-among-students-about-discrimination-admissions-some-highlight-its-faults",
-    "timestamp": "2025-05-21T10:00:18Z"
   }
 ]
