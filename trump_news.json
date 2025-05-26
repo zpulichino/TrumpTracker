@@ -1,5 +1,29 @@
 [
   {
+    "title": "Doug Ford's controversial Bill 5: Here's what you need to know",
+    "description": "The most significant legislation from Ontario\u2019s Progressive Conservatives since winning their third straight majority is a sweeping bill that Premier Doug Ford says will protect the economy from tariffs, but which critics say will gut environmental protection.",
+    "link": "https://www.cbc.ca/news/canada/toronto/bill-5-protect-ontario-by-unleashing-our-economy-act-guide-1.7542478",
+    "timestamp": "2025-05-25T08:00:00Z"
+  },
+  {
+    "title": "Carney meets with caucus ahead of jam-packed spring sitting",
+    "description": "Liberal caucus members are meeting today ahead of the return of Parliament, led by a prime minister known for his high expectations and ambitious agenda.",
+    "link": "https://www.cbc.ca/news/politics/carney-caucus-meeting-1.7542021",
+    "timestamp": "2025-05-25T08:00:00Z"
+  },
+  {
+    "title": "How the peaceful world of puzzles has been upended by the global trade war",
+    "description": "Many people find jigsaw puzzles relaxing, but the business of sourcing materials and shipping them across international borders is becoming a lot more stressful thanks to the tariff war sparked by Donald Trump.",
+    "link": "https://www.cbc.ca/radio/day6/puzzles-trade-war-1.7540862",
+    "timestamp": "2025-05-25T08:00:00Z"
+  },
+  {
+    "title": "A boomer who can't afford to retire is facing a big money dilemma: Start paying a $1,414 student-loan bill or lose part of his paycheck",
+    "description": "\"There will be no retirement. I'll die on the job,\" James Southern, 63, told BI. He doesn't see an end in sight to his student-loan payments.",
+    "link": "https://www.businessinsider.com/boomer-cant-afford-retirement-high-student-loan-payment-wage-garnishment-2025-5",
+    "timestamp": "2025-05-25T07:53:01Z"
+  },
+  {
     "title": "12 killed as Russia pummels Ukraine in fresh night of strikes",
     "description": "KYIV (UKRAINE) - Russian strikes killed at least 12 people in Ukraine overnight into Sunday, officials said, as Kyiv and Moscow traded fire amid an ongoing major prisoner swap.",
     "link": "https://www.bangkokpost.com/world/3033955/12-killed-as-russia-pummels-ukraine-in-fresh-night-of-strikes",
@@ -84,27 +108,15 @@
     "timestamp": "2025-05-25T06:00:00Z"
   },
   {
-    "title": "Los Angeles Mayor Karen Bass signs executive order that seeks to revive Hollywood",
-    "description": "Los Angeles Mayor Karen Bass signed an executive order to streamline film production permits and cut costs, aiming to revitalize L.A.\u2019s struggling film industry by reducing bureaucratic hurdles and making iconic locations more accessible. Due to competition f\u2026",
-    "link": "https://www.naturalnews.com/2025-05-25-bass-signs-executive-order-seeks-to-revive-hollywood.html",
-    "timestamp": "2025-05-25T06:00:00Z"
-  },
-  {
     "title": "Israel proposes plan to screen Gaza aid recipients using facial recognition technology",
     "description": "The U.S. and Israel agreed to allow limited humanitarian aid into Gaza, but only if recipients undergo biometric facial recognition screening to prevent Hamas from accessing supplies. Aid (food, medicine, hygiene kits) will be restricted to 60 percent of Gaza\u2026",
     "link": "https://www.naturalnews.com/2025-05-25-israel-screen-aid-recipients-facial-recognition-technology.html",
     "timestamp": "2025-05-25T06:00:00Z"
   },
   {
-    "title": "Poll finds majority of Americans backing deportation of illegals amid SCOTUS blocking Trump\u2019s enforcement efforts",
-    "description": "A majority of American voters (63.5 percent) favor deporting illegal immigrants, with bipartisan backing from Republicans (90 percent), independents (61 percent) and even significant portions of minority voters (50 percent of Black respondents, 43 percent of \u2026",
-    "link": "https://www.naturalnews.com/2025-05-25-poll-clear-majority-americans-back-deportation-illegals.html",
-    "timestamp": "2025-05-25T06:00:00Z"
-  },
-  {
-    "title": "Senate unanimously passes No Tax on Tips Act",
-    "description": "The Republican-led Senate passed the No Tax on Tips Act with rare bipartisan support, introduced by Sen. Ted Cruz (R-TX) and co-sponsored by Nevada Democrats Sens. Jacky Rosen and Catherine Cortez Masto. No Tax on Tips Act creates a tax deduction of up to $25\u2026",
-    "link": "https://www.naturalnews.com/2025-05-25-senate-passes-no-tax-on-tips-act.html",
+    "title": "Los Angeles Mayor Karen Bass signs executive order that seeks to revive Hollywood",
+    "description": "Los Angeles Mayor Karen Bass signed an executive order to streamline film production permits and cut costs, aiming to revitalize L.A.\u2019s struggling film industry by reducing bureaucratic hurdles and making iconic locations more accessible. Due to competition f\u2026",
+    "link": "https://www.naturalnews.com/2025-05-25-bass-signs-executive-order-seeks-to-revive-hollywood.html",
     "timestamp": "2025-05-25T06:00:00Z"
   },
   {
@@ -114,15 +126,27 @@
     "timestamp": "2025-05-25T06:00:00Z"
   },
   {
-    "title": "Empire Wind 1 offshore wind project resumes amid political turmoil and economic pressure",
-    "description": "The Trump administration lifted a month-old stop-work order on the $5 billion Empire Wind 1 offshore wind project, allowing it to resume after intense negotiations and legal challenges. The decision aims to save 1,500 union jobs and aligns with New York\u2019s agg\u2026",
-    "link": "https://www.naturalnews.com/2025-05-25-empire-wind-1-offshore-wind-project-resumes.html",
+    "title": "Senate unanimously passes No Tax on Tips Act",
+    "description": "The Republican-led Senate passed the No Tax on Tips Act with rare bipartisan support, introduced by Sen. Ted Cruz (R-TX) and co-sponsored by Nevada Democrats Sens. Jacky Rosen and Catherine Cortez Masto. No Tax on Tips Act creates a tax deduction of up to $25\u2026",
+    "link": "https://www.naturalnews.com/2025-05-25-senate-passes-no-tax-on-tips-act.html",
+    "timestamp": "2025-05-25T06:00:00Z"
+  },
+  {
+    "title": "Poll finds majority of Americans backing deportation of illegals amid SCOTUS blocking Trump\u2019s enforcement efforts",
+    "description": "A majority of American voters (63.5 percent) favor deporting illegal immigrants, with bipartisan backing from Republicans (90 percent), independents (61 percent) and even significant portions of minority voters (50 percent of Black respondents, 43 percent of \u2026",
+    "link": "https://www.naturalnews.com/2025-05-25-poll-clear-majority-americans-back-deportation-illegals.html",
     "timestamp": "2025-05-25T06:00:00Z"
   },
   {
     "title": "Trump signs controversial Take It Down Act amid concerns of censorship and government overreach",
     "description": "President Donald Trump signed the Take It Down Act into law with rare bipartisan support, criminalizing non-consensual intimate imagery (including AI deepfakes) and mandating swift platform removals. However, critics warn its vague language risks overreach an\u2026",
     "link": "https://www.naturalnews.com/2025-05-25-trump-signs-controversial-take-it-down-act.html",
+    "timestamp": "2025-05-25T06:00:00Z"
+  },
+  {
+    "title": "Empire Wind 1 offshore wind project resumes amid political turmoil and economic pressure",
+    "description": "The Trump administration lifted a month-old stop-work order on the $5 billion Empire Wind 1 offshore wind project, allowing it to resume after intense negotiations and legal challenges. The decision aims to save 1,500 union jobs and aligns with New York\u2019s agg\u2026",
+    "link": "https://www.naturalnews.com/2025-05-25-empire-wind-1-offshore-wind-project-resumes.html",
     "timestamp": "2025-05-25T06:00:00Z"
   },
   {
@@ -396,15 +420,15 @@
     "timestamp": "2025-05-25T01:30:00Z"
   },
   {
-    "title": "Willie O\u2019Dea: Let\u2019s forget about Trump and his tariff war and forge connections with like-minded people and countries",
-    "description": "The dramatic and erratic changes in American trade policy heralded by US President Donald Trump pose real economic challenges to everyone and Ireland is no exception. Indeed, you could argue we are one of the top targets.",
-    "link": "https://www.independent.ie/opinion/willie-odea-lets-forget-about-trump-and-his-tariff-war-and-forge-connections-with-like-minded-people-and-countries/a1928980743.html",
-    "timestamp": "2025-05-25T01:30:00Z"
-  },
-  {
     "title": "The Sunday Independent\u2019s view: Donald Trump\u2019s tariffs on EU risk Mutually Assured Destruction",
     "description": "It is hard to escape the suspicion that life in the White House is starting to resemble the scenes in the Austin Powers films in which arch-villain Dr Evil whiles away his days devising ever more \u00adfarcical schemes to hold the world to ransom.",
     "link": "https://www.independent.ie/opinion/editorial/the-sunday-independents-view-donald-trumps-tariffs-on-eu-risk-mutually-assured-destruction/a1804068511.html",
+    "timestamp": "2025-05-25T01:30:00Z"
+  },
+  {
+    "title": "Willie O\u2019Dea: Let\u2019s forget about Trump and his tariff war and forge connections with like-minded people and countries",
+    "description": "The dramatic and erratic changes in American trade policy heralded by US President Donald Trump pose real economic challenges to everyone and Ireland is no exception. Indeed, you could argue we are one of the top targets.",
+    "link": "https://www.independent.ie/opinion/willie-odea-lets-forget-about-trump-and-his-tariff-war-and-forge-connections-with-like-minded-people-and-countries/a1928980743.html",
     "timestamp": "2025-05-25T01:30:00Z"
   },
   {
@@ -544,29 +568,5 @@
     "description": "When U.S. President Donald Trump returned to the White House on January 20, one of the major policy changes from the Biden Administration involved the Ukraine-Russia War.Biden, a scathing critic of Russian President Vladimir Putin, favored aggressive military\u2026",
     "link": "https://www.rawstory.com/gop-vets-leaving-over-trump/",
     "timestamp": "2025-05-24T23:54:34Z"
-  },
-  {
-    "title": "National Physical Fitness and Sports Month, 2025",
-    "description": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA\u00a0A PROCLAMATION During National Physical Fitness and Sports Month, we celebrate the foundational role",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/05/national-physical-fitness-and-sports-month-2025/",
-    "timestamp": "2025-05-24T23:49:30Z"
-  },
-  {
-    "title": "Trump softens on Putin as Russia\u2019s military edge weakens, officials say",
-    "description": "Moscow\u2019s advantage on the Ukraine battlefield is waning, experts say. But President Donald Trump seems disinclined to ramp up pressure on the Kremlin to engage in ceasefire talks.Russia\u2019s battlefield strength in Ukraine has started to wane and it could run in\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4318942/posts",
-    "timestamp": "2025-05-24T23:49:06Z"
-  },
-  {
-    "title": "Pritzker and Ocasio-Cortez: A billionaire and a former bartender emerge as Trump resistance leaders",
-    "description": "ATLANTA (AP) \u2014 The billionaire heir and the former bartender.Many Democrats have been in and out of the spotlight as the party looks for effective counters to President Donald Trump and his second administration. But two disparate figures, Gov. JB Pritzker of\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4318940/posts",
-    "timestamp": "2025-05-24T23:41:30Z"
-  },
-  {
-    "title": "The Democrats\u2019 path back to power might start in places like this Appalachian town",
-    "description": "PAINTSVILLE, Ky. (AP) \u2014 Janet Lynn Stumbo leaned on her cane and surveyed the two dozen or so voters who had convened in a small Appalachian town to meet with the chair of the Kentucky Democratic Party.A former Kentucky Supreme Court justice, the 70-year-old \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4318939/posts",
-    "timestamp": "2025-05-24T23:38:04Z"
   }
 ]
