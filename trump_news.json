@@ -1,5 +1,59 @@
 [
   {
+    "title": "Trump\u2019s Isolationism Is Taking Us to Some Weird Places",
+    "description": "It was a nice few weeks back in the global economy, wasn\u2019t it?",
+    "link": "https://slate.com/news-and-politics/2025/05/trump-economy-tariffs-harvard-big-beautiful-bill-deficit.html",
+    "timestamp": "2025-05-27T09:45:00Z"
+  },
+  {
+    "title": "How Trump's anti-woke push affects German firms' DEI policy",
+    "description": "Due to Trump's policy, many US corporations have scaled back or even ended their anti-discrimination programs. Now European corporations are also feeling the pressure. Is workplace diversity a thing of the past?",
+    "link": "https://www.dw.com/en/how-trumps-anti-woke-push-affects-german-firms-dei-policy/a-72676465",
+    "timestamp": "2025-05-27T09:44:00Z"
+  },
+  {
+    "title": "Trump tariff impact: Ford, Diageo, Mercedes among other global cos hit pause on guidance",
+    "description": "A wave of uncertainty triggered by tariffs imposed by U.S. President Donald Trump since April 2 has significantly impacted corporate forecasting worldwide. The unpredictable policy environment, combined with pauses and revisions to the tariffs, has led severa\u2026",
+    "link": "https://m.economictimes.com/markets/stocks/news/trump-tariff-impact-ford-diageo-mercedes-among-other-global-cos-hit-pause-on-guidance/trump-tariffs-trigger-guidance-withdrawal/slideshow/121435569.cms",
+    "timestamp": "2025-05-27T09:41:54Z"
+  },
+  {
+    "title": "Trump\u2019s Second Term Shows That John Roberts\u2019 Worst Opinion Is Also His Biggest Mistake",
+    "description": "Trump\u2019s willingness to ignore the law is thanks to a pet project John Roberts sneaked into a ruling last year. We\u2019re all paying the consequences now.",
+    "link": "https://slate.com/news-and-politics/2025/05/donald-trump-illegal-supreme-court-john-roberts-rule-law.html",
+    "timestamp": "2025-05-27T09:40:00Z"
+  },
+  {
+    "title": "US-EU Speed Up Trade Talks; Trump's Latest Harvard Threat",
+    "description": "On today's podcast: \u00a0 \u00a0 1) The European Union said it agreed to accelerate negotiations with the US to avoid a transatlantic trade war, signaling a more amicable approach just days after President Donald Trump criticized the bloc for taking advantage of the U\u2026",
+    "link": "https://omny.fm/shows/bloomberg-daybreak/us-eu-speed-up-trade-talks-trumps-latest-harvard-threat",
+    "timestamp": "2025-05-27T09:37:27Z"
+  },
+  {
+    "title": "Russia Attacks Trump's Golden Dome Project",
+    "description": "The Golden Dome anti-missile system is motivated in part by a growing threat from Russia and China.",
+    "link": "https://www.newsweek.com/russia-attacks-trump-golden-dome-project-2077338",
+    "timestamp": "2025-05-27T09:35:30Z"
+  },
+  {
+    "title": "US to control US Steel following investment by Nippon Steel",
+    "description": "In This Article:\nUS President Donald Trump has stated that the US will maintain control over US Steel as it enters a partnership with Nippon Steel, according to a Reuters report.\nThis announcement comes after Nippon Steel revealed plans to invest $14bn into U\u2026",
+    "link": "https://biztoc.com/x/d2399f3087bb0bc6",
+    "timestamp": "2025-05-27T09:35:11Z"
+  },
+  {
+    "title": "Trump Media Group denies it\u2019s raising $3B for crypto buys: Report",
+    "description": "Update (May 26, 9:27 pm UTC): This article has been updated to include a statement from Truth Media and Technology Group.\nTrump Media and Technology Group, the company behind US President Donald Trump\u2019s Truth Social platform, has rebuffed a report that it\u2019s p\u2026",
+    "link": "https://biztoc.com/x/9f435ffefdd1515d",
+    "timestamp": "2025-05-27T09:34:56Z"
+  },
+  {
+    "title": "Judge Rips Trump Admin in 17-Page Memorial Day Immigration Order",
+    "description": "A federal judge criticized the Trump administration over violating due process after it tried to deport eight men to South Sudan.",
+    "link": "https://www.newsweek.com/judge-trump-memorial-day-immigration-south-sudan-2077323",
+    "timestamp": "2025-05-27T09:34:23Z"
+  },
+  {
     "title": "Putin 'playing games' with US peace talks, Zelenskyy says amid drone attack",
     "description": "President Volodymyr Zelenskyy again appealed to the U.S. to apply more pressure on Russian President Vladimir Putin in pursuit of peace talks to end Moscow's war.",
     "link": "https://abcnews.go.com/International/putin-playing-games-us-peace-talks-zelenskyy-amid/story?id=122216255",
@@ -114,15 +168,15 @@
     "timestamp": "2025-05-27T09:00:00Z"
   },
   {
-    "title": "China, North Korea, and Russia\u2019s Response to Trump\u2019s \u2018Golden Dome\u2019 Proposal",
-    "description": "Here\u2019s how U.S. rivals are reacting to Trump\u2019s plan to develop a space-based missile-defense system.",
-    "link": "https://time.com/7288728/golden-dome-trump-north-korea-russia-china-response-space-militarization/",
-    "timestamp": "2025-05-27T09:00:00Z"
-  },
-  {
     "title": "These Venezuelans are in the U.S. legally, but a Supreme Court order is upending their lives",
     "description": "A Supreme Court order that provided more questions than answers is jeopardizing the legal immigration status of Venezuelans with TPS.",
     "link": "https://www.nbcnews.com/news/latino/venezuelans-tps-fear-deported-supreme-court-ruling-rcna208716",
+    "timestamp": "2025-05-27T09:00:00Z"
+  },
+  {
+    "title": "China, North Korea, and Russia\u2019s Response to Trump\u2019s \u2018Golden Dome\u2019 Proposal",
+    "description": "Here\u2019s how U.S. rivals are reacting to Trump\u2019s plan to develop a space-based missile-defense system.",
+    "link": "https://time.com/7288728/golden-dome-trump-north-korea-russia-china-response-space-militarization/",
     "timestamp": "2025-05-27T09:00:00Z"
   },
   {
@@ -532,53 +586,5 @@
     "description": "US President Donald Trump has called on tech giants Apple and Samsung to move their manufacturing operations back to the US, surprising many in the global supply chain who were already shifting production toward India and Vietnam. Ongoing negotiations between\u2026",
     "link": "https://www.digitimes.com/news/a20250527PD205/apple-production-samsung-donald-trump-supply-chain.html",
     "timestamp": "2025-05-27T06:39:43Z"
-  },
-  {
-    "title": "Polish President: No Trump at Summit, No Unity at NATO",
-    "description": "US President Donald Trump's absence from the upcoming NATO summit in The Hague would signify a \"serious crisis\" in the alliance, Polish President Andrzej Duda said on Monday.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250526-sputnik01.htm",
-    "timestamp": "2025-05-27T06:38:01Z"
-  },
-  {
-    "title": "CNBC Daily Open: European nations and companies reposition themselves in response to Trump tariffs",
-    "description": "French President Emmanuel Macron visiting Vietnam and Swedish automaker Volvo Cars laying off employees might not appear to have much in common.\nBut they are, on some level, strategic maneuvers in response to U.S. President Donald Trump's deployment of 50% ta\u2026",
-    "link": "https://biztoc.com/x/516b9981e73a6e57",
-    "timestamp": "2025-05-27T06:36:40Z"
-  },
-  {
-    "title": "Trump agrees to EU tariff extension after call with von der Leyen",
-    "description": "U.S. President Donald Trump said Sunday that he agreed to postpone the planned 50 percent tariff on imports from the EU until July 9.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250526-pdo02.htm",
-    "timestamp": "2025-05-27T06:35:34Z"
-  },
-  {
-    "title": "German Chancellor lifts range limit on weapons sent to Ukraine",
-    "description": "Chancellor Friedrich Merz said Monday that Germany along with Ukraine's other key Western backers had lifted range restrictions on weapons they send to Kyiv to fight against Russia.",
-    "link": "https://www.thelocal.de/20250527/german-chancellor-lifts-range-limit-on-weapons-sent-to-ukraine",
-    "timestamp": "2025-05-27T06:35:20Z"
-  },
-  {
-    "title": "Hezbollah chief: 'Trump must free himself from grip of Israel'",
-    "description": "Hezbollah Secretary General Sheikh Naim Qassem has said that US President Donald Trump must free himself from \"the grip of Israel if he wants to achieve his goals.\"",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/05/mil-250525-presstv05.htm",
-    "timestamp": "2025-05-27T06:32:53Z"
-  },
-  {
-    "title": "Iran's Army chief says forces 'fully prepared' to deliver appropriate strikes against Israel",
-    "description": "The chief commander of the Iranian Army says his forces are \"fully prepared\" to deliver an appropriate strike at Israel as the regime continues to ratchet up its bellicose rhetoric against the Islamic Republic.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250526-presstv02.htm",
-    "timestamp": "2025-05-27T06:30:56Z"
-  },
-  {
-    "title": "Pezeshkian: Iran 'more powerful than ever'; has hundreds of alternatives if sanctioned",
-    "description": "President Masoud Pezeshkian says Iran is \"more powerful than ever\" thanks to its scientists and elites, adding that if the Islamic Republic is sanctioned instead of engaged in diplomacy, it has \"hundreds\" of effective alternatives ready.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250526-presstv03.htm",
-    "timestamp": "2025-05-27T06:30:39Z"
-  },
-  {
-    "title": "Trump Hints 'Something Good' Could Be Announced Soon On Iran Talks",
-    "description": "US President Donald Trump said progress has been made in nuclear talks with Iran and suggested that \"something good\" could be announced in the \"next two days,\" without being specific.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250526-rferl01.htm",
-    "timestamp": "2025-05-27T06:30:34Z"
   }
 ]
