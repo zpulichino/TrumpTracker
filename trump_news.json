@@ -1,5 +1,53 @@
 [
   {
+    "title": "Bernard Kerik, who led NYPD on 9/11 before prison and pardon, has died at 69",
+    "description": "Kerik, an Army veteran, was hailed as a hero after the 9/11 attack and eventually nominated to head the U.S. Department of Homeland Security, before a dramatic fall from grace that ended with him behind bars.",
+    "link": "https://www.npr.org/2025/05/30/nx-s1-5417791/bernard-kerik-dead-nypd",
+    "timestamp": "2025-05-30T05:31:51Z"
+  },
+  {
+    "title": "How Trump's trade war is upending the global economy",
+    "description": "Since January 20, President Trump's tariff decisions have roiled financial markets, creating global economic uncertainty. He imposed tariffs on various countries, including Mexico, Canada, and China, often delaying or adjusting them based on negotiations and \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/how-trumps-trade-war-is-upending-the-global-economy/articleshow/121507384.cms",
+    "timestamp": "2025-05-30T05:31:19Z"
+  },
+  {
+    "title": "Trump\u2019s tariffs and the Fed\u2019s dilemma: What lies ahead?",
+    "description": "President Donald Trump held a private meeting with Federal Reserve Chair Jerome Powell on Thursday, marking their first discussion since Trump\u2019s return to the White House. The meeting was arranged at the president\u2019s request, during which he criticized the Fed\u2026",
+    "link": "https://m.economictimes.com/markets/stocks/news/trumps-tariffs-and-the-feds-dilemma-what-lies-ahead/key-event-summary/slideshow/121507407.cms",
+    "timestamp": "2025-05-30T05:22:53Z"
+  },
+  {
+    "title": "U.S. appeals court reinstates Trump's tariffs",
+    "description": "NEW YORK, May 29 (Xinhua) -- A day after the U.S. Court of International Trade invalidated U.S. Pres",
+    "link": "http://en.people.cn/n3/2025/0530/c90000-20321818.html",
+    "timestamp": "2025-05-30T05:19:50Z"
+  },
+  {
+    "title": "Trump spurs questions about safety of Germany's gold in New York",
+    "description": "FRANKFURT/BERLIN (Reuters) -The safety of Germany's gold reserves held overseas and in New York in particular, until recently mainly a talking point for the country's far-right party and gold bugs, is becoming a matter of public debate with Donald Trump back \u2026",
+    "link": "https://www.thestar.com.my/news/world/2025/05/30/trump-spurs-questions-about-safety-of-germany039s-gold-in-new-york",
+    "timestamp": "2025-05-30T05:19:00Z"
+  },
+  {
+    "title": "California's ports face economic devastation as tariffs cripple trade with Asia-Pacific",
+    "description": "SACRAMENTO, the United States, May 29 (Xinhua) -- California's ports are experiencing worse conditio",
+    "link": "http://en.people.cn/n3/2025/0530/c90000-20321812.html",
+    "timestamp": "2025-05-30T05:18:57Z"
+  },
+  {
+    "title": "\u2018Bald-Faced Lie\u2019: Steve Bannon Has To Explain To MSNBC Why Mass Deportation Is Not Mass Incarceration",
+    "description": "Steve Bannon pushed back forcefully Thursday againsts claims that President Donald Trump\u2019s immigration plans amount to \"mass incarceration.\"",
+    "link": "https://dailycaller.com/2025/05/30/steve-bannon-katy-tur-msnbc-mass-deportation/",
+    "timestamp": "2025-05-30T05:17:04Z"
+  },
+  {
+    "title": "President Trump teases \u2018last day, but not really\u2019 for Elon Musk at DOGE, sets Oval Office presser for Friday",
+    "description": "President Donald Trump praised Elon Musk on Thursday and said he will hold a press conference with the billionaire, whose tenure in the administration\u00a0is ending, on Friday at 1:30 p.m. in the Oval Office.",
+    "link": "https://nypost.com/2025/05/30/us-news/trump-calls-musk-terrific-and-announces-press-conference-with-him-friday/",
+    "timestamp": "2025-05-30T05:14:21Z"
+  },
+  {
     "title": "Asian shares mostly decline as uncertainty grows about what's next with Trump's tariffs",
     "description": "Asian shares are trading mostly lower, as uncertainty grew about what will happen next after a U.S. court blocked many of President Donald Trump\u2019s sweeping tariffs. Japan\u2019s benchmark Nikkei 225 lost 1.4% in Friday morning trading after government data showed \u2026",
     "link": "https://www.seattlepi.com/news/world/article/asian-shares-mostly-decline-as-uncertainty-grows-20352538.php",
@@ -54,15 +102,15 @@
     "timestamp": "2025-05-30T05:00:00Z"
   },
   {
-    "title": "Saint or swindler? Why, more than 70 years after her death, Eva Per\u00f3n remains so fascinating",
-    "description": "As Tim Rice and Andrew Lloyd Webber\u2019s juggernaut musical \u2018Evita\u2019 prepares for its West End return, Alastair Smart revisits the life and legend of Argentina\u2019s former first lady",
-    "link": "https://www.the-independent.com/arts-entertainment/theatre-dance/features/evita-musical-eva-peron-rachel-zegler-b2759880.html",
-    "timestamp": "2025-05-30T05:00:00Z"
-  },
-  {
     "title": "Citigroup\u2019s EU hub becomes largest bank in Ireland following significant balance-sheet growth",
     "description": "Profits jump 19% to $2.07bn, driven by interest income and fees and commissions growth in its services division",
     "link": "https://www.irishtimes.com/business/financial-services/2025/05/29/citigroups-eu-hub-becomes-largest-bank-in-ireland-following-significant-balance-sheet-growth/",
+    "timestamp": "2025-05-30T05:00:00Z"
+  },
+  {
+    "title": "Saint or swindler? Why, more than 70 years after her death, Eva Per\u00f3n remains so fascinating",
+    "description": "As Tim Rice and Andrew Lloyd Webber\u2019s juggernaut musical \u2018Evita\u2019 prepares for its West End return, Alastair Smart revisits the life and legend of Argentina\u2019s former first lady",
+    "link": "https://www.the-independent.com/arts-entertainment/theatre-dance/features/evita-musical-eva-peron-rachel-zegler-b2759880.html",
     "timestamp": "2025-05-30T05:00:00Z"
   },
   {
@@ -508,59 +556,5 @@
     "description": "\u201cPresident Donald Trump leveled unusually pointed criticism of a prominent conservative legal activist and organization Thursday as he railed against a ruling that struck down his sweeping tariffs,\u201d Politico reports. \u201cThe president, in a post",
     "link": "https://politicalwire.com/2025/05/29/trump-slams-leonard-leo-and-federalist-society/",
     "timestamp": "2025-05-30T02:42:01Z"
-  },
-  {
-    "title": "Hubris, denial and deceit",
-    "description": "There comes a point when we all need to reckon with the changes that come to all of us as we age. Sometimes hubris and denial work against us. Deceit always catches up with us.",
-    "link": "https://www.ncspin.com/hubris-denial-and-deceit",
-    "timestamp": "2025-05-30T02:41:51Z"
-  },
-  {
-    "title": "Bernard Kerik, New York Police Commissioner on 9/11, dies at 69",
-    "description": "Bernard Kerik, who served as New York City\u2019s police commissioner on 9/11 and later pleaded guilty to tax fraud before being pardoned, has died.",
-    "link": "https://www.nbcnews.com/news/us-news/bernard-kerik-new-york-police-commissioner-911-dies-69-rcna209887",
-    "timestamp": "2025-05-30T02:41:14Z"
-  },
-  {
-    "title": "\u2018Existential Crisis\u2019: Victor Davis Hanson Predicts Why Chuck Schumer Will Go Down In Reelection",
-    "description": "Victor Davis Hanson predicted Democrat Senate Minority Leader Chuck Schumer will be booted out of his Senate seat by Rep. Alexandria Ocasio-Cortez.",
-    "link": "https://dailycaller.com/2025/05/29/victor-davis-hanson-prediction-chuck-schumer-senate-alexandria-ocasio-cortez-new-york/",
-    "timestamp": "2025-05-30T02:40:08Z"
-  },
-  {
-    "title": "SHOCK: Washington, DC Mayor Muriel Bowser Quietly Working to Reverse \u2018Sanctuary City\u2019 Policy",
-    "description": "Did Washington, DC Mayor Muriel Bowser start taking common sense pills this year or something?\nThe post SHOCK: Washington, DC Mayor Muriel Bowser Quietly Working to Reverse \u2018Sanctuary City\u2019 Policy appeared first on The Gateway Pundit.",
-    "link": "https://www.thegatewaypundit.com/2025/05/shock-washington-dc-mayor-muriel-bowser-quietly-working/",
-    "timestamp": "2025-05-30T02:40:05Z"
-  },
-  {
-    "title": "Fox Host Hits Back At Trump Adviser's 'Rogue' Talk With Ice Cold Reality Check",
-    "description": "Liz Claman wasn't having it with Peter Navarro as he tried to dismiss a court's ruling on the president's trade policy.",
-    "link": "https://www.huffpost.com/entry/fox-business-liz-claman-trump-peter-navarro-judges-tariffs_n_6838f8f9e4b04cbc7110dcc8",
-    "timestamp": "2025-05-30T02:39:22Z"
-  },
-  {
-    "title": "Three Judges Blocking Trump's Tariffs Have Decades-Long Histories of Democrat Activism",
-    "description": "The judges on the U.S. Court of International Trade who ruled that President Donald Trump's \"Liberation Day\" tariffs are illegal have a history of Democrat Party activism.\nThe post Three Judges Blocking Trump\u2019s Tariffs Have Decades-Long Histories of Democrat \u2026",
-    "link": "https://www.breitbart.com/politics/2025/05/29/three-judges-blocking-trumps-tariffs-have-decades-long-histories-of-democrat-activism/",
-    "timestamp": "2025-05-30T02:36:13Z"
-  },
-  {
-    "title": "Tariffs court fight threatens Trump's power to wield his favourite economic weapon",
-    "description": "Despite the legal mire, all signs point to this being a battle the Republican president won't give up easily.",
-    "link": "https://www.bbc.com/news/articles/cvg788jrxrro",
-    "timestamp": "2025-05-30T02:34:20Z"
-  },
-  {
-    "title": "Thanks for the evidence",
-    "description": "Trump's white supremacy leanings were never more evident than when the president of South Africa met with Trump in the White House.",
-    "link": "https://www.ncspin.com/thanks-for-the-evidence",
-    "timestamp": "2025-05-30T02:31:52Z"
-  },
-  {
-    "title": "Trump\u2019s tariffs: Turfed out but raring to return",
-    "description": "The US Court of International Trade struck down America\u2019s \u2018reciprocal\u2019 tariffs for exceeding the president\u2019s authority. As the legal battle over their validity thickens, could the rule of law in the US come to the global economy\u2019s rescue?",
-    "link": "https://www.livemint.com/opinion/online-views/donald-trump-us-congress-ieepa-us-supreme-court-trade-barriers-us-court-of-international-trade-steel-tariffs-fentanyl-11748533411139.html",
-    "timestamp": "2025-05-30T02:30:10Z"
   }
 ]
