@@ -1,6 +1,18 @@
 [
   {
     "title": "Can Trump fix the national debt? Republican senators, many investors and even Elon Musk have doubts",
+    "description": "President Donald Trump faces the challenge of convincing Republican senators, global investors, voters and even Elon Musk that he won\u2019t bury the federal government in debt with his multitrillion-dollar tax breaks package",
+    "link": "https://abcnews.go.com/US/wireStory/trump-fix-national-debt-republican-senators-investors-elon-122392110",
+    "timestamp": "2025-06-01T11:35:33Z"
+  },
+  {
+    "title": "Donald Trump\u2019s steel tariffs prompt anger and warnings of \u2018catastrophic\u2019 job cuts in Canada - Financial Times",
+    "description": "Donald Trump\u2019s steel tariffs prompt anger and warnings of \u2018catastrophic\u2019 job cuts in CanadaFinancial Times Spike in steel tariffs could imperil Trump promise of lower grocery pricesAP News Trump announces 50% steel tariffs and hails \u2018blockbuster\u2019 deal with Ja\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=177891407",
+    "timestamp": "2025-06-01T11:34:40Z"
+  },
+  {
+    "title": "Can Trump fix the national debt? Republican senators, many investors and even Elon Musk have doubts",
     "description": "President Trump faces skepticism over his tax cut package's impact on the national debt, struggling to convince Republicans, investors, and even Elon Musk. Despite promises of spending cuts, deficits are projected to rise, leading to concerns about economic c\u2026",
     "link": "https://economictimes.indiatimes.com/news/international/global-trends/can-trump-fix-the-national-debt-republican-senators-many-investors-and-even-elon-musk-have-doubts/articleshow/121549014.cms",
     "timestamp": "2025-06-01T11:26:58Z"
@@ -156,16 +168,28 @@
     "timestamp": "2025-06-01T10:00:03Z"
   },
   {
+    "title": "House GOP passed trillions in tax cuts. How Trump's 'big bill' could change in the Senate",
+    "description": "The House GOP approved trillions in tax cuts. Here's how President Trump's \"big bill\" could change in the Senate.",
+    "link": "https://www.cnbc.com/2025/06/01/trump-big-bill-change-senate.html",
+    "timestamp": "2025-06-01T10:00:01Z"
+  },
+  {
     "title": "What Happened to Ron DeSantis? From MAGA Sweetheart to Forgotten Man",
     "description": "Once seen as Trump's heir apparent, the Florida governor is now sidelined by rising MAGA figures. But it may be too soon to count him out.",
     "link": "https://www.newsweek.com/what-happened-ron-desantis-maga-sweetheart-forgotten-man-2078748",
     "timestamp": "2025-06-01T10:00:01Z"
   },
   {
-    "title": "House GOP passed trillions in tax cuts. How Trump's 'big bill' could change in the Senate",
-    "description": "The House GOP approved trillions in tax cuts. Here's how President Trump's \"big bill\" could change in the Senate.",
-    "link": "https://www.cnbc.com/2025/06/01/trump-big-bill-change-senate.html",
-    "timestamp": "2025-06-01T10:00:01Z"
+    "title": "This year\u2019s hurricane season brings fear of storms and Trump\u2019s plans for FEMA",
+    "description": "As the 2025 hurricane season begins, President Donald Trump is wrongly tearing at the safety net that is the Federal Emergency Management Agency.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-fema-hurricane-season-louisiana-rcna210065",
+    "timestamp": "2025-06-01T10:00:00Z"
+  },
+  {
+    "title": "What Made William F. Buckley So Unusual",
+    "description": "The author of a new biography talks about the conservative journalist\u2019s life and legacy.",
+    "link": "https://www.theatlantic.com/ideas/archive/2025/06/bill-buckley-sam-tanenhaus-republicans/682792/",
+    "timestamp": "2025-06-01T10:00:00Z"
   },
   {
     "title": "The immigrant familes fleeing Trump\u2019s US: \u2018I had to pack up my little things and leave. They have painted us as criminals\u2019",
@@ -177,18 +201,6 @@
     "title": "Trump Makes America\u2019s Refugee Program a Tool of White Racial Grievance",
     "description": "Jonathan Blitzer on which people the President thinks need our protection and how a forty-year-old bipartisan humanitarian effort has been subverted.",
     "link": "https://www.newyorker.com/magazine/2025/06/09/trump-makes-americas-refugee-program-a-tool-of-white-racial-grievance",
-    "timestamp": "2025-06-01T10:00:00Z"
-  },
-  {
-    "title": "What Made William F. Buckley So Unusual",
-    "description": "The author of a new biography talks about the conservative journalist\u2019s life and legacy.",
-    "link": "https://www.theatlantic.com/ideas/archive/2025/06/bill-buckley-sam-tanenhaus-republicans/682792/",
-    "timestamp": "2025-06-01T10:00:00Z"
-  },
-  {
-    "title": "This year\u2019s hurricane season brings fear of storms and Trump\u2019s plans for FEMA",
-    "description": "As the 2025 hurricane season begins, President Donald Trump is wrongly tearing at the safety net that is the Federal Emergency Management Agency.",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-fema-hurricane-season-louisiana-rcna210065",
     "timestamp": "2025-06-01T10:00:00Z"
   },
   {
@@ -384,15 +396,15 @@
     "timestamp": "2025-06-01T08:00:50Z"
   },
   {
-    "title": "In Italy, a Canadian has a 'very humbling experience' meeting with King Charles",
-    "description": "Maj. Casey Anderson, a military intelligence officer in the Canadian Armed Forces, received a King's Coronation Medal from King Charles as the monarch was in the Italian city of Ravenna commemorating the 80th anniversary of the area's liberation during the Se\u2026",
-    "link": "https://www.cbc.ca/news/world/coronation-medal-king-charles-popularity-1.7548298",
-    "timestamp": "2025-06-01T08:00:00Z"
-  },
-  {
     "title": "'The American dream is over': Trump's deportation policies are pushing Latin Americans to Spain",
     "description": "U.S. President Donald Trump's sweeping deportation campaign and hardline approach to restricting immigration, mainly from Latin American countries \u2014 with a particular focus on Venezuelans \u2014 has caused a knock-on effect in Spain. The country is seeing an incre\u2026",
     "link": "https://www.cbc.ca/news/world/trump-impact-asylum-claims-spain-1.7545134",
+    "timestamp": "2025-06-01T08:00:00Z"
+  },
+  {
+    "title": "In Italy, a Canadian has a 'very humbling experience' meeting with King Charles",
+    "description": "Maj. Casey Anderson, a military intelligence officer in the Canadian Armed Forces, received a King's Coronation Medal from King Charles as the monarch was in the Italian city of Ravenna commemorating the 80th anniversary of the area's liberation during the Se\u2026",
+    "link": "https://www.cbc.ca/news/world/coronation-medal-king-charles-popularity-1.7548298",
     "timestamp": "2025-06-01T08:00:00Z"
   },
   {
@@ -544,17 +556,5 @@
     "description": "In a country with strong pacifist traditions due to its dark World War II history, German student Mika Scheid had never considered working in the arms industry -- until Russia invaded Ukraine.",
     "link": "https://www.thelocal.de/20250601/in-changing-times-young-germans-gun-for-defence-sector-jobs",
     "timestamp": "2025-06-01T06:12:46Z"
-  },
-  {
-    "title": "Trump threatens 25% tariff on iPhones unless Apple moves production to U.S.",
-    "description": "President Donald Trump demanded that Apple shift iPhone production to the U.S. or face a 25 percent tariff, criticizing CEO Tim Cook for expanding manufacturing in India instead. Apple is diversifying away from China, planning a $1.5 billion production hub in\u2026",
-    "link": "https://www.naturalnews.com/2025-06-01-trump-threatens-25-percent-tariffs-on-iphones.html",
-    "timestamp": "2025-06-01T06:00:00Z"
-  },
-  {
-    "title": "Arkansas takes on Big Pharma: CVS faces shutdown after state\u2019s ban on pharmacy benefit managers",
-    "description": "Arkansas Gov. Sarah Huckabee Sanders signed a law (HB 1150) prohibiting Pharmacy Benefit Managers (PBMs) from owning pharmacies, aiming to curb conflicts of interest and lower drug prices. The law takes effect in 2026. CVS, which owns PBM Caremark Rx, claims \u2026",
-    "link": "https://www.naturalnews.com/2025-06-01-arkansas-takes-on-big-pharma-cvs-faces-shutdown.html",
-    "timestamp": "2025-06-01T06:00:00Z"
   }
 ]
