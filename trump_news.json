@@ -1,5 +1,77 @@
 [
   {
+    "title": "Consumers Prefer American-Made, But Aren't Willing to Pay",
+    "description": "A recent survey found that 92 percent of Americans would be willing to pay only a small amount more for products \"made in America.\"",
+    "link": "https://www.newsweek.com/poll-consumers-american-made-price-increases-2080318",
+    "timestamp": "2025-06-03T13:59:42Z"
+  },
+  {
+    "title": "Trump Torches Rand Paul: 'Actually Crazy'",
+    "description": "The president took aim at the Republican senator from Kentucky over his recent criticisms.",
+    "link": "https://www.newsweek.com/trump-torches-rand-paul-actually-crazy-2080334",
+    "timestamp": "2025-06-03T13:59:33Z"
+  },
+  {
+    "title": "Joy Reid claims \u2018horrified\u2019 MSNBC bosses pressured her to stop social media posts before she was fired",
+    "description": "\u201cAnytime I would tweet anything, I would get calls -- I would get, \u2018Please get off Twitter, we hate it,\u2019\u201d Reid said.",
+    "link": "https://nypost.com/2025/06/03/media/joy-reid-claims-horrified-msnbc-bosses-told-her-to-stop-posting-on-social-media/",
+    "timestamp": "2025-06-03T13:58:47Z"
+  },
+  {
+    "title": "Arab nations' post-war Gaza plans are not ready for the 'day after'",
+    "description": "Hamas\u2019s acceptance of the Egyptian plan is a survival tactic aimed at securing a foothold in post-war Gaza.",
+    "link": "https://www.jpost.com/opinion/article-856404",
+    "timestamp": "2025-06-03T13:58:40Z"
+  },
+  {
+    "title": "'They were warned!' Trump rages as California blatantly ignores order",
+    "description": "Former President Donald Trump lashed out early Tuesday after a transgender athlete took victory in a California high school track-and-field meet, vowing to impose \"large-scale fines\" on the state if it continues to allow transgender athletes to compete.Jurupa\u2026",
+    "link": "https://www.rawstory.com/trump-transgender-california/",
+    "timestamp": "2025-06-03T13:57:45Z"
+  },
+  {
+    "title": "Biden's Last Minute Pardons Are Now Under Federal Investigation: Report",
+    "description": "Pardon attorney Ed Martin of the Justice Department is investigating several of former President Joe Biden's last-minute pardons.",
+    "link": "https://www.westernjournal.com/bidens-last-minute-pardons-now-federal-investigation-report/",
+    "timestamp": "2025-06-03T13:57:40Z"
+  },
+  {
+    "title": "Putin-Zelensky-Trump trilateral meeting unlikely in the near future, says Kremlin",
+    "description": "Peskov also clarified that, although a new communication between Putin and Trump can be organised relatively quickly if necessary, there are currently no agreements for this\nThe post Putin-Zelensky-Trump trilateral meeting unlikely in the near future, says Kr\u2026",
+    "link": "https://en.protothema.gr/2025/06/03/putin-zelensky-trump-trilateral-meeting-unlikely-in-the-near-future-says-kremlin/",
+    "timestamp": "2025-06-03T13:56:21Z"
+  },
+  {
+    "title": "Class and Identity Politics",
+    "description": "In the end, all politics are identity politics. But politics is also about putting together winning coalitions. You can\u2019t protect trans people if you don\u2019t hold power, basically. Identity politics, as often expressed anyway, has an unfortunate tendency to hig\u2026",
+    "link": "https://www.lawyersgunsmoneyblog.com/2025/06/class-and-identity-politics",
+    "timestamp": "2025-06-03T13:55:38Z"
+  },
+  {
+    "title": "Trump calls Senator Paul's ideas 'crazy'",
+    "description": "United States President Donald Trump on Tuesday renewed his criticism of Senator Rand Paul, warning the Kentucky Republican against voting down what Trump described as his \"big beautiful bill\" aimed a...",
+    "link": "https://biztoc.com/x/985af7595eb32bc2",
+    "timestamp": "2025-06-03T13:55:29Z"
+  },
+  {
+    "title": "Trump's Budget Axes Program That Keeps Poor People From Freezing To Death At Home (Jennifer Bendery/HuffPost)",
+    "description": "Jennifer Bendery / HuffPost:\nTrump's Budget Axes Program That Keeps Poor People From Freezing To Death At Home\u00a0 \u2014\u00a0 His HHS budget request would cut all funding for the Low-Income Home Energy Assistance Program, which millions of people rely on to help pay ene\u2026",
+    "link": "https://www.memeorandum.com/250603/p41",
+    "timestamp": "2025-06-03T13:55:00Z"
+  },
+  {
+    "title": "\u2018Now You Are President\u2019: Brit Hume Calls for Trump to \u2018Be More Effective\u2019 Following Anti-Semitic Firebomb Attack",
+    "description": "Fox News' Brit Hume called on President Trump to be more effective in fighting anti-Semitic hate crimes following the firebombing of pro-Israel protestors.\nThe post \u2018Now You Are President\u2019: Brit Hume Calls for Trump to \u2018Be More Effective\u2019 Following Anti-Semit\u2026",
+    "link": "https://www.mediaite.com/media/tv/now-you-are-president-brit-hume-calls-for-trump-to-be-more-effective-following-anti-semitic-firebomb-attack/",
+    "timestamp": "2025-06-03T13:54:02Z"
+  },
+  {
+    "title": "New York Times Still Can\u2019t Be Bothered To Include Key Details About Alleged Gangbanger Deported By Trump",
+    "description": "The New York Times omitted key information Kilmar Abrego Garcia's criminal background as it accused President Donald Trump's administration of violating orders.",
+    "link": "https://dailycaller.com/2025/06/03/nyt-ms-13-abrego-garcia-trump/",
+    "timestamp": "2025-06-03T13:53:33Z"
+  },
+  {
     "title": "Cryptocurrency Confidence Grows as Consumers Embrace It Despite Remaining Risks",
     "description": "When University of Pennsylvania Wharton School marketing professor David Reibstein recently spotted a bitcoin ATM at his local Costco, it struck a chord with his research. A foothold in the discount warehouse retail chain that has some 140 million members is \u2026",
     "link": "https://www.fairobserver.com/business/cryptocurrency-confidence-grows-as-consumers-embrace-it-despite-remaining-risks/",
@@ -508,71 +580,5 @@
     "description": "President Donald Trump fired off a series of posts on his Truth Social platform bragging about the state of the economy under his trade war \u2014 only for his boasts to be immediately shattered by a \"damning\" new economic analysis published hours later, reported \u2026",
     "link": "https://www.rawstory.com/trump-economy-report/",
     "timestamp": "2025-06-03T12:35:49Z"
-  },
-  {
-    "title": "Donald Trump swaps out official portrait in the White House to soften image amid criticism over menacing look",
-    "description": "Donald Trump, known for his image consciousness, reportedly replaced his official White House portrait early in his term, aiming for a softer appearance after initial criticism. The revised photo featured a turquoise tie and a less severe expression, contrast\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/donald-trump-swaps-out-official-portrait-in-the-white-house-to-soften-image-amid-criticism-over-menacing-look/articleshow/121598133.cms",
-    "timestamp": "2025-06-03T12:35:40Z"
-  },
-  {
-    "title": "Trump admin implements controversial hiring process for new federal employees. Here's what you need to know",
-    "description": "The Trump administration is set to resume civil service hiring with a new \"Merit Hiring Plan\" requiring applicants to write essays demonstrating their commitment to the Constitution and support for the President's policies. This initiative aims to prioritize \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-admin-implements-controversial-hiring-process-for-new-federal-employees-write-trump-loyalty-essays-executive-orders/articleshow/121598456.cms",
-    "timestamp": "2025-06-03T12:34:57Z"
-  },
-  {
-    "title": "Aiming a blow at narcos, Colombia pays farmers to uproot coca",
-    "description": "Farmers paid to replace coca with coffee and cocoa, but risks and doubts persist in conflict zones.",
-    "link": "https://www.aljazeera.com/gallery/2025/6/3/aiming-a-blow-at-narcos-colombia-pays-farmers-to-uproot-coca",
-    "timestamp": "2025-06-03T12:34:47Z"
-  },
-  {
-    "title": "Analysis: An outline is emerging of the US offer to Iran in their high-stakes nuclear negotiations",
-    "description": "The outline of the U.S. offer to Iran in their high-stakes negotiations over Tehran's nuclear program is starting to become clearer \u2014 but whether any deal is...",
-    "link": "https://www.yahoo.com/news/analysis-outline-emerging-us-offer-123329949.html",
-    "timestamp": "2025-06-03T12:33:29Z"
-  },
-  {
-    "title": "Man accused of trying to get witness against him deported by writing letters threatening Trump",
-    "description": "A man is facing charges accusing him of forging letters threatening President Trump in an effort to get someone deported.",
-    "link": "https://www.bostonherald.com/2025/06/03/trump-threat-letter/",
-    "timestamp": "2025-06-03T12:32:07Z"
-  },
-  {
-    "title": "Dutch right-wing leader Wilders' party leaves government coalition over immigration",
-    "description": "The party of populist Dutch political leader Geert Wilders abruptly left the country's governing coalition on Tuesday over a dispute about immigration, a move that brings down the government after less than a year in office.",
-    "link": "https://www.foxnews.com/world/dutch-right-wing-leader-wilders-party-leaves-government-coalition-over-immigration",
-    "timestamp": "2025-06-03T12:30:43Z"
-  },
-  {
-    "title": "Bitcoin Price Crash: Why $107,500 And $103,500 Are The Levels To Watch",
-    "description": "The Bitcoin price crash is in focus following the flagship crypto\u2019s recent drop to as low as $103,700. Crypto analyst Captain Faibik has commented on why $107,500 and $103,500 are the most important levels to watch as BTC looks to decide its next move.\u00a0 Why $\u2026",
-    "link": "http://www.newsbtc.com/news/bitcoin/bitcoin-price-crash/",
-    "timestamp": "2025-06-03T12:30:20Z"
-  },
-  {
-    "title": "Colorado attacker planned mass shooting, but couldn\u2019t buy a gun because he\u2019s an illegal",
-    "description": "Soliman 'used Molotov cocktails after being denied purchase of a gun because he was not a legal citizen,' court filings say.",
-    "link": "https://www.israelnationalnews.com/news/409381",
-    "timestamp": "2025-06-03T12:29:32Z"
-  },
-  {
-    "title": "Data suggests Colorado companies are reducing DEI positions faster than the country as a whole",
-    "description": "Data suggests Colorado companies are reducing DEI positions faster than the country as a wholecpr.org",
-    "link": "https://www.cpr.org/2025/06/03/data-suggests-colorado-companies-reducing-dei-positions/",
-    "timestamp": "2025-06-03T12:27:05Z"
-  },
-  {
-    "title": "Trump Vows to Hit California With Fines For Allowing Trans Athlete to Compete: Live Updates",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nPresident Donald Trump has vowed to impose \"large-scale fines\" on California after a trans girl was allowed to compete in a high school track and field competition.\n\"A Biological Male competed in California Gi\u2026",
-    "link": "https://biztoc.com/x/02ef28e0c79b3c51",
-    "timestamp": "2025-06-03T12:27:04Z"
-  },
-  {
-    "title": "Editorial Board to Fetterman: Do Your Job or Step Aside",
-    "description": "Sen. John Fetterman is facing more pressure from his home state amid criticism of his behavior , voting record , and dedication to the job . On Sunday, the Philadelphia Inquirer ' s editorial board, which endorsed the first-term Democrat during his 2022 Senat\u2026",
-    "link": "https://www.newser.com/story/369630/editorial-board-to-fetterman-do-your-job-or-step-aside.html",
-    "timestamp": "2025-06-03T12:25:54Z"
   }
 ]
