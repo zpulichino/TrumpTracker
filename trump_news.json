@@ -1,5 +1,77 @@
 [
   {
+    "title": "Crypto market structure hearing devolves into partisan claims",
+    "description": "Allegations on the president\u2019s ties to the crypto industry and claims of \u201cTrump derangement syndrome\u201d clouded attempts to reach an agreement on a market structure bill in Congress.",
+    "link": "https://cointelegraph.com/news/market-structure-hearing-criticism-donald-trump",
+    "timestamp": "2025-06-06T19:31:08Z"
+  },
+  {
+    "title": "A ban on state AI laws could smash\u00a0Big Tech\u2019s legal guardrails",
+    "description": "Senate Commerce Republicans have kept a ten year moratorium on state AI laws in their latest version of President Donald Trump's massive budget package. And a growing number of lawmakers and civil society groups warn that its broad language could put consumer\u2026",
+    "link": "https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation",
+    "timestamp": "2025-06-06T19:30:54Z"
+  },
+  {
+    "title": "Some Democrats want to reconcile with Musk. That would be a big mistake.",
+    "description": "Even before Elon Musk and President Donald Trump escalated their feud Thursday, some Democrats were thinking of trying to entice the Tesla billionaire to their side.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/musk-trump-feud-democrats-fight-rcna211431",
+    "timestamp": "2025-06-06T19:30:49Z"
+  },
+  {
+    "title": "There are only two commissioners left at the FCC",
+    "description": "After the departure of one Republican and one Democratic commissioner on Friday, the Federal Communications Commission is down to two members, falling below the quorum threshold for what's typically a five-person panel. Commissioners Nathan Simington and Geof\u2026",
+    "link": "https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr",
+    "timestamp": "2025-06-06T19:30:09Z"
+  },
+  {
+    "title": "The Trump-Musk Feud as Seen From D.C.\u2019s MAGA Hotspot",
+    "description": "From the daily newsletter: a report from Butterworth\u2019s. Plus: Miley Cyrus finds her voice.",
+    "link": "https://www.newyorker.com/newsletter/the-daily/the-trump-musk-feud-as-seen-from-dcs-maga-hotspot",
+    "timestamp": "2025-06-06T19:30:00Z"
+  },
+  {
+    "title": "EXCLUSIVE: Will Trump Sue Musk For Defamation? How 'Unprecedented' Decision May Play Out After 'Crazy' Elon Accused President Of Being In the Epstein Files In Vicious Rant",
+    "description": "Donald Trump may have a case for a defamation lawsuit after his former friend Elon Musk accused him of being in the Epstein files.",
+    "link": "https://radaronline.com/p/trump-elon-musk-defamation-lawsuit-crazy-epstein-files-rant/",
+    "timestamp": "2025-06-06T19:30:00Z"
+  },
+  {
+    "title": "This Week in Space 164: Goodbye NASA?",
+    "description": "What a wild week it's been for NASA. With drastic budget cuts looming\u2014pending any action by Congress\u2014then comes the sudden and unexpected pulling of Jared Isaacman for the role of NASA Administrator, with no replacement named. Then came the very public split \u2026",
+    "link": "https://twit.tv/shows/this-week-in-space/episodes/164",
+    "timestamp": "2025-06-06T19:28:52Z"
+  },
+  {
+    "title": "Lucas: Judge Shelley Joseph has her overdue day in court",
+    "description": "Although a strong past supporter, Gov. Maura Healey will not be among those testifying on behalf of District Court Judge Shelley Joseph on Monday.",
+    "link": "https://www.bostonherald.com/2025/06/06/lucas-judge-shelley-joseph-has-her-overdue-day-in-court/",
+    "timestamp": "2025-06-06T19:28:34Z"
+  },
+  {
+    "title": "Top Stock Movers Now: Tesla, Lululemon, Docusign, and More",
+    "description": "Key Takeaways\n- U.S. equities jumped at midday as the U.S. economy added more jobs in May than expected.\n- Tesla shares rebounded from yesterday's big selloff as CEO Elon Musk and President Donald Trump seem to be pulling back on their war of words that rattl\u2026",
+    "link": "https://biztoc.com/x/ed46b05b51af0ded",
+    "timestamp": "2025-06-06T19:27:19Z"
+  },
+  {
+    "title": "'Fun projects': Trump announces he's bringing massive addition to White House",
+    "description": "President Donald Trump bragged that he was funding a \"beautiful Ballroom\" attached to the White House in a Truth Social post. \"For 150 years, Presidents, and many others, have wanted a beautiful Ballroom, but it never got built because nobody previously had a\u2026",
+    "link": "https://www.rawstory.com/trump-ballroom/",
+    "timestamp": "2025-06-06T19:27:05Z"
+  },
+  {
+    "title": "Trump Announces U.S.-China Delegation Meeting In London",
+    "description": "A high-level U.S. trade delegation will meet with Chinese officials in London on Monday, June 9, to discuss implementation of the recently finalized trade deal, President Donald Trump announced on Truth Social. \nThe delegation will include Treasury Secretary \u2026",
+    "link": "https://biztoc.com/x/08b778793c2fe8f7",
+    "timestamp": "2025-06-06T19:27:04Z"
+  },
+  {
+    "title": "This Virginia Small Business Is in Limbo As Owner Sues To Stop Trump's Tariffs",
+    "description": "Next week could be a pivotal one, as a federal appeals court could decide whether to restore an injunction against Trump's tariffs.",
+    "link": "https://reason.com/2025/06/06/this-small-business-is-in-limbo-as-owner-sues-to-stop-trumps-tariffs/",
+    "timestamp": "2025-06-06T19:27:03Z"
+  },
+  {
     "title": "\u2018The Girls Are Fighting\u2019\u2014 Trump Vs. Musk Feud Goes Viral",
     "description": "President Donald Trump and Elon Musk are fighting on social media, and the internet is responding with jokes and memes\u2014here are some of the best responses to the feud.",
     "link": "https://www.forbes.com/sites/danidiplacido/2025/06/06/the-girls-are-fighting--trump-vs-musk-feud-goes-viral/",
@@ -484,83 +556,5 @@
     "description": "Donald Trump has been encouraged to seize control of SpaceX from Elon Musk to get the upper hand in his rift with his former ally, as their feud turns nasty.",
     "link": "https://radaronline.com/p/donald-trump-could-seize-space-x-from-elon-musk/",
     "timestamp": "2025-06-06T18:40:00Z"
-  },
-  {
-    "title": "Fmr. Pence chief of staff on Trump-Musk feud: Not much pathway to reunification",
-    "description": "Marc Short, Mike Pence's former chief of staff, said Friday that he doesn't see much of a pathway for President Donald Trump and ...",
-    "link": "https://biztoc.com/x/492cd1d89e304715",
-    "timestamp": "2025-06-06T18:39:00Z"
-  },
-  {
-    "title": "Trump once opened the door to the LGBTQ+ community. Now activists say he's their top threat",
-    "description": "When he first ran for office, Donald Trump seemed like he could be a new kind of Republican when it came to LGBTQ+ rights",
-    "link": "https://abcnews.go.com/US/wireStory/trump-opened-door-lgbtq-community-now-activists-top-122586351",
-    "timestamp": "2025-06-06T18:38:46Z"
-  },
-  {
-    "title": "Senate Republicans revise ban on state AI regulations in bid to preserve controversial provision",
-    "description": "Senate Republicans have made changes to their party\u2019s sweeping tax bill in hopes of preserving a new policy that would prevent states from regulating artificial intelligence",
-    "link": "https://abcnews.go.com/US/wireStory/senate-republicans-revise-ban-state-ai-regulations-bid-122585906",
-    "timestamp": "2025-06-06T18:38:28Z"
-  },
-  {
-    "title": "From \u2018Will & Grace\u2019 (Twice) To \u2018Mid-Century Modern\u2019, Creators David Kohan & Max Mutchnick Take Pride In Keeping Politics Out Of Their Human Comedy; Just Don\u2019t Call It A \u201cGay Golden Girls\u201d \u2013 Behind The Lens",
-    "description": "David Kohan and Max Mutchnick have worked on several half-hour television comedies, but there can be no question they struck gold \u2014 twice \u2014 with the groundbreaking Will & Grace. The show made network history with its gay characters and themes when it ran on N\u2026",
-    "link": "https://deadline.com/video/mid-century-modern-david-kohan-max-mutchnick-interview/",
-    "timestamp": "2025-06-06T18:37:39Z"
-  },
-  {
-    "title": "\u201cThe Intern in Charge\u201d: Meet the 22-Year-Old Trump\u2019s Team Picked to Lead Terrorism Prevention",
-    "description": "When Thomas Fugate graduated from college last year with a degree in politics, he celebrated in a social media post about the exciting opportunities that lay beyond campus life in Texas. \u201cOnward and upward!\u201d he wrote, with an emoji of a rocket shooting into s\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4321410/posts",
-    "timestamp": "2025-06-06T18:36:53Z"
-  },
-  {
-    "title": "US Fed should cut interest rate by a full point, Donald Trump says",
-    "description": "The Fed last September did reduce rates by a half of a percentage point, after a faster-than-expected decline in inflation and a marked slowdown in the labor market. By the end of 2024 it had delivered two additional quarter-point rate cuts, and has held the \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-fed-should-cut-interest-rate-by-a-full-point-donald-trump-says/articleshow/121683391.cms",
-    "timestamp": "2025-06-06T18:36:27Z"
-  },
-  {
-    "title": "Democrat Leader Jeffries Aims to Exploit Musk\u2019s Split From Trump",
-    "description": "Just one day after fallout between President Donald Trump and Elon Musk went nuclear on social media, Democrat House Minority Leader Hakeem Jeffries was already... Read More\nThe post Democrat Leader Jeffries Aims to Exploit Musk\u2019s Split From Trump appeared fi\u2026",
-    "link": "https://www.dailysignal.com/2025/06/06/dem-leader-jeffries-weighs-friendly-relationship-musk/",
-    "timestamp": "2025-06-06T18:34:54Z"
-  },
-  {
-    "title": "Mark Hamill blasts Trump's AI 'Star Wars' image on 'The View'",
-    "description": "Mark Hamill is reacting to the AI-generated 'Star Wars' image of Donald Trump holding a red lightsaber that the White House posted in honor of May the 4th: 'He's full of Sith.'",
-    "link": "https://ew.com/mark-hamill-reacts-to-donald-trump-ai-generated-sith-photo-on-the-view-11749748",
-    "timestamp": "2025-06-06T18:33:45Z"
-  },
-  {
-    "title": "Proud Boys Leaders Sue Justice Department",
-    "description": "\u201cFive leaders of the Proud Boys, four of whom were found guilty of engaging in a seditious conspiracy to keep President Donald Trump in power on Jan. 6, 2021, want the government to pay them",
-    "link": "https://politicalwire.com/2025/06/06/proud-boys-leaders-sue-justice-department/",
-    "timestamp": "2025-06-06T18:33:07Z"
-  },
-  {
-    "title": "\u2018The Daily Show\u2019s Ronny Chieng Revels In The \u201cCountercultural\u201d Nature Of The \u201cCircus\u201d",
-    "description": "Ronny Chieng became a U.S. citizen in April. The day it happened was a normal day at work with Chieng sitting behind the desk of The Daily Show, until it wasn\u2019t. Answering questions from the audience, Chieng was surprised by Bill Murray, a guest on that eveni\u2026",
-    "link": "http://deadline.com/2025/06/the-daily-show-ronny-chieng-interview-1236425001/",
-    "timestamp": "2025-06-06T18:33:00Z"
-  },
-  {
-    "title": "Trump's pick to head FAA investigated after secretly posing as flight attendant",
-    "description": "President Donald Trump\u2019s nominee to lead the Federal Aviation Administration, Bryan Bedford, was himself investigated by the agency in 2010, according to a Wall Street Journal report\r\n. The inquiry into Bedford stemmed from a 2010 episode of \u201cUndercover Boss\u201d\u2026",
-    "link": "https://www.rawstory.com/faa-2672323734/",
-    "timestamp": "2025-06-06T18:33:00Z"
-  },
-  {
-    "title": "The Trump Administration is Banning Books on Military Bases. We Sued.",
-    "description": "On military bases across the globe, books are disappearing from shelves. Posters of historical figures, like Frida Kahlo, are being removed from walls. Black History Month celebrations are being cancelled.\nThis rampant censorship is the result of the Departme\u2026",
-    "link": "https://www.aclu.org/news/free-speech/the-trump-administration-is-banning-books-on-military-bases-we-sued",
-    "timestamp": "2025-06-06T18:32:21Z"
-  },
-  {
-    "title": "Due process for men held in Salvadoran mega-prison still seems remote",
-    "description": "The Trump administration didn't give these men due process before sending them to a notorious Salvadoran prison, and it doesn't look like they'll get it anytime soon.",
-    "link": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/cecot-salvador-prison-deportations-deadline-newsletter-rcna211427",
-    "timestamp": "2025-06-06T18:32:04Z"
   }
 ]
