@@ -1,5 +1,47 @@
 [
   {
+    "title": "Journalist Shot by Police at LA Protests",
+    "description": "Australian journalist Lauren Tomasi was shot with a rubber bullet by police during protests as Trump deployed troops to the city.",
+    "link": "https://www.newsweek.com/los-angeles-protests-journalist-shot-rubber-bullets-2082640",
+    "timestamp": "2025-06-09T08:56:46Z"
+  },
+  {
+    "title": "New Mirai botnet targets TBK DVRs by exploiting CVE-2024-3721",
+    "description": "A new variant of the Mirai botnet exploits CVE-2024-3721 to target DVR systems, using a new infection method. Researchers from Russian cybersecurity firm Kaspersky discovered a new variant of the Mirai botnet that exploits a command injection vulnerability (C\u2026",
+    "link": "https://securityaffairs.com/178779/malware/new-mirai-botnet-targets-tbk-dvrs-by-exploiting-cve-2024-3721.html",
+    "timestamp": "2025-06-09T08:54:53Z"
+  },
+  {
+    "title": "Donald Trump and Elon Musk urged by Republicans to end feud",
+    "description": "Republicans fearful about potential consequences of a prolonged feud between US President Donald Trump and Elon Musk are urging the pair to call a truce.",
+    "link": "https://www.independent.ie/world-news/north-america/donald-trump-and-elon-musk-urged-by-republicans-to-end-feud/a1554840704.html",
+    "timestamp": "2025-06-09T08:49:12Z"
+  },
+  {
+    "title": "Trump Urges California Governor to Apologize to People in Los Angeles for \u2018Horrible Job\u2019",
+    "description": "MOSCOW (Sputnik) - US President Donald Trump has urged California Governor Gavin Newsom and Los Angeles Mayor Karen Bass to apologize to the people in Los Angeles for the \"horrible job\" they both had done amid the protests.",
+    "link": "https://sputnikglobe.com/20250609/trump-urges-california-governor-to-apologize-to-people-in-los-angeles-for-horrible-job-1122217099.html",
+    "timestamp": "2025-06-09T08:49:10Z"
+  },
+  {
+    "title": "How Trump Broke the Politics of Medicaid",
+    "description": "\u201cRepublicans used to cheer the possibility of Medicaid cuts. Now, as the GOP advances President Donald Trump\u2019s \u2018Big Beautiful Bill\u2019 that would reduce Medicaid spending, they\u2019re rebranding it as making the program stronger,\u201d Politico reports.",
+    "link": "https://politicalwire.com/2025/06/09/how-trump-broke-the-politics-of-medicaid/",
+    "timestamp": "2025-06-09T08:49:00Z"
+  },
+  {
+    "title": "'Collapse In Immigration' Poses A Bigger Economic Threat Than Trump's Tariffs, Warns Deutsche Bank: 'Negative Supply Shock Is Not Good News For A Currency'",
+    "description": "Deutsche Bank has indicated that the ongoing immigration crackdown and subsequent decline in numbers is causing a more severe negative supply shock to the economy than the tariffs imposed by President Donald Trump.\nWhat Happened: Since Trump\u2019s inauguration, m\u2026",
+    "link": "https://biztoc.com/x/83b414a7ce642b59",
+    "timestamp": "2025-06-09T08:48:55Z"
+  },
+  {
+    "title": "Why there are huge riots in LA as reporter and British photographer shot by police",
+    "description": "Here is the reason why there are currently major riots taking place across Los Angeles following Donald Trump's decision to deploy the national guard.",
+    "link": "https://www.ladbible.com/news/us-news/los-angeles-immigration-raids-riots-military-reason-why-031677-20250609",
+    "timestamp": "2025-06-09T08:47:17Z"
+  },
+  {
     "title": "New disputes emerge ahead of US-China trade talks in London",
     "description": "U.S.-China trade talks in London this week are expected to take up a series of disputes that have buffeted relations",
     "link": "https://abcnews.go.com/Business/wireStory/new-disputes-emerge-ahead-us-china-trade-talks-122641351",
@@ -508,53 +550,5 @@
     "description": "A public clash between Elon Musk and Donald Trump in early June 2025 triggered a massive selloff of Tesla stock, erasing $150 billion in market capitalisation. This turmoil, however, presents a significant opportunity for India.",
     "link": "https://economictimes.indiatimes.com/industry/renewables/power-shift-how-teslas-turmoil-is-steering-global-capital-towards-india/articleshow/121720075.cms",
     "timestamp": "2025-06-09T06:13:21Z"
-  },
-  {
-    "title": "US-China trade war talks in London aim for widespread truce",
-    "description": "Top US and Chinese officials are meeting in London on Monday in the hope of making further progress in easing the trade war between the world's two largest economies.",
-    "link": "https://news.sky.com/story/trade-war-us-china-talks-in-london-aim-for-widespread-truce-13381010",
-    "timestamp": "2025-06-09T06:04:00Z"
-  },
-  {
-    "title": "LAPD Chief Contradicts Newsom, Bass, Schiff: \u2018Violence Is Escalating\u2019",
-    "description": "The violence from protesters involved in the pro-migration, foreign-flag-waving riots in Los Angeles is \"escalating,\" Los Angeles Police Department Chief Jim McDonnell revealed during a press conference.\nThe post LAPD Chief Contradicts Newsom, Bass, Schiff: \u2018\u2026",
-    "link": "https://www.breitbart.com/politics/2025/06/08/lapd-chief-contradicts-newsom-bass-schiff-violence-escalating/",
-    "timestamp": "2025-06-09T06:01:37Z"
-  },
-  {
-    "title": "Poll: U.S. no longer seen as Russia\u2019s top enemy",
-    "description": "For the first time in 20 years, Russians no longer view the U.S. as their top adversary \u2013 Germany, the U.K. and Ukraine now lead the list of most hostile nations, with the U.S. dropping to fourth. Russia\u2019s strongest perceived allies remain Belarus (80 percent\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-us-no-longer-seen-russias-top-enemy.html",
-    "timestamp": "2025-06-09T06:00:00Z"
-  },
-  {
-    "title": "Trump warns of \u201cvery, very tough\u201d SANCTIONS on both Russia and Ukraine if peace talks collapse",
-    "description": "President Trump warned that the U.S. could impose severe sanctions on both Russia and Ukraine if peace negotiations fail, signaling a potential shift in Washington\u2019s approach to the conflict. Trump emphasized a delicate strategy of supporting Ukraine while pr\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-trump-threatens-sanctions-russia-ukraine-talks-collapse.html",
-    "timestamp": "2025-06-09T06:00:00Z"
-  },
-  {
-    "title": "Trump orders visa suspensions on 19 countries due to national security concerns",
-    "description": "President Donald Trump announced visa suspensions affecting 19 countries due to national security concerns and inadequate vetting capabilities, effective June 9. Full suspensions apply to 12 countries (e.g., Afghanistan, Iran, Somalia), while partial restrict\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-trump-orders-visa-suspensions-on-19-countries.html",
-    "timestamp": "2025-06-09T06:00:00Z"
-  },
-  {
-    "title": "Former Epstein defense lawyer DENIES Musk\u2019s claim that Trump is named in financier\u2019s docs",
-    "description": "Jeffrey Epstein\u2019s former defense lawyer David Schoen stated unequivocally that President Donald Trump\u2019s name is absent in Epstein\u2019s sealed documents, countering Elon Musk\u2019s claims. Musk accused Trump of being named in the sealed files and suggested the DOJ wa\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-former-epstein-lawyer-denies-trump-named-docs.html",
-    "timestamp": "2025-06-09T06:00:00Z"
-  },
-  {
-    "title": "Trump declares L.A. \u2018Under Insurrection\u2019 as federal forces mobilize to expel illegal migrants",
-    "description": "Trump Declares \u201cInsurrection\u201d: President Trump labels Los Angeles protests against deportation raids as an \u201cinsurrection,\u201d hinting at invoking the Insurrection Act\u2014last used in 1992\u2014to deploy federal forces. Federal Troops Mobilize: Marines and National Guard\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-trump-declares-los-angeles-under-insurrection.html",
-    "timestamp": "2025-06-09T06:00:00Z"
-  },
-  {
-    "title": "Rising tensions: Ukraine\u2019s strikes on Russian air bases fuel nuclear threat and global concerns",
-    "description": "Ukraine\u2019s coordinated drone attacks on Russian air bases, planned for over a year, caused significant damage, including up to \u20ac6 billion ($6.8 billion) in destruction and the loss of at least 40 warplanes, including strategic bombers. These strikes targeted d\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-ukraine-strikes-russian-bases-fuel-nuclear-threat.html",
-    "timestamp": "2025-06-09T06:00:00Z"
   }
 ]
