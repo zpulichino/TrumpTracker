@@ -1,5 +1,17 @@
 [
   {
+    "title": "Protests intensify in Los Angeles after Trump deploys hundreds of National Guard troops",
+    "description": "Thousands of protesters took to the street in Los Angeles on Sunday in response to President Donald Trump's extraordinary deployment of the National Guard against Gov. Gavin Newsom's wishes. The demonstrations centered on a cluster of federal buildings includ\u2026",
+    "link": "https://apnews.com/article/los-angeles-protests-national-guard-trump-14c9dda32663d7d2c45f2b1c5a1d219c",
+    "timestamp": "2025-06-09T07:49:00Z"
+  },
+  {
+    "title": "What does Donald Trump's new travel ban mean?",
+    "description": "President Donald Trump's order banning citizens of 12 countries, now in effect, aims to protect the US from \"foreign terrorists.\" What are the reasons and who is exempt?",
+    "link": "https://www.dw.com/en/what-does-donald-trumps-new-travel-ban-mean/a-72809077",
+    "timestamp": "2025-06-09T07:49:00Z"
+  },
+  {
     "title": "LA Protests: Photos Show Waymo Cars on Fire in Riots",
     "description": "As protests continue in Los Angeles, immigration arrests have sparked vandalism, leading to President Trump issuing a federal troop intervention.",
     "link": "https://www.newsweek.com/los-angeles-protests-update-waymo-fire-2082612",
@@ -342,15 +354,15 @@
     "timestamp": "2025-06-09T06:01:37Z"
   },
   {
-    "title": "Poll: U.S. no longer seen as Russia\u2019s top enemy",
-    "description": "For the first time in 20 years, Russians no longer view the U.S. as their top adversary \u2013 Germany, the U.K. and Ukraine now lead the list of most hostile nations, with the U.S. dropping to fourth. Russia\u2019s strongest perceived allies remain Belarus (80 percent\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-us-no-longer-seen-russias-top-enemy.html",
-    "timestamp": "2025-06-09T06:00:00Z"
-  },
-  {
     "title": "Trump warns of \u201cvery, very tough\u201d SANCTIONS on both Russia and Ukraine if peace talks collapse",
     "description": "President Trump warned that the U.S. could impose severe sanctions on both Russia and Ukraine if peace negotiations fail, signaling a potential shift in Washington\u2019s approach to the conflict. Trump emphasized a delicate strategy of supporting Ukraine while pr\u2026",
     "link": "https://www.naturalnews.com/2025-06-09-trump-threatens-sanctions-russia-ukraine-talks-collapse.html",
+    "timestamp": "2025-06-09T06:00:00Z"
+  },
+  {
+    "title": "Former Epstein defense lawyer DENIES Musk\u2019s claim that Trump is named in financier\u2019s docs",
+    "description": "Jeffrey Epstein\u2019s former defense lawyer David Schoen stated unequivocally that President Donald Trump\u2019s name is absent in Epstein\u2019s sealed documents, countering Elon Musk\u2019s claims. Musk accused Trump of being named in the sealed files and suggested the DOJ wa\u2026",
+    "link": "https://www.naturalnews.com/2025-06-09-former-epstein-lawyer-denies-trump-named-docs.html",
     "timestamp": "2025-06-09T06:00:00Z"
   },
   {
@@ -360,9 +372,9 @@
     "timestamp": "2025-06-09T06:00:00Z"
   },
   {
-    "title": "Former Epstein defense lawyer DENIES Musk\u2019s claim that Trump is named in financier\u2019s docs",
-    "description": "Jeffrey Epstein\u2019s former defense lawyer David Schoen stated unequivocally that President Donald Trump\u2019s name is absent in Epstein\u2019s sealed documents, countering Elon Musk\u2019s claims. Musk accused Trump of being named in the sealed files and suggested the DOJ wa\u2026",
-    "link": "https://www.naturalnews.com/2025-06-09-former-epstein-lawyer-denies-trump-named-docs.html",
+    "title": "Poll: U.S. no longer seen as Russia\u2019s top enemy",
+    "description": "For the first time in 20 years, Russians no longer view the U.S. as their top adversary \u2013 Germany, the U.K. and Ukraine now lead the list of most hostile nations, with the U.S. dropping to fourth. Russia\u2019s strongest perceived allies remain Belarus (80 percent\u2026",
+    "link": "https://www.naturalnews.com/2025-06-09-us-no-longer-seen-russias-top-enemy.html",
     "timestamp": "2025-06-09T06:00:00Z"
   },
   {
@@ -538,17 +550,5 @@
     "description": "Order includes African, Middle Eastern, Caribbean and Asian nations; new visa applications blocked starting Monday",
     "link": "https://www.israelnationalnews.com/news/409659",
     "timestamp": "2025-06-09T04:45:01Z"
-  },
-  {
-    "title": "Crude oil edges lower despite scheduled US-China trade talks",
-    "description": "Crude oil futures traded marginally lower on Monday morning, even as the US and China were set to begin negotiations later in the day to ease trade tensions.",
-    "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-edges-lower-despite-scheduled-us-china-trade-talks/article69673584.ece",
-    "timestamp": "2025-06-09T04:43:52Z"
-  },
-  {
-    "title": "China\u2019s Rare Earth Exports Recover Ahead of US Trade Talks",
-    "description": "Chinese exports of rare earths, a group of 17 minerals at the center of a trade dispute with Washington, rose 23% in May from the previous month, according to customs data on Monday.",
-    "link": "https://financialpost.com/pmn/business-pmn/chinas-rare-earth-exports-recover-ahead-of-us-trade-talks",
-    "timestamp": "2025-06-09T04:40:21Z"
   }
 ]
