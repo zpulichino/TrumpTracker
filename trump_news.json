@@ -1,5 +1,29 @@
 [
   {
+    "title": "Donald Trump Speaks About Elon Musk's Drug Use",
+    "description": "Musk has spoken openly about using ketamine therapy to treat depression.",
+    "link": "https://www.newsweek.com/donald-trump-elon-musk-drug-use-2083304",
+    "timestamp": "2025-06-10T09:51:37Z"
+  },
+  {
+    "title": "Zelenskiy calls for \u2018concrete actions\u2019 as hundreds of Russian drones and missiles strike Ukrainian cities",
+    "description": "Kyiv main focus of latest barrage with launching of 316 drones and seven missles seen as part of response to operation that destroyed bombers",
+    "link": "https://www.irishtimes.com/world/europe/2025/06/10/zelenskiy-calls-for-concrete-actions-as-hundreds-of-russian-drones-and-missles-strike-ukrainian-cities/",
+    "timestamp": "2025-06-10T09:50:57Z"
+  },
+  {
+    "title": "Trump says Iran nuclear talks to resume with Tehran set to offer counter-proposal",
+    "description": "Iran said Monday that it will soon hand a counter-proposal for a nuclear deal to the United States in response to a U.S. offer that Tehran deems \u201cunacceptable.\u201d",
+    "link": "https://www.nbcnews.com/world/middle-east/trump-says-iran-nuclear-talks-resume-tehran-set-offer-counter-proposal-rcna211970",
+    "timestamp": "2025-06-10T09:50:07Z"
+  },
+  {
+    "title": "The murky Musk-Trump row",
+    "description": "Musk\u2019s scathing comments on the Big Beautiful Bill sparked off the war of words",
+    "link": "https://www.thehindubusinessline.com/opinion/the-murky-musk-trump-row/article69678314.ece",
+    "timestamp": "2025-06-10T09:49:43Z"
+  },
+  {
     "title": "I Watched the Diddy Trial From the Courtroom. Then I Watched It on YouTube. Whoa.",
     "description": "This is no Depp/Heard trial\u2014but it might be something stranger.",
     "link": "https://slate.com/business/2025/06/diddy-trial-youtube-streamers-tiktok.html",
@@ -120,15 +144,15 @@
     "timestamp": "2025-06-10T09:09:29Z"
   },
   {
-    "title": "Trump sends National Guard troops to address Los Angeles immigration protests",
-    "description": "The White House said on Saturday that at least 2,000 National Guard personnel will be deployed in response to protests over federal immigration raids in Los Angeles, California.",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-pdo03.htm",
-    "timestamp": "2025-06-10T09:09:02Z"
-  },
-  {
     "title": "LA anti-immigration protests intensify after Trump sends in troops",
     "description": "Protests against the U.S. administration's immigration crackdown have intensified in Los Angeles after President Donald Trump dispatched national guard troops to respond to what he called an invasion of undocumented immigrants and migrant riots in the city, a\u2026",
     "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-irna02.htm",
+    "timestamp": "2025-06-10T09:09:02Z"
+  },
+  {
+    "title": "Trump sends National Guard troops to address Los Angeles immigration protests",
+    "description": "The White House said on Saturday that at least 2,000 National Guard personnel will be deployed in response to protests over federal immigration raids in Los Angeles, California.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-pdo03.htm",
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
@@ -138,9 +162,9 @@
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
-    "title": "California sues Trump administration over National Guard deployment in Los Angeles",
-    "description": "California has filed a lawsuit against the Trump administration for deploying National Guard troops to Los Angeles amid protests over immigration raids, Attorney General Rob Bonta announced.",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-presstv01.htm",
+    "title": "Putin, Trump Have Working Relationship, Get Straight to Point in Talks - Lavrov",
+    "description": "Russian President Vladimir Putin and US President Donald Trump maintain a working relationship and immediately address substantive matters during phone conversations, Russian Foreign Minister Sergey Lavrov said on Monday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/06/russia-250609-sputnik01.htm",
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
@@ -150,21 +174,9 @@
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
-    "title": "Protests in Los Angeles lead to clashes, arrests following Trump's immigration policies",
-    "description": "Following the escalation of Donald Trump administration's actions against immigrants, widespread protests have taken place in the Los Angeles area, leading to clashes between police and protesters, violence, tear gas, and the arrest of dozens of people.",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-irna01.htm",
-    "timestamp": "2025-06-10T09:09:02Z"
-  },
-  {
-    "title": "LA's anger against Trump's immigration raids spreading as more cities join protests",
-    "description": "As US President Donald Trump intensifies crackdown on Anti-ICE (Immigration and Customs Enforcement) demonstrations in Los Angeles, protests have erupted in two of the largest cities in the US, New York and San Francisco, with ensuing clashes and violence.",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-presstv02.htm",
-    "timestamp": "2025-06-10T09:09:02Z"
-  },
-  {
-    "title": "Trump deploying California National Guard to LA to quell protests despite governor's objections",
-    "description": "U.S. President Donald Trump is deploying National Guard troops in Los Angeles despite the governor's objections as protests over immigration raids continue.",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-pdo02.htm",
+    "title": "California sues Trump administration over National Guard deployment in Los Angeles",
+    "description": "California has filed a lawsuit against the Trump administration for deploying National Guard troops to Los Angeles amid protests over immigration raids, Attorney General Rob Bonta announced.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-presstv01.htm",
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
@@ -174,9 +186,21 @@
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
-    "title": "Putin, Trump Have Working Relationship, Get Straight to Point in Talks - Lavrov",
-    "description": "Russian President Vladimir Putin and US President Donald Trump maintain a working relationship and immediately address substantive matters during phone conversations, Russian Foreign Minister Sergey Lavrov said on Monday.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/06/russia-250609-sputnik01.htm",
+    "title": "Protests in Los Angeles lead to clashes, arrests following Trump's immigration policies",
+    "description": "Following the escalation of Donald Trump administration's actions against immigrants, widespread protests have taken place in the Los Angeles area, leading to clashes between police and protesters, violence, tear gas, and the arrest of dozens of people.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-irna01.htm",
+    "timestamp": "2025-06-10T09:09:02Z"
+  },
+  {
+    "title": "Trump deploying California National Guard to LA to quell protests despite governor's objections",
+    "description": "U.S. President Donald Trump is deploying National Guard troops in Los Angeles despite the governor's objections as protests over immigration raids continue.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-pdo02.htm",
+    "timestamp": "2025-06-10T09:09:02Z"
+  },
+  {
+    "title": "LA's anger against Trump's immigration raids spreading as more cities join protests",
+    "description": "As US President Donald Trump intensifies crackdown on Anti-ICE (Immigration and Customs Enforcement) demonstrations in Los Angeles, protests have erupted in two of the largest cities in the US, New York and San Francisco, with ensuing clashes and violence.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-presstv02.htm",
     "timestamp": "2025-06-10T09:09:02Z"
   },
   {
@@ -186,21 +210,15 @@
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
-    "title": "About 700 U.S. Marines being activated to respond to protests in Los Angeles",
-    "description": "About 700 U.S. Marines have been activated to respond to the protests in Los Angeles, the second-largest city in the country, U.S. Northern Command confirmed on Monday.",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250610-pdo05.htm",
-    "timestamp": "2025-06-10T09:06:45Z"
-  },
-  {
     "title": "Trump suggests arresting Gavin Newsom; 'A day I hoped I would never see in America,' Governor responds",
     "description": "The US state of California on Monday sued the Trump administration for deploying the state's National Guard in Los Angeles amid protests against federal immigration raids, calling the move \"an unmistakable step toward authoritarianism.\"",
     "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250610-globaltimes01.htm",
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
-    "title": "Governor Newsom suing President Trump and Department of Defense for illegal takeover of CalGuard unit",
-    "description": "Following President Trump's call to arrest Governor Gavin Newsom, the Governor and Attorney General Rob Bonta today are filing a lawsuit against the Trump administration to end the illegal and unnecessary takeover of a CalGuard unit, which has needlessly esca\u2026",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-californiagov-newsom01.htm",
+    "title": "About 700 U.S. Marines being activated to respond to protests in Los Angeles",
+    "description": "About 700 U.S. Marines have been activated to respond to the protests in Los Angeles, the second-largest city in the country, U.S. Northern Command confirmed on Monday.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250610-pdo05.htm",
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
@@ -210,15 +228,15 @@
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
-    "title": "California sues Trump over \"unlawful\" National Guard order",
-    "description": "The U.S. state of California on Monday sued the Trump administration for deploying the state's National Guard in Los Angeles amid protests against federal immigration raids, calling the move \"an unmistakable step toward authoritarianism.\"",
-    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250610-pdo02.htm",
+    "title": "Governor Newsom suing President Trump and Department of Defense for illegal takeover of CalGuard unit",
+    "description": "Following President Trump's call to arrest Governor Gavin Newsom, the Governor and Attorney General Rob Bonta today are filing a lawsuit against the Trump administration to end the illegal and unnecessary takeover of a CalGuard unit, which has needlessly esca\u2026",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250609-californiagov-newsom01.htm",
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
-    "title": "US delegation to visit Syria for new official military base in al-Tanf: Report",
-    "description": "A US delegation is reportedly going to pay a visit to Syria within the next few days in order to hold talks with officials from the ruling Hay'at Tahrir al-Sham (HTS) administration, and possibly sign a deal for construction of a permanent military base in th\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/syria/2025/syria-250609-presstv01.htm",
+    "title": "California sues Trump over \"unlawful\" National Guard order",
+    "description": "The U.S. state of California on Monday sued the Trump administration for deploying the state's National Guard in Los Angeles amid protests against federal immigration raids, calling the move \"an unmistakable step toward authoritarianism.\"",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250610-pdo02.htm",
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
@@ -228,9 +246,21 @@
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
+    "title": "US delegation to visit Syria for new official military base in al-Tanf: Report",
+    "description": "A US delegation is reportedly going to pay a visit to Syria within the next few days in order to hold talks with officials from the ruling Hay'at Tahrir al-Sham (HTS) administration, and possibly sign a deal for construction of a permanent military base in th\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/syria/2025/syria-250609-presstv01.htm",
+    "timestamp": "2025-06-10T09:06:45Z"
+  },
+  {
     "title": "Iran, US Say Nuclear Talks To Continue But Give Different Dates For Next Round",
     "description": "Iran and the United States on June 9 indicated that talks on Iran's nuclear program will continue but the two side gave different dates for the next round of negotiations.",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/iran-250610-rferl01.htm",
+    "timestamp": "2025-06-10T09:06:45Z"
+  },
+  {
+    "title": "Israeli forces continue demolition campaign in occupied West Bank amid ongoing offensive",
+    "description": "Israeli forces are pressing ahead with a campaign of demolition and forced displacement of Palestinians across the occupied West Bank.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/06/mil-250609-presstv03.htm",
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
@@ -243,12 +273,6 @@
     "title": "Trump's travel ban takes effect amid growing chaos over immigration enforcement",
     "description": "An extensive travel ban issued by U.S. President Donald Trump took effect on Monday amid growing chaos over the Trump administration's immigration enforcement.",
     "link": "https://www.globalsecurity.org/security/library/news/2025/06/sec-250610-pdo03.htm",
-    "timestamp": "2025-06-10T09:06:45Z"
-  },
-  {
-    "title": "Israeli forces continue demolition campaign in occupied West Bank amid ongoing offensive",
-    "description": "Israeli forces are pressing ahead with a campaign of demolition and forced displacement of Palestinians across the occupied West Bank.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/06/mil-250609-presstv03.htm",
     "timestamp": "2025-06-10T09:06:45Z"
   },
   {
@@ -312,21 +336,21 @@
     "timestamp": "2025-06-10T09:00:00Z"
   },
   {
-    "title": "Letters From the July/August 2025 Issue",
-    "description": "Our Readers\n\n\n\nThe radical self\u2026 In defense of Andrea Dworkin and Catharine MacKinnon (online only)\u2026 George Foreman in a new light (online only)\u2026 Elon Musk\u2019s apartheid influences (online only)\u2026\r\n\n\r\n\n\nThe post Letters From the July/August 2025 Issue appeared f\u2026",
-    "link": "https://www.thenation.com/article/society/letters-from-the-july-august-2025-issue/",
-    "timestamp": "2025-06-10T09:00:00Z"
-  },
-  {
     "title": "\u201cDisturbing\u201d: Trump\u2019s Threats to Use Troops in Cities Just Got Darker",
     "description": "Over the weekend, President Donald Trump ordered up the National Guard to deal with violence that broke out in Los Angeles amid protests of Trump\u2019s immigration policies. This has angered California Governor Gavin Newsom, who is suing to stop it. But then Trum\u2026",
     "link": "https://newrepublic.com/article/196325/disturbing-trump-threat-use-troops-cities-just-got-darker",
     "timestamp": "2025-06-10T09:00:00Z"
   },
   {
-    "title": "If Trump Could Make John Wayne the Head of Homeland Security, He Would",
-    "description": "John Ganz\n\n\n\nTrump\u2019s appeal stems from the way he combines restoration and revolution. His reactionary modernism may have beguiled Silicon Valley, but the rest of us should expect repression.\r\n\n\r\n\n\nThe post If Trump Could Make John Wayne the Head of Homeland \u2026",
-    "link": "https://www.thenation.com/?post_type=article&p=558573",
+    "title": "Letters From the July/August 2025 Issue",
+    "description": "Our Readers\n\n\n\nThe radical self\u2026 In defense of Andrea Dworkin and Catharine MacKinnon (online only)\u2026 George Foreman in a new light (online only)\u2026 Elon Musk\u2019s apartheid influences (online only)\u2026\r\n\n\r\n\n\nThe post Letters From the July/August 2025 Issue appeared f\u2026",
+    "link": "https://www.thenation.com/article/society/letters-from-the-july-august-2025-issue/",
+    "timestamp": "2025-06-10T09:00:00Z"
+  },
+  {
+    "title": "How Musk Can Kill Trump\u2019s Big Beautiful Bill",
+    "description": "The multibillionaire should quit attacking Trump and aim his fire at the president\u2019s \u201cdisgusting abomination\u201d of a bill. \nThe post How Musk Can Kill Trump\u2019s Big Beautiful Bill\u00a0 appeared first on Washington Monthly.",
+    "link": "http://washingtonmonthly.com/2025/06/10/how-musk-can-kill-trumps-big-beautiful-bill/",
     "timestamp": "2025-06-10T09:00:00Z"
   },
   {
@@ -336,9 +360,9 @@
     "timestamp": "2025-06-10T09:00:00Z"
   },
   {
-    "title": "How Musk Can Kill Trump\u2019s Big Beautiful Bill",
-    "description": "The multibillionaire should quit attacking Trump and aim his fire at the president\u2019s \u201cdisgusting abomination\u201d of a bill. \nThe post How Musk Can Kill Trump\u2019s Big Beautiful Bill\u00a0 appeared first on Washington Monthly.",
-    "link": "http://washingtonmonthly.com/2025/06/10/how-musk-can-kill-trumps-big-beautiful-bill/",
+    "title": "If Trump Could Make John Wayne the Head of Homeland Security, He Would",
+    "description": "John Ganz\n\n\n\nTrump\u2019s appeal stems from the way he combines restoration and revolution. His reactionary modernism may have beguiled Silicon Valley, but the rest of us should expect repression.\r\n\n\r\n\n\nThe post If Trump Could Make John Wayne the Head of Homeland \u2026",
+    "link": "https://www.thenation.com/?post_type=article&p=558573",
     "timestamp": "2025-06-10T09:00:00Z"
   },
   {
@@ -544,29 +568,5 @@
     "description": "Los Angeles, United States (AFP) June 10, 2025\n\n\n President Donald Trump ordered active-duty US Marines and 2,000 more National Guard troops into Los Angeles on Monday, vowing those protesting immigration arrests would be \"hit harder\" than ever. \n\nTrump's ext\u2026",
     "link": "https://www.spacewar.com/reports/Trump_deploys_Marines_as_tensions_rise_over_Los_Angeles_protests_999.html",
     "timestamp": "2025-06-10T07:46:41Z"
-  },
-  {
-    "title": "NATO learns as Ukraine's 'creativity' changes battlefield",
-    "description": "Brussels, Belgium (AFP) June 9, 2025\n\n\n Ukraine's \"creativity\", including its massive \"Spider's web\" drone attack deep inside Russia, holds profound lessons for Western militaries, the top NATO commander overseeing battlefield innovation told AFP. \n\n\"What the\u2026",
-    "link": "https://www.spacewar.com/reports/NATO_learns_as_Ukraines_creativity_changes_battlefield_999.html",
-    "timestamp": "2025-06-10T07:46:41Z"
-  },
-  {
-    "title": "Iran says to submit own nuclear proposal to US soon",
-    "description": "Tehran (AFP) June 9, 2025\n\n\n Iran said on Monday it will soon present a counter-proposal on a nuclear deal with the United States, after it had described Washington's offer as containing \"ambiguities\". \n\nTehran and Washington have held five rounds of talks si\u2026",
-    "link": "https://www.spacewar.com/reports/Iran_says_to_submit_own_nuclear_proposal_to_US_soon_999.html",
-    "timestamp": "2025-06-10T07:46:41Z"
-  },
-  {
-    "title": "Hillary Clinton Exposes Donald Trump\u2019s Narcissistic Motive For Sending Troops To LA",
-    "description": "And it isn't \"to keep Californians safe,\" warned Trump's 2016 Democratic rival.",
-    "link": "https://www.huffpost.com/entry/hillary-clinton-donald-trump-california-goal_n_6847db04e4b07d60ea74a4c2",
-    "timestamp": "2025-06-10T07:46:15Z"
-  },
-  {
-    "title": "CNN Reporter Detained by LA Riot Police Live on Air",
-    "description": "Jason Carroll, a national correspondent for CNN, was led away with his hands behind his back.",
-    "link": "https://www.newsweek.com/cnn-reporter-detained-la-riot-police-live-air-2083236",
-    "timestamp": "2025-06-10T07:45:36Z"
   }
 ]
