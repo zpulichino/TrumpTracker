@@ -1,5 +1,575 @@
 [
   {
+    "title": "Iranian media says nuclear sites 'attacked by enemy strikes'",
+    "description": "Iranian media said on Sunday that part of the Fordo uranium enrichment facility as well as the Isfahan and Natanz nuclear sites were attacked, after Donald Trump said the US had bombed them. \"A few hours ago, after Qom's air defenses were activated and hostil\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/iranian-media-says-nuclear-sites-attacked-by-enemy-strikes/articleshow/122000676.cms",
+    "timestamp": "2025-06-22T01:13:22Z"
+  },
+  {
+    "title": "Trump said not to be planning further strikes on Iran",
+    "description": "United States President Donald Trump reportedly isn't planning further strikes on Iran, following the bombing of three of the country's nuclear sites, CNN reported, citing sources familiar with the ma...",
+    "link": "https://biztoc.com/x/f79f1d3b4206f074",
+    "timestamp": "2025-06-22T01:12:49Z"
+  },
+  {
+    "title": "Pennsylvania leaders react to U.S. strike on Iran",
+    "description": "Responses are rolling in after President Donald Trump announced that the U.S. military had delivered a strike on nuclear facilities in Iran.",
+    "link": "https://www.wpxi.com/news/local/pennsylvania-leaders-react-us-strike-iran/SLXLNVOQT5FMJCOW7RT7CRH5JU/",
+    "timestamp": "2025-06-22T01:11:20Z"
+  },
+  {
+    "title": "DEATH FROM AMERICA: Trump Decimates Iran's Nuclear Sites With Big, Beautiful Bombs",
+    "description": "The United States carried out a \u201cvery successful attack\u201d on Iran\u2019s top three nuclear sites on Saturday, making good on President Donald Trump\u2019s promise to use force to cripple the Islamic Republic's nuclear program if Tehran refused to stop enriching uranium.\u2026",
+    "link": "https://freebeacon.com/america/death-from-america-trump-decimates-irans-nuclear-sites-with-big-beautiful-bombs/",
+    "timestamp": "2025-06-22T01:10:36Z"
+  },
+  {
+    "title": "Truth Social Crashes as Trump Live-Posts Bombing Iran",
+    "description": "The social network started experiencing global outages within minutes of Donald Trump posting details of a US military strike on Iran.",
+    "link": "https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/",
+    "timestamp": "2025-06-22T01:10:32Z"
+  },
+  {
+    "title": "Trump's Move Against Iran May Draw More Criticism From MAGA's Anti-Interventionists",
+    "description": "President Donald Trump\u2019s decision to strike three nuclear sites in Iran will almost assuredly draw more criticism from some of the Republican\u2019s supporters.",
+    "link": "https://www.huffpost.com/entry/us-mideast-wars-trump-maga_n_6857571ce4b0c0393cf1a3e6",
+    "timestamp": "2025-06-22T01:09:57Z"
+  },
+  {
+    "title": "CRUZ: Trump's Action Tonight Counters the Apocalyptic Threat' of Iranian Nuclear Arsenal",
+    "description": "Senator Ted Cruz (R-TX) commended our airmen, intelligence staff, President Donald Trump, and the national security staff on the successful mission to bomb nuclear facilities in Iran Saturday night.\nThe post CRUZ: Trump\u2019s Action Tonight Counters the Apocalypt\u2026",
+    "link": "https://www.breitbart.com/border/2025/06/21/cruz-trumps-action-tonight-counters-the-apocalyptic-threat-of-iranian-nuclear-arsenal/",
+    "timestamp": "2025-06-22T01:09:12Z"
+  },
+  {
+    "title": "U.S. Joins Israel in Strikes on Iranian Nuclear Sites, Trump Announces, Risking Wider War",
+    "description": "The operation marks the most direct American military intervention inside Iran in decades, reigniting fears of a widening conflict that could endanger U.S. troops, and disrupt global energy markets.",
+    "link": "https://time.com/7296469/u-s-strikes-iran-nuclear-trump-war/",
+    "timestamp": "2025-06-22T01:07:10Z"
+  },
+  {
+    "title": "Congressional leaders react to Trump ordering strike attack on Iran",
+    "description": "Lawmakers expressed surprise after the President Trump announced the U.S. had attacked three Iranian nuclear sites.",
+    "link": "https://abcnews.go.com/Politics/congressional-leaders-react-trump-ordering-strike-attack-iran/story?id=123081412",
+    "timestamp": "2025-06-22T01:07:00Z"
+  },
+  {
+    "title": "US strikes Iranian nuclear facilities",
+    "description": "Just two days after US President Donald Trump said he would decide about striking Iran\u2019s nuclear program within two weeks, US B-2 bombers hit Iranian nuclear facilities in Fordow, Natanz, and Esfahan. Attacking the hardened Fordow facility via air is a missio\u2026",
+    "link": "https://www.longwarjournal.org/archives/2025/06/us-strikes-iranian-nuclear-facilities.php",
+    "timestamp": "2025-06-22T01:06:14Z"
+  },
+  {
+    "title": "BREAKING: US Bombs Iran, Trump Announces 'Very Successful Attack' on Nuclear Site",
+    "description": "On Saturday, President Donald Trump took to Truth Social to announce that the U.S. has targeted three nuclear sites in Iran.",
+    "link": "https://www.westernjournal.com/breaking-us-bombs-iran-trump-announces-successful-attack-nuclear-site/",
+    "timestamp": "2025-06-22T01:03:35Z"
+  },
+  {
+    "title": "LIVE UPDATES: U.S. Bombs Iran Nuclear Sites; Trump: 'Now Is the Time for Peace'",
+    "description": "President Donald Trump announced Saturday evening that the U.S. had bombed three nuclear sites in Iran, and that he would be addressing the nation at 10:00 p.m. Eastern Time. He called on Iran to seek peace.\nThe post LIVE UPDATES: U.S. Bombs Iran Nuclear Site\u2026",
+    "link": "https://www.breitbart.com/middle-east/2025/06/21/u-s-bombs-iran-nuclear-sites-trump-now-is-the-time-for-peace-live-updates/",
+    "timestamp": "2025-06-22T01:02:33Z"
+  },
+  {
+    "title": "U.S. bombs Iran nuclear sites, Trump says",
+    "description": "President Donald Trump announced Saturday that U.S. forces dropped bombs on three nuclear sites in Iran, bringing America into the conflict between Iran and Israel.\"We have completed our very successful attack on the three Nuclear sites in Iran, including For\u2026",
+    "link": "https://biztoc.com/x/1f390eec2d97fcb1",
+    "timestamp": "2025-06-22T01:01:27Z"
+  },
+  {
+    "title": "Trump Announces He Dropped \u2018Payload of Bombs\u2019 on Iran via Truth Social",
+    "description": "The president declares he attacked three Iranian nuclear sites just months after his administration testified that \u201cIran is not building a nuclear weapon\u201d",
+    "link": "http://www.rollingstone.com/politics/politics-news/trump-us-bombs-iran-1235369580/",
+    "timestamp": "2025-06-22T00:55:32Z"
+  },
+  {
+    "title": "Did the U.S. Bomb Iran? Updates on the Israel-Iran War",
+    "description": "Donald Trump announced that the United States targeted three nuclear sites in Iran.",
+    "link": "https://hollywoodlife.com/2025/06/21/did-the-u-s-bomb-iran/",
+    "timestamp": "2025-06-22T00:55:30Z"
+  },
+  {
+    "title": "Trump says US launched 'very successful' attack on Iran nuclear sites",
+    "description": "Washington: President Donald Trump said Saturday the US military has carried out a \"very successful attack\" on three Iranian nuclear sites, including the crucial underground uranium enrichment facility at Fordo. Read full story",
+    "link": "https://www.thestar.com.my/news/world/2025/06/22/trump-says-us-launched-039very-successful039-attack-on-iran-nuclear-sites",
+    "timestamp": "2025-06-22T00:55:00Z"
+  },
+  {
+    "title": "Trump's 'Two Weeks' Pause on Iran Strikes Comes With High Stakes (Bloomberg)",
+    "description": "Bloomberg:\nTrump's \u2018Two Weeks\u2019 Pause on Iran Strikes Comes With High Stakes\u00a0 \u2014\u00a0 President Donald Trump often suggests that something will happen in \u201ctwo weeks\u201d when he's looking to buy himself some time.\u00a0 But his latest two-weeks declaration \u2014 on possible US \u2026",
+    "link": "https://www.memeorandum.com/250621/p64",
+    "timestamp": "2025-06-22T00:55:00Z"
+  },
+  {
+    "title": "US enters Israel\u2019s war against Iran with strikes on three nuclear sites",
+    "description": "After a week of mixed signals, Donald Trump, who has long vowed to steer the US clear of overseas \u2018forever wars\u2019, authorises US forces to strike Iran",
+    "link": "https://www.irishtimes.comhttps://www.nytimes.com/live/2025/06/21/world/iran-israel-trump/here-are-the-latest-developments",
+    "timestamp": "2025-06-22T00:54:35Z"
+  },
+  {
+    "title": "Trump to Deliver Address to the Nation After U.S. Strikes on Iran",
+    "description": "President Donald Trump revealed that he would be addressing the nation at 10:00 p.m. on Saturday after the United States successfully launched strikes on several nuclear sites in Iran.\nThe post Trump to Deliver Address to the Nation After U.S. Strikes on Iran\u2026",
+    "link": "https://www.breitbart.com/politics/2025/06/21/trump-to-deliver-address-to-the-nation-after-u-s-strikes-on-iran/",
+    "timestamp": "2025-06-22T00:53:35Z"
+  },
+  {
+    "title": "Trump takes massive gamble to try to end Iran\u2019s nuclear threat",
+    "description": "President Donald Trump shared on Truth Social that the U.S. attacked the three major Iranian nuclear sites Fordo, Natanz and Isfahan.",
+    "link": "https://biztoc.com/x/c6aa0ae5a9ee3de7",
+    "timestamp": "2025-06-22T00:50:45Z"
+  },
+  {
+    "title": "Thomas Massie Says Iran Attack 'Unconstitutional' as Trump Divides MAGA",
+    "description": "Voice is AI-generated. Inconsistencies may occur.\nRepublican Representative Thomas Massie said that President Donald Trump's decision to bomb three nuclear sites in Iran is \"unconstitutional\" as the president faces stark division within his own party.\nNewswee\u2026",
+    "link": "https://biztoc.com/x/9769a4fbbd65d817",
+    "timestamp": "2025-06-22T00:50:28Z"
+  },
+  {
+    "title": "Trump: 'Iran must now agree to end the war'",
+    "description": "United States President Donald Trump announced that he would be giving an address at the White House at 10:00 pm ET, regarding the \"very successful military operation in Iran.\"In a post on Truth Socia...",
+    "link": "https://biztoc.com/x/182dbf8292c7f4e2",
+    "timestamp": "2025-06-22T00:50:28Z"
+  },
+  {
+    "title": "Trump says U.S. has struck 3 Iranian nuclear sites, joining Israeli military campaign",
+    "description": "President Donald Trump said Saturday that the U.S. military struck three sites in Iran, directly joining Israel\u2019s effort to decapitate the country's nuclear program in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of reprisals that could spark \u2026",
+    "link": "https://biztoc.com/x/1ad3b4474ae63f9e",
+    "timestamp": "2025-06-22T00:50:25Z"
+  },
+  {
+    "title": "Trump announces \u2018very successful\u2019 air strikes on three nuclear sites in Iran",
+    "description": "By Kevin Liptak and Alejandra Jaramillo(CNN) &#8212; President Donald Trump announced Saturday evening that US military forces had dropped bombs on three Iranian nuclear facilities, ending a weeklong deliberation",
+    "link": "https://www.cbs58.com/news/trump-announces-very-successful-air-strikes-on-three-nuclear-sites-in-iran",
+    "timestamp": "2025-06-22T00:50:21Z"
+  },
+  {
+    "title": "Thomas Massie Says Iran Attack 'Unconstitutional' as Trump Divides MAGA",
+    "description": "Trump announced that the U.S. bombed three nuclear sites in Iran in a post on Saturday night.",
+    "link": "https://www.newsweek.com/thomas-massie-says-iran-attack-unconstitutional-trump-divides-maga-2088875",
+    "timestamp": "2025-06-22T00:49:08Z"
+  },
+  {
+    "title": "Trump says Iran nuclear facilities 'completely and totally obliterated' after US strike",
+    "description": "US President Donald Trump said on Saturday (Jun 21) that\u00a0Iran\u00a0must now make peace or \"we will go after\" other targets in\u00a0Iran, after US strikes that he said \"completely and totally obliterated\"\u00a0Iranian nuclear sites. \"There will be either peace or there will \u2026",
+    "link": "https://www.channelnewsasia.com/world/us-iran-attack-trump-israel-b2-bomber-live-5196191",
+    "timestamp": "2025-06-22T00:48:00Z"
+  },
+  {
+    "title": "Trump says US bombs nuclear sites in Iran",
+    "description": "The United States attacked nuclear sites in Iran, President\u00a0Donald Trump\u00a0announced on Saturday (Jun 21). This comes more than a week after Israel began strikes on Iran. Follow live updates:",
+    "link": "https://www.channelnewsasia.com/world/us-attacks-iran-nuclear-fordow-israel-b2-bomber-5196191",
+    "timestamp": "2025-06-22T00:48:00Z"
+  },
+  {
+    "title": "The Latest: Trump claims US military struck 3 sites in Iran, joining Israeli effort",
+    "description": "President Donald Trump says the U.S. military struck three sites in Iran, directly joining Israel\u2019s effort to decapitate the country\u2019s nuclear program in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of reprisals that could spark a wider region\u2026",
+    "link": "https://www.wsoctv.com/news/latest-us-strikes-3/JC6GA6ORIZESDNLXKPNHSNEHVQ/",
+    "timestamp": "2025-06-22T00:47:36Z"
+  },
+  {
+    "title": "Exclusive: Rasmussen Poll Showed Support for Airstrike on Iran -- Not Ground Troops",
+    "description": "A poll from Rasmussen Reports set to be released Monday and conducted June 17-19 revealed a plurality of Americans favored a U.S. air or naval strike on Iran to destroy its nuclear program -- but not any other attack.\nThe post Exclusive: Rasmussen Poll Showed\u2026",
+    "link": "https://www.breitbart.com/middle-east/2025/06/21/exclusive-rasmussen-poll-showed-support-for-airstrike-on-iran-not-ground-troops/",
+    "timestamp": "2025-06-22T00:47:25Z"
+  },
+  {
+    "title": "BOOM! Trump Flattens Iran\u2019s Nukes in Daring Strike \u2014 \u201cFordow is Gone\u201d",
+    "description": "In a bold show of force, U.S. jets flattened Iran's key nuclear sites overnight \u2014 delivering a crippling blow to Tehran's atomic ambitions and sending a clear message: the West will not tolerate nuclear terror. In a stunning and historic move, U.S. President \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4324527/posts",
+    "timestamp": "2025-06-22T00:46:39Z"
+  },
+  {
+    "title": "Trump says U.S. has struck 3 Iranian nuclear sites, joining Israeli military campaign",
+    "description": "President\u00a0Donald Trump\u00a0said Saturday that the U.S. military struck three sites in Iran, directly joining\u00a0Israel\u2019s effort to decapitate the country's nuclear program in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of reprisals that could spark \u2026",
+    "link": "https://www.pbs.org/newshour/world/trump-says-u-s-has-struck-3-iranian-nuclear-sites-joining-israeli-military-campaign",
+    "timestamp": "2025-06-22T00:46:25Z"
+  },
+  {
+    "title": "Trump says US hit 3 Iranian nuclear sites, joins Israel\u2019s war effort",
+    "description": "Trump confirms US airstrikes on Iran\u2019s Fordow, Natanz, and Esfahan nuclear sites using B-2 bombers and bunker busters, escalating regional tensions.",
+    "link": "https://www.thehindubusinessline.com/news/world/iran-nuclear-sites-hit-us-b2-bombers/article69723510.ece",
+    "timestamp": "2025-06-22T00:45:57Z"
+  },
+  {
+    "title": "Investors react to US attack on Iran nuclear sites",
+    "description": "In a posting on Truth Social, Trump added, \"All planes are safely on their way home\" and he ended his posting saying, \"Now is the time for peace.\"  The...",
+    "link": "https://ca.finance.yahoo.com/news/investors-react-us-attack-iran-004412712.html",
+    "timestamp": "2025-06-22T00:44:12Z"
+  },
+  {
+    "title": "'Fordow is gone': US warplanes strike three nuclear sites in Iran",
+    "description": "The US has carried out a \"very successful attack\" on three nuclear sites on Iran, President Donald Trump has said.",
+    "link": "https://news.sky.com/story/fordow-is-gone-us-warplanes-strike-three-nuclear-sites-in-iran-13386910",
+    "timestamp": "2025-06-22T00:44:00Z"
+  },
+  {
+    "title": "US hits 3 Iranian nuclear sites, Trump says, plunging America into conflict",
+    "description": "The United States struck three nuclear sites in Iran on Saturday, plunging the U.S. into a battle waged over the past several days between Israel and Iran.",
+    "link": "https://abcnews.go.com/Politics/us-hits-3-iranian-nuclear-sites-trump-plunging/story?id=123081409",
+    "timestamp": "2025-06-22T00:41:38Z"
+  },
+  {
+    "title": "Israel-Iran conflict live updates: US bombs Fordo and other nuclear sites in Iran, says Trump",
+    "description": "The United States has entered Israel's war against Iran. American warplanes dropped bombs on three nuclear sites in Iran on Saturday, President Donald Trump announced, bringing the U.S. military directly into the war after days of uncertainty about whether he\u2026",
+    "link": "https://m.economictimes.com/news/newsblogs/israel-iran-conflict-trump-says-after-strikes-iran-must-now-agree-to-end-this-war-with-israel/liveblog/122000575.cms",
+    "timestamp": "2025-06-22T00:41:07Z"
+  },
+  {
+    "title": "Trump announces US strikes on three Iranian nuclear facilities",
+    "description": "The News\nThe US bombed three Iranian nuclear facilities on Saturday evening, President Donald Trump said.\nTrump, shortly after returning to the White House for a pre-scheduled meeting with his national security team, wrote on Truth Social that the US complete\u2026",
+    "link": "https://biztoc.com/x/0089460ebc0b5887",
+    "timestamp": "2025-06-22T00:39:39Z"
+  },
+  {
+    "title": "Donald Trump to Address Nation After Attacking Iran Nuclear Sites",
+    "description": "Voice is AI-generated. Inconsistencies may occur.\nPresident Donald Trump said in a post on Truth Social that he will address the nation Saturday night following the completion of attacks on Iranian nuclear sites.\nThe attacks mark the first direct military inv\u2026",
+    "link": "https://biztoc.com/x/a3baa9727ad24dc0",
+    "timestamp": "2025-06-22T00:39:28Z"
+  },
+  {
+    "title": "US warplanes just dropped a full load of bombs on Iran's most heavily fortified nuclear site",
+    "description": "The Natanz enrichment facility on January 24, 2025. US warplanes hit Natanz, as well as Esfahan and the heavily protected Fordow site.\nSatellite image \u00a92025 Maxar Technologies\nPresident Donald Trump said US military aircraft bombed Iranian nuclear sites.\nHis \u2026",
+    "link": "https://biztoc.com/x/35b5a38664ab38a5",
+    "timestamp": "2025-06-22T00:39:17Z"
+  },
+  {
+    "title": "Breaking: B-2 Spirit Bombers Struck Iranian Nuclear Sites",
+    "description": "U.S. President Donald Trump announced that three nuclear sites in Iran have been bombed by U.S. aircraft. Few days after the mobilization of U.S. combat airpower to the Middle East, the United States joined the Israeli war against Iran. On Jun. 22, 2025, U.S.\u2026",
+    "link": "https://theaviationist.com/2025/06/22/breaking-b-2-spirit-bombers-struck-iranian-nuclear-sites/",
+    "timestamp": "2025-06-22T00:36:59Z"
+  },
+  {
+    "title": "U.S. bombs Iran nuclear sites, Trump says",
+    "description": "President Donald Trump announced Saturday that U.S. forces dropped bombs on three nuclear sites in Iran, bringing America into the conflict between Iran and Israel.\"We have completed our very successful attack on the three Nuclear sites in Iran, including For\u2026",
+    "link": "https://www.msnbc.com/top-stories/latest/us-bombs-iran-nuclear-sites-trump-rcna214311",
+    "timestamp": "2025-06-22T00:36:48Z"
+  },
+  {
+    "title": "US warplanes just dropped a full load of bombs on Iran's most heavily fortified nuclear site",
+    "description": "US military aircraft hit three of Iran's nuclear sites, dropping a \"full payload\" of bombs on the heavily protected Fordow, Trump said.",
+    "link": "https://www.businessinsider.com/us-warplanes-just-bombed-irans-nuclear-sites-2025-6",
+    "timestamp": "2025-06-22T00:36:19Z"
+  },
+  {
+    "title": "Trump says US carried out 'very successful attack' on three Iran nuclear sites",
+    "description": "Washington (AFP) June 22, 2025\n\n\n President Donald Trump said Saturday the US military has carried out a \"very successful attack\" on three Iranian nuclear sites, including the underground uranium enrichment facility at Fordo. \n\n\"We have completed our very suc\u2026",
+    "link": "https://www.spacewar.com/reports/Trump_says_US_carried_out_very_successful_attack_on_three_Iran_nuclear_sites_999.html",
+    "timestamp": "2025-06-22T00:32:35Z"
+  },
+  {
+    "title": "US forces bomb Iranian nuclear sites; 'Fordow is gone' says Trump",
+    "description": "President Donald Trump said Saturday the US military has carried out a \"very successful attack\" on three Iranian nuclear sites, including the underground uranium enrichment facility at Fordo. \"We have completed our very successful attack on the three Nuclear \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-forces-bomb-iranian-nuclear-sites-fordow-is-gone-says-trump/articleshow/122000528.cms",
+    "timestamp": "2025-06-22T00:32:16Z"
+  },
+  {
+    "title": "The U.S. Has Bombed Iran\u2019s Nuclear Sites",
+    "description": "U.S. President Donald Trump said the attack was \u201cvery successful.\u201d",
+    "link": "http://foreignpolicy.com/2025/06/21/us-bombs-iran-nuclear-sites-trump-fordow-israel/",
+    "timestamp": "2025-06-22T00:28:37Z"
+  },
+  {
+    "title": "Donald Trump to Address Nation After Attacking Iran Nuclear Sites",
+    "description": "The President is expected to discuss the attacks on nuclear sites.",
+    "link": "https://www.newsweek.com/donald-trump-address-nation-after-attacking-iran-nuclear-sites-2088874",
+    "timestamp": "2025-06-22T00:28:24Z"
+  },
+  {
+    "title": "U.S. strikes Iranian nuclear sites, Trump says",
+    "description": "The United States bombed multiple nuclear sites in Iran, President Donald Trump announced in a social media post on Saturday.",
+    "link": "https://biztoc.com/x/c39f7a586bf21dc4",
+    "timestamp": "2025-06-22T00:28:17Z"
+  },
+  {
+    "title": "U.S. Bombs Three Nuclear Sites In Iran, Donald Trump Announces",
+    "description": "The United States has carried out three strikes on three nuclear facilities in Iran, joining Israel as it tries to halt Tehran\u2019s ability to obtain an atomic weapon, President Donald Trump announced on Truth Social. The bombing has raised fears that the Irania\u2026",
+    "link": "http://deadline.com/2025/06/u-s-bombs-iran-trump-1236439242/",
+    "timestamp": "2025-06-22T00:28:12Z"
+  },
+  {
+    "title": "\u2018This is Not Constitutional\u2019: House Republican Immediately Blasts Trump\u2019s Attack on Iran",
+    "description": "Within minutes of President Donald Trump announcing that the US military had bombed Iranian nuclear facilities, he faced condemnation from both sides of the aisle in Congress.\nThe post \u2018This is Not Constitutional\u2019: House Republican Immediately Blasts Trump\u2019s \u2026",
+    "link": "https://www.mediaite.com/media/news/this-is-not-constitutional-house-republican-immediately-blasts-trumps-attack-on-iran/",
+    "timestamp": "2025-06-22T00:28:05Z"
+  },
+  {
+    "title": "American bombers have struck three Iranian nuclear sites including Fordow enrichment site",
+    "description": "The US is the only Air Force with the capability to launch so-called \u201cbunker buster\u201d bombing \u2013 this enables them to hit targets deep underground.",
+    "link": "https://www.thejournal.ie/american-bombers-have-struck-three-iranian-nuclear-sites-including-fordow-enrichment-site-6740075-Jun2025/",
+    "timestamp": "2025-06-22T00:28:04Z"
+  },
+  {
+    "title": "'Finally, good news': Hillary Clinton has rare agreement with Trump admin's move",
+    "description": "Former U.S. Secretary of State Hillary Clinton had a rare moment of agreement with Donald Trump on Saturday.Clinton, who famously lost to Trump in 2016, took to X over the weekend, drawing attention to a recent move by the Trump administration.Specifically, C\u2026",
+    "link": "https://www.rawstory.com/trump-clinton-good-news-agreement/",
+    "timestamp": "2025-06-22T00:27:41Z"
+  },
+  {
+    "title": "Trump says US forces attacked Iranian nuclear facilities",
+    "description": "JERUSALEM: U.S. President Donald Trump said that American forces successfully conducted a \u201cvery effective strike\u201d targeting three nuclear facilities in Iran, including the Fordow site, according to Reuters. In a message posted on Truth Social, Trump confirmed\u2026",
+    "link": "https://english.khabarhub.com/2025/22/479462/",
+    "timestamp": "2025-06-22T00:27:38Z"
+  },
+  {
+    "title": "US B-2 bombers involved in Iran strikes, U.S. official says",
+    "description": "WASHINGTON (Reuters) -U.S. B-2 bombers were involved in strikes on Iran's nuclear sites announced by President Donald Trump on Saturday, a U.S. official told Reuters, speaking on condition of anonymity. Read full story",
+    "link": "https://www.thestar.com.my/news/world/2025/06/22/us-b-2-bombers-involved-in-iran-strikes-us-official-says",
+    "timestamp": "2025-06-22T00:27:00Z"
+  },
+  {
+    "title": "Trump declares 'very successful attack' on Iran's nuclear program as US forces strike 3 key sites",
+    "description": "President Donald Trump says \"successful\" bombing of Iranian nuclear sites, including Fordow facility, which Israel struggled to target due to its location.",
+    "link": "https://www.foxnews.com/politics/trump-declares-very-successful-attack-irans-nuclear-program-us-forces-strike-3-key-sites",
+    "timestamp": "2025-06-22T00:26:51Z"
+  },
+  {
+    "title": "U.S.: U.S. strikes Iranian nuclear sites",
+    "description": "President\u00a0Donald Trump\u00a0said Saturday that the U.S. military struck three sites in Iran, directly joining\u00a0Israel\u00a0\u2019s effort to decapitate the country\u2019s nuclear program in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of reprisals that could spark\u2026",
+    "link": "https://www.wftv.com/news/local/us-has-struck-three-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign/QA7QCASGDVGWTEV4TMJTV2OIXY/",
+    "timestamp": "2025-06-22T00:23:23Z"
+  },
+  {
+    "title": "Trump takes massive gamble to try to end Iran\u2019s nuclear threat",
+    "description": "President Donald Trump shared on Truth Social that the U.S. attacked the three major Iranian nuclear sites Fordo, Natanz and Isfahan.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/us-attacked-3-iranian-nuclear-sites-trump-says-truth-social-rcna213400",
+    "timestamp": "2025-06-22T00:21:42Z"
+  },
+  {
+    "title": "Trump says U.S. attacked three Iran nuclear sites",
+    "description": "President Donald Trump will address the nation at 10:00 p.m. Saturday.",
+    "link": "https://www.cnbc.com/2025/06/21/trump-israel-iran-conflict.html",
+    "timestamp": "2025-06-22T00:20:36Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "The decision to directly involve the U.S. comes after more than a week of strikes by Israel on Iran that have moved to systematically eradicate the country's air defenses and offensive missile capabilities",
+    "link": "https://www.wmur.com/article/us-has-struck-three-iranian-nuclear-sites-joining-israeli-air-campaign/65142598",
+    "timestamp": "2025-06-22T00:18:27Z"
+  },
+  {
+    "title": "US B-2 bombers involved in Iran strikes, U.S. official says",
+    "description": "U.S. B-2 bombers were involved in strikes on Iran's nuclear sites announced by President Donald Trump on Saturday, a U.S. official told Reuters, speaking on ...",
+    "link": "https://www.yahoo.com/news/us-b-2-bombers-involved-001751464.html",
+    "timestamp": "2025-06-22T00:17:51Z"
+  },
+  {
+    "title": "Trump says US carried out 'very successful attack' on three Iran nuclear sites",
+    "description": "U.S. President Donald Trump said Saturday the U.S. military has carried out a \"very successful attack\" on three Iranian nuclear sites, including the underground uranium enrichment facility at Fordow.",
+    "link": "https://www.hurriyetdailynews.com/trump-says-us-carried-out-very-successful-attack-on-three-iran-nuclear-sites-210582",
+    "timestamp": "2025-06-22T00:17:28Z"
+  },
+  {
+    "title": "Trump says U.S. attacked three Iran nuclear sites",
+    "description": "President Donald Trump on Saturday said the United States attacked Iran, hitting three nuclear sites in Fordo, Natanz, and Esfahan.\n\"We have completed our very successful attack on the three Nuclear sites in Iran, including Fordow, Natanz, and Esfahan,\" Trump\u2026",
+    "link": "https://biztoc.com/x/3ad6f5d61604f240",
+    "timestamp": "2025-06-22T00:17:19Z"
+  },
+  {
+    "title": "Donald Trump announces the US has bombed multiple Iranian nuclear sites",
+    "description": "Donald Trump announces the US has bombed multiple Iranian nuclear sites7news.com.au",
+    "link": "https://7news.com.au/news/donald-trump-announces-the-us-has-bombed-multiple-iranian-nuclear-sites-c-19114967",
+    "timestamp": "2025-06-22T00:16:26Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "President\u00a0Donald Trump\u00a0said Saturday that the U.S. military struck three sites in Iran, directly joining\u00a0Israel\u00a0\u2019s effort to decapitate the country\u2019s nuclear program in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of reprisals that could spark\u2026",
+    "link": "https://www.wsbtv.com/news/local/us-has-struck-three-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign/S4QFJC4NPVFT3NUEZUB6A4PHZM/",
+    "timestamp": "2025-06-22T00:15:17Z"
+  },
+  {
+    "title": "Diplomatic breakthrough elusive as Israel-Iran war stretches into second week (Associated Press)",
+    "description": "Associated Press:\nDiplomatic breakthrough elusive as Israel-Iran war stretches into second week\u00a0 \u2014\u00a0 President Donald Trump said Saturday that the U.S. military struck three sites in Iran, directly joining Israel 's effort to decapitate the country's nuclear p\u2026",
+    "link": "https://www.memeorandum.com/250621/p60",
+    "timestamp": "2025-06-22T00:15:01Z"
+  },
+  {
+    "title": "Trump says U.S. struck three nuclear sites in Iran, calls on Iran to agree to end war",
+    "description": "The U.S. military struck Fordow, Natanz and Isfahan nuclear sites, with Trump saying a full 'payload of bombs' was dropped on Fordow, adding that 'Now is the time for peace'",
+    "link": "https://www.haaretz.com/israel-news/2025-06-22/ty-article/.premium/trump-u-s-struck-three-nuclear-sites-in-iran/00000197-94f3-df53-a5d7-d5f7f4c70000",
+    "timestamp": "2025-06-22T00:14:42Z"
+  },
+  {
+    "title": "Trump announces \u2018very successful\u2019 air strikes on three nuclear sites in Iran | CNN Politics",
+    "description": "President Donald Trump announced Saturday evening that US military forces had dropped bombs on three Iranian nuclear facilities, ending a weeklong deliberation period over joining Israel\u2019s campaign against Tehran and thrusting the United States squarely into \u2026",
+    "link": "https://www.cnn.com/2025/06/21/politics/trump-iran-air-strikes",
+    "timestamp": "2025-06-22T00:13:51Z"
+  },
+  {
+    "title": "US joins Israeli bombing campaign against Tehran",
+    "description": "The US military has joined Israeli forces in their week-long airstrike campaign against Iranian nuclear facilities and military sites Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/620165-us-joins-iran-bombing/",
+    "timestamp": "2025-06-22T00:13:45Z"
+  },
+  {
+    "title": "Trump says US bombed 3 nuclear sites in Iran",
+    "description": "President Donald Trump announced on Truth Social that the U.S. launched strikes on three nuclear sites in Iran.",
+    "link": "https://taskandpurpose.com/news/trump-iran-bombing/",
+    "timestamp": "2025-06-22T00:12:49Z"
+  },
+  {
+    "title": "Breaking: US bombs three nuclear sites inside Iran, Trump says",
+    "description": "In a post on Truth Social, Donald Trump says the United States has dropped bombs on three nuclear sites inside Iran.",
+    "link": "https://www.abc.net.au/news/2025-06-22/donald-trump-says-us-bombed-three-iranian-nuclear-sites/105446590",
+    "timestamp": "2025-06-22T00:10:38Z"
+  },
+  {
+    "title": "Trump: U.S. Completed 'Successful Attack' on Iranian Nuclear Sites",
+    "description": "President Donald Trump revealed that the United States had just completed a \"very successful attack on\" three nuclear sites in Iran, such as Fordow, Natanz, and Esfahan.\nThe post Trump: U.S. Completed \u2018Successful Attack\u2019 on Iranian Nuclear Sites appeared firs\u2026",
+    "link": "https://www.breitbart.com/middle-east/2025/06/21/trump-u-s-completed-successful-attack-on-iranian-nuclear-sites/",
+    "timestamp": "2025-06-22T00:10:32Z"
+  },
+  {
+    "title": "Trump Says US Bombed Iran's Nuclear Fortress of Fordow and Two Other Sites",
+    "description": "The president announced Saturday that the United States has conducted successful airstrikes against three key Iranian nuclear facilities.",
+    "link": "https://www.newsweek.com/trump-confirms-us-strikes-three-iranian-nuclear-sites-2088870",
+    "timestamp": "2025-06-22T00:10:28Z"
+  },
+  {
+    "title": "U. S. joins Israel, attacks Iran",
+    "description": "Luana just sent me this tweet and although I thought it was a joke or spoof, it isn\u2019t: pic.twitter.com/wu9mMkxtUg \u2014 Donald J. Trump (@realDonaldTrump) June 21, 2025 From the NYT: The United States dropped bombs on three nuclear sites in Iran on Saturday, Pres\u2026",
+    "link": "https://whyevolutionistrue.com/2025/06/21/u-s-and-israel-jointly-attack-iran/",
+    "timestamp": "2025-06-22T00:10:00Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "WASHINGTON: President\u00a0Donald Trump\u00a0said Saturday (Jun 21) that the US military struck three sites in Iran, directly joining\u00a0Israel\u2019s effort to decapitate the country's nuclear programme in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of repris\u2026",
+    "link": "https://www.channelnewsasia.com/world/us-has-struck-three-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign-5196176",
+    "timestamp": "2025-06-22T00:09:52Z"
+  },
+  {
+    "title": "US forces strike Iran nuclear sites, Trump says Fordow gone",
+    "description": "WASHINGTON: US forces struck three Iranian nuclear sites in a \"very successful attack\", President Donald Trump said on Saturday (Jun 21), adding that the crown jewel of Tehran's nuclear program, Fordow, is gone. After days of deliberation and two weeks before\u2026",
+    "link": "https://www.channelnewsasia.com/world/us-forces-strike-iran-nuclear-sites-trump-says-fordow-gone-5196176",
+    "timestamp": "2025-06-22T00:09:00Z"
+  },
+  {
+    "title": "US forces strike Iran nuclear sites, Trump says Fordow gone",
+    "description": "WASHINGTON: US forces struck three Iranian nuclear sites in a \"very successful attack\", President Donald Trump said on Saturday (Jun 21), adding that Tehran's nuclear programme had been obliterated. After days of deliberation and long before his self-imposed \u2026",
+    "link": "https://www.channelnewsasia.com/world/us-strikes-iran-nuclear-sites-fordow-5196176",
+    "timestamp": "2025-06-22T00:09:00Z"
+  },
+  {
+    "title": "US forces strike Iran nuclear sites, Trump says Fordow gone",
+    "description": "WASHINGTON: US forces struck three Iranian nuclear sites in a \"very successful attack\", President Donald Trump said on Saturday (Jun 21), adding that Tehran's nuclear programme had been obliterated. After days of deliberation and long before his self-imposed \u2026",
+    "link": "https://www.channelnewsasia.com/world/us-iran-attack-israel-trump-bomb-fordow-5196176",
+    "timestamp": "2025-06-22T00:09:00Z"
+  },
+  {
+    "title": "US has struck 3 Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "WASHINGTON: President\u00a0Donald Trump\u00a0said on Saturday (Jun 21) that the US military struck three sites in Iran, directly joining\u00a0Israel\u2019s effort to decapitate the country's nuclear programme in a risky gambit to weaken a longtime foe amid Tehran\u2019s threat of rep\u2026",
+    "link": "https://www.channelnewsasia.com/world/us-has-struck-3-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign-5196176",
+    "timestamp": "2025-06-22T00:09:00Z"
+  },
+  {
+    "title": "US forces bomb Iran nuclear sites, Trump says Fordow gone",
+    "description": "WASHINGTON: US forces struck three Iranian nuclear sites in a \"very successful attack\", President Donald Trump said on Saturday (Jun 21), adding that the crown jewel of Tehran's nuclear program, Fordow, is gone. After days of deliberation, Trump's decision to\u2026",
+    "link": "https://www.channelnewsasia.com/world/us-forces-bomb-iran-nuclear-sites-trump-says-fordow-gone-5196176",
+    "timestamp": "2025-06-22T00:09:00Z"
+  },
+  {
+    "title": "President Donald Trump Says the United States Has Attacked Iran",
+    "description": "President Donald Trump says the United States has just dropped bombs on Iran. POTUS shared the news via Truth Social Saturday evening ... telling Americans the U.S. military dropped bombs at three nuclear sites -- Fordow, Natanz and Esfahan -- in\u2026\n Permalink",
+    "link": "https://www.tmz.com/2025/06/21/president-donald-trump-us-dropped-bombs-iran/",
+    "timestamp": "2025-06-22T00:07:24Z"
+  },
+  {
+    "title": "Trump says US bombed 3 Iranian nuclear sites",
+    "description": "United States President Donald Trump stated that the US conducted a bombing of the Fordow, Natanz and Esfahan nuclear sites in Iran.In a post on Truth Social, Trump stated that the US has \"completed o...",
+    "link": "https://biztoc.com/x/452611604074d612",
+    "timestamp": "2025-06-22T00:06:22Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, President Trump says, joining Israeli air campaign",
+    "description": "US has struck three Iranian nuclear sites, President Trump says, joining Israeli air campaignwpxi.com",
+    "link": "https://www.wpxi.com/news/local/us-has-struck-three-iranian-nuclear-sites-president-trump-says-joining-israeli-air-campaign/Q7VIYFJHKRD4HFPKBNAKPEYX5U/",
+    "timestamp": "2025-06-22T00:06:19Z"
+  },
+  {
+    "title": "Trump: US launches strike on three nuclear sites in Iran",
+    "description": "The move comes after Iran and Israel have been engaged in aerial strikes and Trump had been pondering US involvement for the past week.",
+    "link": "https://www.usatoday.com/story/news/politics/2025/06/21/trump-us-strikes-iran-nuclear-sites/84303364007/",
+    "timestamp": "2025-06-22T00:05:59Z"
+  },
+  {
+    "title": "U.S. strikes Iranian nuclear sites, Trump says",
+    "description": "The United States bombed multiple nuclear sites in Iran, President Donald Trump announced in a social media post on Saturday.",
+    "link": "https://www.nbcnews.com/politics/national-security/us-strikes-iranian-nuclear-site-trump-says-rcna213781",
+    "timestamp": "2025-06-22T00:05:23Z"
+  },
+  {
+    "title": "BREAKING: Trump Announces \u2018Full Payload\u2019 of Bombs Dropped on One of Three Iran Nuclear Sites",
+    "description": "President Donald Trump announced Saturday evening that the U.S. had dropped bombs on three major nuclear sites in Iran. \u201cWe have completed our very successful... Read More\nThe post BREAKING: Trump Announces \u2018Full Payload\u2019 of Bombs Dropped on One of Three Iran\u2026",
+    "link": "https://www.dailysignal.com/2025/06/21/breaking-trump-announces-full-payload-bombs-dropped-one-three-iran-nuclear-sites/",
+    "timestamp": "2025-06-22T00:04:18Z"
+  },
+  {
+    "title": "Trump says U.S. carried out 'very successful attack' on three Iran nuclear sites",
+    "description": "U.S. President Donald Trump said Saturday the U.S. had struck three Iranian nuclear sites, including the underground uranium enrichment facility at Fordo.",
+    "link": "https://www.japantimes.co.jp/news/2025/06/22/world/politics/trump-israel-us-attack-iran/",
+    "timestamp": "2025-06-22T00:04:00Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "TEL AVIV, Israel (AP) \u2014 President\u00a0Donald Trump\u00a0said Saturday that the U.S. military struck three sites in Iran, directly joining\u00a0Israel\u2019s effort to decapitate the country\u2019s nuclear<a class=\"excerpt-read-more\" href=\"https://wsvn.com/news/us-world/us-has-struck\u2026",
+    "link": "https://wsvn.com/news/us-world/us-has-struck-three-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign/",
+    "timestamp": "2025-06-22T00:01:56Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "The strikes are a perilous decision for the U.S. as Iran has pledged to retaliate if it joined the Israeli assault.",
+    "link": "https://www.denverpost.com/2025/06/21/us-has-struck-three-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign/",
+    "timestamp": "2025-06-22T00:00:30Z"
+  },
+  {
+    "title": "US has struck three Iranian nuclear sites, Trump says, joining Israeli air campaign",
+    "description": "The strikes are a perilous decision for the U.S. as Iran has pledged to retaliate if it joined the Israeli assault.",
+    "link": "https://www.bostonherald.com/2025/06/21/us-has-struck-three-iranian-nuclear-sites-trump-says-joining-israeli-air-campaign/",
+    "timestamp": "2025-06-22T00:00:30Z"
+  },
+  {
+    "title": "US strikes nuclear sites in Iran, Trump says",
+    "description": "The US president said the army carried out strikes on the nuclear sites in Fordow, Natanz and Isfahan. DW has more.",
+    "link": "https://www.dw.com/en/us-strikes-nuclear-sites-in-iran-trump-says/live-72996785",
+    "timestamp": "2025-06-22T00:00:00Z"
+  },
+  {
+    "title": "Trump warns US 'will go for other targets' if Iran doesn't make peace after striking Iranian nuclear sites",
+    "description": "Fordo, Natanz and Isfahan nuclear sites were \"obliterated,\" according to the US president. Israel has raised alert levels after the US strikes on Iran. DW has the latest. US President Donald Trump says 3 nuclear sites in Iran were 'obliterated' in US attack\nT\u2026",
+    "link": "https://www.dw.com/en/trump-warns-us-will-go-for-other-targets-if-iran-doesnt-make-peace-after-striking-iranian-nuclear-sites/live-72996785",
+    "timestamp": "2025-06-22T00:00:00Z"
+  },
+  {
+    "title": "Can the Left Ever Stop Its Craziness?",
+    "description": "California Sen. Alex Padilla recently crashed a press conference by Homeland Security Secretary Kristi Noem. He deliberately wore no identification. He gave no advance warning... Read More\nThe post Can the Left Ever Stop Its Craziness? appeared first on The D\u2026",
+    "link": "https://www.dailysignal.com/2025/06/21/can-democrats-left-ever-stop-its-craziness/",
+    "timestamp": "2025-06-22T00:00:00Z"
+  },
+  {
+    "title": "BREAKING: President Trump confirms the US just BOMBED all 3 Nuclear sites in Iran. He said all US planes are now on their way home.",
+    "description": "Laura Loomer @LauraLoomer BREAKING: President Trump confirms the US just BOMBED all 3 Nuclear sites in Iran. He said all US planes are now on their way home. Thank you, President Trump!  6:53 PM \u00b7 Jun 21, 2025",
+    "link": "https://freerepublic.com/focus/f-news/4324524/posts",
+    "timestamp": "2025-06-21T23:59:37Z"
+  },
+  {
+    "title": "US launches strikes on Iran, joining forces with Israel days after Trump\u2019s Tehran warning",
+    "description": "The attack came days after President Trump unleashed an open threat to Tehran to give up its nuclear program and called for Iran's \"unconditional surrender.\"",
+    "link": "https://nypost.com/2025/06/21/world-news/us-launches-strikes-on-iran-joining-forces-with-israel-days-after-trumps-tehran-warning/",
+    "timestamp": "2025-06-21T23:59:06Z"
+  },
+  {
+    "title": "U.S. strikes three Iranian nuclear sites",
+    "description": "\"A full payload of bombs was dropped on the primary site, Fordow\", Trump announced, \"All planes are safely on their way home\".",
+    "link": "https://www.israelnationalnews.com/news/410419",
+    "timestamp": "2025-06-21T23:59:00Z"
+  },
+  {
+    "title": "BREAKING: Trump Announces US Bombing Of Iran",
+    "description": "President Donald Trump announces the successful bombing of three Iranian Nuclear sites.",
+    "link": "https://dailycaller.com/2025/06/21/trump-announces-iran-bombing/",
+    "timestamp": "2025-06-21T23:58:35Z"
+  },
+  {
     "title": "US has bombed nuclear sites in Iran \u2013 Trump",
     "description": "US President Donald Trump has announced that American forces have carried out a large-scale airstrike targeting three Iranian nuclear sites Read Full Article at RT.com",
     "link": "https://www.rt.com/news/620164-us-bombs-iran-trump/",
@@ -16,539 +586,5 @@
     "description": "Lookner on Agenda Free TV is quoting Trump as saying we've hit three nuclear sites, including Fordow. Can anyone else confirm?",
     "link": "https://freerepublic.com/focus/f-news/4324523/posts",
     "timestamp": "2025-06-21T23:53:10Z"
-  },
-  {
-    "title": "Lookner says Trump has declared we've hit Fordow and two others.",
-    "description": "Lookner on Agenda Free TV is quoting Trump as saying we've hit three nuclear sites, including Fordow. Can anyone else confirm?",
-    "link": "https://freerepublic.com/focus/f-chat/4324523/posts",
-    "timestamp": "2025-06-21T23:53:10Z"
-  },
-  {
-    "title": "Los Angeles taxpayers to foot millions for 'peaceful' anti-ICE protests",
-    "description": "Anti-ICE protests in Los Angeles cost taxpayers $32 million for emergency services, cleanup and property damage. Over 500 arrests were made and multiple officers were injured.",
-    "link": "https://www.foxnews.com/us/los-angeles-taxpayers-foot-millions-peaceful-anti-ice-protests",
-    "timestamp": "2025-06-21T23:50:45Z"
-  },
-  {
-    "title": "Chris Cuomo Calls Out Trump\u2019s Over-Use of the \u2018Two Weeks\u2019 Timeline: \u2018He Wants You to Stop Asking\u2019 | Video",
-    "description": "\"He knows there's no way we're still talking about this in two weeks,\" the NewsNation host says\nThe post Chris Cuomo Calls Out Trump\u2019s Over-Use of the \u2018Two Weeks\u2019 Timeline: \u2018He Wants You to Stop Asking\u2019 | Video appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/chris-cuomo-donald-trump-two-weeks-timeline-iran/",
-    "timestamp": "2025-06-21T23:45:03Z"
-  },
-  {
-    "title": "Iran's powers have long battled for supremacy, but they have the same nuclear 'red lines'",
-    "description": "In the early 1950s, Iran had a liberal prime minister who promised to stop shipping the country's resource riches offshore, but that was not going to work for the West.",
-    "link": "https://www.abc.net.au/news/2025-06-22/iran-history-shah-and-ayatollah-powers-western/105444628",
-    "timestamp": "2025-06-21T23:40:11Z"
-  },
-  {
-    "title": "Dodger Stadium rocked by anti-ICE protesters during ongoing Los Angeles unrest",
-    "description": "Dodger Stadium faces protests over immigration enforcement, and the team committed $1 million to help families affected by ICE arrests.",
-    "link": "https://www.foxnews.com/sports/dodger-stadium-rocked-anti-ice-protesters-amid-ongoing-los-angeles-unrest",
-    "timestamp": "2025-06-21T23:32:49Z"
-  },
-  {
-    "title": "Alert: FBI Monitoring Possible Domestic Sleeper Cells",
-    "description": "With the Israeli military engaged in a long-range war with Iran, and President Donald Trump weighing whether to commit U.S. forces to a more active role against the terrorist regime in Tehran, the Trump administration is also looking closely for dangers much \u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4324522/posts",
-    "timestamp": "2025-06-21T23:31:04Z"
-  },
-  {
-    "title": "Trump\u2019s \u2018two weeks\u2019 pause on Iran strikes comes with high stakes",
-    "description": "Because by now the world knows that Trump\u2019s \"two weeks\u201d could mean two days, two months or never, his delay this time only fed the uncertainty.",
-    "link": "https://www.japantimes.co.jp/news/2025/06/22/world/politics/trump-two-week-deadline-focus/",
-    "timestamp": "2025-06-21T23:29:00Z"
-  },
-  {
-    "title": "Donald Trump, Marco Rubio Secure Congo-Rwanda Peace Treaty: \u2018Great Day for the World\u2019",
-    "description": "President Donald Trump revealed Friday that a peace treaty between the Democratic Republic of the Congo and the Republic of Rwanda has been secured, stating that it was \u201ca Great Day for the World.\u201d In a post on Truth Social, Trump revealed he and Secretary of\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4324521/posts",
-    "timestamp": "2025-06-21T23:20:02Z"
-  },
-  {
-    "title": "How Senate Republicans want to change the tax breaks in Trump\u2019s big bill",
-    "description": "House and Senate Republicans are taking slightly different approaches when it comes to the tax cuts that lawmakers are looking to include in their massive tax and spending cuts bill.",
-    "link": "https://www.bostonherald.com/2025/06/21/how-senate-republicans-want-to-change-the-tax-breaks-in-trumps-big-bill/",
-    "timestamp": "2025-06-21T23:18:43Z"
-  },
-  {
-    "title": "Give new recruits \u00a310,000 to join army, says Davey",
-    "description": "The Lib Dems argue Britain needs to become \"war-ready\" to deal in an increasingly unpredictable world.",
-    "link": "https://www.bbc.com/news/articles/c70x451xpx5o",
-    "timestamp": "2025-06-21T23:07:33Z"
-  },
-  {
-    "title": "Minnesota lobbyist arrested after allegedly sending threatening texts",
-    "description": "A longtime Minnesota lobbyist was charged Friday after allegedly making violent threats, according to court documents.",
-    "link": "https://www.nbcnews.com/news/us-news/minnesota-lobbyist-arrested-allegedly-sending-threatening-texts-rcna214283",
-    "timestamp": "2025-06-21T23:07:09Z"
-  },
-  {
-    "title": "Debunking alleged photo of Trump on Epstein's jet with underage girls",
-    "description": "A photo shared online authentically depicts U.S. President Donald Trump on an airplane with underage girls.",
-    "link": "https://www.snopes.com//fact-check/trump-ai-image-underage-girls/",
-    "timestamp": "2025-06-21T23:00:00Z"
-  },
-  {
-    "title": "Fact Check: Debunking alleged photo of Trump on Epstein's jet with underage girls",
-    "description": "The image has been circulating online since at least 2023.",
-    "link": "https://www.snopes.com/fact-check/trump-ai-image-underage-girls/",
-    "timestamp": "2025-06-21T23:00:00Z"
-  },
-  {
-    "title": "Donald Trump Calls Green Tax Credits in 'Big Beautiful Bill' 'Scam'",
-    "description": "The President said he hates the initiatives in a social media post.",
-    "link": "https://biztoc.com/x/0ee46280f34bd548",
-    "timestamp": "2025-06-21T22:59:49Z"
-  },
-  {
-    "title": "Trump Calls On Waffling Congress To Crush Biden\u2019s Green \u2018SCAM\u2019",
-    "description": "President Donald Trump is demanding the Senate terminate green energy tax credits enacted under President Joe Biden.",
-    "link": "https://dailycaller.com/2025/06/21/trump-congress-green-energy-subsidies-big-beautiful-bill/",
-    "timestamp": "2025-06-21T22:56:30Z"
-  },
-  {
-    "title": "Trump\u2019s envoy urges Musk to provide free Starlink to \u2018friends\u2019 in Iran",
-    "description": "US Presidential Envoy for Special Assignments Richard Grenell has urged SpaceX CEO Elon Musk to provide free Starlink access across Iran Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/620159-iran-free-starlink-grenell/",
-    "timestamp": "2025-06-21T22:56:12Z"
-  },
-  {
-    "title": "Elon Musk Has a New Plan to Win Back MAGA",
-    "description": "After apologizing to Trump, the Tesla CEO returns to his favorite battleground: attacking liberals and \u201cwokeism,\" as he tries to repair his image among conservative hardliners.",
-    "link": "https://gizmodo.com/elon-musk-has-a-new-plan-to-win-back-maga-2000618685",
-    "timestamp": "2025-06-21T22:54:49Z"
-  },
-  {
-    "title": "Donald Trump Calls Green Tax Credits in 'Big Beautiful Bill' 'Scam'",
-    "description": "The President said he hates the initiatives in a social media post.",
-    "link": "https://www.newsweek.com/donald-trump-calls-green-tax-credits-big-beautiful-bill-scam-2088859",
-    "timestamp": "2025-06-21T22:53:37Z"
-  },
-  {
-    "title": "Pakistan to nominate Trump for Peace Nobel over 'intervention' with India",
-    "description": "Pakistan's government, led by Shehbaz Sharif, intends to formally nominate former US President Donald Trump for the 2026 Nobel Peace Prize. This decision stems from Trump's perceived diplomatic intervention during a recent military crisis with India, where hi\u2026",
-    "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-to-nominate-trump-for-peace-nobel-over-intervention-with-india/articleshow/121998570.cms",
-    "timestamp": "2025-06-21T22:52:53Z"
-  },
-  {
-    "title": "Israel tells U.S. it could attack Iran key nuke sites before Trump deadline",
-    "description": "Israel communicated their concerns to Trump administration officials on Thursday in what sources described as a tense phone call.",
-    "link": "https://www.japantimes.co.jp/news/2025/06/22/world/politics/israel-attack-iran-before-deadline/",
-    "timestamp": "2025-06-21T22:52:00Z"
-  },
-  {
-    "title": "Mark Cuban Turned Down the Offer When Asked to Submit to be Kamala Harris\u2019 Vice President in 2024 Presidential Election: \u2018I\u2019m Not Very Good as the Number Two Person\u2019",
-    "description": "During a recent appearance on \u201cThe Bulwark\u201d podcast, Mark Cuban revealed he was invited to submit himself for consideration to become former Vice President Kamala Harris\u2019 running mate in the 2024 presidential election. However, the \u201cShark Tank\u201d star, an outwa\u2026",
-    "link": "https://variety.com/2025/tv/news/mark-cuban-kamala-harris-vice-president-donald-trump-1236437408/",
-    "timestamp": "2025-06-21T22:51:54Z"
-  },
-  {
-    "title": "Bill Maher says Dems need to \u2018do something\u2019 about \u2018The View\u2019 after Whoopi Goldberg\u2019s Iran comments",
-    "description": "Whoopi Goldberg compared Black Americans' lives to life under Iran's brutal theocratic regime on Wednesday.",
-    "link": "https://nypost.com/2025/06/21/media/bill-maher-says-dems-need-to-do-something-about-the-view-after-whoopi-goldbergs-iran-comments/",
-    "timestamp": "2025-06-21T22:50:02Z"
-  },
-  {
-    "title": "Donald Trump's Troubling Hand Appearance Raises Health Questions at G7 Summit - NewsBreak",
-    "description": "Donald Trump\u2019s discolored and swollen hand at the G7 Summit reignited public speculation about his health.",
-    "link": "https://www.newsbreak.com/share/4062708668827-donald-trump-s-troubling-hand-appearance-raises-health-questions-at-g7-summit?s=a2&amp;share_destination_id=MzMzMjc1NTUxLTE3NTA1NDU2OTM1MjU%3D&amp;pd=0MYOC7gN&amp;hl=en_US&amp;send_time=1750545693&amp;actBtn=topBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.25.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_25q2_v2-v1%2Cns_foryou_blend_exp_25q2-control%2Cns_foryou_rank_exp_25q2-control%2Cns_foryou_recall_exp_25q3-v6",
-    "timestamp": "2025-06-21T22:42:01Z"
-  },
-  {
-    "title": "Podcast Bro Theo Von Questions How 'America First' Trump Really Is Amid Potential Iran War",
-    "description": "The podcaster who helped lift Trump's voice to younger male voters during the 2024 presidential election told Rep. Ro Khanna (D-Calif.), \u201cIt feels like we are just working for Israel.\u201d",
-    "link": "https://www.huffpost.com/entry/theo-von-iran-war-ro-khanna_n_6856facfe4b095f25277587a",
-    "timestamp": "2025-06-21T22:41:25Z"
-  },
-  {
-    "title": "Trump On Juneteenth: There Are Too Many Holidays!",
-    "description": "Too many non-working holidays are costing the United States \u201cBILLIONS OF DOLLARS\u201d and hindering the country from success, President Donald Trump exclaimed on Thursday. Trump posted to his Truth Social account against non-working holidays, suggesting that neit\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4324518/posts",
-    "timestamp": "2025-06-21T22:24:00Z"
-  },
-  {
-    "title": "Judge asks if troops in Los Angeles are violating the Posse Comitatus Act",
-    "description": "California\u2019s challenge of the Trump administration\u2019s military deployment in Los Angeles returned to a federal courtroom in San Francisco on Friday for a brief hearing after an appeals court handed President Donald Trump a key procedural win.\nU.S. District Jud\u2026",
-    "link": "https://biztoc.com/x/2ec1331d00bc9b0c",
-    "timestamp": "2025-06-21T22:16:04Z"
-  },
-  {
-    "title": "Judge asks if troops in Los Angeles are violating the Posse Comitatus Act",
-    "description": "U.S. District Judge Charles Breyer asked for briefings from both sides by noon Monday on whether the Posse Comitatus Act is being violated in Los Angeles.",
-    "link": "https://fortune.com/2025/06/21/troops-los-angeles-national-guard-marines-posse-comitatus-act-ice-raids/",
-    "timestamp": "2025-06-21T22:07:36Z"
-  },
-  {
-    "title": "Mahmoud Khalil Says He\u2019ll \u2018Continue to Protest\u2019 Following ICE Detention Release",
-    "description": "Mahmoud Khalil and AOC spoke about Palestinian rights on Saturday after the Trump administration was ordered to release him from an ICE facility.",
-    "link": "http://www.rollingstone.com/politics/politics-news/mahmoud-khalil-aoc-ice-release-trump-1235369571/",
-    "timestamp": "2025-06-21T22:04:15Z"
-  },
-  {
-    "title": "Exclusive \u2013 Rep. Ashley Hinson: Trump's Big, Beautiful Bill 'Going to Save America'",
-    "description": "Rep. Ashley Hinson (R-IA) praised President Donald Trump\u2019s big, beautiful bill and predicted Congress will send it to his desk soon in an appearance on Breitbart News Saturday on SiriusXM.\nThe post Exclusive \u2013 Rep. Ashley Hinson: Trump\u2019s Big, Beautiful Bill \u2018\u2026",
-    "link": "https://www.breitbart.com/politics/2025/06/21/exclusive-rep-ashley-hinson-trumps-big-beautiful-bill-going-to-save-america/",
-    "timestamp": "2025-06-21T22:00:43Z"
-  },
-  {
-    "title": "Shooter Claimed in Confession Letter He Killed to Help Walz, Per Reports",
-    "description": "Boelter wrote that he had been trained \"off the books\" by the military.\nThe post Shooter Claimed in Confession Letter He Killed to Help Walz, Per Reports first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-    "link": "https://legalinsurrection.com/2025/06/report-alleged-mn-shooter-blames-killings-on-tim-walz-in-confession-letter-to-fbi/",
-    "timestamp": "2025-06-21T22:00:03Z"
-  },
-  {
-    "title": "Trump disavows spy chief Gabbard's take on Iran's nuclear program",
-    "description": "June 20 (Reuters) - U.S. President Donald Trump said on Friday that Director of National Intelligence Tulsi Gabbard was wrong in suggesting there was no evidence Iran is building a nuclear weapon. Trump contested intelligence assessments relayed earlier this \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4324516/posts",
-    "timestamp": "2025-06-21T21:57:22Z"
-  },
-  {
-    "title": "Yes, the 2020 election was stolen \u2013 and we have the proof",
-    "description": "'China and the Democrat Party were in this evil, wicked conspiracy together. Thick as thieves'",
-    "link": "https://www.wnd.com/2025/06/yes-2020-election-was-stolen-we-have-proof/",
-    "timestamp": "2025-06-21T21:51:53Z"
-  },
-  {
-    "title": "Mahmoud Khalil vows to resume pro-Palestinian activism after release",
-    "description": "Palestinian rights activist Mahmoud Khalil says he will continue to protest against what he calls US government-funded genocide in Gaza.",
-    "link": "https://www.abc.net.au/news/2025-06-22/mahmoud-khalil-vows-to-resume-pro-palestinian-activism/105446350",
-    "timestamp": "2025-06-21T21:51:40Z"
-  },
-  {
-    "title": "Pat Buchanan: A hero who deserves Trump\u2019s Medal of Freedom",
-    "description": "Octogenarian former commentator is one of the truest patriots of the past half century",
-    "link": "https://www.wnd.com/2025/06/pat-buchanan-hero-who-deserves-trumps-medal-freedom/",
-    "timestamp": "2025-06-21T21:48:42Z"
-  },
-  {
-    "title": "Juventus vs. Wydad AC live stream, how to watch Club World Cup, prediction: Odds, pick, where to watch",
-    "description": "The Bianconeri will play their second match of the tournament after winning 5-0 in the opening game",
-    "link": "https://www.cbssports.com/soccer/news/juventus-vs-wydad-ac-live-stream-how-to-watch-club-world-cup-prediction-odds-pick-where-to-watch/",
-    "timestamp": "2025-06-21T21:48:34Z"
-  },
-  {
-    "title": "State Dept Starts Exit Flights From Israel as Trump Mulls War Entry",
-    "description": "The U.S. State Department has commenced assisted flights for Americans to leave Israel amid the escalating conflict with Iran.",
-    "link": "https://www.newsweek.com/state-dept-starts-exit-flights-israel-trump-mulls-war-entry-2088832",
-    "timestamp": "2025-06-21T21:46:31Z"
-  },
-  {
-    "title": "Belarus frees key opposition figure Sergey Tikhanovsky following rare visit from top US envoy",
-    "description": "Belarus has freed Sergey Tikhanovsky, a key dissident figure and the husband of exiled opposition leader Svetlana Tikhanovskaya, following a rare visit by a senior US official, Tikhanovskaya\u2019s team announced on Saturday. Tikhanovsky, a popular blogger and act\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4324514/posts",
-    "timestamp": "2025-06-21T21:46:19Z"
-  },
-  {
-    "title": "Trump Lists Reasons He Deserves Nobel Prize in Epic Meltdown - The Daily Beast",
-    "description": "Trump Lists Reasons He Deserves Nobel Prize in Epic MeltdownThe Daily Beast Pakistan to nominate Trump for Nobel Peace PrizeBBC Pakistan to nominate Donald Trump for Nobel peace prizeThe Guardian \"Won't Get Nobel Prize For Stopping India-Pak War\": Trump Claim\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178132583",
-    "timestamp": "2025-06-21T21:32:26Z"
-  },
-  {
-    "title": "Trump Says US Intel Assessment Of Iran's Nuclear Program \"Was Wrong\", Tulsi Responds",
-    "description": "Trump Says US Intel Assessment Of Iran's Nuclear Program \"Was Wrong\", Tulsi Responds\n \nAuthored by Jacob Burg via The Epoch Times,\nPresident Donald Trump said on June 20 that his director of national intelligence\u2019s assessment in March that Iran had yet to dec\u2026",
-    "link": "https://biztoc.com/x/80b45e4f7f002edd",
-    "timestamp": "2025-06-21T21:32:04Z"
-  },
-  {
-    "title": "Israel says it's preparing for the possibility of a lengthy war against Iran",
-    "description": "Iranian-backed Houthi rebels in Yemen threatened to resume attacks on U.S. ships in the Red Sea if the U.S. joins Israel's campaign against Iran.",
-    "link": "https://richmond.com/news/nation-world/government-politics/article_385321c3-1680-503b-8601-3127fb67e700.html",
-    "timestamp": "2025-06-21T21:30:00Z"
-  },
-  {
-    "title": "Exclusive -- Kristina Wong: 'Undeniable There's Been a Huge Surge in Military Enlistment' Under Trump Admin",
-    "description": "Former Breitbart News Pentagon correspondent and Director of Communications and Chief spokesperson for the Department of the U.S. Navy Kristina Wong pointed out that it is \"undeniable that there's been a huge surge in military enlistment\" under the Trump admi\u2026",
-    "link": "https://www.breitbart.com/politics/2025/06/21/exclusive-kristina-wong-undeniable-theres-been-a-huge-surge-in-military-enlistment-under-trump-admin/",
-    "timestamp": "2025-06-21T21:29:12Z"
-  },
-  {
-    "title": "Bad \u2018vibes\u2019 may be having a bigger impact on the economy now",
-    "description": "While consumer sentiment recovered a bit after Trump postponed his highest tariff rates, it's still 20% below December 2024 levels.",
-    "link": "https://fortune.com/2025/06/21/economic-vibes-consumer-sentiment-spending-soft-data-vs-hard-data-trump-tariffs-vibecession/",
-    "timestamp": "2025-06-21T21:27:45Z"
-  },
-  {
-    "title": "Exclusive: Israel Seeks Swift Action On Iran, Sources Say, With A Split U.S. Administration",
-    "description": "Israeli officials have told the Trump administration they do not want to wait two weeks for\u00a0Iran\u00a0to reach a deal to dismantle key parts of its nuclear program, sources say.",
-    "link": "https://www.huffpost.com/entry/israel-iran-fordow-nuclear-program_n_68572237e4b095f252775da5",
-    "timestamp": "2025-06-21T21:27:12Z"
-  },
-  {
-    "title": "Donald Trump, Marco Rubio Secure Congo-Rwanda Peace Treaty: 'Great Day for the World'",
-    "description": "President Donald Trump revealed that a peace treaty between the Democratic Republic of the Congo and the Republic of Rwanda has been secured.\nThe post Donald Trump, Marco Rubio Secure Congo-Rwanda Peace Treaty: \u2018Great Day for the World\u2019 appeared first on Brei\u2026",
-    "link": "https://www.breitbart.com/politics/2025/06/21/donald-trump-marco-rubio-secure-congo-rwanda-peace-treaty-great-day-world/",
-    "timestamp": "2025-06-21T21:23:49Z"
-  },
-  {
-    "title": "Russia ready to strike back with nukes if Ukraine uses dirty bomb, threatens former President",
-    "description": "Dmitry Medvedev threatens nuclear retaliation if Ukraine uses a dirty bomb. He says Russia is ready with tactical nuclear weapons. Medvedev also mocks the West's attention on the Israel-Iran war. He suggests the US is distracted from supporting Ukraine. Medve\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/russia-ready-to-strike-back-with-nukes-if-ukraine-uses-dirty-bomb-threatens-former-president/articleshow/121998431.cms",
-    "timestamp": "2025-06-21T21:22:17Z"
-  },
-  {
-    "title": "U.S. Steel deal: Nikki Budzinski, steelworkers demand investment in Granite City",
-    "description": "\u201cOur message moving forward is real simple,\u201d a union official said. \u201cInvest in this mill. Invest in Granite City, Illinois.\u201d",
-    "link": "https://www.stltoday.com/news/local/government-politics/article_c2feff05-a677-4d6f-b797-b38886e979d6.html",
-    "timestamp": "2025-06-21T21:20:00Z"
-  },
-  {
-    "title": "Trump Slams Windmills In Rant On Green Tax Credits\u2014His Latest Attack Against Turbines",
-    "description": "Alongside solar power, wind energy has become one of the most cost-efficient forms of energy production.",
-    "link": "https://www.forbes.com/sites/antoniopequenoiv/2025/06/21/trump-slams-windmills-in-rant-on-green-tax-credits-his-latest-attack-against-turbines/",
-    "timestamp": "2025-06-21T21:17:20Z"
-  },
-  {
-    "title": "Republican Party has nearly five times more cash on hand than the Democrats",
-    "description": "The filings come as Democrats face internal tension since President Donald Trump's return to the White House.",
-    "link": "https://www.cnbc.com/2025/06/21/rnc-dnc-ken-martin-trump.html",
-    "timestamp": "2025-06-21T21:12:14Z"
-  },
-  {
-    "title": "No, Yellowstone is not up for sale in Senate proposal",
-    "description": "'If all I knew about this bill were the falsehoods being circulated by the left, I would hate it too'",
-    "link": "https://www.wnd.com/2025/06/no-yellowstone-is-not-up-sale-senate-proposal/",
-    "timestamp": "2025-06-21T21:03:59Z"
-  },
-  {
-    "title": "Hank Johnson Doesn\u2019t Even Bother Tuning His Guitar Before Belting Out Cringe Anti-Trump Anthem",
-    "description": "Democratic Georgia Rep. Hank Johnson seemed to not bother tuning his new guitar before playing a cringe anti-President Donald Trump anthem.",
-    "link": "https://dailycaller.com/2025/06/21/democrat-congressman-guitar-anti-trimp-anthem-hank-johnson/",
-    "timestamp": "2025-06-21T21:03:59Z"
-  },
-  {
-    "title": "Elon Musk\u2019s DOGE Wouldn\u2019t Have Worked Even If It Had Worked",
-    "description": "No act of parsimony shrinks the size of government, it just shifts the waste.",
-    "link": "https://www.forbes.com/sites/johntamny/2025/06/21/elon-musks-doge-wouldnt-have-worked-even-if-it-had-worked/",
-    "timestamp": "2025-06-21T21:00:00Z"
-  },
-  {
-    "title": "B-2 or not B-2?",
-    "description": "No, it\u2019s a flight of B-2s: At least two separate groups of\u00a0B-2 Spirit\u00a0stealth bombers\u00a0are currently heading westward across the Pacific Ocean, but their exact final destination is currently unclear. The bomber movements come as U.S. officials have\u00a0been delibe\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2025/06/b-2-or-not-b-2",
-    "timestamp": "2025-06-21T20:58:38Z"
-  },
-  {
-    "title": "Rosenberg: Russian government clearly nervous as country faces economic challenges",
-    "description": "Russian minister Maxim Reshetnikov has warned that the country's economy was teetering \"on the brink of recession\".",
-    "link": "https://www.bbc.com/news/articles/cdr30jx6x0vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "timestamp": "2025-06-21T20:52:49Z"
-  },
-  {
-    "title": "Louisiana Classroom Ten Commandments Requirement Blocked by Court",
-    "description": "A federal appeals court ruled that Louisiana's Ten Commandments classroom mandate unconstitutional, sparking appeal plans.",
-    "link": "https://www.newsweek.com/louisiana-classroom-ten-commandments-requirement-blocked-court-2088829",
-    "timestamp": "2025-06-21T20:50:15Z"
-  },
-  {
-    "title": "Exclusive: Alex Swoyer Discusses Her Book 'Lawless Lawfare' That Dissects Weaponization Against Trump",
-    "description": "Washington Times Legal Affairs reporter Alex Swoyer joined Sirius XM's Breitbart News Saturday to discuss her new book, Lawless Lawfare:\u00a0Tipping the Scales of Justice to Get Trump and Destroy MAGA\u00a0which explores the various civil and criminal cases brought ag\u2026",
-    "link": "https://www.breitbart.com/politics/2025/06/21/exclusive-alex-swoyer-discusses-book-lawless-lawfare-that-dissects-weaponization-against-trump/",
-    "timestamp": "2025-06-21T20:46:36Z"
-  },
-  {
-    "title": "\u2018Giant SCAM!\u2019 Trump Rages at \u2018JUNK\u2019 in His Own Big Beautiful Bill: \u2018Break Away From This Craziness!!!\u2019",
-    "description": "Trump raged against his \"Big Beautiful Bill\" on Saturday, calling some of what's in it a \"giant SCAM\" and \"JUNK\" that's costly and harmful.\nThe post \u2018Giant SCAM!\u2019 Trump Rages at \u2018JUNK\u2019 in His Own Big Beautiful Bill: \u2018Break Away From This Craziness!!!\u2019 first a\u2026",
-    "link": "https://www.mediaite.com/media/news/giant-scam-trump-rages-at-junk-in-his-own-big-beautiful-bill-break-away-from-this-craziness/",
-    "timestamp": "2025-06-21T20:45:50Z"
-  },
-  {
-    "title": "Rosenberg: Russian government clearly nervous as country faces economic challenges",
-    "description": "Russian minister Maxim Reshetnikov has warned that the country's economy was teetering \"on the brink of recession\".",
-    "link": "https://www.bbc.com/news/articles/cdr30jx6x0vo",
-    "timestamp": "2025-06-21T20:45:21Z"
-  },
-  {
-    "title": "T\u00e1naiste confirms US threat to Lebanon peacekeepers and will liaise with EU states to save mission",
-    "description": "As revealed on Thursday by The Journal there are just ten weeks ahead of a crucial vote in the United Nations Security Council as the US is considering withdrawing support for UNIFIL.",
-    "link": "https://www.thejournal.ie/lebanon-tanaiste-simon-harris-us-vote-against-unifil-renewal-irish-defence-forces-6739998-Jun2025/",
-    "timestamp": "2025-06-21T20:38:33Z"
-  },
-  {
-    "title": "Pakistan plans to nominate Trump for Nobel Peace Prize - BBC",
-    "description": "Pakistan plans to nominate Trump for Nobel Peace PrizeBBC Trump to Win a Nobel Peace Prize? Pakistan States NominationTime Magazine Pakistan to nominate Donald Trump for Nobel peace prizeThe Guardian \"Won't Get Nobel Prize For Stopping India-Pak War\": Trump C\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178132119",
-    "timestamp": "2025-06-21T20:35:04Z"
-  },
-  {
-    "title": "Ignoring Europe and winning wars",
-    "description": "Any European demand for de-escalation is really a call for Iran\u2019s Islamic fascism to survive to kill Jews another day. Perhaps no one knows better than Benjamin Netanyahu how meaningless are the words and few deeds of the dying Europeans. \u00a0Opinion.",
-    "link": "https://www.israelnationalnews.com/news/410413",
-    "timestamp": "2025-06-21T20:34:14Z"
-  },
-  {
-    "title": "Exclusive: Israel seeks swift action on Iran, sources say, with a split U.S. administration",
-    "description": "Israeli officials have told the Trump administration they do not want to wait two weeks for Iran to reach a deal to dismantle key parts of its nuclear program and Israel could act alone before the deadline is up, two sources said, amid a continuing debate on \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4324509/posts",
-    "timestamp": "2025-06-21T20:33:42Z"
-  },
-  {
-    "title": "Damage seen at Iranian nuclear site after US strikes",
-    "description": "Satellite images are showing damage to the entryways to Iran's underground nuclear site at Fordo after US airstrikes targeted the facility.",
-    "link": "https://www.perthnow.com.au/news/conflict/israel-says-it-has-hit-southwestern-iran-military-sites-c-19113815",
-    "timestamp": "2025-06-21T20:32:46Z"
-  },
-  {
-    "title": "New Photos Show Gravel Laid Over White House Rose Garden As Trump Reno Takes Root",
-    "description": "President Donald Trump has vowed to pave over the grass, which he griped gets too wet.",
-    "link": "https://www.huffpost.com/entry/new-photos-gravel-white-house-rose-garden_n_6856e6a9e4b095f252775799",
-    "timestamp": "2025-06-21T20:28:42Z"
-  },
-  {
-    "title": "Iran\u2019s Supreme Leader Reportedly Names Potential Successors In The Event He\u2019s Killed",
-    "description": "Iran's supreme leader named three senior Islamic clerics as his potential successors in case he is killed in ongoing hostilities with Israel",
-    "link": "https://dailycaller.com/2025/06/21/iran-supreme-leader-ali-khamenei-successors-israel/",
-    "timestamp": "2025-06-21T20:28:12Z"
-  },
-  {
-    "title": "GOP's food stamp plan is found to violate Senate rules. It's the latest setback for Trump's big bill",
-    "description": "The Senate parliamentarian has advised that a Republican proposal that would shift some food stamp costs from the federal government to the states would violate the chamber\u2019s strict rules",
-    "link": "https://abcnews.go.com/US/wireStory/gops-food-stamp-plan-found-violate-senate-rules-123075708",
-    "timestamp": "2025-06-21T20:22:28Z"
-  },
-  {
-    "title": "European leaders worry they\u2019re too reliant on U.S. tech | TechCrunch",
-    "description": "European governments may be reconsidering their use of American technology and services, according to a new report in The New York Times.",
-    "link": "https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/",
-    "timestamp": "2025-06-21T20:18:31Z"
-  },
-  {
-    "title": "'They're not telling you': Ex-Trump insider 'exposes' president's goals for Iran",
-    "description": "Donald Trump and the media are feeding you false information about the president's goals surrounding Iran, according to a former Trump associate.Author and former Trump insider Lev Parnas, who has reported on Trump's purported \"humiliation\" by Russia's Putin,\u2026",
-    "link": "https://www.rawstory.com/trump-not-telling-you-iran/",
-    "timestamp": "2025-06-21T20:15:11Z"
-  },
-  {
-    "title": "Ana Navarro calls on Barack Obama to step out of Netflix mode and help save democracy from Trump",
-    "description": "Ana Navarro urges Barack Obama to actively defend democracy against Donald Trump, believing his silence is detrimental. She emphasizes that Obama, along with other former presidents, should speak out against Trump's threats to American democratic values. Desp\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/ana-navarro-calls-on-barack-obama-to-step-out-of-netflix-mode-and-help-save-democracy-from-trump/articleshow/121998204.cms",
-    "timestamp": "2025-06-21T20:13:10Z"
-  },
-  {
-    "title": "Pakistan to nominate \u2018genuine peacemaker\u2019 Trump for Nobel Peace Prize - Al Jazeera",
-    "description": "Pakistan to nominate \u2018genuine peacemaker\u2019 Trump for Nobel Peace PrizeAl Jazeera Pakistan to nominate Trump for Nobel Peace PrizeBBC Trump to Win a Nobel Peace Prize? Pakistan States NominationTime Magazine Pakistan to nominate Donald Trump for Nobel peace pri\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178131969",
-    "timestamp": "2025-06-21T20:13:08Z"
-  },
-  {
-    "title": "Belarus Frees Jailed Opposition Leader After Appeal From US",
-    "description": "Belarus freed top opposition figure Sergei Tikhanovsky and more than a dozen other political prisoners Saturday following an appeal from the White House, Minsk said, a sign of warming ties between Washington and Belarus-ally Moscow.",
-    "link": "https://www.ibtimes.com.au/belarus-frees-jailed-opposition-leader-after-appeal-us-1859326",
-    "timestamp": "2025-06-21T20:12:21Z"
-  },
-  {
-    "title": "Who is Sophie Cunningham? Caitlin Clark's new 'bodyguard' teammate emerging as a WNBA icon",
-    "description": "Farm-raised, black belt Sophie Cunningham's popularity soared after defending teammate Caitlin Clark, gaining over 800,000 followers and potentially $1 million.",
-    "link": "https://www.foxnews.com/sports/who-sophie-cunningham-caitlin-clarks-new-bodyguard-teammate-emerging-wnba-icon",
-    "timestamp": "2025-06-21T20:11:00Z"
-  },
-  {
-    "title": "Rep. Wesley Hunt defends Trump's move to restore Robert E. Lee's name to military base",
-    "description": "Rep. Wesley Hunt argued against removing confederate names from military bases during an appearance on\"Real Time\" Friday, claiming if we don't remember our history, \"we are doomed to repeat it.\"",
-    "link": "https://www.foxnews.com/media/wesley-hunt-defends-trumps-move-restore-robert-e-lees-name-military-base",
-    "timestamp": "2025-06-21T20:10:33Z"
-  },
-  {
-    "title": "B-2s moving to Guam amid two-week pause on potential Iran intervention",
-    "description": "The U.S. military has moved several B-2 Spirit stealth bombers and refueling aircraft to Guam, which may be a precursor to aerial strikes against Iran's most...",
-    "link": "https://www.upi.com/Top_News/US/2025/06/21/b2s-deployment-guam-iran/2611750533423/",
-    "timestamp": "2025-06-21T20:10:13Z"
-  },
-  {
-    "title": "Live: US moves B-2 bombers across Pacific as Israeli jets launch fresh attack on Iran",
-    "description": "The shift of six US B-2 bombers to an air base in Guam comes as US President Donald Trump is scheduled to meet with his national security team to discuss the possibility of a strike on Iran. Follow live.",
-    "link": "https://www.abc.net.au/news/2025-06-22/iran-israel-conflict-live-updates/105445676",
-    "timestamp": "2025-06-21T20:10:07Z"
-  },
-  {
-    "title": "'Public Good': Wyoming Plots August Debut for WYST Stablecoin",
-    "description": "The Wyoming Stable Token Commission is targeting an August launch for its state stablecoin following years of preparation.",
-    "link": "https://decrypt.co/326331/wyoming-plots-august-debut-wyst-state-stablecoin",
-    "timestamp": "2025-06-21T20:07:23Z"
-  },
-  {
-    "title": "Donald Trump's approval rating crashes in 15 key states that US President won in 2024",
-    "description": "Donald Trump still enjoys positive approval ratings in South Karolina, Alabama, Alaska, Arkansas, and Kentucky.",
-    "link": "https://economictimes.indiatimes.com/news/international/us/donald-trumps-approval-rating-crashes-in-15-key-states-that-us-president-won-in-2024/articleshow/121998260.cms",
-    "timestamp": "2025-06-21T20:01:10Z"
-  },
-  {
-    "title": "Former Democratic Adviser Says Party Has No Agenda Beyond Hating Trump",
-    "description": "\"We don't have an agenda right now, and winning campaigns focus on the real lives of real people with effective leaders and something positive to say, and we have none of the above\"\nThe post Former Democratic Adviser Says Party Has No Agenda Beyond Hating Tru\u2026",
-    "link": "https://legalinsurrection.com/2025/06/former-democratic-adviser-says-party-has-no-agenda-beyond-hating-trump/",
-    "timestamp": "2025-06-21T20:00:02Z"
-  },
-  {
-    "title": "Fast-Changing Events Making, or Remaking, History",
-    "description": "Events are moving fast. Seven days ago, as I write, Israel had not yet launched its first attacks on targets in Iran. Seven days from... Read More\nThe post Fast-Changing Events Making, or Remaking, History appeared first on The Daily Signal.",
-    "link": "https://www.dailysignal.com/2025/06/21/fast-changing-events-making-remaking-history/",
-    "timestamp": "2025-06-21T20:00:00Z"
-  },
-  {
-    "title": "B-2 stealth bombers depart US as Trump weighs Iran strike",
-    "description": "Moves indicate Trump administration is getting air force bombers in position if needed for strike on Iran",
-    "link": "https://www.irishtimes.com/world/middle-east/2025/06/21/b-2-stealth-bombers-depart-us-as-trump-weighs-iran-strike/",
-    "timestamp": "2025-06-21T19:59:42Z"
-  },
-  {
-    "title": "Colorado Activists Enable Child Rapist To Avoid ICE Deportation",
-    "description": "An illegal immigrant convicted and wanted in Italy for child rape remains on the loose after activists in Denver thwarted ICE agents from arresting him, authorities say.\nThe post Colorado Activists Enable Child Rapist To Avoid ICE Deportation appeared first o\u2026",
-    "link": "https://www.breitbart.com/immigration/2025/06/21/colorado-activists-enable-child-rapist-avoid-ice-deportation/",
-    "timestamp": "2025-06-21T19:56:36Z"
-  },
-  {
-    "title": "Trump: Hard to ask Israel to stop Iran war when it\u2019s winning.",
-    "description": "The president pushed back against claims the U.S. intelligence community did not have evidence Tehran is close to developing nuclear weapons. JNS Staff. U.S. President Donald Trump on Friday apparently turned down Tehran\u2019s request to pressure Israel into endi\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4324504/posts",
-    "timestamp": "2025-06-21T19:56:05Z"
-  },
-  {
-    "title": "Lithuania Choses Embraer C-390 Millenium as \u2018Next Generation\u2019 Military Cargo Aircraft",
-    "description": "The C-390 will supplement the C-27J, strengthening the Lithuanian Air Force and supporting interoperability with NATO partners. Lithuania announced on Jun. 19, 2025 the selection of the Embraer C-390 Millenium military cargo aircraft as its next airlifter, an\u2026",
-    "link": "https://theaviationist.com/2025/06/21/lithuania-choses-embraer-c-390/",
-    "timestamp": "2025-06-21T19:51:32Z"
-  },
-  {
-    "title": "Theo Von Blasts Schumer as \u2018Little Money Monkey\u2019 on Podcast With Ro Khanna",
-    "description": "Theo Von called Chuck Schumer a \"little money monkey\" after worrying he was \"slandering\" the Democrat during a conversation with Ro Khanna.\nThe post Theo Von Blasts Schumer as \u2018Little Money Monkey\u2019 on Podcast With Ro Khanna first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/podcasts/theo-von-blasts-schumer-as-little-money-monkey-on-podcast-with-ro-khanna/",
-    "timestamp": "2025-06-21T19:50:37Z"
-  },
-  {
-    "title": "Jasmine Crockett Claims Trump Supporters Are \u2018Sick\u2019 and Part of Country\u2019s \u2018Mental Health Crisis\u2019 - NewsBreak",
-    "description": "Rep. Jasmine Crockett (R-TX) linked supporters of President Donald Trump to a \u201cmental health crisis\u201d in the country and declared she\u2019d \u201cgive anything\u201d to h",
-    "link": "https://www.newsbreak.com/share/4059789775602-jasmine-crockett-claims-trump-supporters-are-sick-and-part-of-country-s-mental-health-crisis?_f=app_share&amp;pd=0FPy1u9h&amp;lang=en_US&amp;send_time=1750534914&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.25.0.37%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q3-control%2Cns_foryou_rank_exp_25q2-v4%2Cns_foryou_blend_exp_25q2-v3%2Cns_foryou_model_exp_25q2_v2-v1&amp;s=i2",
-    "timestamp": "2025-06-21T19:47:16Z"
-  },
-  {
-    "title": "Exclusive-Israel seeks swift action on Iran, sources say, with a split U.S. administration",
-    "description": "WASHINGTON/DUBAI/JERUSALEM (Reuters) -Israeli officials have told the Trump administration they do not want to wait two weeks for Iran to reach a deal to...",
-    "link": "https://www.yahoo.com/news/exclusive-israel-seeks-swift-action-194640669.html",
-    "timestamp": "2025-06-21T19:46:40Z"
-  },
-  {
-    "title": "Trump 'laughing all the way to the bank' as he takes grift 'to a new level'",
-    "description": "Trump 'laughing all the way to the bank' as he takes grift 'to a new level'\nPresident Donald Trump's net worth, according to Forbes, has fluctuated over the years. And estimates of his net worth in 2025 \u2014the year he returned to the White House after a four-ye\u2026",
-    "link": "https://biztoc.com/x/770175788855bbe2",
-    "timestamp": "2025-06-21T19:41:51Z"
-  },
-  {
-    "title": "The return of the neocon canard",
-    "description": "Israel\u2019s war with Iran has given an ancient blood libel a new lease of life. Opinion.",
-    "link": "https://www.israelnationalnews.com/news/410415",
-    "timestamp": "2025-06-21T19:40:00Z"
-  },
-  {
-    "title": "Gold prices should hit $4,000 as U.S. deficits may overshadow the Israel-Iran conflict, BofA says",
-    "description": "\"While the war between Israel and Iran can always escalate, conflicts are not usually a sustained bullish price driver.\"",
-    "link": "https://fortune.com/2025/06/21/gold-price-outlook-4000-us-debt-deficits-israel-iran-war/",
-    "timestamp": "2025-06-21T19:35:31Z"
-  },
-  {
-    "title": "Gold prices should hit $4,000 as U.S. deficits may overshadow the Israel-Iran conflict, BofA says",
-    "description": "\"While the war between Israel and Iran can always escalate, conflicts are not usually a sustained bullish price driver.\"",
-    "link": "https://finance.yahoo.com/news/gold-prices-hit-4-000-193531068.html",
-    "timestamp": "2025-06-21T19:35:31Z"
   }
 ]
