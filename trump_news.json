@@ -1,5 +1,71 @@
 [
   {
+    "title": "The Real Reason Diddy (Mostly) Beat the Rap",
+    "description": "The thing that may have saved Diddy is that these were tricky-to-prove federal charges instead of more straightforward state charges.",
+    "link": "https://slate.com/news-and-politics/2025/07/diddy-acquittal-sean-combs-prison-sentence-explained.html",
+    "timestamp": "2025-07-03T17:50:00Z"
+  },
+  {
+    "title": "Anduril CEO Palmer Luckey's new digital banking startup set to be valued at $2 billion, sources say",
+    "description": "Erebor, a digital bank for startups and cryptocurrency companies founded by Anduril CEO Palmer Luckey, is raising money from 8VC and Founders Fund.",
+    "link": "https://www.businessinsider.com/palmer-luckeys-new-digital-bank-erebor-valuation-2025-7",
+    "timestamp": "2025-07-03T17:49:14Z"
+  },
+  {
+    "title": "Middle East: Hamas seeks ceasefire guarantees",
+    "description": "The Islamist militant group Hamas is reportedly seeking guarantees that a US-backed ceasefire will lead to a permanent end to hostilities, as more Palestinians are killed in Israeli air strikes. DW has more.",
+    "link": "https://www.dw.com/en/middle-east-hamas-seeks-ceasefire-guarantees/live-73146024",
+    "timestamp": "2025-07-03T17:49:00Z"
+  },
+  {
+    "title": "White House Mocked After Promoting Trump's 'Big, Beautiful Bill' Gets Flagged by Community Notes: 'Lying Again'",
+    "description": "The White House's press secretary was mocked online after a tweet promoting Donald Trump's \"one big, beautiful bill\" was flagged by X's Community Notes.",
+    "link": "https://www.ibtimes.com/white-house-mocked-after-promoting-trumps-big-beautiful-bill-gets-flagged-community-notes-3777579",
+    "timestamp": "2025-07-03T17:47:16Z"
+  },
+  {
+    "title": "House Minority Leader Hakeem Jeffries Warns \u2018Thousands Will Die\u2019 If Trump\u2019s Bill Passes",
+    "description": "House Minority Leader Hakeem Jeffries warned during his ongoing, hours-long speech on Thursday that President Donald Trump's bill will kill \"tens of thousands.\"",
+    "link": "https://dailycaller.com/2025/07/03/hakeem-jeffries-trump-bill-thousands-die/",
+    "timestamp": "2025-07-03T17:47:11Z"
+  },
+  {
+    "title": "Tax cuts to a debt ceiling increase: Here\u2019s what\u2019s in the \u2018Big, Beautiful Bill\u2019",
+    "description": "In a sweeping new fiscal package, lawmakers have unveiled a major overhaul of tax policy, federal spending, and entitlement programs. Here's a breakdown of what\u2019s in the plan.",
+    "link": "https://nypost.com/2025/07/03/us-news/tax-cuts-to-a-debt-ceiling-increase-heres-whats-in-the-big-beautiful-bill/",
+    "timestamp": "2025-07-03T17:46:44Z"
+  },
+  {
+    "title": "\u2018Eddington\u2019 Actor Matt Gomez Hidaka Joins Josh Trank\u2019s \u2018Send A Scare\u2019 Horror Thriller",
+    "description": "EXCLUSIVE: With a hot Ari Aster movie on the horizon, Eddington actor Matt\u00a0Gomez\u00a0Hidaka has just booked a role in Josh Trank\u2019s upcoming horror-thriller, Send A Scare, opposite Victoria Justice and Robbie Amell. In Eddington, Gomez Hidaka plays Eric Garcia, th\u2026",
+    "link": "http://deadline.com/2025/07/matt-gomez-hidaka-eddington-josh-trank-send-a-scare-1236448525/",
+    "timestamp": "2025-07-03T17:45:36Z"
+  },
+  {
+    "title": "Fact-checking three key claims about Trump's mega-bill",
+    "description": "Trump insists that the new bill will save the US billions, but it has been criticised by his old ally Elon Musk.",
+    "link": "https://www.bbc.com/news/articles/c20r6vm0xl3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "timestamp": "2025-07-03T17:44:23Z"
+  },
+  {
+    "title": "8 rumors we've investigated about Trump's 'Big Beautiful Bill'",
+    "description": "Rumors swirled about U.S. President Donald Trump's megabill as it made its way through the U.S. Congress in 2025.",
+    "link": "https://www.snopes.com/collections/big-beautiful-bill-collection/",
+    "timestamp": "2025-07-03T17:44:00Z"
+  },
+  {
+    "title": "Katie Miller\u2014who left Trump\u2019s White House with Elon Musk\u2014surfaces at xAI",
+    "description": "Katie Miller has emerged as a key spokesperson for Musk while her husband, Stephen Miller, remains President Trump's deputy chief of staff.",
+    "link": "https://fortune.com/2025/07/03/katie-miller-trump-white-house-elon-musk-xai/",
+    "timestamp": "2025-07-03T17:42:33Z"
+  },
+  {
+    "title": "Putin Told Trump Will Not 'Give Up' Aims In Ukraine: Kremlin",
+    "description": "Russian leader Vladimir Putin told US President Donald Trump by telephone on Thursday that Moscow will not \"give up\" on its aims in Ukraine, the Kremlin said.",
+    "link": "https://www.ibtimes.com/putin-told-trump-will-not-give-aims-ukraine-kremlin-3777578",
+    "timestamp": "2025-07-03T17:42:22Z"
+  },
+  {
     "title": "Law enforcement groups sound alarm over potential DHS intel rollback",
     "description": "They warned Secretary Kristi Noem it would put U.S. national security at risk.",
     "link": "https://abcnews.go.com/Politics/law-enforcement-groups-sound-alarm-potential-dhs-intel/story?id=123451544",
@@ -508,65 +574,5 @@
     "description": "With Vietnam tariff rate at 20 percent, TD Cowen's John Kernan expects Southeast Asia will see rates \"higher than 10 percent.\"",
     "link": "http://wwd.com/footwear-news/shoe-industry-news/vietnam-tariff-20-percent-john-kernan-southeast-asia-rates-1237966376/",
     "timestamp": "2025-07-03T16:36:26Z"
-  },
-  {
-    "title": "Gaza Civil Defence Says Israeli Forces Kill 69 People",
-    "description": "Gaza's civil defence agency said Israeli forces killed at least 69 people on Thursday, including 15 in a strike on a school sheltering Palestinians displaced by the war nearing its 22nd month.",
-    "link": "https://www.ibtimes.com.au/gaza-civil-defence-says-israeli-forces-kill-69-people-1859522",
-    "timestamp": "2025-07-03T16:36:20Z"
-  },
-  {
-    "title": "Gaza Civil Defence Says Israeli Forces Kill 69 People",
-    "description": "Gaza's civil defence agency said Israeli forces killed at least 69 people on Thursday, including 15 in a strike on a school sheltering Palestinians displaced by the war nearing its 22nd month.",
-    "link": "https://www.ibtimes.com/gaza-civil-defence-says-israeli-forces-kill-69-people-3777572",
-    "timestamp": "2025-07-03T16:36:17Z"
-  },
-  {
-    "title": "Tensions Are Starting to Brew Over Waterways for US LNG Cargoes",
-    "description": "One of the US largest exporters of liquefied natural gas, Venture Global Inc., is raising questions over how to share a common waterway with a planned neighbor \u2014 it\u2019s a move that underscores a coming bottleneck for shipping space in \u2026",
-    "link": "https://www.insurancejournal.com/news/southcentral/2025/07/03/830263.htm",
-    "timestamp": "2025-07-03T16:35:52Z"
-  },
-  {
-    "title": "\u2018Not accountable to anyone\u2019: As insurers issue denials, some patients run out of options",
-    "description": "For doctors, these denials are frustrating and time-consuming. For patients, they can be devastating.",
-    "link": "https://www.bostonherald.com/2025/07/03/health-insurance-denials/",
-    "timestamp": "2025-07-03T16:35:06Z"
-  },
-  {
-    "title": "Ex-CBS anchor Dan Rather laments Paramount settlement with Trump as \u2018sad day for journalism\u2019",
-    "description": "Former CBS anchor criticized Paramount's $16 million Trump settlement over \"60 Minutes\" editing claims, arguing the network \"did nothing wrong\" and shouldn't have yielded to pressure.",
-    "link": "https://www.foxnews.com/media/ex-cbs-anchor-dan-rather-laments-paramount-settlement-trump-sad-day-journalism",
-    "timestamp": "2025-07-03T16:34:04Z"
-  },
-  {
-    "title": "New State Reports Measles Outbreak as RFK Jr. Guts Vaccine Access",
-    "description": "Measles is on the rise in Kentucky.\r\nHealth officials in the state confirmed that the disease has spread to Fayette County, marking the seventh case of the highly contagious illness in Kentucky since the beginning of the year. Previous cases had been reported\u2026",
-    "link": "https://newrepublic.com/post/197597/robert-f-kennedy-jr-measles-outbreak-kentucky-vaccines",
-    "timestamp": "2025-07-03T16:34:04Z"
-  },
-  {
-    "title": "Trump didn't just cut a deal with Vietnam \u2014 he was targeting China, too - Business Insider",
-    "description": "Trump didn't just cut a deal with Vietnam \u2014 he was targeting China, tooBusiness Insider How the retail industry is responding to Trump's trade deal with VietnamCNBC US and Vietnam reach initial tariff dealPolitico How to strike a trade deal with Donald TrumpT\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178271496",
-    "timestamp": "2025-07-03T16:33:27Z"
-  },
-  {
-    "title": "BRYAN DEAN WRIGHT: John Brennan was my boss at the CIA. He belongs in prison",
-    "description": "Former CIA officer reveals how John Brennan manipulated the Trump-Russia intelligence assessment, using the discredited Steele Dossier despite warnings to target President Trump",
-    "link": "https://www.foxnews.com/opinion/bryan-dean-wright-john-brennan-my-boss-cia-he-belongs-prison",
-    "timestamp": "2025-07-03T16:33:08Z"
-  },
-  {
-    "title": "Is Tesla Stock Headed for a Major Correction? What Investors Should Know.",
-    "description": "Tesla\u2019s premium valuation, long supported by high growth rates, disruptive technology, and Musk\u2019s personal brand, is looking increasingly difficult to defend...",
-    "link": "https://www.barchart.com/story/news/33203229/is-tesla-stock-headed-for-a-major-correction-what-investors-should-know",
-    "timestamp": "2025-07-03T16:32:42Z"
-  },
-  {
-    "title": "Did Democrat Zohran Mamdani struggle with Black and working-class voters?",
-    "description": "An analysis suggests the New York City mayoral hopeful trailed among certain demographics. What's behind the numbers?",
-    "link": "https://www.aljazeera.com/news/2025/7/3/did-democrat-zohran-mamdani-struggle-with-black-and-working-class-voters",
-    "timestamp": "2025-07-03T16:32:28Z"
   }
 ]
