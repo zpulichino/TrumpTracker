@@ -1,5 +1,89 @@
 [
   {
+    "title": "Harvard Is Hoping Court Rules Trump Administration's Funding Cuts Were Illegal",
+    "description": "The research funding is only one front in the Ivy League school's fight with the federal government.",
+    "link": "https://www.huffpost.com/entry/trump-harvard-face-off-in-court_n_687e1963e4b06691ec24ff57",
+    "timestamp": "2025-07-21T10:56:29Z"
+  },
+  {
+    "title": "Links 7/21/2025",
+    "description": "Our meditative daily links, including Epstein won't die, kid-friendly Grok, Japan elections, Boris Johnson is sad, and malls' second life.",
+    "link": "https://www.nakedcapitalism.com/?p=295657",
+    "timestamp": "2025-07-21T10:55:26Z"
+  },
+  {
+    "title": "The Senate successors avoiding GOP primary drama and AI fueled job cuts: Morning Rundown",
+    "description": "JD Vance and Marco Rubio's Senate successors are cruising to the primaries.",
+    "link": "https://www.nbcnews.com/news/us-news/senate-successors-avoiding-gop-primary-drama-ai-fueled-job-cuts-mornin-rcna219922",
+    "timestamp": "2025-07-21T10:54:33Z"
+  },
+  {
+    "title": "Economists see slimmer chance of interest rate cuts in Canada this year",
+    "description": "RBC and Scotiabank economists say the Bank of Canada will keep their benchmark rate at 2.75% through the end of 2025",
+    "link": "https://financialpost.com/news/economists-rate-cuts-canada",
+    "timestamp": "2025-07-21T10:51:59Z"
+  },
+  {
+    "title": "EU explores plans as prospect of US tariff deal fades",
+    "description": "The European Union is exploring a broader set of possible counter-measures against the United States as prospects for an acceptable trade agreement with Washington fade, according to EU diplomats.",
+    "link": "https://www.rte.ie/news/world/2025/0721/1524523-eu-tariffs-us/",
+    "timestamp": "2025-07-21T10:51:17Z"
+  },
+  {
+    "title": "EU explores plans as prospect of US tariff deal fades",
+    "description": "The European Union is exploring a broader set of possible counter-measures against the United States as prospects for an acceptable trade agreement with Washington fade, according to EU diplomats.",
+    "link": "https://www.rte.ie/news/business/2025/0721/1524523-eu-tariffs-us/",
+    "timestamp": "2025-07-21T10:51:17Z"
+  },
+  {
+    "title": "EU readies for US trade fight as talks stall",
+    "description": "The European Union is readying for a major trade confrontation with the US.\nA deal agreeing baseline tariffs of 10% had been expected, but US officials told the EU that President Donald Trump would demand more concessions.\nNow Germany, previously conciliatory\u2026",
+    "link": "https://biztoc.com/x/2afac58dc806a83d",
+    "timestamp": "2025-07-21T10:49:59Z"
+  },
+  {
+    "title": "SpaceX keeps NASA key contracts following Trump spat",
+    "description": "The White House considered axing federal contracts for Elon Musk\u2019s SpaceX after the billionaire\u2019s dispute with US President Donald Trump, but found most were too important to cut.\nAdministration officials concluded the contracts were essential for the Departm\u2026",
+    "link": "https://biztoc.com/x/a618c4a69a794c88",
+    "timestamp": "2025-07-21T10:49:50Z"
+  },
+  {
+    "title": "Russia Touts Trump-Putin Meeting at Major Deadline",
+    "description": "Voice is AI-generated. Inconsistencies may occur.\nThe Kremlin said Russian President Vladimir Putin could meet with U.S. President Donald Trump if the latter visits China in September.\nChina is due to hold a military parade in Beijing on September 3 to mark 8\u2026",
+    "link": "https://biztoc.com/x/87f86e98637731b2",
+    "timestamp": "2025-07-21T10:49:30Z"
+  },
+  {
+    "title": "U.S. stock futures rise as investors eye more earnings and tariff news",
+    "description": "US stock futures rise, awaiting more earnings and tariff news. Magnificent 7 tech stocks start reporting this week. Stellantis reports tariff costs.",
+    "link": "https://www.usatoday.com/story/money/markets/2025/07/21/us-stocks-monday-earnings-tariffs/85301871007/",
+    "timestamp": "2025-07-21T10:49:18Z"
+  },
+  {
+    "title": "Why writing off Apple\u2019s Tim Cook could be a classic CEO succession mistake",
+    "description": "Apple\u2019s Tim Cook is facing similarly premature doubts that Goldman\u2019s David Solomon battled years ago.",
+    "link": "https://fortune.com/article/apple-tim-cook-ai-successor-ceo-goldman/",
+    "timestamp": "2025-07-21T10:48:29Z"
+  },
+  {
+    "title": "Nvidia's Huang says 'doing our best' to serve Chinese market",
+    "description": "Beijing (AFP) July 16, 2025\n\n\n Nvidia CEO Jensen Huang said on Wednesday his firm was \"doing our best\" to serve China's vast market for semiconductors after it secured permission from the United States to sell chips to the world's second-largest economy. \n\nNv\u2026",
+    "link": "https://www.spacedaily.com/reports/Nvidias_Huang_says_doing_our_best_to_serve_Chinese_market_999.html",
+    "timestamp": "2025-07-21T10:47:49Z"
+  },
+  {
+    "title": "Morning Bid: Yen bounces as Japan PM hangs on",
+    "description": "Japan's yen strengthened on Monday as embattled Prime Minister Shigeru Ishiba vowed to stay on as leader even after his ruling coalition lost its majority in...",
+    "link": "https://finance.yahoo.com/news/morning-bid-yen-bounces-japan-104703006.html",
+    "timestamp": "2025-07-21T10:47:03Z"
+  },
+  {
+    "title": "MAGA\u2019s tantrum over \u201cwoke\u201d Superman is nastier than their usual whining",
+    "description": "Lying about the character's legacy is part of the larger right-wing project to rewrite history",
+    "link": "https://www.salon.com/2025/07/21/magas-tantrum-over-woke-superman-is-nastier-than-their-usual-whining/",
+    "timestamp": "2025-07-21T10:45:45Z"
+  },
+  {
     "title": "Russia Touts Trump-Putin Meeting at Major Deadline",
     "description": "The meeting could take place in China\u2014and would come at a key moment.",
     "link": "https://www.newsweek.com/russia-trump-putin-china-meeting-ukraine-war-2101633",
@@ -448,89 +532,5 @@
     "description": "Moscow (AFP) July 20, 2025\n\n Russian President Vladimir Putin held a surprise meeting with Ali Larijani, top adviser to Iran's supreme leader on nuclear issues, to discuss Tehran's nuclear programme in the Kremlin on Sunday. \n\nMoscow has a cordial relationshi\u2026",
     "link": "https://www.spacewar.com/reports/Putin_meets_Khameneis_top_adviser_Larijani_for_nuclear_talks_999.html",
     "timestamp": "2025-07-21T09:17:25Z"
-  },
-  {
-    "title": "Western aid cuts cede ground to China in Southeast Asia: study",
-    "description": "Sydney (AFP) July 20, 2025\n\n\n China is set to expand its influence over Southeast Asia's development as the Trump administration and other Western donors slash aid, a study by an Australian think tank said Sunday. \n\nThe region is in an \"uncertain moment\", fac\u2026",
-    "link": "https://www.terradaily.com/reports/Western_aid_cuts_cede_ground_to_China_in_Southeast_Asia_study_999.html",
-    "timestamp": "2025-07-21T09:17:25Z"
-  },
-  {
-    "title": "What's in the EU's two-trillion-euro budget bazooka?",
-    "description": "Brussels, Belgium (AFP) July 18, 2025\n\n\n EU members got their first chance on Friday to debate the bloc's two-trillion-euro budget bazooka, laying bare divisions among the 27 capitals over the spending plans for 2028-2034. \n\nSeeking to balance the European Un\u2026",
-    "link": "https://www.spacewar.com/reports/Whats_in_the_EUs_two-trillion-euro_budget_bazooka_999.html",
-    "timestamp": "2025-07-21T09:17:25Z"
-  },
-  {
-    "title": "Lucas: Trump helped amplify Epstein scandal",
-    "description": "If William Shakespeare were around, he would have said that as far as pedophile Jeffrey Epstein is concerned, Donald Trump was hoisted by his own petard.",
-    "link": "https://www.bostonherald.com/2025/07/21/lucas-trump-helped-amplify-epstein-scandal/",
-    "timestamp": "2025-07-21T09:15:23Z"
-  },
-  {
-    "title": "Poilievre\u2019s cheap shots at Carney\u2019s business ties are unfounded and unhinged",
-    "description": "The Conservative Leader\u2019s slogans aren\u2019t entertaining while Trump raids Canada\u2019s economy using tariffs",
-    "link": "https://www.theglobeandmail.com/business/commentary/article-pierre-poilievre-shots-mark-carney-business-ties/",
-    "timestamp": "2025-07-21T09:12:38Z"
-  },
-  {
-    "title": "Trump touts U.S. as \"most respected country\" as he marks six months in office - Axios",
-    "description": "Trump touts U.S. as \"most respected country\" as he marks six months in officeAxios Donald Trump: six months in six chartsFinancial Times Playbook: Six months inPolitico Donald Trump 'Is Most Successful President After Six Months' Since FDRNewsweek Trump marks\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178429546",
-    "timestamp": "2025-07-21T09:12:36Z"
-  },
-  {
-    "title": "Trump signs GENIUS Act into law, positioning Ripple\u2019s RLUSD for institutional adoption",
-    "description": "Ripple\u2019s RLUSD could benefit from the new rules and expand its use in US financial systems. Only 14 million XRP tokens have been burned to date versus 59.1 billion in circulation. The pending CLARITY Act could further clarify XRP\u2019s legal status in the US mark\u2026",
-    "link": "https://coinjournal.net/news/trump-signs-genius-act-into-law-positioning-ripples-rlusd-for-institutional-adoption/",
-    "timestamp": "2025-07-21T09:11:35Z"
-  },
-  {
-    "title": "Donald Trump Posts AI Video of Obama's Arrest: 'No One Is Above Law'",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nPresident Donald Trump posted an AI-generated video showing former President Barack Obama's arrest on his social media platform on Sunday.\nNewsweek has contacted the White House for comment via an email sent o\u2026",
-    "link": "https://biztoc.com/x/f89ea93dc7289ad0",
-    "timestamp": "2025-07-21T09:10:13Z"
-  },
-  {
-    "title": "Russia Launches Major Aerial Attack On Kyiv Hours Before High-Level Ukraine Meeting",
-    "description": "Analysts say the barrages are likely to escalate as Russian drone production expands.",
-    "link": "https://www.huffpost.com/entry/russia-launches-aerial-attack-on-kyiv_n_687e0253e4b0502d85e56a74",
-    "timestamp": "2025-07-21T09:09:55Z"
-  },
-  {
-    "title": "Trump demands Washington Commanders switch back to \u2018Redskins\u2019 name\u2014and threatens to scupper stadium deal if they don\u2019t",
-    "description": "President Donald Trump is threatening to hold up a new stadium deal for Washington\u2019s NFL team if it does not restore its old name of the Redskins, which was considered offensive to Native Americans.\nTrump also said Sunday that he wants Cleveland\u2019s baseball te\u2026",
-    "link": "https://biztoc.com/x/c993c39344c507cf",
-    "timestamp": "2025-07-21T09:09:43Z"
-  },
-  {
-    "title": "Trump\u2019s inaugural fund received US$19m from fossil fuel industry, analysis shows",
-    "description": "Nearly eight per cent of all of the donations raised by Donald Trump's inaugural fund came from the fossil fuel industry, raising concerns about the White House's relationship with Big Oil.",
-    "link": "https://www.nationalobserver.com/2025/07/21/news/trump-campaign-finance-big-oil",
-    "timestamp": "2025-07-21T09:09:04Z"
-  },
-  {
-    "title": "Trump's renewed interest in Pakistan has India recalibrating China ties",
-    "description": "US-India ties have strengthened in the past two decades despite minor hiccups, at least partly because both countries seek to counter China",
-    "link": "https://www.thehindubusinessline.com/news/world/trumps-renewed-interest-in-pakistan-has-india-recalibrating-china-ties/article69837606.ece",
-    "timestamp": "2025-07-21T09:07:21Z"
-  },
-  {
-    "title": "Donald Trump Posts AI Video of Obama's Arrest: 'No One Is Above Law'",
-    "description": "Tulsi Gabbard has alleged that Obama's administration manufactured intelligence about Russian interference in the 2016 election.",
-    "link": "https://www.newsweek.com/donald-trump-posts-ai-video-obama-arrest-2101553",
-    "timestamp": "2025-07-21T09:06:27Z"
-  },
-  {
-    "title": "Jimmy Kimmel Shades Trump From Vacation Without Using His Name",
-    "description": "The late night host took a shot at the president's past friendship with Jeffrey Epstein.",
-    "link": "https://www.huffpost.com/entry/jimmy-kimmel-trump-protest_n_687df9eae4b0502d85e56224",
-    "timestamp": "2025-07-21T09:05:39Z"
-  },
-  {
-    "title": ": US & Bangladesh Ink HUGE Wheat Deal!  Could This Change Everything? ",
-    "description": "US & Bangladesh Forge Wheat Deal: Importing High-Quality Wheat for Food Security Hello food security enthusiasts! We\u2019ve got some exciting news from the international market. Bangladesh and the United States have just finalized a major agreement! This new deal\u2026",
-    "link": "https://nep123.com/%f0%9f%87%ba%f0%9f%87%b8%f0%9f%a4%9d%f0%9f%87%a7%f0%9f%87%a9-us-bangladesh-ink-huge-wheat-deal-%f0%9f%8c%be-could-this-change-everything-%f0%9f%a4%94/",
-    "timestamp": "2025-07-21T09:00:49Z"
   }
 ]
