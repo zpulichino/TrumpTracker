@@ -1,5 +1,77 @@
 [
   {
+    "title": "Iran and Europe begin fresh nuclear talks in Turkey",
+    "description": "Iran has pushed back on suggestions of extending a UN resolution that ratifies a 2015 nuclear deal as it began the first face-to-face talks with Western powers since Israel and the US bombed it last month.",
+    "link": "https://www.rte.ie/news/world/2025/0725/1525304-iran-europe-talks/",
+    "timestamp": "2025-07-25T08:41:34Z"
+  },
+  {
+    "title": "Iran-European nuclear talks begin amid questions over future UN sanctions",
+    "description": "Delegations from Iran, the European Union and the so-called E3 group of France, Britain and Germany, arrived for talks at the Iranian consulate in Istanbul",
+    "link": "https://www.euractiv.com/section/eet/news/iran-european-nuclear-talks-begin-amid-questions-over-future-un-sanctions/",
+    "timestamp": "2025-07-25T08:38:25Z"
+  },
+  {
+    "title": "South Park creators issue sarcastic \u2018apology\u2019 to Donald Trump after White House left angry at cartoon",
+    "description": "A White House official branded the show \u2018desperate\u2019",
+    "link": "https://www.the-independent.com/arts-entertainment/tv/news/south-park-president-donald-trump-devil-b2795800.html",
+    "timestamp": "2025-07-25T08:37:32Z"
+  },
+  {
+    "title": "Massachusetts Attorney General travels world on taxpayers\u2019 dime: \u2018Expensive junkets\u2019",
+    "description": "Massachusetts AG Andrea Campbell spent nearly $300,000 on her taxpayer-funded credit card last fiscal year, with expenses ranging from traveling to France and a balmy Caribbean island to hosting an annual holiday party, a Herald analysis shows.",
+    "link": "https://www.bostonherald.com/2025/07/25/massachusetts-attorney-general-travels-world-on-taxpayers-dime-expensive-junkets/",
+    "timestamp": "2025-07-25T08:36:37Z"
+  },
+  {
+    "title": "The US dollar is behaving strangely: The Fed had better wait and watch",
+    "description": "The weakening of the US dollar, contrary to the expectations of Stephen Miran and Scott Bessent, needs the central bank\u2019s attention. Coupled with lags in the impact of tariffs on retail prices, it puts the Federal Reserve in a tricky spot. The Fed should hold\u2026",
+    "link": "https://www.livemint.com/opinion/online-views/us-economy-tariffs-inflation-dollar-depreciation-jerome-powell-donald-trump-equities-interest-rate-trade-federal-reserve-11753428638356.html",
+    "timestamp": "2025-07-25T08:30:15Z"
+  },
+  {
+    "title": "Volkswagen Takes 1.3-bn-euro Hit From Trump Tariffs",
+    "description": "German auto giant Volkswagen said Friday that tariffs imposed by US President Donald Trump had cost it 1.3 billion euros in the first half of the year as it reported falling profit.",
+    "link": "https://www.ibtimes.com/volkswagen-takes-13-bn-euro-hit-trump-tariffs-3779422",
+    "timestamp": "2025-07-25T08:30:09Z"
+  },
+  {
+    "title": "How musicians and concert venues are upping the tempo on climate action",
+    "description": "As sustainability initiatives in other industries stall out, big acts like Coldplay, Dave Matthews, and Billie Eilish are pushing live music to go green.",
+    "link": "https://grist.org/arts-culture/how-musicians-and-concert-venues-are-upping-the-tempo-on-climate-action/",
+    "timestamp": "2025-07-25T08:30:00Z"
+  },
+  {
+    "title": "US Approves Potential $172Mln Sale to Ukraine",
+    "description": "The United States has approved $172 million for Ukraine to maintain and repair HAWK air defense systems, the Defense Security Cooperation Agency said on Wednesday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/07/ukraine-250724-sputnik04.htm",
+    "timestamp": "2025-07-25T08:29:21Z"
+  },
+  {
+    "title": "Russian Military Does Everything to Create Buffer Zones on Border With Ukraine - Kremlin",
+    "description": "The Russian military is doing everything possible to create buffer zones on the border with Ukraine, Kremlin spokesman Dmitry Peskov said on Thursday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/07/ukraine-250724-sputnik02.htm",
+    "timestamp": "2025-07-25T08:29:09Z"
+  },
+  {
+    "title": "South Park creator jokes he\u2019s \u2018terribly sorry\u2019 over premiere that drew White House anger",
+    "description": "South Park co-creator Trey Parker had the briefest of responses on Thursday to anger from the White House over the season premiere of the animated institution, which showed a naked President Donald Trump in bed with Satan.",
+    "link": "https://www.independent.ie/entertainment/television/tv-news/south-park-creator-jokes-hes-terribly-sorry-over-premiere-that-drew-white-house-anger/a1417661168.html",
+    "timestamp": "2025-07-25T08:28:18Z"
+  },
+  {
+    "title": "Coke's Cane-Sweetened Soda Launch This Fall Could Strain US Sugar Supplies",
+    "description": "Coke's Cane-Sweetened Soda Launch This Fall Could Strain US Sugar Supplies\n \nPresident Donald Trump and Health and Human Services Secretary Robert F. Kennedy Jr.'s crackdown on the ultra-processed food industrial complex has triggered a seismic shift in the b\u2026",
+    "link": "https://biztoc.com/x/c651d49fdbdfd6cd",
+    "timestamp": "2025-07-25T08:24:10Z"
+  },
+  {
+    "title": "Howie Carr: Boston judge the rubber stamp Dems, and Harvard, covet",
+    "description": "Judge Allison Burroughs is ready for her close-up.",
+    "link": "https://www.bostonherald.com/2025/07/25/howie-carr-boston-judge-the-rubber-stamp-dems-and-harvard-covet/",
+    "timestamp": "2025-07-25T08:22:52Z"
+  },
+  {
     "title": "South Park\u2019s savage takedown shows Trump has picked a fight he can\u2019t win",
     "description": "The long-running animation served up as brutal a satire of the US president as there\u2019s been in years. Trump may live to regret starting a war with the arts world, writes Louis Chilton",
     "link": "https://www.the-independent.com/arts-entertainment/tv/features/south-park-trump-new-27-satan-paramount-b2795389.html",
@@ -32,13 +104,13 @@
   {
     "title": "Today in History: July 25, Tuskegee Syphilis Study exposed",
     "description": "The U.S. Public Health Service, in conjunction with the Tuskegee Institute in Alabama, was found to be allowing poor, rural Black male patients with syphilis to go without treatment, as a way of studying the disease.",
-    "link": "https://www.denverpost.com/2025/07/25/today-in-history-july-25-tuskegee-syphilis-study-exposed-2/",
+    "link": "https://www.bostonherald.com/2025/07/25/today-in-history-july-25-tuskegee-syphilis-study-exposed-2/",
     "timestamp": "2025-07-25T08:00:57Z"
   },
   {
     "title": "Today in History: July 25, Tuskegee Syphilis Study exposed",
     "description": "The U.S. Public Health Service, in conjunction with the Tuskegee Institute in Alabama, was found to be allowing poor, rural Black male patients with syphilis to go without treatment, as a way of studying the disease.",
-    "link": "https://www.bostonherald.com/2025/07/25/today-in-history-july-25-tuskegee-syphilis-study-exposed-2/",
+    "link": "https://www.denverpost.com/2025/07/25/today-in-history-july-25-tuskegee-syphilis-study-exposed-2/",
     "timestamp": "2025-07-25T08:00:57Z"
   },
   {
@@ -372,15 +444,15 @@
     "timestamp": "2025-07-25T06:00:00Z"
   },
   {
-    "title": "Trump\u2019s AI Executive Order targets political bias, demands truth and neutrality when procuring federal AI models",
-    "description": "In a bold move to dismantle the ideological stranglehold on artificial intelligence, President Donald J. Trump has signed an executive order banning the federal government from using AI models infected with left-wing bias. The order, signed on July 23, 2025, \u2026",
-    "link": "https://www.naturalnews.com/2025-07-25-ai-eo-targets-dei-demands-neutrality-for-federal-ai-models.html",
-    "timestamp": "2025-07-25T06:00:00Z"
-  },
-  {
     "title": "Trump\u00e2\u0080\u0099s ICE crackdown delivers triple-digit arrest surges as assaults on agents jump 830%",
     "description": "ICE under Trump has seen historic triple-digit arrest surges in multiple states, targeting violent criminal illegal immigrants like murderers and gang members. Arrest rates in Colorado, Wyoming, and eight western states have nearly tripled or quintupled compa\u2026",
     "link": "https://www.naturalnews.com/2025-07-25-trump-ice-crackdown-arrest-assaults-agents.html",
+    "timestamp": "2025-07-25T06:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s AI Executive Order targets political bias, demands truth and neutrality when procuring federal AI models",
+    "description": "In a bold move to dismantle the ideological stranglehold on artificial intelligence, President Donald J. Trump has signed an executive order banning the federal government from using AI models infected with left-wing bias. The order, signed on July 23, 2025, \u2026",
+    "link": "https://www.naturalnews.com/2025-07-25-ai-eo-targets-dei-demands-neutrality-for-federal-ai-models.html",
     "timestamp": "2025-07-25T06:00:00Z"
   },
   {
@@ -496,77 +568,5 @@
     "description": "MANILA, Philippines (AP) \u2014 Asian shares retreated on Friday after Wall Street inched to more records as gains for Alphabet and artificial-intelligence stocks helped offset a steep tumble for EV-maker Tesla. Japan\u2019s Nikkei 225 fell 0.7% to 41,511.09 after two \u2026",
     "link": "https://financialpost.com/pmn/asian-shares-retreat-after-alphabet-and-ai-stocks-nudge-wall-street-to-more-records",
     "timestamp": "2025-07-25T05:02:38Z"
-  },
-  {
-    "title": "A Columbia genocide scholar says she may leave over university's new definition of antisemitism",
-    "description": "Academics around the country are raising alarm about growing efforts to define antisemitism on terms pushed by the Trump administration",
-    "link": "https://abcnews.go.com/US/wireStory/columbia-genocide-scholar-leave-universitys-new-definition-antisemitism-124059525",
-    "timestamp": "2025-07-25T05:02:15Z"
-  },
-  {
-    "title": "U.S. cuts short Gaza ceasefire talks and accuses Hamas of lacking 'good faith'",
-    "description": "A breakthrough on a ceasefire deal between Israel and Hamas following 21 months of war has eluded the Trump administration as humanitarian conditions worsen in Gaza.",
-    "link": "https://www.npr.org/2025/07/25/nx-s1-5479673/gaza-ceasefire-talks-cut-short-us-israel-hamas",
-    "timestamp": "2025-07-25T05:01:30Z"
-  },
-  {
-    "title": "FEMA Denies Maryland Disaster Aid Request for Western Counties Hit by May Floods",
-    "description": "The Trump Administration has denied Maryland\u2019s request for federal disaster aid for damage caused by severe storms and flooding on May 13 and 14 in Allegany and Garrett Counties in the western part of the state. Gov. Wes Moore said \u2026",
-    "link": "https://www.insurancejournal.com/news/east/2025/07/25/833188.htm",
-    "timestamp": "2025-07-25T05:00:38Z"
-  },
-  {
-    "title": "CK Hutchison ports deal deadline likely to be extended as US-China tensions weigh, sources say",
-    "description": "CK Hutchison's $22.8 billion ports business sale to a BlackRock-led consortium faces delays amid political tensions and regulatory scrutiny. The deal, encompassing 43 ports including those near the Panama Canal, is complicated by China-U.S. trade war dynamics\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/ck-hutchison-ports-deal-deadline-likely-to-be-extended-as-us-china-tensions-weigh-sources-say/articleshow/122895760.cms",
-    "timestamp": "2025-07-25T05:00:15Z"
-  },
-  {
-    "title": "What do Ireland\u2019s best paid chief executives earn?",
-    "description": "Top executives\u2019 average pay package rose by 31 per cent to \u20ac4.36m last year",
-    "link": "https://www.irishtimes.com/business/2025/07/25/what-do-irelands-best-paid-chief-executives-earn/",
-    "timestamp": "2025-07-25T05:00:00Z"
-  },
-  {
-    "title": "Coca-Cola gets roped into making America healthy again",
-    "description": "Trump\u2019s pressure on food and drink manufacturing raises questions of fairness and predictability",
-    "link": "https://www.irishtimes.com/business/2025/07/25/coca-cola-gets-roped-into-making-america-healthy-again/",
-    "timestamp": "2025-07-25T05:00:00Z"
-  },
-  {
-    "title": "US congressman Brendan Boyle: \u2018Kerry are the Yankees of Gaelic football, aren\u2019t they?\u2019",
-    "description": "Brendan and his father Francis have never let their connection to the county team slip",
-    "link": "https://www.irishtimes.com/sport/gaelic-games/2025/07/25/faraway-so-close-us-congressman-brendan-boyle-ready-to-park-political-fight-and-don-his-donegal-shirt/",
-    "timestamp": "2025-07-25T05:00:00Z"
-  },
-  {
-    "title": "\u2018Subsidies\u2026Do Not Exist\u2019: Musk Dismisses Trump\u2019s Apparent Overture Wanting Him To \u2018Thrive\u2019",
-    "description": "Musk insisted that his companies are not receiving any special government subsidies, as he appeared to dismiss the chance for a potential detente in his feud with Trump.",
-    "link": "https://www.forbes.com/sites/siladityaray/2025/07/25/subsidiesdo-not-exist-musk-dismisses-trumps-apparent-overture-wanting-him-to-thrive/",
-    "timestamp": "2025-07-25T04:58:25Z"
-  },
-  {
-    "title": "CK Hutchison ports deal deadline likely to be extended as US-China tensions weigh, sources say",
-    "description": "HONG KONG (Reuters) -CK Hutchison's plan to sell most of its $22.8 billion ports business is unlikely to be finalised anytime soon, with political...",
-    "link": "https://finance.yahoo.com/news/ck-hutchison-ports-deal-deadline-045418000.html",
-    "timestamp": "2025-07-25T04:54:18Z"
-  },
-  {
-    "title": "What to know about the man charged with trying to assassinate Trump in Florida",
-    "description": "A man charged with attempting to assassinate President Donald Trump in South Florida last year was back in court this week, asking a federal judge to let him represent himself",
-    "link": "https://abcnews.go.com/Politics/wireStory/man-charged-assassinate-trump-florida-124059248",
-    "timestamp": "2025-07-25T04:54:15Z"
-  },
-  {
-    "title": "Howard Lutnick Says TikTok Is 'Going Dark' Unless Beijing Agrees To Hand It Over: 'Can't Have Chinese Control\u2026On 100 Million American Phones'",
-    "description": "On Thursday, U.S. Commerce Secretary Howard Lutnick said that TikTok will be banned unless China allows American ownership and control of the platform's algorithm and technology.\nWhat Happened: Speaking on CNBC's Squawk on the Street, Lutnick reinforced the D\u2026",
-    "link": "https://biztoc.com/x/b6815b61b80f512c",
-    "timestamp": "2025-07-25T04:52:39Z"
-  },
-  {
-    "title": "'Daily Show' Spots The 'Crazy' Way Trump 'Pissed Off' His Base Over Epstein",
-    "description": "Josh Johnson broke down exactly why the president is \"down bad\" over the Epstein saga.",
-    "link": "https://www.huffpost.com/entry/daily-show-josh-johnson-trump-epstein-qanon-shaman_n_6882f24fe4b0c2d9e4d99691",
-    "timestamp": "2025-07-25T04:51:46Z"
   }
 ]
