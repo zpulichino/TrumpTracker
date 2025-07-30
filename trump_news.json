@@ -1,5 +1,101 @@
 [
   {
+    "title": "Russian strikes on Zaporizhzhia kill 16, Ukraine says",
+    "description": "At least 16 people were killed in multiple overnight strikes by Russia on the frontline region of Zaporizhzhia in southwestern Ukraine.",
+    "link": "https://www.rte.ie/news/ukraine/2025/0729/1525848-ukraine-russia/",
+    "timestamp": "2025-07-29T06:31:04Z"
+  },
+  {
+    "title": "CNBC Daily Open: Investors are signaling it's time for tariffs to move aside",
+    "description": "Economists appear to be lowering their expectations\u00a0of the\u00a0impact tariffs will have on the U.S. economy.",
+    "link": "https://www.cnbc.com/2025/07/29/cnbc-daily-open-investors-signal-its-time-for-tariffs-to-move-aside.html",
+    "timestamp": "2025-07-29T06:30:01Z"
+  },
+  {
+    "title": "US seeks to claim $2.4M in Bitcoin seized from ransomware group",
+    "description": "A civil forfeiture complaint filed by US authorities hopes to lay claim to $2.4 million in Bitcoin allegedly tied to a ransomware gang, which could end up in the proposed US Bitcoin treasury.",
+    "link": "https://cointelegraph.com/news/us-bitcoin-reserve-seizure-foia-dispute",
+    "timestamp": "2025-07-29T06:28:25Z"
+  },
+  {
+    "title": "Trump denies seeking summit with Xi, says he \u2018may\u2019 visit China",
+    "description": "US president says he will visit China only at the invitation of Chinese leader.",
+    "link": "https://www.aljazeera.com/news/2025/7/29/trump-denies-seeking-summit-with-xi-says-he-may-visit-china",
+    "timestamp": "2025-07-29T06:26:42Z"
+  },
+  {
+    "title": "US Justice Department targets judge over Trump remarks",
+    "description": "US President Donald Trump's administration has filed a misconduct complaint against a top federal judge, accusing him of bias. The judge had previously blocked deportation flights of Venezuelans to El Salvador.",
+    "link": "https://www.dw.com/en/us-justice-department-targets-judge-over-trump-remarks/a-73444971",
+    "timestamp": "2025-07-29T06:22:00Z"
+  },
+  {
+    "title": "Air-dropping food into Gaza is a \u2018smokescreen\u2019 \u2013 this is what must be done to prevent mass starvation",
+    "description": "States must exercise their full diplomatic leverage to pressure Israel to let aid in at the scale required to avert famine.",
+    "link": "https://theconversation.com/air-dropping-food-into-gaza-is-a-smokescreen-this-is-what-must-be-done-to-prevent-mass-starvation-262053",
+    "timestamp": "2025-07-29T06:18:26Z"
+  },
+  {
+    "title": "Thai army accuses Cambodia of breaking truce",
+    "description": "Thailand's army accused Cambodia Tuesday of violating an hours-old truce, saying clashes continued despite a deal meant to end the bloody fighting that engulfed their jungle-clad frontier.",
+    "link": "https://www.hurriyetdailynews.com/thai-army-accuses-cambodia-of-breaking-truce-211972",
+    "timestamp": "2025-07-29T06:17:36Z"
+  },
+  {
+    "title": "Donald Trump to open resort\u2019s second golf course on final day in Scotland",
+    "description": "Donald Trump will officially open his new golf course in Aberdeenshire on the final day of his visit to Scotland.",
+    "link": "https://www.independent.ie/world-news/britain/donald-trump-to-open-resorts-second-golf-course-on-final-day-in-scotland/a433076203.html",
+    "timestamp": "2025-07-29T06:16:48Z"
+  },
+  {
+    "title": "Trump says Gaza faces 'real starvation' as death toll nears 60,000",
+    "description": "U.S. President Donald Trump warned Monday that the people of\u00a0Gaza\u00a0are facing \"real starvation\", as Israel kills 92 in Gaza in one day as death toll rises to at least 59,921 people",
+    "link": "https://www.hurriyetdailynews.com/trump-says-gaza-faces-real-starvation-as-death-toll-nears-60-000-211970",
+    "timestamp": "2025-07-29T06:08:32Z"
+  },
+  {
+    "title": "Overnight Russian attacks killed at least 20 people, says Ukraine",
+    "description": "",
+    "link": "https://www.thejournal.ie/overnight-russian-attacks-ukraine-6776600-Jul2025/",
+    "timestamp": "2025-07-29T06:07:24Z"
+  },
+  {
+    "title": "Thailand and Cambodia dispute whether ceasefire is holding",
+    "description": "Thailand and Cambodia are disputing whether their ceasefire is holding, the morning after they agreed to stop fighting in a deal reached in Malaysia under U.S. pressure",
+    "link": "https://abcnews.go.com/International/wireStory/thailand-cambodia-dispute-ceasefire-holding-124160165",
+    "timestamp": "2025-07-29T06:06:21Z"
+  },
+  {
+    "title": "As if the trade war never happened, stocks could pull off a feat not seen since the late-1990s boom",
+    "description": "\"This year reminds us of the classic Charles Dickens quote, 'It was the best of times, it was the worst of times.'\"",
+    "link": "https://fortune.com/2025/07/29/stock-market-outlook-sp500-forecast-7100-trump-trade-war-tariffs/",
+    "timestamp": "2025-07-29T06:02:00Z"
+  },
+  {
+    "title": "BRICS charts new economic course as U.S. escalates tariffs in shift of global power",
+    "description": "BRICS\u2019s global influence expands as U.S. imposes new tariffs on South Africa. U.S. applies 30% tariffs on South African exports, excluding key minerals. BRICS nations call for reform of IMF, World Bank, pushing multipolar economic order. 11th BRICS Parliament\u2026",
+    "link": "https://www.naturalnews.com/2025-07-29-brics-charts-new-economic-course-us-tariffs.html",
+    "timestamp": "2025-07-29T06:00:00Z"
+  },
+  {
+    "title": "Thailand and Cambodia reach CEASEFIRE following U.S. pressure",
+    "description": "A fragile truce between Thailand and Cambodia took effect on July 28, halting four days of deadly clashes that killed 38 people and displaced 300,000 civilians near their disputed border. The U.S. (led by President Trump), Malaysia and China pressured both si\u2026",
+    "link": "https://www.naturalnews.com/2025-07-29-thailand-cambodia-reach-ceasefire-following-us-pressure.html",
+    "timestamp": "2025-07-29T06:00:00Z"
+  },
+  {
+    "title": "Brazil defies Trump, strengthens BRICS ties amid tariff threats",
+    "description": "Brazilian officials announced their intention to strengthen ties with fellow BRICS nations, despite explicit warnings and tariff threats from U.S. President Donald Trump. The U.S. accusations of undermining the dollar and meddling in Brazil\u2019s affairs have onl\u2026",
+    "link": "https://www.naturalnews.com/2025-07-29-brazil-strengthens-brics-ties-amid-tariff-threats.html",
+    "timestamp": "2025-07-29T06:00:00Z"
+  },
+  {
+    "title": "Despite Democrat talking heads and shills saying otherwise, OBAMA CAN STILL BE INDICTED for his treason and conspiracy to wreck America",
+    "description": "This week, investigative journalist John Solomon told Steve Bannon that former President Barack Obama is unlikely to face legal consequences for his alleged role in the Russia collusion hoax. According to Solomon, the Supreme Court\u2019s 2024 decision in Trump v.\u2026",
+    "link": "https://www.naturalnews.com/2025-07-29-obama-can-be-indicted-treason-conspiracy-america.html",
+    "timestamp": "2025-07-29T06:00:00Z"
+  },
+  {
     "title": "Cambodian official praises Trump's role in 'bringing peace' as ceasefire with Thailand takes hold",
     "description": "Cambodian official praises Trump's role in 'bringing peace' as ceasefire with Thailand takes hold\u00a0go.com",
     "link": "https://abcnews.go.com/International/cambodian-official-praises-trumps-role-bringing-peace-ceasefire/story?id=124128353",
@@ -472,95 +568,5 @@
     "description": "United States President Donald Trump said that he is not actively pursuing a \"summit\" with Chinese President Xi Jinping.\n\"The Fake News is reporting that I am SEEKING a 'Summit&#39...",
     "link": "https://biztoc.com/x/9227048ea3a336c7",
     "timestamp": "2025-07-29T03:23:42Z"
-  },
-  {
-    "title": "US has no plans to assist Jordan with Gaza aid airdrops, officials say",
-    "description": "Jordan plans to launch a three-week airdrop operation in early August.",
-    "link": "https://abcnews.go.com/International/jordan-requesting-us-gaza-aid-airdrops-trump-administration/story?id=124143747",
-    "timestamp": "2025-07-29T03:20:22Z"
-  },
-  {
-    "title": "Howard Lutnick Shares Latest With TikTok Deal",
-    "description": "Commerce Secretary Howard Lutnick shed light on Fox News Monday on the ongoing discussions between the U.S. and China.",
-    "link": "https://dailycaller.com/2025/07/28/howard-lutnick-tiktok-deal-china/",
-    "timestamp": "2025-07-29T03:18:30Z"
-  },
-  {
-    "title": "Seth Meyers Says the Future of Late-Night Is \u2018Outside of My Control,\u2019 Worries About Himself \u2018Mental Health-Wise\u2019 If His Show Is Cancelled: \u2018It Is Such a Time We\u2019re Living In\u2019",
-    "description": "Seth Meyers is opening up about his future in late-night. On a recent episode of \u201cArmchair Expert with Dax Shepard,\u201d Meyers said the future of his show, \u201cLate Night With Seth Meyers,\u201d is \u201coutside of my control,\u201d and that he worries the entire TV \u201cecosystem\u201d e\u2026",
-    "link": "https://variety.com/2025/tv/news/seth-meyers-future-of-late-night-mental-health-1236472831/",
-    "timestamp": "2025-07-29T03:17:33Z"
-  },
-  {
-    "title": "North Korea says Trump must accept its status as a nuclear weapons state",
-    "description": "North Korean leader\u2019s powerful sister says talks aimed at denuclearisation would be interpreted as a 'mockery'.",
-    "link": "https://www.aljazeera.com/news/2025/7/29/north-korea-says-trump-must-accept-its-status-as-a-nuclear-weapons-state",
-    "timestamp": "2025-07-29T03:17:04Z"
-  },
-  {
-    "title": "Asean leadership redefined: Anwar's quiet diplomacy halts deadly Thailand-Cambodia clash",
-    "description": "KUALA LUMPUR: Let's give Datuk Seri Anwar Ibrahim the credit when it is due. Read full story",
-    "link": "https://www.thestar.com.my/opinion/columnists/comment/2025/07/29/asean-leadership-redefined-anwar039s-quiet-diplomacy-halts-deadly-thailand-cambodia-clash",
-    "timestamp": "2025-07-29T03:09:00Z"
-  },
-  {
-    "title": "MAHA report: 'Forever' chemicals still contaminate more than 2000 U.S. communities",
-    "description": "Long-lasting chemicals surpass safe levels in many communities across the country, and may stay in the human body forever unless detoxified-- if possible.",
-    "link": "https://justthenews.com/politics-policy/health/maha-report-forever-chemicals-still-contaminate-over-2000-us-communities",
-    "timestamp": "2025-07-29T03:08:04Z"
-  },
-  {
-    "title": "Israel's leader claims no one in Gaza is starving; data, witnesses disagree",
-    "description": "Despite Israel's claims of sufficient aid, stark evidence suggests a growing humanitarian crisis in Gaza, with rising malnutrition-related deaths, especially among children. While Israel announces humanitarian pauses and airdrops, aid delivery remains severel\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/israels-leader-claims-no-one-in-gaza-is-starving-data-witnesses-disagree/articleshow/122964851.cms",
-    "timestamp": "2025-07-29T03:07:47Z"
-  },
-  {
-    "title": "Thai army accuses Cambodia of breaking truce",
-    "description": "The Thailand-Cambodia border, where fighting has raged since last week, was calm following a ceasefire deal and military commanders from both sides are set to meet for talks later in the day, acting Thai Prime Minister Phumtham Wechayachai said.",
-    "link": "https://www.rte.ie/news/world/2025/0729/1525836-thailand-cambodia/",
-    "timestamp": "2025-07-29T03:03:55Z"
-  },
-  {
-    "title": "Thai army accuses Cambodia of breaking truce",
-    "description": "Thailand's army accused Cambodia of violating an hours-old truce, saying clashes continued despite a deal meant to end the bloody fighting that engulfed their jungle-clad frontier.",
-    "link": "https://www.rte.ie/news/world/2025/0729/1525836-thailand-cambodia-conflict/",
-    "timestamp": "2025-07-29T03:03:55Z"
-  },
-  {
-    "title": "DHS Repurposes Johnny Cash, WWII Film, And The Bible Itself To Pretend God Hates Migrants",
-    "description": "(To all readers: the use of \u201cGod\u201d in this post refers to the generically Christian ideal of God, and not any particular god or gods referenced/respected by other religions. The capitalization is there to make a point to the kind of people who insist on capita\u2026",
-    "link": "https://www.techdirt.com/2025/07/28/dhs-repurposes-johnny-cash-wwii-film-and-the-bible-itself-to-pretend-god-hates-migrants/",
-    "timestamp": "2025-07-29T03:03:00Z"
-  },
-  {
-    "title": "Thailand and Cambodia agree to immediate ceasefire",
-    "description": "Kathmandu, July 29: The leaders of Cambodia and Thailand agreed to a ceasefire on Monday effective midnight, in a bid [\u2026]\nThe post Thailand and Cambodia agree to immediate ceasefire appeared first on Peoples' Review.",
-    "link": "https://mypeoplesreview.com/2025/07/29/thailand-and-cambodia-agree-to-immediate-ceasefire/",
-    "timestamp": "2025-07-29T03:00:00Z"
-  },
-  {
-    "title": "Explainer-What's at stake for Japan's fragile bond market this week",
-    "description": "TOKYO (Reuters) -Japan's bond market faces stern tests this week, from domestic political ructions and a possible hawkish shift at the central bank to global...",
-    "link": "https://ca.finance.yahoo.com/news/explainer-whats-stake-japans-fragile-025808189.html",
-    "timestamp": "2025-07-29T02:58:08Z"
-  },
-  {
-    "title": "Explainer-What's at stake for Japan's fragile bond market this week",
-    "description": "TOKYO (Reuters) -Japan's bond market faces stern tests this week, from domestic political ructions and a possible hawkish shift at the central bank to global...",
-    "link": "https://finance.yahoo.com/news/explainer-whats-stake-japans-fragile-025808809.html",
-    "timestamp": "2025-07-29T02:58:08Z"
-  },
-  {
-    "title": "Explainer-What's at stake for Japan's fragile bond market this week",
-    "description": "TOKYO :Japan's bond market faces stern tests this week, from domestic political ructions and a possible hawkish shift at the central bank to global risks stemming from the Federal Reserve.Japan's long-dated government bond (JGB) yields remain near record peak\u2026",
-    "link": "https://www.channelnewsasia.com/business/explainer-whats-stake-japans-fragile-bond-market-week-5263981",
-    "timestamp": "2025-07-29T02:58:08Z"
-  },
-  {
-    "title": "U.S. tariffs to test pricing by luxury brands already paying for dramatic hikes",
-    "description": "Estimates suggest big luxury companies already raised prices by 33% on average between 2019 and 2023.",
-    "link": "https://www.japantimes.co.jp/business/2025/07/29/markets/us-tariffs-luxury-brands-power/",
-    "timestamp": "2025-07-29T02:58:00Z"
   }
 ]
