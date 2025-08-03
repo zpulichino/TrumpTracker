@@ -1,5 +1,35 @@
 [
   {
+    "title": "Job seekers say it's bleak out there \u2014 and now the data agrees",
+    "description": "Job seekers told Business Insider they're not surprised by the latest jobs report, and that it's felt this bad for a while.",
+    "link": "https://www.businessinsider.com/job-seekers-react-july-jobs-report-2025-8",
+    "timestamp": "2025-08-02T09:43:01Z"
+  },
+  {
+    "title": "Musk claims \u2018major\u2019 US Democrats in Epstein docs",
+    "description": "Even Donald Trump\u2019s rivals would keep files related to the disgraced financier sealed, the X owner has said Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/622404-musk-us-democrats-epstein/",
+    "timestamp": "2025-08-02T09:42:16Z"
+  },
+  {
+    "title": "German police expands use of Palantir surveillance software",
+    "description": "Police and spy agencies are keen to combat criminality and terrorism with artificial intelligence. But critics say the CIA-funded Palantir surveillance software enables \"predictive policing.\"",
+    "link": "https://www.dw.com/en/german-police-expands-use-of-palantir-surveillance-software/a-73497117",
+    "timestamp": "2025-08-02T09:42:00Z"
+  },
+  {
+    "title": "Good, mad and ugly: the US economy\u2019s performance under Trump \u2013 in charts",
+    "description": "Despite president\u2019s claims of an economic boom, picture is chaotic \u2013 healthy GDP growth but weak jobs figures\nAccording to Donald Trump\u2019s White House, the US economy is booming, inflation is dead and jobs are surging. A blizzard of economic reports has cast a\u2026",
+    "link": "https://biztoc.com/x/f43adac8339bdcf9",
+    "timestamp": "2025-08-02T09:35:30Z"
+  },
+  {
+    "title": "\"Have we become so weak?\" Congress MP Sukhdeo Bhagat on Trump's 25% tariff on India",
+    "description": "Congress MP Sukhdeo Bhagat has criticised PM Modi's silence on the 25% tariff imposed by the US, questioning the government's vulnerability to US interference in strategic matters. Trump's announcement of tariffs and threats of further penalties for importing\u2026",
+    "link": "https://economictimes.indiatimes.com/news/politics-and-nation/have-we-become-so-weak-congress-mp-sukhdeo-bhagat-on-trumps-25-tariff-on-india/articleshow/123060012.cms",
+    "timestamp": "2025-08-02T09:34:51Z"
+  },
+  {
     "title": "How could a change in U.S. energy policy impact the renewable sector?",
     "description": "Investing.com - August could prove to be a critical month for renewable energy companies, as the industry awaits revised guidance from the Treasury...",
     "link": "https://finance.yahoo.com/news/could-change-u-energy-policy-093009169.html",
@@ -384,16 +414,22 @@
     "timestamp": "2025-08-02T06:24:35Z"
   },
   {
+    "title": "Direct Military Confrontation Between Russia, US Should Not Be Allowed - Lavrov",
+    "description": "Moscow agrees with Washington's responsible approach that a direct military confrontation between the United States and Russia should not be allowed, Russian Foreign Minister Sergey Lavrov said on Friday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/08/russia-250801-sputnik01.htm",
+    "timestamp": "2025-08-02T06:24:35Z"
+  },
+  {
     "title": "US 20% tariff on Taiwan island draws sarcasm toward DPP authorities",
     "description": "The White House's announcement of a 20 percent tariff on the Taiwan region -higher than the 15 percent imposed on Japan and South Korea -has sparked intense debate on the island.",
     "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250801-globaltimes01.htm",
     "timestamp": "2025-08-02T06:24:35Z"
   },
   {
-    "title": "Direct Military Confrontation Between Russia, US Should Not Be Allowed - Lavrov",
-    "description": "Moscow agrees with Washington's responsible approach that a direct military confrontation between the United States and Russia should not be allowed, Russian Foreign Minister Sergey Lavrov said on Friday.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/08/russia-250801-sputnik01.htm",
-    "timestamp": "2025-08-02T06:24:35Z"
+    "title": "Global trade in chaos as Trump imposes steep tariffs on 92 countries",
+    "description": "US President Donald Trump has imposed steep tariffs on exports from 92 countries, including Canada, Switzerland, Brazil, and India, ahead of his self-imposed August 1 deadline that is expected to reignite global trade tensions.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250801-presstv07.htm",
+    "timestamp": "2025-08-02T06:24:34Z"
   },
   {
     "title": "Trump signs executive order modifying tariff rates with dozens of trading partners",
@@ -405,12 +441,6 @@
     "title": "Trump signs order modifying tariff rates with 69 trading partners amid criticism, lawsuits",
     "description": "U.S. President Donald Trump on Thursday signed an executive order further modifying tariff rates with 69 trading partners while his tariff policies and handling of trade deals resulted in criticism and lawsuits at home.",
     "link": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250801-pdo03.htm",
-    "timestamp": "2025-08-02T06:24:34Z"
-  },
-  {
-    "title": "Global trade in chaos as Trump imposes steep tariffs on 92 countries",
-    "description": "US President Donald Trump has imposed steep tariffs on exports from 92 countries, including Canada, Switzerland, Brazil, and India, ahead of his self-imposed August 1 deadline that is expected to reignite global trade tensions.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250801-presstv07.htm",
     "timestamp": "2025-08-02T06:24:34Z"
   },
   {
@@ -428,13 +458,13 @@
   {
     "title": "Trump\u2019s 25% Tariff on Indian Exports: A headline risk, not a structural threat",
     "description": "Jimeet Modi says Trump\u2019s proposed 25% tariff on Indian exports is a headline risk, not a structural threat. With strong domestic demand, diversified trade, and policy support, India\u2019s economy and capital markets are well-positioned to absorb such external sho\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-25-tariff-on-indian-exports-a-headline-risk-not-a-structural-threat/articleshow/123057627.cms",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-25-tariff-on-indian-exports-a-headline-risk-not-a-structural-threat/articleshow/123057168.cms",
     "timestamp": "2025-08-02T06:16:09Z"
   },
   {
     "title": "Trump\u2019s 25% Tariff on Indian Exports: A headline risk, not a structural threat",
     "description": "Jimeet Modi says Trump\u2019s proposed 25% tariff on Indian exports is a headline risk, not a structural threat. With strong domestic demand, diversified trade, and policy support, India\u2019s economy and capital markets are well-positioned to absorb such external sho\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-25-tariff-on-indian-exports-a-headline-risk-not-a-structural-threat/articleshow/123057168.cms",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-25-tariff-on-indian-exports-a-headline-risk-not-a-structural-threat/articleshow/123057627.cms",
     "timestamp": "2025-08-02T06:16:09Z"
   },
   {
@@ -538,35 +568,5 @@
     "description": "Concerns are growing that EU officials regulating Big Tech could face US visa bans",
     "link": "https://www.irishtimes.com/politics/2025/08/02/maga-versus-the-eu-are-european-regulators-in-firing-line-in-trumps-war-on-online-censorship/",
     "timestamp": "2025-08-02T05:00:00Z"
-  },
-  {
-    "title": "Worldview: Ireland has too many quangos and too many lawyers feeding off its clientelist politics",
-    "description": "Tackling the State\u2019s problems requires structural change to decentralise and redemocratise power",
-    "link": "https://www.irishtimes.com/opinion/2025/08/02/ireland-has-too-many-quangos-and-too-many-lawyers-feeding-off-its-clientelist-politics/",
-    "timestamp": "2025-08-02T05:00:00Z"
-  },
-  {
-    "title": "'He Knows How to Avoid Sanctions' \u2013 Trump on Putin",
-    "description": "WASHINGTON (Sputnik) - US President Donald Trump said that if a Ukraine ceasefire deal is not achieved by next week, Washington will introduce sanctions, although Moscow is good at avoiding them.",
-    "link": "https://sputnikglobe.com/20250802/he-knows-how-to-avoid-sanctions--trump-on-putin-1122542413.html",
-    "timestamp": "2025-08-02T04:56:58Z"
-  },
-  {
-    "title": "How an alleged Ponzi scheme targeting Republicans left investors and politicians reeling",
-    "description": "A federal receiver is working to recover $140 million lost in an alleged Ponzi scheme that targeted conservatives and funneled money to Republican causes in Georgia and Alabama. The scheme, promoted by conservative pundits, promised high returns but left many\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/how-an-alleged-ponzi-scheme-targeting-republicans-left-investors-and-politicians-reeling/articleshow/123056087.cms",
-    "timestamp": "2025-08-02T04:50:30Z"
-  },
-  {
-    "title": "US stocks slump on latest tariffs, soft jobs data",
-    "description": "American stock markets faced a significant downturn on Friday. New tariffs imposed by President Trump on various countries impacted investor sentiment. A surprisingly weak jobs report further fueled concerns about the economy. Amazon's disappointing results a\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-slump-on-latest-tariffs-soft-jobs-data/articleshow/123056083.cms",
-    "timestamp": "2025-08-02T04:50:05Z"
-  },
-  {
-    "title": "Sensible and steely: how Mexico\u2019s Sheinbaum has dealt with Trump",
-    "description": "A combination of tact and tenacity is credited for Mexican President Claudia Sheinbaum's successful dealings with US counterpart Trump.\nThe post Sensible and steely: how Mexico\u2019s Sheinbaum has dealt with Trump appeared first on Digital Journal.",
-    "link": "https://www.digitaljournal.com/business/sensible-and-steely-how-mexicos-sheinbaum-has-dealt-with-trump/article",
-    "timestamp": "2025-08-02T04:49:37Z"
   }
 ]
