@@ -1,5 +1,113 @@
 [
   {
+    "title": "NI community projects fear closure after US and UK funding reportedly pulled from peace organisation",
+    "description": "The US government has traditionally been the International Fund for Ireland\u2019s largest funder",
+    "link": "https://www.irishtimes.com/ireland/2025/08/02/ni-community-projects-fear-closure-after-us-and-uk-funding-reportedly-pulled-from-peace-organisation/",
+    "timestamp": "2025-08-02T05:00:01Z"
+  },
+  {
+    "title": "Maga versus the EU: are European regulators a target in Trump\u2019s war on online \u2018censorship\u2019?",
+    "description": "Concerns are growing that EU officials regulating Big Tech could face US visa bans",
+    "link": "https://www.irishtimes.com/politics/2025/08/02/maga-versus-the-eu-are-european-regulators-in-firing-line-in-trumps-war-on-online-censorship/",
+    "timestamp": "2025-08-02T05:00:00Z"
+  },
+  {
+    "title": "Worldview: Ireland has too many quangos and too many lawyers feeding off its clientelist politics",
+    "description": "Tackling the State\u2019s problems requires structural change to decentralise and redemocratise power",
+    "link": "https://www.irishtimes.com/opinion/2025/08/02/ireland-has-too-many-quangos-and-too-many-lawyers-feeding-off-its-clientelist-politics/",
+    "timestamp": "2025-08-02T05:00:00Z"
+  },
+  {
+    "title": "'He Knows How to Avoid Sanctions' \u2013 Trump on Putin",
+    "description": "WASHINGTON (Sputnik) - US President Donald Trump said that if a Ukraine ceasefire deal is not achieved by next week, Washington will introduce sanctions, although Moscow is good at avoiding them.",
+    "link": "https://sputnikglobe.com/20250802/he-knows-how-to-avoid-sanctions--trump-on-putin-1122542413.html",
+    "timestamp": "2025-08-02T04:56:58Z"
+  },
+  {
+    "title": "How an alleged Ponzi scheme targeting Republicans left investors and politicians reeling",
+    "description": "A federal receiver is working to recover $140 million lost in an alleged Ponzi scheme that targeted conservatives and funneled money to Republican causes in Georgia and Alabama. The scheme, promoted by conservative pundits, promised high returns but left many\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/how-an-alleged-ponzi-scheme-targeting-republicans-left-investors-and-politicians-reeling/articleshow/123056087.cms",
+    "timestamp": "2025-08-02T04:50:30Z"
+  },
+  {
+    "title": "US stocks slump on latest tariffs, soft jobs data",
+    "description": "American stock markets faced a significant downturn on Friday. New tariffs imposed by President Trump on various countries impacted investor sentiment. A surprisingly weak jobs report further fueled concerns about the economy. Amazon's disappointing results a\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-slump-on-latest-tariffs-soft-jobs-data/articleshow/123056083.cms",
+    "timestamp": "2025-08-02T04:50:05Z"
+  },
+  {
+    "title": "Sensible and steely: how Mexico\u2019s Sheinbaum has dealt with Trump",
+    "description": "A combination of tact and tenacity is credited for Mexican President Claudia Sheinbaum's successful dealings with US counterpart Trump.\nThe post Sensible and steely: how Mexico\u2019s Sheinbaum has dealt with Trump appeared first on Digital Journal.",
+    "link": "https://www.digitaljournal.com/business/sensible-and-steely-how-mexicos-sheinbaum-has-dealt-with-trump/article",
+    "timestamp": "2025-08-02T04:49:37Z"
+  },
+  {
+    "title": "'We\u2019ll See What Happens' - Trump Plans to Talk to Putin in Near Future",
+    "description": "WASHINGTON (Sputnik) - US President Donald Trump, when asked about a potential conversation with Russian President Vladimir Putin in the near future, did not provide a clear answer but indicated that some meetings are planned in the meantime, adding that it r\u2026",
+    "link": "https://sputnikglobe.com/20250802/well-see-what-happens---trump-plans-to-talk-to-putin-in-near-future-1122541815.html",
+    "timestamp": "2025-08-02T04:46:17Z"
+  },
+  {
+    "title": "Indian oil refiners continue to source oil from Russia",
+    "description": "Indian oil refiners maintain sourcing from Russian suppliers amid global market dynamics, ensuring energy security and stability.",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/indian-oil-refiners-continue-to-source-oil-from-russia/article69886036.ece",
+    "timestamp": "2025-08-02T04:44:40Z"
+  },
+  {
+    "title": "Oil falls $2 a barrel on worries about OPEC+ supply, US jobs data",
+    "description": "Oil prices dipped around $2 a barrel on Friday amid concerns over a potential OPEC+ production increase and a disappointing U.S. jobs report. Despite the daily drop, both Brent and WTI crude futures ended the week with gains near 6%. Discussions suggest OPEC+\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-2-a-barrel-on-worries-about-opec-supply-us-jobs-data/articleshow/123055943.cms",
+    "timestamp": "2025-08-02T04:42:58Z"
+  },
+  {
+    "title": "European shares log biggest daily drop since April after US tariffs hike",
+    "description": "European stocks experienced a significant downturn, marking the largest single-day drop in over three months, triggered by fresh U.S. tariffs on various countries. Healthcare stocks also declined following President Trump's letters to pharmaceutical companies\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/european-shares-log-biggest-daily-drop-since-april-after-us-tariffs-hike/articleshow/123055922.cms",
+    "timestamp": "2025-08-02T04:40:31Z"
+  },
+  {
+    "title": "Indian Oil refiners continue to source oil from Russia",
+    "description": "Sources reveal that Indian oil refiners continue to procure oil from Russia, driven by economic factors and adherence to international norms. Despite global concerns and price volatility, India's strategic sourcing has ensured affordable energy and market sta\u2026",
+    "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-oil-refiners-continue-to-source-oil-from-russia/articleshow/123055918.cms",
+    "timestamp": "2025-08-02T04:39:57Z"
+  },
+  {
+    "title": "Global stock index sinks with dollar, bond yields after weak US jobs data",
+    "description": "Global equities and the dollar plummeted following disappointing U.S. jobs data, fueling recession fears and increasing bets on September interest rate cuts. Trump's tariff announcements and key personnel changes, including the potential firing of the BLS com\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-stock-index-sinks-with-dollar-bond-yields-after-weak-us-jobs-data/articleshow/123055893.cms",
+    "timestamp": "2025-08-02T04:37:50Z"
+  },
+  {
+    "title": "It's Trump's economy now. The latest US financial numbers offer some warning signs",
+    "description": "President Trump's economic policies, including tariffs and tax changes, are facing scrutiny as indicators reveal dwindling job gains, rising inflation, and slowed growth. Despite Trump's promises of a \"golden age,\" recent reports suggest potential economic ch\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/its-trumps-economy-now-the-latest-us-financial-numbers-offer-some-warning-signs/articleshow/123055884.cms",
+    "timestamp": "2025-08-02T04:37:15Z"
+  },
+  {
+    "title": "India aghast at Donald Trump\u2019s \u2018dead' economy dig and 25% tariffs",
+    "description": "While Indian government officials weighed a response and business groups tallied the cost of the trade barrier, social media flared up with users protesting Trump.",
+    "link": "https://biztoc.com/x/bde7e4fbdb97c337",
+    "timestamp": "2025-08-02T04:35:38Z"
+  },
+  {
+    "title": "Now even Israel\u2019s most blind defenders are admitting the truth of what the state they support so fiercely is doing in Gaza",
+    "description": "Something is shifting. International pressure on Israel has reached a new peak as images of starving Palestinian children shock the conscience of even its longtime supporters. France declared plans to recognise a Palestinian state in September.",
+    "link": "https://www.independent.ie/opinion/comment/now-even-israels-most-blind-defenders-are-admitting-the-truth-of-what-the-state-they-support-so-fiercely-is-doing-in-gaza/a1291269706.html",
+    "timestamp": "2025-08-02T04:30:00Z"
+  },
+  {
+    "title": "Negotiation on EU-US trade deal continues, with tariffs pushed back for another week",
+    "description": "The introduction of the 15pc tariff rate for most EU exports to the US has been delayed for a week, after president Donald Trump extended his self-imposed deadline to August 7.",
+    "link": "https://www.independent.ie/irish-news/negotiation-on-eu-us-trade-deal-continues-with-tariffs-pushed-back-for-another-week/a19259425.html",
+    "timestamp": "2025-08-02T04:30:00Z"
+  },
+  {
+    "title": "Pragmatist or featherweight? Ursula Von der Leyen blamed for bad deal on tariffs, but EU had no stomach for a fight",
+    "description": "It was a tough week for Ursula von der Leyen. Sadly, the Hungarian prime minister, Viktor Orban \u2013 who was never, ever, going to do her a favour \u2013 touched a nerve when he dubbed the EU Commission president a \u201cfeatherweight\u201d who had been \u201ceaten for breakfast\u201d b\u2026",
+    "link": "https://www.independent.ie/world-news/europe/pragmatist-or-featherweight-ursula-von-der-leyen-blamed-for-bad-deal-on-tariffs-but-eu-had-no-stomach-for-a-fight/a1440781613.html",
+    "timestamp": "2025-08-02T04:30:00Z"
+  },
+  {
     "title": "Europe is breaking its reliance on American science",
     "description": "Amid Trump's cuts, European governments are ramping up their own data collection systems to monitor climate change and weather extremes.",
     "link": "https://www.japantimes.co.jp/news/2025/08/02/world/europe-data-collection-us-reliance/",
@@ -144,6 +252,12 @@
     "timestamp": "2025-08-02T04:00:00Z"
   },
   {
+    "title": "The End of Stephen Colbert's Hate Disguised as Comedy",
+    "description": "The CBS network recently announced\u00a0that \u201cThe Late Show with Stephen Colbert\u201d would be\u00a0concluding\u00a0in May 2026.\u00a0\r\n\r\nCBS claimed that the move was",
+    "link": "https://www.americanthinker.com/articles/2025/08/the_end_of_stephen_colbert_s_hate_disguised_as_comedy.html",
+    "timestamp": "2025-08-02T04:00:00Z"
+  },
+  {
     "title": "A Strzok-Page text is the road map to catch the Russia Hoax conspirators",
     "description": "DNI chief Tulsi Gabbard\u2019s public pronouncements regarding RussiaGate have drawn much attention, some plaudits, and lots of conspiracy theorizing. Regardless of theories, the biggest hurdle will be to build a legal case around the information no...",
     "link": "https://www.americanthinker.com/blog/2025/08/a_strzok_page_text_is_the_road_map_to_catch_the_russia_hoax_conspirators.html",
@@ -153,12 +267,6 @@
     "title": "Kamala Harris and Stephen Colbert symbols not so much of a vanished time as a lost US future",
     "description": "It will be impossible for Americans to ever see Harris now and wonder what the road not taken in 2024 might have looked like",
     "link": "https://www.irishtimes.com/world/us/2025/08/02/kamala-harris-and-stephen-colbert-symbols-not-so-much-of-a-vanished-time-as-a-lost-us-future/",
-    "timestamp": "2025-08-02T04:00:00Z"
-  },
-  {
-    "title": "The End of Stephen Colbert's Hate Disguised as Comedy",
-    "description": "The CBS network recently announced\u00a0that \u201cThe Late Show with Stephen Colbert\u201d would be\u00a0concluding\u00a0in May 2026.\u00a0\r\n\r\nCBS claimed that the move was",
-    "link": "https://www.americanthinker.com/articles/2025/08/the_end_of_stephen_colbert_s_hate_disguised_as_comedy.html",
     "timestamp": "2025-08-02T04:00:00Z"
   },
   {
@@ -466,113 +574,5 @@
     "description": "Greg Gutfeld spent two decades honing his craft and building goodwill with an audience. He has a following, but not an elitist following like this current Late Night crop, who only seek to entertain and please their leftist paymasters. Gutfeld\u2019s following con\u2026",
     "link": "https://www.breitbart.com/entertainment/2025/08/01/nolte-bitter-jon-stewart-ridicules-jay-leno-explains-gutfelds-success/",
     "timestamp": "2025-08-02T01:49:36Z"
-  },
-  {
-    "title": "Ron Faucheux: JD Vance\u2019s Complicated Path to the Presidency",
-    "description": "Last week, we handicapped possible Democratic candidates for president. Now, the Republicans. There won\u2019t be an incumbent president in the 2028 race, but there will likely be a sitting vice president in the running. That\u2019s why any assessment of Republican pre\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4332188/posts",
-    "timestamp": "2025-08-02T01:48:18Z"
-  },
-  {
-    "title": "Not just Big Bird: Things to know about the Center for Public Broadcasting and its funding cuts",
-    "description": "The Corporation for Public Broadcasting has long helped pay for PBS, NPR and 1,500 local radio and television stations and programs like \u201cSesame Street.",
-    "link": "https://www.clickondetroit.com/news/politics/2025/08/02/not-just-big-bird-things-to-know-about-the-center-for-public-broadcasting-and-its-funding-cuts/",
-    "timestamp": "2025-08-02T01:45:00Z"
-  },
-  {
-    "title": "Saquon Barkley chosen for Trump\u2019s Sports, Fitness, Nutrition council",
-    "description": "Philadelphia Eagles star Saquon Barkley and other current and former athletes were chosen for President Trump's Sports, Fitness, and Nutrition Council.",
-    "link": "https://www.nbcphiladelphia.com/news/sports/nfl/philadelphia-eagles/president-donald-trump-saquon-barkley-sports-fitness-nutrition-council/4247918/",
-    "timestamp": "2025-08-02T01:41:42Z"
-  },
-  {
-    "title": "Not just Big Bird: Things to know about the Center for Public Broadcasting and its funding cuts",
-    "description": "The Corporation for Public Broadcasting, which helps pay for PBS, NPR, 1,500 local radio and television stations as well as programs like \u201cSesame Street\u201d and...",
-    "link": "https://www.yahoo.com/news/articles/not-just-big-bird-things-014113859.html",
-    "timestamp": "2025-08-02T01:41:13Z"
-  },
-  {
-    "title": "U.S. and NATO developing novel funding mechanism for Ukraine arms transfers",
-    "description": "The renewed transatlantic cooperation on Ukraine comes as U.S. President Donald Trump has expressed frustration with Moscow's ongoing attacks on its neighbor.",
-    "link": "https://www.japantimes.co.jp/news/2025/08/02/world/us-nato-funding-ukraine-arms/",
-    "timestamp": "2025-08-02T01:40:00Z"
-  },
-  {
-    "title": "President Donald Trump Wants To \u2018Make America Fit Again\u2019 And Signs Executive Order Bringing Back Presidential Fitness Test To \u2018Motivate Kids\u2019 In U.S. Public Schools",
-    "description": "President Donald Trump Wants To \u2018Make America Fit Again\u2019 And Signs Executive Order Bringing Back Presidential Fitness Test To \u2018Motivate Kids\u2019 In U.S. Public Schoolsnewsbreak.com",
-    "link": "https://www.newsbreak.com/share/4150130509264-president-donald-trump-wants-to-make-america-fit-again-and-signs-executive-order-bringing-back-presidential-fitness-test-to-motivate-kids-in-u-s-public-schools?_f=app_share&amp;pd=00blTmeh&amp;lang=en_US&amp;send_time=1754098487&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.30.0.28%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q3-v7%2Cns_foryou_model_exp_25q3-v3%2Cns_foryou_blend_exp_25q3-v9%2Cns_foryou_rank_exp_25q3-v9&amp;s=i2",
-    "timestamp": "2025-08-02T01:35:20Z"
-  },
-  {
-    "title": "Trump fires data chief on bad job news and gets chance to tilt Fed",
-    "description": "Trump fired the head of the Bureau of Labor Statistics, hours after it sent markets tumbling with a report that showed a dramatic slowdown in U.S. hiring.",
-    "link": "https://www.japantimes.co.jp/business/2025/08/02/economy/trump-jobs-fed/",
-    "timestamp": "2025-08-02T01:31:00Z"
-  },
-  {
-    "title": "Piers Morgan Describes How Much Work Remains For Democrats To Get Out Of \u2018Complete And Utter Shambles\u2019",
-    "description": "Piers Morgan said Democrats won't win back voters until they regain their \"common sense,\" calling the party in \"complete and utter shambles.\"",
-    "link": "https://dailycaller.com/2025/08/01/piers-morgan-democrat-party-shambles-fox-news-the-five/",
-    "timestamp": "2025-08-02T01:30:41Z"
-  },
-  {
-    "title": "Opinion: Trump's Shenanigans, Powell's Resistance And A Host Of Earnings",
-    "description": "It took less than 48 hours for another U-turn from Donald Trump. After declaring there would be no extension to his Aug. 1 tariff deadlines, there has been a reversal. Beneficiary \u2014 Mexico! When it came to earnings this week, Wall Street saw big tech largely \u2026",
-    "link": "https://www.ndtvprofit.com/opinion/trump-shenanigans-powell-resistance-and-host-of-earnings-talking-point-this-week",
-    "timestamp": "2025-08-02T01:30:00Z"
-  },
-  {
-    "title": "\u2018Those Lips, the Way They Move\u2019: Trump Gushes Over His Press Secretary\u2019s Looks",
-    "description": "President Donald Trump offered unusual if not inappropriate praise for White House Press Secretary Karoline Leavitt on Friday by praising \"that face\" and \"those lips.\"\nThe post \u2018Those Lips, the Way They Move\u2019: Trump Gushes Over His Press Secretary\u2019s Looks fir\u2026",
-    "link": "https://www.mediaite.com/media/tv/those-lips-the-way-they-move-trump-gushes-over-his-press-secretarys-looks/",
-    "timestamp": "2025-08-02T01:25:59Z"
-  },
-  {
-    "title": "Aussie cow market takes off as tariffs loom and US burger prices rise",
-    "description": "As the world waits to hear news about US President Donald Trump's latest tariffs, the value of Australian cows has been soaring.",
-    "link": "https://www.abc.net.au/news/2025-08-02/australian-cow-market-up-as-tariffs-loom-burger-price-roars/105599526",
-    "timestamp": "2025-08-02T01:20:30Z"
-  },
-  {
-    "title": "Presidential fitness test to return under Trump executive order",
-    "description": "Presidential fitness test to return under Trump executive ordernews8000.com",
-    "link": "https://www.news8000.com/news/education/presidential-fitness-test-to-return-under-trump-executive-order/article_3001a417-5a7b-4323-b3c9-8ba6bd52f39a.html",
-    "timestamp": "2025-08-02T01:15:31Z"
-  },
-  {
-    "title": "Final US Report On Afghan Mission Paints Damning Picture",
-    "description": "A US body set up in 2008 to assess efforts to support Afghanistan has made its 68th and final quarterly report to Congress - with damning details of waste and \"pervasive corruption\" over the course of the nearly 20-year Western intervention as well as concern\u2026",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250802-rferl01.htm",
-    "timestamp": "2025-08-02T01:14:24Z"
-  },
-  {
-    "title": "Trump appears 'fighting for his life' to stay awake during health event - NewsBreak",
-    "description": "Trump appeared unable to keep his eyes open during the conference announcing they were launching a new program that will allow Americans to share personal",
-    "link": "https://www.newsbreak.com/share/4151021251095-trump-appears-fighting-for-his-life-to-stay-awake-during-health-event?s=a2&amp;share_destination_id=MzA3ODg1MTc3LTE3NTQwOTY5ODQ4OTA%3D&amp;pd=0KpqzxIY&amp;hl=en_US&amp;send_time=1754096984&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.30.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_recall_exp_25q3-v3%2Cns_foryou_blend_exp_25q3-v3%2Cns_foryou_rank_exp_25q3-v6%2Cns_foryou_model_exp_25q3-v9",
-    "timestamp": "2025-08-02T01:10:47Z"
-  },
-  {
-    "title": "Fed Governor Adriana Kugler steps down, giving Trump slot to fill",
-    "description": "Governor Adriana Kugler's resignation from the Federal Reserve has created an opportunity for President Trump to nominate a replacement, potentially influencing future interest rate decisions. Trump, critical of current Fed Chair Jerome Powell, expressed enth\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/fed-governor-adriana-kugler-steps-down-giving-trump-slot-to-fill/articleshow/123054138.cms",
-    "timestamp": "2025-08-02T01:09:12Z"
-  },
-  {
-    "title": "Major public broadcasting group to close after Trump-led funding cuts",
-    "description": "The Corporation for Public Broadcasting announces it will cease operations in a massive blow to the public media network in the United States.",
-    "link": "https://www.abc.net.au/news/2025-08-02/us-corporation-for-public-broadcasting-to-close/105604428",
-    "timestamp": "2025-08-02T01:09:04Z"
-  },
-  {
-    "title": "Chattanooga business owners says tariffs \u2018bad idea for the customers\u2019 | Chattanooga Times Free Press",
-    "description": "President Donald Trump imposed a flurry of tariffs by executive order ahead of a Friday deadline the White House said was aimed at renegotiating trade agreements with foreign countries and moving more manufacturing to the U.S.",
-    "link": "https://www.timesfreepress.com/news/2025/aug/01/chattanooga-business-owners-says-tariffs-bad-idea/",
-    "timestamp": "2025-08-02T01:08:13Z"
-  },
-  {
-    "title": "Proposed Canada-US trade deal could still be weeks away, says Ottawa",
-    "description": "Ottawa's chief negotiator suggests a U.S.-Canada trade deal remains weeks away, despite Trump's imposition of higher tariffs on Canadian goods. Prime Minister Carney insists on resetting bilateral relations, but negotiations have yielded little progress, with\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/proposed-canada-us-trade-deal-could-still-be-weeks-away-says-ottawa/articleshow/123054079.cms",
-    "timestamp": "2025-08-02T01:05:10Z"
   }
 ]
