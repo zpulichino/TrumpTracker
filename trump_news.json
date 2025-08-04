@@ -1,5 +1,53 @@
 [
   {
+    "title": "Hamas says won't disarm until independent Palestinian state established",
+    "description": "Hamas says it will not disarm until an independent Palestinian state is established with al-Quds as its capital.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250802-presstv03.htm",
+    "timestamp": "2025-08-03T06:33:56Z"
+  },
+  {
+    "title": "Trump's sweeping new tariffs spark extensive criticism",
+    "description": "U.S. President Donald Trump on Thursday signed an executive order that further modified tariff rates with 69 trading partners, drawing criticism across the world.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250802-pdo02.htm",
+    "timestamp": "2025-08-03T06:33:08Z"
+  },
+  {
+    "title": "OPEC+ agrees in principle another large oil output hike, sources say",
+    "description": "LONDON (Reuters) -OPEC+ agreed in principle to boost oil output by 548,000 barrels per day in September, two OPEC+ sources said on Sunday as the group...",
+    "link": "https://finance.yahoo.com/news/opec-agrees-principle-another-large-062922376.html",
+    "timestamp": "2025-08-03T06:29:22Z"
+  },
+  {
+    "title": "Elizabeth Holmes spotted at Texas prison where Ghislaine Maxwell was transferred",
+    "description": "Theranos founder Elizabeth Holmes was photographed jogging at the same prison in Bryan, Texas, that Ghislaine Maxwell was recently transferred to.",
+    "link": "https://www.foxnews.com/us/elizabeth-holmes-spotted-texas-prison-where-ghislaine-maxwell-transferred",
+    "timestamp": "2025-08-03T06:26:02Z"
+  },
+  {
+    "title": "Brazil's Lula vows to prepare response to Trump's tariffs",
+    "description": "Brazilian President Luiz In\u00e1cio Lula da Silva has affirmed his government's readiness to respond appropriately to the 50% tariffs imposed by the White House on certain Brazilian goods since August 1.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/brazil/brazil-250802-presstv01.htm",
+    "timestamp": "2025-08-03T06:24:45Z"
+  },
+  {
+    "title": "US envoy visits hostage families in Tel Aviv amid growing calls for Gaza ceasefire",
+    "description": "U.S. envoy on Middle East Steve Witkoff met families of Israeli hostages in Tel Aviv on Saturday, as hundreds rallied to demand a ceasefire deal that would secure their release from the Gaza Strip, Israel's Haaretz newspaper reported.",
+    "link": "https://www.hurriyetdailynews.com/us-envoy-visits-hostage-families-in-tel-aviv-amid-growing-calls-for-gaza-ceasefire-212122",
+    "timestamp": "2025-08-03T06:22:29Z"
+  },
+  {
+    "title": "AmCham urges U.S., Taiwan to resolve tariff uncertainty",
+    "description": "The American Chamber of Commerce in Taiwan (AmCham Taiwan) has urged Washington and Taipei to stay in close contact and work to prevent extended disruptions to business operations, after Washington announced a 20 percent tariff on Taiwanese imports on July 31\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250802-cna02.htm",
+    "timestamp": "2025-08-03T06:22:08Z"
+  },
+  {
+    "title": "20% tariff on Taiwan 'reasonable,' lower rate possible: U.S. experts",
+    "description": "A 20 percent tariff announced by the Trump administration on imports from Taiwan appear \"reasonable,\" compared with the rates imposed on other economies in the region, while it is possible Taiwan could see its rate cut through further negotiations with the Un\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2025/taiwan-250802-cna03.htm",
+    "timestamp": "2025-08-03T06:22:05Z"
+  },
+  {
     "title": "Ukrainian Drones Strike Targets Across Russia As Trump Orders US Nuclear Subs To Region",
     "description": "Explosions and fires were reported across several Russian regions following a wave of Ukrainian drone attacks as US President Donald Trump said he was deploying nuclear submarines \"closer to Russia\" days ahead of a deadline he gave Moscow to make a peace deal\u2026",
     "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/08/ukraine-250802-rferl01.htm",
@@ -204,9 +252,9 @@
     "timestamp": "2025-08-03T04:00:00Z"
   },
   {
-    "title": "RIP Disparate Outcomes, Credentialism, and the Russian Collusion Hoax",
-    "description": "Reams have been written about the latest revelations in the Russian collusion hoax that so hamstrung President Trump\u2019s first term. I will summarize below the most important revelations. It\u2019s clear the Administration is taking its time to ...",
-    "link": "https://www.americanthinker.com/articles/2025/08/rip_disparate_outcomes_credentialism_and_the_russian_collusion_hoax.html",
+    "title": "An opinion writer at The Hill argues that Trump has dementia",
+    "description": "When I was in grade school, it was very common to have someone call you a name, like a poopy head. The response was swift. \u201cI\u2019m not a poopy head. You\u2019re a poopy head.\u201d The Hill just did that. Clearly troubled by increasing evi...",
+    "link": "https://www.americanthinker.com/blog/2025/08/an_opinion_writer_at_the_hill_argues_that_trump_has_dementia.html",
     "timestamp": "2025-08-03T04:00:00Z"
   },
   {
@@ -216,9 +264,9 @@
     "timestamp": "2025-08-03T04:00:00Z"
   },
   {
-    "title": "An opinion writer at The Hill argues that Trump has dementia",
-    "description": "When I was in grade school, it was very common to have someone call you a name, like a poopy head. The response was swift. \u201cI\u2019m not a poopy head. You\u2019re a poopy head.\u201d The Hill just did that. Clearly troubled by increasing evi...",
-    "link": "https://www.americanthinker.com/blog/2025/08/an_opinion_writer_at_the_hill_argues_that_trump_has_dementia.html",
+    "title": "RIP Disparate Outcomes, Credentialism, and the Russian Collusion Hoax",
+    "description": "Reams have been written about the latest revelations in the Russian collusion hoax that so hamstrung President Trump\u2019s first term. I will summarize below the most important revelations. It\u2019s clear the Administration is taking its time to ...",
+    "link": "https://www.americanthinker.com/articles/2025/08/rip_disparate_outcomes_credentialism_and_the_russian_collusion_hoax.html",
     "timestamp": "2025-08-03T04:00:00Z"
   },
   {
@@ -544,53 +592,5 @@
     "description": "Jack Smith \nAl Drago/Bloomberg\nUma ag\u00eancia federal...",
     "link": "https://valor.globo.com/mundo/noticia/2025/08/02/agncia-federal-abre-investigao-sobre-ex-procurador-que-investigou-trump.ghtml",
     "timestamp": "2025-08-03T01:36:11Z"
-  },
-  {
-    "title": "Why are child vaccination rates the lowest they have been in more than a decade?",
-    "description": "Child vaccination uptake is the lowest it has been in more than a decade, with a death from measles in Liverpool reigniting calls for increased awareness of the dangers of not getting jabs.",
-    "link": "https://news.sky.com/story/why-are-child-vaccination-rates-the-lowest-they-have-been-in-more-than-a-decade-13404394",
-    "timestamp": "2025-08-03T01:33:00Z"
-  },
-  {
-    "title": "Senate Confirms Jeanine Pirro to Serve as U.S. Attorney for D.C.",
-    "description": "The United States Senate voted 50-45 to confirm former Judge Jeanine Pirro to serve as the U.S. Attorney for Washington, D.C.\nThe post Senate Confirms Jeanine Pirro to Serve as U.S. Attorney for D.C. appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2025/08/02/senate-confirms-jeanine-pirro-to-serve-as-u-s-attorney-for-d-c/",
-    "timestamp": "2025-08-03T01:28:44Z"
-  },
-  {
-    "title": "Senate confirms Sean Cairncross to be national cyber director under Trump",
-    "description": "Sean Cairncross, a former RNC official, is the first person to head the Office of the National Cyber Director under Donald Trump.",
-    "link": "https://www.nextgov.com/people/2025/08/senate-confirms-sean-cairncross-be-national-cyber-director-under-trump/407178/",
-    "timestamp": "2025-08-03T01:28:32Z"
-  },
-  {
-    "title": "Smithsonian Denies White House Pressure To Remove Trump Impeachment References",
-    "description": "The Smithsonian says the White House did not pressure it to remove references to President Donald Trump's impeachments from an exhibit.",
-    "link": "https://www.huffpost.com/entry/smithsonian-trump-impeachment_n_688ebaa7e4b0b6f38d134ecc",
-    "timestamp": "2025-08-03T01:27:54Z"
-  },
-  {
-    "title": "Peace Offering? Donald Trump's Nobel Obsession",
-    "description": "A craving for international prestige, a decade-long Obama rivalry and perhaps a dash of provocation: a mercurial melange of factors is at play in Donald Trump's obsession with the Nobel Peace Prize.",
-    "link": "https://www.ibtimes.com.au/peace-offering-donald-trumps-nobel-obsession-1859948",
-    "timestamp": "2025-08-03T01:27:19Z"
-  },
-  {
-    "title": "Peace Offering? Donald Trump's Nobel Obsession",
-    "description": "A craving for international prestige, a decade-long Obama rivalry and perhaps a dash of provocation: a mercurial melange of factors is at play in Donald Trump's obsession with the Nobel Peace Prize.",
-    "link": "https://www.ibtimes.com/peace-offering-donald-trumps-nobel-obsession-3780054",
-    "timestamp": "2025-08-03T01:27:12Z"
-  },
-  {
-    "title": "Trump Says He Will Get Drug Prices Down By 1500%",
-    "description": "President Donald Trump just sent letters to heads of 17 major pharmaceutical companies pushing them to drop drug prices in the U.S. down to the level of other countries.",
-    "link": "https://www.forbes.com/sites/brucelee/2025/08/02/trump-says-he-will-get-drug-prices-down-by-1500/",
-    "timestamp": "2025-08-03T01:22:30Z"
-  },
-  {
-    "title": "Trump tells Schumer to 'GO TO HELL' over Senate nominee deal funding demands after negotiations collapse",
-    "description": "Senate Republicans tried to broker a deal with Senate Democrats to confirm dozens of President Donald Trump's nominees, but talks began degrade and Trump nuked the deal, sending lawmakers home until September.",
-    "link": "https://www.foxnews.com/politics/trump-tells-schumer-go-hell-over-senate-nominee-deal-funding-demands-after-negotiations-collapse",
-    "timestamp": "2025-08-03T01:18:33Z"
   }
 ]
