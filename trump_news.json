@@ -1,5 +1,545 @@
 [
   {
+    "title": "U.S. charges two Chinese nationals for illegally shipping Nvidia AI chips to China",
+    "description": "Two Chinese nationals in California have been charged with the illegal shipment of tens of millions of dollars' worth of AI chips, including those from Nvidia.",
+    "link": "https://www.cnbc.com/2025/08/06/two-chinese-nationals-charged-for-illegally-shipping-nvidia-ai-chips-to-china.html",
+    "timestamp": "2025-08-06T01:55:08Z"
+  },
+  {
+    "title": "Rupert Murdoch shows Donald Trump his own of the \u2018Art of the Deal\u2019",
+    "description": "How do you woo a US president who is suing you for $US10 billion? Rupert Murdoch offered a masterclass in carrot, stick and artful deflection.",
+    "link": "https://www.smh.com.au/business/companies/rupert-murdoch-shows-trump-his-own-of-the-art-of-the-deal-20250806-p5mkoi.html",
+    "timestamp": "2025-08-06T01:54:06Z"
+  },
+  {
+    "title": "South Park Trolls Department of Homeland of Security for Using Image of Show to Promote Ice",
+    "description": "\"Wait, so we ARE relevant?\" Trey Parker and Matt Stone responded.\nSouth Park Trolls Department of Homeland of Security for Using Image of Show to Promote Ice\nScott Sterling",
+    "link": "https://consequence.net/2025/08/south-park-responds-department-of-homeland-security/",
+    "timestamp": "2025-08-06T01:53:06Z"
+  },
+  {
+    "title": "Donald Trump floats 2028 duo: JD Vance as heir, Marco Rubio as running mate?",
+    "description": "Donald Trump has indicated that Vice President JD Vance is the most likely candidate to inherit his political movement and potentially run for president in 2028. Trump also suggested a future Republican ticket could include Vance and Secretary of State Marco \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-floats-jd-vance-and-marco-rubio-pairing-for-2028-presidential-elections/articleshow/123130772.cms",
+    "timestamp": "2025-08-06T01:52:44Z"
+  },
+  {
+    "title": "DOJ Lists over 30 Sanctuary Cities, States Impeding Law Enforcement",
+    "description": "The Department of Justice (DOJ) published a list of more than 30 sanctuary cities, states, and counties in the United States that were described as impeding law enforcement and putting Americans at risk.\nThe post DOJ Lists over 30 Sanctuary Cities, States Imp\u2026",
+    "link": "https://www.breitbart.com/politics/2025/08/05/doj-list-sanctuary-cities-states-impeding-law-enforcement/",
+    "timestamp": "2025-08-06T01:51:38Z"
+  },
+  {
+    "title": "Trump says he \u2018never mentioned a percentage\u2019 on tariffs for Russian energy buyers",
+    "description": "WASHINGTON DC: US President Donald Trump has stated that they will see what happens over the next fairly short period of time and he has never said a percentage. The remarks were made during a press conference at the White House, originally called to discuss \u2026",
+    "link": "https://english.khabarhub.com/2025/06/489432/",
+    "timestamp": "2025-08-06T01:51:15Z"
+  },
+  {
+    "title": "Trump\u2019s Copper Tariffs Apply to $15 Billion of Goods So Far",
+    "description": "US President Donald Trump\u2019s first wave of copper tariffs will hit imports valued at more than $15 billion last year, highlighting the potential inflationary impact on American buyers.",
+    "link": "https://financialpost.com/pmn/business-pmn/trumps-copper-tariffs-apply-to-15-billion-of-goods-so-far",
+    "timestamp": "2025-08-06T01:51:14Z"
+  },
+  {
+    "title": "President Donald Trump Attacks Gayle King On Truth Social",
+    "description": "President Donald Trump aimed a barrage of insults in the direction of Gayle King and stating that the veteran journalist's career is over.",
+    "link": "https://hiphopwired.com/2797588/president-donald-trump-attacks-gayle-king-on-truth-social/",
+    "timestamp": "2025-08-06T01:49:44Z"
+  },
+  {
+    "title": "Trump names VP JD Vance as \u2018most likely\u2019 MAGA successor, hints at Rubio alliance for 2028",
+    "description": "Donald Trump hinted that JD Vance could be his political successor. Trump mentioned Vance's potential to lead the Republican Party. He also suggested a possible Vance-Marco Rubio alliance. Trump acknowledged it was early to predict 2028. He noted Vance would \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/trump-names-vp-jd-vance-as-most-likely-maga-successor-hints-at-rubio-alliance-for-2028/articleshow/123130726.cms",
+    "timestamp": "2025-08-06T01:49:18Z"
+  },
+  {
+    "title": "Moving nuclear subs isn\u2019t something you announce on social media",
+    "description": "A tense exchange of nuclear threats between U.S. President Trump and Dmitry Medvedev, the former Russian president and prime minister, highlights the dangers of reckless rhetoric.",
+    "link": "https://www.japantimes.co.jp/commentary/2025/08/06/world/us-nuclear-subs-and-social-media/",
+    "timestamp": "2025-08-06T01:49:00Z"
+  },
+  {
+    "title": "White House to target banks as Trump claims discrimination",
+    "description": "Donald Trump accuses JPMorgan and Bank of America of discriminating against him and conservatives, alleging they rejected his deposits. He plans to act against banks for alleged \"debanking\" practices, instructing regulators to review banks for politicized act\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/white-house-to-target-banks-as-trump-claims-discrimination/articleshow/123130706.cms",
+    "timestamp": "2025-08-06T01:46:51Z"
+  },
+  {
+    "title": "AI could turn your town nuclear",
+    "description": "These days, Paducah, Kentucky - population 27,000 and home to the National Quilt Museum - prides itself as \"Quilt City.\" But decades ago, it was also called the \"Atomic City\" - a moniker it could soon regain as AI's energy needs bring Paducah's nuclear past b\u2026",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/719409/nuclear-energy-uranium-enrichment-ai-data-center-electricity",
+    "timestamp": "2025-08-06T01:46:50Z"
+  },
+  {
+    "title": "Trump denies knowledge of US imports from Russia amid India row",
+    "description": "Trump\u2019s remarks came after he announced plans to \u201csubstantially raise\u201d tariffs on India, accusing it of profiteering by reselling Russian oil despite the Ukraine war.",
+    "link": "https://www.thehindubusinessline.com/news/world/trump-denies-knowledge-of-us-imports-from-russia-amid-india-row/article69899881.ece",
+    "timestamp": "2025-08-06T01:46:25Z"
+  },
+  {
+    "title": "Trump envoy Witkoff urged to take tough approach with Putin in make-or-break meeting to end Ukraine war before sanctions",
+    "description": "The Trump administration is giving Russian President Vladimir Putin one more chance to show he's serious about ending his 41-month-old invasion of Ukraine.",
+    "link": "https://nypost.com/2025/08/05/us-news/trump-envoy-witkoff-urged-to-take-tough-approach-with-putin-in-make-or-break-meeting-to-end-ukraine-war-before-sanctions/",
+    "timestamp": "2025-08-06T01:44:41Z"
+  },
+  {
+    "title": "Candace Owens Bets Piers Morgan $300,000 That French First Lady \u2018Is a Male\u2019 in Disguise",
+    "description": "Candace Owens bet Piers Morgan $300,000 that Brigitte Macron, the wife of French President Emmanuel Macron, is secretly \"a male\" in disguise.\nThe post Candace Owens Bets Piers Morgan $300,000 That French First Lady \u2018Is a Male\u2019 in Disguise first appeared on Me\u2026",
+    "link": "https://www.mediaite.com/politics/candace-owens-bets-piers-morgan-300000-that-french-first-lady-is-a-male-in-disguise/",
+    "timestamp": "2025-08-06T01:43:10Z"
+  },
+  {
+    "title": "Trump threatens federal takeover of DC after attack on former DOGE worker",
+    "description": "Two 15-year-olds have been arrested in Washington for an attempted carjacking and beating of Edward Coristine, a prominent member of the Department of Government Efficiency",
+    "link": "https://abcnews.go.com/US/wireStory/trump-threatens-federal-takeover-dc-after-attack-former-124398687",
+    "timestamp": "2025-08-06T01:42:25Z"
+  },
+  {
+    "title": "Trump forms task force to oversee 'safe, seamless' 2028 Los Angeles Olympics",
+    "description": "President Donald Trump has established a federal task force, chaired by himself and Vice President JD Vance, to ensure the Los Angeles Olympics are secure and successful. This move, marked by an executive order, underscores his administration's commitment to \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/trump-forms-task-force-to-oversee-safe-seamless-2028-los-angeles-olympics/articleshow/123130592.cms",
+    "timestamp": "2025-08-06T01:40:50Z"
+  },
+  {
+    "title": "Big Balls Attacked? \u2018DOGE Team Member\u2019 Beaten Bloody by Mob of Teen Thugs, Trump Calls to Federalize D.C. Following Assault",
+    "description": "POTUS pushes for prosecutions of minors as adults in D.C. following attacks by gangs of 'youths' against innocent Americans. President Donald Trump condemned attacks against innocent Americans carried out by lawless teen thugs with virtual impunity in the Dis\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4332931/posts",
+    "timestamp": "2025-08-06T01:40:31Z"
+  },
+  {
+    "title": "Big Balls Attacked? \u2018DOGE Team Member\u2019 Beaten Bloody by Mob of Teen Thugs, Trump Calls to Federalize D.C. Following Assault",
+    "description": "POTUS pushes for prosecutions of minors as adults in D.C. following attacks by gangs of 'youths' against innocent Americans. President Donald Trump condemned attacks against innocent Americans carried out by lawless teen thugs with virtual impunity in the Dis\u2026",
+    "link": "https://freerepublic.com/focus/f-bloggers/4332931/posts",
+    "timestamp": "2025-08-06T01:40:31Z"
+  },
+  {
+    "title": "Are we getting a stimulus check 2025? What is Trump tariff rebate check for taxpayers?",
+    "description": "What is the Trump stimulus plan for a tariff rebate check? Here's what to know about the American Worker Rebate Act of 2025 and would you qualify?",
+    "link": "https://www.app.com/story/money/2025/08/05/trump-tariff-rebate-check-what-is-american-worker-rebate-act-2025/85534965007/",
+    "timestamp": "2025-08-06T01:40:09Z"
+  },
+  {
+    "title": "Woodward: Trump Is Lashing Out Because He's 'Feeling So Out of It or Disabled'",
+    "description": "Tuesday on MSNBC's\"The Beat,\" veteran reporter Bob Woodward claimed President Donald Trump's social media posts show he has been feeling \"out of it or disabled.\"\nThe post Woodward: Trump Is Lashing Out Because He\u2019s \u2018Feeling So Out of It or Disabled\u2019 appeared \u2026",
+    "link": "https://www.breitbart.com/clips/2025/08/05/woodward-trump-is-lashing-out-because-hes-feeling-so-out-of-it-or-disabled/",
+    "timestamp": "2025-08-06T01:39:36Z"
+  },
+  {
+    "title": "Dollar drifts as investors await Fed governor replacement",
+    "description": "The dollar remained rangebound as investors awaited President Trump's Federal Reserve Board nominee. U.S. services sector activity flatlined in July, highlighting the impact of tariffs. Despite this, the dollar's movements were muted, with traders hesitant to\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/dollar-drifts-as-investors-await-fed-governor-replacement/articleshow/123130587.cms",
+    "timestamp": "2025-08-06T01:39:25Z"
+  },
+  {
+    "title": "Oil prices rebound from 5-week low on Trump threats on Russian crude buyers",
+    "description": "Oil prices rebounded on Wednesday following a five-week low, spurred by concerns over potential supply disruptions due to U.S. President Trump's tariff threats against India for its Russian crude purchases. OPEC+'s planned output hike in September had initial\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rebound-from-5-week-low-on-trump-threats-on-russian-crude-buyers/articleshow/123130554.cms",
+    "timestamp": "2025-08-06T01:37:21Z"
+  },
+  {
+    "title": "Israel says Hamas is starving hostages; Security Council members say Israel is starving Palestinians",
+    "description": "At a U.N. Security Council emergency meeting, Israel demanded the release of its hostages, highlighting their dire condition. However, many members criticized Israel's blockade of Gaza, citing widespread starvation among Palestinians. While some condemned Ham\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/israel-says-hamas-is-starving-hostages-security-council-members-say-israel-is-starving-palestinians/articleshow/123130551.cms",
+    "timestamp": "2025-08-06T01:37:13Z"
+  },
+  {
+    "title": "US crime rates dropped in 2024, new FBI report shows",
+    "description": "Murder offences decrease by 14.9 percent as US public safety continues to improve after pandemic, according to FBI data.",
+    "link": "https://www.aljazeera.com/news/2025/8/6/us-crime-rates-dropped-in-2024-new-fbi-report-shows",
+    "timestamp": "2025-08-06T01:33:27Z"
+  },
+  {
+    "title": "Famiglietti rolls to victory in special Senate election to succeed Ruggerio. What to know",
+    "description": "Famiglietti took 83% of the vote to 16% for Republican Alex Asermely.",
+    "link": "https://www.providencejournal.com/story/news/politics/2025/08/05/famiglietti-rolls-to-victory-in-special-election-to-succeed-ruggerio/85534398007/",
+    "timestamp": "2025-08-06T01:31:00Z"
+  },
+  {
+    "title": "Canada and Mexico to Cooperate as \u2018Free Traders\u2019 Facing US Tariffs",
+    "description": "Canada is seeking closer collaboration with Mexico in multiple sectors amid a trade war with the US, senior ministers said during a visit that included a long meeting with President Claudia Sheinbaum.",
+    "link": "https://financialpost.com/pmn/business-pmn/canada-and-mexico-to-cooperate-as-free-traders-facing-us-tariffs",
+    "timestamp": "2025-08-06T01:30:55Z"
+  },
+  {
+    "title": "Oil prices rebound from 5-week low on Trump threats on Russian crude buyers",
+    "description": "TOKYO :Oil prices climbed on Wednesday, rebounding from a five-week low in the previous day, on concerns of supply disruptions after U.S. President Donald Trump's threats of tariffs on India over its Russian crude purchases. Brent crude futures rose 29 cents,\u2026",
+    "link": "https://www.channelnewsasia.com/business/oil-prices-rebound-5-week-low-trump-threats-russian-crude-buyers-5279451",
+    "timestamp": "2025-08-06T01:28:29Z"
+  },
+  {
+    "title": "Rachel Reeves must increase taxes to meet her rules, says thinktank",
+    "description": "The chancellor will miss her self-imposed rules without action, the National Institute for Economic Affairs says.",
+    "link": "https://www.bbc.co.uk/news/articles/cn85vyd1epzo",
+    "timestamp": "2025-08-06T01:23:12Z"
+  },
+  {
+    "title": "Noem touts 'Speedway Slammer,' 1,000 Indiana prison beds for ICE detention",
+    "description": "New partnership between U.S. Homeland Security and Indiana government to expand detention space for ICE arrests. 1,000 beds added in Indiana.",
+    "link": "https://www.wishtv.com/news/politics/noem-touts-speedway-slammer-1000-indiana-prison-beds-for-ice-detention/",
+    "timestamp": "2025-08-06T01:22:49Z"
+  },
+  {
+    "title": "Cautious optimism in B.C. after PM announces $1.2B in softwood lumber support",
+    "description": "B.C.'s forestry industry has taken major hits over the last few years, as escalating U.S. duties on softwood lumber imports have piled atop a number of other challenges, leading to thousands of job losses.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/softwood-lumber-support-federal-mark-carney-bc-1.7601956",
+    "timestamp": "2025-08-06T01:22:42Z"
+  },
+  {
+    "title": "Nexus card applications no longer accepting 'X' gender marker",
+    "description": "Canadians who apply for a new or renewed Nexus card can no longer select an \"X\" gender marker\u00a0on their applications, and instead must choose either \"M\" or \"F.\"",
+    "link": "https://www.cbc.ca/news/canada/nexus-card-canadians-x-gender-marker-1.7601719",
+    "timestamp": "2025-08-06T01:19:02Z"
+  },
+  {
+    "title": "'I never said a percentage': Trump keeps tariff threat vague as India faces heat over Russian oil",
+    "description": "US President  Donald Trump has threatened a sharp hike in tariffs on Indian imports, citing India's continued purchases of Russian oil. He denies ever naming a percentage, but says  we'll be doing quite a bit of that.  India has pushed back, calling the move \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/i-never-said-a-percentage-trump-keeps-tariff-threat-vague-as-india-faces-heat-over-russian-oil/articleshow/123130172.cms",
+    "timestamp": "2025-08-06T01:18:30Z"
+  },
+  {
+    "title": "UN Chief Says Fossil Fuels Are On The Way Out\u2014Are They?",
+    "description": "UN Chief tells world new age of clean energy is now here, fossil fuels at a dead end. There are key reasons why this isn't true, even if solar/wind are cheap.",
+    "link": "https://www.forbes.com/sites/scottmontgomery/2025/08/05/un-chief-says-fossil-fuels-are-on-the-way-out-are-they/",
+    "timestamp": "2025-08-06T01:16:39Z"
+  },
+  {
+    "title": "Trump Ramps Up Tariff Blitz With India, Pharma, Chips in Sights",
+    "description": "President Donald Trump said he\u2019d impose increased tariffs on countries buying energy from Russia while clarifying that levies on semiconductor and pharmaceutical imports would be announced \u201cwithin the next week or so.\u201d",
+    "link": "https://financialpost.com/pmn/business-pmn/trump-ramps-up-tariff-blitz-with-india-pharma-chips-in-sights",
+    "timestamp": "2025-08-06T01:15:36Z"
+  },
+  {
+    "title": "John Brennan\u2019s \u2018Intelligence Bombshell\u2019 That Likely Never Was",
+    "description": "Curiously, Brennan left no way for future investigators to confirm or deny its existence.In June 2017, well on their way to a Pulitzer for national reporting, the stenographers at the Washington Post published a lengthy, breathless article about an extraordin\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4332927/posts",
+    "timestamp": "2025-08-06T01:14:49Z"
+  },
+  {
+    "title": "Trump Targets Tariff Evasion, With Eye On China",
+    "description": "As the United States ramps up tariffs on major trading partners globally, President Donald Trump is also disrupting strategies that could be used -- by Chinese companies or others -- to circumvent them.",
+    "link": "https://www.ibtimes.com/trump-targets-tariff-evasion-eye-china-3780280",
+    "timestamp": "2025-08-06T01:12:17Z"
+  },
+  {
+    "title": "Oil Steadies After Drop As Traders Weigh Trump's Tariff Threat",
+    "description": "Oil held a four-day drop as investors looked beyond a threat from President Donald Trump to impose secondary tariffs on buyers of Russian energy, while US data pointed to softer conditions in the largest economy.",
+    "link": "https://www.ndtvprofit.com/markets/oil-prices-today-brent-wti-crude-latest-news-august-6",
+    "timestamp": "2025-08-06T01:12:04Z"
+  },
+  {
+    "title": "Trump Accumulates Wins On Supreme Court's Emergency Docket - Key Takeaways",
+    "description": "Trump Accumulates Wins On Supreme Court's Emergency Docket - Key Takeaways\n \nAuthored by Sam Dorman via The Epoch Times,\nPresident Donald Trump\u2019s ambitious agenda has been met with order after order from lower courts temporarily blocking him. Many of those ha\u2026",
+    "link": "https://biztoc.com/x/eb766dbce21f420b",
+    "timestamp": "2025-08-06T01:09:00Z"
+  },
+  {
+    "title": "Trump targets tariff evasion, with eye on China",
+    "description": "Donald Trump's administration is increasing tariffs on goods routed through third countries. This targets potential tariff evasion, especially by Chinese companies. The US aims to reduce reliance on Chinese supply chains. Experts say Vietnam benefited from pr\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-targets-tariff-evasion-with-eye-on-china/articleshow/123130137.cms",
+    "timestamp": "2025-08-06T01:08:43Z"
+  },
+  {
+    "title": "Trump says JD Vance would be 'probably favored' for 2028 Republican presidential nomination",
+    "description": "President Trump says JD Vance likely heir to MAGA movement for 2028 Republican nomination when asked about clearing the entire GOP field.",
+    "link": "https://www.foxnews.com/politics/trump-says-jd-vance-would-probably-favored-2028-republican-presidential-nomination",
+    "timestamp": "2025-08-06T01:08:24Z"
+  },
+  {
+    "title": "CNBC Daily Open: Trump's interview suggests he's not backing down from his policies",
+    "description": "For those pressed on time and want a very broad TL;DR of CNBC's interview with Trump: the president appears to be digging in on his policies.",
+    "link": "https://www.cnbc.com/2025/08/06/cnbc-daily-open-trump-interview-suggests-hes-not-retreating-from-policies.html",
+    "timestamp": "2025-08-06T01:08:24Z"
+  },
+  {
+    "title": "How Trump's love for TV is shaping US diplomacy",
+    "description": "Donald Trump's sudden concern about starving Palestinians was a major shift for the US president, who had previously ignored the endless cries for help from ...",
+    "link": "https://www.yahoo.com/news/articles/trumps-love-tv-shaping-us-010737047.html",
+    "timestamp": "2025-08-06T01:07:37Z"
+  },
+  {
+    "title": "Sean 'Diddy' Combs 'seeks pardon from Trump'",
+    "description": "Sean \"Diddy\" Combs has been in contact with Donald Trump about a pardon, a source close to the rapper's legal team has told Sky News' US partner network NBC News.",
+    "link": "https://news.sky.com/story/sean-diddy-combs-seeks-pardon-from-trump-13407571",
+    "timestamp": "2025-08-06T01:07:00Z"
+  },
+  {
+    "title": "\u2018Erratic And Vindictive\u2019: Victor Davis Hanson Says Jerome Powell Reminds Him Of Another Powerful Federal Official",
+    "description": "Victor Davis Hanson said on Fox Business Tuesday that Federal Reserve Chairman Jerome Powell is showing the \"same symptoms\" as Merrick Garland.",
+    "link": "https://dailycaller.com/2025/08/05/victor-davis-hanson-jerome-powell-merrick-garland/",
+    "timestamp": "2025-08-06T01:05:58Z"
+  },
+  {
+    "title": "Dollar drifts as investors await Fed governor replacement",
+    "description": "SINGAPORE (Reuters) -The dollar was rangebound on Wednesday, with investors choosing to stay on the sidelines ahead of U.S. President Donald Trump's pick to ...",
+    "link": "https://finance.yahoo.com/news/dollar-drifts-investors-await-fed-010441052.html",
+    "timestamp": "2025-08-06T01:04:41Z"
+  },
+  {
+    "title": "John Oliver Shares His Blunt Reaction To Jay Leno's Politics-In-Comedy Advice",
+    "description": "John Oliver Shares His Blunt Reaction To Jay Leno's Politics-In-Comedy Advicehuffpost.com",
+    "link": "https://www.huffpost.com/entry/john-oliver-jay-leno-politics-comedy_n_68928b48e4b0d3424bc41507",
+    "timestamp": "2025-08-06T01:01:58Z"
+  },
+  {
+    "title": "Jesse Watters Says Shia LaBeouf \u2018Told Me To Go Eff Myself at a Delta Lounge\u2019",
+    "description": "Fox News host Jesse Watters recalled the time when actor Shia LaBeouf cursed him out at an airport.\nThe post Jesse Watters Says Shia LaBeouf \u2018Told Me To Go Eff Myself at a Delta Lounge\u2019 first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/tv/jesse-watters-says-shia-labeouf-told-me-to-go-eff-myself-at-a-delta-lounge/",
+    "timestamp": "2025-08-06T01:01:28Z"
+  },
+  {
+    "title": "Asian stocks cautious as US data clouds Fed path",
+    "description": "Asian stocks displayed mixed performance following weak US services data, creating uncertainty about the Federal Reserve's policy. Investors are anxious about the Fed's next move, as economic data complicates balancing inflation control and sustaining growth.\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-cautious-as-us-data-clouds-fed-path/articleshow/123129993.cms",
+    "timestamp": "2025-08-06T00:58:45Z"
+  },
+  {
+    "title": "Several states consider redrawing congressional maps after Texas kicks off fight",
+    "description": "Texas Republicans have launched efforts to redraw congressional maps to secure more GOP seats in the U.S. House",
+    "link": "https://abcnews.go.com/Politics/wireStory/states-redrawing-congressional-maps-after-texas-kicks-off-124397437",
+    "timestamp": "2025-08-06T00:54:29Z"
+  },
+  {
+    "title": "Russia ramps up grinding summer offensive as Ukraine seeks US battlefield aid",
+    "description": "Russia is ramping up a grinding summer offensive in eastern Ukraine as Kyiv appeals to President Donald Trump for more military aid and intensified pressure on Russian President Vladimir Putin. Putin's latest push comes at a pivotal moment. Prevailing Ukraine\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4332921/posts",
+    "timestamp": "2025-08-06T00:47:16Z"
+  },
+  {
+    "title": "Trump suggests Vance is his likely heir apparent in 2028",
+    "description": "WASHINGTON (Reuters) -U.S. President Donald Trump suggested on Tuesday that Vice President JD Vance is \"most likely\" his heir apparent to serve as the Republican nominee in 2028, the furthest he has gone in backing Vance as a future presidential candidate. Re\u2026",
+    "link": "https://www.thestar.com.my/news/world/2025/08/06/trump-suggests-vance-is-his-likely-heir-apparent-in-2028",
+    "timestamp": "2025-08-06T00:46:00Z"
+  },
+  {
+    "title": "'Totally out to lunch': Trump's 'crock of lies' gets profane takedown from ex-Labor chief",
+    "description": "A former Labor Secretary had strong words for President Donald Trump after his latest move. Trump last week fired Bureau of Labor Statistics Commissioner Erika McEntarfer and accused her of manipulating economic data to hurt him politically. The jobs report t\u2026",
+    "link": "https://www.rawstory.com/trump-economy-2673861957/",
+    "timestamp": "2025-08-06T00:45:46Z"
+  },
+  {
+    "title": "Breaking: Sean 'Diddy' Combs seeking pardon from Trump",
+    "description": "Music mogul Sean 'Diddy' Combs is seeking a pardon from US President Donald Trump, one of his lawyers has confirmed.",
+    "link": "https://www.abc.net.au/news/2025-08-06/sean-diddy-combs-seeking-trump-pardon/105618822",
+    "timestamp": "2025-08-06T00:45:22Z"
+  },
+  {
+    "title": "Trump seeks sway over Los Angeles Olympics with new task force",
+    "description": "Donald Trump on Tuesday established a task force that he will lead on the 2028 Olympic Games in Los Angeles, a Democrat-run city that has frequently clashed with the Republican US president.Los Angeles was awarded the 2028 Olympic and Paralympic Games in Sept\u2026",
+    "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a2a0282-e227-41ae-bf11-067a8a30fbc3",
+    "timestamp": "2025-08-06T00:44:53Z"
+  },
+  {
+    "title": "Stanford University Lays Off 363 Employees, Citing Trump Cuts",
+    "description": "President Donald Trump\u2019s \u201cOne Big Beautiful Bill\u201d raised the tax rate for Stanford\u2019s endowment, among other factors pushing  the school to lay off hundreds.",
+    "link": "https://www.kqed.org/news/12050989/stanford-university-lays-off-363-employees-citing-trump-cuts",
+    "timestamp": "2025-08-06T00:41:59Z"
+  },
+  {
+    "title": "Ether Price Volatility Fell To Lowest Since November In July",
+    "description": "Ether\u2019s price volatility declined in July, falling to its lowest since November 2024, according to various measures of these fluctuations.",
+    "link": "https://www.forbes.com/sites/digital-assets/2025/08/05/ether-price-volatility-fell-to-lowest-since-november-in-july/",
+    "timestamp": "2025-08-06T00:41:52Z"
+  },
+  {
+    "title": "Marjorie Taylor Greene Unloads on the GOP, H1B Immigration, Foreign Aid to Ukraine, Israel",
+    "description": "Congresswoman Marjorie Taylor Greene has publicly criticized President Donald Trump over immigration policy and foreign aid.\nThe post Marjorie Taylor Greene Unloads on the GOP, H1B Immigration, Foreign Aid to Ukraine, Israel appeared first on The Gateway Pund\u2026",
+    "link": "https://www.thegatewaypundit.com/2025/08/marjorie-taylor-greene-unloads-gop-h1b-immigration-foreign/",
+    "timestamp": "2025-08-06T00:40:32Z"
+  },
+  {
+    "title": "'Burn it down': Musk\u2019s AI blasted for generating deepfake nude videos of Taylor Swift",
+    "description": "Grok Imagine\u2014a generative artificial intelligence tool developed by Elon Musk's xAI\u2014has rolled out a \"spicy mode\" that is under fire for creating deepfake images on demand, including nudes of superstar Taylor Swift that's prompting calls for guardrails on the\u2026",
+    "link": "https://www.rawstory.com/elon-musk-ai-2673861967/",
+    "timestamp": "2025-08-06T00:34:12Z"
+  },
+  {
+    "title": "WATCH: Trump asked if Vance is 'heir' to the MAGA movement",
+    "description": "When asked if he thinks that the \"heir\" to the MAGA movement is Vice President JD Vance, President Donald Trump said he is \"doing a great job\" and that he would be \"probably favored at this point.\"",
+    "link": "https://abcnews.go.com/Politics/video/trump-asked-vance-heir-maga-movement-124393983",
+    "timestamp": "2025-08-06T00:32:33Z"
+  },
+  {
+    "title": "ESPN announces NFL Network deal, reveals details on future of RedZone",
+    "description": "ESPN has officially announced a deal to acquire NFL Media \u2013 including NFL Network and RedZone. The NFL would also receive a 10% stake in ESPN. In the announcement, ESPN provided more details on the future of RedZone, which came into question when the deal was\u2026",
+    "link": "https://www.on3.com/pro/news/espn-announces-nfl-network-deal-reveals-details-future-redzone-scott-hanson/",
+    "timestamp": "2025-08-06T00:32:18Z"
+  },
+  {
+    "title": "All major Las Vegas Strip casinos are unionized, defying national trend",
+    "description": "For the first time in the Culinary Union\u2019s 90-year history, all major casinos on the Strip are unionized. Backed by 60,000 members, most of them in Las Vegas, it is the largest labor union in Nevada.",
+    "link": "https://www.reviewjournal.com/post/3409886",
+    "timestamp": "2025-08-06T00:31:59Z"
+  },
+  {
+    "title": "WATCH: Trump takes unusual stroll on White House roof",
+    "description": "Ever the developer-in-chief, President Donald Trump made a surprise appearance on the White House roof above the briefing room in an apparent effort to inspect future construction.",
+    "link": "https://abcnews.go.com/US/video/trump-takes-unusual-stroll-white-house-roof-124390718",
+    "timestamp": "2025-08-06T00:31:54Z"
+  },
+  {
+    "title": "Abbott Asks Texas Supreme Court To Remove Democratic Leader From Office",
+    "description": "Abbott's petition identified Gene Wu as the \"ringleader\" in the Democrats' \"hijacking of Texas government.\"",
+    "link": "https://www.huffpost.com/entry/abbott-texas-supreme-court-gene-wu_n_68928ff3e4b07e7958a0f333",
+    "timestamp": "2025-08-06T00:31:03Z"
+  },
+  {
+    "title": "Rupert Murdoch\u2019s new paper satisfies a lifelong desire. Will it work?",
+    "description": "As a former News Corp editor tells Crikey, 'This is about the war on woke.'\nThe post Rupert Murdoch\u2019s new paper satisfies a lifelong desire. Will it work? appeared first on Crikey.",
+    "link": "http://www.crikey.com.au/2025/08/06/rupert-murdoch-the-california-post-news-corp-new-york-post/",
+    "timestamp": "2025-08-06T00:28:44Z"
+  },
+  {
+    "title": "Texas Gov. Greg Abbott sues to remove state House Democratic Caucus chair in redistricting standoff",
+    "description": "The lawsuit filed with the Texas Supreme Court argues that Rep. Gene Wu violated the state Constitution and that his absence amounted to an abandonment of office.",
+    "link": "https://www.nbcnews.com/politics/politics-news/greg-abbott-lawsuit-house-democratic-caucus-chair-gene-wu-redistrictin-rcna223286",
+    "timestamp": "2025-08-06T00:28:29Z"
+  },
+  {
+    "title": "Gabbard meets with DOJ prosecutors as grand jury probes Trump-Russia collusion 'hoax' claims",
+    "description": "DNI Tulsi Gabbard tells 'The Ingraham Angle' that the DOJ's grand jury investigation into the Trump-Russia collusion narrative represents a step toward 'accountability.'",
+    "link": "https://www.foxnews.com/media/gabbard-meets-doj-prosecutors-grand-jury-probes-trump-russia-collusion-hoax-claims",
+    "timestamp": "2025-08-06T00:26:13Z"
+  },
+  {
+    "title": "MAGA's next leader? Trump says Vance is 'most likely' to lead in 2028",
+    "description": "\"He's doing a great job, and he would probably be favored at this point,\" President Trump said of Vice President JD Vance's chances in 2028.",
+    "link": "https://www.usatoday.com/story/news/politics/2025/08/05/donald-trump-jd-vance-2028-presidential-election-maga/85533490007/",
+    "timestamp": "2025-08-06T00:25:20Z"
+  },
+  {
+    "title": "Top candidate for next Federal Reserve Chair makes shocking decision",
+    "description": "There\u2019s a new face in the race.\nPresident Donald Trump said Aug. 5 he still has four candidates on tap to replace his nemesis Jerome Powell as chair of the Federal Reserve.\n Don't miss the move: Subscribe to TheStreet's free daily newsletter\nBut this \u2026",
+    "link": "https://biztoc.com/x/5d83d80cc55410f4",
+    "timestamp": "2025-08-06T00:23:53Z"
+  },
+  {
+    "title": "Putin doubts potency of Trump's ultimatum to end the war, sources say",
+    "description": "MOSCOW (Reuters) -Russian President Vladimir Putin is unlikely to bow to a sanctions ultimatum expiring this Friday from U.S. President Donald Trump, and retains the goal of capturing four regions of Ukraine in their entirety, sources close to the Kremlin tol\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4332916/posts",
+    "timestamp": "2025-08-06T00:21:34Z"
+  },
+  {
+    "title": "Cincinnati Mayor Stands with Radical Activists, Police Chief at Press Conference Days After Mob Assault",
+    "description": "Cincinnati Mayor Aftab Pureval held a press conference on August 1, 2025, six days after a violent mob assault in downtown Cincinnati that left multiple people injured, to address growing public concern. Flanking him were several activists and officials whose\u2026",
+    "link": "https://www.breitbart.com/politics/2025/08/05/cincinnati-mayor-stands-radical-activists-police-chief-press-conference-mob-assault/",
+    "timestamp": "2025-08-06T00:18:16Z"
+  },
+  {
+    "title": "Brother of Israeli hostages tells UN: Gaza terrorists have plenty of food",
+    "description": "At special session called by Israel, Ilay David urged the Security Council to demand the immediate release of all hostages held in Gaza",
+    "link": "https://www.haaretz.com/israel-news/2025-08-06/ty-article/brother-of-israeli-hostages-tells-un-gaza-terrorists-have-plenty-of-food/00000198-7ca3-d257-a1f9-feef34360000",
+    "timestamp": "2025-08-06T00:17:15Z"
+  },
+  {
+    "title": "\u2018They decided to cheat\u2019: National Democrats, JB Pritzker vow to win redistricting battle",
+    "description": "Illinois Gov. JB Pritzker, ratcheted up the rhetoric Tuesday, saying anything goes in the face of Republican aggression.",
+    "link": "https://www.stltoday.com/news/local/government-politics/article_bed53e02-2e32-4cda-b149-080b5fc656b7.html",
+    "timestamp": "2025-08-06T00:17:00Z"
+  },
+  {
+    "title": "Putin doubts potency of Trump's ultimatum to end the war, sources say",
+    "description": "Russian President Vladimir Putin's determination to keep going is prompted by his belief that Russia is winning and by skepticism that more U.S. sanctions will have much impact.",
+    "link": "https://www.japantimes.co.jp/news/2025/08/06/world/politics/putin-trump-ultimatum-war/",
+    "timestamp": "2025-08-06T00:17:00Z"
+  },
+  {
+    "title": "Russia-Ukraine war: List of key events, day 1,259",
+    "description": "Here are the key events on day 1,259 of Russia\u2019s war on Ukraine.",
+    "link": "https://www.aljazeera.com/news/2025/8/6/russia-ukraine-war-list-of-key-events-day-1259",
+    "timestamp": "2025-08-06T00:16:38Z"
+  },
+  {
+    "title": "Reality Is Forging a New Europe",
+    "description": "We are witnessing the chaotic emergence of a new world order, and the process is being driven by three leaders who are openly hostile to the European Union: US President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping. This ne\u2026",
+    "link": "https://english.khabarhub.com/2025/06/489350/",
+    "timestamp": "2025-08-06T00:15:30Z"
+  },
+  {
+    "title": "What Beards Tell Us About Power, Politics And How We See Each Other",
+    "description": "Abraham Lincoln was the first U.S. president to sport a beard. For the next 50 years, whiskers were commonplace in the White House. But then, they went out of style.<br><br>Now, Vice President JD Vance is the first executive branch leader in more than a centu\u2026",
+    "link": "https://www.npr.org/2025/08/05/1256758558/1a-draft-08-05-2025",
+    "timestamp": "2025-08-06T00:14:46Z"
+  },
+  {
+    "title": "Medicaid cuts threaten services for pregnant people in rural America",
+    "description": "Some doctors worry that massive cuts to Medicaid will leave pregnant people needing to drive hundreds of miles for prenatal care and delivery services.",
+    "link": "https://19thnews.org/2025/08/pregnancy-rural-america-maternity-ward-closures-medicaid/",
+    "timestamp": "2025-08-06T00:13:32Z"
+  },
+  {
+    "title": "Democrats' Sudden Freakout Over Gerrymandering Is Starting to Make Sense...",
+    "description": "Texas Democrats have fled the state. They don\u2019t want to give the state legislature a quorum to pass a congressional map that favors Republicans. So, they decided to seek refuge in Illinois, a gerrymandered state in the country. The irony is almost as bad as t\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4332915/posts",
+    "timestamp": "2025-08-06T00:13:07Z"
+  },
+  {
+    "title": "Sean Duffy Says Trump Admin \u2018In a Race\u2019 To Take Over the Moon",
+    "description": "President Donald Trump's acting NASA administrator Sean Duffy directed the government to \"move quickly\" to build nuclear reactors on the moon.\nThe post Sean Duffy Says Trump Admin \u2018In a Race\u2019 To Take Over the Moon first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/politics/sean-duffy-says-trump-admin-in-a-race-to-take-over-the-moon/",
+    "timestamp": "2025-08-06T00:13:04Z"
+  },
+  {
+    "title": "Epstein Accomplice Maxwell Opposes Unsealing Grand Jury Transcripts",
+    "description": "Ghislaine Maxwell, the convicted accomplice of Jeffrey Epstein, asked a judge on Tuesday to reject a US Justice Department request to unseal the grand jury transcripts in her criminal case and that of the late notorious sex offender.",
+    "link": "https://www.ibtimes.com/epstein-accomplice-maxwell-opposes-unsealing-grand-jury-transcripts-3780275",
+    "timestamp": "2025-08-06T00:12:18Z"
+  },
+  {
+    "title": "Hulk Hogan Funeral: WWE legend laid to rest in private ceremony in Florida; Triple H and Stephanie McMahon attend",
+    "description": "Wrestling legend Hulk Hogan's funeral took place in Florida. The service happened at Sylvan Abbey Memorial Park. Family, friends, and WWE stars attended. Triple H, Stephanie McMahon, Kid Rock, and Theo Von were present. Donald Trump shared a photo. Ron DeSant\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/hulk-hogan-funeral-wwe-legend-laid-to-rest-in-private-ceremony-in-florida-triple-h-and-stephanie-mcmahon-attend/articleshow/123129277.cms",
+    "timestamp": "2025-08-06T00:05:34Z"
+  },
+  {
+    "title": "Trump\u2019s pursuit of meeting with Chinese leader reveals the complex web of US-China relations",
+    "description": "WASHINGTON (AP) \u2014 China, the adversary. China, the friend? These days, maybe a bit of both. From easing export controls to reportedly blocking the Taiwanese president\u2019s plans to travel through the United States, President Donald Trump is raising eyebrows in W\u2026",
+    "link": "https://financialpost.com/pmn/trumps-pursuit-of-meeting-with-chinese-leader-reveals-the-complex-web-of-us-china-relations",
+    "timestamp": "2025-08-06T00:04:59Z"
+  },
+  {
+    "title": "Hiroshima Marks 80 Years As US-Russia Nuclear Tensions Rise",
+    "description": "Japan marked 80 years since the atomic bombing of Hiroshima on Wednesday with a ceremony reminding the world of the horrors unleashed, as sabre-rattling between the United States and Russia keeps the nuclear \"Doomsday Clock\" close to midnight.",
+    "link": "https://www.ibtimes.com.au/hiroshima-marks-80-years-us-russia-nuclear-tensions-rise-1859990",
+    "timestamp": "2025-08-06T00:03:08Z"
+  },
+  {
+    "title": "'Bursts of ego': Legendary Pulitzer-winner slams Trump's 'pathetic' tantrums",
+    "description": "Pulitzer-winning Watergate reporter Bob Woodward laid into President Donald Trump's ongoing and escalating war on the press in an interview on MSNBC Tuesday, blasting it as \"pathetic.\"Trump has filed an extensive stream of lawsuits against papers and outlets \u2026",
+    "link": "https://www.rawstory.com/bob-woodward-2673861448/",
+    "timestamp": "2025-08-06T00:03:08Z"
+  },
+  {
+    "title": "Trump ready to deploy National Guard to secure 2028 Olympics",
+    "description": "United States President Donald Trump said he is instructing US departments and agencies to take steps to ensure the 2028 Los Angeles Olympics are safe. Trump said he is prepared to deploy the National...",
+    "link": "https://biztoc.com/x/a8a42cacffa5db26",
+    "timestamp": "2025-08-06T00:01:44Z"
+  },
+  {
+    "title": "Trump's pursuit of meeting with Chinese leader reveals the complex web of US-China relations",
+    "description": "From easing export controls to reportedly blocking the Taiwanese president's plans to travel through the United States, President Donald Trump is raising...",
+    "link": "https://www.yahoo.com/news/articles/trumps-pursuit-meeting-chinese-leader-000106587.html",
+    "timestamp": "2025-08-06T00:01:06Z"
+  },
+  {
+    "title": "Pakistan Strikes U.S. Oil Pact as Trump Jabs at India",
+    "description": "The United States and Pakistan have finalized a trade and energy pact that could reshape both nations\u2019 approach to energy cooperation and strategic alignment. Announced on Wednesday by President Donald Trump, the agreement includes U.S. participation in devel\u2026",
+    "link": "https://oilprice.com/Energy/Crude-Oil/Pakistan-Strikes-US-Oil-Pact-as-Trump-Jabs-at-India.html",
+    "timestamp": "2025-08-06T00:00:00Z"
+  },
+  {
+    "title": "Trump escalates threat level, says more tariff in 24 hours",
+    "description": "President Trump threatened to substantially increase tariffs on Indian imports due to continued Russian oil purchases, despite India's strong response and accusations of unfair targeting by the US and EU. India defends its actions as safeguarding national int\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-escalates-threat-level-says-more-tariff-in-24-hours/articleshow/123126879.cms",
+    "timestamp": "2025-08-06T00:00:00Z"
+  },
+  {
+    "title": "How the Epstein Files Blew Up a Pro-Trump AI Bot Network\u00a0on X",
+    "description": "Researchers uncovered an AI bot network on X that used large language models to push MAGA messaging, but the network couldn't settle on Epstein angle",
+    "link": "http://www.rollingstone.com/culture/culture-features/epstein-files-trump-ai-bot-network-x-1235400646/",
+    "timestamp": "2025-08-06T00:00:00Z"
+  },
+  {
     "title": "Oil Steadies After Drop as Traders Weigh Trump\u2019s Tariff Threat",
     "description": "Oil held a four-day drop as investors looked beyond a threat from President Donald Trump to impose secondary tariffs on buyers of Russian energy, while US data pointed to softer conditions in the world\u2019s largest economy.",
     "link": "https://financialpost.com/pmn/business-pmn/oil-steadies-after-drop-as-traders-weigh-trumps-tariff-threat",
@@ -52,485 +592,5 @@
     "description": "Trump has said Combs\u2019 \u201chostility\u201d toward him during the 2024 election makes pardoning the rapper \u201cmore difficult to do.\u201d",
     "link": "https://www.forbes.com/sites/antoniopequenoiv/2025/08/05/sean-diddy-combs-attorneys-contacted-trump-administration-about-potential-pardon-report-says/",
     "timestamp": "2025-08-05T23:49:19Z"
-  },
-  {
-    "title": "Diddy's Lawyer Confirms Trump Pardon Request, Says Rapper Is 'Hopeful'",
-    "description": "A member of Sean \u201cDiddy\u201d Combs\u2019 legal team is confirming claims they\u2019ve approached Donald Trump\u2019s administration in the hopes of securing a presidential pardon. \u201cIt\u2019s my understanding that we\u2019ve reached out and had conversations in reference to a pardon,\u201d att\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/diddys-lawyer-confirms-pardon-request-to-donald-trump/#article",
-    "timestamp": "2025-08-05T23:44:26Z"
-  },
-  {
-    "title": "\u2018South Park\u2019 Tells ICE to \u2018Eat a Bag of Dicks\u2019 After Co-Opting Cartoon to Recruit Agents",
-    "description": "A DHS spokesperson thanked South Park for \"drawing attention to ICE law enforcement recruitment,\" even though the Trump administration called the show irrelevant",
-    "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/south-park-slams-ice-using-cartoon-recruit-officers-1235401409/",
-    "timestamp": "2025-08-05T23:42:52Z"
-  },
-  {
-    "title": "Biden's doctor thought cognitive tests were 'meaningless,' ex-aide Bruce Reed told investigators",
-    "description": "Former Biden aide Bruce Reed told Congress that the former president's doctor viewed cognitive tests as \u2018meaningless\u2019 and that the campaign expected debate questions on mental acuity.",
-    "link": "https://www.foxnews.com/politics/bidens-doctor-thought-cognitive-tests-were-meaningless-ex-aide-bruce-reed-told-investigators",
-    "timestamp": "2025-08-05T23:42:10Z"
-  },
-  {
-    "title": "Trump Threatens to Take Control of D.C. Unless Crime Is Addressed",
-    "description": "President Donald Trump threatened to take \"federal control\" of Washington, D.C., unless the crime in the city was addressed and called for a change in D.C.'s law regarding prosecuting minors as adults.\nThe post Trump Threatens to Take Control of D.C. Unless C\u2026",
-    "link": "https://www.breitbart.com/politics/2025/08/05/trump-threatens-to-take-control-of-d-c-unless-crime-is-addressed/",
-    "timestamp": "2025-08-05T23:41:05Z"
-  },
-  {
-    "title": "'South Park' hurls DHS's own post back in its face as feud with Trump escalates",
-    "description": "A social media spat escalated Tuesday between the satirical animated television show \"South Park\" and the Trump administration.In a post on X, the Department of Homeland Security used a South Park-style animation in a recruiting post, just days after South Pa\u2026",
-    "link": "https://www.rawstory.com/south-park/",
-    "timestamp": "2025-08-05T23:39:59Z"
-  },
-  {
-    "title": "Trump to fill Federal Reserve board vacancy by week\u2019s end, says he\u2019s considering four Chair candidates",
-    "description": "U.S. President Donald Trump said on Tuesday he will decide on a nominee to fill a coming vacancy on the Federal Reserve\u2019s Board of Governors by the end of the week, and had separately narrowed the possible replacements for Fed chair Jerome Powell to a short l\u2026",
-    "link": "https://biztoc.com/x/3d60dbe7b5b17f52",
-    "timestamp": "2025-08-05T23:38:45Z"
-  },
-  {
-    "title": "Social Security phasing out paper checks as Trump pushes payment overhaul",
-    "description": "Less than 1% of beneficiaries still receive paper checks, which cost 50 cents each compared to 15 cents for electronic transfers.",
-    "link": "https://nypost.com/2025/08/05/us-news/social-security-phasing-out-paper-checks-as-trump-pushes-payment-overhaul/",
-    "timestamp": "2025-08-05T23:37:01Z"
-  },
-  {
-    "title": "How Trump's secondary tariffs on Russia could hit the global economy",
-    "description": "The sweeping secondary tariffs could cut the flow of Russian oil and gas to global markets.",
-    "link": "https://www.bbc.com/news/articles/cwyp7lgyy4ro",
-    "timestamp": "2025-08-05T23:36:18Z"
-  },
-  {
-    "title": "Jasmine Crockett Churns Out the Charm",
-    "description": "It\u2019s funny that Democrat rhetoric so often centers on class, considering that they have no class. Representative Jasmine Crockett (D-TX), a prominent face of her party, was in Phoenix for a MoveOn rally on Sunday: \u201cListen, Donald Trump is a piece of sh*t. Oka\u2026",
-    "link": "https://moonbattery.com/jasmine-crockett-churns-out-the-charm/",
-    "timestamp": "2025-08-05T23:35:20Z"
-  },
-  {
-    "title": "Despite Trump's peace calls, Russian attacks on Ukraine double since inauguration",
-    "description": "Missile and drone attacks on Ukraine are now higher than at any other point of the war, according to Ukrainian data.",
-    "link": "https://www.bbc.com/news/articles/c5yl6eegv63o",
-    "timestamp": "2025-08-05T23:35:07Z"
-  },
-  {
-    "title": "Stay or go? Under Trump, dreams fade for Chinese who trekked to US",
-    "description": "Migrants living in unease under President Trump have quietly begun to ask themselves: is America worth it?",
-    "link": "https://www.bbc.com/news/articles/cd97e120xe5o",
-    "timestamp": "2025-08-05T23:33:56Z"
-  },
-  {
-    "title": "DOJ identifies 35 \u2018sanctuary jurisdictions\u2019 in immigration crackdown",
-    "description": "The agency said the list of cities, counties, and states \"impede law enforcement and put American citizens at risk by design.\"The U.S. Department of Justice published a list of 35 so-called \"sanctuary jurisdictions\" on Tuesday, threatening legal action agains\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4332906/posts",
-    "timestamp": "2025-08-05T23:32:08Z"
-  },
-  {
-    "title": "Veteran fund manager sends urgent 9-word message on stocks",
-    "description": "The stock market has had a rally for the ages since President Donald Trump backed off some tariffs in early April, clearing the way for trade negotiations with major trading partners.\nThe S&P 500 marched over 25% higher since hitting a tariff-fueled low on Ap\u2026",
-    "link": "https://biztoc.com/x/44ffa74ad29de800",
-    "timestamp": "2025-08-05T23:27:31Z"
-  },
-  {
-    "title": "Brazil's Bolsonaro arrested, adding to tensions with Trump",
-    "description": "Summary Bolsonaro under house arrest for breaking restraining orders Trump called Bolsonaro's Supreme Court trial a \"witch hunt\" U.S. sanctioned Brazil Supreme Court judge issuing orders BRASILIA, Aug 4 (Reuters) - Brazil's Supreme Court put former President \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4332905/posts",
-    "timestamp": "2025-08-05T23:26:59Z"
-  },
-  {
-    "title": "EXCLUSIVE: Donald Trump Lookalike From \u2018South Park\u2019 Reveals That Footage Was Shot Years Ago",
-    "description": "It\u2019s not every day that a professional Kim Jong Un lookalike gets in touch, but that\u2019s exactly how this story started. Howard X Lee, who has previously collaborated with Donald Trump lookalike Dennis Alan in a musical lounge act in Hong Kong, reached out to B\u2026",
-    "link": "https://brobible.com/culture/article/exclusive-donald-trump-lookalike-from-south-park-reveals-that-footage-was-shot-years-ago/",
-    "timestamp": "2025-08-05T23:26:43Z"
-  },
-  {
-    "title": "Whitmer meets with Trump to ask for relief on tariffs, Medicaid cuts",
-    "description": "This was the third meeting between Trump and Whitmer, a Democratic governor, since April.",
-    "link": "https://www.cbsnews.com/news/gretchen-whitmer-meets-trump-tariffs-medicaid/",
-    "timestamp": "2025-08-05T23:26:41Z"
-  },
-  {
-    "title": "\u2018South Park\u2019 Trolls Donald Trump\u2019s DHS Ahead Of ICE Barbie Episode: \u201cWait, So We ARE Relevant?\u201d",
-    "description": "South Park continues to aim at the Donald Trump administration and is firing back amid claims the animated series is not relevant anymore. The Comedy Central series opened Season 27 mocking Trump and has not stopped since. An upcoming episode will parody Depa\u2026",
-    "link": "http://deadline.com/2025/08/south-park-trolls-donald-trump-dhs-ice-barbie-1236479471/",
-    "timestamp": "2025-08-05T23:25:07Z"
-  },
-  {
-    "title": "'I think it\u2019s wrong': Mike Lawler defies Trump over GOP's election-rigging scheme",
-    "description": "Rep. Mike Lawler (R-NY) came out against Texas Republicans' effort to redraw their congressional map to give themselves five extra seats in an interview with CNN's Jake Tapper on Friday.Lawler, a swing-district Republican who has largely backed President Dona\u2026",
-    "link": "https://www.rawstory.com/mike-lawler-2673861669/",
-    "timestamp": "2025-08-05T23:24:27Z"
-  },
-  {
-    "title": "Sean 'Diddy' Combs has reached out to Trump about pardon, source says",
-    "description": "The defense team for Sean \u201cDiddy\u201d Combs has reached out to President Donald Trump seeking a pardon after his conviction on prostitution-related offenses, a source close to the legal team told NBC News on Tuesday",
-    "link": "https://www.nbcnews.com/news/us-news/sean-diddy-combs-trump-pardon-rcna223282",
-    "timestamp": "2025-08-05T23:24:26Z"
-  },
-  {
-    "title": "Exclusive--Breitbart\u2019s Alex Marlow: \u2018Deeply Engaged Conservative Movement\u2019 Crucial for Beating Left\u2019s Lawfare, Winning the Culture War",
-    "description": "The conservative movement must be \"robust, charismatic, [and] deeply engaged\" to win the culture war and wage a long campaign against the radical left's use of lawfare, Breitbart News Editor-in-Chief Alex Marlow said at the Young America\u2019s Foundation (YAF) Na\u2026",
-    "link": "https://www.breitbart.com/politics/2025/08/05/breitbarts-alex-marlow-deeply-engaged-conexclusive-breitbarts-alex-marlow-deeply-engaged-conservative-movement-crucial-for-beating-lefts-lawfare-winning-the-cult/",
-    "timestamp": "2025-08-05T23:23:15Z"
-  },
-  {
-    "title": "'Safeguards? What Safeguards?': Grok's New 'Spicy Mode' Makes Nude Taylor Swift Deepfakes",
-    "description": "Grok Imagine\u2014a generative artificial intelligence tool developed by Elon Musk's xAI\u2014has rolled out a \"spicy mode\" that is under fire for creating deepfake images on demand, including nudes of superstar Taylor Swift that's prompting calls for guardrails on the\u2026",
-    "link": "https://www.commondreams.org/news/taylor-swift-nude-deepfakes",
-    "timestamp": "2025-08-05T23:20:16Z"
-  },
-  {
-    "title": "Administrator Loeffler Leads Presidential Delegation to the Republic of Poland",
-    "description": "The delegation will attend the inauguration of President-elect Karol Nawrocki The delegation will attend the inauguration of President-elect Karol Nawrocki",
-    "link": "https://www.globenewswire.com/news-release/2025/08/05/3127978/0/en/Administrator-Loeffler-Leads-Presidential-Delegation-to-the-Republic-of-Poland.html",
-    "timestamp": "2025-08-05T23:20:00Z"
-  },
-  {
-    "title": "Hunter Biden Says Trump's Laptop Obsession Is Just Another Epstein Distraction",
-    "description": "In a new interview, the former first son called the president\u2019s strategy predictable, if not exhausting.",
-    "link": "https://www.huffpost.com/entry/hunter-biden-laptop-trump-epstein-distractioin_n_6892608be4b07e7958a0df42",
-    "timestamp": "2025-08-05T23:19:57Z"
-  },
-  {
-    "title": "Judge Rules Rocky Mountain Wolves Wrongly Denied Endangered Species Protections",
-    "description": "Conservationists cautiously celebrated a U.S. judge's Tuesday ruling that the federal government must reconsider its refusal to grant protections for gray wolves in the Rocky Mountains, as killing regimes in Idaho, Montana, and Wyoming put the species at risk\u2026",
-    "link": "https://www.commondreams.org/news/are-gray-wolves-endangered",
-    "timestamp": "2025-08-05T23:19:36Z"
-  },
-  {
-    "title": "Ghislaine Maxwell, in DOJ interview, said nothing that would be harmful to Trump: Sources",
-    "description": "During her nine hours speaking with Deputy Attorney General Todd Blanche last month, Ghislaine Maxwell said nothing during the interview that would be harmful to President Donald Trump, telling Blanche that Trump had never done anything in her presence that w\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4332904/posts",
-    "timestamp": "2025-08-05T23:19:01Z"
-  },
-  {
-    "title": "Swiss president rushes to US to avert steep tariffs",
-    "description": "Switzerland's president was in Washington on Tuesday in a last-minute push to stop steep new tariffs, but with no appointment to plead her case to US...",
-    "link": "https://www.yahoo.com/news/articles/swiss-president-rushes-us-avert-120840790.html",
-    "timestamp": "2025-08-05T23:18:42Z"
-  },
-  {
-    "title": "\u2018We reviewed the science\u2019: RFK Jr. cancels $500 million in mRNA research",
-    "description": "After COVID-era failures, HHS will instead prioritize 'safer, broader' vaccine strategies",
-    "link": "https://www.wnd.com/2025/08/we-reviewed-science-rfk-jr-cancels-500-million/",
-    "timestamp": "2025-08-05T23:17:25Z"
-  },
-  {
-    "title": "Trump says JPMorgan Chase, Bank of America rejected him as a customer",
-    "description": "Key PointsPresident Donald Trump said Tuesday that the two largest U.S. banks previously rejected him as a customer, reviving claims that conservative clients were being unfairly denied accounts. Trump told CNBC\u2019s \u201cSquawk Box\u201d in a wide-ranging interview that\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4332902/posts",
-    "timestamp": "2025-08-05T23:16:34Z"
-  },
-  {
-    "title": "Indiana Prepping 'Speedway Slammer' Similar to 'Alligator Alcatraz'",
-    "description": "DHS is preparing another ICE detention facility as deportation efforts continue.",
-    "link": "https://www.newsweek.com/indiana-prepping-speedway-slammer-similar-alligator-alcatraz-2109393",
-    "timestamp": "2025-08-05T23:13:29Z"
-  },
-  {
-    "title": "Woody Allen compares Epstein to Dracula in newly unearthed letter",
-    "description": "The director and regular dinner guest of Epstein's said he could see the sex trafficker \"sleeping in damp Earth\"",
-    "link": "https://www.salon.com/2025/08/05/woody-allen-compares-epstein-to-dracula-in-newly-unearthed-letter/",
-    "timestamp": "2025-08-05T23:11:23Z"
-  },
-  {
-    "title": "Washington Post \u2018fact checker\u2019 throws in the towel",
-    "description": "Mr. Kessler had it in for people who favored the reasonable theory that COVID-19 leaked from a lab",
-    "link": "https://www.wnd.com/2025/08/washington-post-fact-checker-throws-towel/",
-    "timestamp": "2025-08-05T23:10:02Z"
-  },
-  {
-    "title": "\u2018Irrelevant\u2019 \u2018South Park\u2019 Claps Back at ICE for Contradicting the President",
-    "description": "Why is ICE using a desperate, fourth-rate comedy show to try and boost its recruiting numbers?",
-    "link": "https://www.cracked.com/article_47741_irrelevant-south-park-claps-back-at-ice-for-contradicting-the-president.html",
-    "timestamp": "2025-08-05T23:10:00Z"
-  },
-  {
-    "title": "Music teacher who rejected transgender students' chosen names can sue Indiana school",
-    "description": "(Reuters) -A divided U.S. appeals court revived a lawsuit against an Indiana school district by a former high school music teacher who objected to being...",
-    "link": "https://www.yahoo.com/news/articles/music-teacher-rejected-transgender-students-230903736.html",
-    "timestamp": "2025-08-05T23:09:03Z"
-  },
-  {
-    "title": "San Diego County among Justice Department\u2019s 35 'sanctuary' jurisdictions",
-    "description": "The county was only one of four counties singled out by the DOJ for policies, laws or regulations that \"impede enforcement of federal immigration laws.\"",
-    "link": "https://www.kpbs.org/news/politics/2025/08/05/san-diego-county-among-justice-departments-35-sanctuary-jurisdictions",
-    "timestamp": "2025-08-05T23:07:55Z"
-  },
-  {
-    "title": "Toppled Confederate statue in DC to be replaced in line with Trump\u2019s executive order",
-    "description": "The Albert Pike statue restoration is targeted for October.",
-    "link": "https://www.bostonherald.com/2025/08/05/dc-confederate-statue/",
-    "timestamp": "2025-08-05T23:06:26Z"
-  },
-  {
-    "title": "Maggie Haberman Says Trump Believes His Own Falsehoods on Jobs Numbers: \u2018He Has Convinced Himself\u2019",
-    "description": "CNN's Maggie Haberman said she believes President Donald Trump has managed to convince himself that the underwhelming jobs numbers released last week were \"faked,\" despite zero evidence supporting the claim.\nThe post Maggie Haberman Says Trump Believes His Ow\u2026",
-    "link": "https://www.mediaite.com/media/tv/maggie-haberman-says-trump-believes-his-own-falsehoods-on-jobs-numbers-he-has-convinced-himself/",
-    "timestamp": "2025-08-05T23:04:54Z"
-  },
-  {
-    "title": "Trump says it is \u2018up to Israel\u2019 whether to occupy all of Gaza",
-    "description": "US president's comments come amid warnings that expanding Israeli operations would be 'catastrophic' for Palestinians.",
-    "link": "https://www.aljazeera.com/news/2025/8/5/trump-says-it-is-up-to-israel-whether-to-occupy-all-of-gaza",
-    "timestamp": "2025-08-05T23:04:22Z"
-  },
-  {
-    "title": "BREAKING: DOJ Requests DNI Documents Following Gabbard Criminal Referral On Russiagate Conspiracy",
-    "description": "The request suggests that the DOJ is aggressively pursuing options to hold accountable any federal officials for their actions on Russiagate.The U.S. Department of Justice (DOJ) has sent the Office of the Director of National Intelligence (ODNI) a request for\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4332900/posts",
-    "timestamp": "2025-08-05T23:03:38Z"
-  },
-  {
-    "title": "The world is watching as Brazil reacts to the US",
-    "description": "President Lula\u2019s reaction to Trump is of interest to other economies like Mexico and Canada. World leaders are watching closely how he fares in the standoff.\nThe post The world is watching as Brazil reacts to the US first appeared on LSE Business Review.",
-    "link": "https://blogs.lse.ac.uk/businessreview/2025/08/06/the-world-is-watching-brazil-react-to-the-us/",
-    "timestamp": "2025-08-05T23:01:00Z"
-  },
-  {
-    "title": "Noem Announces \u2018Speedway Slammer\u2019 Illegal-Alien Detention Center in Indiana",
-    "description": "A new illegal-alien detention center is opening in Indiana, Homeland Security Secretary Kristi Noem announced Tuesday. \u00a0 \u201cComing soon to Indiana: The Speedway Slammer,\u201d Noem... Read More\nThe post Noem Announces \u2018Speedway Slammer\u2019 Illegal-Alien Detention Cente\u2026",
-    "link": "https://www.dailysignal.com/2025/08/05/noem-announces-speedway-slammer-illegal-alien-detention-center-indiana/",
-    "timestamp": "2025-08-05T23:01:00Z"
-  },
-  {
-    "title": "\u2018South Park\u2019 Claps Back at Homeland Security for Using New Episode to Promote ICE",
-    "description": "The reaction comes after the official U.S. Department of Homeland Security posted the promo to their X account Tuesday\nThe post \u2018South Park\u2019 Claps Back at Homeland Security for Using New Episode to Promote ICE appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/south-park-homeland-security-ice-promotion-x/",
-    "timestamp": "2025-08-05T22:59:34Z"
-  },
-  {
-    "title": "Coinbase Debuts \u2018Embedded\u2019 Crypto Wallet for Developers\u2014With Stablecoin Focus",
-    "description": "The new product gives builders the infrastructure to seamlessly integrate wallets into their apps.",
-    "link": "https://decrypt.co/333681/coinbase-debuts-embedded-crypto-wallet-for-developers-with-stablecoin-focus",
-    "timestamp": "2025-08-05T22:57:51Z"
-  },
-  {
-    "title": "Michigan Gov. Whitmer makes another White House visit to meet with Trump",
-    "description": "The Democrat is taking a more diplomatic approach than in his first term.",
-    "link": "https://www.bostonherald.com/2025/08/05/michigan-gov-whitmer-another-trump-visit/",
-    "timestamp": "2025-08-05T22:55:38Z"
-  },
-  {
-    "title": "Trump says pharmaceutical tariffs could reach 250% in future",
-    "description": "President Donald Trump provided new details about his plan to impose tariffs on foreign-made pharmaceuticals, but the White House says nothing is final.",
-    "link": "https://www.wmur.com/article/trump-pharmaceutical-tariffs-could-reach-250-in-future/65607038",
-    "timestamp": "2025-08-05T22:55:30Z"
-  },
-  {
-    "title": "Asian Traders Cautious as US Data Clouds Fed Path: Markets Wrap",
-    "description": "Asian stocks may struggle for direction on Wednesday after Wall Street erased gains, as weakening US services data raised concerns about the Federal Reserve\u2019s policy path.",
-    "link": "https://financialpost.com/pmn/business-pmn/asian-traders-cautious-as-us-data-clouds-fed-path-markets-wrap",
-    "timestamp": "2025-08-05T22:53:29Z"
-  },
-  {
-    "title": "The Knock-Down, Drag-\u2018Em-Out Texas Redistricting Showdown Heats Up",
-    "description": "An old-fashioned Western showdown is happening in Texas right now.\u00a0 On one side you have Texas House Democrats who fled the state over the weekend to stop Texas Republicans from carrying out Trump\u2019s orders to redraw the state\u2019s maps.\u00a0And Texas governor Greg A\u2026",
-    "link": "https://www.motherjones.com/politics/2025/08/the-knock-down-drag-em-out-texas-redistricting-showdown-heats-up/",
-    "timestamp": "2025-08-05T22:51:12Z"
-  },
-  {
-    "title": "U.S. stocks close lower on weak economic data, tariff concerns",
-    "description": "NEW YORK, Aug. 5 (Xinhua) -- U.S. stocks fell on Tuesday as investors reacted to disappointing economic data and U.S. President Donald Trump's new tariff threats. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/08/06/us-stocks-close-lower-on-weak-economic-data-tariff-concerns",
-    "timestamp": "2025-08-05T22:51:00Z"
-  },
-  {
-    "title": "The ripple effects of the BLS firing (Jacob Wendler/Politico)",
-    "description": "Jacob Wendler / Politico:\nThe ripple effects of the BLS firing\u00a0 \u2014\u00a0 SLIPPERY SLOPE \u2014 The good news for Donald Trump is that the Jeffrey Epstein saga didn't dominate the news cycle today.\u00a0 The bad news?\u00a0 Four days after firing the head of the Bureau of Labor St\u2026",
-    "link": "https://www.memeorandum.com/250805/p112",
-    "timestamp": "2025-08-05T22:50:00Z"
-  },
-  {
-    "title": "'Speedway Slammer' is red state's answer to 'Alligator Alcatraz' detention facility",
-    "description": "Governor Braun partners with Trump administration to create 1,000-bed immigration detention center at Miami Correctional Center funded by federal reconciliation bill.",
-    "link": "https://www.foxnews.com/politics/speedway-slammer-red-states-answer-alligator-alcatraz-detention-facility",
-    "timestamp": "2025-08-05T22:48:53Z"
-  },
-  {
-    "title": "Trump says pharmaceutical tariffs could reach 250% in future",
-    "description": "President Donald Trump provided new details about his plan to impose tariffs on foreign-made pharmaceuticals, but the White House says nothing is final.",
-    "link": "https://www.wisn.com/article/trump-pharmaceutical-tariffs-could-reach-250-in-future/65607038",
-    "timestamp": "2025-08-05T22:45:28Z"
-  },
-  {
-    "title": "Trump says pharmaceutical tariffs could reach 250% in future",
-    "description": "President Donald Trump provided new details about his plan to impose tariffs on foreign-made pharmaceuticals, but the White House says nothing is final.",
-    "link": "https://www.kcci.com/article/trump-pharmaceutical-tariffs-could-reach-250-in-future/65607038",
-    "timestamp": "2025-08-05T22:45:02Z"
-  },
-  {
-    "title": "RFK Jr. pulls $500 million in funding for vaccine development",
-    "description": "The 22 projects, all using mRNA technology, are led by some of the nation's leading pharmaceutical companies to prevent flu, COVID-19 and H5N1 infections.",
-    "link": "https://roanoke.com/news/nation-world/government-politics/article_4b43a2e1-4839-500f-843e-f370823c8fd7.html",
-    "timestamp": "2025-08-05T22:45:00Z"
-  },
-  {
-    "title": "Biden\u2019s Doctor Shunned Cognitive Test, According to \u2018Politburo\u2019 Member",
-    "description": "The same doctor who invoked his Fifth Amendment right against self incrimination told former President Joe Biden\u2019s inner circle that a cognitive test would be... Read More\nThe post Biden\u2019s Doctor Shunned Cognitive Test, According to \u2018Politburo\u2019 Member appeare\u2026",
-    "link": "https://www.dailysignal.com/2025/08/05/bidens-doctor-shunned-cognitive-test-according-to-politburo-member/",
-    "timestamp": "2025-08-05T22:45:00Z"
-  },
-  {
-    "title": "Trump says pharmaceutical tariffs could reach 250% in future",
-    "description": "President Donald Trump provided new details about his plan to impose tariffs on foreign-made pharmaceuticals, but the White House says nothing is final.",
-    "link": "https://www.wbaltv.com/article/trump-pharmaceutical-tariffs-could-reach-250-in-future/65607038",
-    "timestamp": "2025-08-05T22:44:55Z"
-  },
-  {
-    "title": "Trump says pharmaceutical tariffs could reach 250% in future",
-    "description": "President Donald Trump provided new details about his plan to impose tariffs on foreign-made pharmaceuticals, but the White House says nothing is final.",
-    "link": "https://www.wcvb.com/article/trump-pharmaceutical-tariffs-could-reach-250-in-future/65607038",
-    "timestamp": "2025-08-05T22:44:32Z"
-  },
-  {
-    "title": "Venezuelan Little League team granted exemption to President Trump's travel ban after senior team denied entry",
-    "description": "The team needed a sign-off from Secretary of State Marco Rubio to enter the country for the Little League World Series.",
-    "link": "https://sports.yahoo.com/mlb/breaking-news/article/venezuelan-little-league-team-granted-exemption-to-president-trumps-travel-ban-after-senior-team-denied-entry-224402602.html",
-    "timestamp": "2025-08-05T22:44:02Z"
-  },
-  {
-    "title": "Brazil's Supreme Court caught off guard by order to arrest Bolsonaro, sources say",
-    "description": "SAO PAULO (Reuters) -Brazil's Supreme Court was caught off-guard by Justice Alexandre de Moraes' decision late on Monday to place former President Jair Bolsonaro under house arrest, two sources at the court told Reuters on Tuesday. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/08/06/brazil039s-supreme-court-caught-off-guard-by-order-to-arrest-bolsonaro-sources-say",
-    "timestamp": "2025-08-05T22:44:00Z"
-  },
-  {
-    "title": "Jim Cramer rebuffs Wall Street's 'knee-jerk negativity' after Tuesday's pullback",
-    "description": "CNBC's Jim Cramer on Tuesday pushed back against a downbeat sentiment he's felt on Wall Street, saying \"kneejerk negativity\" is making investors lose money.",
-    "link": "https://www.cnbc.com/2025/08/05/jim-cramer-rebuffs-wall-streets-kneejerk-negativity-after-tuesdays-pullback.html",
-    "timestamp": "2025-08-05T22:43:00Z"
-  },
-  {
-    "title": "Trump to Settle on New Fed Governor by End of Week",
-    "description": "President Donald Trump said he would select a new Federal Reserve governor before the end of the week. At a White House event Tuesday in... Read More\nThe post Trump to Settle on New Fed Governor by End of Week appeared first on The Daily Signal.",
-    "link": "https://www.dailysignal.com/2025/08/05/trump-settle-new-fed-governor-end-week/",
-    "timestamp": "2025-08-05T22:42:58Z"
-  },
-  {
-    "title": "President Trump To Sign Executive Order Penalizing Banks For Debanking Crypto Firms",
-    "description": "U.S. President Trump is reportedly planning to sign an executive order that would shield crypto firms and conservatives from alleged discriminatory banking practices.",
-    "link": "https://zycrypto.com/president-trump-to-sign-executive-order-penalizing-banks-for-debanking-crypto-firms/",
-    "timestamp": "2025-08-05T22:40:22Z"
-  },
-  {
-    "title": "RFK Jr. Makes Major Vaccine Announcement",
-    "description": "Kennedy urged HHS to move away from mRNA vaccines and \"invest in better solutions,\" but did not specify alternatives.",
-    "link": "https://www.newsweek.com/rfk-trump-admin-vaccines-mrna-covid-flu-2109400",
-    "timestamp": "2025-08-05T22:39:30Z"
-  },
-  {
-    "title": "WATCH: Trump says FBI 'may have to' help Texas round up AWOL Dem lawmakers",
-    "description": "The FBI \u201cmay have to\" round up a group of Democratic lawmakers who fled Texas to avoid voting on the state\u2019s proposed redistricting map, President Donald Trump told reporters.",
-    "link": "https://www.foxnews.com/politics/watch-trump-says-fbi-may-have-to-help-texas-round-up-awol-dem-lawmakers",
-    "timestamp": "2025-08-05T22:39:12Z"
-  },
-  {
-    "title": "Donald Trump\u2019s attack on US labour statistics agency spooks investors - Financial Times",
-    "description": "Donald Trump\u2019s attack on US labour statistics agency spooks investorsFinancial Times Trump Fired America\u2019s Economic Data Collector. History Shows the Perils.The New York Times Trump redoubles attack on federal jobs data, calls numbers politicalThe Washington \u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178583536",
-    "timestamp": "2025-08-05T22:36:19Z"
-  },
-  {
-    "title": "Supreme Court Killed Universal Injunctions In Name Only",
-    "description": "Supreme Court Killed Universal Injunctions In Name Only\n \nAuthored by Benjamin Weingarten via RealClearInvestigations,\nOn June 27, the Supreme Court handed President Donald Trump what he hailed as a \u201cGIANT WIN,\u201d finding that lower courts had \u201clikely\u201d overstep\u2026",
-    "link": "https://biztoc.com/x/5fcd4846c2a3a34a",
-    "timestamp": "2025-08-05T22:31:50Z"
-  },
-  {
-    "title": "Trump Says 4 Candidates Running For Fed Chair\u2014As Treasury Secretary Bessent \u2018Does Not Want\u2019 Role",
-    "description": "Topline\nThe list of candidates to succeed Fed Chair Jerome Powell has been cut down to four after Treasury Secretary Scott Bessent dropped out of consideration, President Donald Trump said Tuesday amid his growing feud with Powell over the agency\u2019s decision t\u2026",
-    "link": "https://biztoc.com/x/76c1f9398dc220af",
-    "timestamp": "2025-08-05T22:31:38Z"
-  },
-  {
-    "title": "Russia weighs Ukraine air-truce offer to Trump without ending war",
-    "description": "The Kremlin is weighing options for a concession that could include an air truce with Ukraine to try to head off the threat of secondary U.S. sanctions.",
-    "link": "https://www.japantimes.co.jp/news/2025/08/06/world/politics/russia-ukraine-air-truce-trump/",
-    "timestamp": "2025-08-05T22:31:00Z"
-  },
-  {
-    "title": "22nd Amendment: Can Trump Run for a Third Term?",
-    "description": "there are legal avenues for him to become president again, Rossi said. \"Only under Donald Trump would you have a president that even speculates, ponders or contemplates serving a third term. We're in a different world.\"",
-    "link": "https://freerepublic.com/focus/f-chat/4332895/posts",
-    "timestamp": "2025-08-05T22:29:09Z"
-  },
-  {
-    "title": "Trump\u2019s visa havoc strands students weeks before classes start",
-    "description": "International students are struggling to secure visas as the Trump administration aggressively moves to curtail immigration.",
-    "link": "https://www.japantimes.co.jp/news/2025/08/06/world/politics/trump-visa-students-stranded/",
-    "timestamp": "2025-08-05T22:29:00Z"
-  },
-  {
-    "title": "Trump suggests there will be mandatory gender testing for women's sports at 2028 LA Olympics",
-    "description": "Trump suggested 'very strong' genetic testing will be implemented for women's sports at the 2028 Los Angeles Olympics following his executive order.",
-    "link": "https://www.foxnews.com/sports/trump-suggests-mandatory-gender-testing-womens-sports-2028-la-olympics",
-    "timestamp": "2025-08-05T22:27:49Z"
-  },
-  {
-    "title": "ICE Is Already Using Tomorrow\u2019s \u2018South Park\u2019 Episode As A Recruitment Tool",
-    "description": "The Right has begun reappropriating \u2018South Park\u2019s attacks for their marketing campaigns",
-    "link": "https://www.cracked.com/article_47738_ice-is-already-using-tomorrows-south-park-episode-as-a-recruitment-tool.html",
-    "timestamp": "2025-08-05T22:25:00Z"
-  },
-  {
-    "title": "WATCH: President Trump predicts who will replace him in 2028",
-    "description": "'I also think we have incredible people, some of the people on the stage right here'",
-    "link": "https://www.wnd.com/2025/08/watch-president-trump-predicts-who-will-replace-him/",
-    "timestamp": "2025-08-05T22:24:01Z"
-  },
-  {
-    "title": "Hulk Hogan funeral in Largo: \u2018Even in heaven, he sold out again\u2019",
-    "description": "LARGO \u2014 Friends and colleagues of Terry Bollea, the pro wrestler better known to the world as Hulk Hogan, gathered Tuesday evening to say goodbye to the...",
-    "link": "https://www.tampabay.com/life-culture/2025/08/05/hulk-hogan-memorial-indian-rocks-largo/",
-    "timestamp": "2025-08-05T22:24:00Z"
-  },
-  {
-    "title": "Michigan Sen. Elissa Slotkin urges fellow Democrats to 'go nuclear' in redistricting fight",
-    "description": "Sen. Elissa Slotkin says Democrats should \u201cgo nuclear\u201d to counter Republicans\u2019 redistricting push in Texas and other red states and go on offense against Trump in general.",
-    "link": "https://www.nbcnews.com/politics/2026-election/michigan-sen-elissa-slotkin-democrats-nuclear-redistricting-texas-rcna223158",
-    "timestamp": "2025-08-05T22:23:44Z"
-  },
-  {
-    "title": "Trump's firing of the labor statistics chief could lead to a financial crisis",
-    "description": "Donald Trump\u2019s firing of Bureau of Labor Statistics Commissioner Erika McEntarfer after a disappointing jobs report is clearly not good news.",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/trump-economy-jobs-bls-firing-rcna223206",
-    "timestamp": "2025-08-05T22:23:01Z"
-  },
-  {
-    "title": "Scotland approved new wind farm after Trump's visit, but not exactly off the coast from his golf course",
-    "description": "Scotland approved the construction of 300 wind turbines off the coast of Trump's golf course days after he complained about the nation's wind farms and called them ugly.",
-    "link": "https://www.snopes.com//fact-check/scotland-wind-farm-trump-golf/",
-    "timestamp": "2025-08-05T22:21:00Z"
-  },
-  {
-    "title": "Trump narrows Fed chair candidates to four, excluding Treasury Secretary Bessent",
-    "description": "Trump narrows Fed chair candidates to four, excluding Treasury Secretary Bessent\nWASHINGTON (AP) \u2014 President Donald Trump said Tuesday that he\u2019s whittled down his list of potential Federal Reserve chair candidates to four as he considers a successor to Jerome\u2026",
-    "link": "https://biztoc.com/x/25fad10e4cb0dfb4",
-    "timestamp": "2025-08-05T22:20:47Z"
-  },
-  {
-    "title": "Woody Allen compared Jeffrey Epstein's Manhattan home to 'Castle Dracula' in birthday letter: report",
-    "description": "Woody Allen allegedly compared Jeffrey Epstein's Manhattan townhouse to \"Castle Dracula\" in an undated birthday letter praising the financier's dinner parties.",
-    "link": "https://www.foxnews.com/entertainment/woody-allen-compared-jeffrey-epsteins-manhattan-home-castle-dracula-birthday-letter-report",
-    "timestamp": "2025-08-05T22:20:26Z"
-  },
-  {
-    "title": "Rwanda says it will take migrant deportees from the US",
-    "description": "Rwanda has said it agreed to help the Trump administration in its deportation push, by taking in up to 250 migrants. Under the deal, Rwanda could offer resettlement to those eligible. The government of Rwanda said on Tuesday that it had agreed to receive migr\u2026",
-    "link": "https://www.dw.com/en/rwanda-says-it-will-take-migrant-deportees-from-the-us/a-73541686",
-    "timestamp": "2025-08-05T22:20:00Z"
-  },
-  {
-    "title": "Trump says he wants strong testing to keep transgender athletes out of women\u2019s sports at 2028 Olympics | CNN",
-    "description": "President Donald Trump on Tuesday signed an executive order to establish a White House task force to coordinate the federal government\u2019s preparations for the 2028 Summer Olympic Games in Los Angeles, using the occasion to rail against transgender athletes\u2019 pa\u2026",
-    "link": "https://www.cnn.com/2025/08/05/sport/trump-task-force-la-olympics-spt",
-    "timestamp": "2025-08-05T22:19:07Z"
-  },
-  {
-    "title": "Texas Democrats refuse to go back to the state as they face threats of arrest and expulsion",
-    "description": "Texas Democrats say they're not worried about the bribery allegations, daily fines and arrest warrants being levelled against them as they hunker down in nearby states to delay a vote on a Trump-backed redistricting plan that would bolster Republican power.",
-    "link": "https://www.cbc.ca/radio/asithappens/texas-redistricting-fight-1.7601600",
-    "timestamp": "2025-08-05T22:16:24Z"
   }
 ]
