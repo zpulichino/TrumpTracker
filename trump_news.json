@@ -1,5 +1,65 @@
 [
   {
+    "title": "Trump envoy Witkoff arrives in Moscow ahead of Ukraine ceasefire deadline",
+    "description": "The visit is Witkoff's fifth to Moscow since January.",
+    "link": "https://abcnews.go.com/International/trump-envoy-witkoff-arrives-moscow-ahead-ukraine-ceasefire/story?id=124402204",
+    "timestamp": "2025-08-06T07:13:51Z"
+  },
+  {
+    "title": "Honda Raises Annual Profit Guidance Despite US Tariff Impact",
+    "description": "Honda Motor Co. raised its annual profit forecast even as its quarterly figure took a hit from President Donald Trump\u2019s tariffs on cars and car parts imported to the US.",
+    "link": "https://financialpost.com/pmn/business-pmn/honda-raises-annual-profit-guidance-despite-us-tariff-impact",
+    "timestamp": "2025-08-06T07:11:23Z"
+  },
+  {
+    "title": "India holds rates as expected but flags tariff risks",
+    "description": "India's central bank held key interest rates steady today as expected, saying the economy remains steady, even though economists expect steep US tariffs on Indian exports and subdued inflation to open room for limited further easing.",
+    "link": "https://www.rte.ie/news/business/2025/0806/1527127-india-holds-rates-as-expected-but-flags-tariff-risks/",
+    "timestamp": "2025-08-06T07:09:48Z"
+  },
+  {
+    "title": "US President Donald Trump says Gaza occupation is \u2018up to Israel\u2019",
+    "description": "US President Donald Trump said that an Israeli reoccupation of Gaza would be \u2018up to Israel\u2019.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2025/8/6/us-president-donald-trump-says-gaza-occupation-is-up-to-israel",
+    "timestamp": "2025-08-06T07:09:03Z"
+  },
+  {
+    "title": "Spain shelves plans to buy F-35 fighter jets, El Pais reports",
+    "description": "MADRID (Reuters) -Spain has shelved plans to buy F-35 fighter jets, manufactured by U.S. aerospace giant Lockheed Martin, El Pais newspaper reported on Wednesday, citing unidentified government sources. Read full story",
+    "link": "https://www.thestar.com.my/news/world/2025/08/06/spain-shelves-plans-to-buy-f-35-fighter-jets-el-pais-reports",
+    "timestamp": "2025-08-06T07:09:00Z"
+  },
+  {
+    "title": "Obama-Era Tea Party Controversy Looms Over Investigation Of Current IRS Leaders Who Worked Under Lois Lerner",
+    "description": "Following up on last week's post, IRS Heads Of Large Business And Professional Responsibility Units Placed On Leave Pending Investigation Of Their Conduct Against Republicans: Bloomberg Law, Decade-Old Tea Party Case Looms Over IRS Probe of Career Leaders: In\u2026",
+    "link": "https://taxprof.typepad.com/taxprof_blog/2025/08/obama-era-tea-party-controversy-looms-over-investigation-of-current-irs-leaders-who-worked-under-lois-lerner.html",
+    "timestamp": "2025-08-06T07:05:00Z"
+  },
+  {
+    "title": "Spain shelves plans to buy F-35 fighter jets, El Pais reports",
+    "description": "MADRID (Reuters) -Spain has shelved plans to buy F-35 fighter jets, manufactured by U.S. aerospace giant Lockheed Martin, El Pais newspaper reported on...",
+    "link": "https://finance.yahoo.com/news/spain-shelves-plans-buy-f-070323482.html",
+    "timestamp": "2025-08-06T07:03:23Z"
+  },
+  {
+    "title": "US special envoy arrives in Russia to discuss Ukraine war",
+    "description": "U.S. President Donald Trump's special envoy Steve Witkoff arrived in Moscow on Wednesday to discuss the ongoing Russia-Ukraine war, Russian RT channel reported.",
+    "link": "https://www.hurriyetdailynews.com/us-special-envoy-arrives-in-russia-to-discuss-ukraine-war-212233",
+    "timestamp": "2025-08-06T07:03:22Z"
+  },
+  {
+    "title": "Ukraine updates: Trump envoy Witkoff visits Moscow",
+    "description": "The US envoy's trip comes with just days remaining on President Trump's deadline before additional sanctions will be placed on Russia. It is not known if Steve Witkoff will meet with Vladimir Putin. DW has more.",
+    "link": "https://www.dw.com/en/ukraine-updates-trump-envoy-witkoff-visits-moscow/live-73543091",
+    "timestamp": "2025-08-06T06:54:00Z"
+  },
+  {
+    "title": "Ukraine updates: Putin meets Trump envoy in Moscow",
+    "description": "The US envoy's trip comes with just days remaining on President Trump's deadline before additional sanctions will be placed on Russia. DW has more. Russian President Vladimir Putin has met with Steve Witkoff, US President Donald Trump's special envoy, for tal\u2026",
+    "link": "https://www.dw.com/en/ukraine-updates-putin-meets-trump-envoy-in-moscow/live-73543091",
+    "timestamp": "2025-08-06T06:54:00Z"
+  },
+  {
     "title": "The 8 at 8: Wednesday",
     "description": "Palestinians killed by aid truck, a busy July for Dublin airport, and parents feeling the squeeze ahead of back-to-school.",
     "link": "https://www.thejournal.ie/the-8-at-8-wednesday-53-6783434-Aug2025/",
@@ -390,6 +450,12 @@
     "timestamp": "2025-08-06T04:30:00Z"
   },
   {
+    "title": "Brazil looks to China to ride out Donald Trump\u2019s 50pc tariff",
+    "description": "Brazilian goods imported by the United States will soon carry one of the highest tariffs imposed by US president Donald Trump, but that will not likely derail Latin America's largest economy, due to ample exemptions and stronger trade ties with China.",
+    "link": "https://www.independent.ie/business/world/brazil-looks-to-china-to-ride-out-donald-trumps-50pc-tariff/a2058505719.html",
+    "timestamp": "2025-08-06T04:30:00Z"
+  },
+  {
     "title": "Andriy Yermak: Donald Trump finally sees that strength is only language Vladimir Putin understands",
     "description": "Later this week, the world may be presented with an opportunity to end the war Russian president Vladimir Putin has been waging against Ukraine.",
     "link": "https://www.independent.ie/opinion/comment/andriy-yermak-donald-trump-finally-sees-that-strength-is-only-language-vladimir-putin-understands/a753700839.html",
@@ -399,12 +465,6 @@
     "title": "The Irish Independent\u2019s View: More deaths in Gaza will not deliver peace for Benjamin Netanyahu",
     "description": "Seemingly impervious to the consequences, and unmoved by international outrage, Benjamin Netanyahu is now intent on total conquest of Gaza.",
     "link": "https://www.independent.ie/opinion/editorial/the-irish-independents-view-more-deaths-in-gaza-will-not-deliver-peace-for-benjamin-netanyahu/a1424658208.html",
-    "timestamp": "2025-08-06T04:30:00Z"
-  },
-  {
-    "title": "Brazil looks to China to ride out Donald Trump\u2019s 50pc tariff",
-    "description": "Brazilian goods imported by the United States will soon carry one of the highest tariffs imposed by US president Donald Trump, but that will not likely derail Latin America's largest economy, due to ample exemptions and stronger trade ties with China.",
-    "link": "https://www.independent.ie/business/world/brazil-looks-to-china-to-ride-out-donald-trumps-50pc-tariff/a2058505719.html",
     "timestamp": "2025-08-06T04:30:00Z"
   },
   {
@@ -502,65 +562,5 @@
     "description": "Around ten companies, including National Securities Depository Ltd., Aditya Infotech Ltd., Brigade Hotel Ventures Ltd., have collectively raised over 9000 crores ($1.1 billion) between July 25 and August 1,",
     "link": "https://www.bloomberg.com/news/articles/2025-08-06/india-sees-ipo-surge-ahead-of-key-financial-disclosure-deadline",
     "timestamp": "2025-08-06T04:02:08Z"
-  },
-  {
-    "title": "Burn Notice: Russia Hoax Secrets Found in FBI Burn Bags",
-    "description": "They didn\u2019t just bury the truth. They sealed it in burn bags and locked it away inside FBI headquarters\u2014marked for destruction before detection. But one man asked the right questions, found the right room, and uncovered the evidence befor...",
-    "link": "https://www.americanthinker.com/articles/2025/08/burn_notice_russia_hoax_secrets_found_in_fbi_burn_bags.html",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "The jobs are blowing in the wind",
-    "description": "We are talking BLS again and how jobs are created and then disappear. As I'm sure heard, some 800,000 jobs suddenly disappeared. This is a problem in many ways. First, it could impact an election, when voters believe that an administration is cre...",
-    "link": "https://www.americanthinker.com/blog/2025/08/the_jobs_are_blowing_in_the_wind.html",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "Adam Schiff may be in serious trouble in a case that should be easy to prove",
-    "description": "Throughout Donald Trump\u2019s first term, Sen. Adam Schiff (D-CA), who was then serving in the House of Representatives, was one of the politicians most aggressively devoted to using the Russia Hoax and the impeachment process to destroy Trump&rsqu...",
-    "link": "https://www.americanthinker.com/blog/2025/08/adam_schiff_may_be_in_serious_trouble_in_a_case_that_should_be_easy_to_prove.html",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "US tariffs: Why Christopher Luxon couldn\u2019t lower US tariffs on New Zealand goods \u2013 Richard Prebble",
-    "description": "OPINION: New Zealand faces a 15% US tariff, higher than Australia's 10% rate.",
-    "link": "https://www.nzherald.co.nz/business/us-tariffs-why-luxon-couldnt-lower-us-tariffs-on-nz-goods-richard-prebble/FNQ5EARTZFBTVBDZFCLQA4A3GQ/",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "Can Western Nations Be Saved?",
-    "description": "A spate of massive anti-illegal-immigration\u00a0protests\u00a0has broken out across the United Kingdom.\u00a0\u00a0Indeed, one might say that the kingdom is increasingly\u00a0united\u00a0about one thing: Britain belongs to the British.\u00a0\u00a0Wa...",
-    "link": "https://www.americanthinker.com/articles/2025/08/can_western_nations_be_saved.html",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "A Counterintuitive Perspective on Deportations",
-    "description": "Since Donald Trump has begun the push to deport illegal aliens, we\u2019ve seen stories about families being broken up, and people losing their homes or being deported without having been arrested for crimes other than illegal entry. The stories are...",
-    "link": "https://www.americanthinker.com/articles/2025/08/a_counterintuitive_perspective_on_deportations.html",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "Big Balls lives up to his name",
-    "description": "When Elon Musk was performing his admirable service for President Trump in the DOGE project, leftists sought to doxx and humiliate many of the young tech geniuses who had been chosen by Musk himself to discover waste, fraud, and abuse in government s...",
-    "link": "https://www.americanthinker.com/blog/2025/08/big_balls_lives_up_to_his_name.html",
-    "timestamp": "2025-08-06T04:00:00Z"
-  },
-  {
-    "title": "Sensex rises over 50 pts, Nifty above 24,650 amid investor caution ahead of RBI MPC rate decision",
-    "description": "Indian benchmark indices Sensex and Nifty50 opened flat as investors anticipate the RBI's policy announcement. Expectations are for unchanged rates and a dovish stance due to rising external risks, including proposed U.S. tariffs. Bharti Airtel and Adani Port\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-50-pts-nifty-above-24650-amid-investor-caution-ahead-of-rbi-mpc-rate-decision/articleshow/123132089.cms",
-    "timestamp": "2025-08-06T03:59:53Z"
-  },
-  {
-    "title": "SEC\u2019s crypto pivot has \u2018not been priced in\u2019 \u2014 Bitwise CIO",
-    "description": "Bitwise chief investment officer Matt Hougan thinks the SEC\u2019s pivot toward crypto-friendly policies and its effect on the market is underestimated.",
-    "link": "https://cointelegraph.com/news/sec-crypto-pivot-not-priced-in-bitwise-matt-hougan",
-    "timestamp": "2025-08-06T03:59:12Z"
-  },
-  {
-    "title": "Everyone's noticed that their personal costs are going up across the board, so they're going to believe Elizabeth Warren, not Donald Trump [Obvious]",
-    "description": "Everyone's noticed that their personal costs are going up across the board, so they're going to believe Elizabeth Warren, not Donald Trump",
-    "link": "https://www.fark.com/comments/13766676/Everyones-noticed-that-their-personal-costs-are-going-up-across-board-so-theyre-going-to-believe-Elizabeth-Warren-not-Donald-Trump",
-    "timestamp": "2025-08-06T03:58:36Z"
   }
 ]
