@@ -1,5 +1,53 @@
 [
   {
+    "title": "Nvidia and AMD to pay US 15% of China AI chip sales",
+    "description": "Deal to secure export licenses is an unusual arrangement that may unnerve both US companies and Beijing",
+    "link": "https://www.irishtimes.com/business/2025/08/11/nvidia-and-amd-to-pay-us-15-of-china-ai-chip-sales/",
+    "timestamp": "2025-08-11T06:53:00Z"
+  },
+  {
+    "title": "Indonesia, Peru strike trade agreement as leaders meet",
+    "description": "Indonesia and Peru sealed a trade agreement Monday as their leaders met in Jakarta, with Southeast Asia\u2019s biggest economy looking to make inroads into South American markets. The agreement comes after US President Donald Trump recently imposed a tariff rate o\u2026",
+    "link": "https://www.digitaljournal.com/world/indonesia-peru-strike-trade-agreement-as-leaders-meet/article",
+    "timestamp": "2025-08-11T06:52:32Z"
+  },
+  {
+    "title": "Ukraine Says Struck Big Saratov Oil Refinery",
+    "description": "Ukraine's General Staff said it made a successful drone strike early Sunday on a major refinery in the Saratov region, the latest in a series of attacks this month on Russian oil facilities.",
+    "link": "https://www.rigzone.com/news/wire/ukraine_says_struck_big_saratov_oil_refinery-11-aug-2025-181420-article/",
+    "timestamp": "2025-08-11T06:52:17Z"
+  },
+  {
+    "title": "Commodity Radar: How to trade gold ahead of the Trump-Putin meeting on August 15?",
+    "description": "Gold prices experienced a sharp decline, influenced by global market trends. Traders are securing profits before the anticipated meeting between Donald Trump and Vladimir Putin. A potential resolution to the Russia-Ukraine conflict could further impact gold's\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-how-to-trade-gold-ahead-of-the-trump-putin-meeting-on-august-15/articleshow/123230645.cms",
+    "timestamp": "2025-08-11T06:50:06Z"
+  },
+  {
+    "title": "Pakistan, US Continue Talks for Investments, Trade Deal",
+    "description": "Pakistan and US officials are in talks to finalize finer details of the trade deal that includes investments commitments by Washington, the country\u2019s junior finance minister said on Monday.",
+    "link": "https://financialpost.com/pmn/business-pmn/pakistan-us-continue-talks-for-investments-trade-deal",
+    "timestamp": "2025-08-11T06:47:17Z"
+  },
+  {
+    "title": "Pak Army Chief Asim Munir says will \u2018destroy\u2019 dam if India builds on Indus River; repeats \u2018jugular vein\u2019 remark during his US visit",
+    "description": "Munir told the gathering that the Indus River \u2018is not the Indians\u2019 family property,\u2019 adding that Islamabad has \u2018no shortage of resources to undo the Indian designs to stop the river\u2019",
+    "link": "https://www.thehindubusinessline.com/news/world/pak-army-chief-asim-munir-says-will-destroy-dam-if-india-builds-on-indus-river-repeats-jugular-vein-remark-during-his-us-visit/article69919048.ece",
+    "timestamp": "2025-08-11T06:46:37Z"
+  },
+  {
+    "title": "Migrants returning to Venezuela face debt and harsh living conditions",
+    "description": "Yosbelin P\u00e9rez is starting over with nothing in her name after trying to escape Venezuela's political, social and economic crisis",
+    "link": "https://abcnews.go.com/International/wireStory/migrants-returning-venezuela-face-debt-harsh-living-conditions-124534019",
+    "timestamp": "2025-08-11T06:46:27Z"
+  },
+  {
+    "title": "The Russian Past Of Alaska, Where Trump And Putin Will Meet",
+    "description": "Presidents Donald Trump and Vladimir Putin will hold a high-stakes meeting about the Ukraine war on Friday in Alaska, which the United States bought from Russia more than 150 years ago.",
+    "link": "https://www.ibtimes.com/russian-past-alaska-where-trump-putin-will-meet-3780641",
+    "timestamp": "2025-08-11T06:42:22Z"
+  },
+  {
     "title": "Taiwan's semiconductor firms brace for weaker Q3 amid tariff pressures",
     "description": "As per a report by Focus Taiwan, smartphone IC designer MediaTek Inc. said the rush of orders from clients in the first half of the year, triggered by fears over US tariffs, has left little room for the usual seasonal spike in demand. \"Customers front-loaded \u2026",
     "link": "https://economictimes.indiatimes.com/tech/technology/taiwans-semiconductor-firms-brace-for-weaker-q3-amid-tariff-pressures/articleshow/123230323.cms",
@@ -114,15 +162,15 @@
     "timestamp": "2025-08-11T06:00:00Z"
   },
   {
-    "title": "A Trump-Putin-Zelensky summit will negotiate a \u201cpeace deal\u201d land settlement based on the current front lines",
-    "description": "The world holds its breath as President Donald Trump prepares to meet with Russian President Vladimir Putin in Alaska, with hopes pinned on a breakthrough in the Ukraine conflict. J.D. Vance, the Vice President of the United States, has outlined a stark yet p\u2026",
-    "link": "https://www.naturalnews.com/2025-08-11-trump-putin-zelensky-summit-negotiate-peace-deal.html",
-    "timestamp": "2025-08-11T06:00:00Z"
-  },
-  {
     "title": "Trump\u2019s MARTIAL LAW approach to crime DOES NOT address root causes, may push societal problems elsewhere",
     "description": "In a dramatic turn of events, President Donald Trump is poised to bring martial law to Washington, DC, under the guise of restoring order and beauty to the nation\u2019s capital. The plan calls for hundreds of National Guard troops and FBI agents to flood the stre\u2026",
     "link": "https://www.naturalnews.com/2025-08-11-trumps-martial-law-approach-to-crime.html",
+    "timestamp": "2025-08-11T06:00:00Z"
+  },
+  {
+    "title": "A Trump-Putin-Zelensky summit will negotiate a \u201cpeace deal\u201d land settlement based on the current front lines",
+    "description": "The world holds its breath as President Donald Trump prepares to meet with Russian President Vladimir Putin in Alaska, with hopes pinned on a breakthrough in the Ukraine conflict. J.D. Vance, the Vice President of the United States, has outlined a stark yet p\u2026",
+    "link": "https://www.naturalnews.com/2025-08-11-trump-putin-zelensky-summit-negotiate-peace-deal.html",
     "timestamp": "2025-08-11T06:00:00Z"
   },
   {
@@ -144,15 +192,15 @@
     "timestamp": "2025-08-11T06:00:00Z"
   },
   {
-    "title": "U.S. signals shift in Ukraine funding as Trump-Putin summit looms",
-    "description": "The United States has announced it will no longer fund Ukraine\u2019s war efforts, with Vice President J.D. Vance stating that America is \u201cdone with the funding of the Ukraine war.\u201d The decision comes ahead of a critical summit between President Donald Trump and R\u2026",
-    "link": "https://www.naturalnews.com/2025-08-11-us-halts-ukraine-funding-trump-putin-summit-looms.html",
-    "timestamp": "2025-08-11T06:00:00Z"
-  },
-  {
     "title": "Trump demands RESIGNATION of Intel CEO over ties to companies linked to Chinese military",
     "description": "President Donald Trump called for Intel CEO Lip-Bu Tan to step down immediately, citing his \u201c$200 million+ investments\u201d in Chinese companies linked to the PLA and calling his financial ties \u201chighly conflicted.\u201d Sen. Tom Cotton (R-AR) questioned Intel\u2019s board \u2026",
     "link": "https://www.naturalnews.com/2025-08-11-trump-demands-resignation-intel-ceo-pla-ties.html",
+    "timestamp": "2025-08-11T06:00:00Z"
+  },
+  {
+    "title": "U.S. signals shift in Ukraine funding as Trump-Putin summit looms",
+    "description": "The United States has announced it will no longer fund Ukraine\u2019s war efforts, with Vice President J.D. Vance stating that America is \u201cdone with the funding of the Ukraine war.\u201d The decision comes ahead of a critical summit between President Donald Trump and R\u2026",
+    "link": "https://www.naturalnews.com/2025-08-11-us-halts-ukraine-funding-trump-putin-summit-looms.html",
     "timestamp": "2025-08-11T06:00:00Z"
   },
   {
@@ -456,27 +504,15 @@
     "timestamp": "2025-08-11T04:01:00Z"
   },
   {
-    "title": "Trump Meets Putin in Alaska",
-    "description": "Donald Trump stays true to his line and asserts dominance over the geopolitical chessboard -- symbolically as well as practically. Following the announcement of a trade deal with the EU at his golf resort in Turnberry, Scotland, peace talks in the Uk...",
-    "link": "https://www.americanthinker.com/articles/2025/08/trump_meets_putin_in_alaska.html",
-    "timestamp": "2025-08-11T04:00:00Z"
-  },
-  {
     "title": "Barack Obama and the Predictable Coup",
     "description": "Photo Credit:Image: NASA Goddard Space Flight Center via Flickr, CC BY 2.0 (cropped).\r\n\n \n NASA Goddard Space Flight CenterSome people just can\u2019t believe that Obama could do the things he\u2019s accused of. But for those who know him, it\u2019s undeniable.",
     "link": "https://www.americanthinker.com/articles/2025/08/barack_obama_and_the_predictable_coup.html",
     "timestamp": "2025-08-11T04:00:00Z"
   },
   {
-    "title": "Inside the August Acceleration: How Comey and Company Ignored the Red Flags",
-    "description": "Photo Credit:james comey reading a newspaper headlined bad news with pictures of trump and russia\n \n Chatgpt for American ThinkerAs revelations unfolded through the summer and fall of 2016, top Obama officials, intelligence agencies, and political operatives \u2026",
-    "link": "https://www.americanthinker.com/articles/2025/08/the_august_acceleration_how_comey_and_company_ignored_the_red_flags.html",
-    "timestamp": "2025-08-11T04:00:00Z"
-  },
-  {
-    "title": "Be like Reagan: Walk away from a bad Russian deal",
-    "description": "When President Donald Trump sits down with Vladimir Putin in Alaska this week, he must be ready to do what the Gipper did in Reykjav\u00edk: Walk away if the deal is bad for America.\r\n\r\nAt the Reykjav\u00edk Summit in 1986, President Ronald Reaga...",
-    "link": "https://www.americanthinker.com/blog/2025/08/be_like_reagan_walk_away_from_a_bad_russian_deal.html",
+    "title": "Trump Meets Putin in Alaska",
+    "description": "Donald Trump stays true to his line and asserts dominance over the geopolitical chessboard -- symbolically as well as practically. Following the announcement of a trade deal with the EU at his golf resort in Turnberry, Scotland, peace talks in the Uk...",
+    "link": "https://www.americanthinker.com/articles/2025/08/trump_meets_putin_in_alaska.html",
     "timestamp": "2025-08-11T04:00:00Z"
   },
   {
@@ -486,57 +522,21 @@
     "timestamp": "2025-08-11T04:00:00Z"
   },
   {
+    "title": "Be like Reagan: Walk away from a bad Russian deal",
+    "description": "When President Donald Trump sits down with Vladimir Putin in Alaska this week, he must be ready to do what the Gipper did in Reykjav\u00edk: Walk away if the deal is bad for America.\r\n\r\nAt the Reykjav\u00edk Summit in 1986, President Ronald Reaga...",
+    "link": "https://www.americanthinker.com/blog/2025/08/be_like_reagan_walk_away_from_a_bad_russian_deal.html",
+    "timestamp": "2025-08-11T04:00:00Z"
+  },
+  {
+    "title": "Inside the August Acceleration: How Comey and Company Ignored the Red Flags",
+    "description": "Photo Credit:james comey reading a newspaper headlined bad news with pictures of trump and russia\n \n Chatgpt for American ThinkerAs revelations unfolded through the summer and fall of 2016, top Obama officials, intelligence agencies, and political operatives \u2026",
+    "link": "https://www.americanthinker.com/articles/2025/08/the_august_acceleration_how_comey_and_company_ignored_the_red_flags.html",
+    "timestamp": "2025-08-11T04:00:00Z"
+  },
+  {
     "title": "If Trump Can\u2019t Handcuff the Swamp, This Will Do",
     "description": "The Barack Obama and Hillary Clinton plan to undermine an election is unraveling.\u00a0\u00a0Evidence is being revealed.\u00a0\u00a0Whistleblowers are coming forward.\u00a0\u00a0Bureaucrats are being fired.\u00a0\u00a0Criminal referrals are being mad...",
     "link": "https://www.americanthinker.com/articles/2025/08/if_trump_can_t_handcuff_the_swamp_this_will_do.html",
     "timestamp": "2025-08-11T04:00:00Z"
-  },
-  {
-    "title": "Sensex jumps over 100 pts, Nifty above 24,400; PSU banks rally",
-    "description": "Indian stock markets saw a slight increase at the start of the week. This follows a six-week period of losses. SBI shares rose after strong quarterly results. Voltas stock declined due to lower-than-expected profits. Concerns remain about potential tariffs fr\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-100-pts-nifty-above-24400-psu-bank-stocks-rally/articleshow/123227321.cms",
-    "timestamp": "2025-08-11T03:57:43Z"
-  },
-  {
-    "title": "Trump urges China's Xi to 'quadruple' US soybean orders",
-    "description": "United States President Donald Trump voiced his hope that China \"will quickly quadruple\" its soybean orders from the US as a way of \"substantially reducing\" its trade deficit with ...",
-    "link": "https://biztoc.com/x/d34cadef910ff7e5",
-    "timestamp": "2025-08-11T03:57:42Z"
-  },
-  {
-    "title": "Curtis Sliwa: Trump\u2019s attacks on Mamdani could energize his campaign",
-    "description": "Republican NYC mayoral nominee Curtis Sliwa warns that President Trump's involvement in the NYC mayoral race could help Zohran Mamdani.",
-    "link": "https://www.israelnationalnews.com/news/413067",
-    "timestamp": "2025-08-11T03:54:09Z"
-  },
-  {
-    "title": "Late Night Open Thread: Where\u2019s *Our* Truth & Reconciliation Commission?",
-    "description": "Said it before, will say it again: The worst political blunder of my lifetime was letting Nixon\u2019s CREEPsters scuttle off to think-tanks and other safe havens, rather than pursuing them to the full extent of the law, down to the last lowly Dick Cheney. Gerry F\u2026",
-    "link": "https://balloon-juice.com/2025/08/10/late-night-open-thread-wheres-our-truth-reconciliation-commission/",
-    "timestamp": "2025-08-11T03:50:22Z"
-  },
-  {
-    "title": "Trump orders homeless he passed en route to golf course to leave Washington DC (Robert Mackey/The Guardian)",
-    "description": "Robert Mackey / The Guardian:\nTrump orders homeless he passed en route to golf course to leave Washington DC\u00a0 \u2014\u00a0 President demands unhoused residents leave US capital or face eviction and vowed to use officers to make arrests\u00a0 \u2014\u00a0 In a social media post on Sun\u2026",
-    "link": "https://www.memeorandum.com/250810/p69",
-    "timestamp": "2025-08-11T03:40:00Z"
-  },
-  {
-    "title": "Though largely symbolic, Palestinian recognition is not an empty gesture",
-    "description": "Momentum is building internationally for the recognition of a Palestinian state, with five new countries declaring they are ready to take the step. Though the move is largely seen as symbolic, some say it still carries great diplomatic and moral weight.",
-    "link": "https://www.abc.net.au/news/2025-08-11/recognition-of-palestinian-statehood-gaining-momentum/105594476",
-    "timestamp": "2025-08-11T03:35:06Z"
-  },
-  {
-    "title": "Going To \u2018Be A Big Week\u2019\u2014Bitcoin Suddenly Soars As Crypto Braces For Massive Price Shocks",
-    "description": "Bitcoin is braced for price shocks from bitcoin treasury companies as well as all-important U.S. inflation data that could all but confirm a Federal Reserve interest rate cut in September...",
-    "link": "https://www.forbes.com/sites/digital-assets/2025/08/10/going-to-be-a-big-week-bitcoin-suddenly-soars-as-crypto-braces-for-massive-price-shocks/",
-    "timestamp": "2025-08-11T03:24:23Z"
-  },
-  {
-    "title": "Asian Markets Waver To Start Key Week For Trade, US Data",
-    "description": "Asian markets mostly rose Monday as investors eyed a week dominated by speculation about US inflation data and a prolonged pause for Washington's tariffs on China.",
-    "link": "https://www.ibtimes.com/asian-markets-waver-start-key-week-trade-us-data-3780630",
-    "timestamp": "2025-08-11T03:21:21Z"
   }
 ]
