@@ -1,5 +1,305 @@
 [
   {
+    "title": "US Treasuries Rally as July Inflation Data Boosts Rate-Cut Bets",
+    "description": "All told, the market expects more than 0.6 percentage point of easing by the end of December.  The consumer price index in July was slightly lower than...",
+    "link": "https://finance.yahoo.com/news/us-treasuries-rally-july-inflation-130848003.html",
+    "timestamp": "2025-08-12T13:08:48Z"
+  },
+  {
+    "title": "CPI: Core inflation rises by most in six months, stoking tariff-driven price concerns",
+    "description": "Inflation ticked higher in July as investors stay alert to how much President Trump\u2019s tariffs are starting to affect consumer costs.",
+    "link": "https://finance.yahoo.com/news/cpi-core-inflation-rises-by-most-in-six-months-stoking-tariff-driven-price-concerns-130820737.html",
+    "timestamp": "2025-08-12T13:08:20Z"
+  },
+  {
+    "title": "Russia moves troops to a strategic sector in eastern Ukraine just before the Alaska summit",
+    "description": "\"Instead of appearing ready to end the war, they are deploying all their means to attack,\" reacted the head of the Ukrainian presidential administration, Andriy Yermak\nThe post Russia moves troops to a strategic sector in eastern Ukraine just before the Alask\u2026",
+    "link": "https://en.protothema.gr/2025/08/12/russia-moves-troops-to-a-strategic-sector-in-eastern-ukraine-just-before-the-alaska-summit/",
+    "timestamp": "2025-08-12T13:08:00Z"
+  },
+  {
+    "title": "After national guards deployed in D.C, are New York and Los Angeles next? Trump drops a warning",
+    "description": "Donald Trump has taken an unprecedented step by seizing control of Washington, D.C.\u2019s police force and deploying National Guard troops, citing a \u201cpublic safety emergency.\u201d The president claims the city is facing a crime crisis, comparing it to \u201cworse than Mex\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/after-national-guards-deployed-in-d-c-are-new-york-and-los-angeles-next-trump-drops-a-warning/articleshow/123258438.cms",
+    "timestamp": "2025-08-12T13:03:13Z"
+  },
+  {
+    "title": "Do direct Putin-Trump talks in Alaska signal \u2018symbolic victory for Russia\u2019?",
+    "description": "Mixed feelings in Moscow before Friday's summit as analysts are sceptical that peace in Ukraine will be secured.",
+    "link": "https://www.aljazeera.com/news/2025/8/12/putin-will-take-some-symbolic-steps",
+    "timestamp": "2025-08-12T13:00:55Z"
+  },
+  {
+    "title": "50 Cent Claims Floyd Mayweather Is Broke",
+    "description": "50 Cent has mocked Floyd Mayweather over the alleged state of his finances as he claims he is pawning off items.",
+    "link": "http://hiphopdx.com/news/50-cent-claims-floyd-mayweather-is-broke/",
+    "timestamp": "2025-08-12T13:00:32Z"
+  },
+  {
+    "title": "Are You Considering Chinese AI In Your Strategy?",
+    "description": "AI ecosystems are moving fast, and smart leaders are considering all options when it comes to staying competitive. Amit Joshi is a professor at IMD Business School, and he argues that leaders should be looking to Chinese technology as a possible way to power \u2026",
+    "link": "https://hbr.org/podcast/2025/08/are-you-considering-chinese-ai-in-your-strategy",
+    "timestamp": "2025-08-12T13:00:31Z"
+  },
+  {
+    "title": "Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024",
+    "description": "New report finds church hostility remains high with over 400 incidents in 2024, including vandalism, gun violence and arson attacks across the United States.",
+    "link": "https://www.foxnews.com/media/hostility-against-churches-growing-trend-study-finds-hundreds-attacks-u-s-churches-2024",
+    "timestamp": "2025-08-12T13:00:15Z"
+  },
+  {
+    "title": "Whistleblower Claims Schiff Allowed Leaking Classified Intel Against Trump",
+    "description": "The whistleblower described leaking classified intel as \"unethical and treasonous.\"\nThe post Whistleblower Claims Schiff Allowed Leaking Classified Intel Against Trump first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+    "link": "https://legalinsurrection.com/2025/08/whistleblower-claims-schiff-allowed-leaking-classified-intel-against-trump/",
+    "timestamp": "2025-08-12T13:00:02Z"
+  },
+  {
+    "title": "Trump\u2019s Washington, DC, takeover begins as National Guard troops arrive",
+    "description": "National Guard troops are arriving at their headquarters in Washington D.C.",
+    "link": "https://www.denverpost.com/2025/08/12/washington-dc-trump-troops-arrive/",
+    "timestamp": "2025-08-12T12:59:17Z"
+  },
+  {
+    "title": "The nation\u2019s capital finds itself at the center of a Trump maelstrom as National Guard troops arrive",
+    "description": "National Guard troops are arriving at their headquarters in Washington D.C.",
+    "link": "https://www.bostonherald.com/2025/08/12/washington-dc-trump-troops-arrive/",
+    "timestamp": "2025-08-12T12:59:17Z"
+  },
+  {
+    "title": "Swiss open to Federer or FIFA chief helping on US tariffs",
+    "description": "ZURICH :The Swiss government would not object to tennis legend Roger Federer or FIFA President Gianni Infantino intervening to reduce the country's tariff burden after the U.S. slapped a 39 per cent import duty on its goods, President Karin Keller-Sutter said\u2026",
+    "link": "https://www.channelnewsasia.com/sport/swiss-open-federer-or-fifa-chief-helping-us-tariffs-5290736",
+    "timestamp": "2025-08-12T12:58:19Z"
+  },
+  {
+    "title": "US inflation held steady at 2.7% in July despite Trump\u2019s tariffs",
+    "description": "Figure confounds expectations of acceleration driven by the US president\u2019s duties",
+    "link": "https://www.irishtimes.com/business/2025/08/12/us-inflation-held-steady-at-27-in-july-despite-trumps-tariffs/",
+    "timestamp": "2025-08-12T12:57:55Z"
+  },
+  {
+    "title": "Inflation is staying level\u2014for now\u2014but the next wave of tariff-driven price increases is already in motion: \u2018They are going up, we\u2019ve seen that\u2019",
+    "description": "The data arrives at a highly-charged moment for the Labor Department's Bureau of Labor Statistics, as Trump picked E.J. Antoni to replace Erika McEntarfer.",
+    "link": "https://fortune.com/2025/08/12/us-inflation-flat-tariffs-price-pressures-fed-trump-bls/",
+    "timestamp": "2025-08-12T12:57:20Z"
+  },
+  {
+    "title": "Gold plunges Rs 1,000 amid sell-off in global markets",
+    "description": "Gold prices plunged Rs 1,000 to Rs 1,01,520 per 10 grams in the national capital on Tuesday in line with a sell-off in global markets, according to the All India Sarafa Association.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/gold-plunges-rs-1000-amid-sell-off-in-global-markets/articleshow/123259545.cms",
+    "timestamp": "2025-08-12T12:57:18Z"
+  },
+  {
+    "title": "CBO: Trump's tax law hurts poorest Americans, benefits richest",
+    "description": "A new CBO report reveals how Trump\u2019s tax law benefits the richest Americans while leaving poorer Americans with less",
+    "link": "https://www.wmtw.com/article/trump-tax-law-economic-inequality-cbo-report/65664297",
+    "timestamp": "2025-08-12T12:55:57Z"
+  },
+  {
+    "title": "CBO: Trump's tax law hurts poorest Americans, benefits richest",
+    "description": "A new CBO report reveals how Trump\u2019s tax law benefits the richest Americans while leaving poorer Americans with less",
+    "link": "https://www.wmur.com/article/trump-tax-law-economic-inequality-cbo-report/65664297",
+    "timestamp": "2025-08-12T12:55:31Z"
+  },
+  {
+    "title": "CNN\u2019s Scott Jennings Gets Brutal Receipt Dropped on Him in Clash Over Trump and Cops",
+    "description": "CNN's Scott Jennings got a familiar but brutal receipt dropped on him during a segment on Trump's blockbuster press conference on crime in the capital.\nThe post CNN\u2019s Scott Jennings Gets Brutal Receipt Dropped on Him in Clash Over Trump and Cops first appeare\u2026",
+    "link": "https://www.mediaite.com/media/tv/cnns-scott-jennings-gets-brutal-receipt-dropped-on-him-in-clash-over-trump-and-cops/",
+    "timestamp": "2025-08-12T12:55:20Z"
+  },
+  {
+    "title": "JD Vance, Gateway Pundit Have Dumb-Off In Handjob Of An Interview",
+    "description": "So very, very dumb.",
+    "link": "https://www.wonkette.com/p/jd-vance-gateway-pundit-have-dumb",
+    "timestamp": "2025-08-12T12:55:15Z"
+  },
+  {
+    "title": "With new labor statistics nominee, Trump heads in a radical and hazardous direction",
+    "description": "Donald Trump said E.J. Antoni, his nominee to lead the Bureau of Labor Statistics, is a \u201chighly respected economist.\u201d That's not even close to being true.",
+    "link": "https://www.msnbc.com/rachel-maddow-show/maddowblog/new-labor-statistics-nominee-trump-heads-radical-hazardous-direction-rcna224485",
+    "timestamp": "2025-08-12T12:53:17Z"
+  },
+  {
+    "title": "Circle Stock Pumps 11% on Q2 Report of Major Revenue Leap, New L1 Blockchain",
+    "description": "CRCL eclipsed $179 in pre-market trading Tuesday, after the company reported a 53% increase in year-over-year income.",
+    "link": "https://decrypt.co/334756/circle-stock-pumps-11-on-q2-report-of-major-revenue-leap-new-l1-blockchain",
+    "timestamp": "2025-08-12T12:52:53Z"
+  },
+  {
+    "title": "Ex-NBA Star Sebastian Telfair Pleads With Trump For Pardon Ahead Of Six-Month Prison Sentence",
+    "description": "Sebastian Telfair, a former star player in the NBA, is pleading with President Trump for a pardon just before going to prison to begin a six-month sentence.",
+    "link": "https://dailycaller.com/2025/08/12/sebastian-telfair-trump-pardon-six-month-prison-sentence/",
+    "timestamp": "2025-08-12T12:52:29Z"
+  },
+  {
+    "title": "How will Iran respond to 'Trump route' in South Caucuses?",
+    "description": "A peace plan between Armenia and Azerbaijan brokered by Donald Trump calls for a US-backed transit corridor in the South Caucuses. Tehran's response has been surprisingly mixed.",
+    "link": "https://www.dw.com/en/how-will-iran-respond-to-trump-route-in-south-caucuses/a-73613094",
+    "timestamp": "2025-08-12T12:52:00Z"
+  },
+  {
+    "title": "Tusk says Poland must not let Russia drive wedge between Warsaw and Kyiv",
+    "description": "WARSAW (Reuters) -The Polish prime minister said on Tuesday that Russia was seeking to drive a wedge between Warsaw and Kyiv ahead of peace talks, after an outcry over a spectator waving a Ukrainian nationalist flag at a concert in Poland's national stadium. \u2026",
+    "link": "https://www.thestar.com.my/news/world/2025/08/12/tusk-says-poland-must-not-let-russia-drive-wedge-between-warsaw-and-kyiv",
+    "timestamp": "2025-08-12T12:52:00Z"
+  },
+  {
+    "title": "James Comer Uses Dicey Term To Describe Bill Clinton's Status In Epstein Case",
+    "description": "The GOP House Oversight chairman might want to take back a few words he said about the former president.",
+    "link": "https://www.huffpost.com/entry/james-comer-bill-clinton-prime-suspect-epstein_n_689b0e74e4b0c2e59a93b9a2",
+    "timestamp": "2025-08-12T12:51:14Z"
+  },
+  {
+    "title": "USA Today Columnist Says Trump Has \u2018Caught\u2019 a Case of \u2018Sleepy Joe\u2019 Decline: \u2018The Man\u2019s Brain Has Turned to Oatmeal\u2019",
+    "description": "Huppke took aim at Trump\u2019s digressions at a White House presser to claim that it\u2019s \u201cclear\u201d the president has \u201ccaught Sleepy Joe Biden\u2019s\" cognitive decline.\nThe post USA Today Columnist Says Trump Has \u2018Caught\u2019 a Case of \u2018Sleepy Joe\u2019 Decline: \u2018The Man\u2019s Brain H\u2026",
+    "link": "https://www.mediaite.com/media/news/usa-today-columnist-says-trump-has-caught-a-case-of-sleepy-joe-decline-the-mans-brain-has-turned-to-oatmeal/",
+    "timestamp": "2025-08-12T12:49:33Z"
+  },
+  {
+    "title": "China 'glad to see' Russia, US improve relations",
+    "description": "Chinese Foreign Ministry spokesperson Lin Jian commented on Tuesday on the upcoming meeting between United States President Donald Trump and Russian President Vladimir Putin, stating that China is \"glad to see\" that the US and Russia are keeping in contact an\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4334126/posts",
+    "timestamp": "2025-08-12T12:48:15Z"
+  },
+  {
+    "title": "US inflation unchanged last month, though core prices accelerated",
+    "description": "U.S. inflation remained steady last month, but a key underlying measure climbed to a five-month high, influenced by tariffs on imported goods. While gas and grocery prices cooled, tariffs, particularly those imposed by President Trump, have raised costs on it\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-inflation-unchanged-last-month-though-core-prices-accelerated/articleshow/123259395.cms",
+    "timestamp": "2025-08-12T12:47:33Z"
+  },
+  {
+    "title": "Trump Praises Chuck Todd While Sniping at \u2018FAKE NEWS\u2019 NBC: \u2018You\u2019re a Free Man Now\u2019",
+    "description": "President Trump offered rare praise of former NBC journalist Chuck Todd, thanking him for remarks on the president's impact while ranting about Todd's former network.\nThe post Trump Praises Chuck Todd While Sniping at \u2018FAKE NEWS\u2019 NBC: \u2018You\u2019re a Free Man Now\u2019 \u2026",
+    "link": "https://www.mediaite.com/media/news/trump-praises-chuck-todd-while-sniping-at-fake-news-nbc-youre-a-free-man-now/",
+    "timestamp": "2025-08-12T12:45:53Z"
+  },
+  {
+    "title": "Germany: Chancellor Friedrich Merz marks 100 days in office",
+    "description": "Friedrich Merz has begun curbing irregular immigration and shaping foreign policy, while cracks are appearing in his government.",
+    "link": "https://www.dw.com/en/germany-chancellor-friedrich-merz-marks-100-days-in-office/a-73605680",
+    "timestamp": "2025-08-12T12:45:00Z"
+  },
+  {
+    "title": "Jimmy Kimmel Says \u2018I Did Get Italian Citizenship\u2019 Because Trump\u2019s Presidency \u2018Is as Bad as You Thought It Was Gonna Be. It\u2019s So Much Worse\u2019",
+    "description": "Is Jimmy Kimmel preparing to leave the United States amid Donald Trump\u2019s presidency? Perhaps not given his work commitment to ABC\u2019s \u201cJimmy Kimmel Live,\u201d but he\u2019s certainly giving himself an exit plan if needed by obtaining Italian citizenship this year. Celeb\u2026",
+    "link": "https://variety.com/2025/tv/news/jimmy-kimmel-italian-citizenship-trump-1236487269/",
+    "timestamp": "2025-08-12T12:43:36Z"
+  },
+  {
+    "title": "US consumer prices increase moderately in July; data quality concerns rising",
+    "description": "America saw a slight rise in consumer prices during July. Import tariffs caused increased costs for goods. This led to a notable gain in underlying inflation. The Labor Department released this data. The Federal Reserve is monitoring these inflation measures.\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-consumer-prices-increase-moderately-in-july-data-quality-concerns-rising/articleshow/123259304.cms",
+    "timestamp": "2025-08-12T12:42:18Z"
+  },
+  {
+    "title": "Gold prices retreat from record highs \u2014 is the world\u2019s go-to refuge losing its shine? Here are 5 reasons why investors still hold",
+    "description": "Gold prices slip from record highs as the yellow metal cools to around $3,405 per ounce after topping $3,500 earlier this month. The pullback came after President Donald Trump confirmed imported gold bars will remain tariff-free, easing fears that fueled rece\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/gold-prices-retreat-from-record-highs-is-the-worlds-go-to-refuge-losing-its-shine-here-are-5-reasons-why-investors-still-hold/articleshow/123258916.cms",
+    "timestamp": "2025-08-12T12:41:44Z"
+  },
+  {
+    "title": "Donald Trump's Interest Rates Wish Comes Closer to Reality",
+    "description": "The U.S. Bureau of Labor Statistics has released the latest CPI inflation data for July 2025.",
+    "link": "https://www.newsweek.com/trump-inflation-cpi-bls-interest-rates-fed-2112215",
+    "timestamp": "2025-08-12T12:38:01Z"
+  },
+  {
+    "title": "Inflation Rose Slower Than Expected In July Amid Optimism For Interest Rate Cut",
+    "description": "The inflation report is the first since President Donald Trump fired the Bureau of Labor Statistics chief.",
+    "link": "https://www.forbes.com/sites/tylerroush/2025/08/12/inflation-rose-slower-than-expected-in-july-amid-optimism-for-interest-rate-cut/",
+    "timestamp": "2025-08-12T12:38:01Z"
+  },
+  {
+    "title": "Why is Trump being so generous to China?",
+    "description": "Donald Trump slashed tariffs and softened his stance on China, while imposing steep duties on India and Brazil. What leverage does Beijing hold that others don't?",
+    "link": "https://www.dw.com/en/why-is-trump-being-so-generous-to-china/a-73594826",
+    "timestamp": "2025-08-12T12:36:00Z"
+  },
+  {
+    "title": "'This Isn't Normal!' Secret Pentagon Plan for Troops to Put Down Local 'Unrest' Nationwide",
+    "description": "Internal documents obtained by the Washington Post and reported Tuesday reveal a secret Pentagon plan by the Trump administration to create a standing force of military soldiers that could be rapidly deployed to U.S. cities or communities to quell public prot\u2026",
+    "link": "https://www.commondreams.org/news/pentagon-plan-civil-unrest",
+    "timestamp": "2025-08-12T12:34:59Z"
+  },
+  {
+    "title": "Inflation rises by most in six months, stoking tariff-driven price concerns",
+    "description": "Inflation ticked higher in July as investors stay alert to how much President Trump\u2019s tariffs are starting to affect consumer costs.",
+    "link": "https://finance.yahoo.com/news/inflation-rises-by-most-in-six-months-stoking-tariff-driven-price-concerns-123415069.html",
+    "timestamp": "2025-08-12T12:34:25Z"
+  },
+  {
+    "title": "Russia Reports Ukraine Military War Breakthrough Before Trump-Putin Meeting",
+    "description": "Voice is AI-generated. Inconsistencies may occur.\nRussian forces are pushing hard in Ukraine's Donetsk region in the hope a breakthrough that can provide leverage in the summit between President Donald Trump and Kremlin Leader Vladimir Putin, the Institute fo\u2026",
+    "link": "https://biztoc.com/x/e2fba44f0f9c53b9",
+    "timestamp": "2025-08-12T12:33:04Z"
+  },
+  {
+    "title": "Trump does a 180 on Intel chief following White House meeting",
+    "description": "Chip giant praises 'president's strong leadership,' promises to 'restore this great American company'\nUS President Donald Trump has now reversed his opinion of Intel chief Lip-Bu Tan following their meeting at the White House yesterday, hinting that the two w\u2026",
+    "link": "https://biztoc.com/x/83a8cb5f761e5ff3",
+    "timestamp": "2025-08-12T12:32:57Z"
+  },
+  {
+    "title": "Do Nvidia\u2019s H20 chips pose security risks? China sounds alarm, orders firms to avoid them",
+    "description": "Nvidia H20 chips China: China is encouraging domestic companies to shun Nvidia's H20 chips. This guidance prioritizes local alternatives like Huawei. Concerns over security vulnerabilities are rising. The move impacts Nvidia's market recovery in China. Tensio\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/nvidia-h20-chips-china-do-nvidias-h20-chips-pose-security-risks-china-sounds-alarm-orders-firms-to-avoid-them/articleshow/123258248.cms",
+    "timestamp": "2025-08-12T12:32:52Z"
+  },
+  {
+    "title": "Trump to revive presidential fitness test",
+    "description": "President Trump plans to revive the Presidential Fitness Test, sparking debate among educators about its impact on students' self-esteem and fitness.",
+    "link": "https://www.wishtv.com/news/education/presidential-fitness-test-returns/",
+    "timestamp": "2025-08-12T12:31:31Z"
+  },
+  {
+    "title": "From Shanghai to Coventry: why Jaguar\u2019s critics should take note of NIO\u2019s successes",
+    "description": "Jaguar has taken a drubbing recently. But, DB Kim, former global experience concept design lead at NIO, explains why its brand has the solid foundations he sought to build at the Chinese EV manufacturer. When Donald Trump went after Jaguar\u2019s rebrand last week\u2026",
+    "link": "https://www.thedrum.com/news/2025/08/12/shanghai-coventry-why-jaguar-s-critics-should-take-note-nio-s-successes",
+    "timestamp": "2025-08-12T12:31:00Z"
+  },
+  {
+    "title": "Trump FCC Installs Babysitter At CBS To Ensure The Network Kisses King Donald\u2019s Ass",
+    "description": "With the cowards at CBS/Paramount having\u00a0paid their $16 million bribe, Trump\u2019s FCC was quick to rubber-stamp its approval to the company\u2019s $8 billion merger with Skydance (owned by Trump\u2019s billionaire friends in the Ellison family). Part of that deal involves\u2026",
+    "link": "https://www.techdirt.com/2025/08/12/trump-fcc-installs-babysitter-at-cbs-to-ensure-the-network-kisses-king-donalds-ass/",
+    "timestamp": "2025-08-12T12:31:00Z"
+  },
+  {
+    "title": "Netanyahu\u2019s Lies as Children Die",
+    "description": "Tjeerd Royaards\n\nDistorting the reality of the crisis in Gaza.\nThe post Netanyahu\u2019s Lies as Children Die appeared first on The Nation.",
+    "link": "https://www.thenation.com/article/politics/netanyahus-lies-as-children-die/",
+    "timestamp": "2025-08-12T12:30:40Z"
+  },
+  {
+    "title": "Russia Reports Ukraine Military War Breakthrough Before Trump-Putin Meeting",
+    "description": "Moscow's forces are making gains near Pokrovsk in Ukraine's Donetsk region, according to the Institute for the Study of War.",
+    "link": "https://www.newsweek.com/russia-ukraine-map-isw-2112128",
+    "timestamp": "2025-08-12T12:30:33Z"
+  },
+  {
+    "title": "In China's Factory Heartland, Warehouses Weather Trump Tariffs",
+    "description": "Labourer Shuai Hang went a week without work earlier this year when sky-high US tariffs on Chinese goods overwhelmed the warehouse he works at and slowed the company's US-bound parcels to a trickle.",
+    "link": "https://www.ibtimes.com/chinas-factory-heartland-warehouses-weather-trump-tariffs-3780714",
+    "timestamp": "2025-08-12T12:30:21Z"
+  },
+  {
+    "title": "Trump does a 180 on Intel chief following White House meeting",
+    "description": "Chip giant praises 'president's strong leadership,' promises to 'restore this great American company' US President Donald Trump has now reversed his opinion of Intel chief Lip-Bu Tan following their meeting at the White House yesterday, hinting that the two w\u2026",
+    "link": "https://www.theregister.com/2025/08/12/trump_intel_meeting/",
+    "timestamp": "2025-08-12T12:30:06Z"
+  },
+  {
+    "title": "Trump's earliest supporter announces bid for Alabama Senate seat",
+    "description": "Rep. Barry Moore, R-Ala., touted his conservative bona fides as a member of the House Freedom Caucus and early endorser of President Donald Trump.",
+    "link": "https://www.foxnews.com/politics/trumps-earliest-supporter-announces-bid-alabama-senate-seat",
+    "timestamp": "2025-08-12T12:30:05Z"
+  },
+  {
+    "title": "The new NextGen Acela trains promise faster travel and more seats \u2013 but arrive as US rail faces an uncertain future",
+    "description": "The French-designed, American-manufactured NextGen arrives years late and in a moment when federally sponsored trains are fighting for their lives.",
+    "link": "https://theconversation.com/the-new-nextgen-acela-trains-promise-faster-travel-and-more-seats-but-arrive-as-us-rail-faces-an-uncertain-future-256675",
+    "timestamp": "2025-08-12T12:29:12Z"
+  },
+  {
     "title": "\"Slide Towards Fascism\": Khalil Gibran Muhammad on Racist Roots of Trump D.C. Takeover",
     "description": "After announcing the federal takeover of law enforcement in D.C. in the White House briefing room, President Trump painted a grim picture of the capital \u2014 including \u201croving mobs of wild youth\u201d \u2014 that contrasts with crime figures showing D.C. reached a 30-year\u2026",
     "link": "https://www.democracynow.org/2025/8/12/khalil_gibran_muhammad",
@@ -138,15 +438,15 @@
     "timestamp": "2025-08-12T12:00:00Z"
   },
   {
-    "title": "How God Used Trump To Convince Ch\u00e9 Ahn To Run For Governor",
-    "description": "Right-wing pastor Ch\u00e9 Ahn explains how an invitation to the White House confirmed that he had been instructed by God to run for governor of California.",
-    "link": "https://www.peoplefor.org/rightwingwatch/how-god-used-trump-convince-che-ahn-run-governor",
-    "timestamp": "2025-08-12T12:00:00Z"
-  },
-  {
     "title": "No Matter Who Is President, Don\u2019t Trust Government Data",
     "description": "President Trump caused a stir last Friday after he fired the head of the Bureau of Labor Statistics (BLS) hours after it released a weaker-than-expected jobs report. In a\u00a0post\u00a0on his social media site Truth Social, the president blamed the Biden-appointed BLS\u2026",
     "link": "https://www.activistpost.com/no-matter-who-is-president-dont-trust-government-data/",
+    "timestamp": "2025-08-12T12:00:00Z"
+  },
+  {
+    "title": "How God Used Trump To Convince Ch\u00e9 Ahn To Run For Governor",
+    "description": "Right-wing pastor Ch\u00e9 Ahn explains how an invitation to the White House confirmed that he had been instructed by God to run for governor of California.",
+    "link": "https://www.peoplefor.org/rightwingwatch/how-god-used-trump-convince-che-ahn-run-governor",
     "timestamp": "2025-08-12T12:00:00Z"
   },
   {
@@ -268,287 +568,5 @@
     "description": "News of the day for August 12, 2025",
     "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-august-12-2025-11789232",
     "timestamp": "2025-08-12T11:42:02Z"
-  },
-  {
-    "title": "Trump Talks 'Land Swap' Ahead of Meeting With Putin on Ukraine",
-    "description": "Ahead of his high-stakes summit with Russian President Vladimir Putin in Alaska, President Donald Trump he'll know \"probably in the first two minutes\" whether a deal is within reach to end Russia's brutal war in Ukraine. So far, Ukraine\u2019s President Volodymyr \u2026",
-    "link": "https://www.today.com/video/trump-talks-land-swap-ahead-of-meeting-with-putin-on-ukraine-244768325792",
-    "timestamp": "2025-08-12T11:40:47Z"
-  },
-  {
-    "title": "Trump-Putin: would land swap deal end Ukraine war?",
-    "description": "Zelenskyy suggests he could be ready to make 'painful but acceptable' territorial concessions \u2013 but that still might not be enough for Russia",
-    "link": "https://theweek.com/politics/trump-putin-would-land-swap-deal-end-ukraine-war",
-    "timestamp": "2025-08-12T11:39:38Z"
-  },
-  {
-    "title": "Mother of slain congressional intern praises Trump\u2019s crackdown on crime in DC: \u2018Things will change\u2019",
-    "description": "A grieving mother is commending President Donald Trump for his mission to\u00a0make Washington, D.C. safe again\u00a0after losing her 21-year-old son.",
-    "link": "https://nypost.com/2025/08/12/us-news/mother-of-slain-congressional-intern-praises-trumps-crackdown-on-crime-in-dc-things-will-change/",
-    "timestamp": "2025-08-12T11:39:04Z"
-  },
-  {
-    "title": "Trading platform eToro's CEO highlights retail investor surge as profit beats estimates",
-    "description": "Stock and crypto trading platform eToro's CEO said on Tuesday that retail investors seized opportunities to buy stocks during the April market dip caused by tariffs, after the fintech firm exceeded second-quarter profit estimates.Markets saw sharp swings afte\u2026",
-    "link": "https://www.channelnewsasia.com/business/trading-platform-etoros-ceo-highlights-retail-investor-surge-profit-beats-estimates-5290641",
-    "timestamp": "2025-08-12T11:38:29Z"
-  },
-  {
-    "title": "BRICS tightens alliance, defying Trump's claim group is 'dead'",
-    "description": "The BRICS group of nations has coalesced into a tighter alliance in the face of Washington\u2019s tariff threats, despite US President Donald Trump arguing earlier this year that \u201cBRICS is dead.\u201d\nBrazilian President Luiz In\u00e1cio Lula da Silva yesterday held a call \u2026",
-    "link": "https://biztoc.com/x/03ccf1d6fa762dc8",
-    "timestamp": "2025-08-12T11:37:38Z"
-  },
-  {
-    "title": "Back To School: What Alan Turing Would Teach Kids In The AI Age",
-    "description": "Billions of children are going back to school, but to learn what? Turing taught AI to navigate a human world. Here is what he can teach us about navigating an AI world.",
-    "link": "https://www.forbes.com/sites/pialauritzen/2025/08/12/back-to-school-what-alan-turing-would-teach-kids-in-the-ai-age/",
-    "timestamp": "2025-08-12T11:37:27Z"
-  },
-  {
-    "title": "Jimmy Kimmel secures Italian citizenship as liberal celebrities threaten exodus under Trump",
-    "description": "Comedian Jimmy Kimmel revealed his Italian citizenship amid conversations about Americans seeking alternative citizenship options following Trump's election victory.",
-    "link": "https://www.foxnews.com/media/jimmy-kimmel-secures-italian-citizenship-liberal-celebrities-threaten-exodus-under-trump",
-    "timestamp": "2025-08-12T11:37:02Z"
-  },
-  {
-    "title": "EU leaders urge Trump to defend Europe\u2019s security interests at his upcoming summit with Putin",
-    "description": "European leaders are concerned about being sidelined and fear that Putin might secure favorable concessions.",
-    "link": "https://www.bostonherald.com/2025/08/12/eu-security-interests-trump-putin/",
-    "timestamp": "2025-08-12T11:35:45Z"
-  },
-  {
-    "title": "\u2018The Entire Right Side of His Body Gave Up\u2019: Donald Trump\u2019s Bizarre Press Conference Exit Weeks After Health Scare Fuels Speculation",
-    "description": "President Donald Trump's departure from a recent press conference has ignited a firestorm of speculation about the former president's health, with social media users dissecting",
-    "link": "https://atlantablackstar.com/2025/08/12/the-entire-right-side-of-his-body-gave-up-trumps-odd-press-conference-exit-sparks-wave-of-speculation/",
-    "timestamp": "2025-08-12T11:34:41Z"
-  },
-  {
-    "title": "Trump ushers in an era of shakedown capitalism | CNN Business",
-    "description": "Trump ushers in an era of shakedown capitalism | CNN Businesscnn.com",
-    "link": "https://www.cnn.com/2025/08/12/business/nightcap-trump-trade-capitalism",
-    "timestamp": "2025-08-12T11:34:35Z"
-  },
-  {
-    "title": "Trump Extends China Tariffs Deadline by Another 90 Days",
-    "description": "Just hours before the United States' current tariff truce with China was set to expire, President Donald Trump signed an order extending it by 90 days. That leaves the current 30% import tax in place on most Chinese goods while negotiations between the countr\u2026",
-    "link": "https://www.today.com/video/trump-extends-deadline-on-china-tariffs-another-90-days-244767301540",
-    "timestamp": "2025-08-12T11:33:06Z"
-  },
-  {
-    "title": "Bitcoin On The Brink As Crypto Braces For Fed Price Bombshell",
-    "description": "Traders are braced for the latest U.S. inflation data that could unleash enthusiasm for risk assets if price pressures are seen to be easing...",
-    "link": "https://www.forbes.com/sites/digital-assets/2025/08/12/bitcoin-on-the-brink-as-crypto-braces-for-fed-price-bombshell/",
-    "timestamp": "2025-08-12T11:30:08Z"
-  },
-  {
-    "title": "Trump's big bill is powering his mass deportations. Congress is starting to ask questions",
-    "description": "Included in the Republican Party's big bill of tax breaks and spending cuts is funding to power Trump's deportation agenda. Polling shows Americans' views on the issue are shifting.",
-    "link": "https://richmond.com/news/nation-world/government-politics/article_abf4692e-4650-59b9-97d2-6fcf5d9257b7.html",
-    "timestamp": "2025-08-12T11:30:00Z"
-  },
-  {
-    "title": "\u2018A Guy Who Never Dies\u2019",
-    "description": "On July 26 Donald Trump played a round of golf at his own Turnberry course in Scotland. Over footage of the event from Sky News, we hear a reporter shouting, \u201cMr. Trump, can you escape the Jeffrey Epstein crisis?\u201d At that point in the clip, the volume surges \u2026",
-    "link": "http://www.nybooks.com/online/2025/08/12/a-guy-who-never-dies/",
-    "timestamp": "2025-08-12T11:30:00Z"
-  },
-  {
-    "title": "Trump's big bill is powering his mass deportations. Congress is starting to ask questions",
-    "description": "Included in the Republican Party's big bill of tax breaks and spending cuts is funding to power Trump's deportation agenda. Polling shows Americans' views on the issue are shifting.",
-    "link": "https://roanoke.com/news/nation-world/government-politics/article_e05fe400-54f8-58e6-bfcb-d05be6deb4ba.html",
-    "timestamp": "2025-08-12T11:30:00Z"
-  },
-  {
-    "title": "Teachers Have Become AI Super-Users",
-    "description": "The chatbot takeover of education is just getting started.",
-    "link": "https://www.theatlantic.com/technology/archive/2025/08/ai-takeover-education-chatgpt/683840/",
-    "timestamp": "2025-08-12T11:30:00Z"
-  },
-  {
-    "title": "China Escalates Canada Trade Spat With More Canola Levies",
-    "description": "China will implement more levies on Canadian rapeseed after an anti-dumping probe, escalating a trade spat that\u2019s disrupted crop flows.",
-    "link": "https://financialpost.com/pmn/business-pmn/china-escalates-canada-trade-spat-with-more-canola-levies",
-    "timestamp": "2025-08-12T11:29:53Z"
-  },
-  {
-    "title": "Trump Seizes Control of DC Police, Activates National Guard",
-    "description": "Hundreds of National Guard troops are expected to begin deployment on the streets of Washington, D.C., on orders from President Donald Trump. The rollout is part of the president\u2019s unprecedented push to combat crime but with DC statistics showing violent crim\u2026",
-    "link": "https://www.today.com/video/trump-seizes-control-of-dc-police-activates-national-guard-244768325551",
-    "timestamp": "2025-08-12T11:29:44Z"
-  },
-  {
-    "title": "Trump says Intel CEO has an 'amazing story' days after calling for his resignation",
-    "description": "Less than a week after President Donald Trump called for the resignation of Intel\u2019s CEO, shares of the chipmaker are rising after Trump said he had a \u201cvery interesting\u201d meeting with Lip-Bu Tan",
-    "link": "https://abcnews.go.com/Technology/wireStory/trump-intel-ceo-amazing-story-days-after-calling-124569631",
-    "timestamp": "2025-08-12T11:26:32Z"
-  },
-  {
-    "title": "NFL\u2019s first trans cheerleader Justine Lindsay returning next season",
-    "description": "Trans NFL cheerleader Justine Lindsay will be returning next season.\u00a0 Lindsay made history in June 2022 when she by became the NFL\u2019s first out trans cheerleader, after joining the Carolina Panthers. And, according to reports, she will be back on the touchline\u2026",
-    "link": "https://www.thepinknews.com/2025/08/12/nfls-first-trans-cheerleader-justine-lindsay-returning-next-season/",
-    "timestamp": "2025-08-12T11:25:07Z"
-  },
-  {
-    "title": "Shoplifters with $100k Mercedes Steal Thousands in Clothes (13 minute video)",
-    "description": "Shoplifters with $100k Mercedes Steal Thousands in Clothes Body Cam Watch 869K subscribers 3.4M views 6 months ago On March 23, 2024 in Florida, officers responded to a shoplifting call from Carter's after the suspects had fled the store. The caller stated th\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4334111/posts",
-    "timestamp": "2025-08-12T11:22:45Z"
-  },
-  {
-    "title": "Diddy to Reportedly Publicly Support Trump if Pardoned",
-    "description": "Mark Geragos, a celebrity attorney who is the father of one of the attorneys who represented Sean \u201cDiddy\u201d Combs during his sex trafficking and racketeering trial, says that he believes Diddy would throw his support behind Donald Trump if he received a preside\u2026",
-    "link": "https://mediatakeout.com/diddy-to-reportedly-publicly-support-trump-if-pardoned/",
-    "timestamp": "2025-08-12T11:17:19Z"
-  },
-  {
-    "title": "Joe Scarborough Chides Dem \u2018Friends\u2019 for Publicly Fuming About Trump DC Takeover While Quietly Demanding Crime Crackdown",
-    "description": "Scarborough called out Democrat \u201cfriends\u201d who privately shared their belief that \u201cWashington should have gotten involved years ago\u201d to fix D.C. crime \u201cmess.\"\nThe post Joe Scarborough Chides Dem \u2018Friends\u2019 for Publicly Fuming About Trump DC Takeover While Quiet\u2026",
-    "link": "https://www.mediaite.com/media/tv/joe-scarborough-chides-dem-friends-for-publicly-fuming-about-trump-dc-takeover-while-quietly-demanding-crime-crackdown/",
-    "timestamp": "2025-08-12T11:17:00Z"
-  },
-  {
-    "title": "Trump's D.C. takeover met with confusion and 2 dead in steel factory explosion: Morning Rundown",
-    "description": "Donald Trump said National Guard troops will be deployed to Washington, D.C., and Pam Bondi will \"take command\" of local police.",
-    "link": "https://www.nbcnews.com/news/us-news/trump-dc-takeover-steel-factory-explosion-morning-rundown-rcna224470",
-    "timestamp": "2025-08-12T11:16:15Z"
-  },
-  {
-    "title": "Ex-NBA star Sebastian Telfair pleads for Trump pardon before reporting to jail",
-    "description": "Former NBA star Sebastian Telfair pleaded for a pardon from President Donald Trump as he's set to enter prison for violating the terms of his sentence in a healthcare fraud scandal.",
-    "link": "https://www.foxnews.com/sports/ex-nba-star-sebastian-telfair-pleads-trump-pardon-before-reporting-jail",
-    "timestamp": "2025-08-12T11:16:10Z"
-  },
-  {
-    "title": "When will voters blame Trump for this economy?",
-    "description": "Donald Trump's economic policies face scrutiny as Americans grapple with financial challenges. Polls reveal concerns about inflation and the impact of Trump's economic agenda. Blue-collar voters express worries over tariffs. Republicans risk political setback\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/when-will-voters-blame-trump-for-this-economy/articleshow/123256631.cms",
-    "timestamp": "2025-08-12T11:16:02Z"
-  },
-  {
-    "title": "Donald Trump Dials Down Trade Tension With China",
-    "description": "",
-    "link": "https://biztoc.com/x/a0780f5306d5e9e9",
-    "timestamp": "2025-08-12T11:15:48Z"
-  },
-  {
-    "title": "Iraq begins power restoration after outage",
-    "description": "The disruption came as Baghdad experienced extreme temperatures reaching 47 degrees Celsius.",
-    "link": "https://www.power-technology.com/news/iraq-power-restoration-after-outage/",
-    "timestamp": "2025-08-12T11:15:12Z"
-  },
-  {
-    "title": "Klas: Justice Department\u2019s demands for your data are a suspicious fishing expedition",
-    "description": "With his approval rating sinking lower and lower, and facing the prospect of losing control of the House to Democrats, President Donald Trump is engaged in an unprecedented attempt to manipulate the midterm elections.\nNot only has he demanded that Texas redra\u2026",
-    "link": "https://biztoc.com/x/2f4c4bdb90666474",
-    "timestamp": "2025-08-12T11:15:07Z"
-  },
-  {
-    "title": "Nobody knows what Trump is talking about anymore and no one seems to care [Obvious]",
-    "description": "Nobody knows what Trump is talking about anymore and no one seems to care",
-    "link": "https://www.fark.com/comments/13774198/Nobody-knows-what-Trump-is-talking-about-anymore-no-one-seems-to-care",
-    "timestamp": "2025-08-12T11:15:00Z"
-  },
-  {
-    "title": "Trump's Gross Gold White House Makeover Is Likely Illegal",
-    "description": "President Donald Trump's rush to build a hideously ostentatious ballroom at the White House could run afoul of federal law, as he has yet to seek approval for the project that he claims will begin next month, The Washington Post reported.\nFederal law requires\u2026",
-    "link": "https://crooksandliars.com/2025/08/trumps-gross-gold-white-house-makeover",
-    "timestamp": "2025-08-12T11:14:07Z"
-  },
-  {
-    "title": "Roger Stone Whines About Having To Sell Guitar After Arrest",
-    "description": "Roger Stone, a longtime adviser to Donald Trump, revealed that he had to sell many of his belongings, including an electric guitar, after a 2018 arrest in connection with former special counsel Robert Mueller's probe into Russian election interference.\n\n\nWhil\u2026",
-    "link": "https://crooksandliars.com/2025/08/bible-roger-stone-whines-about-having-sell",
-    "timestamp": "2025-08-12T11:12:28Z"
-  },
-  {
-    "title": "Jimmy Kimmel says second Trump term is \u2018so much worse\u2019 as he reveals he has Italian citizenship",
-    "description": "The talk show host has been a longtime critic of the president",
-    "link": "https://www.the-independent.com/arts-entertainment/tv/news/trump-jimmy-kimmel-italian-citizenship-b2806083.html",
-    "timestamp": "2025-08-12T11:08:42Z"
-  },
-  {
-    "title": "Putin wants a photo op with Trump and a sanctions delay, says EU foreign policy chief",
-    "description": "Russian President Vladimir Putin is not actually interested in negotiating when he meets his U.S. counterpart Donald Trump to discuss the war in Ukraine, European Union foreign policy chief Kaja Kallas told CNBC on Tuesday.\nEuropean officials and Ukrainian Pr\u2026",
-    "link": "https://biztoc.com/x/45c061cede789121",
-    "timestamp": "2025-08-12T11:04:04Z"
-  },
-  {
-    "title": "Nova Scotia Bans Hiking and Other Forest Activities Due to Fire Risks",
-    "description": "Meanwhile, the constitutionality of potential Alberta separation referendum question is set to be evaluated by a judge.\nThe post Nova Scotia Bans Hiking and Other Forest Activities Due to Fire Risks first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-    "link": "https://legalinsurrection.com/2025/08/nova-scotia-bans-hiking-and-other-forest-activities-due-to-fire-risks/",
-    "timestamp": "2025-08-12T11:00:16Z"
-  },
-  {
-    "title": "Black fatherlessness is turning DC into a war zone",
-    "description": "Liberal policies and absent fathers fuel crime and violence in D.C. A cultural change is needed alongside Trump's law enforcement approach.",
-    "link": "https://www.foxnews.com/opinion/black-fatherlessness-turning-dc-war-zone",
-    "timestamp": "2025-08-12T11:00:09Z"
-  },
-  {
-    "title": "will.i.am calls out ICE raids on new single \u2018East L.A.\u2019",
-    "description": "'I love Mexicanas from the border.'\nThe post will.i.am calls out ICE raids on new single \u2018East L.A.\u2019 appeared first on HipHopDX.",
-    "link": "http://hiphopdx.com/news/will-i-am-calls-out-ice-raids-on-new-single-east-l-a/",
-    "timestamp": "2025-08-12T11:00:07Z"
-  },
-  {
-    "title": "Trump Is Right That D.C. Has a Serious Crime Problem",
-    "description": "But he has the wrong answer for how to fix it.",
-    "link": "https://www.theatlantic.com/ideas/archive/2025/08/dc-crime-statistics-trump-police-takeover/683838/",
-    "timestamp": "2025-08-12T11:00:00Z"
-  },
-  {
-    "title": "Survey found 47% of Republicans would still vote for Trump even if implicated in Epstein's crimes",
-    "description": "A July 2025 survey found that 47% of Republican voters said they'd still support U.S. President Donald Trump even if he were officially implicated in the late Jeffrey Epstein's sex crimes.",
-    "link": "https://www.snopes.com//fact-check/republican-voters-trump-epstein/",
-    "timestamp": "2025-08-12T11:00:00Z"
-  },
-  {
-    "title": "Putin wants a photo op with Trump and a sanctions delay, says EU foreign policy chief",
-    "description": "Russian President Vladimir Putin and his U.S. counterpart Donald Trump are set to meet this week to discuss the war in Ukraine.",
-    "link": "https://www.cnbc.com/2025/08/12/putin-wants-a-photo-op-with-trump-says-eu-foreign-policy-chief.html",
-    "timestamp": "2025-08-12T10:59:07Z"
-  },
-  {
-    "title": "Banking heavyweights pull markets down ahead of inflation data",
-    "description": "The Sensex fell 368.49 points (0.46%) to 80,235.59 after an 833-point swing, while the Nifty 50 dropped 97.65 points (0.40%) to 24,487.40, slipping below the 24,500 mark.",
-    "link": "https://www.thehindubusinessline.com/markets/stock-markets/banking-heavyweights-pull-markets-down-ahead-of-inflation-data/article69923834.ece",
-    "timestamp": "2025-08-12T10:55:34Z"
-  },
-  {
-    "title": "Russian forces make sudden thrust in eastern Ukraine ahead of Putin-Trump summit later this week",
-    "description": "Russian forces have made a sudden thrust into eastern Ukraine near the mining town of Dobropillia in a move that may be designed to increase the pressure on Ukraine to cede land as the US and Russian presidents prepare to meet.",
-    "link": "https://www.independent.ie/world-news/russian-forces-make-sudden-thrust-in-eastern-ukraine-ahead-of-putin-trump-summit-later-this-week/a1935776150.html",
-    "timestamp": "2025-08-12T10:55:26Z"
-  },
-  {
-    "title": "MAGA states face devastation as GOP pushes through sneak Obamacare assault: report",
-    "description": "Donald Trump and congressional Republicans have found a sneaky new way to gut Obamacare without the messy optics of an outright repeal\u2014and experts say it could be even more damaging than their failed 2017 effort.Unlike the dramatic showdown that saw John McCa\u2026",
-    "link": "https://www.rawstory.com/obamacare-maga/",
-    "timestamp": "2025-08-12T10:55:04Z"
-  },
-  {
-    "title": "Playbook: Dems' D.C. dilemma (Politico)",
-    "description": "Politico:\nPlaybook: Dems' D.C. dilemma\u00a0 \u2014\u00a0 With help from Eli Okun, Bethany Irvine and Ali Bianco\u00a0 \u2014\u00a0 On today's Playbook Podcast, Adam Wren and Dasha Burns talk about President Donald Trump sending the National Guard to patrol the streets of D.C., the messag\u2026",
-    "link": "https://www.memeorandum.com/250812/p11",
-    "timestamp": "2025-08-12T10:55:00Z"
-  },
-  {
-    "title": "Inside Trump's decision to deploy the National Guard in D.C. (Washington Post)",
-    "description": "Washington Post:\nInside Trump's decision to deploy the National Guard in D.C.\u00a0 \u2014\u00a0 President Donald Trump long had a playbook for such a move and a week ago had new motivation after a former aide was injured in an attempted carjacking\u00a0 \u2014\u00a0 Just now\u00a0 \u2014\u00a0 Even bef\u2026",
-    "link": "https://www.memeorandum.com/250812/p10",
-    "timestamp": "2025-08-12T10:55:00Z"
-  },
-  {
-    "title": "Donald Trump nominates E.J. Antoni as Bureau of Labor Statistics chief",
-    "description": "The announcement comes one day before the BLS is scheduled to release the latest inflation data for July.",
-    "link": "https://www.wmur.com/article/trump-conservative-economist-to-head-agency-that-compiles-jobs-inflation-data/65663123",
-    "timestamp": "2025-08-12T10:54:13Z"
-  },
-  {
-    "title": "China Reacts to Trump, Putin Meeting Without Ukraine, EU",
-    "description": "Voice is AI-generated. Inconsistencies may occur.\nChina said it hopes all those with a stake in the Russia-Ukraine war would play a role in the peace negotiations, as U.S. President Donald Trump prepares for a summit with Russian President Vladimir Putin in A\u2026",
-    "link": "https://biztoc.com/x/450cf57f18ed071e",
-    "timestamp": "2025-08-12T10:53:35Z"
   }
 ]
