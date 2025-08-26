@@ -1,5 +1,47 @@
 [
   {
+    "title": "Trump claims \u2018good conversation\u2019 with Putin since Monday talks \u2014 but no details on Ukraine meeting as Russia keeps striking",
+    "description": "Trump is urging Putin to meet Zelensky face-to-face for the first time since Russia launched its invasion in February 2022.",
+    "link": "https://nypost.com/2025/08/25/us-news/trump-claims-good-conversation-with-putin-since-monday-talks-but-no-details-on-ukraine-meeting-as-russia-keeps-striking/",
+    "timestamp": "2025-08-25T19:40:01Z"
+  },
+  {
+    "title": "National Guard troops begin carrying firearms in Washington",
+    "description": "National Guard troops deployed to patrol the streets of Washington, D.C., have begun carrying firearms in an escalation of President Donald Trump\u2019s federal takeover of the nation\u2019s capital",
+    "link": "https://www.msnbc.com/top-stories/latest/national-guard-washington-dc-weapons-rcna227028",
+    "timestamp": "2025-08-25T19:38:44Z"
+  },
+  {
+    "title": "Minnesota AG Brags About Suing Trump: \u2018And We\u2019ll Sue Him 44 More\u2019 Times!",
+    "description": "Minnesota Attorney General Keith Ellison\u00a0bragged about the number of lawsuits Democratic attorneys general have filed against\u00a0President Donald Trump \u2014 telling a crowd at the Democratic National Committee\u2019s summer meeting that \u201cwe\u2019ll sue him 44 more [times], a\u2026",
+    "link": "https://www.mediaite.com/media/news/minnesota-ag-brags-about-suing-trump-and-well-sue-him-44-more-times/",
+    "timestamp": "2025-08-25T19:38:02Z"
+  },
+  {
+    "title": "Bolton unleashes on Trump Ukraine policy days after FBI raid",
+    "description": "John Bolton blasts Trump's Ukraine negotiations as doomed and contradictory following federal agents' search of his home and office last week.",
+    "link": "https://www.foxnews.com/politics/bolton-unleashes-trump-ukraine-policy-days-after-fbi-raid",
+    "timestamp": "2025-08-25T19:35:57Z"
+  },
+  {
+    "title": "Markets are sure the Fed will cut in September, but the path from there is much murkier",
+    "description": "Friday's booming rally turned into Monday's reality check as investors weighed just how aggressive the Federal Reserve will be.",
+    "link": "https://www.cnbc.com/2025/08/25/markets-are-sure-the-fed-will-cut-in-september-but-the-path-from-there-is-much-murkier.html",
+    "timestamp": "2025-08-25T19:35:29Z"
+  },
+  {
+    "title": "Trump Fires Back At \u2018Stupid\u2019 Critics Of His Multi-Billion Dollar Intel Deal",
+    "description": "The president's comments came after some critics called out the deal as a \u201cstep toward socialism.\u201d",
+    "link": "https://www.huffpost.com/entry/trump-intel-deal-critics_n_68ac8f24e4b0176c52c01d0c",
+    "timestamp": "2025-08-25T19:35:28Z"
+  },
+  {
+    "title": "Federal court says the $464 million fine in Trump's civil fraud case violated the Eighth Amendment",
+    "description": "The decision overturns a staggering \"disgorgement\" order that was based on dubious math.",
+    "link": "https://reason.com/2025/08/25/an-appeals-court-says-the-464-million-fine-in-trumps-civil-fraud-case-violated-the-eighth-amendment/",
+    "timestamp": "2025-08-25T19:34:25Z"
+  },
+  {
     "title": "Trump says National Guard is at the ready but hedges on Chicago plans - NPR",
     "description": "Trump says National Guard is at the ready but hedges on Chicago plansNPR Illinois GOP leaders mostly support Trump's call to send troops to ChicagoAxios Governor JB Pritzker to speak Monday on President Donald Trump's plans for possible Chicago National Guard\u2026",
     "link": "https://slashdot.org/firehose.pl?op=view&amp;id=178859526",
@@ -198,6 +240,12 @@
     "timestamp": "2025-08-25T19:00:03Z"
   },
   {
+    "title": "Zero trust requires workforce buy-in, federal officials say",
+    "description": "The Interior Department\u2019s acting CISO, Louis Eichenbaum, said it\u2019s important for agencies\u2019 workforces to understand \u201cthe concepts of zero trust and how you incorporate it into your daily activities.\u201d",
+    "link": "https://www.nextgov.com/cybersecurity/2025/08/zero-trust-requires-workforce-buy-federal-officials-say/407664/",
+    "timestamp": "2025-08-25T19:00:00Z"
+  },
+  {
     "title": "Woman who spit on former St. Louisan Ed Martin pleads guilty",
     "description": "A former Missouri Republican Party chair and often-unsuccessful political candidate, Martin now is the justice department's U.S. Pardon Attorney.",
     "link": "https://www.stltoday.com/news/local/column/joe-holleman/article_f8d0931a-b0c8-40ea-bf7c-e46a06a88788.html",
@@ -207,12 +255,6 @@
     "title": "A Comprehensive U.S. Approach Could Help End the War in Ukraine",
     "description": "Historically, negotiations to resolve major conflicts have been painstaking and protracted. The conflict in Ukraine needs a dedicated and sustained negotiation process involving professional mediators to effectively engage both sides and establish a framework\u2026",
     "link": "https://www.rand.org/pubs/commentary/2025/08/a-comprehensive-us-approach-could-help-end-the-war.html",
-    "timestamp": "2025-08-25T19:00:00Z"
-  },
-  {
-    "title": "Zero trust requires workforce buy-in, federal officials say",
-    "description": "The Interior Department\u2019s acting CISO, Louis Eichenbaum, said it\u2019s important for agencies\u2019 workforces to understand \u201cthe concepts of zero trust and how you incorporate it into your daily activities.\u201d",
-    "link": "https://www.nextgov.com/cybersecurity/2025/08/zero-trust-requires-workforce-buy-federal-officials-say/407664/",
     "timestamp": "2025-08-25T19:00:00Z"
   },
   {
@@ -378,15 +420,15 @@
     "timestamp": "2025-08-25T18:30:36Z"
   },
   {
-    "title": "Elon Musk Sues Apple and OpenAI, Accuses Companies of Monopolizing Market \u2014 After CEO Claimed Tesla Billionaire Uses X to 'Benefit' Himself",
-    "description": "Two of Elon Musk's companies are suing OpenAI and Apple, accusing them of trying to 'monopolize' the AI market.",
-    "link": "https://radaronline.com/p/elon-musk-sues-apple-openai-monopolizing-market-sam-altman/",
-    "timestamp": "2025-08-25T18:30:00Z"
-  },
-  {
     "title": "Donald Trump says he wants to meet North Korea's Kim Jong Un again - as soon as 'this year'",
     "description": "The two leaders held three meetings during Mr Trump's first term in office and exchanged a number of, what the president called, \"beautiful\" letters.",
     "link": "https://news.sky.com/story/donald-trump-says-he-wants-to-meet-north-koreas-kim-jong-un-again-as-soon-as-this-year-13418373",
+    "timestamp": "2025-08-25T18:30:00Z"
+  },
+  {
+    "title": "Elon Musk Sues Apple and OpenAI, Accuses Companies of Monopolizing Market \u2014 After CEO Claimed Tesla Billionaire Uses X to 'Benefit' Himself",
+    "description": "Two of Elon Musk's companies are suing OpenAI and Apple, accusing them of trying to 'monopolize' the AI market.",
+    "link": "https://radaronline.com/p/elon-musk-sues-apple-openai-monopolizing-market-sam-altman/",
     "timestamp": "2025-08-25T18:30:00Z"
   },
   {
@@ -520,47 +562,5 @@
     "description": "'It is a literal statement that President Trump has freed 700,00 people n this city who were living under the rule of criminals and thugs'",
     "link": "https://www.wnd.com/2025/08/it-will-stun-you-stephen-miller-says-massive/",
     "timestamp": "2025-08-25T18:12:45Z"
-  },
-  {
-    "title": "US Interior Department proposes adding copper to critical minerals list",
-    "description": "The Geological Survey, a branch of the U.S. Department of the Interior, released the draft list in the Federal Register and it will be open for public...",
-    "link": "https://ca.finance.yahoo.com/news/us-interior-department-proposes-adding-181222433.html",
-    "timestamp": "2025-08-25T18:12:22Z"
-  },
-  {
-    "title": "European carriers pause some shipments to U.S. as they prepare for end of 'de minimis' exemption",
-    "description": "Carriers across western Europe are suspending shipments to the U.S. so they can prepare for the end of the de minimis exemption and new requirements.",
-    "link": "https://www.cnbc.com/2025/08/25/de-minimis-exemption-european-carriers-suspend-shipments.html",
-    "timestamp": "2025-08-25T18:11:38Z"
-  },
-  {
-    "title": "Even Justice Antonin Scalia Admitted Flag Burning Was Protected Free Speech",
-    "description": "Trump signed an Executive Order seeking to criminalize flag burning, which the late justice (who was a terror) once said was the kind of speech that \u201dtyrants would seek to suppress.\u201d",
-    "link": "https://www.jezebel.com/trump-bans-burning-the-american-flag-undermining-a-former-scotus-decision",
-    "timestamp": "2025-08-25T18:11:22Z"
-  },
-  {
-    "title": "Donna Brazile dismisses Gavin Newsom's Trump trolling on social media, says 'these are serious times'",
-    "description": "Former DNC chair Donna Brazile shrugged off Gov. Gavin Newsom's mockery of President Trump on Sunday and said these were \"serious time\" that require \"serious people.\"",
-    "link": "https://www.foxnews.com/media/donna-brazile-dismisses-gavin-newsoms-trump-trolling-social-media-says-these-serious-times",
-    "timestamp": "2025-08-25T18:10:50Z"
-  },
-  {
-    "title": "Canadian, US Officials to Meet After Canada Removes Some Tariffs",
-    "description": "Dominic LeBlanc, the Canadian cabinet minister leading US trade talks, will travel to Washington to meet with Commerce Secretary Howard Lutnick just days after Canada pledged to remove most of its retaliatory tariffs on US goods.",
-    "link": "https://financialpost.com/pmn/business-pmn/canadian-us-officials-to-meet-after-canada-removes-some-tariffs",
-    "timestamp": "2025-08-25T18:09:29Z"
-  },
-  {
-    "title": "Canada, U.S. to meet after Canada removes some tariffs",
-    "description": "Dominic LeBlanc will meet with U.S. Commerce Secretary Howard Lutnick after Canada pledged to remove most of its tariffs. Read more.",
-    "link": "https://financialpost.com/news/canadian-us-officials-canada-removes-tariffs",
-    "timestamp": "2025-08-25T18:09:29Z"
-  },
-  {
-    "title": "Netanyahu Expresses Regret over Hospital Strike That Killed 20 in Gaza",
-    "description": "Israeli Prime Minister Benjamin Netanyahu expressed regret Monday over an airstrike at Nasser Hospital in the southern Gaza town of Khan Younis that killed 20 people, including rescuers and several journalists.\nThe post Netanyahu Expresses Regret over Hospita\u2026",
-    "link": "https://www.breitbart.com/middle-east/2025/08/25/netanyahu-expresses-regret-over-hospital-strike-that-killed-20-in-gaza/",
-    "timestamp": "2025-08-25T18:08:12Z"
   }
 ]
