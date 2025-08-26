@@ -1,5 +1,47 @@
 [
   {
+    "title": "Zero trust requires workforce buy-in, federal officials say",
+    "description": "The Interior Department\u2019s acting CISO, Louis Eichenbaum, said it\u2019s important for agencies\u2019 workforces to understand \u201cthe concepts of zero trust and how you incorporate it into your daily activities.\u201d",
+    "link": "https://www.nextgov.com/cybersecurity/2025/08/zero-trust-requires-workforce-buy-federal-officials-say/407664/",
+    "timestamp": "2025-08-25T19:00:00Z"
+  },
+  {
+    "title": "Woman who spit on former St. Louisan Ed Martin pleads guilty",
+    "description": "A former Missouri Republican Party chair and often-unsuccessful political candidate, Martin now is the justice department's U.S. Pardon Attorney.",
+    "link": "https://www.stltoday.com/news/local/column/joe-holleman/article_f8d0931a-b0c8-40ea-bf7c-e46a06a88788.html",
+    "timestamp": "2025-08-25T19:00:00Z"
+  },
+  {
+    "title": "A Comprehensive U.S. Approach Could Help End the War in Ukraine",
+    "description": "Historically, negotiations to resolve major conflicts have been painstaking and protracted. The conflict in Ukraine needs a dedicated and sustained negotiation process involving professional mediators to effectively engage both sides and establish a framework\u2026",
+    "link": "https://www.rand.org/pubs/commentary/2025/08/a-comprehensive-us-approach-could-help-end-the-war.html",
+    "timestamp": "2025-08-25T19:00:00Z"
+  },
+  {
+    "title": "Marc Maron Says Netflix Chose Dave Chappelle Over Trans Community and \u2018That\u2019s How Fascism Works in Business,\u2019 Calls Out Bill Maher\u2019s \u2018Desperate Chasing of Relevance\u2019",
+    "description": "Marc Maron recently appeared on \u201cPod Save America\u201d (via Vulture) and doubled down on his criticisms of Bill Maher. While the \u201cWTF\u201d host acknowledged that he joined Maher on HBO\u2019s \u201cReal Time\u201d three times in the past, he has since turned on Maher in recent year\u2026",
+    "link": "https://variety.com/2025/tv/news/marc-maron-slams-bill-maher-desperate-relevance-1236497660/",
+    "timestamp": "2025-08-25T18:59:44Z"
+  },
+  {
+    "title": "DNC Chair Ken Martin Labels America \u2018Fascist Regime\u2019 During Unhinged Rant",
+    "description": "Democratic National Committee Chairman Ken Martin claimed Monday that the United States faces \u201can insidious force\u201d seeking to create \u201cfascism\u201d in the country.",
+    "link": "https://dailycaller.com/2025/08/25/dnc-chair-ken-martin-labels-america-fascist-regime-during-unhinged-rant/",
+    "timestamp": "2025-08-25T18:56:31Z"
+  },
+  {
+    "title": "Trump hosts South Korea's Lee, discussing North Korea, trade",
+    "description": "Lee hailed Trump as a \"peacemaker,\" with the US president also reminding everyone of his \"very good relationship\" with North Korea's Kim Jong Un. Trade and the US military presence in South Korea were also brought up.",
+    "link": "https://www.dw.com/en/trump-hosts-south-koreas-lee-discussing-north-korea-trade/a-73763812",
+    "timestamp": "2025-08-25T18:56:00Z"
+  },
+  {
+    "title": "'Insane': Trump confuses Gretchen Whitmer with '90s NJ gov in bizarre Oval Office flub",
+    "description": "A confused and rambling President Donald Trump fumbled Monday while trying to remember Gov. Gretchen Whitmer's (D-MI) name in the Oval Office, landing instead on Gov. \"Christy Whitman,\" former governor of New Jersey in the 1990s. The gaffe occurred as Trump w\u2026",
+    "link": "https://www.rawstory.com/whitmer-trump/",
+    "timestamp": "2025-08-25T18:54:38Z"
+  },
+  {
     "title": "Trump threatens new China tariffs over magnets",
     "description": "The US president\u2019s escalation comes despite a 90-day pause on increased tariffs that has already been agreed.",
     "link": "https://www.aljazeera.com/economy/2025/8/25/trump-threatens-new-china-tariffs-over-magnets",
@@ -502,47 +544,5 @@
     "description": "Former Ohio governor and current MSNBC contributor John Kasich got some surprising pushback on the network on Monday afternoon after he backed Donald Trump\u2019s claim that major urban centers in the U.S. are wracked with uncontrollable crime.Following Donald Tru\u2026",
     "link": "https://www.rawstory.com/kasich-trump-crime/",
     "timestamp": "2025-08-25T17:47:11Z"
-  },
-  {
-    "title": "Trump Says Putin\u2019s Dislike of Zelensky Holding Up Meeting",
-    "description": "\"President Donald Trump said he spoke to Vladimir Putin in recent days and that he believed the Russian president\u2019s dislike of Ukraine\u2019s Volodymyr Zelensky is holding up a meeting between the two leaders,\" Bloomberg reports.",
-    "link": "https://politicalwire.com/2025/08/25/trump-says-putins-dislike-of-zelensky-holding-up-meeting/",
-    "timestamp": "2025-08-25T17:45:57Z"
-  },
-  {
-    "title": "Saudi\u2019s Humain to Open Data Centers With US Chips in Early 2026",
-    "description": "Saudi Arabia\u2019s new artificial intelligence company, Humain, has broken ground on its first data centers in the kingdom and plans to have them up and running in early 2026 with the use of semiconductors imported from the US.",
-    "link": "https://www.livemint.com/companies/news/saudis-humain-to-open-data-centers-with-us-chips-in-early-2026-11756143936854.html",
-    "timestamp": "2025-08-25T17:45:36Z"
-  },
-  {
-    "title": "US Backs Ambassador To France In Antisemitism Row",
-    "description": "A diplomatic row between the United States and France escalated on Monday when Washington decided to stand firmly behind its ambassador's criticism of the French response to a rising tide of antisemitism.",
-    "link": "https://www.ibtimes.com/us-backs-ambassador-france-antisemitism-row-3781634",
-    "timestamp": "2025-08-25T17:45:14Z"
-  },
-  {
-    "title": "Trump: 'A Lot of People Are Saying Maybe We'd Like a Dictator' (Ryan Bort/Rolling Stone)",
-    "description": "Ryan Bort / Rolling Stone:\nTrump: 'A Lot of People Are Saying Maybe We'd Like a Dictator'\u00a0 \u2014\u00a0 The president claims he doesn't actually want to be a dictator, but the last seven months tell a different story\u00a0 \u2014\u00a0 Donald Trump has been ruling like an authoritari\u2026",
-    "link": "https://www.memeorandum.com/250825/p81",
-    "timestamp": "2025-08-25T17:45:01Z"
-  },
-  {
-    "title": "Trump Calls for Pentagon Officials to Vote on Renaming the Department of Defense the 'Department of War' (Matthew Holloway/RedState)",
-    "description": "Matthew Holloway / RedState:\nTrump Calls for Pentagon Officials to Vote on Renaming the Department of Defense the \u2018Department of War\u2019\u00a0 \u2014\u00a0 In the Oval Office on Monday morning, President Donald Trump hosted the vice president, Homeland Security Secretary Krist\u2026",
-    "link": "https://www.memeorandum.com/250825/p82",
-    "timestamp": "2025-08-25T17:45:01Z"
-  },
-  {
-    "title": "Trump's Latest Outrage: \u2018A Lot Of People Are Saying Maybe We'd Like A Dictator\u2019",
-    "description": "The president has engaged in authoritarian discourse plenty of times before.",
-    "link": "https://www.huffpost.com/entry/trump-americans-want-dictator_n_68ac8877e4b0176c52c016b1?utm_campaign=yahoo-recirc",
-    "timestamp": "2025-08-25T17:44:51Z"
-  },
-  {
-    "title": "Trump's Latest Outrage: \u2018A Lot Of People Are Saying Maybe We'd Like A Dictator\u2019",
-    "description": "The president has engaged in authoritarian discourse plenty of times before.",
-    "link": "https://www.huffpost.com/entry/trump-americans-want-dictator_n_68ac8877e4b0176c52c016b1",
-    "timestamp": "2025-08-25T17:44:51Z"
   }
 ]
