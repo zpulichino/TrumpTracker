@@ -1,5 +1,77 @@
 [
   {
+    "title": "LIZ PEEK: Trump pranks Democrats into opposing something they've always claimed to support",
+    "description": "Donald Trump is trying to reverse course after Joe Biden. He is threatening to send troops to violence-prone cities and has just signed an executive order to eliminate cashless bail.",
+    "link": "https://www.foxnews.com/opinion/liz-peek-trump-pranks-democrats-opposing-something-theyve-always-claimed-support",
+    "timestamp": "2025-08-26T09:00:11Z"
+  },
+  {
+    "title": "Bankruptcies Are Hitting America's Health Care Giants",
+    "description": "\"There's a lot of wreckage out there along the highway in health care,\" one healthcare expert told Newsweek.",
+    "link": "https://www.newsweek.com/bankruptcies-hitting-american-healthcare-giants-2117925",
+    "timestamp": "2025-08-26T09:00:02Z"
+  },
+  {
+    "title": "The Americans Stealing Palestinian Land",
+    "description": "Carolina Sophia Pedrazzi\n\n\n\nAs the West Bank gets carved up for illegal settlements, US real estate companies are eager to cash in.\r\n\n\r\n\n\nThe post The Americans Stealing Palestinian Land appeared first on The Nation.",
+    "link": "https://www.thenation.com/?post_type=article&p=568056",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "'Maybe they will, maybe they won't': Trump voices doubt over Zelenskyy-Putin talks",
+    "description": "President Donald Trump is signaling fresh doubts about whether Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin will meet anytime soon.",
+    "link": "https://www.nbcnews.com/politics/white-house/trump-voices-doubt-zelenskyy-putin-meeting-ukraine-war-russia-rcna227047",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "Blue States That Sued Kept Most CDC Grants, While Red States Feel Brunt of Trump Clawbacks",
+    "description": "The Trump administration's cuts of public health funds to state and local health departments had vastly uneven effects depending on the political leanings of where someone lives, a new KFF Health News analysis shows.",
+    "link": "https://kffhealthnews.org/news/article/cdc-grant-trump-clawbacks-blue-red-state-comparison/",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "When hospitals and insurers fight, patients get caught in the middle",
+    "description": "About 90,000 people spent months in limbo as central Missouri's major medical provider fought over insurance contracts. These disputes between insurers and hospitals are a recurring problem.",
+    "link": "https://www.npr.org/sections/shots-health-news/2025/08/26/nx-s1-5515408/health-insurance-network-contract-price-legal-patients",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "MAHA loves dietary supplements. But that hasn\u2019t led to gains in Washington \u2014 yet.",
+    "description": "MAHA loves dietary supplements. But that hasn\u2019t yet led to gains for the industry in Washington.",
+    "link": "https://www.nbcnews.com/news/us-news/maha-loves-dietary-supplements-hasnt-led-gains-washington-rcna226973",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "How China Engineered the Next Century",
+    "description": "Rollin Hu\n\n\n\nDan Wang argues that the battle between China and the United States is simply a conflict between engineers and lawyers. The situation is much more complicated than that. \r\n\n\r\n\n\nThe post How China Engineered the Next Century appeared first on The \u2026",
+    "link": "https://www.thenation.com/?post_type=article&p=567204",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "The Chilling Evolution From George W. Bush to Trump 2.0",
+    "description": "Thomas Drake\n\n\n\nThe raids on my home and on John Bolton\u2019s mark inflection points\u2014the weaponization of secrecy as a political strategy and the radical extension of state power to silence critics. \r\n\n\r\n\n\nThe post The Chilling Evolution From George W. Bush to Tr\u2026",
+    "link": "https://www.thenation.com/?post_type=article&p=568020",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "Graham Platner Is the Real Deal",
+    "description": "Aaron Regunberg\n\n\n\nThe Maine oyster farmer embodies the populist energy that Americans have been looking for. He\u2019s the best candidate to defeat Republican Senator Susan Collins.\r\n\n\r\n\n\nThe post Graham Platner Is the Real Deal appeared first on The Nation.",
+    "link": "https://www.thenation.com/?post_type=article&p=568222",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "A DNC Member Is Calling for an Arms Embargo on Israel. Will the Party Leadership Listen?",
+    "description": "Zoya Alam\n\n\n\nAllison Minnerly speaks about her upcoming resolution urging a ceasefire, an arms embargo on Israel, and recognition of Palestine as a state.\r\n\n\r\n\n\nThe post A DNC Member Is Calling for an Arms Embargo on Israel. Will the Party Leadership Listen? \u2026",
+    "link": "https://www.thenation.com/?post_type=article&p=567996",
+    "timestamp": "2025-08-26T09:00:00Z"
+  },
+  {
+    "title": "Clearing debris after a storm is big business. For some communities, it\u2019s also a burden",
+    "description": "How the necessary work of cleaning up can make an even bigger mess.",
+    "link": "https://www.nationalobserver.com/2025/08/26/news/cleaning-debris-after-storm-hurricane-helene",
+    "timestamp": "2025-08-26T08:55:02Z"
+  },
+  {
     "title": "ETtech Explainer: How 50% US tariff could impact India\u2019s tech ecosystem",
     "description": "The Indian IT sector, though not directly targeted by the US tariffs, could be hit by reduced tech spending from US clients facing cost pressures. With slow revenue growth, rising layoffs, and client hesitation, the sector faces growing uncertainty. Tradition\u2026",
     "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-50-us-tariff-could-impact-indias-tech-ecosystem/articleshow/123521487.cms",
@@ -126,15 +198,15 @@
     "timestamp": "2025-08-26T08:00:01Z"
   },
   {
-    "title": "Trump signs executive order that aims to end cashless bail in Washington, D.C., other cities",
-    "description": "U.S. President Donald Trump signed an executive order aiming to end cashless bail in Washington, D.C., and identify other jurisdictions that use cashless bail systems \u2014 and withhold funding from those states.",
-    "link": "https://www.cbc.ca/news/world/donald-trump-cashless-bail-system-1.7617023",
-    "timestamp": "2025-08-26T08:00:00Z"
-  },
-  {
     "title": "Why a Quebec food can maker reshored its supply chain back to Canada from the U.S.",
     "description": "With U.S. tariffs still weighing on Canada's steel and aluminum sectors, a Quebec-based food can manufacturer is expanding its operations \u2014 and bringing the American portion of its supply chain back home.",
     "link": "https://www.cbc.ca/news/business/quebec-food-can-maker-ideal-can-reshoring-supply-chain-1.7617190",
+    "timestamp": "2025-08-26T08:00:00Z"
+  },
+  {
+    "title": "Trump signs executive order that aims to end cashless bail in Washington, D.C., other cities",
+    "description": "U.S. President Donald Trump signed an executive order aiming to end cashless bail in Washington, D.C., and identify other jurisdictions that use cashless bail systems \u2014 and withhold funding from those states.",
+    "link": "https://www.cbc.ca/news/world/donald-trump-cashless-bail-system-1.7617023",
     "timestamp": "2025-08-26T08:00:00Z"
   },
   {
@@ -478,83 +550,5 @@
     "description": "U.S. President Donald Trump moved to fire\u00a0Federal\u00a0Reserve Governor Lisa Cook \"effective immediately\" on Monday, citing allegations of false statements on her mortgage agreements \u2014 as he expanded pressure on the independent central bank.",
     "link": "https://www.hurriyetdailynews.com/trump-moves-to-fire-a-fed-governor-over-mortgage-fraud-claims-212904",
     "timestamp": "2025-08-26T06:16:44Z"
-  },
-  {
-    "title": "Trump moves to fire Fed governor Lisa Cook after mortgage fraud allegation",
-    "description": "Departure of Cook, first Black woman to sit on central bank\u2019s board, would allow US president to put forward a replacement\nDonald Trump has moved to fire the Federal Reserve governor Lisa Cook over allegations she committed mortgage fraud, the latest escalati\u2026",
-    "link": "https://biztoc.com/x/38efce842bbf4d12",
-    "timestamp": "2025-08-26T06:16:17Z"
-  },
-  {
-    "title": "Europe set to open lower as Trump fires Fed Governor Cook",
-    "description": "Major European stock markets traded down in premarket hours on Tuesday as investors digested United States President Donald Trump's announcement that he dismissed Federal Reserve Governor Lisa Cook. T...",
-    "link": "https://biztoc.com/x/69d0778cfb30f472",
-    "timestamp": "2025-08-26T06:16:01Z"
-  },
-  {
-    "title": "US Bids To Trump China In DR Congo Mining Rush",
-    "description": "The United States wants to secure its supply of strategic minerals in conflict-torn Democratic Republic of Congo, hoping to challenge China's near-monopoly on the lucrative sector.",
-    "link": "https://www.ibtimes.com/us-bids-trump-china-dr-congo-mining-rush-3781677",
-    "timestamp": "2025-08-26T06:15:17Z"
-  },
-  {
-    "title": "US Bids To Trump China In DR Congo Mining Rush",
-    "description": "The United States wants to secure its supply of strategic minerals in conflict-torn Democratic Republic of Congo, hoping to challenge China's near-monopoly on the lucrative sector.",
-    "link": "https://www.ibtimes.com.au/us-bids-trump-china-dr-congo-mining-rush-1860257",
-    "timestamp": "2025-08-26T06:15:15Z"
-  },
-  {
-    "title": "Allies, NGOs condemn Israel strike on Gaza hospital",
-    "description": "World powers and NGOs voiced shock at the killing of five journalists among 20 victims reported by\u00a0Gaza's civil defense agency in an Israeli strike on a hospital on Monday in the town of Khan Younis.",
-    "link": "https://www.hurriyetdailynews.com/allies-ngos-condemn-israel-strike-on-gaza-hospital-212902",
-    "timestamp": "2025-08-26T06:10:43Z"
-  },
-  {
-    "title": "US bids to trump China in DR Congo mining rush",
-    "description": "The United States wants to secure its supply of strategic minerals in conflict-torn Democratic Republic of Congo, hoping to challenge China's near-monopoly...",
-    "link": "https://finance.yahoo.com/news/us-bids-trump-china-dr-061023637.html",
-    "timestamp": "2025-08-26T06:10:23Z"
-  },
-  {
-    "title": "Empty offices, lost orders: India's diamond hub stands idle as steep US tariffs loom",
-    "description": "The Surat Diamond Bourse, intended to be a hub, is struggling. Weak Chinese demand and potential US tariffs are hurting India's diamond exports. Orders are declining, and some companies consider moving operations. Many offices remain unused. Workers face unce\u2026",
-    "link": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/empty-offices-lost-orders-indias-diamond-hub-stands-idle-as-steep-us-tariffs-loom/articleshow/123518539.cms",
-    "timestamp": "2025-08-26T06:05:37Z"
-  },
-  {
-    "title": "Trump envoy says officials working 'very, very hard' on ending Russia-Ukraine war",
-    "description": "Amidst stalled peace talks, U.S. envoy Keith Kellogg is working on security guarantees for Ukraine, while high-level visits from Canada, NATO, and Germany signal continued support. Germany and Norway pledged further aid, focusing on long-term assistance and a\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/trump-envoy-says-officials-working-very-very-hard-on-ending-russia-ukraine-war/articleshow/123518514.cms",
-    "timestamp": "2025-08-26T06:05:06Z"
-  },
-  {
-    "title": "From Bailouts to Buy-Ins: Trump\u2019s new economic playbook",
-    "description": "U.S. President Donald Trump has launched an unconventional strategy by converting government grants into equity stakes in private companies. The most recent example is a near-10% stake in Intel, announced on Friday, signaling a sharp shift in Washington\u2019s app\u2026",
-    "link": "https://m.economictimes.com/markets/stocks/news/from-bailouts-to-buy-ins-trumps-new-economic-playbook/trumps-new-corporate-playbook/slideshow/123518752.cms",
-    "timestamp": "2025-08-26T06:03:34Z"
-  },
-  {
-    "title": "Trump Threatens 200% Tariffs On China If Beijing Does Not Export Rare-Earth Magnets To US",
-    "description": "US President Donald Trump on Monday threatened 200% tariffs on China if Beijing does not export rare-earth magnets to the US. \"They have to give us magnets, if they don't give us magnets, then we have to charge them 200% tariffs or something,\" Trump told repo\u2026",
-    "link": "https://www.ndtvprofit.com/business/trump-threatens-200-tariffs-on-china-if-beijing-does-not-export-rare-earth-magnets-to-us",
-    "timestamp": "2025-08-26T06:03:08Z"
-  },
-  {
-    "title": "Orsted Seeks to Calm Investors Ahead of $9.4 Billion Share Sale",
-    "description": "Orsted A/S executives plan to reassure shareholders Tuesday after the Trump administration\u2019s decision to halt one of the company\u2019s two wind-power projects in the US raised questions about the viability of its proposed $9.4 billion stock sale.",
-    "link": "https://financialpost.com/pmn/business-pmn/orsted-seeks-to-calm-investors-ahead-of-9-4-billion-share-sale",
-    "timestamp": "2025-08-26T06:00:18Z"
-  },
-  {
-    "title": "Israel\u00e2\u0080\u0099s \u00e2\u0080\u009cdouble-tap\u00e2\u0080\u009d strike kills five journalists in Gaza hospital attack",
-    "description": "Israel\u2019s deliberate double-tap airstrike on Nasser Hospital in Gaza killed five journalists and 15 others, including medical workers. The attack follows a documented pattern of targeting first responders and reporters, a war crime under the Geneva Conventions\u2026",
-    "link": "https://www.naturalnews.com/2025-08-26-israel-strike-kills-five-journalists-gaza-hospital.html",
-    "timestamp": "2025-08-26T06:00:00Z"
-  },
-  {
-    "title": "Trump demands RELEASE of Colorado election whistleblower Tina Peters, warns of \u201charsh measures\u201d if she isn\u2019t freed",
-    "description": "President Trump has called for the immediate release of Tina Peters, warning of \u201charsh measures\u201d against Colorado if it refuses.\u00a0He labeled Peters a \u201cbrave and innocent Patriot\u201d persecuted for exposing election fraud, accusing Colorado officials of suppressin\u2026",
-    "link": "https://www.naturalnews.com/2025-08-26-trump-demands-release-election-whistleblower-tina-peters.html",
-    "timestamp": "2025-08-26T06:00:00Z"
   }
 ]
