@@ -1,5 +1,29 @@
 [
   {
+    "title": "Morning Bid: Deja vu as France back in crisis",
+    "description": "Markets have decided to nervously look away from the brewing Trump v Fed saga for now, putting the spotlight on the political crisis gripping France that has...",
+    "link": "https://finance.yahoo.com/news/morning-bid-deja-vu-france-043722956.html",
+    "timestamp": "2025-08-27T04:37:22Z"
+  },
+  {
+    "title": "1 in 4 UK adults open to investing in crypto for retirement: Survey",
+    "description": "Around a quarter of surveyed UK adults said they\u2019d add crypto in their retirement portfolio, potentially opening more capital flows into the country\u2019s $5.12 trillion pension market.",
+    "link": "https://cointelegraph.com/news/quarter-uk-open-to-crypto-in-retirement-funds",
+    "timestamp": "2025-08-27T04:36:39Z"
+  },
+  {
+    "title": "Oil holds decline as higher US tariff on India kick in",
+    "description": "Brent was near $67 a barrel after falling more than 2 per cent in the previous session",
+    "link": "https://www.bloomberg.com/news/articles/2025-08-26/latest-oil-market-news-and-analysis-for-august-27",
+    "timestamp": "2025-08-27T04:36:10Z"
+  },
+  {
+    "title": "Commentary: Trump eyes TSMC\u2019s Arizona fab as leverage to lift Intel and \u2018Made in America\u2019 drive",
+    "description": "Since August 11, 2025, when Intel CEO Lip-Bu Tan met with US President Donald Trump at the White House, and following the White House confirmation on August 22 that it would subsidize Intel through the CHIPS and Science Act in exchange for about a 10% equity \u2026",
+    "link": "https://www.digitimes.com/news/a20250826PD224/intel-tsmc-ceo-2025-manufacturing.html",
+    "timestamp": "2025-08-27T04:35:21Z"
+  },
+  {
     "title": "US doubles India tariff to 50% over Russian oil purchases",
     "description": "US tariffs of 50% took effect on many Indian products, doubling an existing duty as President Donald Trump sought to punish India for buying Russian oil.",
     "link": "https://www.rte.ie/news/world/2025/0827/1530345-us-india-tariff/",
@@ -24,21 +48,27 @@
     "timestamp": "2025-08-27T04:32:07Z"
   },
   {
-    "title": "The Irish Independent\u2019s View: World leaders are speaking out against Israel, but where are the actions to support their words?",
-    "description": "The smallest deed is said to be better than the mightiest of intentions. The truth of this is seen every day in the deepening torment of Gaza. The deaths multiply and lives are shattered as the war is stepped up.",
-    "link": "https://www.independent.ie/opinion/editorial/the-irish-independents-view-world-leaders-are-speaking-out-against-israel-but-where-are-the-actions-to-support-their-words/a1228491173.html",
-    "timestamp": "2025-08-27T04:30:00Z"
-  },
-  {
     "title": "Letters: Simply sitting and getting through the Leaving Cert exams is an achievement",
     "description": "Regarding your article \u2018I flushed my Leaving Cert results down the toilet \u2013 entrepreneur Karl Fitzpatrick on his unconventional path to success\u2019 (\u00adAugust 22), I write as someone who has completed three separate Leaving Certs.",
     "link": "https://www.independent.ie/opinion/letters/letters-simply-sitting-and-getting-through-the-leaving-cert-exams-is-an-achievement/a1050804884.html",
     "timestamp": "2025-08-27T04:30:00Z"
   },
   {
+    "title": "The Irish Independent\u2019s View: World leaders are speaking out against Israel, but where are the actions to support their words?",
+    "description": "The smallest deed is said to be better than the mightiest of intentions. The truth of this is seen every day in the deepening torment of Gaza. The deaths multiply and lives are shattered as the war is stepped up.",
+    "link": "https://www.independent.ie/opinion/editorial/the-irish-independents-view-world-leaders-are-speaking-out-against-israel-but-where-are-the-actions-to-support-their-words/a1228491173.html",
+    "timestamp": "2025-08-27T04:30:00Z"
+  },
+  {
     "title": "Peace settlement between Ukraine and Russia \u2018a work in progress\u2019, says US special envoy Keith Kellogg",
     "description": "US president Donald Trump\u2019s special envoy for Ukraine and Russia, Keith Kellogg, said officials are \u201cworking very, very hard\u201d on efforts to end the three-year war between Russia and Ukraine, as a lack of progress fuels doubts about whether a peace settlement \u2026",
     "link": "https://www.independent.ie/world-news/europe/peace-settlement-between-ukraine-and-russia-a-work-in-progress-says-us-special-envoy-keith-kellogg/a1803507355.html",
+    "timestamp": "2025-08-27T04:30:00Z"
+  },
+  {
+    "title": "\u2018Substantial tariffs\u2019 \u2013 how Irish watchdogs could be target of Trump over EU's digital act",
+    "description": "Irish regulators that fine US tech firms could be targeted with visa restrictions, according to reports about US president Donald Trump\u2019s latest trade threats.",
+    "link": "https://www.independent.ie/business/technology/substantial-tariffs-how-irish-watchdogs-could-be-target-of-trump-over-eus-digital-act/a1437370419.html",
     "timestamp": "2025-08-27T04:30:00Z"
   },
   {
@@ -51,12 +81,6 @@
     "title": "Donald Trump\u2019s bid to oust Fed governor Lisa Cook sets scene for legal showdown",
     "description": "Donald Trump has moved to oust Federal Reserve governor Lisa Cook, a dramatic escalation in the American president\u2019s battle for more control over the US central bank that has unnerved investors.",
     "link": "https://www.independent.ie/business/world/donald-trumps-bid-to-oust-fed-governor-lisa-cook-sets-scene-for-legal-showdown/a1832301513.html",
-    "timestamp": "2025-08-27T04:30:00Z"
-  },
-  {
-    "title": "\u2018Substantial tariffs\u2019 \u2013 how Irish watchdogs could be target of Trump over EU's digital act",
-    "description": "Irish regulators that fine US tech firms could be targeted with visa restrictions, according to reports about US president Donald Trump\u2019s latest trade threats.",
-    "link": "https://www.independent.ie/business/technology/substantial-tariffs-how-irish-watchdogs-could-be-target-of-trump-over-eus-digital-act/a1437370419.html",
     "timestamp": "2025-08-27T04:30:00Z"
   },
   {
@@ -532,35 +556,5 @@
     "description": "The prosecution of Milwaukee County Circuit Judge Hannah Dugan has highlighted the push by President Donald Trump\u2019s administration to confront state and local authorities who resist his sweeping immigration crackdown.",
     "link": "https://nypost.com/2025/08/26/us-news/wisconsin-judge-accused-of-helping-man-dodge-ice-arrest-loses-bid-to-drop-charges/",
     "timestamp": "2025-08-27T02:18:27Z"
-  },
-  {
-    "title": "Texas election map for 2026 is racially biased, voting-rights advocates say in lawsuit",
-    "description": "Voting-rights advocates are suing to overturn all of the redistricting plans drawn by Texas Republicans meant to favor Republicans in 2026 midterm elections, saying the map weakens the electoral influence of Black voters",
-    "link": "https://abcnews.go.com/Politics/wireStory/texas-election-map-2026-racially-biased-voting-rights-125004238",
-    "timestamp": "2025-08-27T02:14:33Z"
-  },
-  {
-    "title": "\"We're going to get along,\" says Trump, allowing 600,000 Chinese students in US amid ongoing trade talks with Beijing",
-    "description": "President Trump announced the continuation of allowing 600,000 Chinese students to study in the U.S., emphasizing the importance of maintaining ties with China amidst ongoing trade negotiations. He also signed an executive order extending the suspension of ad\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/were-going-to-get-along-says-trump-allowing-600000-chinese-students-in-us-amid-ongoing-trade-talks-with-beijing/articleshow/123536145.cms",
-    "timestamp": "2025-08-27T02:07:16Z"
-  },
-  {
-    "title": "\u2018When You Market Test In Brooklyn, You Lose In Alabama\u2019: Charlie Kirk Tells How Elites Botched Cracker Barrel Logo",
-    "description": "Charlie Kirk said on Fox News Tuesday that Cracker Barrel\u2019s failed logo rebrand exposed how out-of-touch elites alienate their base customers.",
-    "link": "https://dailycaller.com/2025/08/26/charlie-kirk-cracker-barrel-botched-logo/",
-    "timestamp": "2025-08-27T02:07:12Z"
-  },
-  {
-    "title": "Maggie Haberman Calls Marathon Cabinet Meeting \u2018An Endurance Test of Who Could Praise Trump More\u2019",
-    "description": "CNN's Maggie Haberman offered a blunt assessment of Tuesday's meeting at the White House, where cabinet secretaries tried to outdo one another in their praise of President Donald Trump.\nThe post Maggie Haberman Calls Marathon Cabinet Meeting \u2018An Endurance Tes\u2026",
-    "link": "https://www.mediaite.com/media/tv/maggie-haberman-calls-marathon-cabinet-meeting-an-endurance-test-of-who-could-praise-trump-more/",
-    "timestamp": "2025-08-27T02:06:04Z"
-  },
-  {
-    "title": "Republican Mike Collins caught on hot-mic saying Trump is 'in' the Epstein files (Samantha-Jo Roth/Washington Examiner)",
-    "description": "Samantha-Jo Roth / Washington Examiner:\nRepublican Mike Collins caught on hot-mic saying Trump is \u2018in\u2019 the Epstein files\u00a0 \u2014\u00a0 Georgia Senate candidate and Rep. Mike Collins (R-GA), pressed by a voter in a local county GOP meeting recording, said he believes Pr\u2026",
-    "link": "https://www.memeorandum.com/250826/p163",
-    "timestamp": "2025-08-27T02:05:00Z"
   }
 ]
