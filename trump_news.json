@@ -1,5 +1,77 @@
 [
   {
+    "title": "Explainer: US GDP data is now on blockchain - breaking down the Trump administration\u2019s crypto shift",
+    "description": "The US Commerce Department has started publishing GDP data on public blockchains like Bitcoin and Ethereum, marking the government's endorsement of the technology. This initiative, spearheaded by Commerce Secretary Howard Lutnick and supported by President Tr\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/explainer-us-gdp-data-is-now-on-blockchain-breaking-down-the-trump-administrations-crypto-shift/articleshow/123567684.cms",
+    "timestamp": "2025-08-28T16:57:50Z"
+  },
+  {
+    "title": "Truck drivers are questioning the Trump administration's English mandate",
+    "description": "Some have praised the rules, others are concerned they could lead to profiling",
+    "link": "https://theweek.com/politics/truck-drivers-trump-english-mandate",
+    "timestamp": "2025-08-28T16:57:44Z"
+  },
+  {
+    "title": "Vance rolls into another battleground state as Trump's 'traveling salesman' to promote key proposal",
+    "description": "JD Vance will continue his battleground state tour in Wisconsin on Thursday, promoting GOP tax cuts bill while Trump shifts messaging from 'Big Beautiful Bill' to worker-focused branding.",
+    "link": "https://www.foxnews.com/politics/vance-rolls-into-another-battleground-state-trumps-traveling-salesman-promote-key-proposal",
+    "timestamp": "2025-08-28T16:57:19Z"
+  },
+  {
+    "title": "Alligator Alcatraz Immigrant Detention Camp in Everglades May Be Emptied",
+    "description": "The detention camp in the Everglades known as Alligator Alcatraz is being emptied, just two months after Florida Governor Ron DeSantis spent hundreds of millions of dollars to build it to help President Donald Trump\u2019s plan to deport millions of migrants.",
+    "link": "https://www.livemint.com/companies/news/alligator-alcatraz-immigrant-detention-camp-in-everglades-may-be-emptied-11756400157748.html",
+    "timestamp": "2025-08-28T16:55:57Z"
+  },
+  {
+    "title": "Judge in Lisa Cook case sets Friday hearing on Trump effort to fire Fed governor",
+    "description": "Key Points * Federal Reserve Board Governor Lisa Cook sued to challenge her removal by President Donald Trump. * Trump said Monday that he was firing Cook because of allegations that she committed mortgage fraud. * Critics say that the move undermines the ind\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4337261/posts",
+    "timestamp": "2025-08-28T16:55:34Z"
+  },
+  {
+    "title": "The Minneapolis Murders Accelerated Our Sense of Powerlessness",
+    "description": "Joan Walsh\n\n\n\nThe shooting, which has so far left two children dead and 14 hospitalized, adds to the sense of terror that the Trump regime is spreading.\r\n\n\r\n\n\nThe post The Minneapolis Murders Accelerated Our Sense of Powerlessness appeared first on The Nation.",
+    "link": "https://www.thenation.com/article/society/minneapolis-murders-shooting-catholic-church/",
+    "timestamp": "2025-08-28T16:54:48Z"
+  },
+  {
+    "title": "RFK Jr. Offers Bonkers Explanation for School Shootings",
+    "description": "Health Secretary Robert F. Kennedy Jr has suggested that antidepressants and other medical drugs were driving transgender people to embark on mass shootings,...",
+    "link": "https://www.thedailybeast.com/rfk-jr-offers-bonkers-explanation-for-school-shootings/",
+    "timestamp": "2025-08-28T16:54:12Z"
+  },
+  {
+    "title": "PYTH goes parabolic as Trump admin taps blockchain oracles for data verification",
+    "description": "The PYTH token rallied to a $1 billion  market cap after the US Commerce Department selected Pyth Network and Chainlink to help verify and distribute official economic data onchain.",
+    "link": "https://cointelegraph.com/news/pyth-network-token-surges-us-commerce-onchain-data",
+    "timestamp": "2025-08-28T16:53:36Z"
+  },
+  {
+    "title": "Trump touts \u2018comprehensive\u2019 crime bill in Congress that doesn\u2019t appear to exist",
+    "description": "Donald Trump arrives with Speaker of the House Mike Johnson for a House Republican meeting at the U.S. Capitol on May 20, 2025 in Washington, D.C.",
+    "link": "https://biztoc.com/x/1f3b93a961d58f3d",
+    "timestamp": "2025-08-28T16:53:16Z"
+  },
+  {
+    "title": "White House says it fired transportation regulator in latest move to reshape Trump's government",
+    "description": "Robert Primus, who has served on the independent Surface Transportation Board, said he would explore his legal options if prevented from carrying out his duties. ============================================================== WASHINGTON \u2014 The White House said \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4337260/posts",
+    "timestamp": "2025-08-28T16:52:57Z"
+  },
+  {
+    "title": "EU proposes scrapping tariffs on US industrial goods",
+    "description": "The European Commission has proposed removing tariffs on imported US industrial goods, part of a trade agreement with the United States that should result in retroactive cuts to US tariffs on European cars.",
+    "link": "https://www.rte.ie/news/business/2025/0828/1530681-eu-proposes-scrapping-tariffs-on-us-industrial-goods/",
+    "timestamp": "2025-08-28T16:52:53Z"
+  },
+  {
+    "title": "\u2018He Is A Coward\u2019: David Hogg Attempts To Sound Like Tough Guy As He Attacks Trump Over Catholic School Shooting",
+    "description": "Anti-Second Amendment activist David Hogg claimed President Donald Trump was \u201ca coward\u201d Thursday on CNN, saying he should push for gun control measures.",
+    "link": "https://dailycaller.com/2025/08/28/david-hogg-attacks-trump-catholic-school-shooting/",
+    "timestamp": "2025-08-28T16:51:32Z"
+  },
+  {
     "title": "Minneapolis mayor condemns Republicans blaming trans issues for Annunciation School shooting",
     "description": "Those using the shooting to villainize trans people have \"lost their sense of common humanity,\" says Jacob Frey.",
     "link": "https://www.salon.com/2025/08/28/minneapolis-mayor-condemns-republicans-blaming-trans-issues-for-annunciation-school-shooting/",
@@ -132,15 +204,15 @@
     "timestamp": "2025-08-28T16:38:07Z"
   },
   {
-    "title": "Intel received the $5.7 billion under Trump investment deal on Wednesday night, CFO says",
-    "description": "Intel received the $5.7 billion in cash on Wednesday night as part of the deal U.S. President Donald Trump negotiated for a 10 per cent stake in the struggling chipmaker, finance chief David Zinsner said at an investor conference on Thursday.The stake in Inte\u2026",
-    "link": "https://www.channelnewsasia.com/business/intel-received-57-billion-under-trump-investment-deal-wednesday-night-cfo-says-5320686",
-    "timestamp": "2025-08-28T16:38:07Z"
-  },
-  {
     "title": "Intel says it received US grant; government says it is still working on deal",
     "description": "Intel received the $5.7 billion in cash on Wednesday night as part of the deal U.S. President Donald Trump negotiated for a 10 per cent stake in the struggling chipmaker, finance chief David Zinsner said at an investor conference on Thursday.The stake in Inte\u2026",
     "link": "https://www.channelnewsasia.com/business/intel-says-it-received-us-grant-government-says-it-still-working-deal-5320686",
+    "timestamp": "2025-08-28T16:38:07Z"
+  },
+  {
+    "title": "Intel received the $5.7 billion under Trump investment deal on Wednesday night, CFO says",
+    "description": "Intel received the $5.7 billion in cash on Wednesday night as part of the deal U.S. President Donald Trump negotiated for a 10 per cent stake in the struggling chipmaker, finance chief David Zinsner said at an investor conference on Thursday.The stake in Inte\u2026",
+    "link": "https://www.channelnewsasia.com/business/intel-received-57-billion-under-trump-investment-deal-wednesday-night-cfo-says-5320686",
     "timestamp": "2025-08-28T16:38:07Z"
   },
   {
@@ -150,15 +222,15 @@
     "timestamp": "2025-08-28T16:38:02Z"
   },
   {
-    "title": "Small parcels in limbo as Trump moves to end US tariff exemption",
-    "description": "An approaching US deadline to end tariff exemptions on small parcels has tripped up global deliveries to the world\u2019s biggest economy, with businesses halting shipments to American consumers and mulling price hikes. Come Friday, US President Donald Trump\u2019s adm\u2026",
-    "link": "https://www.digitaljournal.com/world/small-parcels-in-limbo-as-trump-moves-to-end-us-tariff-exemption/article",
-    "timestamp": "2025-08-28T16:37:20Z"
-  },
-  {
     "title": "Senate GOP Weighs Rule Change to Sidestep Dems\u2019 Stalling on Trump Nominees",
     "description": "Facing unprecedented delays from Democrats on confirming President Donald Trump\u2019s executive and judicial nominees, Senate Republican leaders want to change the rules to expedite the... Read More\nThe post Senate GOP Weighs Rule Change to Sidestep Dems\u2019 Stallin\u2026",
     "link": "https://www.dailysignal.com/2025/08/28/senate-gop-weighs-rule-change-to-sidestep-dems-stalling-on-trump-nominees/",
+    "timestamp": "2025-08-28T16:37:20Z"
+  },
+  {
+    "title": "Small parcels in limbo as Trump moves to end US tariff exemption",
+    "description": "An approaching US deadline to end tariff exemptions on small parcels has tripped up global deliveries to the world\u2019s biggest economy, with businesses halting shipments to American consumers and mulling price hikes. Come Friday, US President Donald Trump\u2019s adm\u2026",
+    "link": "https://www.digitaljournal.com/world/small-parcels-in-limbo-as-trump-moves-to-end-us-tariff-exemption/article",
     "timestamp": "2025-08-28T16:37:20Z"
   },
   {
@@ -508,71 +580,5 @@
     "description": "A Sag Harbor spa. An East Hampton market. Workers at the most exclusive oases on Long Island face the consequences of a nationwide deportation effort as their busiest season winds down.",
     "link": "https://www.vanityfair.com/news/story/hamptons-immigrant-workforce-worries-about-ice-crackdowns",
     "timestamp": "2025-08-28T15:56:58Z"
-  },
-  {
-    "title": "FBI Warns Americans of Chinese Hacking Campaign: What To Know",
-    "description": "The revelation of a major security breach comes at a time of geopolitical tensions between Beijing and Washington, including a trade war.",
-    "link": "https://www.newsweek.com/chinese-hacking-campaign-fbi-america-2120749",
-    "timestamp": "2025-08-28T15:56:33Z"
-  },
-  {
-    "title": "DC Will Convict Praying Pro-Lifers But Not Activists Who Assault Immigration Officials",
-    "description": "A kinder, gentler judicial system has emerged again in Washington, D.C., now that leftists are facing criminal charges over President Donald Trump\u2019s move to curb crime in the city. The same system that put Paulette Harlow, a frail 77-year-old grandmother, in \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4337254/posts",
-    "timestamp": "2025-08-28T15:56:03Z"
-  },
-  {
-    "title": "New Catawba College-YouGov Poll shows Trump disapproval growing in North Carolina",
-    "description": "President faces majority disapproval, while Governor Stein and former Governor Cooper remain popular; Senate hopeful Whatley less familiar to many.",
-    "link": "https://www.ncspin.com/new-catawba-college-yougov-poll-shows-trump-disapproval-growing-in-north-carolina",
-    "timestamp": "2025-08-28T15:54:36Z"
-  },
-  {
-    "title": "Europe powers move to reimpose UN sanctions on Iran over nuclear drive",
-    "description": "Iranian Foreign Minister Araghchi called on the three countries to \"appropriately correct this wrong decision\u00a0in the coming days\"",
-    "link": "https://www.euractiv.com/section/eet/news/europe-powers-move-to-reimpose-un-sanctions-on-iran-over-nuclear-drive/",
-    "timestamp": "2025-08-28T15:53:55Z"
-  },
-  {
-    "title": "Tom Homan Tears Into Gavin Newsom For Lacking \u2018Integrity\u2019 To Thank Trump For Cleaning Up His Mess",
-    "description": "Border czar Tom Homan eviscerated Democratic California Gov. Gavin Newsom for lacking the \"integrity\" to support ICE efforts to keep his state safe.",
-    "link": "https://dailycaller.com/2025/08/28/tom-homan-gavin-newsom-trump-ice-illegal-immigration/",
-    "timestamp": "2025-08-28T15:53:55Z"
-  },
-  {
-    "title": "Brussels proposes cut tariffs on US industrial, agricultural products",
-    "description": "The move is necessary before Washington follows through on its promise to reduce its tariffs on EU cars",
-    "link": "https://www.euractiv.com/section/economy-jobs/news/brussels-proposes-cut-tariffs-on-us-industrial-agricultural-products/",
-    "timestamp": "2025-08-28T15:53:30Z"
-  },
-  {
-    "title": "US CDC boss refuses to quit, defying Trump's White House",
-    "description": "The White House says Susan Monarez, who was appointed to lead the Centers for Disease Control less than a month ago, is not \"aligned\" with Donald Trump's agenda.",
-    "link": "https://www.abc.net.au/news/2025-08-29/cdc-chief-susan-monarez-defies-trump-/105710358",
-    "timestamp": "2025-08-28T15:52:37Z"
-  },
-  {
-    "title": "White House names new US health boss after firing over MAHA policies",
-    "description": "The White House says Susan Monarez, who was appointed to lead the Centers for Disease Control less than a month ago, is not \"aligned\" with Donald Trump's agenda.",
-    "link": "https://www.abc.net.au/news/2025-08-29/cdc-chief-susan-monarez-replacement-named/105710358",
-    "timestamp": "2025-08-28T15:52:37Z"
-  },
-  {
-    "title": "Lying, cheating, and stealing",
-    "description": "The GOP reveals its game plan to defeat Cooper in North Carolina.",
-    "link": "https://www.ncspin.com/lying-cheating-and-stealing",
-    "timestamp": "2025-08-28T15:49:22Z"
-  },
-  {
-    "title": "La solidaridad del Sur Global",
-    "description": "Project Syndicate - The World\u2019s Opinion Page",
-    "link": "https://www.project-syndicate.org/commentary/global-south-must-work-together-to-secure-economic-development-by-nurul-izzah-anwar-2025-08/spanish",
-    "timestamp": "2025-08-28T15:49:14Z"
-  },
-  {
-    "title": "The Case for Global South Solidarity",
-    "description": "Bangladesh\u2019s youth uprising, which took place one year ago, exposed the fragility of a political system where stability is pursued through top-down control and maintained by fear. True prosperity requires Global South countries to pursue inclusive development\u2026",
-    "link": "https://www.project-syndicate.org/commentary/global-south-must-work-together-to-secure-economic-development-by-nurul-izzah-anwar-2025-08",
-    "timestamp": "2025-08-28T15:49:14Z"
   }
 ]
