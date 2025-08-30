@@ -1,5 +1,23 @@
 [
   {
+    "title": "Freedom of Speech and the American Flag\u2013The Week in Your Words",
+    "description": "Newsweek is back to highlight your comments\u2013this week looking at the fallout from President Trump's executive order on flag burning.",
+    "link": "https://www.newsweek.com/week-your-words-flag-burning-2121377",
+    "timestamp": "2025-08-29T11:35:42Z"
+  },
+  {
+    "title": "How Much Crude Oil is in the USA Strategic Petroleum Reserve?",
+    "description": "Just how much crude oil is in the U.S. Strategic Petroleum Reserve (SPR)?",
+    "link": "https://www.rigzone.com/news/how_much_crude_oil_is_in_the_usa_strategic_petroleum_reserve-29-aug-2025-181632-article/",
+    "timestamp": "2025-08-29T11:34:20Z"
+  },
+  {
+    "title": "Trump cancels Kamala Harris\u2019 Secret Service detail that was extended by undisclosed Biden order | CNN Politics",
+    "description": "President Donald Trump revoked Kamala Harris\u2019 Secret Service protection on Thursday, according to a copy of a letter reviewed by CNN.",
+    "link": "https://www.cnn.com/2025/08/29/politics/kamala-harris-secret-service-canceled-trump-biden",
+    "timestamp": "2025-08-29T11:34:00Z"
+  },
+  {
     "title": "India's Reliance ties up with Google and Meta to drive AI push",
     "description": "Indian conglomerate Reliance Industries announced new partnerships with Google and Meta to accelerate the company's push into artificial intelligence.",
     "link": "https://www.cnbc.com/2025/08/29/indias-reliance-ties-up-with-google-and-meta-to-drive-ai-push.html",
@@ -12,15 +30,15 @@
     "timestamp": "2025-08-29T11:30:52Z"
   },
   {
-    "title": "A Terrible Week for Pumpkin Spice",
-    "description": "Tariffs are coming for the flavor of fall.",
-    "link": "https://www.theatlantic.com/health/archive/2025/08/pumpkin-spice-latte-tariffs/684046/",
-    "timestamp": "2025-08-29T11:30:00Z"
-  },
-  {
     "title": "Departures roil the CDC leadership. What's next for the agency?",
     "description": "Operations at the CDC are in jeopardy after the ousting of the director and the resignation of several high-profile leaders. Here's what you need to know about the sudden changes.",
     "link": "https://roanoke.com/news/nation-world/government-politics/article_04d6211e-6645-5750-8276-1d4f3864a5bc.html",
+    "timestamp": "2025-08-29T11:30:00Z"
+  },
+  {
+    "title": "A Terrible Week for Pumpkin Spice",
+    "description": "Tariffs are coming for the flavor of fall.",
+    "link": "https://www.theatlantic.com/health/archive/2025/08/pumpkin-spice-latte-tariffs/684046/",
     "timestamp": "2025-08-29T11:30:00Z"
   },
   {
@@ -432,15 +450,15 @@
     "timestamp": "2025-08-29T10:00:10Z"
   },
   {
-    "title": "Yes, President Trump Has the Authority to Fire Lisa Cook | Opinion",
-    "description": "Trump must be able to fire members of the Fed's Board of the Governors\u2014or else the Fed is structured in an unconstitutional manner.",
-    "link": "https://www.newsweek.com/yes-president-trump-has-authority-fire-lisa-cook-opinion-2121245",
-    "timestamp": "2025-08-29T10:00:02Z"
-  },
-  {
     "title": "From 'Brownie' to Bushtok: Trump Helps Soften Bush as Katrina Turns 20",
     "description": "Twenty years after Katrina, George W. Bush's legacy is reexamined\u2014not from nostalgia, but because Trump has reshaped Americans' views.",
     "link": "https://www.newsweek.com/brownie-bushtok-trump-helps-soften-bush-katrina-turns-20-2120306",
+    "timestamp": "2025-08-29T10:00:02Z"
+  },
+  {
+    "title": "Yes, President Trump Has the Authority to Fire Lisa Cook | Opinion",
+    "description": "Trump must be able to fire members of the Fed's Board of the Governors\u2014or else the Fed is structured in an unconstitutional manner.",
+    "link": "https://www.newsweek.com/yes-president-trump-has-authority-fire-lisa-cook-opinion-2121245",
     "timestamp": "2025-08-29T10:00:02Z"
   },
   {
@@ -456,21 +474,15 @@
     "timestamp": "2025-08-29T10:00:00Z"
   },
   {
-    "title": "Lisa Cook Forces the Supreme Court to Show Its True Colors on the Fed",
-    "description": "Rarely is it obvious that a lawsuit will turn into a landmark Supreme Court decision at the outset. Cook v. Trump is the exception. At stake is nothing less than the future health of the American economy and the basic structure of the federal government.Feder\u2026",
-    "link": "https://newrepublic.com/article/199795/legal-battle-federal-reserve-independence",
-    "timestamp": "2025-08-29T10:00:00Z"
-  },
-  {
     "title": "The Housing Hunger Games",
     "description": "\u201cHow extremely profitable all of this precarity has become.\u201d Author Brian Goldstone on working and homelessness in today\u2019s America.\nThe post The Housing Hunger Games appeared first on The Intercept.",
     "link": "https://theintercept.com/2025/08/29/briefing-podcast-housing-working-homeless/",
     "timestamp": "2025-08-29T10:00:00Z"
   },
   {
-    "title": "The Long History of Life on Mars",
-    "description": "A new book explores how Americans came to believe in an advanced Martian civilization at the turn of the twentieth century. What does it reveal about our current obsession with the Red Planet?",
-    "link": "https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars",
+    "title": "Lisa Cook Forces the Supreme Court to Show Its True Colors on the Fed",
+    "description": "Rarely is it obvious that a lawsuit will turn into a landmark Supreme Court decision at the outset. Cook v. Trump is the exception. At stake is nothing less than the future health of the American economy and the basic structure of the federal government.Feder\u2026",
+    "link": "https://newrepublic.com/article/199795/legal-battle-federal-reserve-independence",
     "timestamp": "2025-08-29T10:00:00Z"
   },
   {
@@ -480,15 +492,9 @@
     "timestamp": "2025-08-29T10:00:00Z"
   },
   {
-    "title": "The Trump administration wants to build more roads through national forests",
-    "description": "The Trump administration argues that rescinding the 2001 Roadless Rule will help wildland firefighters. Fire researchers warn that more roads could exacerbate the problem.",
-    "link": "https://www.npr.org/2025/08/29/nx-s1-5521379/trump-administration-forest-roads-roadless-rule-firefighters-wildfire",
-    "timestamp": "2025-08-29T10:00:00Z"
-  },
-  {
-    "title": "The Political Awakening of the Oyster Farmer Gunning for Susan Collins",
-    "description": "At 8 a.m., Taunton Bay is glassy\u2014the air cool but salty enough to make your nose wrinkle. A man in rubber boots, canvas pants, and a black t-shirt worn to gray, carrying a large cooler on his shoulder passes me on the beach. \u201cYa here for Graham?\u201d he says, his\u2026",
-    "link": "https://newrepublic.com/article/199682/graham-platner-maine-senate-profile",
+    "title": "The Long History of Life on Mars",
+    "description": "A new book explores how Americans came to believe in an advanced Martian civilization at the turn of the twentieth century. What does it reveal about our current obsession with the Red Planet?",
+    "link": "https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars",
     "timestamp": "2025-08-29T10:00:00Z"
   },
   {
@@ -504,6 +510,18 @@
     "timestamp": "2025-08-29T10:00:00Z"
   },
   {
+    "title": "The Trump administration wants to build more roads through national forests",
+    "description": "The Trump administration argues that rescinding the 2001 Roadless Rule will help wildland firefighters. Fire researchers warn that more roads could exacerbate the problem.",
+    "link": "https://www.npr.org/2025/08/29/nx-s1-5521379/trump-administration-forest-roads-roadless-rule-firefighters-wildfire",
+    "timestamp": "2025-08-29T10:00:00Z"
+  },
+  {
+    "title": "The Political Awakening of the Oyster Farmer Gunning for Susan Collins",
+    "description": "At 8 a.m., Taunton Bay is glassy\u2014the air cool but salty enough to make your nose wrinkle. A man in rubber boots, canvas pants, and a black t-shirt worn to gray, carrying a large cooler on his shoulder passes me on the beach. \u201cYa here for Graham?\u201d he says, his\u2026",
+    "link": "https://newrepublic.com/article/199682/graham-platner-maine-senate-profile",
+    "timestamp": "2025-08-29T10:00:00Z"
+  },
+  {
     "title": "Democrats face critical choice in government funding battle as shutdown deadline looms",
     "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) and Democrats face a critical choice on how much to work with Republicans on government funding when Congress...",
     "link": "https://thehill.com/business/budget/5476430-government-funding-democrats/",
@@ -514,23 +532,5 @@
     "description": "The Trump administration\u2019s choice to run the massive tent camp at Fort Bliss, Texas, has raised questions. The Pentagon has refused to release the contract.",
     "link": "https://www.huffpost.com/entry/trump-immigration-fort-bliss-mystery_n_68b175a8e4b07a70c7bc49b4",
     "timestamp": "2025-08-29T09:57:52Z"
-  },
-  {
-    "title": "Ashli Babbitt Getting Military Funeral Honors Sparks Anger",
-    "description": "Babbitt was killed by a police officer while trying to climb through a barricaded door to enter the Speaker's Lobby during the January 6 assault on the Capitol.",
-    "link": "https://www.newsweek.com/ashli-babbitt-january-8-miltary-honors-funeral-2121370",
-    "timestamp": "2025-08-29T09:50:37Z"
-  },
-  {
-    "title": "What happens if the Fed slashes rates to 1% like Trump wants?",
-    "description": "The attacks on the Federal Reserve\u2019s independence that President Donald Trump ramped up this week are driven by his desire for lower interest rates. The president has argued that the Federal Reserve should slash the federal funds rate to 1%, which is more tha\u2026",
-    "link": "https://biztoc.com/x/db453ceddcd5d4f7",
-    "timestamp": "2025-08-29T09:48:37Z"
-  },
-  {
-    "title": "China to bolster non-Western alliances at summit, parade",
-    "description": "Beijing (AFP) Aug 28, 2025\n\n \nChina's President Xi Jinping will host world leaders including Russia's Vladimir Putin and India's Narendra Modi from Sunday for a summit before a huge military parade as he seeks to showcase a non-Western style of regional colla\u2026",
-    "link": "https://www.spacewar.com/reports/China_to_bolster_non-Western_alliances_at_summit_parade_999.html",
-    "timestamp": "2025-08-29T09:47:58Z"
   }
 ]
