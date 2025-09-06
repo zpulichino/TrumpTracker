@@ -1,5 +1,71 @@
 [
   {
+    "title": "President Trump rebrands Pentagon as 'Department of War'",
+    "description": "US President Donald Trump is changing the name of the Department of Defence to the Department of War, the White House announced, insisting the rebrand will project a more powerful image.",
+    "link": "https://www.rte.ie/news/us/2025/0905/1531935-us-trump-defence/",
+    "timestamp": "2025-09-05T04:31:33Z"
+  },
+  {
+    "title": "Pentagon warns Venezuela as 2 military aircraft fly near US Navy ship",
+    "description": "Defense Department says 'two Maduro regime military aircraft' flew near US warship in a 'highly provocative' move.",
+    "link": "https://www.aljazeera.com/news/2025/9/5/pentagon-warns-venezuela-as-2-military-aircraft-fly-near-us-navy-ship",
+    "timestamp": "2025-09-05T04:31:10Z"
+  },
+  {
+    "title": "Fox News thrives two years after court settlement, but 2020 election coverage fight goes on",
+    "description": "Fox News seemed to be dealt a crippling blow in a $787 million settlement of a libel lawsuit more than two years ago, but has instead thrived",
+    "link": "https://abcnews.go.com/Business/wireStory/fox-news-thrives-years-after-court-settlement-2020-125280513",
+    "timestamp": "2025-09-05T04:30:18Z"
+  },
+  {
+    "title": "Kaushik Basu: Trump has made the Incarceration Game relevant to America",
+    "description": "An academic model of how authoritarian leaders could quell dissent\u2014called the Incarceration Game\u2014has cues for Americans on defending civil liberties, the rule of law and democratic ideals. It\u2019s a theoretical construct, but holds real-world resonance.",
+    "link": "https://www.livemint.com/opinion/online-views/donald-trump-lisa-cook-adam-schiff-letitia-james-elizabeth-warren-john-maynard-keynes-incarceration-game-democrats-us-11756998417124.html",
+    "timestamp": "2025-09-05T04:30:04Z"
+  },
+  {
+    "title": "Emmanuel Macron says troops could be deployed in Ukraine in the event of ceasefire",
+    "description": "European leaders forged ahead with pledges to provide Ukraine with security guarantees in the event of a ceasefire even as little clarity emerged over concrete commitments from US president Donald Trump.",
+    "link": "https://www.independent.ie/world-news/europe/emmanuel-macron-says-troops-could-be-deployed-in-ukraine-in-the-event-of-ceasefire/a289231560.html",
+    "timestamp": "2025-09-05T04:30:00Z"
+  },
+  {
+    "title": "Mark Keenan: I went house hunting with the bots \u2013 how AI is transforming how we buy and sell homes",
+    "description": "Before the property bit, let\u2019s start with Donald Trump. Last November, I tested AI\u2019s ability to predict headline election outcomes in two different countries.",
+    "link": "https://www.independent.ie/opinion/analysis/mark-keenan-i-went-house-hunting-with-the-bots-how-ai-is-transforming-how-we-buy-and-sell-homes/a1182175623.html",
+    "timestamp": "2025-09-05T04:30:00Z"
+  },
+  {
+    "title": "Mark Keenan: How AI is transforming how we buy and sell homes",
+    "description": "Before the property bit, let\u2019s start with Donald Trump. Last November, I tested AI\u2019s ability to predict headline election outcomes in two different countries.",
+    "link": "https://www.independent.ie/opinion/analysis/mark-keenan-how-ai-is-transforming-how-we-buy-and-sell-homes/a1182175623.html",
+    "timestamp": "2025-09-05T04:30:00Z"
+  },
+  {
+    "title": "Jeffrey Epstein victims tell Donald Trump they're compiling a list of abusers",
+    "description": "Jeffrey Epstein\u2019s victims have told US president Donald Trump they are compiling a list of men who were clients of the paedophile financier.",
+    "link": "https://www.independent.ie/world-news/north-america/jeffrey-epstein-victims-tell-donald-trump-theyre-compiling-a-list-of-abusers/a1909347669.html",
+    "timestamp": "2025-09-05T04:30:00Z"
+  },
+  {
+    "title": "Trump is rebranding the Pentagon as the Department of War. Here are 5 other things he's renamed since he got back to the White House.",
+    "description": "In January, he issued an executive order titled \"Restoring names that honor American greatness.\" Take a look at five other things Trump has rebranded.",
+    "link": "https://www.businessinsider.com/trump-renaming-pentagon-department-of-war-see-other-changes-2025-9",
+    "timestamp": "2025-09-05T04:28:38Z"
+  },
+  {
+    "title": "Fox News thrives two years after court settlement, but 2020 election coverage fight goes on",
+    "description": "Fox News seemed to be dealt a crippling blow in a $787 million settlement of a libel lawsuit more than two years ago, but has instead thrived.",
+    "link": "https://www.clickondetroit.com/news/politics/2025/09/05/fox-news-thrives-two-years-after-court-settlement-but-2020-election-coverage-fight-goes-on/",
+    "timestamp": "2025-09-05T04:27:01Z"
+  },
+  {
+    "title": "Definitely a high IQ group: Trump hosts tech CEOs, including Sundar Pichai, Satya Nadella, at White House",
+    "description": "Former US President Donald Trump hosted top tech leaders including Satya Nadella, Sundar Pichai, and Tim Cook at the White House, praising their innovation and investments. Discussions centred on AI, education, and economic growth, with executives highlightin\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/definitely-a-high-iq-group-trump-hosts-tech-ceos-including-pichai-nadella-at-white-house/articleshow/123711287.cms",
+    "timestamp": "2025-09-05T04:21:19Z"
+  },
+  {
     "title": "Xi Flexes Diplomatic and Military Muscle at WWII Parade",
     "description": "On Tuesday, Xi Jinping presided over a major military parade marking the 80th anniversary of the end of World War II and China\u2019s \u201cWar of Resistance Against Japanese Aggression.\u201d The carefully choreographed 90-minute spectacle showcased autonomous military har\u2026",
     "link": "https://chinadigitaltimes.net/2025/09/xi-flexes-diplomatic-and-military-muscle-at-wwii-parade/",
@@ -520,71 +586,5 @@
     "description": "The Trump administration is considering tightening travel restrictions on delegations from Iran, Sudan, Zimbabwe, and potentially Brazil, for the upcoming U.N. meeting. These restrictions could limit their movement outside New York City, with Iranian diplomat\u2026",
     "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-considers-banning-iranians-from-shopping-at-costco-during-un-meeting/articleshow/123709728.cms",
     "timestamp": "2025-09-05T02:26:37Z"
-  },
-  {
-    "title": "The president looked to the first lady, 24 years his junior, for assistance after a question didn\u2019t register.",
-    "description": "President Donald Trump had to lean on First Lady Melania to help him understand a reporter\u2019s question while hosting tech leaders at the White House. The...",
-    "link": "https://www.thedailybeast.com/donald-trump-79-needs-melanias-help-hearing-reporters-question/",
-    "timestamp": "2025-09-05T02:23:26Z"
-  },
-  {
-    "title": "US tech titans pay hommage to Trump at White House dinner",
-    "description": "Tech world executives showered Donald Trump with praise Thursday during a rare dinner that saw the US president host some of the most important players in AI at the White House. \u201cThis is quite a group to get together,\u201d said Meta chief and co-founder Mark Zuck\u2026",
-    "link": "https://www.digitaljournal.com/world/us-tech-titans-pay-hommage-to-trump-at-white-house-dinner/article",
-    "timestamp": "2025-09-05T02:22:32Z"
-  },
-  {
-    "title": "Biden had surgery to remove cancerous cells: Report",
-    "description": "Former President Joe Biden, 82, underwent Mohs surgery to remove cancerous skin cells and is recovering well, months after revealing a diagnosis of metastatic prostate cancer. This follows a previous basal cell carcinoma removal in 2023. Biden's health was of\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/biden-had-surgery-to-remove-cancerous-cells-report/articleshow/123709685.cms",
-    "timestamp": "2025-09-05T02:21:26Z"
-  },
-  {
-    "title": "President Trump expected to attend U.S. Open men's final",
-    "description": "Trump last attended the U.S. Open in 2015.",
-    "link": "https://sports.yahoo.com/tennis/article/president-trump-expected-to-attend-us-open-mens-final-022115945.html",
-    "timestamp": "2025-09-05T02:21:15Z"
-  },
-  {
-    "title": "US Tech Titans Pay Hommage To Trump At White House Dinner",
-    "description": "Tech world executives showered Donald Trump with praise Thursday during a rare dinner that saw the US president host some of the most important players in AI at the White House.",
-    "link": "https://www.ibtimes.com/us-tech-titans-pay-hommage-trump-white-house-dinner-3782546",
-    "timestamp": "2025-09-05T02:21:11Z"
-  },
-  {
-    "title": "US says 2 Venezuela military aircraft flew near US Navy vessel in international waters",
-    "description": "WASHINGTON (Reuters) -The U.S. Department of Defense said late on Thursday that two Venezuela military aircraft flew near a U.S. Navy vessel in international...",
-    "link": "https://www.yahoo.com/news/articles/us-says-2-venezuela-military-021754808.html",
-    "timestamp": "2025-09-05T02:17:54Z"
-  },
-  {
-    "title": "Pete Hegseth\u2019s Department of Cringe",
-    "description": "Renaming the Defense Department is a pathetic stunt.",
-    "link": "https://www.theatlantic.com/ideas/archive/2025/09/defense-war-cringe-department/684112/",
-    "timestamp": "2025-09-05T02:17:44Z"
-  },
-  {
-    "title": "Mike Tyson to set fight Floyd Mayweather in boxing bombshell",
-    "description": "Two of boxing's greatest competitors will go head-to-head in the ring.",
-    "link": "https://nypost.com/2025/09/04/sports/mike-tyson-to-set-fight-floyd-mayweather-in-boxing-bombshell/",
-    "timestamp": "2025-09-05T02:15:09Z"
-  },
-  {
-    "title": "Justice Department probes mortgage fraud claims against Lisa Cook of Federal Reserve: Source",
-    "description": "The Justice Department is investigating Federal Reserve Governor Lisa Cook for alleged mortgage fraud, stemming from a criminal referral regarding two properties she purchased in 2021. This probe coincides with Cook's legal challenge against President Trump's\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/justice-department-probes-mortgage-fraud-claims-against-lisa-cook-of-federal-reserve-source/articleshow/123709623.cms",
-    "timestamp": "2025-09-05T02:14:04Z"
-  },
-  {
-    "title": "Trump to speak at Museum of the Bible on religious liberty in education",
-    "description": "President Trump will deliver remarks at the Museum of the Bible in Washington during a hearing on religious liberty in education, according to a White House spokesperson.",
-    "link": "https://www.foxnews.com/politics/trump-speak-museum-bible-religious-liberty-education",
-    "timestamp": "2025-09-05T02:11:13Z"
-  },
-  {
-    "title": "Trump signs order to lower US tariffs on Japan autos to 15%",
-    "description": "Donald Trump, the US President, signed an order. This order lowers tariffs on Japanese autos. Japanese autos will now face a 15-percent tariff. Earlier, it was 27.5 percent. Many other goods will also have a 15-percent cap. This is a win for Japan. The change\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-signs-order-to-lower-us-tariffs-on-japan-autos-to-15/articleshow/123709576.cms",
-    "timestamp": "2025-09-05T02:08:33Z"
   }
 ]
