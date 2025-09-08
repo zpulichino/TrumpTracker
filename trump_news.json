@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chicago protesters defiant in face of Trump's deportation threats",
+    "description": "Several thousand demonstrators marched past Trump Tower as the sun began to set in downtown Chicago on Saturday, protesting U.S. President Donald Trump\u2019s threats to flood the city with immigration agents.",
+    "link": "https://www.cbc.ca/news/world/chicago-president-trump-deportation-threats-1.7627309",
+    "timestamp": "2025-09-07T09:50:47Z"
+  },
+  {
+    "title": "Carlos Alcaraz Reacts to Donald Trump Attending US Open Men's Final",
+    "description": "The Spaniard will compete against Italy's Jannik Sinner in the U.S. Open men's final, in a match set to crown a new world No.1.",
+    "link": "https://biztoc.com/x/3c12ba3d15dc8a24",
+    "timestamp": "2025-09-07T09:47:04Z"
+  },
+  {
+    "title": "Carlos Alcaraz Reacts to Donald Trump Attending US Open Men's Final",
+    "description": "The Spaniard will compete against Italy's Jannik Sinner in the U.S. Open men's final, in a match set to crown a new world No.1.",
+    "link": "https://www.newsweek.com/carlos-alcaraz-donald-trump-us-open-mens-final-jannik-sinner-2125879",
+    "timestamp": "2025-09-07T09:45:48Z"
+  },
+  {
     "title": "Seoul says over 300 South Koreans detained in US to be released",
     "description": "Seoul said Sunday that negotiations with the United States to secure the release of South Korean workers detained in an immigration raid have been \u201cconcluded\u201d and they would soon be freed and flown home. It follows the arrest of more than 300 South Korean wor\u2026",
     "link": "https://www.digitaljournal.com/world/seoul-says-over-300-south-koreans-detained-in-us-to-be-released/article",
@@ -150,15 +168,15 @@
     "timestamp": "2025-09-07T09:00:01Z"
   },
   {
-    "title": "South Korea has finished talks with US to release Korean workers",
-    "description": "SEOUL (Reuters) -South Korea has just wrapped up talks with the U.S. for the release of detained Korean workers in Georgia, a presidential official said on Sunday. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2025/09/07/south-korea-has-finished-talks-with-us-to-release-korean-workers",
-    "timestamp": "2025-09-07T09:00:00Z"
-  },
-  {
     "title": "The White House is exploring how to keep Trump's tariffs if the Supreme Court strikes them down",
     "description": "WASHINGTON \u2014 After losing in lower courts, President Donald Trump plans to take his case for the authority to unilaterally impose tariffs to the Supreme Court and the public square",
     "link": "https://www.nbcnews.com/politics/trump-administration/white-house-exploring-keep-trumps-tariffs-supreme-court-strikes-rcna229175",
+    "timestamp": "2025-09-07T09:00:00Z"
+  },
+  {
+    "title": "South Korea has finished talks with US to release Korean workers",
+    "description": "SEOUL (Reuters) -South Korea has just wrapped up talks with the U.S. for the release of detained Korean workers in Georgia, a presidential official said on Sunday. Read full story",
+    "link": "https://www.thestar.com.my/news/world/2025/09/07/south-korea-has-finished-talks-with-us-to-release-korean-workers",
     "timestamp": "2025-09-07T09:00:00Z"
   },
   {
@@ -348,12 +366,6 @@
     "timestamp": "2025-09-07T06:50:09Z"
   },
   {
-    "title": "Start of Sinner vs. Alcaraz in the US Open final delayed because of Trump-related security",
-    "description": "There is a lot at stake when No. 1 Jannik Sinner meets No. 2 Carlos Alcaraz in the U.S. Open men\u2019s final on Sunday \u2014 with President Donald Trump expected to be at Arthur Ashe Stadium.",
-    "link": "https://www.bostonherald.com/2025/09/07/start-of-sinner-vs-alcaraz-in-the-us-open-final-delayed-because-of-trump-related-security/",
-    "timestamp": "2025-09-07T06:45:02Z"
-  },
-  {
     "title": "The Sinner vs. Alcaraz US Open final is delayed because of security. Trump gets cheers, boos",
     "description": "There is a lot at stake when No. 1 Jannik Sinner meets No. 2 Carlos Alcaraz in the U.S. Open men\u2019s final on Sunday \u2014 with President Donald Trump expected to be at Arthur Ashe Stadium.",
     "link": "https://www.bostonherald.com/2025/09/07/the-sinner-vs-alcaraz-us-open-final-is-delayed-because-of-security-trump-gets-cheers-boos/",
@@ -363,6 +375,12 @@
     "title": "The Sinner vs. Alcaraz US Open final starts after a delay due to security. Trump gets cheers, boos",
     "description": "There is a lot at stake when No. 1 Jannik Sinner meets No. 2 Carlos Alcaraz in the U.S. Open men\u2019s final on Sunday \u2014 with President Donald Trump expected to be at Arthur Ashe Stadium.",
     "link": "https://www.bostonherald.com/2025/09/07/the-sinner-vs-alcaraz-us-open-final-starts-after-a-delay-due-to-security-trump-gets-cheers-boos/",
+    "timestamp": "2025-09-07T06:45:02Z"
+  },
+  {
+    "title": "Start of Sinner vs. Alcaraz in the US Open final delayed because of Trump-related security",
+    "description": "There is a lot at stake when No. 1 Jannik Sinner meets No. 2 Carlos Alcaraz in the U.S. Open men\u2019s final on Sunday \u2014 with President Donald Trump expected to be at Arthur Ashe Stadium.",
+    "link": "https://www.bostonherald.com/2025/09/07/start-of-sinner-vs-alcaraz-in-the-us-open-final-delayed-because-of-trump-related-security/",
     "timestamp": "2025-09-07T06:45:02Z"
   },
   {
@@ -450,27 +468,27 @@
     "timestamp": "2025-09-07T06:00:00Z"
   },
   {
-    "title": "Trump\u00e2\u0080\u0099s tariff battle heads to the Supreme Court: A fight for presidential authority and economic strategy",
-    "description": "President Donald Trump has petitioned the U.S. Supreme Court to review a lower court ruling that declared his use of the International Emergency Economic Powers Act (IEEPA) to impose tariffs unconstitutional, arguing that the decision undermines his ability t\u2026",
-    "link": "https://www.naturalnews.com/2025-09-07-trump-tariff-battle-heads-to-supreme-court.html",
-    "timestamp": "2025-09-07T06:00:00Z"
-  },
-  {
     "title": "TRUMP DEMANDS PHARMA justify the claimed \u00e2\u0080\u009csuccess\u00e2\u0080\u009d of the COVID CLOT SHOTS they said saved \u00e2\u0080\u009cmillions of lives\u00e2\u0080\u009d \u00e2\u0080\u0093 Where\u00e2\u0080\u0099s that so-called science?",
     "description": "With Paul Offit and his insidious cohorts ousted from the FDA and CDC, President Trump is well on his way to cleaning up the vaccine industry that riddled with pharma shills, toxic jabs, and propaganda piled mountains high claiming every vaccine ever made is \u2026",
     "link": "https://www.naturalnews.com/2025-09-07-trump-demands-pharma-justify-success-covid-shots.html",
     "timestamp": "2025-09-07T06:00:00Z"
   },
   {
-    "title": "'Coalition of the Possible'? A look at Ukraine guarantees",
-    "description": "The dynamics between the Trump administration and Europe on Ukraine have shifted, with the meeting of the so-called 'Coalition of the Willing' in Paris this week representing an important inflection point",
-    "link": "https://www.rte.ie/news/analysis-and-comment/2025/0907/1532161-ukraine-security-guarantees/",
+    "title": "Trump\u00e2\u0080\u0099s tariff battle heads to the Supreme Court: A fight for presidential authority and economic strategy",
+    "description": "President Donald Trump has petitioned the U.S. Supreme Court to review a lower court ruling that declared his use of the International Emergency Economic Powers Act (IEEPA) to impose tariffs unconstitutional, arguing that the decision undermines his ability t\u2026",
+    "link": "https://www.naturalnews.com/2025-09-07-trump-tariff-battle-heads-to-supreme-court.html",
     "timestamp": "2025-09-07T06:00:00Z"
   },
   {
     "title": "Texas congresswoman introduces bill to strip federal funds from sanctuary cities",
     "description": "Rep. Beth Van Duyne (R-TX) reintroduced the No Congressional Funds for Sanctuary Cities Act (H.R. 205) to strip federal funding from jurisdictions that limit cooperation with ICE and other immigration authorities. The bill would block sanctuary cities from re\u2026",
     "link": "https://www.naturalnews.com/2025-09-07-texas-congresswoman-introduces-bill-strip-funds-sanctuary-cities.html",
+    "timestamp": "2025-09-07T06:00:00Z"
+  },
+  {
+    "title": "'Coalition of the Possible'? A look at Ukraine guarantees",
+    "description": "The dynamics between the Trump administration and Europe on Ukraine have shifted, with the meeting of the so-called 'Coalition of the Willing' in Paris this week representing an important inflection point",
+    "link": "https://www.rte.ie/news/analysis-and-comment/2025/0907/1532161-ukraine-security-guarantees/",
     "timestamp": "2025-09-07T06:00:00Z"
   },
   {
@@ -556,23 +574,5 @@
     "description": "Undersea cable cuts in the Red Sea disrupted internet access Sunday in parts of Asia and the Middle East, experts said, though it wasn't immediately clear...",
     "link": "https://www.yahoo.com/news/articles/undersea-cables-cut-red-sea-045755430.html",
     "timestamp": "2025-09-07T04:57:55Z"
-  },
-  {
-    "title": "Undersea cables cut in the Red Sea, disrupting internet access in Asia and the Mideast",
-    "description": "Undersea cable cuts in the Red Sea disrupted internet access in parts of Asia and the Middle East, experts said Sunday, though it wasn't immediately clear...",
-    "link": "https://www.yahoo.com/news/articles/undersea-cables-cut-red-sea-045755796.html",
-    "timestamp": "2025-09-07T04:57:55Z"
-  },
-  {
-    "title": "Tough negotiations and uncertainty ahead of OPEC+ meeting",
-    "description": "LONDON:\u00a0Uncertainty loomed over what Saudi Arabia, Russia and six other key members of the OPEC+ alliance would decide on crude output in their meeting on Sunday (Sep 7), with analysts saying a production boost was also being considered.The meeting by the gro\u2026",
-    "link": "https://www.channelnewsasia.com/world/tough-negotiations-uncertainty-opec-meeting-5336541",
-    "timestamp": "2025-09-07T04:51:30Z"
-  },
-  {
-    "title": "Trump preparing to visit South Korea in Oct, may sit down with Xi Jinping: Report",
-    "description": "The summit, which would take place in Gyeongju between late October and early November, is being viewed as a key opportunity for Trump to meet with Chinese leader Xi Jinping",
-    "link": "https://www.thehindubusinessline.com/news/world/trump-preparing-to-visit-south-korea-in-oct-may-sit-down-with-xi-jinping-report/article70021695.ece",
-    "timestamp": "2025-09-07T04:51:25Z"
   }
 ]
