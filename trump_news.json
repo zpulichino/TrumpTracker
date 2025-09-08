@@ -1,5 +1,23 @@
 [
   {
+    "title": "Newsmax lawsuit shows Fox News is bigger than Donald Trump",
+    "description": "With her lawsuit dismissal, Judge Aileen Cannon hands the network an important win",
+    "link": "https://www.salon.com/2025/09/07/newsmax-lawsuit-shows-fox-news-is-bigger-than-donald-trump/",
+    "timestamp": "2025-09-07T10:45:53Z"
+  },
+  {
+    "title": "'Geek' Shigeru Ishiba Quits Dream Job As Japan PM",
+    "description": "Shigeru Ishiba likes the nitty-gritty of policy and geeky pursuit of making military models, but his dream job as Japanese prime minister crumbled Sunday.",
+    "link": "https://www.ibtimes.com/geek-shigeru-ishiba-quits-dream-job-japan-pm-3782749",
+    "timestamp": "2025-09-07T10:42:21Z"
+  },
+  {
+    "title": "Red Sea cables cut, disrupting internet access in Asia and the Mideast",
+    "description": "Undersea cable cuts in the Red Sea disrupted internet access in parts of Asia and the Middle East, experts said Sunday.",
+    "link": "https://www.cnbc.com/2025/09/07/red-sea-cables-cut-disrupting-internet-access-in-asia-and-the-mideast.html",
+    "timestamp": "2025-09-07T10:41:39Z"
+  },
+  {
     "title": "\u2018Geek\u2019 Shigeru Ishiba quits dream job as Japan PM",
     "description": "Shigeru Ishiba likes the nitty-gritty of policy and geeky pursuit of making military models, but his dream job as Japanese prime minister crumbled Sunday. Ishiba said he had decided to step down, following calls for him to take responsibility for the ruling L\u2026",
     "link": "https://www.digitaljournal.com/world/geek-shigeru-ishiba-quits-dream-job-as-japan-pm/article",
@@ -72,15 +90,15 @@
     "timestamp": "2025-09-07T10:21:06Z"
   },
   {
-    "title": "Japan's Prime Minister Shigeru Ishiba resigns",
-    "description": "The prime minister had struggled to inspire confidence as Japan faced economic headwinds.",
-    "link": "https://www.bbc.co.uk/news/articles/c98edpz2yn9o",
-    "timestamp": "2025-09-07T10:21:00Z"
-  },
-  {
     "title": "Japan's Prime Minister Shigeru Ishiba resigns after election defeats",
     "description": "The prime minister had struggled to inspire confidence as Japan faced economic headwinds.",
     "link": "https://www.bbc.com/news/articles/c98edpz2yn9o",
+    "timestamp": "2025-09-07T10:21:00Z"
+  },
+  {
+    "title": "Japan's Prime Minister Shigeru Ishiba resigns",
+    "description": "The prime minister had struggled to inspire confidence as Japan faced economic headwinds.",
+    "link": "https://www.bbc.co.uk/news/articles/c98edpz2yn9o",
     "timestamp": "2025-09-07T10:21:00Z"
   },
   {
@@ -354,15 +372,15 @@
     "timestamp": "2025-09-07T09:00:01Z"
   },
   {
-    "title": "The White House is exploring how to keep Trump's tariffs if the Supreme Court strikes them down",
-    "description": "WASHINGTON \u2014 After losing in lower courts, President Donald Trump plans to take his case for the authority to unilaterally impose tariffs to the Supreme Court and the public square",
-    "link": "https://www.nbcnews.com/politics/trump-administration/white-house-exploring-keep-trumps-tariffs-supreme-court-strikes-rcna229175",
-    "timestamp": "2025-09-07T09:00:00Z"
-  },
-  {
     "title": "South Korea has finished talks with US to release Korean workers",
     "description": "SEOUL (Reuters) -South Korea has just wrapped up talks with the U.S. for the release of detained Korean workers in Georgia, a presidential official said on Sunday. Read full story",
     "link": "https://www.thestar.com.my/news/world/2025/09/07/south-korea-has-finished-talks-with-us-to-release-korean-workers",
+    "timestamp": "2025-09-07T09:00:00Z"
+  },
+  {
+    "title": "The White House is exploring how to keep Trump's tariffs if the Supreme Court strikes them down",
+    "description": "WASHINGTON \u2014 After losing in lower courts, President Donald Trump plans to take his case for the authority to unilaterally impose tariffs to the Supreme Court and the public square",
+    "link": "https://www.nbcnews.com/politics/trump-administration/white-house-exploring-keep-trumps-tariffs-supreme-court-strikes-rcna229175",
     "timestamp": "2025-09-07T09:00:00Z"
   },
   {
@@ -550,17 +568,5 @@
     "description": "New polling by More in Common found the party's base was becoming increasingly mainstream, with the number of female Reform supporters fast catching up with men",
     "link": "https://www.euractiv.com/section/politics/news/pessimist-patriots-nigel-farages-reform-uk-party-widens-appeal/",
     "timestamp": "2025-09-07T06:50:45Z"
-  },
-  {
-    "title": "Japan PM Ishiba resigns after series of bruising election losses | CNN",
-    "description": "Japanese Prime Minister Shigeru Ishiba said on Sunday he had decided to resign, ushering in a potentially lengthy period of policy paralysis at a shaky moment for the world\u2019s fourth-largest economy.",
-    "link": "https://www.cnn.com/2025/09/07/asia/japan-prime-minister-ishiba-resign-intl-hnk",
-    "timestamp": "2025-09-07T06:50:09Z"
-  },
-  {
-    "title": "The Sinner vs. Alcaraz US Open final is delayed because of security. Trump gets cheers, boos",
-    "description": "There is a lot at stake when No. 1 Jannik Sinner meets No. 2 Carlos Alcaraz in the U.S. Open men\u2019s final on Sunday \u2014 with President Donald Trump expected to be at Arthur Ashe Stadium.",
-    "link": "https://www.bostonherald.com/2025/09/07/the-sinner-vs-alcaraz-us-open-final-is-delayed-because-of-security-trump-gets-cheers-boos/",
-    "timestamp": "2025-09-07T06:45:02Z"
   }
 ]
