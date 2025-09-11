@@ -1,5 +1,11 @@
 [
   {
+    "title": "US judge temporarily blocks Trump from removing Cook",
+    "description": "A federal judge has temporarily blocked President Donald Trump from removing Federal Reserve Governor Lisa Cook, an early setback for the White House in an unprecedented legal battle that could upend the Fed's long-held independence.",
+    "link": "https://www.rte.ie/news/business/2025/0910/1532732-us-federal-reserve-court-case/",
+    "timestamp": "2025-09-10T07:57:24Z"
+  },
+  {
     "title": "Commentary: When will Trump realise Netanyahu doesn\u2019t want a ceasefire deal in Gaza?",
     "description": "From Gaza occupation plans and an airstrike in Qatar, all signs are pointing to Israeli Prime Minister Benjamin Netanyahu shredding the idea of a Palestinian state, says NUS Middle East Institute\u2019s Clemens Chay.",
     "link": "https://www.channelnewsasia.com/commentary/israel-attack-qatar-hamas-leaders-trump-palestinian-state-5341706",
@@ -312,15 +318,15 @@
     "timestamp": "2025-09-10T06:03:17Z"
   },
   {
-    "title": "Israel\u00e2\u0080\u0099s bombing of Doha sparks global fury as even U.S. allies turn against Netanyahu",
-    "description": "Israel launched a deadly airstrike on Doha, Qatar, killing five and sparking global outrage over its violation of sovereignty. Qatar and allies condemned the attack as a dangerous escalation, vowing diplomatic and legal retaliation. The U.S. distanced itself \u2026",
-    "link": "https://www.naturalnews.com/2025-09-10-israel-bombing-doha-turn-against-netanyahu.html",
-    "timestamp": "2025-09-10T06:00:00Z"
-  },
-  {
     "title": "Trump slams Netanyahu\u00e2\u0080\u0099s reckless Qatar strike as \u00e2\u0080\u009cunilateral\u00e2\u0080\u009d act of aggression",
     "description": "Israel launched an uncoordinated missile strike on a Hamas compound in Doha, Qatar, killing several members and violating Qatari sovereignty. President Trump condemned the attack, calling it reckless and counterproductive to U.S. and Israeli interests, while \u2026",
     "link": "https://www.naturalnews.com/2025-09-10-trump-netanyahu-reckless-qatar-aggression.html",
+    "timestamp": "2025-09-10T06:00:00Z"
+  },
+  {
+    "title": "Israel\u00e2\u0080\u0099s bombing of Doha sparks global fury as even U.S. allies turn against Netanyahu",
+    "description": "Israel launched a deadly airstrike on Doha, Qatar, killing five and sparking global outrage over its violation of sovereignty. Qatar and allies condemned the attack as a dangerous escalation, vowing diplomatic and legal retaliation. The U.S. distanced itself \u2026",
+    "link": "https://www.naturalnews.com/2025-09-10-israel-bombing-doha-turn-against-netanyahu.html",
     "timestamp": "2025-09-10T06:00:00Z"
   },
   {
@@ -342,15 +348,9 @@
     "timestamp": "2025-09-10T06:00:00Z"
   },
   {
-    "title": "Trump\u00e2\u0080\u0099s tariff revolution: Record revenues, legal battles and the fight for fair trade",
-    "description": "U.S. tariff collections hit $31.4 billion in August 2025, the highest single?month total this year, pushing year?to?date revenue to $183.6 billion\u2014a cornerstone of Trump\u2019s economic strategy. A federal appeals court ruled Trump\u2019s IEEPA tariffs illegal, but the\u2026",
-    "link": "https://www.naturalnews.com/2025-09-10-trumps-tariff-revolution-record-revenues-legal-battles.html",
-    "timestamp": "2025-09-10T06:00:00Z"
-  },
-  {
-    "title": "Israel strikes Qatar mediators as U.S. economic strategy falters and BRICS advances",
-    "description": "Israel Bombs Hamas Negotiators in Qatar \u2013 Days after Trump\u2019s \u201cceasefire,\u201d Israel bombed Hamas peace negotiators under U.S. protection, exposing U.S.-Israel duplicity and accelerating global distrust in Western diplomacy. Qatar Threatens 1.5 Trillion U.S. With\u2026",
-    "link": "https://www.naturalnews.com/2025-09-10-israel-strikes-qatar-us-economy-falters-brics-advances.html",
+    "title": "Charlie Kirk SHOT DEAD at Utah campus event",
+    "description": "Conservative activist Charlie Kirk was shot and killed by a sniper during a Q&A session at his \u201cAmerican Comeback Tour\u201d event at Utah Valley University. Witnesses described a sudden gunshot, followed by Kirk collapsing from a neck wound. The shooting occurred\u2026",
+    "link": "https://www.naturalnews.com/2025-09-10-charlie-kirk-shot-dead-utah-campus-event.html",
     "timestamp": "2025-09-10T06:00:00Z"
   },
   {
@@ -366,9 +366,15 @@
     "timestamp": "2025-09-10T06:00:00Z"
   },
   {
-    "title": "Charlie Kirk SHOT DEAD at Utah campus event",
-    "description": "Conservative activist Charlie Kirk was shot and killed by a sniper during a Q&A session at his \u201cAmerican Comeback Tour\u201d event at Utah Valley University. Witnesses described a sudden gunshot, followed by Kirk collapsing from a neck wound. The shooting occurred\u2026",
-    "link": "https://www.naturalnews.com/2025-09-10-charlie-kirk-shot-dead-utah-campus-event.html",
+    "title": "Trump\u00e2\u0080\u0099s tariff revolution: Record revenues, legal battles and the fight for fair trade",
+    "description": "U.S. tariff collections hit $31.4 billion in August 2025, the highest single?month total this year, pushing year?to?date revenue to $183.6 billion\u2014a cornerstone of Trump\u2019s economic strategy. A federal appeals court ruled Trump\u2019s IEEPA tariffs illegal, but the\u2026",
+    "link": "https://www.naturalnews.com/2025-09-10-trumps-tariff-revolution-record-revenues-legal-battles.html",
+    "timestamp": "2025-09-10T06:00:00Z"
+  },
+  {
+    "title": "Israel strikes Qatar mediators as U.S. economic strategy falters and BRICS advances",
+    "description": "Israel Bombs Hamas Negotiators in Qatar \u2013 Days after Trump\u2019s \u201cceasefire,\u201d Israel bombed Hamas peace negotiators under U.S. protection, exposing U.S.-Israel duplicity and accelerating global distrust in Western diplomacy. Qatar Threatens 1.5 Trillion U.S. With\u2026",
+    "link": "https://www.naturalnews.com/2025-09-10-israel-strikes-qatar-us-economy-falters-brics-advances.html",
     "timestamp": "2025-09-10T06:00:00Z"
   },
   {
@@ -532,11 +538,5 @@
     "description": "Venezuelan Foreign Minister Yvan Gil Pinto has met with Russian Ambassador to Venezuela Sergey Melik-Bagdasarov, discussing US actions in the Caribbean.",
     "link": "https://sputnikglobe.com/20250910/venezuelan-top-diplomat-talks-crisis-in-caribbean-with-russia-1122760993.html",
     "timestamp": "2025-09-10T05:05:49Z"
-  },
-  {
-    "title": "Iraqi Prime Minister Confirms Release of Russian-Israeli Citizen Elizabeth Tsurkov",
-    "description": "MOSCOW (Sputnik) - Iraqi Prime Minister Mohammed Shia Al Sudani confirmed on Tuesday the release of Russian and Israeli citizen Elizabeth Tsurkov.",
-    "link": "https://sputnikglobe.com/20250910/iraqi-prime-minister-confirms-release-of-russian-israeli-citizen-elizabeth-tsurkov-1122760145.html",
-    "timestamp": "2025-09-10T05:01:40Z"
   }
 ]
