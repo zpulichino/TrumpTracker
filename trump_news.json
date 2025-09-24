@@ -1,5 +1,185 @@
 [
   {
+    "title": "Trump criticizes UN in address, but says US is behind organization '100%'",
+    "description": "President Donald Trump delivered a speech at the United Nations General Assembly, criticizing the organization and its policies on migration and green energy.",
+    "link": "https://www.wgal.com/article/trump-un-general-assembly-migration-security-threat/68023515",
+    "timestamp": "2025-09-23T21:36:05Z"
+  },
+  {
+    "title": "Trump asks what is the UN's purpose? This is the answer",
+    "description": "Donald Trump harshly criticized the United Nations this week for being ineffective and even questioned its existence. But it has a clearly-defined purpose.",
+    "link": "https://www.cbc.ca/news/world/un-trump-charter-1.7641469",
+    "timestamp": "2025-09-23T21:35:50Z"
+  },
+  {
+    "title": "Bondi praises Ryan Routh verdict, says assassination attempt was an 'affront to our very nation itself'",
+    "description": "Attorney General Pam Bondi praised the guilty verdict against Ryan Routh, who tried to assassinate Trump at a Florida golf course and faces life imprisonment.",
+    "link": "https://www.foxnews.com/politics/bondi-praises-ryan-routh-verdict-assassination-attempt-affront-nation-itself",
+    "timestamp": "2025-09-23T21:35:43Z"
+  },
+  {
+    "title": "Trump Chastises World Leaders in Their Push for Palestinian State: Giving in to Hamas' Ransom Demands",
+    "description": "President Donald Trump called out the world leaders on Tuesday who are pushing for a Palestinian state following the Oct. 7, 2023, attacks.",
+    "link": "https://www.westernjournal.com/trump-chastises-world-leaders-push-palestinian-state-giving-hamas-ransom-demands/",
+    "timestamp": "2025-09-23T21:35:42Z"
+  },
+  {
+    "title": "White House seeks probe into Trump's UN escalator glitch",
+    "description": "White House Press Secretary Karoline Leavitt called for an investigation after an escalator at the United Nations stopped as United States President Donald Trump and First Lady Melania Trump arrived f...",
+    "link": "https://biztoc.com/x/6d28ca0665dffb49",
+    "timestamp": "2025-09-23T21:35:37Z"
+  },
+  {
+    "title": "Man who represented himself found guilty of trying to assassinate Trump at Florida golf course",
+    "description": "The man who was charged with attempting to assassinate Donald Trump at a Florida golf course last year tried to stab himself in the neck with a pen shortly after being found guilty of all counts on Tuesday. Officers quickly swarmed him and dragged him out of \u2026",
+    "link": "https://japantoday.com/category/world/man-who-represented-himself-is-found-guilty-of-trying-to-assassinate-trump-at-florida-golf-course",
+    "timestamp": "2025-09-23T21:35:20Z"
+  },
+  {
+    "title": "Trump says he will help Argentina; World Bank to accelerate support",
+    "description": "U.S. President Donald Trump said on Tuesday the United States would help Argentina but he did not think a financial bailout was needed as the World Bank said it would accelerate $4 billion in previously planned public-private investments for Argentina. Trump \u2026",
+    "link": "https://japantoday.com/category/world/trump-says-he-will-help-argentina-world-bank-to-accelerate-support",
+    "timestamp": "2025-09-23T21:35:15Z"
+  },
+  {
+    "title": "Maine health experts push back against Pres. Trump's claims about autism",
+    "description": "After a major announcement from the White House, many medical experts and parents are pushing back on President Donald Trump\u2019s claims about the rise of autism.",
+    "link": "https://wgme.com/news/local/maine-health-experts-push-back-against-president-donald-trump-claims-about-autism-tylenol-acetaminophen",
+    "timestamp": "2025-09-23T21:35:00Z"
+  },
+  {
+    "title": "Iran's supreme leader rejects direct talks with U.S. over his country's nuclear program",
+    "description": "Iran's supreme leader on Tuesday rejected direct negotiations with the United States over his country's nuclear program, likely slamming the door shut on a last-ditch effort to halt the reimposition of United Nations sanctions on Tehran. Ayatollah Ali Khamene\u2026",
+    "link": "https://japantoday.com/category/world/iran%27s-supreme-leader-rejects-direct-talks-with-us-over-his-country%27s-nuclear-program",
+    "timestamp": "2025-09-23T21:34:58Z"
+  },
+  {
+    "title": "Trump cancels White House meeting with Schumer and Jeffries despite risk of a government shutdown",
+    "description": "President Donald Trump has abruptly canceled this week's planned meeting with congressional Democratic leaders, refusing to negotiate over their demands to shore up health care funds as part of a deal to prevent a potential looming federal government shutdown\u2026",
+    "link": "https://japantoday.com/category/world/trump-cancels-white-house-meeting-with-schumer-and-jeffries-despite-risk-of-a-government-shutdown",
+    "timestamp": "2025-09-23T21:34:52Z"
+  },
+  {
+    "title": "US stocks retreat from records as tech giants fall",
+    "description": "The Dow Jones Industrial Average finishes down 0.2 per cent at 46,292.78. Read more at straitstimes.com. Read more at straitstimes.com.",
+    "link": "https://www.straitstimes.com/business/companies-markets/us-stocks-retreat-from-records-as-tech-giants-fall",
+    "timestamp": "2025-09-23T21:34:47Z"
+  },
+  {
+    "title": "U.N. chief warns world leaders of 'an age of reckless disruption and relentless human suffering'",
+    "description": "With global peace and progress under siege, the United Nations chief challenged world leaders Tuesday to choose a future where the rule of law triumphs over raw power and where nations come together rather than scramble for self-interests. Secretary-General A\u2026",
+    "link": "https://japantoday.com/category/world/un-chief-warns-world-leaders-of-%27an-age-of-reckless-disruption-and-relentless-human-suffering%27",
+    "timestamp": "2025-09-23T21:34:46Z"
+  },
+  {
+    "title": "As Boeing's stock rises on a new foreign deal, US officials signal China may be next to order planes",
+    "description": "Boeing's stock climbed Tuesday after the American aerospace giant announced a significant jetliner order from Uzbekistan and as optimism builds around a...",
+    "link": "https://finance.yahoo.com/news/boeings-stock-rises-foreign-deal-213435762.html",
+    "timestamp": "2025-09-23T21:34:35Z"
+  },
+  {
+    "title": "U.N. Security Council meeting on Gaza highlights growing isolation of U.S. on Mideast conflict",
+    "description": "A day after France led other nations in recognizing Palestinian statehood, the U.N. Security Council once again aired a deep divide between the veto-wielding United States and most of the rest of the world over how to end the war in the Gaza Strip and resolve\u2026",
+    "link": "https://japantoday.com/category/world/un-security-council-meeting-on-gaza-highlights-growing-isolation-of-us-on-mideast-conflict",
+    "timestamp": "2025-09-23T21:34:33Z"
+  },
+  {
+    "title": "Mass. parents, doctors push back on Trump's Tylenol-autism link claim",
+    "description": "Researchers and doctors dispute Trump\u2019s claims linking Tylenol to autism, emphasizing its safety during pregnancy and the need for further scientific study.",
+    "link": "https://www.wcvb.com/article/massachusetts-trump-tylenol-autism-claims-researchers-respond/68022983",
+    "timestamp": "2025-09-23T21:34:31Z"
+  },
+  {
+    "title": "Trump says Kyiv can win back 'all of Ukraine' in major shift",
+    "description": "U.S. President Donald Trump said Tuesday that Ukraine could win back all of its territory from Russia -- and even go further -- in a major pivot after meeting President Volodymyr Zelenskyy. The astonishing turnaround came shortly after Trump also called for N\u2026",
+    "link": "https://japantoday.com/category/world/trump-says-kyiv-can-win-back-%27all-of-ukraine%27-in-major-shift",
+    "timestamp": "2025-09-23T21:34:26Z"
+  },
+  {
+    "title": "Trump tells world leaders their countries are 'going to hell' in combative U.N. speech",
+    "description": "U.S. President Donald Trump argued for lower levels of global migration and urged a turn away from climate change policies on Tuesday in a combative, wide-ranging speech to the U.N. General Assembly that leveled scathing criticism of world leaders. The 56-min\u2026",
+    "link": "https://japantoday.com/category/world/trump-tells-world-leaders-their-countries-are-%27going-to-hell%27-in-combative-un-speech1",
+    "timestamp": "2025-09-23T21:34:20Z"
+  },
+  {
+    "title": "European leader praises Trump's 'peace through strength' for keeping country safe from conflict",
+    "description": "Kosovo President Vjosa Osmani credits Trump's 'peace through strength' approach with preventing escalations and maintaining stability in ongoing tensions with Serbia.",
+    "link": "https://www.foxnews.com/media/european-leader-praises-trumps-peace-through-strength-keeping-country-safe-from-conflict",
+    "timestamp": "2025-09-23T21:34:07Z"
+  },
+  {
+    "title": "Here is what a physician has to say after Trump suggests Tylenol during pregnancy causes autism",
+    "description": "Here is what a physician has to say after Trump suggests Tylenol during pregnancy causes autismlocal10.com",
+    "link": "https://www.local10.com//health/2025/09/23/here-is-what-a-physician-has-to-say-after-trump-suggests-tylenol-during-pregnancy-causes-autism/",
+    "timestamp": "2025-09-23T21:33:50Z"
+  },
+  {
+    "title": "In major shift, Trump says Ukraine can win back all territory from Russia",
+    "description": "Trump previously said both Kyiv and Moscow would have to cede land to end Europe's deadliest war since World War II.",
+    "link": "https://www.aljazeera.com/news/2025/9/23/in-major-shift-trump-says-ukraine-can-win-back-all-territory-from-russia",
+    "timestamp": "2025-09-23T21:33:12Z"
+  },
+  {
+    "title": "Man Convicted of Trump Assassination Attempt Tries to Stab Himself to Death",
+    "description": "Man Convicted of Trump Assassination Attempt Tries to Stab Himself to Deathlittlethings.com",
+    "link": "https://littlethings.com/entertainment/man-convicted-of-trump-assassination-attempt-tries-to-stab-himself-to-death-in-court",
+    "timestamp": "2025-09-23T21:32:58Z"
+  },
+  {
+    "title": "Trump invites global fans to World Cup and Olympics as US tightens visa policies",
+    "description": "NEW YORK (Reuters) -U.S. President Donald Trump told the UN General Assembly on Tuesday that he hopes \"countless people from all over the globe\" will attend ...",
+    "link": "https://ca.news.yahoo.com/trump-invites-global-fans-world-213215269.html",
+    "timestamp": "2025-09-23T21:32:15Z"
+  },
+  {
+    "title": "Trump administration proposes new H-1B visa process favoring higher-skilled, better-paid workers",
+    "description": "The new process, if finalised, would give heavier weight to applications by employers who pay high wages if annual requests for the visas exceed the statutory limit of 85,000, the White House notice said.",
+    "link": "https://www.channelnewsasia.com/world/trump-administration-proposes-new-h-1b-visa-process-favoring-higher-skilled-better-paid-workers-5364666",
+    "timestamp": "2025-09-23T21:31:42Z"
+  },
+  {
+    "title": "Trump\u2019s Mom-Shaming Around Tylenol",
+    "description": "In the absence of conclusive science around what causes autism, Danielle Campoamor argues that the Trump administration is blaming mothers who can\u2019t \u2018tough it out.\u2019",
+    "link": "http://www.thecut.com/article/trump-mom-shaming-tylenol-autism.html",
+    "timestamp": "2025-09-23T21:31:42Z"
+  },
+  {
+    "title": "Trump's Controversial Tariffs Generate Nearly $350 Billion, Becoming 'Very Significant' US Revenue Source, Says Economist",
+    "description": "The controversial tariffs imposed by President Donald Trump have turned into a major revenue stream for the U.S. government, amassing approximately $350...",
+    "link": "https://finance.yahoo.com/news/trumps-controversial-tariffs-generate-nearly-213107349.html",
+    "timestamp": "2025-09-23T21:31:07Z"
+  },
+  {
+    "title": "Trump would-be assassin convicted",
+    "description": "The pro-Ukraine activist had set up an ambush at then-presidential candidate\u2019s Florida golf course last September Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/625158-trump-wannabe-assassin-convicted/",
+    "timestamp": "2025-09-23T21:30:39Z"
+  },
+  {
+    "title": "Chris Mason: Punchy Lib Dems use Reform UK as call to action",
+    "description": "The party is taking on Nigel Farage in a way Labour and the Tories either can't or won't, our political editor writes.",
+    "link": "https://www.bbc.com/news/articles/cvg97gq8230o",
+    "timestamp": "2025-09-23T21:30:31Z"
+  },
+  {
+    "title": "Trump Administration Wants to Hand Out $2.4 billion It Took From California\u2019s High-Speed Railroad",
+    "description": "The Trump administration wants to redistribute $2.4 billion it pulled from California\u2019s high-speed rail project to other uses as part of a new $5 billion program to fund rail projects that boost U.S. rail passenger traffic.",
+    "link": "https://www.kqed.org/news/12057238/trump-administration-wants-to-hand-out-2-4-billion-it-took-from-californias-high-speed-railroad",
+    "timestamp": "2025-09-23T21:30:06Z"
+  },
+  {
+    "title": "The Bob Cesca Podcast: It Can Only Good Happen",
+    "description": "Today's program from our podcasting affiliate, The Bob Cesca Show: It Can Only Good Happen --\u00a0Disney caves to pressure. Jimmy Kimmel returns tonight! Sinclair will air a news program instead. Donald embarrasses America at the UN. \"Your countries are going to \u2026",
+    "link": "https://littlegreenfootballs.com/article/54938_The_Bob_Cesca_Podcast-_It_Can_",
+    "timestamp": "2025-09-23T21:29:55Z"
+  },
+  {
+    "title": "Paramount\u2013Warner Bros Discovery merger could give Trump even more influence over what news and culture Americans watch and stream",
+    "description": "Following unprecedented threats from Federal Communications Commission Chairman Brendan Carr, major affiliate station owners Nexstar and Sinclair Broadcasting pressured Disney\u2019s ABC to pull Jimmy Kimmel\u2019s show off the air over his comments related to Charlie \u2026",
+    "link": "https://japantoday.com/category/features/opinions/a-paramount%E2%80%93warner-bros.-discovery-merger-could-give-trump-even-more-influence-over-us-media-%E2%80%93-shaping-the-news-and-culture-americans-watch-and-stream",
+    "timestamp": "2025-09-23T21:29:11Z"
+  },
+  {
     "title": "Trump forced to ab lib intro to UN speech after escalator and teleprompter fail: \u2018Big trouble\u2019",
     "description": "An escalator malfunction and frozen teleprompter disrupted President Trump\u2019s marquee address to the United Nations General Assembly on Tuesday, prompting him to improvise. The escalator carrying Trump en route to deliver his remarks had abruptly stalled short\u2026",
     "link": "https://freerepublic.com/focus/f-news/4342257/posts",
@@ -376,179 +556,5 @@
     "description": "The mutual defense agreement could make Islamabad even more risk-tolerant.",
     "link": "http://foreignpolicy.com/2025/09/23/pakistan-saudi-arabia-defense-pact-mutual-security-nuclear/",
     "timestamp": "2025-09-23T20:51:59Z"
-  },
-  {
-    "title": "With Smiles And Daggers At UN, Lula And Trump Agree To Meet",
-    "description": "After trading barbs at the UN, US President Donald Trump on Tuesday hailed his \"excellent chemistry\" with Brazilian counterpart Luis Inacio Lula da Silva, and announced a meeting next week.",
-    "link": "https://www.ibtimes.com/smiles-daggers-un-lula-trump-agree-meet-3784267",
-    "timestamp": "2025-09-23T20:51:20Z"
-  },
-  {
-    "title": "Dumps Putin: Relationship 'didn't mean anything'...",
-    "description": "Dumps Putin: Relationship 'didn't mean anything'...\r\n\n \n \n \n (Top headline, 3rd story, link)\r\n\n \r\n\n \r\n\n \n Related stories:In major shift, Trump now thinks Ukraine can win back all of its territory taken by Russia...\r\nRuthlessly Mocks 'Paper Tiger' Moscow...\r\n\u2026",
-    "link": "https://www.the-sun.com/news/15237813/trump-nato-shoot-down-russian-jets/",
-    "timestamp": "2025-09-23T20:49:36Z"
-  },
-  {
-    "title": "These GOP fire eaters are preparing their supporters for war",
-    "description": "In the decade before the Civil War, slave-owning men known as \u201cFire Eaters\u201d\r\n started ratcheting up public discourse in stark, divisive, all or nothing terms. They cast their interests not as political differences, but as an existential crisis facing the nati\u2026",
-    "link": "https://www.rawstory.com/raw-investigates/these-gop-fire-eaters-are-preparing-their-supporters-for-war/",
-    "timestamp": "2025-09-23T20:48:17Z"
-  },
-  {
-    "title": "Michelob Ultra becomes best-selling beer in the US",
-    "description": "The Anheuser-Busch beer has dethroned Modelo Especial for the title two years after consumer backlash two years ago dented its sales.",
-    "link": "https://www.bbc.com/news/articles/c79v7p88pveo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "timestamp": "2025-09-23T20:47:29Z"
-  },
-  {
-    "title": "Michelob Ultra becomes best-selling beer in the US",
-    "description": "The Anheuser-Busch beer has dethroned Modelo Especial for the title two years after consumer backlash two years ago dented its sales.",
-    "link": "https://www.bbc.com/news/articles/c79v7p88pveo",
-    "timestamp": "2025-09-23T20:47:25Z"
-  },
-  {
-    "title": "With smiles and daggers at UN, Lula and Trump agree to meet",
-    "description": "After trading barbs at the UN, US President Donald Trump on Tuesday hailed his \u201cexcellent chemistry\u201d with Brazilian counterpart Luis Inacio Lula da Silva, and announced a meeting next week. Their countries have been at loggerheads for months, with Trump using\u2026",
-    "link": "https://www.digitaljournal.com/world/with-smiles-and-daggers-at-un-lula-and-trump-agree-to-meet/article",
-    "timestamp": "2025-09-23T20:47:20Z"
-  },
-  {
-    "title": "Most Americans want peace with Russia \u2013 former US congresswoman",
-    "description": "Cynthia McKinney has visited the war-torn Donetsk People\u2019s Republic on a three-day press tour Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/625150-most-americans-want-peace-russia/",
-    "timestamp": "2025-09-23T20:46:02Z"
-  },
-  {
-    "title": "This Research Lab Is Giving AI A Better Memory",
-    "description": "Plus: The biggest AI infrastructure deal in history.",
-    "link": "https://www.forbes.com/sites/the-prompt/2025/09/23/this-research-lab-is-giving-ai-a-better-memory/",
-    "timestamp": "2025-09-23T20:45:48Z"
-  },
-  {
-    "title": "Trump: Ties with Putin unfortunately meant nothing",
-    "description": "US President Donald Trump admitted Tuesday that his past relationship with Russia President Vladimir Putin failed to influence Russia's war in Ukraine. Speaking at a bilateral meeting with French President Emmanuel Macron during the 80th UN General Assembly, \u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4342254/posts",
-    "timestamp": "2025-09-23T20:45:11Z"
-  },
-  {
-    "title": "H-1B visa changes may give Canada an opportunity. Will it seize it?",
-    "description": "The US visa shake-up could push talent north \u2014 but experts caution that Canada\u2019s immigration system has its own challenges.",
-    "link": "https://www.bbc.com/news/articles/cx27lj39e99o",
-    "timestamp": "2025-09-23T20:45:03Z"
-  },
-  {
-    "title": "How a Fight Over Voter Data Could Reshape American Elections",
-    "description": "Lawsuits against Oregon and Maine test how far the federal government can go in demanding access to voter information.",
-    "link": "https://reason.com/2025/09/23/how-a-fight-over-voter-data-could-reshape-american-elections/",
-    "timestamp": "2025-09-23T20:45:03Z"
-  },
-  {
-    "title": "Kamala Harris Holds Back Tears as She Recalls 'Grieving' Following 'Traumatic' Election Loss to Donald Trump \u2014 'It Was Very Difficult'",
-    "description": "Kamala Harris said she was left 'grieving' following her 'traumatic' election loss to Donald Trump in 2024, sharing her 'pain.'",
-    "link": "https://radaronline.com/p/kamala-harris-recalls-grieving-after-election-loss-donald-trump/",
-    "timestamp": "2025-09-23T20:45:00Z"
-  },
-  {
-    "title": "WATCH LIVE: Day 2 of the 2025 United Nations General Assembly",
-    "description": "The United Nations General Assembly will meet for its second day.",
-    "link": "https://www.pbs.org/newshour/world/watch-live-day-2-of-the-2025-united-nations-general-assembly",
-    "timestamp": "2025-09-23T20:44:40Z"
-  },
-  {
-    "title": "Trump says Ukraine can \u2018win\u2019 all territory back from Russia",
-    "description": "The US president dismissed Russia as a \"paper tiger\" in economic peril",
-    "link": "https://www.euractiv.com/news/trump-says-ukraine-can-win-all-territory-back-from-russia/",
-    "timestamp": "2025-09-23T20:42:50Z"
-  },
-  {
-    "title": "Penn research shows most Americans support vaccine mandates despite escalating rhetoric from the Trump administration",
-    "description": "An April 2025 survey found that 70% of the public believes children should be required to receive the MMR vaccine before attending public school.",
-    "link": "https://www.inquirer.com/health/american-vaccine-mandates-research-trump-administration-20250923.html",
-    "timestamp": "2025-09-23T20:41:38Z"
-  },
-  {
-    "title": "Europe not \u2018going to hell\u2019, says Taoiseach following Trump address to UN General Assembly",
-    "description": "Miche\u00e1l Martin says he disagrees with US president\u2019s claims of \u2018uncontrolled\u2019 immigration and climate \u2018con job\u2019 during speech",
-    "link": "https://www.irishtimes.com/politics/2025/09/23/europe-not-going-to-hell-says-taoiseach-following-trump-address-to-un-general-assembly/",
-    "timestamp": "2025-09-23T20:41:17Z"
-  },
-  {
-    "title": "Jimmy Kimmel Breaks Silence Ahead Of First Show Since Suspension Over Kirk Comments",
-    "description": "The late-night host posted a photo with a TV legend.",
-    "link": "https://www.huffpost.com/entry/jimmy-kimmel-breaks-silence-ahead-of-first-show-since-suspension-over-kirk-comments_n_68d2eb70e4b03fb4d9346494",
-    "timestamp": "2025-09-23T20:40:22Z"
-  },
-  {
-    "title": "Christian TikTokers Are Denied Rapture as Viral Prophecy Fizzles Out",
-    "description": "For weeks, devout evangelical Christians on TikTok have been preparing for the Second Coming of Jesus Christ on Rosh Hashanah, but it didn't happen",
-    "link": "http://www.rollingstone.com/culture/culture-features/rapture-tiktok-christianity-bible-1235433294/",
-    "timestamp": "2025-09-23T20:38:39Z"
-  },
-  {
-    "title": "Karoline Leavitt demands firings after Trump forced to walk up non-working UN escalator",
-    "description": "White House Press Secretary Karoline Leavitt called for firings at the United Nations after an escalator stopped working ahead of President Donald Trump's speech to the General Assembly.\"If someone at the UN intentionally stopped the escalator as the Presiden\u2026",
-    "link": "https://www.rawstory.com/trump-leavitt-escalator/",
-    "timestamp": "2025-09-23T20:37:09Z"
-  },
-  {
-    "title": "Nick Fuentes Slams Charlie Kirk Memorial as \u2018Weird and Fake\u2019",
-    "description": "Reading Time: 3 minutesConservative pundit Nick Fuentes is being criticized for his comments about the Charlie Kirk memorial.\nNick Fuentes Slams Charlie Kirk Memorial as \u2018Weird and Fake\u2019 was originally published on The Hollywood Gossip.",
-    "link": "http://www.thehollywoodgossip.com/2025/09/nick-fuentes-slams-charlie-kirk-memorial-as-weird-and-fake/",
-    "timestamp": "2025-09-23T20:37:00Z"
-  },
-  {
-    "title": "Kamala Harris Returns, Shows the World Why America Chose Wisely",
-    "description": "Kamala Harris\u2019 return tour isn\u2019t going well. The former vice president has reemerged lately to remind the nation how catastrophic her presidency might have been... Read More\nThe post Kamala Harris Returns, Shows the World Why America Chose Wisely appeared fir\u2026",
-    "link": "https://www.dailysignal.com/2025/09/23/kamala-harris-returns-shows-the-world-why-america-chose-wisely/",
-    "timestamp": "2025-09-23T20:36:38Z"
-  },
-  {
-    "title": "Trump scolds European nations over immigration policies during major UN address",
-    "description": "President Donald Trump criticized European nations' immigration policies during his U.N. address, calling illegal immigration unsustainable and destructive.",
-    "link": "https://www.foxnews.com/politics/trump-scolds-european-nations-over-immigration-policies-during-major-un-address",
-    "timestamp": "2025-09-23T20:34:47Z"
-  },
-  {
-    "title": "Trump\u2019s Tylenol Directive Could Actually Increase Autism Rates, Researchers Warn",
-    "description": "Experts fear that Donald Trump\u2019s anti-painkiller tirade could lead to an increase in risk factors for autism, and don\u2019t trust the administration to assess data as it continues to search for a cause.",
-    "link": "https://www.wired.com/story/trumps-tylenol-directive-could-actually-increase-autism-rates-researchers-warn/",
-    "timestamp": "2025-09-23T20:34:08Z"
-  },
-  {
-    "title": "Canadian privacy watchdogs call for TikTok to enhance protection for children on platform",
-    "description": "TikTok\u2019s efforts to keep children off the platform and prevent the collection and use of their sensitive personal information are \u201cinadequate\" but the...",
-    "link": "https://www.yahoo.com/news/articles/canadian-privacy-watchdogs-call-tiktok-203338475.html",
-    "timestamp": "2025-09-23T20:33:38Z"
-  },
-  {
-    "title": "Trump to U.N.: \u2018Your Countries Are Going to Hell\u2019",
-    "description": "Read Trump\u2019s full address at the U.N. General Assembly.",
-    "link": "http://foreignpolicy.com/2025/09/23/trump-united-nations-speech-immigration-energy/",
-    "timestamp": "2025-09-23T20:33:30Z"
-  },
-  {
-    "title": "Trump: Kyiv in Position to \u2018Fight and WIN All of Ukraine Back'",
-    "description": "In a Tuesday afternoon post on Truth Social, President Donald Trump said Russia\u2019s inability to make progress against Ukraine after three years of grinding warfare has convinced him Ukraine could win a total victory with help from Europe and the United States,\u2026",
-    "link": "https://www.breitbart.com/europe/2025/09/23/trump-kyiv-in-position-to-fight-and-win-all-of-ukraine-back/",
-    "timestamp": "2025-09-23T20:33:10Z"
-  },
-  {
-    "title": "Trump says he now believes Ukraine can take back all of its land after Zelenskyy meeting",
-    "description": "Trump offered his position in a social media posting soon after meeting with Ukrainian President Volodymyr Zelenskyy on the sidelines of the United Nations General Assembly.",
-    "link": "https://www.pbs.org/newshour/politics/trump-says-he-now-believes-ukraine-can-take-back-all-of-its-land-after-zelenskyy-meeting",
-    "timestamp": "2025-09-23T20:33:04Z"
-  },
-  {
-    "title": "Trump says NATO countries should shoot down Russian aircraft that violate airspace",
-    "description": "Trump also pressured European countries to stop buying Russian oil.",
-    "link": "https://abcnews.go.com/Politics/trump-nato-countries-shoot-russian-aircraft-violate-airspace/story?id=125864554",
-    "timestamp": "2025-09-23T20:33:01Z"
-  },
-  {
-    "title": "Lawsuits, cancellations and bullying: Trump is systematically destroying press freedom",
-    "description": "Most major US media companies have been targeted by Trump this year alone, along with many individual journalists. It\u2019s the destruction of the fourth estate.",
-    "link": "https://theconversation.com/lawsuits-cancellations-and-bullying-trump-is-systematically-destroying-press-freedom-265848",
-    "timestamp": "2025-09-23T20:32:08Z"
   }
 ]
