@@ -1,5 +1,11 @@
 [
   {
+    "title": "Clare Moriarty: Trump\u2019s \u2018tough it out\u2019 message to pregnant women is dangerous",
+    "description": "His claims about a link between paracetamol and autism are not just anti-science, they\u2019re anti-woman",
+    "link": "https://www.irishtimes.com/opinion/2025/09/28/clare-moriarty-trumps-tough-it-out-message-to-pregnant-women-is-dangerous/",
+    "timestamp": "2025-09-28T05:50:00Z"
+  },
+  {
     "title": "Kyiv hit by 'massive' Russian attack, mayor says",
     "description": "As well as intensifying attacks against Ukraine, Russia is also accused of violating the airspace of several Nato countries.",
     "link": "https://www.bbc.com/news/articles/c75qeqr5905o",
@@ -90,12 +96,6 @@
     "timestamp": "2025-09-28T04:30:00Z"
   },
   {
-    "title": "Letters: Trump\u2019s British visit was a meeting of two dysfunctional monarchies",
-    "description": "Madam \u2014 Thank you to Julia Molony for her column on Donald Trump\u2019s visit to the UK (\u2018Royals turn on the charm for Trump\u2019s Cinderella moment\u2019, September 21).",
-    "link": "https://www.independent.ie/opinion/letters/letters-trumps-british-visit-was-a-meeting-of-two-dysfunctional-monarchies/a1993281023.html",
-    "timestamp": "2025-09-28T04:30:00Z"
-  },
-  {
     "title": "Declan Lynch: Whatever happens now in Ukraine, Donald Trump can claim that he called it",
     "description": "It has happened a few times now, this Donald Trump move where he appears to be turning against Russia.",
     "link": "https://www.independent.ie/opinion/comment/declan-lynch-whatever-happens-now-in-ukraine-donald-trump-can-claim-that-he-called-it/a1340409431.html",
@@ -105,6 +105,12 @@
     "title": "Barry O\u2019Halloran: Is Donald Trump prepared to drive a stake through the heart of Vladimir Putin\u2019s cash cow?",
     "description": "If there was even the slightest doubt before, there is none now: Ukraine is Europe\u2019s war to win or lose.",
     "link": "https://www.independent.ie/opinion/barry-ohalloran-is-donald-trump-prepared-to-drive-a-stake-through-the-heart-of-vladimir-putins-cash-cow/a1569423796.html",
+    "timestamp": "2025-09-28T04:30:00Z"
+  },
+  {
+    "title": "Letters: Trump\u2019s British visit was a meeting of two dysfunctional monarchies",
+    "description": "Madam \u2014 Thank you to Julia Molony for her column on Donald Trump\u2019s visit to the UK (\u2018Royals turn on the charm for Trump\u2019s Cinderella moment\u2019, September 21).",
+    "link": "https://www.independent.ie/opinion/letters/letters-trumps-british-visit-was-a-meeting-of-two-dysfunctional-monarchies/a1993281023.html",
     "timestamp": "2025-09-28T04:30:00Z"
   },
   {
@@ -308,13 +314,13 @@
   {
     "title": "Judge rules 'MyPillow Guy' Mike Lindell defamed Smartmatic",
     "description": "A federal judge in Minnesota has ruled that MyPillow founder Mike Lindell defamed election technology company Smartmatic by falsely claiming its voting machines helped rig the 2020 presidential election",
-    "link": "https://www.wtae.com/article/mypillow-guy-mike-lindell-smartmatic-voting-machines/68083519",
+    "link": "https://www.kcra.com/article/mypillow-guy-mike-lindell-smartmatic-voting-machines/68083519",
     "timestamp": "2025-09-28T02:52:33Z"
   },
   {
     "title": "Judge rules 'MyPillow Guy' Mike Lindell defamed Smartmatic",
     "description": "A federal judge in Minnesota has ruled that MyPillow founder Mike Lindell defamed election technology company Smartmatic by falsely claiming its voting machines helped rig the 2020 presidential election",
-    "link": "https://www.kcra.com/article/mypillow-guy-mike-lindell-smartmatic-voting-machines/68083519",
+    "link": "https://www.wtae.com/article/mypillow-guy-mike-lindell-smartmatic-voting-machines/68083519",
     "timestamp": "2025-09-28T02:52:33Z"
   },
   {
@@ -550,11 +556,5 @@
     "description": "President Trump is set to meet with top congressional leaders Monday, one day before a potential government shutdown. Democrats are pushing for healthcare provisions, including ACA subsidies and reversing Medicaid cuts, which Republicans deem nonstarters. Thi\u2026",
     "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-to-meet-monday-with-top-four-congressional-leaders-as-federal-government-shutdown-risk-looms/articleshow/124189557.cms",
     "timestamp": "2025-09-28T00:39:46Z"
-  },
-  {
-    "title": "Trump says he will send troops to Portland, Oregon, in latest deployment to US cities",
-    "description": "President Donald Trump says he will send troops to Portland, Oregon",
-    "link": "https://abcnews.go.com/US/wireStory/trump-send-troops-portland-oregon-latest-deployment-us-125996281",
-    "timestamp": "2025-09-28T00:38:28Z"
   }
 ]
