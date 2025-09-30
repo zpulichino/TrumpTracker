@@ -1,5 +1,473 @@
 [
   {
+    "title": "Missouri Governor Signs New Gerrymandered Map Backed By Trump Into Law",
+    "description": "The redrawn congressional map gives Republicans a better chance at winning an additional U.S. House seat.",
+    "link": "https://www.huffpost.com/entry/ap-us-election-2026-redistricting_n_68d9e7fbe4b038b66c957902",
+    "timestamp": "2025-09-29T02:19:56Z"
+  },
+  {
+    "title": "U.S. Offering Leasing Deals On Federal Lands For New Coal Mines",
+    "description": "Federal land reserves of coal are being leased for mining in Alabama, Montana, Utah, Wyoming and North Dakota in new deals accelerating under the Trump administration.",
+    "link": "https://www.forbes.com/sites/noelfletcher/2025/09/28/us-offering-leasing-deals-on-federal-lands-for-new-coal-mines/",
+    "timestamp": "2025-09-29T02:12:07Z"
+  },
+  {
+    "title": "'Clog the toilet' trolls hit Indian visa holders rushing back to U.S.",
+    "description": "Users on the far-right message board 4chan moved to overwhelm flight reservation systems, in a bid to block Indian visa holders from booking tickets.",
+    "link": "https://www.japantimes.co.jp/news/2025/09/29/asia-pacific/politics/toilet-trolls-india-visa-us/",
+    "timestamp": "2025-09-29T02:07:00Z"
+  },
+  {
+    "title": "Donald Trump trade wars: Kitchens, sofas and bathrooms are a threat to America",
+    "description": "Donald Trump trade wars: Kitchens, sofas and bathrooms are a threat to Americasmh.com.au",
+    "link": "https://www.smh.com.au/business/the-economy/trump-says-kitchen-cabinets-and-sofas-are-a-threat-to-america-20250929-p5mym4.html",
+    "timestamp": "2025-09-29T02:03:14Z"
+  },
+  {
+    "title": "Trump Will Attend Gathering of U.S. Military Officials Ordered by Pete Hegseth",
+    "description": "President Donald Trump will attend Defense Secretary Pete Hegseth's large gathering of top U.S. military officials in Virginia this week.\nThe post Trump Will Attend Gathering of U.S. Military Officials Ordered by Pete Hegseth appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/politics/2025/09/28/trump-attend-gathering-u-s-military-officials-ordered-pete-hegseth/",
+    "timestamp": "2025-09-29T02:00:59Z"
+  },
+  {
+    "title": "Harris claims Kimmel suspension happened because Trump 'couldn't take a joke'",
+    "description": "Former Vice President Kamala Harris attacked President Donald Trump several times during her speech to the Congressional Black Caucus on Saturday night.",
+    "link": "https://www.foxnews.com/media/harris-claims-kimmel-suspension-happened-because-trump-couldnt-take-joke",
+    "timestamp": "2025-09-29T02:00:47Z"
+  },
+  {
+    "title": "Pakistan's Prime Minister warns of regional tensions, calls for ceasefire in Gaza",
+    "description": "Pakistani Prime Minister Shehbaz Sharif told the United Nations General Assembly on Friday that the world faces \"testing times\" marked by conflict, terrorism, and climate change, while urging urgent action for peace in South Asia, the Middle East and beyond.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/pakistan/2025/pakistan-250926-unnews01.htm",
+    "timestamp": "2025-09-29T02:00:05Z"
+  },
+  {
+    "title": "Russia Kills 4, Including Child, In 'Vile' Air Attack On Ukraine, Zelenskyy Says",
+    "description": "Russia launched hundreds of drones and several dozens missiles early on September 28 in a massive air attack on Ukraine, killing at least four people including a 12-year-old girl in Kyiv and inflicting damage to civilian infrastructure.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/09/ukraine-250928-rferl01.htm",
+    "timestamp": "2025-09-29T02:00:05Z"
+  },
+  {
+    "title": "Let Trump be Trump to save jailed Belarusians, opposition leader says",
+    "description": "Sviatlana Tsikhanouskaya wants Europe to step up pressure on Minsk ruler Alexander Lukashenko.",
+    "link": "https://www.politico.eu/article/donald-trump-belarus-sviatlana-tsikhanouskaya-alexander-lukashenko/",
+    "timestamp": "2025-09-29T02:00:00Z"
+  },
+  {
+    "title": "Oregon sues Trump administration over deployment of National Guard troops to Portland",
+    "description": "The State of Oregon and the city of Portland have sued the Trump administration to stop it from deploying National Guard troops to Portland",
+    "link": "https://www.nbcnews.com/politics/politics-news/oregon-sues-trump-administration-deployment-national-guard-troops-port-rcna234307",
+    "timestamp": "2025-09-29T02:00:00Z"
+  },
+  {
+    "title": "Aghan's Taliban Rulers Release US Citizen From Custody After Trump Envoy's Visit",
+    "description": "Afghanistan's rulers released a US citizen from custody following a visit by Washington's hostage envoy, the US government and Taliban said on September 28, as the ostracized Taliban rulers continue efforts to improve relations with the West.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/09/mil-250928-rferl02.htm",
+    "timestamp": "2025-09-29T01:59:29Z"
+  },
+  {
+    "title": "Netanyahu hails Israel's 'stunning comeback' after 7 October attacks, vows to 'finish the job'",
+    "description": "Israeli Prime Minister Benjamin Netanyahu told the UN General Assembly on Friday that Israel had rebounded from \"its darkest day\" to deliver \"one of the most stunning military comebacks in history,\" declaring that his country will not rest until Hamas is elim\u2026",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/09/mil-250926-unnews04.htm",
+    "timestamp": "2025-09-29T01:59:29Z"
+  },
+  {
+    "title": "This is a reckoning of James Comey\u2019s own making \u2014 and Dems for weaponizing justice system first",
+    "description": "In the wake of James Comey\u2019s indictment, Democrats like Richard Blumenthal and Eric Swalwell are issuing dark warnings with a straight face that \u201cwhat goes around comes around.\u201d",
+    "link": "https://nypost.com/2025/09/28/opinion/this-is-a-reckoning-of-james-comeys-own-making-and-dems-for-weaponizing-justice-system-first/",
+    "timestamp": "2025-09-29T01:55:45Z"
+  },
+  {
+    "title": "Dana White reveals wild detail about UFC White House fights, 'best thing about being friends' with Trump",
+    "description": "Dana White reiterated on Logan Paul's podcast that the UFC event at the White House is \"happening.\" The event will be part of commemorating the United States\u2019 250th birthday, and White said it was actually President Donald Trump\u2019s idea. \"I didn't ask \u2014 he bro\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4343192/posts",
+    "timestamp": "2025-09-29T01:53:08Z"
+  },
+  {
+    "title": "Trump\u2019s $900 Billion Funding Demands Face Korea, Japan Caution",
+    "description": "\u201cWe are not able to pay $350 billion in cash,\u201d South Korea\u2019s National Security Adviser Wi Sung-lac said in a Channel A News television interview on Saturday ...",
+    "link": "https://finance.yahoo.com/news/trump-900-billion-funding-demands-015020286.html",
+    "timestamp": "2025-09-29T01:50:20Z"
+  },
+  {
+    "title": "Netanyahu discusses plan to end war with Trump\u2019s envoys: Gaps have been narrowed",
+    "description": "Jared Kushner and Steve Witkoff arrive at Netanyahu\u2019s New York hotel for second round of talks. Israeli official: \u201cThere\u2019s a positive atmosphere toward reaching an agreement.\u201d",
+    "link": "https://www.israelnationalnews.com/news/415548",
+    "timestamp": "2025-09-29T01:47:10Z"
+  },
+  {
+    "title": "US set for largest mass resignation in history as Trump continues deep cuts",
+    "description": "The Trump administration is set to oversee the largest mass resignation in US history on Tuesday, with more than 100,000 federal workers set to formally quit as part of the latest wave of its deferred resignation program.With Congress facing a deadline of Tue\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4343191/posts",
+    "timestamp": "2025-09-29T01:45:52Z"
+  },
+  {
+    "title": "Live feeds from Portland",
+    "description": "Portland Andy streaming multiple feeds live",
+    "link": "https://freerepublic.com/focus/f-news/4343190/posts",
+    "timestamp": "2025-09-29T01:42:52Z"
+  },
+  {
+    "title": "Oregon leaders say Trump is deploying 200 National Guard troops within the state",
+    "description": "WASHINGTON (AP) \u2014 Two hundred members of the Oregon National Guard are being placed under federal control and deployed to protect immigration enforcement officers and government facilities, according to a Defense Department memo received by state leaders on S\u2026",
+    "link": "https://wgntv.com/news/ap-oregon-leaders-say-trump-is-deploying-200-national-guard-troops-within-the-state/",
+    "timestamp": "2025-09-29T01:38:33Z"
+  },
+  {
+    "title": "Grace Tame on the grifters swarming around Trump\u2019s autism announcement",
+    "description": "President Trump\u2019s announcement fanned the flames of division, confusion and fear, much like almost everything else he\u2019s ever said.\u00a0\nThe post Grace Tame on the grifters swarming around Trump\u2019s autism announcement appeared first on Crikey.",
+    "link": "http://www.crikey.com.au/2025/09/29/grace-tame-donald-trump-autism-announcement/",
+    "timestamp": "2025-09-29T01:37:13Z"
+  },
+  {
+    "title": "Festive sales cool after early surge; Okta CEO on H-1B fee fracas",
+    "description": "Happy Monday! Following a strong start, online platforms are experiencing a slowdown in festive sales. This and more in today\u2019s ETtech Morning Dispatch.",
+    "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/festive-sales-cool-after-early-surge-okta-ceo-on-h-1b-fee-fracas/articleshow/124202917.cms",
+    "timestamp": "2025-09-29T01:35:10Z"
+  },
+  {
+    "title": "Kremlin says British and French arsenals must ultimately be part of nuclear disarmament talks",
+    "description": "Peskov's remarks come amid a Kremlin proposal to the U.S. this month to voluntarily maintain for a year the limits on deployed strategic nuclear weapons set ...",
+    "link": "https://www.yahoo.com/news/articles/kremlin-says-british-french-arsenals-013501270.html",
+    "timestamp": "2025-09-29T01:35:01Z"
+  },
+  {
+    "title": "Trump administration authorizes 200 National Guard members for Portland deployment - Oregon Public Broadcasting - OPB",
+    "description": "Trump administration authorizes 200 National Guard members for Portland deploymentOregon Public Broadcasting - OPB Trump seems to cool on Portland military plan after local leaders push backKGW Oregon sues Trump in bid to stop National Guard deployment to Por\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=179575130",
+    "timestamp": "2025-09-29T01:32:55Z"
+  },
+  {
+    "title": "Conor McGregor is bypassing the UFC and going directly to Donald Trump to negotiate his next fight",
+    "description": "Conor McGregor has taken an unusual approach to his return to combat sports by negotiating directly with President Donald Trump for participation in a UFC event planned at the Whit",
+    "link": "https://www.marca.com/en/ufc/2025/09/29/68d9e13646163f8a268b458d.html",
+    "timestamp": "2025-09-29T01:31:13Z"
+  },
+  {
+    "title": "Mint Quick Edit | India\u2019s pharma exports are mostly immune but trade logic gets battered",
+    "description": "Indian pharmaceutical exporters have little to fear in Trump\u2019s 100% drug tariff. Generics are spared while unique therapeutic products are not very price sensitive. It\u2019s the logic of free trade that takes the real blow.",
+    "link": "https://www.livemint.com/opinion/online-views/indian-pharma-exports-us-tariffs-branded-drugs-generic-drug-industry-impact-donald-trump-trade-policy-patents-generics-11759051853984.html",
+    "timestamp": "2025-09-29T01:30:08Z"
+  },
+  {
+    "title": "Four dead, eight injured in US Mormon church shooting",
+    "description": "A man who crashed his vehicle through the front doors of a Mormon church in Michigan opened fire with an assault rifle and set the church ablaze, killing at least four people and wounding at least eight others before dying in a shootout with police, officials\u2026",
+    "link": "https://www.rte.ie/news/us/2025/0929/1535796-michigan-shooting/",
+    "timestamp": "2025-09-29T01:30:02Z"
+  },
+  {
+    "title": "Republican governor signs into law Trump-backed congressional redistricting map",
+    "description": "Missouri joins Texas in mid-decade redistricting efforts as Republicans and Democrats battle over congressional maps ahead of the 2026 midterm elections.",
+    "link": "https://www.foxnews.com/politics/republican-governor-signs-law-trump-backed-congressional-redistricting-map",
+    "timestamp": "2025-09-29T01:23:42Z"
+  },
+  {
+    "title": "Russia needs to 'wake up and accept reality,' in its ongoing war against Ukraine, says Vance",
+    "description": "US Vice President JD Vance urged Russia to accept reality for peace in Ukraine. President Donald Trump stated Ukraine can win back its territory with continued support. Trump called Russia a paper tiger after assessing the situation. Vance noted the death tol\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/russia-needs-to-wake-up-and-accept-reality-in-its-ongoing-war-against-ukraine-says-vance/articleshow/124202876.cms",
+    "timestamp": "2025-09-29T01:17:34Z"
+  },
+  {
+    "title": "Trump says he will tell US military leaders 'we love them' at mass gathering",
+    "description": "The US president said he will tell military leaders \"we love them, they're cherished leaders\" during a meeting organised by Defense Secretary Pete Hegseth.",
+    "link": "https://www.abc.net.au/news/2025-09-29/donald-trump-pete-hegseth-us-military-meeting/105829802",
+    "timestamp": "2025-09-29T01:14:56Z"
+  },
+  {
+    "title": "Trump considering electronics tariffs based on chip content- Reuters",
+    "description": "UBS sees these \"opportunities\" as Powell flags \"no risk-free\" rate path ahead\nInvesting.com-- The Donald Trump administration is considering imposing tariffs on electronic devices based on the number of chips in them, as it seeks to draw more manufacturing to\u2026",
+    "link": "https://biztoc.com/x/80b4e6b0576b2358",
+    "timestamp": "2025-09-29T01:14:44Z"
+  },
+  {
+    "title": "'It's going to matter a lot': Experts share what to expect from a government shutdown",
+    "description": "WASHINGTON \u2014 Congress\u2019 failure to pass a short-term government funding bill before midnight Tuesday will lead to the first shutdown in nearly seven years and give President Donald Trump broad authority to determine what federal operations keep running \u2014 which\u2026",
+    "link": "https://www.rawstory.com/government-shutdown-2674049248/",
+    "timestamp": "2025-09-29T01:12:55Z"
+  },
+  {
+    "title": "Oregon sues over Trump admin's 'war-ravaged Portland' National Guard troop deployment",
+    "description": "Attorney General Dan Rayfield, Governor Tina Kotek and Mayor Keith Wilson challenged the Trump administration's National Guard deployment to Portland in federal court.",
+    "link": "https://www.foxnews.com/politics/oregon-sues-over-trump-admins-war-ravaged-portland-national-guard-troop-deployment",
+    "timestamp": "2025-09-29T01:10:13Z"
+  },
+  {
+    "title": "CNBC Daily Open: Breaking the September market curse",
+    "description": "September has been far from an ideal month for U.S. stocks for the past several years, but this time, though, things seem to be better,",
+    "link": "https://www.cnbc.com/2025/09/29/cnbc-daily-open-breaking-the-september-market-curse-.html",
+    "timestamp": "2025-09-29T01:09:38Z"
+  },
+  {
+    "title": "Asian shares cautious as US government faces shutdown risk",
+    "description": "Asian markets opened cautiously Monday as investors eyed a potential U.S. government shutdown, which could delay key economic data and marginally impact the Fed's October rate cut decision. Despite this, S&P 500 futures rose, while gold neared a record high a\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/shares-cautious-in-asia-as-us-government-faces-shutdown-risk/articleshow/124202811.cms",
+    "timestamp": "2025-09-29T01:04:36Z"
+  },
+  {
+    "title": "Republican, Democratic Leaders Dig In In Shutdown Standoff Ahead Of Meeting With Trump",
+    "description": "Republican, Democratic Leaders Dig In In Shutdown Standoff Ahead Of Meeting With Trump\n \nAuthored by Jacob Burg via The Epoch Times (emphasis ours),\nDemocratic and Republican congressional leaders are digging their heels in ahead of a critical meeting with Pr\u2026",
+    "link": "https://biztoc.com/x/5d36023e50dd3033",
+    "timestamp": "2025-09-29T01:03:06Z"
+  },
+  {
+    "title": "JUST IN: MASSIVE WALKOUT ALERT | Over 100,000 federal employees are expected to resign \u2014 setting up what could be the largest exodus in U.S. history.",
+    "description": "These are career bureaucrats who don\u2019t want accountability. The system is finally being exposed for what it is. The question is \u2014 is this a crisis or the reset America needs? Thoughts? \u2b07\ufe0f",
+    "link": "https://freerepublic.com/focus/f-news/4343185/posts",
+    "timestamp": "2025-09-29T01:01:10Z"
+  },
+  {
+    "title": "Ryder Cup: Bethpage circus holds a mirror up to Donald Trump\u2019s America - Opinion",
+    "description": "Rory McIlroy\u2019s wife was doused in beer after crowd chaos on the 17th tee.",
+    "link": "https://www.nzherald.co.nz/sport/golf/ryder-cup-bethpage-circus-holds-a-mirror-up-to-donald-trumps-america/PYA76LSF2VAKPO42O25CMPCDYI/",
+    "timestamp": "2025-09-29T01:01:00Z"
+  },
+  {
+    "title": "Mood of the Boardroom: University leaders warn of funding gap as international enrolments surge",
+    "description": "China and India are rapidly expanding their own university sectors, experts warn.",
+    "link": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-university-leaders-warn-of-funding-gap-as-international-enrolments-surge/4BUFJXNL7RCILIK7324VDCHSJM/",
+    "timestamp": "2025-09-29T01:00:00Z"
+  },
+  {
+    "title": "In going after his foes, Trump sets a precedent that could haunt his allies",
+    "description": "President Trump's administration is establishing dangerous precedents by prosecuting former officials and using government power against political foes. Many conservatives fear these new norms will empower future Democratic administrations to retaliate, creat\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/in-going-after-his-foes-trump-sets-a-precedent-that-could-haunt-his-allies/articleshow/124202790.cms",
+    "timestamp": "2025-09-29T00:59:09Z"
+  },
+  {
+    "title": "Trump optimistic on Gaza peace deal; Hamas says it lost contact with two hostages in Gaza City",
+    "description": "President Trump hopes to finalize a Gaza peace plan with Prime Minister Netanyahu, even as Israeli forces push deeper into Gaza City. Hamas reported losing contact with two hostages and requested a 24-hour ceasefire for their retrieval, a plea Israel rejected\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-optimistic-on-gaza-peace-deal-hamas-says-it-lost-contact-with-two-hostages-in-gaza-city/articleshow/124202785.cms",
+    "timestamp": "2025-09-29T00:57:50Z"
+  },
+  {
+    "title": "Oregon sues Trump administration over order to deploy troops in Portland (Washington Post)",
+    "description": "Washington Post:\nOregon sues Trump administration over order to deploy troops in Portland\u00a0 \u2014\u00a0 The defense secretary issued a memo saying 200 members of the Oregon National Guard would be activated, an action state leaders say is unlawful.\u00a0 \u2014\u00a0 Oregon filed a l\u2026",
+    "link": "https://www.memeorandum.com/250928/p81",
+    "timestamp": "2025-09-29T00:55:00Z"
+  },
+  {
+    "title": "Shares rise in Asia; dollar dips as US government faces closure",
+    "description": "SYDNEY :Most share markets rose in Asia on Monday while the dollar eased as investors braced for a possible shutdown of the U.S. government, which would in turn delay publication of the September payrolls report and a raft of other key data.President Donald T\u2026",
+    "link": "https://www.channelnewsasia.com/business/shares-rise-in-asia-dollar-dips-us-government-faces-closure-5374581",
+    "timestamp": "2025-09-29T00:52:18Z"
+  },
+  {
+    "title": "Shares edge higher in Asia, dollar dips as US government risks shutdown",
+    "description": "SYDNEY :Most share markets rose in Asia on Monday while the dollar eased as investors braced for a possible shutdown of the U.S. government, which would in turn delay publication of the September payrolls report and a raft of other key data.President Donald T\u2026",
+    "link": "https://www.channelnewsasia.com/business/shares-edge-higher-in-asia-dollar-dips-us-government-risks-shutdown-5374581",
+    "timestamp": "2025-09-29T00:52:18Z"
+  },
+  {
+    "title": "Shares cautious in Asia as US government faces shutdown risk",
+    "description": "SYDNEY :Share markets got off to a cautious start in Asia on Monday as investors braced for a possible shutdown of the U.S. government, which would in turn delay publication of the September payrolls report and a raft of other key data.President Donald Trump \u2026",
+    "link": "https://www.channelnewsasia.com/business/shares-cautious-in-asia-us-government-faces-shutdown-risk-5374581",
+    "timestamp": "2025-09-29T00:52:18Z"
+  },
+  {
+    "title": "\u2018I Can\u2019t STOP Seeing It\u2019: Utah Gov. Spencer Cox Haunted By Charlie Kirk Shooting Video",
+    "description": "Utah Gov. Spencer Cox told 60 Minutes that his mind cannot stop replaying the devastating viral clip of conservative activist Charlie Kirk being shot and killed\nThe post \u2018I Can\u2019t STOP Seeing It\u2019: Utah Gov. Spencer Cox Haunted By Charlie Kirk Shooting Video fi\u2026",
+    "link": "https://www.mediaite.com/media/i-cant-stop-seeing-it-utah-gov-spencer-cox-haunted-by-charlie-kirk-shooting-video/",
+    "timestamp": "2025-09-29T00:50:58Z"
+  },
+  {
+    "title": "Shares cautious in Asia as US government faces shutdown risk",
+    "description": "SYDNEY (Reuters) -Share markets got off to a cautious start in Asia on Monday as investors braced for a possible shutdown of the U.S. government, which would...",
+    "link": "https://finance.yahoo.com/news/shares-cautious-asia-us-government-004909461.html",
+    "timestamp": "2025-09-29T00:49:09Z"
+  },
+  {
+    "title": "Shocking attack on Michigan church",
+    "description": "A gunman opened fire inside a Church of Jesus Christ of Latter-day Saints chapel in Michigan during a Sunday service and set the building ablaze, killing at least two people and injuring eight others before police shot him, authorities said.",
+    "link": "https://www.bostonherald.com/2025/09/28/shocking-attack-on-michigan-church/",
+    "timestamp": "2025-09-29T00:46:33Z"
+  },
+  {
+    "title": "Zohran Mamdani Calls Out Trump In Response to Eric Adams' Abrupt Exit",
+    "description": "The Democratic nominee for New York City mayor also stressed that he was confident in the support he had from voters in the race.",
+    "link": "https://www.huffpost.com/entry/zohran-mamdani-eric-adams-trump_n_68d9c51ce4b0cf903dc4ca5e",
+    "timestamp": "2025-09-29T00:45:57Z"
+  },
+  {
+    "title": "The sanctions war on Iran has resumed, and it couldn\u2019t happen to a more deserving country",
+    "description": "Iran used to be a very sophisticated country...and then, in 1979, the Mullahs moved in. While Tehran is still a fairly modern city, the moment you step out of it, you enter the backwaters of what almost fifty years of Islamic extremism will do to a nation. Ad\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4343183/posts",
+    "timestamp": "2025-09-29T00:45:25Z"
+  },
+  {
+    "title": "Schumer Says He Has \u2018No Faith In Donald Trump\u2019s Judicial System\u2019 After Comey Indictment",
+    "description": "The minority leader said Trump\u2019s indictment of Comey is \u201cone of the very worst\u201d things he\u2019s done to \u201cundermine our democracy.\u201d",
+    "link": "https://www.huffpost.com/entry/chuck-schumer-james-comey-indictment-trump-justice_n_68d9598fe4b040e2851e516d",
+    "timestamp": "2025-09-29T00:36:59Z"
+  },
+  {
+    "title": "Dolly Parton, America's Beloved Icon, Pauses Performances to Prioritize Health",
+    "description": "America's Favorite Entertainer Dolly Parton, is postponing upcoming appearances to deal with health challenges.Dolly Parton says she is delaying her...",
+    "link": "https://twitchy.com/justmindy/2025/09/28/dolly-parton-postpones-concerts-n2419659",
+    "timestamp": "2025-09-29T00:35:40Z"
+  },
+  {
+    "title": "Things To Know About Federal Law Enforcement Activity In Chicago, Portland, Memphis",
+    "description": "Trump said Saturday that he'd be deploying troops to Portland and authorized the use of \"full force.\"",
+    "link": "https://www.huffpost.com/entry/ap-us-federal-crackdowns-what-to-know_n_68d9d143e4b038b66c957122",
+    "timestamp": "2025-09-29T00:32:16Z"
+  },
+  {
+    "title": "Federal Workers Brace for Mass Firings as Shutdown Looms",
+    "description": "The White House has threatened to carry out mass layoffs if a deal to avoid a government shutdown is not reached.",
+    "link": "https://time.com/7321312/government-shutdown-layoffs-federal-workers/",
+    "timestamp": "2025-09-29T00:30:47Z"
+  },
+  {
+    "title": "Immigrant family in Colorado decides to return to Mexico as work dries up",
+    "description": "As immigration enforcement operations increase and work becomes less prevalent, many immigrant families, including those in Colorado, have opted to leave the United States.",
+    "link": "https://www.cbsnews.com/colorado/news/immigrant-family-colorado-return-mexico-no-work/",
+    "timestamp": "2025-09-29T00:30:31Z"
+  },
+  {
+    "title": "Oregon leaders say Trump is deploying 200 National Guard troops within the state",
+    "description": "Two hundred members of the Oregon National Guard are being placed under federal control and deployed to protect immigration enforcement officers and government facilities",
+    "link": "https://abcnews.go.com/Politics/wireStory/oregon-leaders-trump-deploying-200-national-guard-troops-126026134",
+    "timestamp": "2025-09-29T00:30:28Z"
+  },
+  {
+    "title": "Things to know about federal law enforcement activity in Chicago, Portland, Memphis",
+    "description": "Armed federal agents are patrolling Chicago\u2019s downtown streets and President Donald Trump has called up 200 National Guard troops for deployment in Portland, Oregon",
+    "link": "https://abcnews.go.com/US/wireStory/things-federal-law-enforcement-activity-chicago-portland-memphis-126017077",
+    "timestamp": "2025-09-29T00:30:27Z"
+  },
+  {
+    "title": "Trump news at a glance: more than 100,000 federal workers to quit on Tuesday in largest ever mass resignation",
+    "description": "Latest departures in Trump administration\u2019s deferred resignation program come as Congress faces government shutdown deadline \u2013 key US politics stories from...",
+    "link": "https://www.yahoo.com/news/articles/trump-news-glance-more-100-003018292.html",
+    "timestamp": "2025-09-29T00:30:18Z"
+  },
+  {
+    "title": "Why economists get Trumpism wrong",
+    "description": "The great physicist Richard Feynman once wrote: \u201cI think I can safely say that nobody understands quantum mechanics.\u201d\nI can say safely that nobody understands the economic and political consequences of Donald Trump. I am not likening his policies to one of th\u2026",
+    "link": "https://biztoc.com/x/71b727eb1b60a532",
+    "timestamp": "2025-09-29T00:29:40Z"
+  },
+  {
+    "title": "Two more years? Fans, players applaud Europe's 'greatest captain' Luke Donald",
+    "description": "FARMINGDALE, New York :Luke Donald survived what he called the most stressful 12 hours of his life to steer Europe to a rare away win at the Ryder Cup and their second straight title at Bethpage Black on Sunday, earning universal acclaim from fans and players\u2026",
+    "link": "https://www.channelnewsasia.com/sport/two-more-years-fans-players-applaud-europes-greatest-captain-luke-donald-5374556",
+    "timestamp": "2025-09-29T00:25:14Z"
+  },
+  {
+    "title": "Trump seeks expedited Supreme Court review of birthright citizenship executive order",
+    "description": "President Trump is asking the Supreme Court for a definitive ruling on his reinterpretation of more than a century of legal precedent around birthright citizenship.",
+    "link": "https://abcnews.go.com/Politics/trump-seeks-expedited-supreme-court-review-birthright-citizenship/story?id=126025758",
+    "timestamp": "2025-09-29T00:22:31Z"
+  },
+  {
+    "title": "Netanyahu to meet Trump as U.S. intensifies Gaza ceasefire push",
+    "description": "The talks come as Israel intensifies its offensive on Gaza City with the aim of eliminating Hamas\u2019 remaining military strongholds.",
+    "link": "https://www.japantimes.co.jp/news/2025/09/29/world/politics/netanyahu-trump-gaza-ceasefire/",
+    "timestamp": "2025-09-29T00:20:00Z"
+  },
+  {
+    "title": "Families of 48 hostages to Trump: Only you can end this ordeal",
+    "description": "Families of 48 hostages held by Hamas thank President Trump for his UN remarks and urge him to finalize a deal to end the war and bring their loved ones home ahead of his meeting with Netanyahu.",
+    "link": "https://www.israelnationalnews.com/news/415546",
+    "timestamp": "2025-09-29T00:16:49Z"
+  },
+  {
+    "title": "Oregon Seeks Legal Block to Trump's Federal Troop Deployment to Portland",
+    "description": "Oregon Attorney General Dan Rayfield has filed a lawsuit seeking to block the Trump administration from deploying troops to Portland.\nPresident Donald Trump announced on Saturday that he would authorize \"Full Force\" if necessary to bolster the safety of Immig\u2026",
+    "link": "https://biztoc.com/x/ffcd59e4abdbcc18",
+    "timestamp": "2025-09-29T00:11:23Z"
+  },
+  {
+    "title": "GRAHAM J NOBLE: Escalating Violence Against ICE Demands Accountability",
+    "description": "Impressionable and \u2013 probably in most cases \u2013 mentally unstable young men and women are being conditioned to believe they are up against the forces of tyranny.",
+    "link": "https://dailycaller.com/2025/09/28/opinion-escalating-violence-against-ice-demands-accountability-graham-j-noble/",
+    "timestamp": "2025-09-29T00:11:18Z"
+  },
+  {
+    "title": "By not recognising a Palestinian state, NZ puts its own hard-won reputation on the line",
+    "description": "By not joining its close allies over the question of Palestinian statehood, NZ risks being \u2018on the wrong side of history\u2019.",
+    "link": "https://theconversation.com/by-not-recognising-a-palestinian-state-nz-puts-its-own-hard-won-reputation-on-the-line-266224",
+    "timestamp": "2025-09-29T00:10:03Z"
+  },
+  {
+    "title": "Insults, expletives and squeaky ducks - the most abusive Ryder Cup in almost a century of matches",
+    "description": "Bitterness and toxicity were off the scale at Bethpage Black - but Europe overcame it to win the 45th edition of golf's most prestigious team prize.",
+    "link": "https://news.sky.com/story/insults-expletives-and-squeaky-ducks-the-most-abusive-ryder-cup-in-almost-a-century-of-matches-13440736",
+    "timestamp": "2025-09-29T00:10:00Z"
+  },
+  {
+    "title": "Gunman kills 2 after crashing vehicle into Mormon church",
+    "description": "A gunman drove his vehicle into a Church of Jesus Christ of Latter-day Saints building in Michigan on Sunday before opening fire on worshippers during a service.",
+    "link": "https://www.christianpost.com/news/gunman-kills-1-wounds-9-after-crashing-car-into-lds-church.html",
+    "timestamp": "2025-09-29T00:06:00Z"
+  },
+  {
+    "title": "Will India-US tariff deal spark the next rally on Dalal Street?",
+    "description": "Indian equities face continued underperformance, trailing global peers due to earnings disappointment and significant overseas exits. While corporate earnings revival is anticipated only by FY27, a resolution to the India-US tariff dispute is seen as the imme\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-india-us-tariff-deal-spark-the-next-rally-on-dalal-street/articleshow/124202522.cms",
+    "timestamp": "2025-09-29T00:05:38Z"
+  },
+  {
+    "title": "As the US tightens restrictions on foreign workers, the rest of the world scrambles to lure top talent",
+    "description": "President Donald Trump\nBloomberg/Bloomberg via Getty Images\nMany US industries, like tech and finance, have long recruited top talent from around the world.\nTrump's policies in his 2nd term, however, have made hiring foreign workers more difficult.\nOther coun\u2026",
+    "link": "https://biztoc.com/x/d89c595b88ec9eb2",
+    "timestamp": "2025-09-29T00:01:39Z"
+  },
+  {
+    "title": "Strategic Treason: The Empire Fetes Man Who Killed US Troops",
+    "description": "On Monday, Sept. 22, the current president of Syria, Ahmed al-Sharaa, joined the former director of the Central Intelligence Agency (CIA), David Petraeus, on stage for a discussion at the Concordia Annual Summit in New York City. The summit is one of the most\u2026",
+    "link": "https://original.antiwar.com/scott/2025/09/28/strategic-treason-the-empire-fetes-man-who-killed-us-troops/",
+    "timestamp": "2025-09-29T00:00:33Z"
+  },
+  {
+    "title": "Michael Cohen stuns MSNBC panel with statement about James Comey indictment",
+    "description": "Michael Cohen stunned three MSNBC panelists on Saturday after he stated that it was \"likely\" James Comey committed a crime following news of the indictment.",
+    "link": "https://www.foxnews.com/media/michael-cohen-stuns-msnbc-panel-statement-about-james-comey-indictment",
+    "timestamp": "2025-09-29T00:00:24Z"
+  },
+  {
+    "title": "The Trump\u2013MBS Bromance and the Future of Saudi\u2013US Relations",
+    "description": "President Donald Trump has repeatedly expressed his admiration for Saudi Arabia and its crown prince, Mohammed bin Salman (MBS). In a speech in Riyadh in May 2025, Trump lavished praise on his host, calling him \u201cyour greatest representative\u201d and adding, \u201cI li\u2026",
+    "link": "https://www.hoover.org/research/trump-mbs-bromance-and-future-saudi-us-relations",
+    "timestamp": "2025-09-29T00:00:00Z"
+  },
+  {
+    "title": "NIH races to spend its 2025 grant money \u2014 but fewer projects win funding",
+    "description": "Despite political obstacles, officials are on track to disperse all of the reseach funds allocated to US biomedical behemoth.",
+    "link": "https://www.nature.com/articles/d41586-025-03168-4",
+    "timestamp": "2025-09-29T00:00:00Z"
+  },
+  {
+    "title": "Public trust in science has declined since COVID \u2014 virologists need to unite around safety standards",
+    "description": "Creating international viral biosafety guidelines are key to clearing up confusion, regaining trust and ensuring that essential research continues.",
+    "link": "https://www.nature.com/articles/d41586-025-03151-z",
+    "timestamp": "2025-09-29T00:00:00Z"
+  },
+  {
+    "title": "TikTok\u2019s US Fate: Control vs. Ownership",
+    "description": "Is TikTok\u2019s US Operations Really Detaching From ByteDance? The future of TikTok in the United States is under scrutiny as details emerge about its proposed restructuring. According to recent reports, ByteDance, the China-based owner of TikTok, intends to reta\u2026",
+    "link": "https://nep123.com/tiktoks-us-fate-control-vs-ownership/",
+    "timestamp": "2025-09-28T23:59:12Z"
+  },
+  {
+    "title": "As the US tightens restrictions on foreign workers, the rest of the world scrambles to lure top talent",
+    "description": "From Canada to South Korea, the world is racing to attract the best and brightest as the Trump administration cracks down on foreign workers.",
+    "link": "https://www.businessinsider.com/trump-foreign-worker-restrictions-h1b-visa-foreign-talent-recruitment-2025-9",
+    "timestamp": "2025-09-28T23:57:41Z"
+  },
+  {
+    "title": "Trump says leaders 'freak out' over Oval Office gold",
+    "description": "United States President Donald Trump said the new gold decor of the Oval Office leaves foreign leaders awestruck upon seeing the \"quality and beauty.\"\n\"Some of the highest quality 24 K...",
+    "link": "https://biztoc.com/x/058d2c9688a481f6",
+    "timestamp": "2025-09-28T23:55:59Z"
+  },
+  {
+    "title": "Trump Goes on Truth Spree, Warns Border Patrol \u2018Will Take No Nonsense\u2019 In Chicago",
+    "description": "President Donald Trump went on a social media binge on Sunday evening, posting 12 times in the span of 15 minutes on Truth Social about troops entering Chicago\nThe post Trump Goes on Truth Spree, Warns Border Patrol \u2018Will Take No Nonsense\u2019 In Chicago first ap\u2026",
+    "link": "https://www.mediaite.com/media/news/trump-goes-on-truth-spree-warns-border-patrol-will-take-no-nonsense-in-chicago/",
+    "timestamp": "2025-09-28T23:50:43Z"
+  },
+  {
     "title": "Shutdown standoff deepens",
     "description": "Top Senate Democrat Chuck Schumer and Republican Majority Leader John Thune are digging in ahead of this week's deadline to keep the government open, showing little evidence of budging even as both sides have agreed to meet with President Donald Trump at the \u2026",
     "link": "https://www.bostonherald.com/2025/09/28/shutdown-standoff-deepens/",
@@ -94,455 +562,5 @@
     "description": "WASHINGTON (Reuters) -U.S. Defense Secretary Pete Hegseth on Sunday ordered 200 Oregon National Guard troops to be deployed under federal authority while the state filed a lawsuit challenging President Donald Trump's move to send military forces into the Demo\u2026",
     "link": "https://www.thestar.com.my/news/world/2025/09/29/pentagon-calls-up-200-national-guard-troops-after-trump-portland-announcement",
     "timestamp": "2025-09-28T23:20:00Z"
-  },
-  {
-    "title": "Pentagon calls up 200 National Guard troops after Trump Portland announcement",
-    "description": "WASHINGTON (Reuters) -U.S. Defense Secretary Pete Hegseth on Sunday ordered 200 Oregon National Guard troops to be deployed under federal authority while the...",
-    "link": "https://ca.news.yahoo.com/pentagon-calls-200-national-guard-231555200.html",
-    "timestamp": "2025-09-28T23:15:55Z"
-  },
-  {
-    "title": "Two dead, church torched in Michigan shooting rampage",
-    "description": "Gunman rams a truck into a Michigan church, opens fire during Sunday service, and sets it ablaze. Two killed, several injured, suspect shot dead by police. OU: We stand together with all Americans against hate.",
-    "link": "https://www.israelnationalnews.com/news/415545",
-    "timestamp": "2025-09-28T23:15:14Z"
-  },
-  {
-    "title": "After Weeks of Threats, Trump Sends Federalized Troops To Downtown Chicago",
-    "description": "President Donald Trump has started sending federalized troops to Chicago after threatening to do so for weeks.\nThe post After Weeks of Threats, Trump Sends Federalized Troops To Downtown Chicago first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/after-weeks-of-threats-trump-sends-federalized-troops-to-downtown-chicago/",
-    "timestamp": "2025-09-28T23:11:02Z"
-  },
-  {
-    "title": "London mayor hits out at 'misinformation' as new figures show fall in crimes",
-    "description": "Sadiq Khan has hit back at politicians \"spreading misinformation\" about safety in London as new data shows the number of violent crimes leading to injury has fallen in every borough over the past year.",
-    "link": "https://news.sky.com/story/london-mayor-sadiq-khan-hits-out-at-misinformation-as-new-figures-show-fall-in-crimes-13440442",
-    "timestamp": "2025-09-28T23:01:00Z"
-  },
-  {
-    "title": "Soybean farmers caught in looming crisis as US trade war with China cripples sales",
-    "description": "Soybean farmers caught in looming crisis as US trade war with China cripples salesgo.com",
-    "link": "https://abcnews.go.com/Politics/soybean-farmers-caught-looming-crisis-us-trade-war/story?id=125943171",
-    "timestamp": "2025-09-28T23:00:47Z"
-  },
-  {
-    "title": "Trump says he 'would think' that DOJ is investigating former FBI Director Christopher Wray",
-    "description": "President Donald Trump, in an exclusive interview Sunday with NBC News, accused former Federal Bureau of Investigation Director Christopher Wray of \u201cinappropriate\u201d behavior during his tenure and said that he \u201cwould think\u201d that the Justice Department is invest\u2026",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-weighs-whether-doj-investigate-former-fbi-director-christopher-w-rcna234225",
-    "timestamp": "2025-09-28T23:00:23Z"
-  },
-  {
-    "title": "Standard Chartered Bucks Bearish Trend, Forecasts Oil Price Gains in 2026",
-    "description": "We are in the final innings of the third quarter, and energy markets remain tepid amid bearish sentiment. Brent crude for November delivery was trading at $69.45 per barrel at 8.45 am ET on Friday, more than $10/bbl below the current year\u2019s peak at ~81/bbl, w\u2026",
-    "link": "https://oilprice.com/Energy/Energy-General/Standard-Chartered-Bucks-Bearish-Trend-Forecasts-Oil-Price-Gains-in-2026.html",
-    "timestamp": "2025-09-28T23:00:00Z"
-  },
-  {
-    "title": "Standard Chartered Bucks Bearish Trend, Forecasts Oil Price Gains in 2026",
-    "description": "Wall Street forecasts a surplus and prices in the $50s next year, while Standard Chartered expects stimulus and supply cuts to support a rebound.",
-    "link": "https://finance.yahoo.com/news/standard-chartered-bucks-bearish-trend-230000436.html",
-    "timestamp": "2025-09-28T23:00:00Z"
-  },
-  {
-    "title": "Netanyahu says Israel and U.S. working on Gaza ceasefire plan as death toll tops 66,000",
-    "description": "On the eve of meeting with U.S. President Donald Trump, Israeli Prime Minister Benjamin Netanyahu said Sunday that Israel is working on a new ceasefire plan with the White House, but details are still being sorted out.",
-    "link": "https://biztoc.com/x/5fd10fe1f3e63d8b",
-    "timestamp": "2025-09-28T22:59:50Z"
-  },
-  {
-    "title": "Netanyahu says Israel and U.S. working on Gaza ceasefire plan as death toll tops 66,000",
-    "description": "On the eve of meeting with U.S. President Donald Trump, Israeli\u00a0Prime Minister Benjamin Netanyahu\u00a0said Sunday that Israel is working on a new ceasefire plan with the White House, but details are still being sorted out.",
-    "link": "https://www.pbs.org/newshour/world/netanyahu-says-israel-and-u-s-working-on-gaza-ceasefire-plan-as-death-toll-tops-66000",
-    "timestamp": "2025-09-28T22:47:04Z"
-  },
-  {
-    "title": "Ariana Grande Calls Out Trump Supporters in Fiery Instagram Post",
-    "description": "Ariana Grande's got some questions for people who voted for Donald Trump last year ... and, it all boils down to whether economic gains are worth everything else the administation's done. The singer-songwriter reshared a post which asks people who\u2026\n Permalink",
-    "link": "https://www.tmz.com/2025/09/28/ariana-grande-calls-out-trump-supporters-fiery-instagram-post/",
-    "timestamp": "2025-09-28T22:46:58Z"
-  },
-  {
-    "title": "Trump's Public Comments Could Further Complicate the Shaky Case Against James Comey",
-    "description": "By demanding that the Justice Department punish the former FBI director for wronging him, the president provided evidence to support a claim of selective or vindictive prosecution.",
-    "link": "https://reason.com/2025/09/28/trumps-public-comments-could-further-complicate-the-shaky-case-against-james-comey/",
-    "timestamp": "2025-09-28T22:41:14Z"
-  },
-  {
-    "title": "Here's the biggest news you missed this weekend",
-    "description": "President Donald Trump in an interview with NBC News, confirmed he plans to attend an unusual meeting organized by Defense Secretary Pete Hegseth that will gather hundreds of senior military officers.",
-    "link": "https://biztoc.com/x/87db285bb178a3a1",
-    "timestamp": "2025-09-28T22:37:02Z"
-  },
-  {
-    "title": "Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat (David A. Lieb/Associated Press)",
-    "description": "David A. Lieb / Associated Press:\nMissouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat\u00a0 \u2014\u00a0 Missouri Gov. Mike Kehoe signed a new U.S. House map into law Sunday as part of President Donald Trump's plan to try to hold\u2026",
-    "link": "https://www.memeorandum.com/250928/p68",
-    "timestamp": "2025-09-28T22:30:02Z"
-  },
-  {
-    "title": "Missouri Gov. Kehoe signs Trump-backed plan to help GOP win another U.S. House seat",
-    "description": "Missouri is the third state this year to try to redraw its districts for partisan advantage, a process known as\u00a0gerrymandering.",
-    "link": "https://www.pbs.org/newshour/politics/missouri-gov-kehoe-signs-trump-backed-plan-to-help-gop-win-another-u-s-house-seat",
-    "timestamp": "2025-09-28T22:29:58Z"
-  },
-  {
-    "title": "Judge Finds Secretly Deported Immigrant Will Likely Face Torture",
-    "description": "U.S. District Court Judge Amir Ali found that an immigrant could face torture after President Donald Trump's administration deported him despite an ongoing court case.\n\"Victor Omar Bonilla Alvarez escaped years of torture and abuse at the hands of MS-13 and l\u2026",
-    "link": "https://crooksandliars.com/2025/09/judge-finds-secretly-deported-immigrant",
-    "timestamp": "2025-09-28T22:24:40Z"
-  },
-  {
-    "title": "New York City Mayor Eric Adams abandons his reelection campaign",
-    "description": "New York City Mayor Eric Adams has abandoned his struggling campaign for reelection",
-    "link": "https://abcnews.go.com/Politics/wireStory/new-york-city-mayor-eric-adams-abandons-reelection-126017587",
-    "timestamp": "2025-09-28T22:22:23Z"
-  },
-  {
-    "title": "Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat | CNN Politics",
-    "description": "Missouri Gov. Mike Kehoe signed a new US House map into law Sunday as part of President Donald Trump\u2019s plan to try to hold on to a narrow Republican majority in next year\u2019s congressional election.",
-    "link": "https://www.cnn.com/2025/09/28/politics/missouri-governor-signs-redistricting-plan",
-    "timestamp": "2025-09-28T22:21:56Z"
-  },
-  {
-    "title": "JUST IN: Oregon Sues Trump for \u2018Unlawful\u2019 Troop Deployment: \u2018Incompatible With Liberty and Democracy\u2019",
-    "description": "Oregon has filed a lawsuit against the Trump administration for deploying troops to the city of Portland, calling the action 'patently unlawful.'\nThe post JUST IN: Oregon Sues Trump for \u2018Unlawful\u2019 Troop Deployment: \u2018Incompatible With Liberty and Democracy\u2019 fi\u2026",
-    "link": "https://www.mediaite.com/media/news/just-in-oregon-sues-trump-for-unlawful-troop-deployment-incompatible-with-liberty-and-democracy/",
-    "timestamp": "2025-09-28T22:21:39Z"
-  },
-  {
-    "title": "Next National Security Strategy risks misreading history again",
-    "description": "'We need a national conversation about what these proposed paths would yield in terms of the United States\u2019 power position relative to our adversaries'",
-    "link": "https://www.wnd.com/2025/09/next-national-security-strategy-risks-misreading-history-again/",
-    "timestamp": "2025-09-28T22:21:13Z"
-  },
-  {
-    "title": "Netanyahu to Meet Trump",
-    "description": "Israeli Prime Minister\u00a0Benjamin Netanyahu\u00a0is set to hold a crucial White House meeting with President\u00a0Donald Trump\u00a0on Monday amid assertions from Washington that an ambitious plan to end the war in Gaza is nearly complete, Bloomberg reports.",
-    "link": "https://politicalwire.com/2025/09/28/netanyahu-to-meet-trump/",
-    "timestamp": "2025-09-28T22:18:01Z"
-  },
-  {
-    "title": "Here's the biggest news you missed this weekend",
-    "description": "President Donald Trump in an interview with NBC News, confirmed he plans to attend an unusual meeting organized by Defense Secretary Pete Hegseth that will gather hundreds of senior military officers.",
-    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-september-28-rcna233758",
-    "timestamp": "2025-09-28T22:17:06Z"
-  },
-  {
-    "title": "Oregon sues Trump over National Guard federalization, citing power abuse, local autonomy",
-    "description": "PORTLAND, Ore. (KATU) \u2014 Oregon Attorney General Dan Rayfield announced that the state, along with the City of Portland, has filed a lawsuit against President Donald Trump and several federal officials. The move comes after Trump invoked Title 10, authorizing \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4343171/posts",
-    "timestamp": "2025-09-28T22:15:25Z"
-  },
-  {
-    "title": "Hezbollah a \u2018legitimate political party\u2019 within Lebanon, US envoy says",
-    "description": "Tom Barrack says Hezbollah\u2019s legitimacy within Lebanon\u2019s political system makes solving conflict with Israel difficult.",
-    "link": "https://www.aljazeera.com/news/2025/9/28/hezbollah-a-legitimate-political-party-within-lebanon-us-envoy-says",
-    "timestamp": "2025-09-28T22:03:52Z"
-  },
-  {
-    "title": "Fetterman rejects 'Nazi,' 'fascist' labels for opponents while affirming party loyalty",
-    "description": "Pennsylvania Senator John Fetterman says he will remain in the Democratic Party as an independent voice, refusing to call opponents Nazis or fascists.",
-    "link": "https://www.foxnews.com/media/sen-fetterman-rejects-nazi-fascist-labels-opponents-while-affirming-party-loyalty",
-    "timestamp": "2025-09-28T22:00:29Z"
-  },
-  {
-    "title": "What Is the 'Med Bed' Conspiracy Theory Trump Promoted? (Peter Wade/Rolling Stone)",
-    "description": "Peter Wade / Rolling Stone:\nWhat Is the \u2018Med Bed\u2019 Conspiracy Theory Trump Promoted?\u00a0 \u2014\u00a0 Believers in the \u201cmed bed\u201d theory think a miracle technology exists that can heal any disease, reverse aging, and regrow limbs\u00a0 \u2014\u00a0 Donald Trump posted a clip promoting new\u2026",
-    "link": "https://www.memeorandum.com/250928/p67",
-    "timestamp": "2025-09-28T22:00:01Z"
-  },
-  {
-    "title": "Israeli Ground Invasion Pushes Further Into Gaza City Ahead Of Netanyahu-Trump Meeting",
-    "description": "President Donald Trump said he hopes to finalize a Gaza peace plan with the Israeli leader, whose reputation has tanked before U.N. General Assembly.",
-    "link": "https://www.huffpost.com/entry/israeli-invasion-gaza-city-netanyahu-trump-meeting_n_68d9a542e4b038b66c956df3",
-    "timestamp": "2025-09-28T21:54:10Z"
-  },
-  {
-    "title": "John Thune Praises Tariffs As He Admits Farmers Have 'Big Harvest' With 'No Place To Go'",
-    "description": "Senate Majority Leader John Thune (R-SD) praised President Donald Trump's tariffs even as he admitted that farmers in his state had a \"big harvest\" with \"no place to go.\"\n\n\nDuring a Sunday interview on Meet the Press, host Kristen Welker told Thune that Trump\u2026",
-    "link": "https://crooksandliars.com/2025/09/john-thune-praises-tariffs-he-admits",
-    "timestamp": "2025-09-28T21:53:21Z"
-  },
-  {
-    "title": "Lindsey Graham Cites 'Golden Shower' Claim Against Trump To Defend Comey Indictment",
-    "description": "Sen. Lindsey Graham (R-SC) cited claims that President Donald Trump had a \"golden shower experience in Russia\" to defend an unrelated indictment against former FBI Director James Comey.\n\n\nDuring a Sunday interview on Fox News, Graham brought up a 2016 dossier\u2026",
-    "link": "https://crooksandliars.com/2025/09/lindsey-graham-cites-golden-shower-claim",
-    "timestamp": "2025-09-28T21:53:21Z"
-  },
-  {
-    "title": "Fractured Media Award Nominations: Supporting Crime, Opposing Health, and Mourning a Dog Before Charlie",
-    "description": "It is time for a new round of nominations for nefarious news nonsense! In recognizing the efforts of the unprofessional...",
-    "link": "https://redstate.com/bradslager/2025/09/28/fractured-media-award-nominations-supporting-crime-opposing-health-and-mourning-a-dog-before-charlie-n2194501",
-    "timestamp": "2025-09-28T21:50:21Z"
-  },
-  {
-    "title": "America\u2019s \u201cEpidemic Of Violence\u201d Explodes, But This Is Only Just The Beginning",
-    "description": "Political violence and mass shootings have become so common in the U.S. that a lot of us are numb to all of it by now. \u00a0Day after day, there are more incidents in the news. \u00a0In fact, the horrific acts of violence that I talked about a few days ago have alread\u2026",
-    "link": "http://theeconomiccollapseblog.com/americas-epidemic-of-violence-explodes-but-this-is-only-just-the-beginning/",
-    "timestamp": "2025-09-28T21:47:10Z"
-  },
-  {
-    "title": "Rubio announces release of US citizen held by Afghanistan",
-    "description": "Secretary of State Marco Rubio announced in a statement Sunday the release of U.S. citizen Amir Amiry, who had been considered wrongfully detained in Afghanistan.",
-    "link": "https://abcnews.go.com/Politics/rubio-announces-release-us-citizen-held-afghanistan/story?id=126020990",
-    "timestamp": "2025-09-28T21:46:37Z"
-  },
-  {
-    "title": "'Should not be having these conversations': Dem AG warns Trump crossed a 'big line'",
-    "description": "Oregon Attorney General Dan Rayfield, a Democrat, warned on Sunday that President Donald Trump's latest move crossed a \"big line.\" On Saturday, Trump ordered federal troops to be deployed to Portland, Oregon, to protect the city \"and any of our ICE Facilities\u2026",
-    "link": "https://www.rawstory.com/trump-2674049158/",
-    "timestamp": "2025-09-28T21:46:34Z"
-  },
-  {
-    "title": "Netanyahu to Meet Trump as US Intensifies Gaza Ceasefire Push",
-    "description": "Israeli Prime Minister Benjamin Netanyahu is set to hold a crucial White House meeting with US President Donald Trump on Monday amid assertions from Washington that an ambitious plan to end the war in Gaza is nearly complete.",
-    "link": "https://financialpost.com/pmn/business-pmn/netanyahu-to-meet-trump-as-us-intensifies-gaza-ceasefire-push",
-    "timestamp": "2025-09-28T21:41:41Z"
-  },
-  {
-    "title": "Taliban releases US citizen after envoy\u2019s visit",
-    "description": "DUBAI: Afghanistan's ruling Taliban released another US citizen from custody on Sunday (Sep 28) after a visit by Washington\u2019s hostage envoy Adam Boehler, the US government said.Amir Amiri, who had been",
-    "link": "https://www.channelnewsasia.com/world/taliban-releases-us-citizen-after-envoys-visit-5374456",
-    "timestamp": "2025-09-28T21:39:00Z"
-  },
-  {
-    "title": "Fetterman Pressed On Fox News About Whether He Plans to Switch Parties",
-    "description": "Sen. John Fetterman said he has no plan to switch to being a Republican, but that he is not a Democrat who will label his political rivals a \"Nazis\"\nThe post Fetterman Pressed On Fox News About Whether He Plans to Switch Parties first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/fetterman-pressed-on-fox-news-about-whether-he-plans-to-switch-parties/",
-    "timestamp": "2025-09-28T21:37:49Z"
-  },
-  {
-    "title": "Things to know about federal law enforcement activity in Chicago, Portland, Memphis - AP News",
-    "description": "Things to know about federal law enforcement activity in Chicago, Portland, MemphisAP News Trump seems to cool on Portland military plan after local leaders push backKGW Trump's military order in Portland faces backlashAxios Why Donald Trump is obsessed with \u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=179573392",
-    "timestamp": "2025-09-28T21:33:16Z"
-  },
-  {
-    "title": "Australian drug exporters hope to dodge US President Donald Trump's 100 per cent tariffs on pharmaceuticals",
-    "description": "Australian drug exporters hope to dodge US President Donald Trump's 100 per cent tariffs on pharmaceuticals7news.com.au",
-    "link": "https://7news.com.au/news/australian-drug-exporters-hope-to-dodge-us-president-donald-trumps-100-per-cent-tariffs-on-pharmaceuticals-c-20169368",
-    "timestamp": "2025-09-28T21:33:09Z"
-  },
-  {
-    "title": "The week in Trump absurdities: from Turkey's 'rigged elections' to 'your countries are going to hell' (David Smith/The Guardian)",
-    "description": "David Smith / The Guardian:\nThe week in Trump absurdities: from Turkey's \u2018rigged elections\u2019 to \u2018your countries are going to hell\u2019\u00a0 \u2014\u00a0 The president, in five days, has claimed Tylenol causes autism, he was sabotaged at the UN and pronounced his rivals \u2018guilty \u2026",
-    "link": "https://www.memeorandum.com/250928/p64",
-    "timestamp": "2025-09-28T21:30:00Z"
-  },
-  {
-    "title": "JD Vance Says \u2018More Indictments\u2019 Coming After Comey",
-    "description": "Vance also had a defiant message for \u201cthe people that are saying this is all political.\u201d",
-    "link": "https://www.huffpost.com/entry/jd-vance-comey-indictment_n_68d9591ce4b040e2851e516a",
-    "timestamp": "2025-09-28T21:22:25Z"
-  },
-  {
-    "title": "Xi set to push Trump on Taiwan, WSJ reports",
-    "description": "Chinese leader Xi Jinping plans to push US President Donald Trump to publicly align with Beijing against Taiwan\u2019s independence, The Wall Street Journal reported.\nAs trade talks progress and the two men gear up for an in-person meeting, Xi reportedly sees form\u2026",
-    "link": "https://biztoc.com/x/a3e559a4bee2bcc1",
-    "timestamp": "2025-09-28T21:18:16Z"
-  },
-  {
-    "title": "New York City Mayor Eric Adams abandons his reelection campaign",
-    "description": "New York City Mayor Eric Adams ended his struggling reelection campaign Sunday, an acknowledgment that he was no longer a credible contender after a year of scandal and political turmoil. In a video released on social media, Adams spoke proudly of his tenure \u2026",
-    "link": "https://japantoday.com/category/world/new-york-city-mayor-eric-adams-ends-his-reelection-campaign1",
-    "timestamp": "2025-09-28T21:18:09Z"
-  },
-  {
-    "title": "Republicans urge Democrats to agree to short-term bill to keep U.S. government open",
-    "description": "Ahead of a Monday meeting between lawmakers and President Donald Trump, the Republican leaders of Congress sought on Sunday to blame Democrats for an impasse prior to a looming deadline to pass legislation to avert a government shutdown and urged them to agre\u2026",
-    "link": "https://japantoday.com/category/world/republicans-urge-democrats-to-agree-to-short-term-bill-to-keep-us-government-open1",
-    "timestamp": "2025-09-28T21:17:40Z"
-  },
-  {
-    "title": "2 dead, several injured in shooting and fire at Michigan church",
-    "description": "A gunman opened fire inside a Church of Jesus Christ of Latter-day Saints chapel in Michigan during a Sunday service before apparently setting the building ablaze, killing at least two people and injuring several others before police shot him, authorities sai\u2026",
-    "link": "https://japantoday.com/category/world/multiple-people-shot-at-mormon-church-in-michigan-and-shooter-is-down-police-say",
-    "timestamp": "2025-09-28T21:17:04Z"
-  },
-  {
-    "title": "Russia pounds Kyiv, other regions in mass drone and missile attack",
-    "description": "Russia launched hundreds of drones and missiles at Kyiv and other parts of Ukraine early on Sunday, killing at least four people and injuring dozens, in one of the most sustained attacks on the capital since the full-scale war began. Neighbouring Poland close\u2026",
-    "link": "https://japantoday.com/category/world/russia-pounds-kyiv-other-regions-in-mass-drone-and-missile-attack1",
-    "timestamp": "2025-09-28T21:16:58Z"
-  },
-  {
-    "title": "Netanyahu says Israel working on ceasefire plan on eve of Trump meeting; Gaza death toll tops 66,000",
-    "description": "On the eve of meeting with U.S. President Donald Trump, Israeli Prime Minister Benjamin Netanyahu said Sunday that Israel is working on a new ceasefire plan with the White House, but details are still being sorted out. Netanyahu has come under heavy internati\u2026",
-    "link": "https://japantoday.com/category/world/netanyahu-says-israel-working-on-ceasefire-plan-on-eve-of-trump-meeting.-gaza-death-toll-tops-66-000",
-    "timestamp": "2025-09-28T21:16:33Z"
-  },
-  {
-    "title": "Vance claims Russia \u2018refused\u2019 meetings with Trump",
-    "description": "Moscow has turned down trilateral talks with Washington and Kiev, according to the US vice president Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/625523-vance-russia-refused-meetings/",
-    "timestamp": "2025-09-28T21:12:11Z"
-  },
-  {
-    "title": "The Night of the Long Knives",
-    "description": "In late June and early July, 1934, over three to four days, German dictator Adolf Hitler had as many as one hundred of his enemies, and some others, murdered. The slaughter began with former Hitler sidekick and supporter Ernst Roehm, leader of the SA (popular\u2026",
-    "link": "https://www.patheos.com/blogs/rogereolson/2025/09/the-night-of-the-long-knives/",
-    "timestamp": "2025-09-28T21:11:59Z"
-  },
-  {
-    "title": "Eric Adams Slips Out the Side Door",
-    "description": "The Mayor makes official what has been obvious for some time, and ends his re\u00eblection campaign.",
-    "link": "https://www.newyorker.com/news/the-lede/eric-adams-slips-out-the-side-door",
-    "timestamp": "2025-09-28T21:10:47Z"
-  },
-  {
-    "title": "Michigan church shooting leaves at least 1 dead, 9 injured, police say | Honolulu Star-Advertiser",
-    "description": "GRAND BLANC, Michigan >> A man who crashed his vehicle through the front doors of a Mormon church in Michigan opened fire with an assault rifle and set the church ablaze, killing at least four people and wounding at least eight others before dying in a shooto\u2026",
-    "link": "https://www.staradvertiser.com/2025/09/28/breaking-news/michigan-church-shooting-leaves-at-least-1-dead-9-injured-police-say/",
-    "timestamp": "2025-09-28T21:08:23Z"
-  },
-  {
-    "title": "Congressional leaders point fingers as possible shutdown nears",
-    "description": "Congressional leaders point fingers as possible shutdown nearsgo.com",
-    "link": "https://abcnews.go.com/Politics/congressional-leaders-point-fingers-shutdown-nears/story?id=126019617",
-    "timestamp": "2025-09-28T21:07:50Z"
-  },
-  {
-    "title": "The Pentagon suddenly ordered all its top brass from around the world to a meeting. Trump wasn\u2019t part of the initial plan but will now attend",
-    "description": "President Donald Trump will speak at a hastily called meeting of top military leaders on Tuesday, according to a White House official.\nHundreds of generals and admirals \u2014 senior commanders of the one-star rank or higher and their top advisers \u2014 have been summ\u2026",
-    "link": "https://biztoc.com/x/53f00657751fb1b7",
-    "timestamp": "2025-09-28T21:07:06Z"
-  },
-  {
-    "title": "New York City Mayor Eric Adams drops re-election bid after unpopular tenure",
-    "description": "New York City Mayor Eric Adams announces he is dropping his re-election bid, but says he will \"continue to fight for this city\" until his term ends on January 1 2026.",
-    "link": "https://www.abc.net.au/news/2025-09-29/eric-adams-drops-re-election-bid/105828948",
-    "timestamp": "2025-09-28T21:05:00Z"
-  },
-  {
-    "title": "Officials give update after two killed in shooting and fire at Michigan Mormon church",
-    "description": "Officials have named the alleged gunman killed as Thokmas Jacob Sanford, but his motive remains unclear.",
-    "link": "https://www.bbc.com/news/live/c62l7x0v5e5t?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "timestamp": "2025-09-28T21:03:58Z"
-  },
-  {
-    "title": "Trump Deletes Post Referencing Bizarre \u2018Medbed\u2019 Conspiracy Theory",
-    "description": "Some conspiracy theorists have popularized the fictional technology, which they believe holds miracle cures.",
-    "link": "https://www.forbes.com/sites/zacharyfolk/2025/09/28/trump-deletes-post-referencing-bizarre-medbed-conspiracy-theory/",
-    "timestamp": "2025-09-28T21:01:54Z"
-  },
-  {
-    "title": "What Is the \u2018Med Bed\u2019 Conspiracy Theory Trump Promoted?",
-    "description": "Donald Trump posted and deleted an AI video promoting healing \"med bed\" technology. Origins of this theory are rooted in far-right conspiracy forums.",
-    "link": "http://www.rollingstone.com/politics/politics-news/what-is-med-bed-conspiracy-theory-trump-1235436966/",
-    "timestamp": "2025-09-28T20:55:42Z"
-  },
-  {
-    "title": "All nations are in debt, yet the impact on the poorest hits deepest",
-    "description": "The global reliance on debt has changed how financial markets work, and the outlook is bleak.\nThe post All nations are in debt, yet the impact on the poorest hits deepest appeared first on Digital Journal.",
-    "link": "https://www.digitaljournal.com/business/all-nations-are-in-debt-yet-the-impact-on-the-poorest-hits-deepest/article",
-    "timestamp": "2025-09-28T20:48:43Z"
-  },
-  {
-    "title": "6 Takeaways From NY Climate Week\u2019s Tale Of Two Cities",
-    "description": "Last week's UNGA and Climate Week was a tale of two cities. Here are six key points from my Climate Week 2025 journey with business & nonprofit leaders and scientists.",
-    "link": "https://www.forbes.com/sites/joanmichelson2/2025/09/28/6-takeaways-from-ny-climate-weeks-tale-of-two-cities/",
-    "timestamp": "2025-09-28T20:47:03Z"
-  },
-  {
-    "title": "Ontario Liberal Party launches process of selecting new leader to replace Bonnie Crombie",
-    "description": "The Ontario Liberal Party is taking the first steps toward\u00a0selecting its next party leader to replace Bonnie Crombie, who resigned earlier this month.",
-    "link": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-party-leadership-committee-1.7645993",
-    "timestamp": "2025-09-28T20:47:00Z"
-  },
-  {
-    "title": "Vance calls on Russia to \u2018wake up\u2019 and accept reality",
-    "description": "The US vice president has joined in Donald Trump\u2019s recent about-face on the Ukraine conflict Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/625527-vance-russia-accept-reality/",
-    "timestamp": "2025-09-28T20:43:46Z"
-  },
-  {
-    "title": "Two dead after gunman opens fire in Mormon church, setting it on fire",
-    "description": "Hundreds of people were inside The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township when a 40-year-old man rammed his pick-up truck through the front door, then got out of the vehicle and started shooting.",
-    "link": "https://www.abc.net.au/news/2025-09-29/michigan-mormon-church-fatal-shooting/105828872",
-    "timestamp": "2025-09-28T20:35:41Z"
-  },
-  {
-    "title": "Armed Border Patrol agents patrol downtown Chicago Sunday",
-    "description": "United States Border Patrol agents, wearing bulletproof vests and carrying rifles, were observed patrolling in downtown Chicago on Sunday afternoon.",
-    "link": "https://www.nbcchicago.com/news/local/chicago-politics/armed-border-patrol-agents-patrol-downtown-chicago-drawing-mayoral-criticism/3830594/",
-    "timestamp": "2025-09-28T20:34:40Z"
-  },
-  {
-    "title": "In Trump's Tussle With James Comey, You Should Hope Everybody Loses",
-    "description": "The administration is pursuing a vendetta, but Comey and the FBI deserve scrutiny and reduced stature.",
-    "link": "https://reason.com/2025/09/29/in-trumps-tussle-with-james-comey-you-should-hope-everybody-loses/",
-    "timestamp": "2025-09-28T20:34:36Z"
-  },
-  {
-    "title": "Michael Cohen called on his own experience with the \u201cinsurmountable\u201d DOJ to conclude that Comey will \u201clikely be found guilty.\u201d",
-    "description": "Michael Cohen, former personal attorney to Donald Trump, left an MSNBC panel slackjawed with his surety that James Comey had committed a crime\u2014and would soon...",
-    "link": "https://www.thedailybeast.com/trumps-ex-fixer-michael-cohen-comey-committed-a-crime/",
-    "timestamp": "2025-09-28T20:32:39Z"
-  },
-  {
-    "title": "'QAnon Shaman' Files Insane $40 Trillion Lawsuit Against Donald Trump and the Federal Reserve, Declares Himself Leader of a 'New Constitutional Republic'",
-    "description": "Jacob Chansley, aka the 'QAnon Shaman', has filed a $40 trillion lawsuit in Maricopa County Superior Court.",
-    "link": "https://radaronline.com/p/qanon-shaman-40-trillion-lawsuit-donald-trump-constitutional-republic/",
-    "timestamp": "2025-09-28T20:30:00Z"
-  },
-  {
-    "title": "Eric Adams out of NYC Mayor election. Zohran Mamdani vs Andrew Cuomo for New York Mayor Election: Who will win?",
-    "description": "NYC Mayor election 2025: The fear among Zohran Mamdani\u2019s critics had been that Eric Adams and Andrew Cuomo would split the opposition vote, giving Mamdani an easy victory in the New York Mayoral Election.",
-    "link": "https://economictimes.indiatimes.com/news/international/us/zohran-mamdani-vs-andrew-cuomo-for-new-york-mayor-election-who-will-win/articleshow/124200284.cms",
-    "timestamp": "2025-09-28T20:28:13Z"
-  },
-  {
-    "title": "New York City Mayor Adams drops reelection bid",
-    "description": "Embattled New York City Mayor Eric Adams, who has faced a federal bribery indictment and stunningly low approval ratings as the leader of the nation's largest city has dropped his reelection bid.",
-    "link": "https://www.rte.ie/news/world/2025/0928/1535776-eric-adams-newyork/",
-    "timestamp": "2025-09-28T20:26:50Z"
-  },
-  {
-    "title": "Democrats shout fascist while behaving like Brownshirts",
-    "description": "Louisiana Gov. Huey Long, Democrat and Depression-era populist, predicted in 1935, \u201cWhen fascism comes to America, it will come under the guise of anti-fascism.\u201d This prophecy is coming true before our eyes. This year, Democrats are calling everyone who disag\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4343162/posts",
-    "timestamp": "2025-09-28T20:24:15Z"
-  },
-  {
-    "title": "Dems reportedly planning luxury getaway escape to 5-star resort despite looming gov\u2019t shutdown",
-    "description": "Questioned about whether retreat was created with foreknowledge it may coincide with funding crisis",
-    "link": "https://www.wnd.com/2025/09/dems-reportedly-planning-luxury-getaway-escape-5-star/",
-    "timestamp": "2025-09-28T20:22:22Z"
-  },
-  {
-    "title": "President Trump Issues Fiery Statement After Deadly Church Shooting in Michigan \u2014 Frames Attack as Part of Wider War on Christians",
-    "description": "In the wake of the mass shooting and arson attack this morning at The Church of Jesus Christ of Latter-day Saints in Grand Blanc Township, President Donald Trump released a forceful statement positioning the tragedy not simply as a crime, but as part of a cre\u2026",
-    "link": "https://www.thegatewaypundit.com/2025/09/president-trump-issues-fiery-statement-after-deadly-church/",
-    "timestamp": "2025-09-28T20:20:53Z"
-  },
-  {
-    "title": "What NYC's mayoral candidates are saying about Eric Adams' exit from the race",
-    "description": "Zohran Mamdani, Andrew Cuomo and Curtis Sliwa all issued statements after NYC Mayor Eric Adams dropped out of the race.",
-    "link": "https://www.cbsnews.com/newyork/news/nyc-mayors-race-adams-drops-out-reactions/",
-    "timestamp": "2025-09-28T20:20:27Z"
-  },
-  {
-    "title": "Illinois Man Arrested After Allegedly Shooting His Ex to \u2018Prove His Love\u2019 to New Girlfriend",
-    "description": "A 23-year-old who allegedly shot his ex-girlfriend to \u201cprove his love\u201d to another will remain in custody while awaiting trial, according to state officials in Peoria, Illinois, on Monday.",
-    "link": "https://freerepublic.com/focus/f-chat/4343161/posts",
-    "timestamp": "2025-09-28T20:18:49Z"
-  },
-  {
-    "title": "Two dead after US shooting, fire at Mormon church",
-    "description": "At least two people were killed and several others injured Sunday after a shooter targeted a Mormon church in Michigan, authorities said, in the latest deadly tragedy that US President Donald Trump called part of a national \u201cepidemic of violence.\u201d The suspect\u2026",
-    "link": "https://www.digitaljournal.com/world/two-dead-after-us-shooting-fire-at-mormon-church/article",
-    "timestamp": "2025-09-28T20:17:20Z"
-  },
-  {
-    "title": "Two Dead After US Shooting, Fire At Mormon Church",
-    "description": "At least two people were killed and several others injured Sunday after a shooter targeted a Mormon church in Michigan, authorities said, in the latest deadly tragedy that US President Donald Trump called part of a national \"epidemic of violence.\"",
-    "link": "https://www.ibtimes.com/two-dead-after-us-shooting-fire-mormon-church-3784701",
-    "timestamp": "2025-09-28T20:15:22Z"
-  },
-  {
-    "title": "TylenoTORT: The Litigation Industry's Role in US Health Policy",
-    "description": "TylenoTORT: The Litigation Industry's Role in US Health Policythefirebreak.org",
-    "link": "https://www.thefirebreak.org/p/tylenotort-the-litigation-industrys",
-    "timestamp": "2025-09-28T20:14:36Z"
   }
 ]
