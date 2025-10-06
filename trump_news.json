@@ -1,5 +1,29 @@
 [
   {
+    "title": "OPEC+ Nears Accord for Modest November Production Hike",
+    "description": "OPEC+ is close to an agreement in principle to make another modest supply increase for November as the group continues efforts to recoup its share of global oil markets, delegates said.",
+    "link": "https://financialpost.com/pmn/business-pmn/opec-nears-accord-for-modest-november-production-hike",
+    "timestamp": "2025-10-05T09:37:56Z"
+  },
+  {
+    "title": "Defense Minister: 'If Hamas refuses deal, Israel will intensify attacks'",
+    "description": "Defense Minister Israel Katz said at the state memorial ceremony for the fallen of the Yom Kippur War that an announcement on the return of the hostages may come soon. According to him, the intensity of the military pressure produced a reversal in Hamas\u2019s pos\u2026",
+    "link": "https://www.israelnationalnews.com/news/415830",
+    "timestamp": "2025-10-05T09:35:51Z"
+  },
+  {
+    "title": "The U.K.'s public health service is in crisis, threatening institution at center of British culture",
+    "description": "\u201cNye,\u201d an unlikely hit about the creator, and origin story, of Britain\u2019s taxpayer-funded National Health Service, came at an inflection point for the NHS.",
+    "link": "https://www.nbcnews.com/world/europe/uks-public-health-service-crisis-threatening-institution-heart-british-rcna228773",
+    "timestamp": "2025-10-05T09:30:02Z"
+  },
+  {
+    "title": "Marc Andreessen says more founders need to read 'the Elon playbook'",
+    "description": "Elon Musk ripped up the traditional playbook for managing companies. A16z cofounder Marc Andreessen said other CEOs should follow suit.",
+    "link": "https://www.businessinsider.com/marc-andreessen-elon-musk-playbook-advice-examples-2025-10",
+    "timestamp": "2025-10-05T09:27:02Z"
+  },
+  {
     "title": "Putin says Tomahawk supply to Ukraine would destroy U.S. relations",
     "description": "Russian President Vladimir Putin warned that US provision of Tomahawk missiles to Ukraine for deep strikes into Russia would destroy bilateral relations and trigger a \"qualitatively new stage of escalation.\" This comes as Washington considers Kyiv's request f\u2026",
     "link": "https://economictimes.indiatimes.com/news/international/world-news/putin-says-tomahawk-supply-to-ukraine-would-destroy-u-s-relations/articleshow/124318673.cms",
@@ -24,15 +48,15 @@
     "timestamp": "2025-10-05T09:00:21Z"
   },
   {
-    "title": "N.B. softwood lumber industry braces for hit from Donald Trump's latest tariffs",
-    "description": "The U.S. president has announced a further 10 per cent tariff on softwood lumber, in addition to the existing 35 per cent tariff, as well as a 25 per cent duty on some finished wood products including cabinets and upholstered furniture.",
-    "link": "https://www.cbc.ca/news/canada/new-brunswick/nb-softwood-lumber-trump-1.7650209",
-    "timestamp": "2025-10-05T09:00:00Z"
-  },
-  {
     "title": "Pod man out: Trump's support with influential podcasters is waning",
     "description": "Some of the internet\u2019s most popular voices with young men \u2014 almost all of whom either hosted Trump or spoke highly \u2014 have some thoughts on what he\u2019s doing wrong.",
     "link": "https://www.nbcnews.com/politics/donald-trump/trump-support-influential-podcasters-waning-rcna233437",
+    "timestamp": "2025-10-05T09:00:00Z"
+  },
+  {
+    "title": "N.B. softwood lumber industry braces for hit from Donald Trump's latest tariffs",
+    "description": "The U.S. president has announced a further 10 per cent tariff on softwood lumber, in addition to the existing 35 per cent tariff, as well as a 25 per cent duty on some finished wood products including cabinets and upholstered furniture.",
+    "link": "https://www.cbc.ca/news/canada/new-brunswick/nb-softwood-lumber-trump-1.7650209",
     "timestamp": "2025-10-05T09:00:00Z"
   },
   {
@@ -544,29 +568,5 @@
     "description": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
     "link": "https://www.bbc.com/news/articles/c8ex2l58en4o",
     "timestamp": "2025-10-05T02:43:42Z"
-  },
-  {
-    "title": "NEW: FBI Considering \u201cShowy\u201d Arrest of James Comey with \u201cLarge, Beefy\u201d Agents \u201cIn Full Kit\u201d \u2013 Including Kevlar Vests",
-    "description": "The FBI is reportedly weighing a \u201cshowy\u201d arrest of James Comey.\nThe post NEW: FBI Considering \u201cShowy\u201d Arrest of James Comey with \u201cLarge, Beefy\u201d Agents \u201cIn Full Kit\u201d \u2013 Including Kevlar Vests appeared first on The Gateway Pundit.",
-    "link": "https://www.thegatewaypundit.com/2025/10/new-fbi-considering-showy-arrest-james-comey-large/",
-    "timestamp": "2025-10-05T02:40:31Z"
-  },
-  {
-    "title": "North Korea\u2019s Kim vows additional military measures ahead of major parade",
-    "description": "Kim Jong Un says Pyongyang will counter the buildup of US forces in the Korean Peninsula.",
-    "link": "https://www.aljazeera.com/news/2025/10/5/north-koreas-kim-vows-additional-military-measures-ahead-of-major-parade",
-    "timestamp": "2025-10-05T02:32:51Z"
-  },
-  {
-    "title": "US: Trump deploys National Guard to Chicago",
-    "description": "Trump is deploying 300 troops to Chicago as part of his immigration and crime crackdown. But a similar order for Portland has been temporarily blocked.",
-    "link": "https://www.dw.com/en/us-trump-deploys-national-guard-to-chicago/a-74238891",
-    "timestamp": "2025-10-05T02:28:00Z"
-  },
-  {
-    "title": "US: Trump plans to deploy National Guard to Chicago",
-    "description": "Trump is deploying 300 troops to Chicago as part of his immigration and crime crackdown. But a similar order for Portland has been temporarily blocked.",
-    "link": "https://www.dw.com/en/us-trump-plans-to-deploy-national-guard-to-chicago/a-74238891",
-    "timestamp": "2025-10-05T02:28:00Z"
   }
 ]
