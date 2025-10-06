@@ -1,5 +1,11 @@
 [
   {
+    "title": "At least 5 dead in large-scale nighttime Russian strike on Ukraine",
+    "description": "At least five civilians have died after Russia launched a major overnight attack that officials said targeted civilian infrastructure.",
+    "link": "https://www.kcci.com/article/ukraine-large-scale-nighttime-russian-strike/68831325",
+    "timestamp": "2025-10-05T09:51:30Z"
+  },
+  {
     "title": "OPEC+ Nears Accord for Modest November Production Hike",
     "description": "OPEC+ is close to an agreement in principle to make another modest supply increase for November as the group continues efforts to recoup its share of global oil markets, delegates said.",
     "link": "https://financialpost.com/pmn/business-pmn/opec-nears-accord-for-modest-november-production-hike",
@@ -48,15 +54,15 @@
     "timestamp": "2025-10-05T09:00:21Z"
   },
   {
-    "title": "Pod man out: Trump's support with influential podcasters is waning",
-    "description": "Some of the internet\u2019s most popular voices with young men \u2014 almost all of whom either hosted Trump or spoke highly \u2014 have some thoughts on what he\u2019s doing wrong.",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-support-influential-podcasters-waning-rcna233437",
-    "timestamp": "2025-10-05T09:00:00Z"
-  },
-  {
     "title": "N.B. softwood lumber industry braces for hit from Donald Trump's latest tariffs",
     "description": "The U.S. president has announced a further 10 per cent tariff on softwood lumber, in addition to the existing 35 per cent tariff, as well as a 25 per cent duty on some finished wood products including cabinets and upholstered furniture.",
     "link": "https://www.cbc.ca/news/canada/new-brunswick/nb-softwood-lumber-trump-1.7650209",
+    "timestamp": "2025-10-05T09:00:00Z"
+  },
+  {
+    "title": "Pod man out: Trump's support with influential podcasters is waning",
+    "description": "Some of the internet\u2019s most popular voices with young men \u2014 almost all of whom either hosted Trump or spoke highly \u2014 have some thoughts on what he\u2019s doing wrong.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-support-influential-podcasters-waning-rcna233437",
     "timestamp": "2025-10-05T09:00:00Z"
   },
   {
@@ -562,11 +568,5 @@
     "description": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
     "link": "https://www.bbc.com/news/articles/c8ex2l58en4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
     "timestamp": "2025-10-05T02:43:47Z"
-  },
-  {
-    "title": "How the US got left behind in the global electric car race",
-    "description": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
-    "link": "https://www.bbc.com/news/articles/c8ex2l58en4o",
-    "timestamp": "2025-10-05T02:43:42Z"
   }
 ]
