@@ -126,15 +126,15 @@
     "timestamp": "2025-10-11T06:00:00Z"
   },
   {
-    "title": "Report: U.S. spent over $34 billion backing Israel in post-Oct. 7 wars, fueling Gaza genocide",
-    "description": "Since Oct. 7, 2023, the U.S. has provided over\u00a034 billion in military aid and regional operations supporting Israel, including $21.7 billion\u00a0in direct weapons transfers and additional pending arms sales worth tens of billions. Israel\u2019s U.S.-backed war has res\u2026",
-    "link": "https://www.naturalnews.com/2025-10-11-us-spent-34b-backing-israel-fueling-gaza-genocide.html",
-    "timestamp": "2025-10-11T06:00:00Z"
-  },
-  {
     "title": "Vatican\u2019s top diplomat condemns Israel\u2019s \u201congoing massacre\u201d in Gaza",
     "description": "The Vatican strongly condemned Israel\u2019s actions in Gaza, with a top cardinal accusing the country of an \u201congoing massacre\u201d of civilians. This marks a significant shift to stronger, more direct language from the Holy See. The criticism centers on \u201cproportional\u2026",
     "link": "https://www.naturalnews.com/2025-10-11-cardinal-parolin-condemns-israel-ongoing-massacre-gaza.html",
+    "timestamp": "2025-10-11T06:00:00Z"
+  },
+  {
+    "title": "Report: U.S. spent over $34 billion backing Israel in post-Oct. 7 wars, fueling Gaza genocide",
+    "description": "Since Oct. 7, 2023, the U.S. has provided over\u00a034 billion in military aid and regional operations supporting Israel, including $21.7 billion\u00a0in direct weapons transfers and additional pending arms sales worth tens of billions. Israel\u2019s U.S.-backed war has res\u2026",
+    "link": "https://www.naturalnews.com/2025-10-11-us-spent-34b-backing-israel-fueling-gaza-genocide.html",
     "timestamp": "2025-10-11T06:00:00Z"
   },
   {
@@ -330,21 +330,9 @@
     "timestamp": "2025-10-11T04:39:29Z"
   },
   {
-    "title": "Why \u2018the Venezuelan Iron Lady\u2019 beat Donald Trump to win the Nobel Peace Prize",
-    "description": "Venezuelan opposition leader Maria Corina Machado won the Nobel Peace Prize yesterday for her struggle to achieve a democratic transition in her South American homeland, winning recognition as a woman \u201cwho keeps the flame of democracy burning amid a growing d\u2026",
-    "link": "https://www.independent.ie/world-news/why-the-venezuelan-iron-lady-beat-donald-trump-to-win-the-nobel-peace-prize/a507777761.html",
-    "timestamp": "2025-10-11T04:30:00Z"
-  },
-  {
     "title": "Displaced Gazans begin trek back to ruined homes as Israeli troops pull back under ceasefire deal",
     "description": "Thousands of displaced Palestinians trekked over the wastelands of Gaza to return to the ruins of their abandoned homes yesterday, after a ceasefire took effect and Israeli troops began pulling back under the agreement to end the war.",
     "link": "https://www.independent.ie/world-news/middle-east/displaced-gazans-begin-trek-back-to-ruined-homes-as-israeli-troops-pull-back-under-ceasefire-deal/a2120547830.html",
-    "timestamp": "2025-10-11T04:30:00Z"
-  },
-  {
-    "title": "Letters: I\u2019m no fan, but hats off to Donald Trump for achievement on Gaza",
-    "description": "Israel and Hamas have agreed to the initial phase of a ceasefire plan in Gaza. US president Donald Trump announced the agreement, saying all hostages would be released and Israel would withdraw its troops.",
-    "link": "https://www.independent.ie/opinion/letters/letters-im-no-fan-but-hats-off-to-donald-trump-for-achievement-on-gaza/a591088724.html",
     "timestamp": "2025-10-11T04:30:00Z"
   },
   {
@@ -354,15 +342,21 @@
     "timestamp": "2025-10-11T04:30:00Z"
   },
   {
+    "title": "Why \u2018the Venezuelan Iron Lady\u2019 beat Donald Trump to win the Nobel Peace Prize",
+    "description": "Venezuelan opposition leader Maria Corina Machado won the Nobel Peace Prize yesterday for her struggle to achieve a democratic transition in her South American homeland, winning recognition as a woman \u201cwho keeps the flame of democracy burning amid a growing d\u2026",
+    "link": "https://www.independent.ie/world-news/why-the-venezuelan-iron-lady-beat-donald-trump-to-win-the-nobel-peace-prize/a507777761.html",
+    "timestamp": "2025-10-11T04:30:00Z"
+  },
+  {
     "title": "Ukrainian children back home after Melania Trump says she had talks with Vladimir Putin",
     "description": "Eight Ukrainian children who were kidnapped from their families and held captive in Russia have been returned to Ukraine after back-channel negotiations between Melania Trump and Russian representatives, the US first lady said yesterday.",
     "link": "https://www.independent.ie/world-news/ukrainian-children-back-home-after-melania-trump-says-she-had-talks-with-vladimir-putin/a2137520889.html",
     "timestamp": "2025-10-11T04:30:00Z"
   },
   {
-    "title": "The Irish Independent\u2019s View: Tragic toll of Gaza war hangs heavy, but now there is real hope peace can prosper",
-    "description": "The ache for home is in all of us. Even though there was nothing to return to, there was joy among the Palestinians making their way northwards after the ceasefire finally came.",
-    "link": "https://www.independent.ie/opinion/editorial/the-irish-independents-view-tragic-toll-of-gaza-war-hangs-heavy-but-now-there-is-real-hope-peace-can-prosper/a84056015.html",
+    "title": "Letters: I\u2019m no fan, but hats off to Donald Trump for achievement on Gaza",
+    "description": "Israel and Hamas have agreed to the initial phase of a ceasefire plan in Gaza. US president Donald Trump announced the agreement, saying all hostages would be released and Israel would withdraw its troops.",
+    "link": "https://www.independent.ie/opinion/letters/letters-im-no-fan-but-hats-off-to-donald-trump-for-achievement-on-gaza/a591088724.html",
     "timestamp": "2025-10-11T04:30:00Z"
   },
   {
@@ -375,6 +369,12 @@
     "title": "Luc Cohen: Donald Trump\u2019s targeting of James Comey in public may give roadmap to US president\u2019s rivals who face charges",
     "description": "Donald Trump achieved a long-sought goal when federal prosecutors brought criminal charges against former FBI director James Comey \u2013 but the US president\u2019s loud campaign against his adversary may have undermined the case by opening the door to a claim of vind\u2026",
     "link": "https://www.independent.ie/world-news/luc-cohen-donald-trumps-targeting-of-james-comey-in-public-may-give-roadmap-to-us-presidents-rivals-who-face-charges/a1533491275.html",
+    "timestamp": "2025-10-11T04:30:00Z"
+  },
+  {
+    "title": "The Irish Independent\u2019s View: Tragic toll of Gaza war hangs heavy, but now there is real hope peace can prosper",
+    "description": "The ache for home is in all of us. Even though there was nothing to return to, there was joy among the Palestinians making their way northwards after the ceasefire finally came.",
+    "link": "https://www.independent.ie/opinion/editorial/the-irish-independents-view-tragic-toll-of-gaza-war-hangs-heavy-but-now-there-is-real-hope-peace-can-prosper/a84056015.html",
     "timestamp": "2025-10-11T04:30:00Z"
   },
   {
@@ -468,9 +468,9 @@
     "timestamp": "2025-10-11T04:00:16Z"
   },
   {
-    "title": "Did he have a stroke or didn\u2019t he? Only Xi Jinping\u2019s doctors know for sure",
-    "description": "The rumors started swirling on Thursday: Xi Jinping, China\u2019s dictator, had a stroke. They\u2019re still rumors at this point, but they got a boost on Friday when President Trump stated that \u201cvery strange things are happening in China&rdq...",
-    "link": "https://www.americanthinker.com/blog/2025/10/did_he_have_a_stroke_or_didn_t_he_only_xi_jinping_s_doctors_know_for_sure.html",
+    "title": "Self-revoking American citizenship",
+    "description": "The invaluable Victor Davis Hanson, on Portland Antifa/Transtifa, asks if honest Portlanders living near Antifa\u00a0daily sieges of federal facilities are less important than Antifa insurrectionists:\r\n\r\n\r\nIn contrast, the use of federal troops to stop t...",
+    "link": "https://www.americanthinker.com/blog/2025/10/self_revoking_american_citizenship.html",
     "timestamp": "2025-10-11T04:00:00Z"
   },
   {
@@ -480,21 +480,21 @@
     "timestamp": "2025-10-11T04:00:00Z"
   },
   {
-    "title": "Self-revoking American citizenship",
-    "description": "The invaluable Victor Davis Hanson, on Portland Antifa/Transtifa, asks if honest Portlanders living near Antifa\u00a0daily sieges of federal facilities are less important than Antifa insurrectionists:\r\n\r\n\r\nIn contrast, the use of federal troops to stop t...",
-    "link": "https://www.americanthinker.com/blog/2025/10/self_revoking_american_citizenship.html",
-    "timestamp": "2025-10-11T04:00:00Z"
-  },
-  {
-    "title": "America First and Our Economic Future",
-    "description": "Upon returning to office, President Trump wasted no time before pursuing his \u201cAmerica First\u201d agenda of pro-growth tax cuts, sweeping deregulation, institutional deconstruction, and aggressive tariff policy. Having had a modest hand in the...",
-    "link": "https://www.americanthinker.com/articles/2025/10/america_first_and_our_economic_future.html",
+    "title": "Did he have a stroke or didn\u2019t he? Only Xi Jinping\u2019s doctors know for sure",
+    "description": "The rumors started swirling on Thursday: Xi Jinping, China\u2019s dictator, had a stroke. They\u2019re still rumors at this point, but they got a boost on Friday when President Trump stated that \u201cvery strange things are happening in China&rdq...",
+    "link": "https://www.americanthinker.com/blog/2025/10/did_he_have_a_stroke_or_didn_t_he_only_xi_jinping_s_doctors_know_for_sure.html",
     "timestamp": "2025-10-11T04:00:00Z"
   },
   {
     "title": "Tylenol and Autism: More to the Story",
     "description": "In 2020, the Atlanta-based U.S. Centers for Disease Control and Prevention (CDC) said that one in 36 children (approximately four percent of boys and one percent of girls) was estimated to have autism-spectrum disorder, estimates that were significan...",
     "link": "https://www.americanthinker.com/articles/2025/10/tylenol_and_autism_more_to_the_story.html",
+    "timestamp": "2025-10-11T04:00:00Z"
+  },
+  {
+    "title": "America First and Our Economic Future",
+    "description": "Upon returning to office, President Trump wasted no time before pursuing his \u201cAmerica First\u201d agenda of pro-growth tax cuts, sweeping deregulation, institutional deconstruction, and aggressive tariff policy. Having had a modest hand in the...",
+    "link": "https://www.americanthinker.com/articles/2025/10/america_first_and_our_economic_future.html",
     "timestamp": "2025-10-11T04:00:00Z"
   },
   {
@@ -558,9 +558,9 @@
     "timestamp": "2025-10-11T03:44:05Z"
   },
   {
-    "title": "Tens of thousands of Palestinians return to northern Gaza as Trump says deal is 'great for everyone'",
+    "title": "Tens of thousands of Palestinians return to northern Gaza as Israel withdraws troops",
     "description": "Nearly\u00a0200,000 people have returned to northern Gaza since the ceasefire came into effect on Friday, as Israel prepares to receive the remaining hostages, and leaders are set to convene in Egypt to sign a momentous pact.",
-    "link": "https://news.sky.com/story/tens-of-thousands-of-palestinians-return-to-northern-gaza-as-trump-says-deal-is-great-for-everyone-13448431",
+    "link": "https://news.sky.com/story/tens-of-thousands-of-palestinians-return-to-northern-gaza-as-israel-withdraws-troops-13448431",
     "timestamp": "2025-10-11T03:44:00Z"
   }
 ]
