@@ -1,5 +1,11 @@
 [
   {
+    "title": "US succeeds in blocking global carbon tax on ships for now",
+    "description": "Countries gathered at the International Maritime Organization\u2019s London headquarters this week to decide on whether to make ships start paying for the more than 1 billion tonne of greenhouse gases they emit each year",
+    "link": "https://www.bloomberg.com/news/articles/2025-10-17/shipping-regulator-delays-decision-on-emissions-tax-by-one-year",
+    "timestamp": "2025-10-18T06:50:07Z"
+  },
+  {
     "title": "In AP interview, Harris says Democrats 'are standing up for working people' in government shutdown",
     "description": "Kamala Harris sounds like a party elder and a future candidate at the same time",
     "link": "https://abcnews.go.com/Politics/wireStory/ap-interview-harris-democrats-standing-working-people-government-126639376",
@@ -54,15 +60,15 @@
     "timestamp": "2025-10-18T06:00:00Z"
   },
   {
-    "title": "Los Angeles declares emergency over ICE raids as tensions escalate",
-    "description": "Los Angeles County declares emergency (4\u20131 vote) in response to ICE raids, enacting an eviction moratorium, financial aid and state assistance\u2014measures typically reserved for natural disasters. This follows violent protests, vandalism and arrests of 113 indiv\u2026",
-    "link": "https://www.naturalnews.com/2025-10-18-los-angeles-declares-emergency-over-ice-raids.html",
-    "timestamp": "2025-10-18T06:00:00Z"
-  },
-  {
     "title": "Washington: Hamas isn\u2019t violating ceasefire deal, group continues to search for bodies under rubble",
     "description": "The U.S. is forcefully rejecting Israeli claims that Hamas violated the ceasefire by not immediately returning all deceased hostages, arguing the delay is due to the practical impossibility of recovering bodies from under Gaza\u2019s vast rubble. The core of the d\u2026",
     "link": "https://www.naturalnews.com/2025-10-18-washington-says-hamas-isnt-violating-ceasefire-deal.html",
+    "timestamp": "2025-10-18T06:00:00Z"
+  },
+  {
+    "title": "Los Angeles declares emergency over ICE raids as tensions escalate",
+    "description": "Los Angeles County declares emergency (4\u20131 vote) in response to ICE raids, enacting an eviction moratorium, financial aid and state assistance\u2014measures typically reserved for natural disasters. This follows violent protests, vandalism and arrests of 113 indiv\u2026",
+    "link": "https://www.naturalnews.com/2025-10-18-los-angeles-declares-emergency-over-ice-raids.html",
     "timestamp": "2025-10-18T06:00:00Z"
   },
   {
@@ -258,12 +264,6 @@
     "timestamp": "2025-10-18T04:30:00Z"
   },
   {
-    "title": "Former Donald Trump adviser John Bolton pleads not guilty to charges of mishandling classified information",
-    "description": "John Bolton, the national security hawk and former adviser to Donald Trump who has become one of the US president\u2019s biggest critics, pleaded not guilty yesterday to charges of mishandling classified information.",
-    "link": "https://www.independent.ie/world-news/former-donald-trump-adviser-john-bolton-pleads-not-guilty-to-charges-of-mishandling-classified-information/a2014665870.html",
-    "timestamp": "2025-10-18T04:30:00Z"
-  },
-  {
     "title": "Hamas using bulldozers to search Gaza rubble for bodies of Israeli hostages",
     "description": "Hamas brought out bulldozers to dig for the remains of dead hostages yesterday as it sought to shore up its tenuous ceasefire with Israel, saying it was committed to the terms of the deal, including the handover of bodies.",
     "link": "https://www.independent.ie/world-news/middle-east/hamas-using-bulldozers-to-search-gaza-rubble-for-bodies-of-israeli-hostages/a1364792228.html",
@@ -273,6 +273,12 @@
     "title": "Volodymyr Zelensky offers to make drones deal with Donald Trump for Tomahawk missiles",
     "description": "Volodymyr Zelensky suggested Ukraine could exchange drones for US Tomahawk missiles during his White House meeting with Donald Trump yesterday.",
     "link": "https://www.independent.ie/world-news/north-america/volodymyr-zelensky-offers-to-make-drones-deal-with-donald-trump-for-tomahawk-missiles/a1108572664.html",
+    "timestamp": "2025-10-18T04:30:00Z"
+  },
+  {
+    "title": "Former Donald Trump adviser John Bolton pleads not guilty to charges of mishandling classified information",
+    "description": "John Bolton, the national security hawk and former adviser to Donald Trump who has become one of the US president\u2019s biggest critics, pleaded not guilty yesterday to charges of mishandling classified information.",
+    "link": "https://www.independent.ie/world-news/former-donald-trump-adviser-john-bolton-pleads-not-guilty-to-charges-of-mishandling-classified-information/a2014665870.html",
     "timestamp": "2025-10-18T04:30:00Z"
   },
   {
@@ -378,15 +384,15 @@
     "timestamp": "2025-10-18T04:00:00Z"
   },
   {
-    "title": "Nobody touched Mamdani",
-    "description": "Did anyone watch the New York City mayor's debate? I saw the rerun later, and it's clear to me that Mamdani is one step closer to winning the election. Let's check this from\u00a0Newsweek:\r\n\r\n\r\nOn Thursday before the debate, Betfair gave ...",
-    "link": "https://www.americanthinker.com/blog/2025/10/nobody_touched_mamdani.html",
-    "timestamp": "2025-10-18T04:00:00Z"
-  },
-  {
     "title": "Donald Trump and ex-adviser John Bolton - a doomed relationship of strong personalities",
     "description": "John Bolton has been criminally indicted on federal charges relating to his time in US office",
     "link": "https://www.irishtimes.com/world/us/2025/10/18/donald-trump-and-ex-adviser-john-bolton-a-doomed-relationship-of-strong-personalities/",
+    "timestamp": "2025-10-18T04:00:00Z"
+  },
+  {
+    "title": "Nobody touched Mamdani",
+    "description": "Did anyone watch the New York City mayor's debate? I saw the rerun later, and it's clear to me that Mamdani is one step closer to winning the election. Let's check this from\u00a0Newsweek:\r\n\r\n\r\nOn Thursday before the debate, Betfair gave ...",
+    "link": "https://www.americanthinker.com/blog/2025/10/nobody_touched_mamdani.html",
     "timestamp": "2025-10-18T04:00:00Z"
   },
   {
@@ -580,11 +586,5 @@
     "description": "Spain still topped the FIFA men\u2019s world rankings published Friday that show Germany back on track to be a top-seeded team in the World Cup finals tournament draw on Dec. 5 involving U.S. President Donald Trump. Germany rose two places to No. 10 after back-to-\u2026",
     "link": "https://japantoday.com/category/sports/spain-tops-fifa-men%27s-rankings-germany-set-to-be-among-top-seeds-in-world-cup-draw",
     "timestamp": "2025-10-18T02:46:27Z"
-  },
-  {
-    "title": "Trump says 100% tariffs on China not sustainable, still plans to meet Xi",
-    "description": "U.S. President Donald Trump said his proposed 100% tariff on goods from China would not be sustainable, but blamed Beijing for the latest impasse in trade talks that began with Chinese authorities tightening control over rare-earth exports.\nAsked whether such\u2026",
-    "link": "https://biztoc.com/x/7d958464cd8d3326",
-    "timestamp": "2025-10-18T02:45:47Z"
   }
 ]
