@@ -1,5 +1,35 @@
 [
   {
+    "title": "Quantum computing firms jump after report of US government stake talks",
+    "description": "Shares of IONQ, Rigetti, D-Wave Quantum and Quantum Computing surged between 12% and 14% after the report said the companies are in talks about the U.S...",
+    "link": "https://finance.yahoo.com/news/quantum-computing-firms-jump-report-095503513.html",
+    "timestamp": "2025-10-23T09:55:03Z"
+  },
+  {
+    "title": "Battenfeld: East Wing demolition rekindles Massachusetts governor\u2019s office makeover",
+    "description": "Battenfeld: President Trump\u2019s controversial construction of a new White House ballroom rekindles memories of a Massachusetts chief executive who wanted expensive new office digs: Democrat Deval Patrick.",
+    "link": "https://www.bostonherald.com/2025/10/23/battenfeld-east-wing-demolition-rekindles-massachusetts-governors-office-makeover/",
+    "timestamp": "2025-10-23T09:54:17Z"
+  },
+  {
+    "title": "Ideas: Resistance Is Cringe\u2014But It\u2019s Also Effective",
+    "description": "Dismissing the movement as embarrassing pap ignores what has made it so powerful.",
+    "link": "https://www.sueddeutsche.de/projekte/artikel/politik/resistance-is-cringe-but-it-s-also-effective-e535501/",
+    "timestamp": "2025-10-23T09:54:00Z"
+  },
+  {
+    "title": "PM Orpo: Latest Russian sanctions could alter course of war",
+    "description": "The EU and the United States have both announced new sanctions on Moscow over the past 24 hours, primarily aimed at Russian energy companies that \"fund the Kremlin\u2019s war machine\".",
+    "link": "https://yle.fi/a/74-20190007",
+    "timestamp": "2025-10-23T09:51:08Z"
+  },
+  {
+    "title": "From illusion to real peace: Trump\u2019s test in Gaza and Ukraine",
+    "description": "Real peace demands Palestinian statehood, Ukrainian neutrality and the courage to defy the war lobby.",
+    "link": "https://www.aljazeera.com/opinions/2025/10/23/from-illusion-to-real-peace-trumps-test-in-gaza-and-ukraine",
+    "timestamp": "2025-10-23T09:50:11Z"
+  },
+  {
     "title": "Newsom threatens to sue if Trump sends troops to San Francisco: 'Wannabe tyrant",
     "description": "California Gov. Gavin Newsom threatened a lawsuit against the Trump administration over the impending National Guard deployment to San Francisco.",
     "link": "https://www.foxnews.com/politics/newsom-threatens-sue-trump-sends-troops-san-francisco-wannabe-tyrant",
@@ -246,27 +276,21 @@
     "timestamp": "2025-10-23T09:00:05Z"
   },
   {
-    "title": "Officials Show Little Proof That New Tech Will Help Medicaid Enrollees Meet Work Rules",
-    "description": "The Trump administration says it\u2019s developing a digital tool to help people prove they\u2019re meeting new Medicaid work requirements. KFF Health News talked to officials from the two states running pilot programs and found little evidence of new \u2014 or effective \u2014 \u2026",
-    "link": "https://kffhealthnews.org/news/article/medicaid-eligibility-tool-pilot-test-work-requirements-ai-louisiana-arizona-georgia/",
-    "timestamp": "2025-10-23T09:00:00Z"
-  },
-  {
     "title": "Independent Media in Cambodia Is Collapsing. Washington Made It Worse.",
     "description": "Rani Chor\n\n\n\nThe Thai-Cambodian border conflict is just one of the many stories going underreported in the country as Trump\u2019s funding cuts leave citizens and journalists scrambling.\r\n\n\r\n\n\nThe post Independent Media in Cambodia Is Collapsing. Washington Made I\u2026",
     "link": "https://www.thenation.com/?post_type=article&p=574668",
     "timestamp": "2025-10-23T09:00:00Z"
   },
   {
-    "title": "Can Europe\u00a0Turn Tough\u00a0Talk on Russia into Action?",
-    "description": "Facing\u00a0the Russian threat with less help from America, the continent forges closer ties to beef up defense.\u00a0\nThe post Can Europe\u00a0Turn Tough\u00a0Talk on Russia into Action?\u00a0 appeared first on Washington Monthly.",
-    "link": "http://washingtonmonthly.com/2025/10/23/europe-ukraine-defense-russia-action/",
+    "title": "Officials Show Little Proof That New Tech Will Help Medicaid Enrollees Meet Work Rules",
+    "description": "The Trump administration says it\u2019s developing a digital tool to help people prove they\u2019re meeting new Medicaid work requirements. KFF Health News talked to officials from the two states running pilot programs and found little evidence of new \u2014 or effective \u2014 \u2026",
+    "link": "https://kffhealthnews.org/news/article/medicaid-eligibility-tool-pilot-test-work-requirements-ai-louisiana-arizona-georgia/",
     "timestamp": "2025-10-23T09:00:00Z"
   },
   {
-    "title": "China woos foreign tech talent, fueling its own graduates' job fears",
-    "description": "As the Trump administration\u2019s immigration crackdown narrows paths to entry for foreign science and technology workers, China is opening its doors wider \u2014 and drawing backlash from the public.",
-    "link": "https://www.nbcnews.com/world/asia/china-woos-foreign-tech-talent-fanning-graduates-unemployment-fears-rcna237485",
+    "title": "Can Europe\u00a0Turn Tough\u00a0Talk on Russia into Action?",
+    "description": "Facing\u00a0the Russian threat with less help from America, the continent forges closer ties to beef up defense.\u00a0\nThe post Can Europe\u00a0Turn Tough\u00a0Talk on Russia into Action?\u00a0 appeared first on Washington Monthly.",
+    "link": "http://washingtonmonthly.com/2025/10/23/europe-ukraine-defense-russia-action/",
     "timestamp": "2025-10-23T09:00:00Z"
   },
   {
@@ -279,6 +303,12 @@
     "title": "Trump lowers bar for lethal drug strikes abroad",
     "description": "The eight strikes by the Trump administration on boats in the Pacific and Caribbean have raised questions about the legality of such attacks.",
     "link": "https://www.msnbc.com/msnbc/news/trump-drug-boats-caribbean-lethal-force-rcna239214",
+    "timestamp": "2025-10-23T09:00:00Z"
+  },
+  {
+    "title": "China woos foreign tech talent, fueling its own graduates' job fears",
+    "description": "As the Trump administration\u2019s immigration crackdown narrows paths to entry for foreign science and technology workers, China is opening its doors wider \u2014 and drawing backlash from the public.",
+    "link": "https://www.nbcnews.com/world/asia/china-woos-foreign-tech-talent-fanning-graduates-unemployment-fears-rcna237485",
     "timestamp": "2025-10-23T09:00:00Z"
   },
   {
@@ -526,35 +556,5 @@
     "description": "\u201cMany of our former strengths \u2014 based on close ties to America \u2014 have become our vulnerabilities,\" said Canada's leader.",
     "link": "https://www.huffpost.com/entry/mark-carney-donald-trump-economy_n_68f9dbdce4b01e35ba176361",
     "timestamp": "2025-10-23T07:45:50Z"
-  },
-  {
-    "title": "EU Adopts New Sanctions Package That Targets Russian Energy",
-    "description": "The European Union adopted a new package of sanctions targeting Russia\u2019s energy infrastructure, joining a new US push to chip away at Moscow\u2019s ability to wage its war against Ukraine.",
-    "link": "https://financialpost.com/pmn/business-pmn/eu-adopts-new-sanctions-package-that-targets-russian-energy",
-    "timestamp": "2025-10-23T07:44:16Z"
-  },
-  {
-    "title": "Hopes for Xi-Trump summit dampened by tough Beijing moves and rising tension",
-    "description": "Even if the talks get back on track, experts say a narrow deal on a few issues is the most likely outcome.",
-    "link": "https://www.japantimes.co.jp/news/2025/10/23/world/politics/xi-trump-summit-beijing-tension/",
-    "timestamp": "2025-10-23T07:40:00Z"
-  },
-  {
-    "title": "Map of Gaza shows where Israeli forces are positioned under ceasefire deal",
-    "description": "Satellite imagery shows Israel holds about 40 active military positions beyond the yellow line.",
-    "link": "https://www.aljazeera.com/news/2025/10/23/map-of-gaza-shows-where-israeli-forces-are-positioned-under-ceasefire-deal",
-    "timestamp": "2025-10-23T07:36:40Z"
-  },
-  {
-    "title": "Stocks Gain; Crude Oil Surges on Russia Sanctions: Markets Wrap",
-    "description": "European stocks headed for a fresh record as third-quarter earnings continued to flow in. Crude oil jumped to a two-week high after US President Donald Trump imposed sanctions on Russia\u2019s biggest producers.",
-    "link": "https://financialpost.com/pmn/business-pmn/stocks-gain-crude-oil-surges-on-russia-sanctions-markets-wrap",
-    "timestamp": "2025-10-23T07:34:05Z"
-  },
-  {
-    "title": "Takaichi to advance defense spending target: reports",
-    "description": "Japan's new Prime Minister Sanae Takaichi aims to achieve the target of spending two percent of GDP on defense two years early, media reports said days before a visit by U.S. President Donald Trump. Long-pacifist Japan has moved towards a more muscular defens\u2026",
-    "link": "https://japantoday.com/category/politics/new-japan-pm-to-advance-defence-spending-target-reports",
-    "timestamp": "2025-10-23T07:33:11Z"
   }
 ]
