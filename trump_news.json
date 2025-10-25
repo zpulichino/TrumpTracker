@@ -1,5 +1,35 @@
 [
   {
+    "title": "Bitcoin, European Stocks Buoyant as Trump-Xi Meeting Confirmed",
+    "description": "The impending meeting comes amid escalating trade tensions, with President Trump threatening to impose additional tariffs on China.",
+    "link": "https://www.coindesk.com/markets/2025/10/24/bitcoin-buoyant-as-trump-xi-meeting-confirmed",
+    "timestamp": "2025-10-24T07:40:00Z"
+  },
+  {
+    "title": "India can switch from Russian crude, but at a cost: Analysts",
+    "description": "Indian oil refiners can shift away from Russian crude after US President Donald Trump imposed sanctions on Moscow's two largest oil companies -- but the move will come at a cost, analysts said Friday. Since sanctions were imposed, the company did not comment \u2026",
+    "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-can-switch-from-russian-crude-but-at-a-cost-analysts/articleshow/124779917.cms",
+    "timestamp": "2025-10-24T07:35:49Z"
+  },
+  {
+    "title": "Man wielding knife arrested near U.S. embassy in Tokyo: report",
+    "description": "A man wielding a knife was arrested near the U.S. embassy in Tokyo, TBS news reported on Friday. A riot policeman was injured but the extent of his injuries is unknown, the report said, citing police sources. The motive behind the attack was not immediately k\u2026",
+    "link": "https://japantoday.com/category/crime/man-wielding-knife-arrested-near-us-embassy-in-tokyo-tbs-news-reports",
+    "timestamp": "2025-10-24T07:34:33Z"
+  },
+  {
+    "title": "In Japan and South Korea, Trump will promote big investments, but details still not clear",
+    "description": "President Donald Trump is going to Japan and South Korea next week to promote an epic financial windfall \u2014 at least $900 billion in investments for U.S. factories, a natural gas pipeline and other projects. Japan and South Korea made those financial commitmen\u2026",
+    "link": "https://japantoday.com/category/politics/in-japan-and-south-korea-trump-will-promote-big-investments.-but-the-details-are-still-not-clear",
+    "timestamp": "2025-10-24T07:34:24Z"
+  },
+  {
+    "title": "Takaichi, in first policy speech, vows to further bolster defense buildup",
+    "description": "Japanese Prime Minister Sanae Takaichi, in her first major policy speech on Friday, pledged to further accelerate Japan\u2019s military buildup and spending and complete an early upgrade of the country's security strategy as tensions rise with China, North Korea a\u2026",
+    "link": "https://japantoday.com/category/politics/takaichi-in-first-policy-speech-vows-to-further-bolster-defense-buildup",
+    "timestamp": "2025-10-24T07:34:14Z"
+  },
+  {
     "title": "Trump pardons Binance founder Changpeng Zhao",
     "description": "Zhao was sentenced to four months in prison in 2024 after pleading guilty to violating money laundering laws.",
     "link": "https://www.bbc.com/news/articles/cly1qrl9l1qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -354,21 +384,15 @@
     "timestamp": "2025-10-24T06:00:30Z"
   },
   {
-    "title": "Trump DENIES Tomahawk missiles for Ukraine, pushes for peace talks as Russia escalates strikes",
-    "description": "President Trump has refused to supply Ukraine with long-range Tomahawk missiles, citing their operational complexity and the risk of escalating the conflict with Russia. He dismissed reports of the U.S. loosening restrictions on Ukraine\u2019s use of long-range mi\u2026",
-    "link": "https://www.naturalnews.com/2025-10-24-trump-denies-tomahawk-missiles-for-ukraine.html",
-    "timestamp": "2025-10-24T06:00:00Z"
-  },
-  {
     "title": "Exclusive: CIA provided contradictory intel on Hamas during Trump-brokered peace deal, envoys reveal",
     "description": "The CIA\u2019s daily briefings contradicted the assurances from regional mediators that Hamas was open to negotiations, raising questions about the reliability of U.S. intelligence. Kushner and Witkoff had to decide whether to trust their diplomatic sources or def\u2026",
     "link": "https://www.naturalnews.com/2025-10-24-cia-contradictory-intel-hamas-during-trump-peace-deal.html",
     "timestamp": "2025-10-24T06:00:00Z"
   },
   {
-    "title": "Trump\u2019s H-1B visa crackdown forces Walmart to freeze foreign hiring",
-    "description": "Walmart, one of the top employers of H-1B workers, suspends hiring under the program due to Trump\u2019s aggressive reforms, signaling a major shift against corporate exploitation of foreign labor. A new $100,000 application fee imposed by the Trump administration\u2026",
-    "link": "https://www.naturalnews.com/2025-10-24-trump-visa-crackdown-forces-walmart-freeze-hiring.html",
+    "title": "Trump DENIES Tomahawk missiles for Ukraine, pushes for peace talks as Russia escalates strikes",
+    "description": "President Trump has refused to supply Ukraine with long-range Tomahawk missiles, citing their operational complexity and the risk of escalating the conflict with Russia. He dismissed reports of the U.S. loosening restrictions on Ukraine\u2019s use of long-range mi\u2026",
+    "link": "https://www.naturalnews.com/2025-10-24-trump-denies-tomahawk-missiles-for-ukraine.html",
     "timestamp": "2025-10-24T06:00:00Z"
   },
   {
@@ -381,6 +405,12 @@
     "title": "Trump Administration\u00e2\u0080\u0099s Stance on Ukraine and Russian Oil Spurs Diplomatic and Market Responses",
     "description": "Heightened Tensions: President Trump\u2019s threat to supply Ukraine with Tomahawk missiles has raised tensions, with Russian President Putin warning of an \u201coverwhelming\u201d response to this perceived act of aggression. Sanctions on Russian Oil: Trump\u2019s sanctions on \u2026",
     "link": "https://www.naturalnews.com/2025-10-24-trump-stance-on-ukraine-and-russian-oil.html",
+    "timestamp": "2025-10-24T06:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s H-1B visa crackdown forces Walmart to freeze foreign hiring",
+    "description": "Walmart, one of the top employers of H-1B workers, suspends hiring under the program due to Trump\u2019s aggressive reforms, signaling a major shift against corporate exploitation of foreign labor. A new $100,000 application fee imposed by the Trump administration\u2026",
+    "link": "https://www.naturalnews.com/2025-10-24-trump-visa-crackdown-forces-walmart-freeze-hiring.html",
     "timestamp": "2025-10-24T06:00:00Z"
   },
   {
@@ -556,29 +586,5 @@
     "description": "Changpeng Zhao, the founder of crypto exchange Binance, was pardoned by President Donald Trump today, according to The Wall Street Journal. The move comes after months of lobbying by the company and Zhao\u2019s own efforts to boost the Trump family\u2019s crypto ventur\u2026",
     "link": "https://biztoc.com/x/adf40d1e8159bbbb",
     "timestamp": "2025-10-24T05:14:36Z"
-  },
-  {
-    "title": "Trump says he's ending trade talks with Canada over TV ads",
-    "description": "The abrupt announcement comes after Trump accused Canada of using a \"fake\" Ronald Reagan ad to sway U.S. courts, raising the stakes in an already tense trade dispute.",
-    "link": "https://www.npr.org/2025/10/24/nx-s1-5584890/trump-trade-talks-canada",
-    "timestamp": "2025-10-24T05:07:42Z"
-  },
-  {
-    "title": "China strikes conciliatory tone ahead of expected Trump-Xi meeting",
-    "description": "Chinese Commerce Minister Wang Wentao told reporters Friday that the U.S. and China can still find ways to work together, and that Beijing opposes decoupling.",
-    "link": "https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html",
-    "timestamp": "2025-10-24T05:07:16Z"
-  },
-  {
-    "title": "Rep. Maxine Waters Blasts Trump Pardon of Binance Founder",
-    "description": "Trump\u2019s pardon of Binance founder Changpeng Zhao has ignited political outrage and renewed scrutiny of his ties to the crypto industry.",
-    "link": "https://decrypt.co/345812/rep-maxine-waters-blasts-trump-pardon-of-binance-founder",
-    "timestamp": "2025-10-24T05:03:13Z"
-  },
-  {
-    "title": "National Guard deployments in Washington, DC, and Portland, Oregon, are focus of court hearings",
-    "description": "The deployment of National Guard troops on the streets of Washington faces challenges in two courts on Friday \u2014 one in the nation\u2019s capital and another in West Virginia \u2014 while across the country a judge in Portland, Oregon, will consider whether to le...",
-    "link": "https://abcnews.go.com/US/wireStory/national-guard-deployments-washington-dc-portland-oregon-focus-126822787",
-    "timestamp": "2025-10-24T05:01:41Z"
   }
 ]
