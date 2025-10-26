@@ -1,5 +1,29 @@
 [
   {
+    "title": "Thailand's former queen Sirikit dies aged 93",
+    "description": "Thailand's former Queen Sirikit, the mother of the current King Vajiralongkorn and wife of the nation's longest-reigning monarch, died late Friday at the age...",
+    "link": "https://www.yahoo.com/news/articles/thailands-former-queen-sirikit-dead-235819589.html",
+    "timestamp": "2025-10-25T06:23:35Z"
+  },
+  {
+    "title": "Ukraine: Donald Trump pivots again",
+    "description": "US president apparently warned Volodymyr Zelenskyy to accept Vladimir Putin\u2019s terms or face destruction during fractious face-to-face",
+    "link": "https://theweek.com/world-news/ukraine-donald-trump-pivots-again",
+    "timestamp": "2025-10-25T06:23:00Z"
+  },
+  {
+    "title": "Asked about Rudd, Trump warns he does not forget when people 'say bad'",
+    "description": "US President Donald Trump says he does not forget when people \"say bad\" things about him, in response to a question about Australia's ambassador, Kevin Rudd.",
+    "link": "https://www.abc.net.au/news/2025-10-25/trump-wont-forget-rudd-negative-comments/105934410",
+    "timestamp": "2025-10-25T06:21:59Z"
+  },
+  {
+    "title": "Canadians pull Reagan advertisement after furious Trump halts trade talks",
+    "description": "Ontario to stop running advertisement featuring voice of US President Ronald Reagan saying that trade tariffs were a bad idea.",
+    "link": "https://www.aljazeera.com/news/2025/10/25/canadians-pull-reagan-advertisement-after-furious-trump-halts-trade-talks",
+    "timestamp": "2025-10-25T06:18:32Z"
+  },
+  {
     "title": "Trump \u2018open\u2019 to meeting North Korea\u2019s Kim during Asia trip",
     "description": "Speculation has grown that the headline-hungry U.S. leader might hold impromptu talks with Kim around the time of a regional economic summit in South Korea.",
     "link": "https://www.japantimes.co.jp/news/2025/10/25/asia-pacific/politics/trump-kim-north-korea-meeting/",
@@ -54,15 +78,15 @@
     "timestamp": "2025-10-25T06:00:00Z"
   },
   {
-    "title": "Democratic exodus continues as New Jersey councilman\u00c2\u00a0jumps ship and joins the GOP",
-    "description": "Alpine Councilman David Kupferschmid, a lifelong Democrat, switched to the Republican Party\u00a0\u2013 becoming the first GOP member on Alpine\u2019s council in over 20 years. His move reflects growing dissatisfaction among moderate Democrats. Kupferschmid endorsed Republi\u2026",
-    "link": "https://www.naturalnews.com/2025-10-25-democratic-nj-councilman-jumps-ship-joins-gop.html",
-    "timestamp": "2025-10-25T06:00:00Z"
-  },
-  {
     "title": "Oil prices crash \u2014 Trump seizes opportunity to rebuild depleted SPR",
     "description": "The Trump administration is initiating the purchase of 1 million barrels of crude oil to begin refilling the severely depleted Strategic Petroleum Reserve. The SPR, a national security asset designed for supply emergencies, is currently only about 60 percent \u2026",
     "link": "https://www.naturalnews.com/2025-10-25-trump-seizes-opportunity-to-rebuild-depleted-spr.html",
+    "timestamp": "2025-10-25T06:00:00Z"
+  },
+  {
+    "title": "Democratic exodus continues as New Jersey councilman\u00c2\u00a0jumps ship and joins the GOP",
+    "description": "Alpine Councilman David Kupferschmid, a lifelong Democrat, switched to the Republican Party\u00a0\u2013 becoming the first GOP member on Alpine\u2019s council in over 20 years. His move reflects growing dissatisfaction among moderate Democrats. Kupferschmid endorsed Republi\u2026",
+    "link": "https://www.naturalnews.com/2025-10-25-democratic-nj-councilman-jumps-ship-joins-gop.html",
     "timestamp": "2025-10-25T06:00:00Z"
   },
   {
@@ -396,15 +420,15 @@
     "timestamp": "2025-10-25T04:00:00Z"
   },
   {
-    "title": "Of kings and monarchs",
-    "description": "\u201cIn the country of the blind, the one-eyed man is king.\u201d \u2014 Desiderius Erasmus\r\n\r\n\u201cCommon sense is not so common.\u201d \u2014 Voltaire\r\n\r\nSome eighty-odd years ago, a man named Joseph Goebbels proved to the entire world that...",
-    "link": "https://www.americanthinker.com/blog/2025/10/of_kings_and_monarchs.html",
-    "timestamp": "2025-10-25T04:00:00Z"
-  },
-  {
     "title": "Will Senator Graham stay for his jubilee term?",
     "description": "There is almost a year left before the U.S. Senate elections, but electoral races in some states seem\u00a0to have already begun. A serious struggle is flaring up in South Carolina represented by Lindsey Graham since 2003.\u00a0Republicans Mark Lynch...",
     "link": "https://www.americanthinker.com/blog/2025/10/will_senator_graham_stay_for_his_jubilee_term.html",
+    "timestamp": "2025-10-25T04:00:00Z"
+  },
+  {
+    "title": "Of kings and monarchs",
+    "description": "\u201cIn the country of the blind, the one-eyed man is king.\u201d \u2014 Desiderius Erasmus\r\n\r\n\u201cCommon sense is not so common.\u201d \u2014 Voltaire\r\n\r\nSome eighty-odd years ago, a man named Joseph Goebbels proved to the entire world that...",
+    "link": "https://www.americanthinker.com/blog/2025/10/of_kings_and_monarchs.html",
     "timestamp": "2025-10-25T04:00:00Z"
   },
   {
@@ -556,35 +580,5 @@
     "description": "Ontario is pausing its US $54 million anti-tariff advertising campaign. The ads featured former US President Ronald Reagan's speech. US President Donald Trump strongly opposed the campaign. He called off trade negotiations with Canada. Ontario's Premier Doug \u2026",
     "link": "https://economictimes.indiatimes.com/news/international/us/ontario-to-continue-reagan-tariffs-ad-this-weekend-pause-campaign-after-world-series-to-resume-us-trade-talks/articleshow/124798095.cms",
     "timestamp": "2025-10-25T03:02:15Z"
-  },
-  {
-    "title": "Maryland governor hints at special session to redraw congressional districts",
-    "description": "Maryland Governor Wes Moore strongly hinted today that he is ready to call a special session of the General Assembly to redraw the state congressional districts. That move would flip Maryland\u2019s lone Republican seat in Congress, currently held by Representativ\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4348495/posts",
-    "timestamp": "2025-10-25T03:01:55Z"
-  },
-  {
-    "title": "Will Trump Pardon Sam Bankman-Fried? Polymarket Odds Surge as Traders React to CZ\u2019s Release",
-    "description": "Speculation is heating up in crypto circles as betting markets Polymarket surged on the possibility that former FTX CEO Sam Bankman-Fried (SBF) could receive a presidential pardon from Donald Trump. Related Reading: Tesla Rides Bitcoin Rally To $80 Million Pr\u2026",
-    "link": "https://bitcoinist.com/will-trump-pardon-sam-bankman-fried-polymarket-odds/",
-    "timestamp": "2025-10-25T03:00:52Z"
-  },
-  {
-    "title": "Traders guide to what to expect ahead of Trump\u2019s Asia trip and Xi meeting",
-    "description": "US President Donald Trump is expected to have a sit-down on Oct 30 with Chinese President Xi Jinping. Read more at straitstimes.com. Read more at straitstimes.com.",
-    "link": "https://www.straitstimes.com/business/traders-guide-to-what-to-expect-ahead-of-trumps-asia-trip-and-xi-meeting",
-    "timestamp": "2025-10-25T03:00:06Z"
-  },
-  {
-    "title": "Trump's $300 Million White House Ballroom Could Soon Bear A Very Familiar Name",
-    "description": "President Donald Trump is reportedly planning to name his new $300 million White House ballroom after himself.\n\u2018The President Donald J Trump Ballroom'\nOfficials are already referring to the new space as \"The President Donald J Trump Ballroom,\" sources familia\u2026",
-    "link": "https://biztoc.com/x/0500dfed90b61133",
-    "timestamp": "2025-10-25T02:50:56Z"
-  },
-  {
-    "title": "US beef prices are soaring. Will Trump's plans lower them?",
-    "description": "US beef prices are soaring. Will Trump's plans lower them?\nBeef prices have gotten so high in the US that it has become a political problem.\nEven Donald Trump, who long ago declared inflation \"dead\", is talking about it, as the issue threatens to undercut his\u2026",
-    "link": "https://biztoc.com/x/afdd3be1db6498bf",
-    "timestamp": "2025-10-25T02:50:46Z"
   }
 ]
