@@ -1,5 +1,455 @@
 [
   {
+    "title": "New York mayoral candidate Zohran Mamdani rallies voters with support from Bernie Sanders and AOC",
+    "description": "New York mayoral candidate Zohran Mamdani rallied supporters Sunday with heavyweight support from U.S. Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez ...",
+    "link": "https://www.yahoo.com/news/articles/york-mayoral-candidate-zohran-mamdani-020907517.html",
+    "timestamp": "2025-10-27T02:09:07Z"
+  },
+  {
+    "title": "Jon Stewart Gives Update on Hosting \u2018The Daily Show\u2019: \u2018We\u2019re Working on Staying\u2019",
+    "description": "Jon Stewart gave an update on Sunday about his 'The Daily Show' hosting duties, saying he's 'working on staying.'",
+    "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/jon-stewart-the-daily-show-host-update-working-on-staying-1235454523/",
+    "timestamp": "2025-10-27T02:08:11Z"
+  },
+  {
+    "title": "Asian Stocks, Copper Rally As US Nears Deal With China: Markets Wrap",
+    "description": "Stocks rallied along with copper and oil after signs that the US and China were nearing a trade deal triggered a cross-asset rally. Treasuries dropped across the curve and gold slid.",
+    "link": "https://www.ndtvprofit.com/markets/asian-stocks-copper-rally-as-us-nears-deal-with-china-markets-wrap",
+    "timestamp": "2025-10-27T02:08:02Z"
+  },
+  {
+    "title": "Trump, 79, Flashes Cankles at Summit With Asian Leaders",
+    "description": "The president\u2019s swollen ankles were photographed as he sat down at a summit with leaders of Southeast Asian nations.",
+    "link": "https://www.thedailybeast.com/trump-79-flashes-cankles-at-summit-with-asian-leaders/",
+    "timestamp": "2025-10-27T02:07:48Z"
+  },
+  {
+    "title": "Gold slips on stronger dollar, US-China trade deal optimism",
+    "description": "Gold prices declined on Monday, influenced by a strengthening dollar and easing U.S.-China trade tensions, which diminished the metal's safe-haven appeal. Investors are now anticipating key central bank meetings later in the week, particularly the Federal Res\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-on-stronger-dollar-us-china-trade-deal-optimism/articleshow/124837769.cms",
+    "timestamp": "2025-10-27T02:04:51Z"
+  },
+  {
+    "title": "\u2018We\u2019ve Got to Do Something!\u2019 GOP Lawmakers Call Out Party\u2019s \u2018Morally Bankrupt\u2019 Inaction On Health Care Costs - NewsBreak",
+    "description": "Republican lawmakers are call over the prospect of not having a plan in place to lower health care costs, as Democrats continue to dig in their heels over",
+    "link": "https://www.newsbreak.com/share/4315126795865-we-ve-got-to-do-something-gop-lawmakers-call-out-party-s-morally-bankrupt-inaction-on-health-care-costs?s=a2&amp;share_destination_id=MTU1MTgxMjAwLTE3NjE1MzA1MDMzOTk%3D&amp;pd=0AV7iawk&amp;hl=en_US&amp;send_time=1761530503&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.39.1%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-control",
+    "timestamp": "2025-10-27T02:03:01Z"
+  },
+  {
+    "title": "Dollar hits two-week high against yen as trade talks, Fed meeting loom",
+    "description": "The US dollar is gaining against the yen as global trade talks and central bank meetings begin. President Trump meets Japan's Prime Minister and China's President this week. The US Federal Reserve is expected to cut interest rates. Markets will focus on the F\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/dollar-hits-two-week-high-against-yen-as-trade-talks-fed-meeting-loom/articleshow/124837756.cms",
+    "timestamp": "2025-10-27T02:02:57Z"
+  },
+  {
+    "title": "Bitcoin, Ethereum, Dogecoin, XRP Rally Amid US-China Trade Breakthrough: ETH On Track To Hit $5,000? Here Is What This Analyst Says",
+    "description": "Leading cryptocurrencies lifted alongside stock futures Sunday as the U.S. and China reached a key trade consensus ahead of a meeting between President Donald Trump and Chinese counterpart Xi Jinping.\nCryptocurrency\nGains +/-\nPrice (Recorded at 9:20 p.m. ET)\n\u2026",
+    "link": "https://biztoc.com/x/5d7d8858458c2cf5",
+    "timestamp": "2025-10-27T02:01:13Z"
+  },
+  {
+    "title": "Trump says leaving Malaysia, on his way to Japan",
+    "description": "United States President Donald Trump said he was leaving Malaysia for Japan and touted the trade and peace breakthroughs secured during his visit.\"Just leaving Malaysia, a great and very vibrant Count...",
+    "link": "https://biztoc.com/x/4fbdd474daf92200",
+    "timestamp": "2025-10-27T02:01:12Z"
+  },
+  {
+    "title": "Japan's New Prime Minister Sanae Takaichi May Have Found The Key To Trump's Heart With Ford F-150s: 'That's A Hot Truck'",
+    "description": "Former President Donald Trump has arrived in Japan for talks with newly appointed Prime Minister Sanae Takaichi. The visit marks Takaichi's effort to build a personal connection with Trump to help ease trade tensions \u2014 and at the heart of that plan could be v\u2026",
+    "link": "https://biztoc.com/x/3cca0303780d6537",
+    "timestamp": "2025-10-27T02:00:57Z"
+  },
+  {
+    "title": "Oil prices rise after US and China reach trade-deal framework",
+    "description": "Oil prices saw an increase early Monday. This rise followed positive developments in U.S.-China trade talks. Economic officials outlined a framework for a deal. This eased worries about global growth. New sanctions on Russia also contributed to the price hike\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-after-us-and-china-reach-trade-deal-framework/articleshow/124837744.cms",
+    "timestamp": "2025-10-27T02:00:56Z"
+  },
+  {
+    "title": "'Unreal': Analysts stunned by Trump's 'most childish' response to Canadian tariffs ad",
+    "description": "A pair of political analysts were stunned on Sunday after they saw President Donald Trump's response to an advertisement created by the Canadian government about his signature tariff policies. The Canadian government's ad features video of former President Ro\u2026",
+    "link": "https://www.rawstory.com/trump-tariff-2674234616/",
+    "timestamp": "2025-10-27T02:00:33Z"
+  },
+  {
+    "title": "Timor-Leste's entry, KL Peace Accord mark two historic achievements for Malaysia as Asean chair, says PMO",
+    "description": "KUALA LUMPUR: Timor-Leste's admission as ASEAN's 11th member state and the signing of the Kuala Lumpur Peace Agreement between Cambodia and Thailand mark two historic milestones achieved by Malaysia as Asean Chair in 2025, according to the Prime Minister's Of\u2026",
+    "link": "https://www.thestar.com.my/news/nation/2025/10/27/timor-leste039s-entry-kl-peace-accord-mark-two-historic-achievements-for-malaysia-as-asean-chair-says-pmo",
+    "timestamp": "2025-10-27T01:59:00Z"
+  },
+  {
+    "title": "Jeffries calls rising health care \u2018unsustainable\u2019 and \u2018unconscionable\u2019 amid government shutdown - NewsBreak",
+    "description": "House Minority Leader Hakeem Jeffries speaks to CNN\u2019s Fredricka Whitfield about the rising cost of living and the potential increase in health care premium",
+    "link": "https://www.newsbreak.com/share/4315286038810-jeffries-calls-rising-health-care-unsustainable-and-unconscionable-amid-government-shutdown?_f=app_share&amp;pd=05OaPdkt&amp;lang=en_US&amp;send_time=1761530166&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.42.1.12%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v2&amp;s=i2",
+    "timestamp": "2025-10-27T01:57:11Z"
+  },
+  {
+    "title": "Ghislaine Maxwell claimed she performed lewd act on George Clooney, Giuffre memoir alleges",
+    "description": "Giuffre details the claim in her posthumous memoir, published this year.",
+    "link": "https://www.nzherald.co.nz/world/ghislaine-maxwell-claimed-she-performed-lewd-act-on-george-clooney-giuffre-memoir-alleges/CGGY7YOTH5A7JDKJHMHTNSRTXM/",
+    "timestamp": "2025-10-27T01:54:56Z"
+  },
+  {
+    "title": "Trump reverses Biden-era rules on copper smelters",
+    "description": "President Donald Trump has rolled back a recent air pollution rule for copper smelters. This decision provides a two-year exemption from stricter emission limits. The White House stated this move supports American mineral security by easing regulatory burdens\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-reverses-biden-era-rules-on-copper-smelters/articleshow/124837687.cms",
+    "timestamp": "2025-10-27T01:54:42Z"
+  },
+  {
+    "title": "Trump Builds Diplomatic Momentum Securing Peace, Trade Deals Ahead Of Looming Meeting With China",
+    "description": "President Donald Trump signed a pair of trade deals with southeast Asian countries and oversaw a peace deal ending a major border dispute in the region Sunday.",
+    "link": "https://dailycaller.com/2025/10/26/donald-trump-malaysia-cambodia-trade-deals-peace-agreement-asia-trip/",
+    "timestamp": "2025-10-27T01:51:03Z"
+  },
+  {
+    "title": "'Biggest scandal in American history': Trump calls for DOJ probe into alleged 2020 election rigging",
+    "description": "Former US President Donald Trump demands a Department of Justice probe into the 2020 election, calling it a major scandal. He urges an end to mail-in and early voting, favoring voter identification. Trump also criticizes California's Proposition 50, alleging \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/biggest-scandal-in-american-history-trump-calls-for-doj-probe-into-alleged-2020-election-rigging/articleshow/124837639.cms",
+    "timestamp": "2025-10-27T01:50:16Z"
+  },
+  {
+    "title": "A US Navy Super Hornet and Sea Hawk from the same aircraft carrier crashed 30 minutes apart in the South China Sea",
+    "description": "Both aircraft were deployed from the USS Nimitz and went down during routine operations, the Navy said.",
+    "link": "https://www.businessinsider.com/us-navy-super-hornet-sea-hawk-south-china-sea-crash-2025-10",
+    "timestamp": "2025-10-27T01:49:01Z"
+  },
+  {
+    "title": "Milei\u2019s Party Wins Argentina\u2019s Midterm Election After Trump\u2019s Support",
+    "description": "La Libertad Avanza secured the most votes nationwide, while the Peronist alliance came in second with 31.67% and Provincias Unidas failed to gain traction",
+    "link": "https://www.lanacion.com.ar/estados-unidos/mileis-party-wins-argentinas-midterm-election-after-trumps-support-nid26102025/",
+    "timestamp": "2025-10-27T01:48:57Z"
+  },
+  {
+    "title": "Trump\u2019s push for Gulf to pay for rebuilding Gaza faces hurdles",
+    "description": "Qatar, Saudi Arabia and the United Arab Emirates have specific reservations about providing financing for reconstruction.",
+    "link": "https://www.japantimes.co.jp/news/2025/10/27/world/politics/trump-gulf-rebuild-gaza/",
+    "timestamp": "2025-10-27T01:45:00Z"
+  },
+  {
+    "title": "\u2018We\u2019ve Got to Do Something!\u2019 GOP Lawmakers Call Out Party\u2019s \u2018Morally Bankrupt\u2019 Inaction On Health Care Costs - NewsBreak",
+    "description": "Republican lawmakers are call over the prospect of not having a plan in place to lower health care costs, as Democrats continue to dig in their heels over",
+    "link": "https://www.newsbreak.com/share/4315126795865-we-ve-got-to-do-something-gop-lawmakers-call-out-party-s-morally-bankrupt-inaction-on-health-care-costs?_f=app_share&amp;pd=05WApuMu&amp;lang=en_US&amp;send_time=1761529417&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.42.1.12%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v3&amp;s=i2",
+    "timestamp": "2025-10-27T01:44:06Z"
+  },
+  {
+    "title": "Japan\u2019s Takaichi Support Starts on High Note as Trump Arrives",
+    "description": "Support for Japanese Prime Minister Sanae Takaichi\u2019s new government started on a high note according to polls conducted over the weekend, giving her some momentum as she prepares for a visit by US President Donald Trump that could give the new premier another\u2026",
+    "link": "https://financialpost.com/pmn/business-pmn/japans-takaichi-support-starts-on-high-note-as-trump-arrives",
+    "timestamp": "2025-10-27T01:43:44Z"
+  },
+  {
+    "title": "Donald Trump Reiterates Warning Against Tylenol Use During Pregnancy, Citing FDA Inaction",
+    "description": "President Donald Trump has once again urged pregnant women to avoid using Tylenol unless absolutely necessary, reigniting a controversial debate over the safety of the common pain reliever during pregnancy. In a recent post on Truth Social, Trump also advised\u2026",
+    "link": "https://www.ndtvprofit.com/world/donald-trump-reiterates-warning-against-tylenol-use-during-pregnancy-citing-fda-inaction",
+    "timestamp": "2025-10-27T01:40:56Z"
+  },
+  {
+    "title": "Jon Stewart's The Daily Show Future Remains Uncertain",
+    "description": "As Jon Stewart's contract with The Daily Show nears its end, the late-night host finally reveals where he stands with Comedy Central.",
+    "link": "https://screenrant.com/jon-stewart-daily-show-future-uncertain/",
+    "timestamp": "2025-10-27T01:40:46Z"
+  },
+  {
+    "title": "5 crew members rescued after Navy helicopter, fighter jet go down in South China Sea in separate incidents",
+    "description": "Five crew members were rescued after a Navy Sea Hawk helicopter and Super Hornet fighter jet went down in the South China Sea a half-hour apart in two separate incidents Sunday, the Navy's Pacific Fleet said",
+    "link": "https://www.nbcnews.com/news/us-news/5-crew-members-rescued-navy-helicopter-fighter-jet-go-south-china-sea-rcna239950",
+    "timestamp": "2025-10-27T01:39:11Z"
+  },
+  {
+    "title": "5 crew members rescued after Navy helicopter, fighter jet go down in South China Sea in separate incidents",
+    "description": "Five crew members were rescued after a Navy Seahawk helicopter and a Super Hornet fighter jet went down in the South China Sea a half-hour apart in separate incidents Sunday, the Navy's Pacific Fleet said",
+    "link": "https://www.nbcnews.com/news/military/5-crew-members-rescued-navy-helicopter-fighter-jet-go-south-china-sea-rcna239950",
+    "timestamp": "2025-10-27T01:39:11Z"
+  },
+  {
+    "title": "Novartis to buy Avidity Biosciences for $12 billion",
+    "description": "The move strengthens Novartis\u2019s foothold in rare muscle disorder treatments as it faces a looming patent cliff for key drugs like Entresto, Xolair and Cosentyx",
+    "link": "https://www.thehindubusinessline.com/news/world/novartis-to-buy-avidity-biosciences-for-12-billion/article70207018.ece",
+    "timestamp": "2025-10-27T01:38:45Z"
+  },
+  {
+    "title": "Trump Taps SEC Vet Mike Selig to Lead CFTC",
+    "description": "President Donald Trump has reportedly chosen his nominee to head the U.S. Commodity Futures Trading Commission (CFTC).\n \n \n \n \nAs Coindesk reported Sunday (Oct. 26), Trump is backing ex-Securities and Exchange Commission (SEC) lawyer Mike Selig to lead the re\u2026",
+    "link": "https://biztoc.com/x/691d9c85a6699eea",
+    "timestamp": "2025-10-27T01:38:43Z"
+  },
+  {
+    "title": "Milei wins big in crucial Argentina midterm vote - a national test of his economic reforms",
+    "description": "Milei has said he can revive the economy through painful reforms.",
+    "link": "https://www.nzherald.co.nz/world/milei-wins-big-in-crucial-argentina-midterm-vote-a-national-test-of-his-economic-reforms/XC5QYLO3A5FDLFKU3TJZUTML64/",
+    "timestamp": "2025-10-27T01:35:32Z"
+  },
+  {
+    "title": "STEPHEN MOORE: Wealthy Investors Should Bet Big With Their Own Money Instead",
+    "description": "Politicians in Washington have the shortest memories.\u00a0 Maybe that\u2019s why they so seldom learn from their mistakes, sometimes their catastrophic mistakes.",
+    "link": "https://dailycaller.com/2025/10/26/opinion-wealthy-investors-should-bet-big-with-their-own-money-instead-stephen-moore/",
+    "timestamp": "2025-10-27T01:34:52Z"
+  },
+  {
+    "title": "Hecklers taunt Gov. Hochul with \u2018Tax the Rich\u2019 chant at Zohran Mamdani\u2019s NYC rally featuring AOC and Sanders",
+    "description": "\"Oh, you're fired up, you're fired up,\" Hochul tried to awkwardly get past the crowd's jeers. \"Alright. I hear you.\"",
+    "link": "https://nypost.com/2025/10/26/us-news/hecklers-taunt-gov-hochul-with-tax-the-rich-chant-at-zohran-mamdanis-nyc-rally-featuring-aoc-and-sanders/",
+    "timestamp": "2025-10-27T01:32:03Z"
+  },
+  {
+    "title": "Oil Climbs as Prospect of US-China Breakthrough Buoys Outlook",
+    "description": "Brent rose above $66 a barrel, after rallying almost 8% last week, while West Texas Intermediate was near $62.  Top negotiators said they came to terms on a ...",
+    "link": "https://finance.yahoo.com/news/oil-advances-prospect-us-china-235005550.html",
+    "timestamp": "2025-10-27T01:28:45Z"
+  },
+  {
+    "title": "CNBC Daily Open: Cooler-than-expected U.S. consumer inflation adds to market cheer",
+    "description": "However, the lack of data, such as the jobs report, because of the U.S. government shutdown, means we don't know what the overall economic picture looks like.",
+    "link": "https://www.cnbc.com/2025/10/27/cnbc-daily-open-cooler-than-expected-us-consumer-inflation-adds-to-market-cheer.html",
+    "timestamp": "2025-10-27T01:28:00Z"
+  },
+  {
+    "title": "Dollar hits two-week high against yen as trade talks, Fed meeting loom",
+    "description": "Bessent says U.S. reaches trade framework with China on rare earths - NBC\nBy Rocky Swift\nTOKYO (Reuters) -The U.S. dollar rose to a more than two-week high against the yen on Monday at the start of a packed week of global trade negotiations and central bank m\u2026",
+    "link": "https://biztoc.com/x/d5b533f147aaaf88",
+    "timestamp": "2025-10-27T01:27:24Z"
+  },
+  {
+    "title": "The East Wing of the White House is gone",
+    "description": "Betty Ford reportedly said that if the White House West Wing is the \"mind\" of the nation, then the East Wing is the \"heart.\"",
+    "link": "https://www.wlky.com/article/the-east-wing-of-the-white-house-is-gone/69157468",
+    "timestamp": "2025-10-27T01:24:31Z"
+  },
+  {
+    "title": "Asia markets and US stocks futures rise after US and Chinese officials agree on trade deal framework",
+    "description": "US stock futures rose Sunday after US and Chinese representatives agreed on a framework for a trade deal, potentially averting a tariff hike to 157% on Chinese goods.",
+    "link": "https://www.cnn.com/2025/10/26/business/stock-futures-us-china-trade-deal",
+    "timestamp": "2025-10-27T01:23:29Z"
+  },
+  {
+    "title": "Zohran Mamdani, Bernie Sanders and Alexandria Ocasio-Cortez slam Trump at raucous rally",
+    "description": "New York City mayoral hopeful Zohran Mamdani and two of his most prominent backers, Sen.",
+    "link": "https://www.nbcnews.com/politics/elections/zohran-mamdani-bernie-sanders-alexandria-ocasio-cortez-slam-trump-rauc-rcna239944",
+    "timestamp": "2025-10-27T01:23:25Z"
+  },
+  {
+    "title": "The East Wing of the White House is gone",
+    "description": "Betty Ford reportedly said that if the White House West Wing is the \"mind\" of the nation, then the East Wing is the \"heart.\"",
+    "link": "https://www.wtae.com/article/the-east-wing-of-the-white-house-is-gone/69157468",
+    "timestamp": "2025-10-27T01:21:30Z"
+  },
+  {
+    "title": "Oil prices rise after US and China reach trade-deal framework",
+    "description": "(Reuters) -Oil prices rose in early trade on Monday after U. and Chinese economic officials sketched out a trade-deal framework, easing fears that tariffs...",
+    "link": "https://finance.yahoo.com/news/oil-prices-rise-us-china-011947296.html",
+    "timestamp": "2025-10-27T01:19:47Z"
+  },
+  {
+    "title": "'An astonishing situation': Wikipedia co-founder bashes Trump's latest attacks on trust",
+    "description": "Wikipedia co-founder Jimmy Wales bashed President Donald Trump's attacks on the American press and the truth during an interview with Times Radio on Sunday. Wales, who co-founded Wikipedia in 2001 with entrepreneur Larry Sanger, said during the interview that\u2026",
+    "link": "https://www.rawstory.com/wikipedia/",
+    "timestamp": "2025-10-27T01:19:07Z"
+  },
+  {
+    "title": "On Notice: Parliament\u2019s back and environment\u2019s on the agenda, but Albo won\u2019t be there",
+    "description": "Murray Watt will use a National Press Club address to explain why, according to Labor, environmental law reform must happen 'now or never'.\u00a0\nThe post On Notice: Parliament\u2019s back and environment\u2019s on the agenda, but Albo won\u2019t be there appeared first on Crike\u2026",
+    "link": "http://www.crikey.com.au/2025/10/27/on-notice-parliament-schedule-environment-bill-murray-watt-anthony-albanese/",
+    "timestamp": "2025-10-27T01:18:51Z"
+  },
+  {
+    "title": "Milei\u2019s party wins big in high-stakes Argentina polls, early results show",
+    "description": "La Libertad Avanza wins most votes nationally and in the Buenos Aires province, early results and media tallies show.",
+    "link": "https://www.aljazeera.com/news/2025/10/27/mileis-party-wins-big-in-argentina-midterm-elections-early-results-show",
+    "timestamp": "2025-10-27T01:18:47Z"
+  },
+  {
+    "title": "Venezuela says US military exercises on nearby island a 'provocation'",
+    "description": "Venezuela has denounced the arrival of a US warship in Trinidad and Tobago as a dangerous provocation amid fears of mainland attacks. The USS Gravely's visit for joint training coincides with escalating US military action against alleged drug traffickers, whi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/venezuela-says-us-military-exercises-on-nearby-island-a-provocation/articleshow/124837435.cms",
+    "timestamp": "2025-10-27T01:18:36Z"
+  },
+  {
+    "title": "The East Wing of the White House is gone",
+    "description": "Betty Ford reportedly said that if the White House West Wing is the \"mind\" of the nation, then the East Wing is the \"heart.\"",
+    "link": "https://www.wgal.com/article/the-east-wing-of-the-white-house-is-gone/69157468",
+    "timestamp": "2025-10-27T01:18:32Z"
+  },
+  {
+    "title": "U.S.-Korea fund stuck on key points ahead of Trump visit, Lee says",
+    "description": "While Lee and senior officials in Seoul say important differences remain between the two sides, Trump said the U.S. was \"pretty close\u201d to finalizing the deal with South Korea.",
+    "link": "https://www.japantimes.co.jp/business/2025/10/27/us-korea-fund-trump-lee/",
+    "timestamp": "2025-10-27T01:18:00Z"
+  },
+  {
+    "title": "Milei's Party on Track to Win Argentina Midterms in Big Comeback... Developing...",
+    "description": "Milei's Party on Track to Win Argentina Midterms in Big Comeback... Developing...\r\n\n \n \n \n (Second column, 1st story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!\u00a0\u00a0 Become a Patron",
+    "link": "https://www.batimes.com.ar/news/argentina/mileis-party-on-track-to-win-argentina-election-in-big-comeback.phtml",
+    "timestamp": "2025-10-27T01:16:37Z"
+  },
+  {
+    "title": "The East Wing of the White House is gone",
+    "description": "Betty Ford reportedly said that if the White House West Wing is the \"mind\" of the nation, then the East Wing is the \"heart.\"",
+    "link": "https://www.wmur.com/article/the-east-wing-of-the-white-house-is-gone/69157468",
+    "timestamp": "2025-10-27T01:16:35Z"
+  },
+  {
+    "title": "The East Wing of the White House is gone",
+    "description": "Betty Ford reportedly said that if the White House West Wing is the \"mind\" of the nation, then the East Wing is the \"heart.\"",
+    "link": "https://www.wcvb.com/article/the-east-wing-of-the-white-house-is-gone/69157468",
+    "timestamp": "2025-10-27T01:15:23Z"
+  },
+  {
+    "title": "US Navy helicopter, jet crash into South China Sea",
+    "description": "Two United States Navy aircraft crashed into the South China Sea on Sunday. A Sea Hawk helicopter and a Super Hornet fighter jet went down during routine operations. All crew members were safely recovered by search and rescue teams. The incidents occurred whi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/us-navy-helicopter-jet-crash-into-south-china-sea/articleshow/124837420.cms",
+    "timestamp": "2025-10-27T01:15:18Z"
+  },
+  {
+    "title": "Argentina's midterm election hands landslide win to Milei's libertarian overhaul",
+    "description": "Early results in Argentina's legislative elections on Sunday showed a landslide victory for President Javier Milei as voters overwhelmingly backed his free-market reforms and deep austerity measures, providing a strong boost for the libertarian leader to cont\u2026",
+    "link": "https://japantoday.com/category/world/argentina%27s-midterm-election-hands-landslide-win-to-milei%27s-libertarian-overhaul",
+    "timestamp": "2025-10-27T01:11:19Z"
+  },
+  {
+    "title": "Milei Emerges Triumphant In High-stakes Argentine Midterm Elections Closely Watched By Washington",
+    "description": "Argentina\u2019s president clinched a crucial vote of confidence that strengthens his ability to carry out his radical free-market experiment, backed by billions from the Trump administration.",
+    "link": "https://www.huffpost.com/entry/javier-milei-argentina-midterms-victory_n_68fec4fde4b0fb1b9514d078",
+    "timestamp": "2025-10-27T01:09:18Z"
+  },
+  {
+    "title": "Milei\u2019s party on track to win Argentina election in big comeback",
+    "description": "Milei\u2019s party had won 64 seats of the 127 seats up for election in the lower house of Congress.",
+    "link": "https://fortune.com/2025/10/26/javier-milei-party-argentina-election-comeback-peso-us-rescue/",
+    "timestamp": "2025-10-27T01:06:33Z"
+  },
+  {
+    "title": "Russia tests nuclear-powered cruise missile and Putin wants to deploy it",
+    "description": "Russia says the 9M730 Burevestnik \"Storm Petrel\" is \"invincible\" to current and future missile defences, with an almost unlimited range and unpredictable flight path.",
+    "link": "https://www.abc.net.au/news/2025-10-27/russia-tests-nuclear-powered-burevestnik-cruise-missile/105937742",
+    "timestamp": "2025-10-27T01:04:54Z"
+  },
+  {
+    "title": "Asian stocks rally as trade tensions ease, gold drops",
+    "description": "Signs of a nearing US-China trade deal sparked a broad market rally, boosting stocks, oil, and copper, while Treasuries and gold declined. Investors are anticipating a potential accord, with top negotiators reporting progress on contentious issues. This devel\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rally-as-trade-tensions-ease-gold-drops/articleshow/124837368.cms",
+    "timestamp": "2025-10-27T01:03:16Z"
+  },
+  {
+    "title": "Washington Post editorial board defends Trump's White House ballroom construction project",
+    "description": "The Washington Post editorial board defended President Donald Trump's White House ballroom project, saying future Democratic presidents will benefit from new event space.",
+    "link": "https://www.foxnews.com/media/washington-post-editorial-board-defends-trumps-white-house-ballroom-construction-project",
+    "timestamp": "2025-10-27T01:00:57Z"
+  },
+  {
+    "title": "Unhinged Lunatic Swalwell Demands Democrat Candidates in 2028 Must Commit to Taking a \u201cWrecking Ball\u201d to President Trump\u2019s New Ballroom",
+    "description": "It\u2019s hard to find a Democrat these days who does not want to destroy everything good.\nThe post Unhinged Lunatic Swalwell Demands Democrat Candidates in 2028 Must Commit to Taking a \u201cWrecking Ball\u201d to President Trump\u2019s New Ballroom appeared first on The Gatewa\u2026",
+    "link": "https://www.thegatewaypundit.com/2025/10/unhinged-lunatic-swalwell-demands-democrat-candidates-2028-must/",
+    "timestamp": "2025-10-27T01:00:48Z"
+  },
+  {
+    "title": "Ahead of Trump-Xi meeting, China says bombers flew near Taiwan",
+    "description": "Chinese H-6K bombers conducted simulated confrontation drills near Taiwan, practicing air blockades and precision strikes. This action, publicized by Chinese state media, precedes a meeting between U.S. and Chinese presidents to discuss trade disputes. Taiwan\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/ahead-of-trump-xi-meeting-china-says-bombers-flew-near-taiwan/articleshow/124837358.cms",
+    "timestamp": "2025-10-27T00:59:50Z"
+  },
+  {
+    "title": "Vladimir Putin unveils 'tiny flying Chernobyl' nuclear missile",
+    "description": "Russian President Vladimir Putin said the country has tested a new, nuclear-capable missile and is preparing to deploy it.",
+    "link": "https://www.upi.com/Top_News/World-News/2025/10/26/puting-announces-tiny-flying-chernobyl/4941761526208/",
+    "timestamp": "2025-10-27T00:57:33Z"
+  },
+  {
+    "title": "Kamala Harris Tells BBC She's 'Considering' Another White House Run",
+    "description": "In her first UK interview, Kamala Harris said she would \"possibly\" be president one day and was confident there will be a woman in the White House in future. Via the BBC:\nMaking her strongest suggestion to date that she will make another presidential bid in 2\u2026",
+    "link": "https://crooksandliars.com/2025/10/kamala-harris-considering-another-run",
+    "timestamp": "2025-10-27T00:55:26Z"
+  },
+  {
+    "title": "Trump Does His Stupid Fisty Dance In Malaysia",
+    "description": "Donald Trump broke out his 'YMCA' dance moves in Malaysia. Hasn't Dementia Don embarrassed Americans enough this week? Dear Leader tore down the White House East Wing and hiked tariffs on Canada because they hurt his feelings!\nTrump Leaves the United States?\n\u2026",
+    "link": "https://crooksandliars.com/2025/10/trump-dances-ymca-malaysia",
+    "timestamp": "2025-10-27T00:55:25Z"
+  },
+  {
+    "title": "Trump issues blistering new Tylenol warning after linking drug to autism",
+    "description": "Donald Trump has once again warned Americans against the risks of Tylenol, claiming young children and pregnant women should not take the everyday drug in a furious post online. The president first raised concerns about Tylenol and links to autism at a press \u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4348818/posts",
+    "timestamp": "2025-10-27T00:54:40Z"
+  },
+  {
+    "title": "Leading US Muslim Group Demands ICE Release British Journalist Sami Hamdi",
+    "description": "The largest Muslim civil rights organization in the United States is calling for the release of British journalist and political commentator Sami Hamdi, who was detained by immigration officials at San Francisco International Airport on Sunday while on a US s\u2026",
+    "link": "https://www.rawstory.com/ice-2674234601/",
+    "timestamp": "2025-10-27T00:54:33Z"
+  },
+  {
+    "title": "Nikkei 225 breaks 50,000 for first time ever",
+    "description": "The rally comes after China and the United States reached a framework trade agreement.",
+    "link": "https://www.japantimes.co.jp/business/2025/10/27/markets/nikkei-50000-first/",
+    "timestamp": "2025-10-27T00:54:00Z"
+  },
+  {
+    "title": "Bitcoin Rebounds as $319M in Shorts Are Liquidated While Traders Eye U.S.-China Talks",
+    "description": "Bitcoin cleared $112,000 on heavy volume and hovered near $114,500 late Sunday (UTC), while CoinGlass showed $319 million of short positions liquidated over 24 hours.",
+    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-rebounds-as-usd319m-in-shorts-are-liquidated-while-traders-eye-u-s-china-talks",
+    "timestamp": "2025-10-27T00:53:18Z"
+  },
+  {
+    "title": "Netanyahu says Israel will decide which foreign troops acceptable to secure Gaza ceasefire",
+    "description": "Israel will determine which foreign forces are acceptable for a planned international force in Gaza, Prime Minister Netanyahu stated. This comes as the U.S. seeks troop contributions from several Arab and other nations, though Hamas's refusal to disarm poses \u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-israel-will-decide-which-foreign-troops-acceptable-to-secure-gaza-ceasefire/articleshow/124837314.cms",
+    "timestamp": "2025-10-27T00:51:24Z"
+  },
+  {
+    "title": "Jon Stewart Wants to Stay at \u2018Daily Show\u2019 Past December Contract \u2013 if It\u2019s up to Him",
+    "description": "\"We're working on staying\" to host Monday nights, Stewart said Sunday at the New Yorker Festival\nThe post Jon Stewart Wants to Stay at \u2018Daily Show\u2019 Past December Contract \u2013 if It\u2019s up to Him appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/jon-stewart-stay-daily-show-comedy-central-paramount-skydance-david-ellison/",
+    "timestamp": "2025-10-27T00:48:29Z"
+  },
+  {
+    "title": "US, China Tee Up Sweeping Trade Deal For Trump, Xi To Finish",
+    "description": "Top trade negotiators for the US and China said they came to terms on a range of contentious points, setting the table for leaders Donald Trump and Xi Jinping to finalize a deal and ease trade tensions that have rattled global markets.",
+    "link": "https://www.ndtvprofit.com/global-economics/us-china-tee-up-sweeping-trade-deal-for-trump-xi-to-finish",
+    "timestamp": "2025-10-27T00:47:56Z"
+  },
+  {
+    "title": "Brazil and US to meet 'immediately' to seek tariff solutions, Lula says",
+    "description": "Brazilian President Lula da Silva and U.S. President Trump held a positive meeting to address tariffs and sanctions. Their teams will immediately begin discussions to find solutions, aiming to resolve tensions that arose after the U.S. increased tariffs on Br\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/brazil-and-us-to-meet-immediately-to-seek-tariff-solutions-lula-says/articleshow/124837292.cms",
+    "timestamp": "2025-10-27T00:46:03Z"
+  },
+  {
+    "title": "Much at stake during Trump\u2019s Asia visit",
+    "description": "Meeting with Chinese, South Korean and Japanese leaders is particularly significant for resolving pending trade issues",
+    "link": "https://www.thehindubusinessline.com/opinion/much-at-stake-during-trumps-asia-visit/article70205794.ece",
+    "timestamp": "2025-10-27T00:45:00Z"
+  },
+  {
+    "title": "A fleet of Ford F-150 trucks could be key to Japan\u2019s new leader connecting with Trump",
+    "description": "rump has long complained American cars were shut out Japanese markets. So Japan's government has floated the idea of buying a fleet of Ford F-150 trucks to use to inspect roads and infrastructure.",
+    "link": "https://www.mlive.com/news/2025/10/a-fleet-of-ford-f-150-trucks-could-be-key-to-japans-new-leader-connecting-with-trump.html",
+    "timestamp": "2025-10-27T00:42:28Z"
+  },
+  {
+    "title": "US, China talks sketch out rare earths, tariff pause for Trump and Xi to consider",
+    "description": "Top economic officials from the US and China have agreed on a trade deal framework. This agreement aims to pause escalating American tariffs and Chinese rare earths export restrictions. President Trump and President Xi are expected to finalize the terms this \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-china-talks-sketch-out-rare-earths-tariff-pause-for-trump-and-xi-to-consider/articleshow/124837271.cms",
+    "timestamp": "2025-10-27T00:42:18Z"
+  },
+  {
+    "title": "Market fragility tests options traders as volatility abates",
+    "description": "Recent market behavior shows fragility despite low overall volatility, with the VIX surging on minor S&P 500 drops. This extreme reaction, exceeding past events, was amplified by option market makers covering short positions and hedging. The pattern of calm p\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-fragility-tests-options-traders-as-volatility-abates/articleshow/124837265.cms",
+    "timestamp": "2025-10-27T00:41:56Z"
+  },
+  {
+    "title": "Copper Set To Test Record High On US-China Trade Talks Progress",
+    "description": "US and Chinese trade negotiators wrapped up talks on Sunday that appear to have teed up a deal for Presidents Donald Trump and Xi Jinping to finalize later this week.",
+    "link": "https://www.ndtvprofit.com/global-economics/copper-set-to-test-record-high-on-us-china-trade-talks-progress",
+    "timestamp": "2025-10-27T00:41:32Z"
+  },
+  {
+    "title": "Stocks in news: LIC, Sobha, Ola Electric, Kotak Bank, RIL, Adani Energy Solutions",
+    "description": "Markets saw a decline on Friday, with the Nifty slipping nearly 0.4% amid profit booking and FMCG sector weakness. Analysts remain bullish, advising selective stock picking in strong sectors. Several companies like LIC, Sobha, Ola Electric, and Kotak Bank are\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lic-sobha-ola-electric-kotak-bank-ril-adani-energy-solutions/articleshow/124829533.cms",
+    "timestamp": "2025-10-27T00:41:00Z"
+  },
+  {
     "title": "US Navy helicopter and fighter jet crash in separate incidents in the South China Sea | CNN Politics",
     "description": "A US Navy helicopter and a fighter jet went down Sunday during separate routine operations over the South China Sea, and all crew members were safely rescued, the Navy\u2019s Pacific Fleet said.",
     "link": "https://www.cnn.com/2025/10/26/politics/navy-aircraft-crash-south-china-sea",
@@ -148,431 +598,5 @@
     "description": "Far-right activist and Donald Trump ally Laura Loomer celebrates Hamdi\u2019s detention as US gov't says he's in ICE custody.",
     "link": "https://www.aljazeera.com/news/2025/10/26/uk-journalist-sami-hamdi-detained-in-us-amid-pro-israel-lobby-pressure",
     "timestamp": "2025-10-26T23:20:23Z"
-  },
-  {
-    "title": "Gavin Newsom say he\u2019ll consider White House bid after 2026 midterms \u2014 \u2018I\u2019d be lying otherwise\u2019",
-    "description": "\"I\u2019m looking forward to who presents themselves in 2028 and who meets that moment. And that\u2019s the question for the American people.\"",
-    "link": "https://fortune.com/2025/10/26/gavin-newsom-white-house-bid-2026-midterm-election-trump/",
-    "timestamp": "2025-10-26T23:19:09Z"
-  },
-  {
-    "title": "Netanyahu says Israel decides which foreign troops will secure Gaza ceasefire",
-    "description": "Last week Netanyahu hinted that he would be opposed to any role for Turkish security forces in Gaza.",
-    "link": "https://www.japantimes.co.jp/news/2025/10/27/world/politics/netanyahu-israel-foreign-troops-gaza/",
-    "timestamp": "2025-10-26T23:10:00Z"
-  },
-  {
-    "title": "Trump to flex dealmaking, personal diplomacy on Asia trip",
-    "description": "US President Donald Trump\u2019s trip to Asia this week will demonstrate his appetite for dealmaking and personal diplomacy, analysts said.\nTrump on Sunday presided over a peace ceremony between Cambodia and Thailand, following a brief conflict in July that he too\u2026",
-    "link": "https://biztoc.com/x/6e75756a11037686",
-    "timestamp": "2025-10-26T23:04:12Z"
-  },
-  {
-    "title": "M\u2019sia and US sign MOU on rare earths",
-    "description": "KUALA LUMPUR: Malaysia and the United States have inked a memorandum stating the country's commitment to expedite the development of critical minerals and rare earth elements in partnership with US companies. Read full story",
-    "link": "https://www.thestar.com.my/news/nation/2025/10/27/msia-and-us-sign-mou-on-rare-earths",
-    "timestamp": "2025-10-26T23:00:00Z"
-  },
-  {
-    "title": "'Astonishing': Wall Street Journal editorial writer bashes Trump's ballroom 'fiasco'",
-    "description": "A member of the Wall Street Journal's conservative editorial board bashed President Donald Trump for tearing down the entirety of the East Wing of the White House to build a giant ballroom in a new opinion article published on Sunday. Collin Levy, who joined \u2026",
-    "link": "https://www.rawstory.com/trump-ballroom-2674234424/",
-    "timestamp": "2025-10-26T22:58:15Z"
-  },
-  {
-    "title": "Dow futures jump 300 points as U.S.-China trade war heads for ceasefire while Wall Street eyes another Fed rate cut and earnings from AI giants",
-    "description": "Meta, Microsoft and Google parent Alphabet report on Wednesday, while Apple and Amazon report on Thursday.",
-    "link": "https://fortune.com/2025/10/26/stock-market-today-dow-futures-us-china-trade-fed-rate-cut-tech-earnings/",
-    "timestamp": "2025-10-26T22:52:59Z"
-  },
-  {
-    "title": "U.S. warship docks in Trinidad and Tobago, ramping up pressure on Venezuela",
-    "description": "The arrival of the USS Gravely, a guided missile destroyer, in the capital of the Caribbean nation is in addition to the aircraft carrier USS Gerald R. Ford, which is moving closer to Venezuela.",
-    "link": "https://www.pbs.org/newshour/world/u-s-warship-docks-in-trinidad-and-tobago-ramping-up-pressure-on-venezuela",
-    "timestamp": "2025-10-26T22:52:46Z"
-  },
-  {
-    "title": "\u2018I\u2019d Just Be Lying\u2019: Newsom Teases 2028 Presidential Run As California Continues To Suffer From Dem Control",
-    "description": "'The idea that a guy who got 960 on his SAT, that still struggles to read scripts, that was always in the back of the classroom, the idea that you even throw that out is in and of itself extraordinary'",
-    "link": "https://dailycaller.com/2025/10/26/gavin-newsom-teases-2028-presidential-bid-california-voters/",
-    "timestamp": "2025-10-26T22:52:41Z"
-  },
-  {
-    "title": "Michael Rapaport torches 'Zohran the moron,' urges New Yorkers to send Mamdani 'back to the unemployment line'",
-    "description": "Rapaport raised alarm about Mamdani's radical policy proposals and condemned the course charted by the Democratic Party. Liberal actor and podcaster Michael Rapaport has come a long way since calling President Donald Trump the \"worst possible mother* we could\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4348793/posts",
-    "timestamp": "2025-10-26T22:46:31Z"
-  },
-  {
-    "title": "Why Argentina election results could crush Trump\u2019s plan",
-    "description": "Argentina faces a critical political moment as voters head to the polls for midterm elections that will determine whether President Javier Milei\u2019s radical economic experiment continues. The libertarian leader\u2019s policies have created a stark divide between wea\u2026",
-    "link": "https://rollingout.com/2025/10/26/argentina-election-could-crush-trumps/",
-    "timestamp": "2025-10-26T22:46:10Z"
-  },
-  {
-    "title": "What will next Fed rate cut mean for mortgages, credit cards and car loans?",
-    "description": "While a Fed rate cut is big news, consumers might only be expected to see slight relief when it comes to much borrowing.",
-    "link": "https://www.usatoday.com/story/money/2025/10/26/next-fed-rate-how-will-it-impact-mortgages-credit-cards-car-loans/86920879007/",
-    "timestamp": "2025-10-26T22:43:16Z"
-  },
-  {
-    "title": "US-China Trade Truce Spurs Bitcoin; Key Week of Events Looms",
-    "description": "Bitcoin surges as US-China trade tensions ease. Whales accumulate ETH ahead of this week's critical Fed decision, APEC summit, and earnings.",
-    "link": "https://beincrypto.com/us-china-trade-truce-spurs-bitcoin-key-week-of-events-looms/",
-    "timestamp": "2025-10-26T22:37:01Z"
-  },
-  {
-    "title": "\u2018We\u2019ve Got to Do Something!\u2019 GOP Lawmakers Call Out Party\u2019s \u2018Morally Bankrupt\u2019 Inaction On Health Care Costs - NewsBreak",
-    "description": "Republican lawmakers are call over the prospect of not having a plan in place to lower health care costs, as Democrats continue to dig in their heels over",
-    "link": "https://www.newsbreak.com/share/4315126795865-we-ve-got-to-do-something-gop-lawmakers-call-out-party-s-morally-bankrupt-inaction-on-health-care-costs?s=a2&amp;share_destination_id=MjA4NDA5Njc1LTE3NjE1MTc3MDIxMzA%3D&amp;pd=0E6SsNAP&amp;hl=en_US&amp;send_time=1761517702&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.43.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v2",
-    "timestamp": "2025-10-26T22:32:02Z"
-  },
-  {
-    "title": "US, China near trade deal ahead of Trump, Xi meeting",
-    "description": "The US and China agreed on the contours of a trade deal, officials said Sunday, in a sign of easing tensions before the two countries\u2019 leaders meet later this week.\nThe agreement, which came at the start of US President Donald Trump\u2019s diplomatic jaunt through\u2026",
-    "link": "https://biztoc.com/x/e685bb5a30950a97",
-    "timestamp": "2025-10-26T22:30:39Z"
-  },
-  {
-    "title": "Western Union Reports Fewer U.S. Dollars Being Sent Home by Migrants",
-    "description": "Western Union is reporting that its revenue from cash transfers to locations outside the U.S. has seen a 12 percent decline this year.\nThe post Western Union Reports Fewer U.S. Dollars Being Sent Home by Migrants appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/immigration/2025/10/26/western-union-reports-fewer-u-s-dollars-being-sent-home-by-migrants/",
-    "timestamp": "2025-10-26T22:30:21Z"
-  },
-  {
-    "title": "All Jewish councils in key New Jersey area endorse Jack Ciattarelli for governor: report",
-    "description": "Ocean County communities unite behind Republican gubernatorial candidate Jack Ciattarelli in first-ever coordinated endorsement In a first for New Jersey politics, Orthodox Jewish leaders across Ocean County have united behind Republican gubernatorial candida\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4348791/posts",
-    "timestamp": "2025-10-26T22:29:42Z"
-  },
-  {
-    "title": "Avril Lavigne, Blink-182, Weezer Among Rockers at Politically Charged Las Vegas Concert: 'Destroy American Fascism'",
-    "description": "Artists including Avril Lavigne, Blink-182, Weezer, Simple Plan, The Offspring, and more hit the stage in to express support for Palestine.\nThe post Avril Lavigne, Blink-182, Weezer Among Rockers at Politically Charged Las Vegas Concert: \u2018Destroy American Fas\u2026",
-    "link": "https://www.breitbart.com/entertainment/2025/10/26/avril-lavigne-blink-182-weezer-among-rockers-at-politically-charged-las-vegas-concert-destroy-american-fascism/",
-    "timestamp": "2025-10-26T22:27:07Z"
-  },
-  {
-    "title": "Eric Swalwell Wants Candidate Litmus Test: Must Pledge to Demolish the Trump Ballroom",
-    "description": "Rep. Eric Swalwell (D-CA) has become the latest to succumb to what Trump supporters are now calling \u201cBDS\u201d \u2013 Ballroom Derangement Syndrome. The southern California congressman wants a pledge from any 2028 Democrat presidential candidate that he or she will dem\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4348788/posts",
-    "timestamp": "2025-10-26T22:27:04Z"
-  },
-  {
-    "title": "Trump Posts Picture Thanking Himself for Saving \u2018Country That Doesn\u2019t Appreciate\u2019 Him",
-    "description": "President Trump shared a picture of himself to Truth Social that thanked him for working hard to \"save a Country that doesn't appreciate his sacrifice!\"\u00a0\nThe post Trump Posts Picture Thanking Himself for Saving \u2018Country That Doesn\u2019t Appreciate\u2019 Him first appe\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-posts-picture-thanking-himself-for-saving-country-that-doesnt-appreciate-him/",
-    "timestamp": "2025-10-26T22:25:34Z"
-  },
-  {
-    "title": "U.S. and China tee up sweeping trade deal for Trump and Xi to finish",
-    "description": "After talks wrapped up Sunday in Malaysia, an official said there is preliminary consensus on topics like export controls, fentanyl and shipping levies.",
-    "link": "https://www.japantimes.co.jp/business/2025/10/27/economy/us-china-trade-deal-trump-xi/",
-    "timestamp": "2025-10-26T22:25:00Z"
-  },
-  {
-    "title": "U.S., China tee up sweeping trade deal for Trump, Xi to finish",
-    "description": "After talks wrapped up Sunday in Malaysia, an official said there is preliminary consensus on topics like export controls, fentanyl and shipping levies.",
-    "link": "https://www.japantimes.co.jp/news/2025/10/27/world/politics/us-china-trade-deal-trump-xi/",
-    "timestamp": "2025-10-26T22:25:00Z"
-  },
-  {
-    "title": "NASA Will Re-Open Contract For Moon Lander As Starship Falls Behind Schedule",
-    "description": "The Artemis III mission is scheduled for a 2027 launch. Starship currently seems unlikely to meet that timeframe.",
-    "link": "https://www.jalopnik.com/2006603/nasa-reopen-contract-for-moon-lander-starship-behind-schedule/",
-    "timestamp": "2025-10-26T22:25:00Z"
-  },
-  {
-    "title": "US-Korea Fund Stuck on Key Points Ahead of Trump Visit, Lee Says",
-    "description": "The US and South Korea remain stuck on \u201call\u201d the major details of a $350 billion investment pledge, President Lee Jae Myung said in an interview Friday, signaling that they may fail to finalize a trade deal in time for a summit meeting with Donald Trump.",
-    "link": "https://financialpost.com/pmn/business-pmn/us-korea-fund-stuck-on-key-points-ahead-of-trump-visit-lee-says",
-    "timestamp": "2025-10-26T22:20:17Z"
-  },
-  {
-    "title": "Eric Swalwell Calls On 2028 Democratic Nominees To Pledge To Destroy Trump\u2019s \u2018Monument To Corruption\u2019 Ballroom",
-    "description": "Rep. Eric Swalwell proposed a stiff litmus test for any Democrat who hopes to be elected president in 2028: pledge to destroy Trump's $300 million ballroom.\nThe post Eric Swalwell Calls On 2028 Democratic Nominees To Pledge To Destroy Trump\u2019s \u2018Monument To Cor\u2026",
-    "link": "https://www.mediaite.com/media/news/eric-swalwell-calls-on-2028-democratic-nominees-to-pledge-to-destroy-trumps-monument-to-corruption-ballroom/",
-    "timestamp": "2025-10-26T22:11:33Z"
-  },
-  {
-    "title": "\u2018We\u2019ve Got to Do Something!\u2019 GOP Lawmakers Call Out Party\u2019s \u2018Morally Bankrupt\u2019 Inaction On Health Care Costs - NewsBreak",
-    "description": "Republican lawmakers are call over the prospect of not having a plan in place to lower health care costs, as Democrats continue to dig in their heels over",
-    "link": "https://www.newsbreak.com/news/4315126795865-weve-got-to-do-something-gop-lawmakers-call-out-partys-morally-bankrupt-inaction-on-health-care-costs?noAds=1&amp;_f=app_share&amp;s=a2&amp;share_destination_id=Mjg0MjI3ODEyLTE3NjE1MTYzOTkxMTM%3D",
-    "timestamp": "2025-10-26T22:07:47Z"
-  },
-  {
-    "title": "Scaramucci Expresses Support for Pardoned Changpeng Zhao: 'I Supported CZ Prior to His Sentencing and Wrote on His Behalf'",
-    "description": "In a post on X, Anthony Scaramucci expressed his support for the recently pardoned Binance CEO Changpeng Zhao.",
-    "link": "https://www.benzinga.com/crypto/cryptocurrency/25/10/48424041/scaramucci-expresses-support-for-pardoned-changpeng-zhao-i-supported-cz-prior-to-his-sentencing-and-wrote-on-his-behalf",
-    "timestamp": "2025-10-26T22:04:37Z"
-  },
-  {
-    "title": "Trade War Talks: US, China Signal Progress In Malaysia; Crypto Traders Take Notice",
-    "description": "The United States and China wrapped up talks in Kuala Lumpur that market players called a welcome step toward cooling trade war tensions. According to Reuters, senior negotiators met on the sidelines of the ASEAN summit as they try to head off a deeper fight \u2026",
-    "link": "https://bitcoinist.com/trade-war-talks-us-china-signal-progress-in-malaysia-crypto-traders-take-notice/",
-    "timestamp": "2025-10-26T22:00:52Z"
-  },
-  {
-    "title": "Here's the biggest news you missed this weekend",
-    "description": "President Donald Trump and Chinese President Xi Jinping are expected to reach a deal to avert a new 100% U.S. tariff on Chinese goods.",
-    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-october-26-rcna239728",
-    "timestamp": "2025-10-26T22:00:00Z"
-  },
-  {
-    "title": "Treasury Secretary Clumsily Dodges Question About Trump Hiking Up Canada Tariffs After An Ad Pissed Him Off",
-    "description": "Trump threatened once again to turn the key economic relationship between the United States and its second-biggest trading partner topsy-turvy.",
-    "link": "https://www.huffpost.com/entry/scott-bessent-trump-canada-tariffs-reagan-ad_n_68fe6e95e4b0fb1b9514bdf3",
-    "timestamp": "2025-10-26T21:58:12Z"
-  },
-  {
-    "title": "Fact Sheet: President Donald J. Trump Grants Regulatory Relief from Burdensome EPA Restrictions to Promote American Copper Security",
-    "description": "PROVIDING REGULATORY RELIEF: Today, President Donald J. Trump signed a Proclamation granting two years of regulatory relief from a stringent Biden-Era EPA rule on primary copper smelting, an industry vital to national security and economic resilience.\n- The P\u2026",
-    "link": "https://biztoc.com/x/344eee960b4c1c0a",
-    "timestamp": "2025-10-26T21:57:22Z"
-  },
-  {
-    "title": "Trump Wants DOJ To Look Into His Go-To Gripe With 'Gusto'",
-    "description": "Though thoroughly debunked, the president wasn't done squawking about what he called the \"biggest SCANDAL in American history.\"",
-    "link": "https://www.huffpost.com/entry/trump-justice-department-2020-election-investigation_n_68fe7c31e4b0fb1b9514bea0",
-    "timestamp": "2025-10-26T21:53:12Z"
-  },
-  {
-    "title": "European hawks undermine Russia-US negotiations \u2013 Lavrov",
-    "description": "The Russia-US rapprochement process could have yielded a result a while ago without external meddling, Sergey Lavrov believes Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/626991-lavrov-russia-us-negotiations/",
-    "timestamp": "2025-10-26T21:49:34Z"
-  },
-  {
-    "title": "Bessent calls anti-tariff Reagan ad \u2018psy-ops\u2019 and says the U.S. rescue of Argentina still counts as \u2018America first\u2019 because it helps an ally",
-    "description": "\"This is a kind of propaganda against U.S. citizens. It's psy-ops.\"",
-    "link": "https://fortune.com/2025/10/26/bessent-reagan-anti-tariff-tv-ad-psyops-argentina-rescue-america-first/",
-    "timestamp": "2025-10-26T21:46:33Z"
-  },
-  {
-    "title": "Violent protests flare in Cameroon as results due in contested election",
-    "description": "An opposition candidate is challenging the incumbent president's 43-year hold on power.",
-    "link": "https://www.bbc.com/news/articles/cly4x9n0yvno",
-    "timestamp": "2025-10-26T21:45:04Z"
-  },
-  {
-    "title": "Dem Comms Boss Floors Meet the Press Panel By Saying She\u2019s \u2018Very Excited About the Possibility\u2019 Kamala Harris May Run Again",
-    "description": "Ashley Etienne, the former comms director for Kamala Harris, had to endure a swift joke after she said she was \"very excited\" about her old boss running in 2028\nThe post Dem Comms Boss Floors Meet the Press Panel By Saying She\u2019s \u2018Very Excited About the Possib\u2026",
-    "link": "https://www.mediaite.com/media/dem-comms-boss-floors-meet-the-press-panel-by-saying-shes-very-excited-about-the-possibility-kamala-harris-may-run-again/",
-    "timestamp": "2025-10-26T21:44:42Z"
-  },
-  {
-    "title": "CBS \u2018Cast Its Lot With Trump,\u2019 Critics Say After Margaret Brennan Grills Democrat for \u2018Rigged Elections\u2019 Talk | Video",
-    "description": "The \"Face the Nation\" host notably asked House Minority Leader Hakeem Jeffries whether he's aware Democrats are also gerrymandering\nThe post CBS \u2018Cast Its Lot With Trump,\u2019 Critics Say After Margaret Brennan Grills Democrat for \u2018Rigged Elections\u2019 Talk | Video \u2026",
-    "link": "https://www.thewrap.com/cbs-trump-critics-margaret-brennan-democrat-questions-rigged-elections-video/",
-    "timestamp": "2025-10-26T21:42:47Z"
-  },
-  {
-    "title": "US and China say a trade deal is drawing closer as Trump and Xi ready for a high-stakes meeting",
-    "description": "U.S. and Chinese officials say a trade deal between the world\u2019s two largest economies is drawing closer",
-    "link": "https://abcnews.go.com/Business/wireStory/us-china-trade-deal-drawing-closer-trump-xi-126874265",
-    "timestamp": "2025-10-26T21:41:29Z"
-  },
-  {
-    "title": "US government says it will stop paying for food aid next week",
-    "description": "The US government said funds for Snap, a benefit used by more than 40 million Americans, will stop 1 November because of the shutdown.",
-    "link": "https://www.bbc.com/news/articles/c4g7d9j7p5qo",
-    "timestamp": "2025-10-26T21:40:28Z"
-  },
-  {
-    "title": "Treasury Secretary Says East Wing Demolition Is Fine Because There 'Could Have' Been Mold",
-    "description": "He also called Trump a \"master builder.\"",
-    "link": "https://www.huffpost.com/entry/treasury-secretary-scott-bessent-east-wing-demolition-mold_n_68fe7dbce4b0049ce5fd3e40",
-    "timestamp": "2025-10-26T21:36:12Z"
-  },
-  {
-    "title": "Trump Says He Won't Meet With Putin Until There's A Deal On Ukraine",
-    "description": "Trump Says He Won't Meet With Putin Until There's A Deal On Ukraine\n \nAuthored by Jacki Thrapp via The Epoch Times,\nPresident Donald Trump said on Oct 25 that he doesn\u2019t plan to meet with Russian President Vladimir Putin until a peace deal with Ukraine is rea\u2026",
-    "link": "https://biztoc.com/x/1f1e010928db8cf9",
-    "timestamp": "2025-10-26T21:35:12Z"
-  },
-  {
-    "title": "US, China say trade deal close",
-    "description": "KUALA LUMPUR, Malaysia \u2014 A trade deal between the United States and China is drawing closer, officials from the world\u2019s two largest economies said Sunday as they reached an initial consensus for President Donald Trump and Chinese leader Xi Jinping to aim to f\u2026",
-    "link": "https://biztoc.com/x/1f11cfa37c7458e2",
-    "timestamp": "2025-10-26T21:35:10Z"
-  },
-  {
-    "title": "US, China say trade deal close",
-    "description": "A trade deal between the United States and China is drawing closer, officials from the world's two largest economies said Sunday as they reached an initial consensus for President Donald Trump and Chinese leader Xi Jinping to aim to finalize during their high\u2026",
-    "link": "https://www.bostonherald.com/2025/10/26/us-china-say-trade-deal-close/",
-    "timestamp": "2025-10-26T21:30:13Z"
-  },
-  {
-    "title": "\u2018We\u2019ve Got to Do Something!\u2019 GOP Lawmakers Call Out Party\u2019s \u2018Morally Bankrupt\u2019 Inaction On Health Care Costs - NewsBreak",
-    "description": "Republican lawmakers are call over the prospect of not having a plan in place to lower health care costs, as Democrats continue to dig in their heels over",
-    "link": "https://www.newsbreak.com/share/4315126795865-we-ve-got-to-do-something-gop-lawmakers-call-out-party-s-morally-bankrupt-inaction-on-health-care-costs?s=a2&amp;share_destination_id=MjMxOTYxNzUtMTc2MTUxNDE1OTMxMw%3D%3D&amp;pd=01ZKNrmo&amp;hl=en_US&amp;send_time=1761514159&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.43.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v3",
-    "timestamp": "2025-10-26T21:30:05Z"
-  },
-  {
-    "title": "For Japan's new leader, the key to a good relationship with Trump could come in a Ford F-150 truck",
-    "description": "President Donald Trump arrives Monday in Japan where new Prime Minister Sanae Takaichi is banking on building a friendly personal relationship with the U.S. leader to ease trade tensions. One key to this strategy might lie in an idea floated by Japan\u2019s govern\u2026",
-    "link": "https://japantoday.com/category/politics/for-japan%27s-new-leader-the-key-to-a-good-relationship-with-trump-could-come-in-a-ford-f-150-truck",
-    "timestamp": "2025-10-26T21:24:28Z"
-  },
-  {
-    "title": "Dem star makes stunning prediction about this GOP leader's impact on Trump's 2028 decision",
-    "description": "California Gov. Gavin Newsom, who has become a star in the Democratic Party, warned on Sunday that there is a GOP leader who could decide the fate of President Donald Trump's attempts to serve a third term in 2028 during an interview with CNN. Newsom predicte\u2026",
-    "link": "https://www.rawstory.com/gavin-newsom-2674234406/",
-    "timestamp": "2025-10-26T21:23:51Z"
-  },
-  {
-    "title": "Trump's redistricting push hits roadblocks in Indiana and Kansas as Republican lawmakers resist",
-    "description": "For most of President Donald Trump's second term, Republicans have bent to his will. But in two Midwestern states, Trump's plan to maintain control of the U.S. House in next year\u2019s election by having Republicans redraw congressional districts has hit a roadbl\u2026",
-    "link": "https://japantoday.com/category/world/trump%27s-redistricting-push-hits-roadblocks-in-indiana-and-kansas-as-republican-lawmakers-resist",
-    "timestamp": "2025-10-26T21:23:49Z"
-  },
-  {
-    "title": "Argentina votes in midterm elections set to test President Milei's mandate and U.S. support",
-    "description": "On the northern bank of Argentina\u2019s Riachuelo River, luxury car dealerships report sales surging since libertarian President Javier Milei scrapped import restrictions. Streets in the Puerto Madero financial district in Buenos Aires bustle with bankers who pra\u2026",
-    "link": "https://japantoday.com/category/world/argentina-votes-in-midterm-elections-set-to-test-president-milei%27s-mandate-and-us-support",
-    "timestamp": "2025-10-26T21:23:33Z"
-  },
-  {
-    "title": "Democratic Gov Newsom of California says he'll consider presidential run after 2026 midterms",
-    "description": "California Gov. Gavin Newsom, a leading Democratic critic of President Donald Trump, says he will consider running for the White House in 2028 after the midterm elections next year. Asked in an interview with \u201cCBS Sunday Morning\u201d whether if would be fair to s\u2026",
-    "link": "https://japantoday.com/category/world/democratic-gov.-gavin-newsom-of-california-says-he%27ll-consider-presidential-run-after-2026-midterms",
-    "timestamp": "2025-10-26T21:23:27Z"
-  },
-  {
-    "title": "Russia has tested a new nuclear-capable missile, Putin and top general say",
-    "description": "Russia tested a new nuclear-capable and powered cruise missile fit to confound existing defenses, inching closer to deploying it to its military, President Vladimir Putin said in remarks released on Sunday. The announcement, which followed years of tests of t\u2026",
-    "link": "https://japantoday.com/category/world/russia-has-tested-a-new-nuclear-capable-missile-putin-and-top-general-say",
-    "timestamp": "2025-10-26T21:23:21Z"
-  },
-  {
-    "title": "U.S., China talks sketch out rare earths deal, tariff pause for Trump and Xi to consider",
-    "description": "BTop Chinese and U.S. economic officials on Sunday hashed out the framework of a trade deal for U.S. President Donald Trump and Chinese President Xi Jinping to decide on later this week that would pause steeper American tariffs and Chinese rare earths export \u2026",
-    "link": "https://japantoday.com/category/world/us-china-talks-sketch-out-rare-earths-tariff-pause-for-trump-and-xi-to-consider",
-    "timestamp": "2025-10-26T21:23:04Z"
-  },
-  {
-    "title": "Novartis to acquire Avidity Biosciences for about $12 billion",
-    "description": "(Fixes timeframe in last paragraph to \"In July\") By Padmanabhan Ananthan and Angela Christy M (Reuters) -Swiss drugmaker Novartis on Sunday said it agreed to...",
-    "link": "https://finance.yahoo.com/news/novartis-acquire-avidity-biosciences-12-211946494.html",
-    "timestamp": "2025-10-26T21:19:46Z"
-  },
-  {
-    "title": "All Jewish councils in key New Jersey area endorse Jack Ciattarelli for governor: report",
-    "description": "Orthodox Jewish leaders across Ocean County unite behind Republican Jack Ciattarelli in historic first for New Jersey politics, forming influential coalition.",
-    "link": "https://www.foxnews.com/politics/all-jewish-councils-key-new-jersey-area-endorse-jack-ciattarelli-governor-report",
-    "timestamp": "2025-10-26T21:12:45Z"
-  },
-  {
-    "title": "Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: \u2018DON\u2019T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!\u2019",
-    "description": "Donald Trump took a moment out of his week-long trip to Asia to warn pregnant women once again about Tylenol and childhood vaccines.\nThe post Trump Re-Ups Jarring All-Caps Warning to Pregnant Women: \u2018DON\u2019T USE TYLENOL UNLESS ABSOLUTELY NECESSARY!\u2019 first appea\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-re-ups-jarring-all-caps-warning-to-pregnant-women-dont-use-tylenol-unless-absolutely-necessary/",
-    "timestamp": "2025-10-26T21:04:22Z"
-  },
-  {
-    "title": "Federal workers flock to D.C. food bank as they miss first full paycheck of shutdown",
-    "description": "Federal workers lined up around the corner outside of the Capital Area Food Bank in Southeast Washington, D.C., on Friday after missing their first full paycheck since the now 24-day government shutdown began. The food bank, set up specifically for federal wo\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4348779/posts",
-    "timestamp": "2025-10-26T21:00:02Z"
-  },
-  {
-    "title": "Report: State Department Officially Dismantled 'Disinformation' Agency",
-    "description": "The State Department has officially canceled the Global Engagement Center (GEC) as part of President Donald Trump's mission to shut down the \"censorship industrial complex,\" according to a report.\nThe post Report: State Department Officially Dismantled \u2018Disin\u2026",
-    "link": "https://www.breitbart.com/politics/2025/10/26/report-state-department-officially-dismantled-disinformation-agency/",
-    "timestamp": "2025-10-26T20:52:11Z"
-  },
-  {
-    "title": "These Tech CEOs Campaign to Stop Donald Trump From Sending Troops to San Francisco",
-    "description": "President Donald Trump has retracted his decision to initiate a law-enforcement \u201csurge\u201d in San Francisco. This change comes after engaging in discussions with San Francisco\u2019s Mayor Daniel Lurie and CEOs of prominent tech companies in the Bay Area, including N\u2026",
-    "link": "https://biztoc.com/x/6199baea7374eaf2",
-    "timestamp": "2025-10-26T20:51:15Z"
-  },
-  {
-    "title": "November 1st Deadline: When 42 Million Americans Suddenly Have Their Food Stamp Benefits Shut Off, What Do You Think Is Going To Happen?",
-    "description": "Approximately 1 out of every 8 U.S. residents in on food stamps. So how do you think they are going to react when their EBT cards suddenly don\u2019t work anymore? The government shutdown has already been going on for 25 days, and there is no end in sight. The Dem\u2026",
-    "link": "http://theeconomiccollapseblog.com/november-1st-deadline-when-42-million-americans-suddenly-have-their-food-stamps-shut-off-what-do-you-think-is-going-to-happen/",
-    "timestamp": "2025-10-26T20:51:04Z"
-  },
-  {
-    "title": "Bessent says U.S. and China have reached framework in tariff negotiations (Nicholas Kerr/Associated Press)",
-    "description": "Nicholas Kerr / Associated Press:\nBessent says U.S. and China have reached framework in tariff negotiations\u00a0 \u2014\u00a0 Treasury secretary also alluded to deals on rare earth minerals and soybeans.\u00a0 \u2014\u00a0 Treasury Secretary Scott Bessent listens as Donald Trump speaks b\u2026",
-    "link": "https://www.memeorandum.com/251026/p49",
-    "timestamp": "2025-10-26T20:50:00Z"
-  },
-  {
-    "title": "\u201cRigged and stolen\u201d: Trump calls for ban on mail-in, early voting ahead of midterms",
-    "description": "The president urged his party to put an end to mail-in ballots and early voting before the midterms.",
-    "link": "https://www.salon.com/2025/10/26/rigged-and-stolen-trump-calls-for-ban-on-mail-in-early-voting-ahead-of-midterms/",
-    "timestamp": "2025-10-26T20:47:48Z"
-  },
-  {
-    "title": "Canadians ditch once-popular Trump Halloween costumes this year amid trade war",
-    "description": "Demand for Trump Halloween costumes was high when the U.S. president was first campaigning against Democrat Hillary Clinton in 2016, Canadian costume shop owners say, but it has since fallen in recent years.",
-    "link": "https://www.cbc.ca/news/canada/trump-costumes-halloween-canada-9.6954347",
-    "timestamp": "2025-10-26T20:43:40Z"
-  },
-  {
-    "title": "Egypt and Red Cross join search for hostage bodies in Gaza",
-    "description": "Israel said the teams have been permitted to search beyond the so-called \"yellow line\" in the area controlled by its forces in Gaza.",
-    "link": "https://www.bbc.com/news/articles/cx2l0mjkjkvo",
-    "timestamp": "2025-10-26T20:39:24Z"
-  },
-  {
-    "title": "\u2018We\u2019ve Got to Do Something!\u2019 GOP Lawmakers Call Out Party\u2019s \u2018Morally Bankrupt\u2019 Inaction On Health Care Costs - NewsBreak",
-    "description": "Republican lawmakers are call over the prospect of not having a plan in place to lower health care costs, as Democrats continue to dig in their heels over",
-    "link": "https://www.newsbreak.com/share/4315126795865-we-ve-got-to-do-something-gop-lawmakers-call-out-party-s-morally-bankrupt-inaction-on-health-care-costs?s=a2&amp;share_destination_id=MzMxMTY1NjU2LTE3NjE1MTA5MzIzOTM%3D&amp;pd=0MPXJYvo&amp;hl=en_US&amp;send_time=1761510932&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.43.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v3",
-    "timestamp": "2025-10-26T20:37:41Z"
-  },
-  {
-    "title": "US docks warship in Caribbean",
-    "description": "A U.S. warship docked in Trinidad and Tobago 's capital Sunday as the Trump administration boosts military pressure on neighboring Venezuela and its President Nicol\u00e1s Maduro.",
-    "link": "https://www.bostonherald.com/2025/10/26/us-docks-warship-in-caribbean/",
-    "timestamp": "2025-10-26T20:35:54Z"
-  },
-  {
-    "title": "Gaza Tribunal calls for \u2018Israeli perpetrators and enablers\u2019 to face justice",
-    "description": "The tribunal's message came as it released its genocide verdict following four days of public hearings in Istanbul.",
-    "link": "https://www.aljazeera.com/news/2025/10/26/gaza-tribunal-calls-for-israeli-perpetrators-and-enablers-to-face-justice",
-    "timestamp": "2025-10-26T20:30:45Z"
-  },
-  {
-    "title": "Bill Clinton once called the White House movie theater the \u2018best perk\u2019 of the job. It was destroyed this week",
-    "description": "One of the stars of the White House is no more. The White House Family Theater, the movie theater which first came to be in 1942 when a cloakroom was converted into a screening room, was demolished this week as part of the destruction of the East Wing to make\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4348775/posts",
-    "timestamp": "2025-10-26T20:30:44Z"
-  },
-  {
-    "title": "\u2018Have You Apologized?\u2019 MSNBC\u2019s Host Stops Karine Jean-Pierre Cold With Tough Question On Biden\u2019s Cognitive Decline",
-    "description": "Ex-Biden Press Secretary Karine Jean-Pierre\u00a0was left scrambling for an answer when MSNBC anchor Elise Jordan\u00a0pressed her on the \"mental acuity\" of her old boss\nThe post \u2018Have You Apologized?\u2019 MSNBC\u2019s Host Stops Karine Jean-Pierre Cold With Tough Question On B\u2026",
-    "link": "https://www.mediaite.com/media/have-you-apologized-msnbcs-host-stops-karine-jean-pierre-cold-with-tough-question-on-bidens-cognitive-decline/",
-    "timestamp": "2025-10-26T20:27:28Z"
-  },
-  {
-    "title": "Qld is rich in critical minerals. What will it gain from the Trump deal?",
-    "description": "A multi-billion-dollar critical minerals partnership between Australia and the US is touted as a landmark industry deal and is expected to speed up projects in minerally rich outback Queensland.",
-    "link": "https://www.abc.net.au/news/2025-10-27/what-trump-critical-minerals-deal-means-for-north-west-qld/105928800",
-    "timestamp": "2025-10-26T20:22:20Z"
-  },
-  {
-    "title": "Jeffries spars with CBS host on claims the upcoming midterms will be 'rigged elections'",
-    "description": "House Minority Leader Hakeem Jeffries defended his claims that redistricting could \"rig\" the midterm elections during a CBS \"Face the Nation\" interview.",
-    "link": "https://www.foxnews.com/media/jeffries-spars-cbs-host-claims-upcoming-midterms-rigged-elections",
-    "timestamp": "2025-10-26T20:19:43Z"
-  },
-  {
-    "title": "Scaramucci Expresses Support for Pardoned Changpeng Zhao: 'I Supported CZ Prior to His Sentencing and Wrote on His Behalf'",
-    "description": "In a post on X, Anthony Scaramucci expressed his support for the recently pardoned Binance CEO Changpeng Zhao.\nScaramucci, a well-known figure in the finance world, took to X on Saturday to voice his support for CZ, who was recently pardoned by President Dona\u2026",
-    "link": "https://biztoc.com/x/b9655ce8f0e93095",
-    "timestamp": "2025-10-26T20:17:55Z"
-  },
-  {
-    "title": "Here's What Happened Today: Sunday",
-    "description": "The most important Irish and international stories you need to know today.",
-    "link": "https://www.thejournal.ie/news-fox-26-10-25-6857434-Oct2025/",
-    "timestamp": "2025-10-26T20:15:10Z"
-  },
-  {
-    "title": "For Japan\u2019s new leader, the key to a good relationship with Trump could come in a Ford F-150 truck",
-    "description": "TOKYO (AP) \u2014 President Donald Trump arrives Monday in Japan where new Prime Minister Sanae Takaichi is banking on building a friendly personal relationship with the U.S. leader to ease trade tensions. One key to this strategy might lie in an idea floated by J\u2026",
-    "link": "https://financialpost.com/pmn/for-japans-new-leader-the-key-to-a-good-relationship-with-trump-could-come-in-a-ford-f-150-truck",
-    "timestamp": "2025-10-26T20:14:56Z"
   }
 ]
