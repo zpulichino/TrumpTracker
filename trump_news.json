@@ -1,5 +1,35 @@
 [
   {
+    "title": "Flight delays worsen as unpaid air traffic controllers feel government shutdown pain",
+    "description": "Flights across the U.S. are facing growing delays as unpaid air traffic controllers feel the strain of the ongoing government shutdown.",
+    "link": "https://www.foxnews.com/politics/flight-delays-worsen-unpaid-air-traffic-controllers-feel-government-shutdown-pain",
+    "timestamp": "2025-10-28T10:54:36Z"
+  },
+  {
+    "title": "Hamas hands over remains of hostage whose body was recovered nearly 2 years ago",
+    "description": "Israel received the remains of a deceased hostage whose body was first returned in 2023. There are 13 deceased hostages in Gaza who are set to be returned.",
+    "link": "https://www.foxnews.com/world/hamas-hands-over-remains-hostage-whose-body-recovered-nearly-2-years-ago",
+    "timestamp": "2025-10-28T10:53:36Z"
+  },
+  {
+    "title": "Bill Gates softens 'Climate Disaster' approach, says too many resources are going to fight the problem",
+    "description": "Microsoft co-founder Bill Gates says countries and leaders need to shift their approach to climate change and focus on 'improving lives'",
+    "link": "https://www.cnbc.com/2025/10/28/bill-gates-says-countries-need-to-rethink-their-climate-strategy.html",
+    "timestamp": "2025-10-28T10:52:45Z"
+  },
+  {
+    "title": "'Battered and bruised but still standing': WTO chief on global trade after tariffs",
+    "description": "The global trade system has remained resilient despite the U.S.'  introduction of import tariffs, the WTO's chief said.",
+    "link": "https://www.cnbc.com/2025/10/28/its-battered-and-bruised-but-still-standing-wto-on-global-trade.html",
+    "timestamp": "2025-10-28T10:52:27Z"
+  },
+  {
+    "title": "Ukraine strikes cut Russia's oil refining by 20%, says Zelenskyy",
+    "description": "Ukrainian President Volodymyr Zelenskyy says long-range strikes on Russian refineries have reduced Moscow's oil refining capacity by 20%. He cites intelligence from Western governments. He says over 90% of these strikes were carried out by Ukrainian-made weap\u2026",
+    "link": "https://apnews.com/article/russia-ukraine-war-oil-refineries-zelenskyy-fa04014c6c1bdf0e15123d898c491b03",
+    "timestamp": "2025-10-28T10:50:40Z"
+  },
+  {
     "title": "Trump and Takaichi Forge Rare Earths Deal to Bolster US-Japan Trade Power",
     "description": "Trump and Japan's Sanae Takaichi sign rare earths pact in Tokyo, deepening trade and defence ties while honouring Abe's legacy.",
     "link": "https://www.ibtimes.com/trump-takaichi-forge-rare-earths-deal-bolster-us-japan-trade-power-3788607",
@@ -372,6 +402,12 @@
     "timestamp": "2025-10-28T10:00:04Z"
   },
   {
+    "title": "2025\u2019s Incredible AI Spending Frenzy\u2014Latest: U.S. Forms $1 Billion Partnership With AMD (List)",
+    "description": "Spending on AI has accelerated in recent months, as Wall Street anticipates global expenditures nearing half a trillion dollars by 2026.",
+    "link": "https://www.forbes.com/sites/tylerroush/2025/10/28/2025s-incredible-ai-spending-frenzy-latest-us-forms-1-billion-partnership-with-amd-list/",
+    "timestamp": "2025-10-28T10:00:00Z"
+  },
+  {
     "title": "ICE is struggling to hire officers \u2014 even after lowering its standards",
     "description": "DHS is spending millions of dollars on an aggressive television ad campaign targeting local police officers \u2014 but it's not getting nearly enough applicants.",
     "link": "https://www.msnbc.com/opinion/msnbc-opinion/ice-hiring-standards-dhs-immigration-police-rcna239656",
@@ -384,27 +420,21 @@
     "timestamp": "2025-10-28T10:00:00Z"
   },
   {
-    "title": "2025\u2019s Incredible AI Spending Frenzy\u2014Latest: U.S. Forms $1 Billion Partnership With AMD (List)",
-    "description": "Spending on AI has accelerated in recent months, as Wall Street anticipates global expenditures nearing half a trillion dollars by 2026.",
-    "link": "https://www.forbes.com/sites/tylerroush/2025/10/28/2025s-incredible-ai-spending-frenzy-latest-us-forms-1-billion-partnership-with-amd-list/",
-    "timestamp": "2025-10-28T10:00:00Z"
-  },
-  {
     "title": "Trump\u2019s Ballroom Defenders Have Adopted the \u201cAbundance\u201d Argument",
     "description": "President Donald Trump\u2019s decision to bulldoze the White House East Wing to make way for a 90,000 square-foot ballroom is hardly the worst thing he\u2019s done. It isn\u2019t even the worst thing he did last week\u2014that honor belongs to his\u00a0pardoning\u00a0his business associat\u2026",
     "link": "https://newrepublic.com/article/202330/trump-white-house-demolition-abundance",
     "timestamp": "2025-10-28T10:00:00Z"
   },
   {
-    "title": "Why We Should Let More People Out on Bail",
-    "description": "Justice Minister Sean Fraser just dropped Bill C-14, a new bail reform bill \u2014 the third one in seven years. After provinces, cops, the opposition, and Joe Schmoe from the corner store all demanded a crackdown on \u201ccatch and release,\u201d the Liberals are trying ag\u2026",
-    "link": "https://shows.acast.com/canadaland/episodes/69004d79594b659111bc7047",
-    "timestamp": "2025-10-28T10:00:00Z"
-  },
-  {
     "title": "The Republican Plan to Reform the Census Could Put Everyone\u2019s Privacy at Risk",
     "description": "A little-known algorithmic process called \u201cdifferential privacy\u201d helps keep census data anonymous. Conservatives want it gone\u2014possibly putting immigrants at further risk.",
     "link": "https://www.wired.com/story/republicans-differential-privacy-census-overhaul/",
+    "timestamp": "2025-10-28T10:00:00Z"
+  },
+  {
+    "title": "Why We Should Let More People Out on Bail",
+    "description": "Justice Minister Sean Fraser just dropped Bill C-14, a new bail reform bill \u2014 the third one in seven years. After provinces, cops, the opposition, and Joe Schmoe from the corner store all demanded a crackdown on \u201ccatch and release,\u201d the Liberals are trying ag\u2026",
+    "link": "https://shows.acast.com/canadaland/episodes/69004d79594b659111bc7047",
     "timestamp": "2025-10-28T10:00:00Z"
   },
   {
@@ -514,23 +544,5 @@
     "description": "President Donald Trump has met with Japan's new Prime Minister, Sanae Takaichi, during his trip to Asia",
     "link": "https://abcnews.go.com/Business/wireStory/trump-praises-japans-new-prime-minister-us-ally-126914977",
     "timestamp": "2025-10-28T09:33:45Z"
-  },
-  {
-    "title": "Trump Set to Dine With OpenAI, Salesforce CEO in Tokyo",
-    "description": "US President Donald Trump plans to dine with chief executive officers including Salesforce Inc.\u2019s Marc Benioff, Toshiba Corp.\u2019s Taro Shimada and Rakuten Group Inc.\u2019s Hiroshi Mikitani as he looks to tout Japanese investment in the US and wraps his visit to Tok\u2026",
-    "link": "https://financialpost.com/pmn/business-pmn/trump-set-to-dine-with-openai-salesforce-ceo-in-tokyo",
-    "timestamp": "2025-10-28T09:33:39Z"
-  },
-  {
-    "title": "Trump Signs Rare-Earths Agreement With Japan; Will Meet With China\u2019s Xi Thursday; Shutdown Latest",
-    "description": "LIVE\nTrump Signs Rare-Earths Agreement With Japan; Will Meet With China\u2019s Xi Thursday; Shutdown Latest.\nFollow the latest news from Washington, D.C.\nLast Updated:\nOct. 28, 2025 at 5:20 AM ET\nKey Events\nLatest Updates\nPresident Donald Trump signed an agreement\u2026",
-    "link": "https://biztoc.com/x/564f30e89e39284e",
-    "timestamp": "2025-10-28T09:30:39Z"
-  },
-  {
-    "title": "Bill Gates helped convince Trump against letting RFK Jr. lead a vaccine and autism task force in 2017, a new book says",
-    "description": "Gates, a vaccine proponent, told Trump in 2017 that it \"would be a terrible mistake\" to let RFK Jr. lead a vaccine task force, per a new book.",
-    "link": "https://www.businessinsider.com/bill-gates-trump-rfk-jr-vaccine-panel-book-2025-10",
-    "timestamp": "2025-10-28T09:30:02Z"
   }
 ]
