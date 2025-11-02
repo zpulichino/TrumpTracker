@@ -1,5 +1,65 @@
 [
   {
+    "title": "llm-ner-nel added to PyPI",
+    "description": "Project uses an LLM to run inference, for NER (named entity recognition) and NEL (named entity linking), including knowledge graph construction and evaluation",
+    "link": "https://pypi.org/project/llm-ner-nel/",
+    "timestamp": "2025-11-01T19:05:39Z"
+  },
+  {
+    "title": "In Washington DC, a hot dog stall symbolises the US government shutdown",
+    "description": "Isaac Stein should be at his day job as a lawyer for the Internal Revenue Service, but instead, he's making hot dogs as the US government shutdown drags on.",
+    "link": "https://www.abc.net.au/news/2025-11-02/us-government-shutdown-millions-could-be-affected-by-snap-cuts/105960412",
+    "timestamp": "2025-11-01T19:04:39Z"
+  },
+  {
+    "title": "Donald Trump Blasted For Throwing 'Great Gatsby' Party As SNAP Benefits Run Out",
+    "description": "Donald Trump's celebrating the Roaring '20s ... and, a whole lotta people online are calling him tone deaf as many in poverty are staring down a Great Depression. POTUS hosted a \"Great Gatsby\"-themed party at his exclusive Mar-a-Lago resort in Palm\u2026\n Permalink",
+    "link": "https://www.tmz.com/2025/11/01/donald-trump-slammed-throwing-party-snap-runs-out/",
+    "timestamp": "2025-11-01T19:04:17Z"
+  },
+  {
+    "title": "Canadian Prime Minister Mark Carney Apologizes to President Trump over 'Fraudulent' Ad Criticizing Tariffs",
+    "description": "Canada's Prime Minister Mark Carney has apologized to President Donald Trump for an ad criticizing his tariff policies.\nThe post Canadian Prime Minister Mark Carney Apologizes to President Trump over \u2018Fraudulent\u2019 Ad Criticizing Tariffs appeared first on Breit\u2026",
+    "link": "https://www.breitbart.com/politics/2025/11/01/canadian-prime-minister-mark-carney-apologizes-to-president-trump-over-fraudulent-ad-criticizing-tariffs/",
+    "timestamp": "2025-11-01T19:02:56Z"
+  },
+  {
+    "title": "EXCLUSIVE \u2014 Rep. Andy Biggs Introduces Resolution to Install Charlie Kirk Statue in U.S. Capitol",
+    "description": "A formal House resolution was submitted Friday by Rep. Andy Biggs (R-AZ) to place a statue of late Turning Point USA founder Charlie Kirk inside the U.S. Capitol, marking the first formal Capitol-level memorial action since Kirk\u2019s assassination and coming jus\u2026",
+    "link": "https://www.breitbart.com/politics/2025/11/01/exclusive-rep-andy-biggs-introduces-resolution-to-install-charlie-kirk-statue-in-u-s-capitol/",
+    "timestamp": "2025-11-01T19:02:44Z"
+  },
+  {
+    "title": "Trump Hosts 'Great Gatsby' Halloween Bash on Eve of SNAP Crisis",
+    "description": "In the midst of a crisis concerning Supplemental Nutrition Assistance Program (SNAP) funding, President Donald Trump held a \u201cGreat Gatsby\u201d-themed Halloween celebration at his Mar-a-Lago resort.\nThe event took place just a few hours before the expiration of fe\u2026",
+    "link": "https://biztoc.com/x/de10c82bc4d07899",
+    "timestamp": "2025-11-01T19:01:02Z"
+  },
+  {
+    "title": "The Community Spotlight 2025.11.01",
+    "description": "Welcome to the latest edition of the Giant Bomb Community Spotlight! I, @zombiepie, am once again honored to be your host as we look back at the site-related news and best community creations from the previous week!First and foremost, let's give a huge congra\u2026",
+    "link": "https://www.giantbomb.com/articles/the-community-spotlight-2025-11-01/1100-6561/",
+    "timestamp": "2025-11-01T19:00:00Z"
+  },
+  {
+    "title": "Thom Hartmann: Why Does the Shutdown Continue? Ask Senator Thune.",
+    "description": "Thom Hartmann explains why the shutdown continues. The Republicans in the Senate have the votes to end it. He writes: \u2014 The GOP\u2019s dirty little secret exposed, courtesy of Donald Trump: Republicans in the Senate could have ended the shutdown anytime they wante\u2026",
+    "link": "https://dianeravitch.net/2025/11/01/thom-hartmann-why-does-the-shutdown-continue-ask-senator-thune/",
+    "timestamp": "2025-11-01T19:00:00Z"
+  },
+  {
+    "title": "Obama rallies with Mikie Sherrill as Dems try to avoid humiliating loss in Jersey",
+    "description": "Anxious Democrats are hauling out their biggest political star to try to prevent what would be a humiliating loss in blue state New Jersey as Barack Obama stumps for candidate for governor Mikie Sherrill.",
+    "link": "https://nypost.com/2025/11/01/us-news/obama-rallies-with-mikie-sherrill-in-jersey-in-tightening-race/",
+    "timestamp": "2025-11-01T18:59:08Z"
+  },
+  {
+    "title": "Trump Is the Democrats\u2019 Best Campaigner",
+    "description": "GOP candidates for Tuesday\u2019s elections are trapped between Trump\u2019s demands for fealty and voters who want independence.HAMILTON, N.J. \u2014 The most revealing element of next week\u2019s election is that President Donald Trump is all but ensuring defeat for Republican\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4350062/posts",
+    "timestamp": "2025-11-01T18:57:02Z"
+  },
+  {
     "title": "Milwaukee farmers market 'taking it week by week' as it tries to fill SNAP gap, federal funds in limbo",
     "description": "Fondy Farmers Market offered free $20 produce vouchers after FoodShare payments did not go out as scheduled Nov. 1.",
     "link": "https://www.jsonline.com/story/news/local/2025/11/01/milwaukee-farmers-market-steps-in-as-foodshare-remains-in-limbo/87035368007/",
@@ -514,65 +574,5 @@
     "description": "This year's Travel Edition celebrated diverse creators, honoring outstanding talent with Jury and Popular Choice distinctions. Satya Prakash Dixit, Divya Dugar, Sachin Bansal, Prerna Prasad, and Barkha Singh received Special Recognition awards for their impac\u2026",
     "link": "https://timesofindia.indiatimes.com/life-style/events/power-creator-awards-2025-travel-edition-winners-of-special-recognition-awards/articleshow/125019342.cms",
     "timestamp": "2025-11-01T16:05:30Z"
-  },
-  {
-    "title": "Tish James Is Fighting Another DOJ Probe For \u2018Selective Enforcement\u2019 Against Trump\u2019s Business, NRA, Unsealed Docs Show",
-    "description": "Letitia James is fighting a federal criminal probe over alleged \"selective enforcement\" in cases she brought against Trump and the NRA.",
-    "link": "https://dailycaller.com/2025/11/01/tish-james-fighting-justice-department-probe-selective-enforcement-donald-trump-business-national-rifle-association-unsealed-documents/",
-    "timestamp": "2025-11-01T16:03:16Z"
-  },
-  {
-    "title": "Prime Minister Christopher Luxon\u2019s Asia tour reveals key difference to US President Donald Trump - Jamie Ensor",
-    "description": "ANALYSIS: The current NZ and US approaches to trade don't align.",
-    "link": "https://www.nzherald.co.nz/nz/politics/prime-minister-christopher-luxons-asia-tour-reveals-key-difference-to-us-president-donald-trump-jamie-ensor/AP57ULDW4ZAFLBTIKPMA3OC4CE/",
-    "timestamp": "2025-11-01T16:00:00Z"
-  },
-  {
-    "title": "Foreign Journalists Asked Kamala the Questions Americans Wouldn\u2019t",
-    "description": "Last month, former Vice President Kamala Harris made the rounds of supportive liberal networks to promote her campaign book \u201c107 Days.\u201d The title implied it... Read More\nThe post Foreign Journalists Asked Kamala the Questions Americans Wouldn\u2019t appeared first\u2026",
-    "link": "https://www.dailysignal.com/2025/11/01/foreign-journalists-asked-kamala-the-questions-americans-wouldnt/",
-    "timestamp": "2025-11-01T16:00:00Z"
-  },
-  {
-    "title": "Where the Nexperia auto chip crisis stands now as the U.S., China and EU race to contain fallout",
-    "description": "The Nexperia crisis is still threatening vehicle production worldwide.",
-    "link": "https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html",
-    "timestamp": "2025-11-01T15:59:55Z"
-  },
-  {
-    "title": "Puri gears up for panchuka brata with multi-layer security, traffic curbs",
-    "description": "Puri police have intensified security and crowd management for Jagannath Temple's Bada Ekadasi and Panchuka Brata festivals, November 2-5. Enhanced entry/exit points, anti-sabotage checks, and medical services are in place. A detailed traffic plan and proacti\u2026",
-    "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/puri-gears-up-for-panchuka-brata-with-multi-layer-security-traffic-curbs/articleshow/125019385.cms",
-    "timestamp": "2025-11-01T15:59:48Z"
-  },
-  {
-    "title": "Which companies have cut jobs recently?",
-    "description": "Amid wider economic uncertainty, some analysts have said that businesses are at a \u201cno-hire, no fire\u201d standstill.",
-    "link": "https://www.yahoo.com/news/articles/companies-cut-jobs-recently-155812012.html",
-    "timestamp": "2025-11-01T15:58:12Z"
-  },
-  {
-    "title": "JD Vance says Secret Service agents are 'grateful' family German shepherd doesn't bite",
-    "description": "Unlike the German shepherds owned by President Biden, the vice president's dog Atlas doesn't scare the Secret Service, JD Vance said.",
-    "link": "https://www.usatoday.com/story/news/politics/2025/11/01/jd-vance-family-dog-secret-service/87034202007/",
-    "timestamp": "2025-11-01T15:55:19Z"
-  },
-  {
-    "title": "Federal Judge Strikes Down Proof Of Citizenship Requirement For Voting",
-    "description": "A federal judge ruled Friday that President Donald Trump\u2019s request to add a documentary proof of citizenship requirement to the federal voter registration form cannot be enforced. U.S. District Judge Colleen Kollar-Kotelly, a Clinton appointee, sided with lef\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4350030/posts",
-    "timestamp": "2025-11-01T15:52:51Z"
-  },
-  {
-    "title": "CNN\u2019s Abby Phillip Calls Out Trump Entering Betting Market: \u2018Insider Trading By Another Name\u2019",
-    "description": "CNN's Abby Phillip called out President Donald Trump entering the betting market for sports and politics as \"insider trading by another name.\"\nThe post CNN\u2019s Abby Phillip Calls Out Trump Entering Betting Market: \u2018Insider Trading By Another Name\u2019 first appeare\u2026",
-    "link": "https://www.mediaite.com/media/tv/cnns-abby-phillip-calls-out-trump-entering-betting-market-insider-trading-by-another-name/",
-    "timestamp": "2025-11-01T15:49:51Z"
-  },
-  {
-    "title": "Bigg Boss Telugu 9 preview: Ramu Rathod\u2019s video brings laughter; Is Bharani playing safe again?",
-    "description": "Bigg Boss Telugu 9 teasers showcase Ramu Rathod's amusement with housemate drama, with Nagarjuna humorously noting his detached observation. Nagarjuna also grills Bharani on his gameplay, questioning his cautious approach during a captaincy task where his ind\u2026",
-    "link": "https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-9-preview-ramu-rathods-video-brings-laughter-is-bharani-playing-safe-again/articleshow/125019194.cms",
-    "timestamp": "2025-11-01T15:45:53Z"
   }
 ]
