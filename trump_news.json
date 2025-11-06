@@ -1,5 +1,59 @@
 [
   {
+    "title": "'It's In Play': Ex-Dem Senator Makes Bold 2026 Midterm Prediction",
+    "description": "Former Sen. Claire McCaskill said big Democratic Party wins on Tuesday mean the Senate could flip next year.",
+    "link": "https://www.huffpost.com/entry/2028-senate-prediction-claire-mccaskill_n_690b1543e4b08f258c87579b",
+    "timestamp": "2025-11-05T09:45:17Z"
+  },
+  {
+    "title": "Illinois takes steps to address high energy costs, betting big on battery storage",
+    "description": "The state legislature passed a bill that will add a surcharge for customers in the short term, but should pay it back more than 10-fold over the next 20 years.",
+    "link": "https://grist.org/energy/illinois-takes-steps-to-address-high-energy-costs-betting-big-on-battery-storage/",
+    "timestamp": "2025-11-05T09:45:00Z"
+  },
+  {
+    "title": "Democrats Troll Donald Trump\u2019s \u2018Peak Body\u2019 With Unflattering Photo",
+    "description": "Democrats Troll Donald Trump\u2019s \u2018Peak Body\u2019 With Unflattering Photothedailybeast.com",
+    "link": "https://www.thedailybeast.com/democrats-troll-donald-trumps-peak-body-with-unflattering-photo/",
+    "timestamp": "2025-11-05T09:44:53Z"
+  },
+  {
+    "title": "As US Rally Pauses, Global Stocks Enjoy Historic Outperformance",
+    "description": "A year ago, investors were sure that a presidential win for Donald Trump would doom international stocks to underperform the US market due to his promises to ratchet up tariffs and cut taxes. A year later, they can\u2019t get enough of global equities.",
+    "link": "https://financialpost.com/pmn/business-pmn/as-us-rally-pauses-global-stocks-enjoy-historic-outperformance",
+    "timestamp": "2025-11-05T09:41:19Z"
+  },
+  {
+    "title": "China defends 'sovereign' ties with Venezuela, warns against US moves in Caribbean",
+    "description": "China says its partnership with Venezuela is \"sovereign\" and not directed at any third party, following reports that Caracas has asked allies for military equipment amid heightened tensions with the United States.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251104-presstv07.htm",
+    "timestamp": "2025-11-05T09:40:59Z"
+  },
+  {
+    "title": "US pushes plan at UN for foreign control of Gaza for at least two years",
+    "description": "The United States has circulated a draft UN Security Council resolution mandating the establishment of a \"temporary international force\" in the Gaza Strip for at least two years amid Palestinians' wariness of foreign interference in the coastal sliver.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251104-presstv10.htm",
+    "timestamp": "2025-11-05T09:37:11Z"
+  },
+  {
+    "title": "Trump claims Saudi Arabia will 'join' Israeli normalization pact without preconditions",
+    "description": "US President Donald Trump has claimed that Saudi Arabia will normalize relations with the Israeli regime without any preconditions, including the establishment of a Palestinian state.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/israel/2025/11/israel-251104-presstv01.htm",
+    "timestamp": "2025-11-05T09:36:03Z"
+  },
+  {
+    "title": "Iraq links disarmament of resistance groups to US withdrawal amid Washington's threats",
+    "description": "Iraqi Prime Minister Mohammed Shia al-Sudani has declared that resistance groups will only disarm once US forces leave the country, reaffirming plans for a full coalition withdrawal by 2026 amid threats from Washington.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iraq/2025/iraq-251104-presstv01.htm",
+    "timestamp": "2025-11-05T09:35:36Z"
+  },
+  {
+    "title": "Qalibaf: 12-day war proved US 'hostility' toward Iran 'remains constant'",
+    "description": "Iran's Parliament Speaker Mohammad Baqer Qalibaf has declared that the recent 12-day war exposes the United States' enduring hostility, underscoring that while its tactics have evolved, its fundamental goal of opposing a strong and independent Iran remains un\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/11/iran-251104-presstv02.htm",
+    "timestamp": "2025-11-05T09:35:05Z"
+  },
+  {
     "title": "US, S.Korea nuclear submarine cooperation could disrupt regional strategic balance, trigger tension: expert",
     "description": "The defense chiefs of South Korea and the US held their annual security talks in Seoul on Tuesday to discuss a range of issues, including progress on building nuclear-powered submarines.",
     "link": "https://www.globalsecurity.org/wmd/library/news/rok/2025/rok-251104-globaltimes01.htm",
@@ -420,15 +474,15 @@
     "timestamp": "2025-11-05T07:26:30Z"
   },
   {
-    "title": "What Zohran Mamdani's win means for Trump",
-    "description": "Mamdani's victory feels big - for him and his political movement. His left-wing politics and promises on affordability chimed with a body of people who feel disenfranchised from politics, whatever the party.",
-    "link": "https://news.sky.com/story/zohran-mamdanis-win-in-new-york-suggests-he-hit-on-a-formula-that-worked-for-trump-13464187",
-    "timestamp": "2025-11-05T07:21:00Z"
-  },
-  {
     "title": "Zohran Mamdani's win in New York suggests some of Trump's voters have deserted him",
     "description": "Mamdani's victory feels big - for him and his political movement. His left-wing politics and promises on affordability chimed with a body of people who feel disenfranchised from politics, whatever the party.",
     "link": "https://news.sky.com/story/zohran-mamdanis-win-in-new-york-suggests-some-of-donald-trumps-voters-have-deserted-him-13464187",
+    "timestamp": "2025-11-05T07:21:00Z"
+  },
+  {
+    "title": "What Zohran Mamdani's win means for Trump",
+    "description": "Mamdani's victory feels big - for him and his political movement. His left-wing politics and promises on affordability chimed with a body of people who feel disenfranchised from politics, whatever the party.",
+    "link": "https://news.sky.com/story/zohran-mamdanis-win-in-new-york-suggests-he-hit-on-a-formula-that-worked-for-trump-13464187",
     "timestamp": "2025-11-05T07:21:00Z"
   },
   {
@@ -514,59 +568,5 @@
     "description": "The mayor of the City of New York is the chief executive of the city. His office, located in New York City Hall, enjoys jurisdiction over all five city boroughs \u2014 Manhattan, Brooklyn, the Bronx, Queens and Staten Island",
     "link": "https://indianexpress.com/article/explained/explained-global/zohran-mamdani-new-york-city-mayor-duties-challenges-10347080/",
     "timestamp": "2025-11-05T06:56:53Z"
-  },
-  {
-    "title": "EU leaders skipping Latin America summit to avoid upsetting Trump \u2013 FT",
-    "description": "European leaders are reportedly skipping the EU-CELAC summit to avoid annoying US President Donald Trump Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/627349-eu-leaders-skipping-latin-america-summit-not-to-upset-trump/",
-    "timestamp": "2025-11-05T06:53:45Z"
-  },
-  {
-    "title": "Zohran Mamdani wins New York as Democratic electoral sweep deals blow to Donald Trump - Financial Times",
-    "description": "Zohran Mamdani wins New York as Democratic electoral sweep deals blow to Donald TrumpFinancial Times Mamdani takes reins of a NYC beset by challengesPolitico Celebrating diversity, Mamdani's election night party showcases a new coalitionUSA Today Election res\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=179969458",
-    "timestamp": "2025-11-05T06:53:16Z"
-  },
-  {
-    "title": "Trump tariffs face Supreme Court test in trillion-dollar test of executive power",
-    "description": "President Donald Trump\u2019s power to unilaterally impose far-reaching tariffs is coming before the Supreme Court on Wednesday in a pivotal test of executive power with trillion-dollar implications for the global economy",
-    "link": "https://biztoc.com/x/3b834ccae6f4f046",
-    "timestamp": "2025-11-05T06:48:02Z"
-  },
-  {
-    "title": "Trump heads to Miami to speak about his economic agenda on the anniversary of his election win",
-    "description": "Trump heads to Miami to speak about his economic agenda on the anniversary of his election win\nPresident Donald Trump is heading to Miami, speaking on the anniversary of his reelection to a second term\nWASHINGTON -- President Donald Trump is heading to Miami \u2026",
-    "link": "https://biztoc.com/x/f04e8ac3845ede1e",
-    "timestamp": "2025-11-05T06:47:39Z"
-  },
-  {
-    "title": "Economic policy is one thing Nigel Farage can\u2019t crib from the Donald Trump playbook | Rafael Behr",
-    "description": "The Maga model, based on the US\u2019s exorbitant market privileges, can\u2019t be imported to Britain. That\u2019s going to be a problem for Reform UK\nNigel Farage loves a gamble. In his 2015 memoir, The Purple Revolution, a whole chapter is dedicated to the then Ukip lead\u2026",
-    "link": "https://biztoc.com/x/77ee5232931ca077",
-    "timestamp": "2025-11-05T06:47:23Z"
-  },
-  {
-    "title": "Trump turnabout sees him re-nominate amateur astronaut Jared Isaacman to run NASA",
-    "description": "Ruled him out just six months ago due to Musky connections\nUS president Donald Trump on Tuesday decided who he wants to lead NASA, despite having ruled out the same person six months ago.\u2026",
-    "link": "https://biztoc.com/x/b2e1ce53b309b7d1",
-    "timestamp": "2025-11-05T06:47:17Z"
-  },
-  {
-    "title": "Texas race to replace deceased Democrat advances to runoff",
-    "description": "The race to replace the late Democratic Rep. Sylvester Turner in Texas\u2019 18th Congressional District advanced to a runoff election between Democrats Christian Menefee and Amanda Edwards.",
-    "link": "https://www.foxnews.com/politics/texas-race-replace-deceased-democrat-advances-runoff",
-    "timestamp": "2025-11-05T06:46:11Z"
-  },
-  {
-    "title": "Democrats sweep first major elections of second Trump term",
-    "description": "Democrats swept a trio of races on Tuesday in the first major elections since Donald Trump regained the presidency, elevating a new generation of leaders and giving the beleaguered party a shot of momentum ahead of next year's congressional elections.",
-    "link": "https://www.independent.ie/world-news/north-america/democrats-sweep-first-major-elections-of-second-trump-term/a1335716590.html",
-    "timestamp": "2025-11-05T06:45:21Z"
-  },
-  {
-    "title": "MARK PENN: Democrats win the moment, but left-wing tilt threatens their future",
-    "description": "Democratic party rebounds in 2025 elections with moderate female candidates winning key races, but socialist influence grows as Zohran Mamdani captures New York City mayor's seat.",
-    "link": "https://www.foxnews.com/opinion/mark-penn-democrats-win-moment-left-wing-tilt-threatens-future",
-    "timestamp": "2025-11-05T06:43:52Z"
   }
 ]
