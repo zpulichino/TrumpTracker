@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trump\u2019s triumphal arch is a monument fit for an emperor",
+    "description": "Triumphal arches have historically been symbols of autocracy. Trump's will be no different",
+    "link": "https://www.salon.com/2025/11/05/trumps-triumphal-arch-is-a-monument-fit-for-an-emperor/",
+    "timestamp": "2025-11-05T11:45:53Z"
+  },
+  {
+    "title": "China to embrace free market, free trade and import more: Premier Li",
+    "description": "Chinese Premier Li Qiang pledged to open China's consumer market and embrace free trade, signaling a potential restoration of global supply chains following a trade deal with the US. He emphasized cooperation and joint development amidst global economic slowd\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/china-to-embrace-free-market-free-trade-and-import-more-premier-li/articleshow/125108056.cms",
+    "timestamp": "2025-11-05T11:44:27Z"
+  },
+  {
+    "title": "Morning Bid: Wall Street gets vertigo",
+    "description": "and global markets today , Editor-At-Large, Finance and Markets A rare shakeout in Big Tech and chip stocks on Tuesday rippled around world bourses overnight...",
+    "link": "https://finance.yahoo.com/news/morning-bid-wall-street-gets-113943212.html",
+    "timestamp": "2025-11-05T11:39:43Z"
+  },
+  {
     "title": "What Lurks Around the Corner?",
     "description": "Most of us can feel it. There is something in the air. Big changes are coming. Millions of Americans high on the power of positive thinking were shocked out of their normalcy bias by the assassination of Charlie Kirk and now realize how tumultuous these times\u2026",
     "link": "https://freerepublic.com/focus/f-chat/4350789/posts",
@@ -126,33 +144,15 @@
     "timestamp": "2025-11-05T11:00:01Z"
   },
   {
-    "title": "Will the Supreme Court Side With Trump\u2014Or Itself?",
-    "description": "The Roberts Court has tried to curb exactly the kind of power Trump is abusing in the tariff case.",
-    "link": "https://www.theatlantic.com/ideas/2025/11/supreme-court-tariffs-legal-trump/684818/",
-    "timestamp": "2025-11-05T11:00:00Z"
-  },
-  {
     "title": "Don't whitewash Dick Cheney's legacy just because he criticized Trump",
     "description": "Dick Cheney died Monday at age 84. But his unforgivable record is not just tied to his role in the \"war on terror,\" but also to how he set the stage for Trump.",
     "link": "https://www.msnbc.com/opinion/msnbc-opinion/dick-cheney-dead-trump-legacy-rcna241949",
     "timestamp": "2025-11-05T11:00:00Z"
   },
   {
-    "title": "Dick Cheney\u2019s Brand of Conservatism",
-    "description": "Nicholas Lemann writes about the former Vice-President Dick Cheney, who has died, at the age of eighty-four.",
-    "link": "https://www.newyorker.com/news/postscript/dick-cheneys-brand-of-conservatism",
-    "timestamp": "2025-11-05T11:00:00Z"
-  },
-  {
-    "title": "Eric Trump refuses to rule out dad running for third term \u2014 or himself \u2014 while discussing 2024 victory on \u2018Pod Force One\u2019",
-    "description": "Eric Trump refused to rule out his father running for a third presidential term -- or announcing his won 2028 run to cement his family's political dynasty -- while sharing new details on \"Pod Force One\" about Donald Trump's victory over Vice President Kamala \u2026",
-    "link": "https://nypost.com/2025/11/05/us-news/eric-trump-refuses-to-rule-out-dad-running-for-third-term-or-himself-while-discussing-2024-victory-on-pod-force-one/",
-    "timestamp": "2025-11-05T11:00:00Z"
-  },
-  {
-    "title": "Lindsey Graham said, 'We're killing all the right people' referring to Republican Party",
-    "description": "In late 2025, U.S. Senator Lindsey Graham, R-S.C., said in reference to the Republican Party and the nation: \u201cWe're killing all the right people, and we're cutting your taxes.\"",
-    "link": "https://www.snopes.com//fact-check/lindsey-graham-killing-right-people-quote/",
+    "title": "Will the Supreme Court Side With Trump\u2014Or Itself?",
+    "description": "The Roberts Court has tried to curb exactly the kind of power Trump is abusing in the tariff case.",
+    "link": "https://www.theatlantic.com/ideas/2025/11/supreme-court-tariffs-legal-trump/684818/",
     "timestamp": "2025-11-05T11:00:00Z"
   },
   {
@@ -162,9 +162,27 @@
     "timestamp": "2025-11-05T11:00:00Z"
   },
   {
-    "title": "California's Prop 50 redistricting campaign already has a winner: Gov. Gavin Newsom",
-    "description": "Spearheading the fight to counter Trump-led efforts to expand the GOP House majority stands to help the governor in a 2028 presidential primary.",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/california-prop-50-redistricting-gavin-newsom-rcna241469",
+    "title": "Lindsey Graham said, 'We're killing all the right people' referring to Republican Party",
+    "description": "In late 2025, U.S. Senator Lindsey Graham, R-S.C., said in reference to the Republican Party and the nation: \u201cWe're killing all the right people, and we're cutting your taxes.\"",
+    "link": "https://www.snopes.com//fact-check/lindsey-graham-killing-right-people-quote/",
+    "timestamp": "2025-11-05T11:00:00Z"
+  },
+  {
+    "title": "Eric Trump refuses to rule out dad running for third term \u2014 or himself \u2014 while discussing 2024 victory on \u2018Pod Force One\u2019",
+    "description": "Eric Trump refused to rule out his father running for a third presidential term -- or announcing his won 2028 run to cement his family's political dynasty -- while sharing new details on \"Pod Force One\" about Donald Trump's victory over Vice President Kamala \u2026",
+    "link": "https://nypost.com/2025/11/05/us-news/eric-trump-refuses-to-rule-out-dad-running-for-third-term-or-himself-while-discussing-2024-victory-on-pod-force-one/",
+    "timestamp": "2025-11-05T11:00:00Z"
+  },
+  {
+    "title": "Dick Cheney\u2019s Brand of Conservatism",
+    "description": "Nicholas Lemann writes about the former Vice-President Dick Cheney, who has died, at the age of eighty-four.",
+    "link": "https://www.newyorker.com/news/postscript/dick-cheneys-brand-of-conservatism",
+    "timestamp": "2025-11-05T11:00:00Z"
+  },
+  {
+    "title": "Eric Trump shares his dad\u2019s family rules, talks growing up with \u2018tough\u2019 mom Ivana on \u2018Pod Force One\u2019",
+    "description": "Eric Trump dished on the rules his presidential dad once laid down for their family -- and how \"tough\" mom Ivana was -- during an interview with \"Pod Force One\" released Wednesday.",
+    "link": "https://nypost.com/2025/11/05/us-news/eric-trump-shares-his-dads-family-rules-and-how-tough-mom-ivana-was-during-pod-force-one-chat/",
     "timestamp": "2025-11-05T11:00:00Z"
   },
   {
@@ -174,9 +192,9 @@
     "timestamp": "2025-11-05T11:00:00Z"
   },
   {
-    "title": "Eric Trump shares his dad\u2019s family rules, talks growing up with \u2018tough\u2019 mom Ivana on \u2018Pod Force One\u2019",
-    "description": "Eric Trump dished on the rules his presidential dad once laid down for their family -- and how \"tough\" mom Ivana was -- during an interview with \"Pod Force One\" released Wednesday.",
-    "link": "https://nypost.com/2025/11/05/us-news/eric-trump-shares-his-dads-family-rules-and-how-tough-mom-ivana-was-during-pod-force-one-chat/",
+    "title": "California's Prop 50 redistricting campaign already has a winner: Gov. Gavin Newsom",
+    "description": "Spearheading the fight to counter Trump-led efforts to expand the GOP House majority stands to help the governor in a 2028 presidential primary.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/california-prop-50-redistricting-gavin-newsom-rcna241469",
     "timestamp": "2025-11-05T11:00:00Z"
   },
   {
@@ -372,15 +390,15 @@
     "timestamp": "2025-11-05T10:00:38Z"
   },
   {
-    "title": "Midterm advice for Republicans: Bold strategy to match Trump's momentum",
-    "description": "Congress should pass simple bills like the SAVE Act and REINS Act to deliver tangible results on voting security, healthcare reform and economic freedom.",
-    "link": "https://www.foxnews.com/opinion/midterm-advice-republicans-bold-strategy-match-trumps-momentum",
-    "timestamp": "2025-11-05T10:00:27Z"
-  },
-  {
     "title": "Liberal outlets criticize Trump officials relocating to military housing after threats, harassment",
     "description": "Trump officials, including Stephen Miller, relocated to military housing due to security threats and harassment from activists targeting their homes and families.",
     "link": "https://www.foxnews.com/media/liberal-outlets-criticize-trump-officials-relocating-military-housing-after-threats-harassment",
+    "timestamp": "2025-11-05T10:00:27Z"
+  },
+  {
+    "title": "Midterm advice for Republicans: Bold strategy to match Trump's momentum",
+    "description": "Congress should pass simple bills like the SAVE Act and REINS Act to deliver tangible results on voting security, healthcare reform and economic freedom.",
+    "link": "https://www.foxnews.com/opinion/midterm-advice-republicans-bold-strategy-match-trumps-momentum",
     "timestamp": "2025-11-05T10:00:27Z"
   },
   {
@@ -402,6 +420,18 @@
     "timestamp": "2025-11-05T10:00:00Z"
   },
   {
+    "title": "Trump tariffs showdown reaches the Supreme Court",
+    "description": "The Supreme Court will weigh whether President Donald Trump has the authority to impose sweeping tariffs on imports under a law designed for use during a national emergency.",
+    "link": "https://www.nbcnews.com/politics/supreme-court/trump-tariffs-supreme-court-arguments-rcna241615",
+    "timestamp": "2025-11-05T10:00:00Z"
+  },
+  {
+    "title": "A One-Woman Stand Against Conspiracists",
+    "description": "YouTuber Natalie Wynn spent a year immersing herself in the conspiracy theories wrecking our politics. Now, she\u2019s sharing what she\u2019s learned.\u00a0\nThe post A One-Woman Stand Against Conspiracists appeared first on Washington Monthly.",
+    "link": "http://washingtonmonthly.com/2025/11/05/natalie-wynn-contrapoints-one-woman-stand-against-conspiracists/",
+    "timestamp": "2025-11-05T10:00:00Z"
+  },
+  {
     "title": "Climate change \u2018is the new liberal arts\u2019: Colleges build environmental lessons into degrees",
     "description": "University of California, San Diego, requires all students to learn about climate change, while other schools have added environmental sustainability requirements.",
     "link": "https://grist.org/solutions/climate-change-is-the-new-liberal-arts-colleges-build-environmental-lessons-into-degrees/",
@@ -414,21 +444,9 @@
     "timestamp": "2025-11-05T10:00:00Z"
   },
   {
-    "title": "Trump tariffs showdown reaches the Supreme Court",
-    "description": "The Supreme Court will weigh whether President Donald Trump has the authority to impose sweeping tariffs on imports under a law designed for use during a national emergency.",
-    "link": "https://www.nbcnews.com/politics/supreme-court/trump-tariffs-supreme-court-arguments-rcna241615",
-    "timestamp": "2025-11-05T10:00:00Z"
-  },
-  {
     "title": "What's at stake for the economy as the Supreme Court weighs Trump's tariffs",
     "description": "The Supreme Court weighs the legality of tariffs that have raised costs on clothing, toys, cars, liquor and much more.",
     "link": "https://www.nbcnews.com/business/economy/supreme-court-trump-tariff-arguments-economy-rcna241912",
-    "timestamp": "2025-11-05T10:00:00Z"
-  },
-  {
-    "title": "A One-Woman Stand Against Conspiracists",
-    "description": "YouTuber Natalie Wynn spent a year immersing herself in the conspiracy theories wrecking our politics. Now, she\u2019s sharing what she\u2019s learned.\u00a0\nThe post A One-Woman Stand Against Conspiracists appeared first on Washington Monthly.",
-    "link": "http://washingtonmonthly.com/2025/11/05/natalie-wynn-contrapoints-one-woman-stand-against-conspiracists/",
     "timestamp": "2025-11-05T10:00:00Z"
   },
   {
@@ -514,23 +532,5 @@
     "description": "Iran's Parliament Speaker Mohammad Baqer Qalibaf has declared that the recent 12-day war exposes the United States' enduring hostility, underscoring that while its tactics have evolved, its fundamental goal of opposing a strong and independent Iran remains un\u2026",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/11/iran-251104-presstv02.htm",
     "timestamp": "2025-11-05T09:35:05Z"
-  },
-  {
-    "title": "US, S.Korea nuclear submarine cooperation could disrupt regional strategic balance, trigger tension: expert",
-    "description": "The defense chiefs of South Korea and the US held their annual security talks in Seoul on Tuesday to discuss a range of issues, including progress on building nuclear-powered submarines.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/rok/2025/rok-251104-globaltimes01.htm",
-    "timestamp": "2025-11-05T09:32:20Z"
-  },
-  {
-    "title": "Who is Zohran Mamdani, Newly-Minted New York City Mayor?",
-    "description": "Self-described democratic socialist Zohran Mamdani has won the mayoral election in New York City, defeating independent former Democratic governor Andrew Cuomo, and Republican Curtis Sliwa.",
-    "link": "https://sputnikglobe.com/20251105/who-is-zohran-mamdani-newly-minted-new-york-city-mayor-1123064960.html",
-    "timestamp": "2025-11-05T09:23:00Z"
-  },
-  {
-    "title": "White House says Trump\u2019s pardon of CZ was reviewed with \u2018utmost seriousness\u2019",
-    "description": "U.S. President Donald Trump said in an interview over the weekend that he had no idea who Zhao was.",
-    "link": "https://biztoc.com/x/324e41a97eb82a4e",
-    "timestamp": "2025-11-05T09:21:53Z"
   }
 ]
