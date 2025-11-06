@@ -1,5 +1,17 @@
 [
   {
+    "title": "India and Israel sign defense deal",
+    "description": "The Indian and Israeli militaries have agreed to promote co-development and co-production of weapons Read Full Article at RT.com",
+    "link": "https://www.rt.com/india/627357-india-and-israel-sign-defense/",
+    "timestamp": "2025-11-05T10:40:13Z"
+  },
+  {
+    "title": "Tech Billionaire Marc Andreessen Bet Big on Trump. It\u2019s Paying Off for Silicon Valley.",
+    "description": "The Trump administration\u2019s gutting of the Consumer Financial Protection Bureau has been good for venture capitalists like Andreessen, who previously accused the agency of \u201cterrorizing\u201d fintech startups and crypto companies.",
+    "link": "http://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley",
+    "timestamp": "2025-11-05T10:30:00Z"
+  },
+  {
     "title": "At day 36, the government shutdown is the longest in US history",
     "description": "At day 36 of the government shutdown, Americans are seeing disruptions at airports, Head Start childcare centers, national parks, and more.",
     "link": "https://www.businessinsider.com/longest-government-shutdown-ever-impact-on-airports-snap-workforce-2025-11",
@@ -550,23 +562,5 @@
     "description": "China has ordered state-funded data centres to use only locally made AI chips, forcing those under 30% complete to remove foreign processors like Nvidia\u2019s. The move boosts domestic firms such as Huawei but threatens foreign chipmakers\u2019 revenues, underscoring \u2026",
     "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-bans-foreign-ai-chips-from-state-funded-data-centres/articleshow/125104760.cms",
     "timestamp": "2025-11-05T08:09:21Z"
-  },
-  {
-    "title": "ChatGPT nickname and Trump tariffs nominated for Japan\u2019s buzzword of 2025",
-    "description": "Words and phrases related to the election of Japan\u2019s first female prime minister and the country\u2019s bear problem also made the list of nominations.",
-    "link": "https://www.japantimes.co.jp/news/2025/11/05/japan/society/buzzword-nominees/",
-    "timestamp": "2025-11-05T08:09:00Z"
-  },
-  {
-    "title": "Exclusive-China bans foreign AI chips from state-funded data centres, sources say",
-    "description": "(Reuters) -The Chinese government has issued guidance requiring new data centre projects that have received any state funds to only use domestically-made...",
-    "link": "https://ca.news.yahoo.com/exclusive-china-bans-foreign-ai-080808534.html",
-    "timestamp": "2025-11-05T08:08:08Z"
-  },
-  {
-    "title": "China bans foreign AI chips from state-funded data centers, sources say",
-    "description": "The latest move by Beijing would dash Nvidia's hopes of regaining Chinese market share.",
-    "link": "https://finance.yahoo.com/news/exclusive-china-bans-foreign-ai-080808297.html",
-    "timestamp": "2025-11-05T08:08:08Z"
   }
 ]
