@@ -30,15 +30,15 @@
     "timestamp": "2025-11-08T11:00:02Z"
   },
   {
-    "title": "The sandwich thrower was wrong. But Jeanine Pirro was, too.",
-    "description": "U.S. Attorney Jeanine Pirro should have known not to file assault charges against Sean Dunn, who threw a sandwich at a Customs and Border Protection agent.",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/jeanine-pirros-case-dc-sandwich-thrower-was-downright-lawless-rcna242612",
-    "timestamp": "2025-11-08T11:00:00Z"
-  },
-  {
     "title": "Trump pardons former Tennessee House speaker and aide, convicted of fraud",
     "description": "Donald Trump issued more pardons this week for criminally corrupt former government officials",
     "link": "https://www.msnbc.com/top-stories/latest/trump-pardons-tennessee-house-speaker-glen-casada-cothren-rcna242644",
+    "timestamp": "2025-11-08T11:00:00Z"
+  },
+  {
+    "title": "The sandwich thrower was wrong. But Jeanine Pirro was, too.",
+    "description": "U.S. Attorney Jeanine Pirro should have known not to file assault charges against Sean Dunn, who threw a sandwich at a Customs and Border Protection agent.",
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/jeanine-pirros-case-dc-sandwich-thrower-was-downright-lawless-rcna242612",
     "timestamp": "2025-11-08T11:00:00Z"
   },
   {
@@ -82,6 +82,12 @@
     "description": "US Trade Representative Jamieson Greer held a video call with top Swiss officials following this week\u2019s diplomatic mission to the White House from captains of Swiss industry, as the country looks to negotiate a reduction in the punishing 39% tariff the US has\u2026",
     "link": "https://financialpost.com/pmn/business-pmn/ustr-greer-talks-trade-with-swiss-as-swatch-ceo-blasts-approach",
     "timestamp": "2025-11-08T10:19:57Z"
+  },
+  {
+    "title": "Trump-Backed American Bitcoin Expands Holdings to 4,004 BTC Worth $415M",
+    "description": "American Bitcoin (ABTC), the Nasdaq-listed Bitcoin treasury and mining firm backed by Eric Trump and Donald Trump Jr., has grown its Bitcoin holdings to...",
+    "link": "https://cryptonews.com/news/trump-backed-american-bitcoin-expands-holdings-to-4004-btc-worth-415m/",
+    "timestamp": "2025-11-08T10:19:52Z"
   },
   {
     "title": "Darryl Strawberry pardoned: 3 decades after conviction",
@@ -492,15 +498,15 @@
     "timestamp": "2025-11-08T06:00:01Z"
   },
   {
-    "title": "Trump administration touts border security triumph: Six months of zero migrant releases and record low apprehensions",
-    "description": "The second Trump administration has achieved six consecutive months with zero migrant releases into the U.S. interior, marking an unprecedented enforcement record. In October 2025, migrant apprehensions nationwide plummeted to 30,561 \u2013 a 79 percent decrease f\u2026",
-    "link": "https://www.naturalnews.com/2025-11-08-second-trump-admin-touts-border-security-triumph.html",
-    "timestamp": "2025-11-08T06:00:00Z"
-  },
-  {
     "title": "Japan and U.S. forge rare earth alliance to break China\u2019s stranglehold on critical minerals",
     "description": "Japan and the U.S. have partnered to mine vast underwater rare earth deposits near Minamitorishima Island, challenging China\u2019s near-monopoly on these critical minerals, essential for technology and military hardware. The seabed mud contains an estimated 16 mi\u2026",
     "link": "https://www.naturalnews.com/2025-11-08-japan-united-states-forge-rare-earth-alliance.html",
+    "timestamp": "2025-11-08T06:00:00Z"
+  },
+  {
+    "title": "Trump administration touts border security triumph: Six months of zero migrant releases and record low apprehensions",
+    "description": "The second Trump administration has achieved six consecutive months with zero migrant releases into the U.S. interior, marking an unprecedented enforcement record. In October 2025, migrant apprehensions nationwide plummeted to 30,561 \u2013 a 79 percent decrease f\u2026",
+    "link": "https://www.naturalnews.com/2025-11-08-second-trump-admin-touts-border-security-triumph.html",
     "timestamp": "2025-11-08T06:00:00Z"
   },
   {
@@ -538,23 +544,5 @@
     "description": "Former President Joe Biden delivered a strong critique of his successor Friday, arguing to a room of supporters that President Donald Trump has \u201ctaken a wrecking ball\u201d to democracy.",
     "link": "https://www.cnn.com/2025/11/08/politics/biden-democracy-wrecking-ball-trump",
     "timestamp": "2025-11-08T05:28:13Z"
-  },
-  {
-    "title": "Voters\u2019 anger over high electricity bills and data centers loom over 2026 midterms",
-    "description": "Voter anger over rising electricity costs is shaping next year's midterm elections",
-    "link": "https://abcnews.go.com/US/wireStory/voters-anger-high-electricity-bills-data-centers-loom-127325979",
-    "timestamp": "2025-11-08T05:25:30Z"
-  },
-  {
-    "title": "US Senators to work through the weekend on shutdown as Republicans and Democrats are still far apart",
-    "description": "US Senators are working through the weekend to end a month-long government shutdown. Bipartisan talks are ongoing, with moderate Democrats proposing a deal to reopen the government in exchange for a future vote on healthcare. Republicans have rejected an offe\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-senators-to-work-through-the-weekend-on-shutdown-as-republicans-and-democrats-are-still-far-apart/articleshow/125178939.cms",
-    "timestamp": "2025-11-08T05:22:41Z"
-  },
-  {
-    "title": "Senators to work through the weekend on shutdown as Republicans and Democrats are still far apart",
-    "description": "Senators are working through the weekend for the first time since the government shutdown began more than a month ago, hoping to find bipartisan resolution that has so far eluded them as government workers have gone unpaid, airlines have been forced to...",
-    "link": "https://abcnews.go.com/US/wireStory/senators-work-weekend-shutdown-republicans-democrats-apart-127325939",
-    "timestamp": "2025-11-08T05:10:12Z"
   }
 ]
