@@ -1,5 +1,47 @@
 [
   {
+    "title": "BBC chief Tim Davie resigns, expected to apologise amid controversy over edited Donald Trump speech",
+    "description": "BBC chairman Samir Shah is expected to apologise for the way a speech by Donald Trump was edited for Panorama after several days of pressure on the broadcaster prompted the resignation of director-general Tim Davie.",
+    "link": "https://www.independent.ie/world-news/britain/bbc-chief-tim-davie-resigns-expected-to-apologise-amid-controversy-over-edited-donald-trump-speech/a682435296.html",
+    "timestamp": "2025-11-10T06:50:00Z"
+  },
+  {
+    "title": "Will the director general\u2019s resignation be enough to restore public trust in the BBC?",
+    "description": "Tim Davie stepped down amid controversy over editing of Donald Trump speech to make it look like he had explicitly encouraged Capitol riots",
+    "link": "https://www.irishtimes.com/world/uk/2025/11/10/will-the-director-generals-resignation-be-enough-to-restore-public-trust-in-the-bbc/",
+    "timestamp": "2025-11-10T06:47:44Z"
+  },
+  {
+    "title": "China lifts sanctions on US units of South Korea ship giant Hanwha",
+    "description": "China said Monday it would suspend sanctions against U.S. subsidiaries of Hanwha Ocean, one of South Korea's largest shipbuilders, as a fragile trade truce between Washington and Beijing continued to take shape.",
+    "link": "https://www.hurriyetdailynews.com/china-lifts-sanctions-on-us-units-of-south-korea-ship-giant-hanwha-215557",
+    "timestamp": "2025-11-10T06:45:50Z"
+  },
+  {
+    "title": "Not Just Immigration Raids: Latino Workers Are Suffering from GOP Tax Policy as Well",
+    "description": "Because of historic discrimination and language barriers, Latino workers are more heavily represented in certain industries than in others. Those industries \u2014 which include construction, healthcare and hospitality \u2014\u00a0are also ones that have seen a dramatic slu\u2026",
+    "link": "https://www.counterpunch.org/2025/11/10/not-just-immigration-raids-latino-workers-are-suffering-from-gop-tax-policy-as-well/",
+    "timestamp": "2025-11-10T06:40:10Z"
+  },
+  {
+    "title": "Full Rosters Announced for \"Optum Golf Channel Games\" - Live Primetime Competition Featuring Rory McIlroy and Scottie Scheffler on Golf Channel and USA Network December 17",
+    "description": "Team Rory will include Shane Lowry, Luke Donald, and Haotong Li; and Team Scottie will feature Keegan Bradley, Sam Burns, and Luke Clanton.",
+    "link": "http://www.thefutoncritic.com/news/2025/11/10/full-rosters-announced-for-optum-golf-channel-games-live-primetime-competition-featuring-rory-mcilroy-and-scottie-scheffler-on-golf-channel-and-usa-network-december-17-17214/20251110golf01/",
+    "timestamp": "2025-11-10T06:40:00Z"
+  },
+  {
+    "title": "Three takeaways from the US shutdown deal",
+    "description": "The longest shutdown in US history appears to be drawing to a close, leaving Democrats divided and Trump's hard line paying off.",
+    "link": "https://www.bbc.com/news/articles/ce9dpyevx3jo",
+    "timestamp": "2025-11-10T06:36:38Z"
+  },
+  {
+    "title": "China Lifts Chip Export Curbs",
+    "description": "China Relaxes Chip Export Controls, Boosting Automotive Industry Great news for the automotive industry! China\u2019s Ministry of Commerce announced on Sunday that it\u2019s exempting Nexperia chips from export controls for civilian use. This move is expected to allevi\u2026",
+    "link": "https://nep123.com/china-lifts-chip-export-curbs/",
+    "timestamp": "2025-11-10T06:33:07Z"
+  },
+  {
     "title": "Hungary Gets US Exemption for Russian Oil",
     "description": "President Trump granted Hungary an exemption from sanctions on purchases of Russian oil, providing a major win for Prime Minister Orban.",
     "link": "https://www.rigzone.com/news/wire/hungary_gets_us_exemption_for_russian_oil-10-nov-2025-182276-article/",
@@ -162,15 +204,15 @@
     "timestamp": "2025-11-10T06:00:00Z"
   },
   {
-    "title": "Gunfire erupts in Chicago: Border agents targeted after activist\u2019s threats",
-    "description": "A suspect fired shots at U.S. Border Patrol agents during an enforcement operation in Chicago\u2019s Little Village neighborhood. The shooter, driving a black Jeep, escaped unharmed, but the incident highlights escalating dangers for law enforcement. A Latin Kings\u2026",
-    "link": "https://www.naturalnews.com/2025-11-10-chicago-border-agents-targeted-after-activists-threats.html",
-    "timestamp": "2025-11-10T06:00:00Z"
-  },
-  {
     "title": "U.S.-Russia energy talks intensify: Hungary exempted from U.S. sanctions on Russian energy for one year",
     "description": "The U.S. granted Hungary a one-year exemption from sanctions on Russian oil and gas, allowing continued imports despite Western restrictions. The decision followed discussions between Hungarian PM Viktor Orb\u00e1n and U.S. President Donald Trump, who supports ene\u2026",
     "link": "https://www.naturalnews.com/2025-11-10-hungary-granted-sanctions-exemption-for-russian-oil.html",
+    "timestamp": "2025-11-10T06:00:00Z"
+  },
+  {
+    "title": "Gunfire erupts in Chicago: Border agents targeted after activist\u2019s threats",
+    "description": "A suspect fired shots at U.S. Border Patrol agents during an enforcement operation in Chicago\u2019s Little Village neighborhood. The shooter, driving a black Jeep, escaped unharmed, but the incident highlights escalating dangers for law enforcement. A Latin Kings\u2026",
+    "link": "https://www.naturalnews.com/2025-11-10-chicago-border-agents-targeted-after-activists-threats.html",
     "timestamp": "2025-11-10T06:00:00Z"
   },
   {
@@ -520,41 +562,5 @@
     "description": "Pennsylvania Governor Josh Shapiro's success highlights a potential strategy for Democrats. His focus on effective governance and delivering results, even in challenging areas, offers a model for the party. Shapiro's ability to forge compromises and make gove\u2026",
     "link": "https://economictimes.indiatimes.com/news/international/global-trends/zohran-mamdani-isnt-the-future-of-the-democrats-this-guy-is-/articleshow/125213832.cms",
     "timestamp": "2025-11-10T03:56:03Z"
-  },
-  {
-    "title": "China grants exemptions to export curbs on Nexperia chips for civilian use",
-    "description": "China's commerce ministry has repeatedly said it was protecting global chip supply chains while the Netherlands was failing to take action to resolve the dispute.",
-    "link": "https://indianexpress.com/article/technology/tech-news-technology/china-grants-exemptions-to-export-curbs-on-nexperia-chips-for-civilian-use-10356281/",
-    "timestamp": "2025-11-10T03:55:46Z"
-  },
-  {
-    "title": "Acetaminophen use during pregnancy not clearly linked to autism, ADHD, review finds",
-    "description": "Taking acetaminophen during pregnancy is not clearly linked to autism or attention-deficit/hyperactivity disorder (ADHD) in children, a new analysis finds.",
-    "link": "https://abcnews.go.com/Health/acetaminophen-pregnancy-linked-autism-adhd-review/story?id=127303300",
-    "timestamp": "2025-11-10T03:55:04Z"
-  },
-  {
-    "title": "Rundown: Kevin Roberts of 'Heritage Foundation' on Tucker Carlson-Nick Fuentes Scandal (Oct/27-Nov/8)",
-    "description": "Kevin Roberts of 'Heritage Foundation' on Tucker Carlson-Nick Fuentes ScandalComplete Summary \u2013 October 27 to November 9, 2025Overview of the ScandalThe controversy began after Tucker Carlson interviewed white nationalist and Holocaust denier Nick Fuentes on \u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4351707/posts",
-    "timestamp": "2025-11-10T03:53:26Z"
-  },
-  {
-    "title": "US official: Iran still funnels billions to Hezbollah despite sanctions",
-    "description": "US sanctions chief says Iran sent $1B to Hezbollah this year, notes Washington sees a chance to cut funding and push disarmament of Hezobllah.",
-    "link": "https://www.israelnationalnews.com/news/417543",
-    "timestamp": "2025-11-10T03:52:18Z"
-  },
-  {
-    "title": "Senate Democrats cave, open path to reopening government",
-    "description": "The government shutdown neared its end on Sunday as the Senate cleared the first series of votes, with final House approval and President Donald Trump's signature still required.",
-    "link": "https://www.foxnews.com/politics/senate-democrats-cave-open-path-reopening-government",
-    "timestamp": "2025-11-10T03:51:33Z"
-  },
-  {
-    "title": "Exclusive -- Persecution Expert: Nigerian Christians Face Average of 8 Violent Attacks a Day",
-    "description": "Violent attacks targeting Christian communities occur in Nigeria about eight times a day on average and the government has been \"largely ineffective\" at stopping them, Ryan Brown, the CEO of the Christian aid organization Open Doors, told Breitbart News.\nThe \u2026",
-    "link": "https://www.breitbart.com/africa/2025/11/09/exclusive-persecution-expert-nigerian-christians-face-average-of-8-violent-attacks-a-day/",
-    "timestamp": "2025-11-10T03:45:16Z"
   }
 ]
