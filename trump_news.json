@@ -1,5 +1,29 @@
 [
   {
+    "title": "Today in Germany: A roundup of the latest news on Thursday",
+    "description": "German leaders agree on plan for compulsory military service law, experts criticise government use of 'special' funds, the 'Christkind' post office opens for Christmas letters and more news on Thursday, November 13th.",
+    "link": "https://www.thelocal.de/20251113/today-in-germany-a-roundup-of-the-latest-news-on-thursday-95",
+    "timestamp": "2025-11-13T07:36:31Z"
+  },
+  {
+    "title": "Asian shares mostly higher after Trump signs bill ending U.S. government shutdown",
+    "description": "Asian shares mostly gained on Thursday after U.S. stocks settled near their records and U.S. President Donald Trump signed a government funding bill, ending the record 43-day shutdown. U.S. futures edged higher with the prospect of a reopening of the federal \u2026",
+    "link": "https://japantoday.com/category/business/asian-shares-are-mixed-after-wall-street-drifted-around-its-records",
+    "timestamp": "2025-11-13T07:36:16Z"
+  },
+  {
+    "title": "Michelle Obama Says Presidents Must Uphold 'A Standard' On Gifts, Not Allow Wealthy Donors 'Different Level' Of Access",
+    "description": "Former First Lady Michelle Obama reportedly appeared to criticize President Donald Trump for accepting extravagant gifts, without explicitly mentioning his name.\nMichelle Obama Calls For Boundaries\nObama, while speaking at the Sixth and I Synagogue and Arts C\u2026",
+    "link": "https://biztoc.com/x/a54a4c915f599dc0",
+    "timestamp": "2025-11-13T07:34:58Z"
+  },
+  {
+    "title": "Tom Ferguson and Nick French: Red Tech\u2019s Political Power, Its War on Labor and the Environment",
+    "description": "An in-depth talk between political scientist Tom Ferguson and Jacobin's Nick French about recent big shifts, above all the rise of red tech.",
+    "link": "https://www.nakedcapitalism.com/2025/11/tom-ferguson-and-nick-french-red-techs-political-power-its-war-on-labor-and-the-environment.html",
+    "timestamp": "2025-11-13T07:32:56Z"
+  },
+  {
     "title": "Japan's Nikkei rises as US government shutdown ends, Topix posts record high",
     "description": "Japan's Nikkei edged higher as the U.S. government shutdown ended, while the Topix index hit a record high driven by value-buying. Advantest led gains, with fibre optic makers also advancing. Bank shares rose, mirroring a trend of investors shifting to broade\u2026",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-rises-as-us-government-shutdown-ends-topix-posts-record-high/articleshow/125293673.cms",
@@ -138,15 +162,15 @@
     "timestamp": "2025-11-13T06:00:01Z"
   },
   {
-    "title": "Federal appeals court strikes down Ohio school district\u2019s \u201cpreferred pronouns\u201d rule",
-    "description": "The Sixth Circuit Court of Appeals unanimously ruled that Ohio\u2019s Olentangy Local School District cannot force students or staff to use transgender classmates\u2019 preferred pronouns, declaring such mandates unconstitutional \u201cviewpoint discrimination.\u201d The court e\u2026",
-    "link": "https://www.naturalnews.com/2025-11-13-court-rejects-ohio-school-district-pronouns-rule.html",
-    "timestamp": "2025-11-13T06:00:00Z"
-  },
-  {
     "title": "DOGE uncovers $1.4B in wasteful contracts as government fraud crackdown intensifies",
     "description": "DOGE terminated 67 federal contracts worth $1.4billion, saving taxpayers $648 million in just five days. Targets included wasteful spending, like a $54,000 State Department coaching course and a $1.3 million Botswana education contract. The initiative exposed\u2026",
     "link": "https://www.naturalnews.com/2025-11-13-doge-uncovers-wasteful-contracts-government-fraud-crackdown.html",
+    "timestamp": "2025-11-13T06:00:00Z"
+  },
+  {
+    "title": "Federal appeals court strikes down Ohio school district\u2019s \u201cpreferred pronouns\u201d rule",
+    "description": "The Sixth Circuit Court of Appeals unanimously ruled that Ohio\u2019s Olentangy Local School District cannot force students or staff to use transgender classmates\u2019 preferred pronouns, declaring such mandates unconstitutional \u201cviewpoint discrimination.\u201d The court e\u2026",
+    "link": "https://www.naturalnews.com/2025-11-13-court-rejects-ohio-school-district-pronouns-rule.html",
     "timestamp": "2025-11-13T06:00:00Z"
   },
   {
@@ -156,15 +180,15 @@
     "timestamp": "2025-11-13T06:00:00Z"
   },
   {
-    "title": "Supply chain warfare: China blocks rare earth exports to American military suppliers",
-    "description": "China is implementing a\u00a0\u201cvalidated end-user\u201d (VEU) system, fast-tracking rare earth exports to civilian firms while blocking military-linked suppliers, undermining U.S. defense readiness without openly violating trade agreements. Controlling\u00a070 percent of glo\u2026",
-    "link": "https://www.naturalnews.com/2025-11-13-china-blocks-rare-earth-exports-us-military-suppliers.html",
-    "timestamp": "2025-11-13T06:00:00Z"
-  },
-  {
     "title": "U.S. extends suspension of sanctions against Syria amid White House talks",
     "description": "The U.S. has extended the suspension of sanctions under the Caesar Syria Civilian Protection Act for another 180 days while simultaneously allowing certain transactions involving Syria to move forward. The waiver enables U.S.-origin civilian goods, software a\u2026",
     "link": "https://www.naturalnews.com/2025-11-13-us-extend-sanctions-suspension-syria-white-house.html",
+    "timestamp": "2025-11-13T06:00:00Z"
+  },
+  {
+    "title": "Supply chain warfare: China blocks rare earth exports to American military suppliers",
+    "description": "China is implementing a\u00a0\u201cvalidated end-user\u201d (VEU) system, fast-tracking rare earth exports to civilian firms while blocking military-linked suppliers, undermining U.S. defense readiness without openly violating trade agreements. Controlling\u00a070 percent of glo\u2026",
+    "link": "https://www.naturalnews.com/2025-11-13-china-blocks-rare-earth-exports-us-military-suppliers.html",
     "timestamp": "2025-11-13T06:00:00Z"
   },
   {
@@ -556,23 +580,5 @@
     "description": "The longest government shutdown in U.S. history has come to an end. In the late hours of the night on Wednesday (November 11), President Donald Trump signed a funding bill that will reopen the government after a 43 day shutdown, the longest in the history of \u2026",
     "link": "https://www.justjared.com/2025/11/12/trump-signs-bill-to-end-longest-government-shutdown-in-u-s-history/",
     "timestamp": "2025-11-13T04:11:51Z"
-  },
-  {
-    "title": "On four fronts, Trump toils to turn vague plans into a workable Middle East peace",
-    "description": "The key question now is how far the Trump administration will go - and whether this entire process of regional realignment will ultimately produce a security arrangement between Israel and Syria",
-    "link": "https://www.haaretz.com/middle-east-news/2025-11-13/ty-article/.premium/on-four-fronts-trump-toils-to-turn-vague-plans-into-a-workable-middle-east-peace/0000019a-79db-d6d8-af9b-7fdf21a50000",
-    "timestamp": "2025-11-13T04:10:48Z"
-  },
-  {
-    "title": "Trump Refuses To Take Questions as Reporter Asks, \u2018Can You Respond to These Epstein Emails?\u2019",
-    "description": "President Donald Trump uncharacteristically did not take questions after signing a bill ending the government shutdown on Wednesday night.\nThe post Trump Refuses To Take Questions as Reporter Asks, \u2018Can You Respond to These Epstein Emails?\u2019 first appeared on \u2026",
-    "link": "https://www.mediaite.com/media/tv/trump-refuses-to-take-questions-as-reporter-asks-can-you-respond-to-these-epstein-emails/",
-    "timestamp": "2025-11-13T04:05:10Z"
-  },
-  {
-    "title": "Megyn Kelly Knocks Trump Administration After Epstein Bombshell: 'Self-Inflicted Wound'",
-    "description": "The former Fox News host argued that Democrats \"could easily make some hay\" with the released emails.",
-    "link": "https://www.huffpost.com/entry/megyn-kelly-trump-jeffrey-epstein-files-emails_n_691532c4e4b0295c356a5dd8",
-    "timestamp": "2025-11-13T04:03:56Z"
   }
 ]
