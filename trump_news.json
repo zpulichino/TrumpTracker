@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fake News! Another BBC Programme Caught Editing Trump Speech",
+    "description": "A second BBC programme has been found to have materially edited a speech from U.S. President Donald Trump to give the false impression that he encouraged violence before the January 6th riots in 2021.\nThe post Fake News! Another BBC Programme Caught Editing T\u2026",
+    "link": "https://www.breitbart.com/europe/2025/11/14/fake-news-another-bbc-programme-caught-editing-trump-speech/",
+    "timestamp": "2025-11-14T09:48:53Z"
+  },
+  {
+    "title": "Karen Tumulty: Trump on edge as MAGA refuses to turn a blind eye to Epstein scandal",
+    "description": "The \u201cMake America Great Again\u201d base has had no trouble looking the other way when it comes to Donald Trump\u2019s trampling of norms and ethical standards: the coarseness; the indictments; the retribution against his enemies; the self-enrichment while in office; t\u2026",
+    "link": "https://www.independent.ie/opinion/comment/karen-tumulty-trump-on-edge-as-maga-refuses-to-turn-a-blind-eye-to-epstein-scandal/a13144001.html",
+    "timestamp": "2025-11-14T09:47:56Z"
+  },
+  {
     "title": "UK Broadcasting Union Urges Government To Remove Controversial BBC Board Member Robbie Gibb: \u201cA Distraction And Untenable\u201d",
     "description": "The broadcasting union representing thousands of BBC Staff and freelancers has publicly called for the removal of controversial board member Robbie Gibb, who it said is \u201cactively part of a campaign to undermine the BBC and influence its political impartiality\u2026",
     "link": "http://deadline.com/2025/11/robbie-gibb-bbc-remove-bectu-letter-lisa-nandy-1236617319/",
@@ -18,27 +30,27 @@
     "timestamp": "2025-11-14T09:24:12Z"
   },
   {
-    "title": "Shoigu on New START: Not Much Time Left to Preserve One of Foundations of Stability",
-    "description": "There is not much time left to preserve one of the key foundations of global stability, Russian Security Council Secretary Sergei Shoigu said in an interview with Sputnik.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/11/russia-251113-sputnik01.htm",
-    "timestamp": "2025-11-14T09:24:12Z"
-  },
-  {
     "title": "US sanctions 32 figures, entities for alleged links to Iran missile, drone activities",
     "description": "The United States has imposed sanctions on 32 entities and individuals in different countries for allegedly supporting Iran's peaceful missile and drone programs.",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/11/iran-251113-presstv04.htm",
     "timestamp": "2025-11-14T09:24:12Z"
   },
   {
-    "title": "Israel pushes for 20-year US military aid pact",
-    "description": "Israel is pushing for a 20-year military aid agreement with the United States, seeking to double the typical duration of such bilateral arrangements, Israeli and US officials have said.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/israel/2025/11/israel-251113-presstv01.htm",
-    "timestamp": "2025-11-14T09:23:03Z"
+    "title": "Shoigu on New START: Not Much Time Left to Preserve One of Foundations of Stability",
+    "description": "There is not much time left to preserve one of the key foundations of global stability, Russian Security Council Secretary Sergei Shoigu said in an interview with Sputnik.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/11/russia-251113-sputnik01.htm",
+    "timestamp": "2025-11-14T09:24:12Z"
   },
   {
     "title": "US Military Shielded From Legal Liability for Attacks on Boats in Caribbean Sea",
     "description": "The US Justice Department's Office of Legal Counsel issued a classified opinion stating that US military personnel involved in attacks on boats in the Caribbean Sea will not face legal liability in the future, the Washington Post reported, citing people famil\u2026",
     "link": "https://www.globalsecurity.org/military/library/news/2025/11/mil-251113-sputnik02.htm",
+    "timestamp": "2025-11-14T09:23:03Z"
+  },
+  {
+    "title": "Israel pushes for 20-year US military aid pact",
+    "description": "Israel is pushing for a 20-year military aid agreement with the United States, seeking to double the typical duration of such bilateral arrangements, Israeli and US officials have said.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/israel/2025/11/israel-251113-presstv01.htm",
     "timestamp": "2025-11-14T09:23:03Z"
   },
   {
@@ -486,15 +498,15 @@
     "timestamp": "2025-11-14T06:00:00Z"
   },
   {
-    "title": "U.S. Navy deploys massive carrier strike group near Venezuela amid escalating drug war tensions",
-    "description": "The U.S. Navy has deployed the\u00a0USS Gerald R. Ford aircraft carrier strike group, the largest military presence in the region since the 1989 Panama invasion, under the pretext of\u00a0counter-narcotics operations. However, analysts suggest this also signals\u00a0regime \u2026",
-    "link": "https://www.naturalnews.com/2025-11-14-us-navy-carrier-strike-group-venezuela-drug-war.html",
-    "timestamp": "2025-11-14T06:00:00Z"
-  },
-  {
     "title": "UAE and U.S. forge AI-powered drone alliance amid growing military tech race with Iran and China",
     "description": "Anduril Industries (U.S.) and EDGE Group (UAE) formed a joint venture to develop AI-powered autonomous drones in Abu Dhabi. This strengthens military-tech collaboration amid rising threats from Iran and China, while expanding UAE-Israel ties under the Abraham\u2026",
     "link": "https://www.naturalnews.com/2025-11-14-uae-us-forge-ai-powered-drone-alliance.html",
+    "timestamp": "2025-11-14T06:00:00Z"
+  },
+  {
+    "title": "U.S. Navy deploys massive carrier strike group near Venezuela amid escalating drug war tensions",
+    "description": "The U.S. Navy has deployed the\u00a0USS Gerald R. Ford aircraft carrier strike group, the largest military presence in the region since the 1989 Panama invasion, under the pretext of\u00a0counter-narcotics operations. However, analysts suggest this also signals\u00a0regime \u2026",
+    "link": "https://www.naturalnews.com/2025-11-14-us-navy-carrier-strike-group-venezuela-drug-war.html",
     "timestamp": "2025-11-14T06:00:00Z"
   },
   {
@@ -556,17 +568,5 @@
     "description": "Photos and video of immigrants in custody have been a hallmark of President Donald Trump\u2019s administration, and illustrate his agenda to crack down on immigration",
     "link": "https://abcnews.go.com/US/wireStory/detainees-prisoners-photo-props-long-history-american-politics-127514039",
     "timestamp": "2025-11-14T05:25:27Z"
-  },
-  {
-    "title": "One dead in 'massive' Russian attack on Kyiv - mayor",
-    "description": "A Russian attack on the Ukrainian capital has killed one person and wounded at least 15, emergency services have said.",
-    "link": "https://www.rte.ie/news/ukraine/2025/1114/1543900-ukraine-russia/",
-    "timestamp": "2025-11-14T05:17:54Z"
-  },
-  {
-    "title": "Economic impact of 43-Day US shutdown likely limited: Santosh Rao",
-    "description": "A recent US government shutdown has sparked debate on its impact on America's global standing and trade relations with India. Market expert Santosh Rao suggests the political narrative remains divided, with uncertainty clouding trade talks. While the shutdown\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/expert-view/economic-impact-of-43-day-us-shutdown-likely-limited-santosh-rao/articleshow/125317627.cms",
-    "timestamp": "2025-11-14T05:16:31Z"
   }
 ]
