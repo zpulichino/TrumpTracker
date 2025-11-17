@@ -1,5 +1,71 @@
 [
   {
+    "title": "Google plans $40 billion Texas data center investment amid AI boom",
+    "description": "The company will also invest in its existing Midlothian campus and Dallas cloud region, part of its global network of 42 cloud regions.",
+    "link": "https://indianexpress.com/article/technology/artificial-intelligence/google-plans-40-billion-texas-data-center-investment-amid-ai-boom-10368636/",
+    "timestamp": "2025-11-16T04:51:09Z"
+  },
+  {
+    "title": "Trump withdraws endorsement, blasts Marjorie Taylor Greene as 'traitor'",
+    "description": "Trump withdraws his endorsement of Rep. Marjorie Taylor Greene amid an ongoing dispute between the two, which escalated after she pushed for Epstein file releases and criticized his agenda.",
+    "link": "https://www.israelnationalnews.com/news/417831",
+    "timestamp": "2025-11-16T04:49:06Z"
+  },
+  {
+    "title": "US Lowering Airline Flight Cuts Down to 3% From 6%",
+    "description": "The US government lowered the percentage of flights airlines must cut across 40 major airports, easing the burden on carriers recovering from the chaos of the government shutdown as they head into the weekend.",
+    "link": "https://www.ndtvprofit.com/business/us-lowering-airline-flight-cuts-down-to-3-from-6",
+    "timestamp": "2025-11-16T04:48:31Z"
+  },
+  {
+    "title": "The World Ahead 2026: Military competition in space will intensify",
+    "description": "AMERICAN GENERALS once spoke in euphemisms about the possibility of fighting a war in space, preferring to talk about space \u201cdominance\u201d rather than the grim prospect of shattering satellites in orbit. Now they speak openly about the need to launch weapons fro\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4352768/posts",
+    "timestamp": "2025-11-16T04:47:47Z"
+  },
+  {
+    "title": "US to hold new military exercises with Trinidad and Tobago",
+    "description": "Port Of Spain (AFP) Nov 14, 2025\n\n\n Trinidad and Tobago on Friday announced a new round of military exercises with the United States, which has ramped up what it calls anti-drug operations in the Caribbean - angering nearby Venezuela. \n\nLast month, a US guide\u2026",
+    "link": "https://www.spacewar.com/reports/US_to_hold_new_military_exercises_with_Trinidad_and_Tobago_999.html",
+    "timestamp": "2025-11-16T04:47:14Z"
+  },
+  {
+    "title": "US Drug Raids: No Prosecution for Military, Six Minors Killed in Colombia, Smuggling Boat Stopped",
+    "description": "Washington (AFP) Nov 16, 2025\n\n The US Justice Department on Wednesday defended lethal military strikes on suspected drug traffickers, brushing aside charges they may amount to extrajudicial killings that merit legal prosecution. \n\n\"The strikes were ordered c\u2026",
+    "link": "https://www.terradaily.com/reports/US_military_personnel_do_not_risk_prosecution_for_drug_strikes_Justice_Dept_999.html",
+    "timestamp": "2025-11-16T04:47:14Z"
+  },
+  {
+    "title": "UN Security Council to vote Monday on Trump Gaza plan",
+    "description": "United Nations, United States (AFP) Nov 15, 2025\n\n\n The UN Security Council will vote Monday on a resolution endorsing US President Donald Trump's Gaza peace plan, diplomats said. \n\nLast week the Americans officially launched negotiations within the 15-member\u2026",
+    "link": "https://www.spacewar.com/reports/UN_Security_Council_to_vote_Monday_on_Trump_Gaza_plan_999.html",
+    "timestamp": "2025-11-16T04:47:14Z"
+  },
+  {
+    "title": "Alibaba denies report it helps China's military target US",
+    "description": "Beijing (AFP) Nov 15, 2025\n\n\n Chinese tech giant Alibaba denies helping Beijing target the United States, telling AFP on Saturday that a recent media report was \"completely false\". \n\nThe Financial Times reported early Saturday that Alibaba \"provides tech supp\u2026",
+    "link": "https://www.spacewar.com/reports/Alibaba_denies_report_it_helps_Chinas_military_target_US_999.html",
+    "timestamp": "2025-11-16T04:47:14Z"
+  },
+  {
+    "title": "Pakistan's Asim Munir: top soldier with lifetime immunity",
+    "description": "Islamabad, Pakistan (AFP) Nov 15, 2025\n\n Field Marshal Asim Munir has emerged as Pakistan's most powerful military leader, analysts say, after a constitutional amendment expanded his powers and gave him lifelong rank and immunity. \n\nThe amendment enacted Thur\u2026",
+    "link": "https://www.spacewar.com/reports/Pakistans_Asim_Munir_top_soldier_with_lifetime_immunity_999.html",
+    "timestamp": "2025-11-16T04:47:14Z"
+  },
+  {
+    "title": "EU bows to pressure on loosening AI, privacy rules",
+    "description": "Brussels, Belgium (AFP) Nov 15, 2025\n\n\n The European Union is set next week to kickstart a rollback of landmark rules on artificial intelligence and data protection that face powerful pushback on both sides of the Atlantic. \n\nPart of a bid to slash red tape f\u2026",
+    "link": "https://www.spacedaily.com/reports/EU_bows_to_pressure_on_loosening_AI_privacy_rules_999.html",
+    "timestamp": "2025-11-16T04:47:14Z"
+  },
+  {
+    "title": "Tom Standage\u2019s ten trends to watch in 2026",
+    "description": "This is Donald Trump\u2019s world\u2014we\u2019re all just living in it. The disruptor-in-chief was the biggest factor shaping global affairs in 2025, and that will be the case for as long as he remains in the White House. His norm-shattering approach has caused turmoil in \u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4352766/posts",
+    "timestamp": "2025-11-16T04:41:48Z"
+  },
+  {
     "title": "Q2 earnings season comes to an end: 6 factors will decide where Nifty is headed this week",
     "description": "The Nifty is poised for direction as the Q2 earnings season ends. Six key factors will guide its movement this week. These include technical momentum, the mixed performance of Q2 results, FII flows, upcoming macro events, global market sentiment, and a potent\u2026",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-season-comes-to-an-end-6-factors-will-decide-where-nifty-is-headed-this-week/articleshow/125359543.cms",
@@ -502,65 +568,5 @@
     "description": "President Donald Trump issued a new round of attacks against Rep. Thomas Massie (R-KY) on Truth Social on Friday, November 14, continuing the public feud that has widened over Massie\u2019s voting behavior, recent positions on foreign policy, and Trump\u2019s decision \u2026",
     "link": "https://www.breitbart.com/politics/2025/11/15/trump-ramps-up-attacks-on-massie-his-wife-will-soon-find-out-shes-stuck-with-a-loser/",
     "timestamp": "2025-11-15T22:09:57Z"
-  },
-  {
-    "title": "Bihar elections: Unable to explain reasons for defeat, Congress's taken easy way out by blaming EC, SIR, says PM Modi",
-    "description": "India News: NEW DELHI: The BJP on Saturday accused the Congress of insulting the people's mandate and looking for excuses to hide its failure, even as the opposit.",
-    "link": "https://timesofindia.indiatimes.com/india/bihar-elections-unable-to-explain-reasons-for-defeat-congresss-taken-easy-way-out-by-blaming-ec-sir-says-pm-modi/articleshow/125355842.cms",
-    "timestamp": "2025-11-15T22:05:59Z"
-  },
-  {
-    "title": "He was Putin's top ally on the world stage. And then, he was gone",
-    "description": "For more than two decades, Sergey Lavrov has been Russia's top foreign diplomat, representing the Kremlin's regime around the world, but late last month, he disappeared.",
-    "link": "https://www.abc.net.au/news/2025-11-16/mystery-surrounds-missing-russian-foreign-minister-sergey-lavrov/106008516",
-    "timestamp": "2025-11-15T22:03:29Z"
-  },
-  {
-    "title": "EXCLUSIVE INTERVIEW: Trump explains how Charlie Kirk's murder changed his life (Salena Zito/Washington Examiner)",
-    "description": "Salena Zito / Washington Examiner:\nEXCLUSIVE INTERVIEW: Trump explains how Charlie Kirk's murder changed his life\u00a0 \u2014\u00a0 WASHINGTON \u2014 In the final weeks of the 2024 presidential election, President Donald Trump was doing nonstop rallies, many of them outdoors de\u2026",
-    "link": "https://www.memeorandum.com/251115/p51",
-    "timestamp": "2025-11-15T22:00:33Z"
-  },
-  {
-    "title": "MAGA Rift Grows As Trump Feuds With Marjorie Taylor Greene Before Key 2026 Midterm Elections",
-    "description": "On Saturday, Trump tested out a new nickname for her, calling her \u201cMarjorie Taylor Brown\u201d because \u201cGreen grass turns Brown when it begins to ROT!\u201d",
-    "link": "https://www.huffpost.com/entry/maga-rift-grows-as-trump-feuds-with-marjorie-taylor-greene-before-key-2026-midterm-elections_n_6918f410e4b0b43a45c0b5af",
-    "timestamp": "2025-11-15T22:00:08Z"
-  },
-  {
-    "title": "Why Did Kash Patel Exempt Dan Bongino From Clearing Polygraph Exams?",
-    "description": "ProPublica has the scoop on the waiver that allowed Bongino to get his top job without clearing a lie detector test. Two other top employees got similar waivers: Nicole Rucker, Kash Patel\u2019s personal assistant, and Marshal Yates, the FBI liaison with Congress.\u2026",
-    "link": "https://crooksandliars.com/2025/11/why-did-kash-patel-exempt-dan-bongino",
-    "timestamp": "2025-11-15T22:00:01Z"
-  },
-  {
-    "title": "Trump Bets Big on a Nuclear Comeback",
-    "description": "United States President Donald Trump is putting his money where his mouth is as he doubles down on efforts to accelerate the expansion of the country\u2019s nuclear energy sector. The government will spend billions in public funding to reinvigorate U.S. nuclear po\u2026",
-    "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Bets-Big-on-a-Nuclear-Comeback.html",
-    "timestamp": "2025-11-15T22:00:00Z"
-  },
-  {
-    "title": "Texas, California National Guard members to leave Portland and Chicago",
-    "description": "The federalized California and Texas National Guard members sent to Portland and Chicago will return to their home states, according to two U.S. officials.",
-    "link": "https://abcnews.go.com/US/texas-california-national-guard-members-leave-portland-chicago/story?id=127560214",
-    "timestamp": "2025-11-15T21:56:01Z"
-  },
-  {
-    "title": "Trump Shares Ludicrous Epstein Files Conspiracy Theory",
-    "description": "President Donald Trump thinks it\u2019s possible that, some time in the past year or so, his political enemies planted damaging information about him in Jeffrey Epstein case files.Following the latest release of Epstein-related records, Trump on Friday was asked a\u2026",
-    "link": "https://newrepublic.com/post/203258/trump-jeffrey-epstein-files-conspiracy-theory",
-    "timestamp": "2025-11-15T21:47:37Z"
-  },
-  {
-    "title": "Trump Fumes BBC\u2019s Doctored Clip Worse Than \u2018Stupid\u2019 Kamala Harris Interview on \u201960 Minutes\u2019: \u2018I Have an Obligation\u2019 to Sue!",
-    "description": "President Trump\u00a0said he has an \"obligation\" to sue the BBC because its doctored clip was even worse than 60 Minutes editing a \"stupid\" answer Kamala Harris gave\nThe post Trump Fumes BBC\u2019s Doctored Clip Worse Than \u2018Stupid\u2019 Kamala Harris Interview on \u201960 Minute\u2026",
-    "link": "https://www.mediaite.com/politics/trump-fumes-bbcs-doctored-clip-worse-than-stupid-kamala-harris-interview-on-60-minutes-i-have-an-obligation-to-sue/",
-    "timestamp": "2025-11-15T21:47:22Z"
-  },
-  {
-    "title": "The U.S. Might Be About to Enter a New Conflict\u2014but Trump Won\u2019t Say",
-    "description": "After days of deliberations with high-ranking officials, President Donald Trump thinks he may have come to a decision about a major foreign policy issue. He\u2019s not quite sure, though, and he definitely isn\u2019t sharing what his decision might be.\u201cI sort of have m\u2026",
-    "link": "https://newrepublic.com/post/203255/trump-venezuela-maduro-conflict-comments",
-    "timestamp": "2025-11-15T21:46:39Z"
   }
 ]
