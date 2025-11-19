@@ -1,5 +1,41 @@
 [
   {
+    "title": "Satya Nadella relinquishes his role as Microsoft\u2019s communicator-in-chief\u2014right when he\u2019s needed most",
+    "description": "Also: All the news and watercooler chat from Fortune.",
+    "link": "https://fortune.com/2025/11/18/satya-nadella-microsoft-ignite-communicator-in-chief-ai-fears/",
+    "timestamp": "2025-11-18T10:48:55Z"
+  },
+  {
+    "title": "Trump, Saudi Crown Prince Mohammed bin Salman to meet at White House amid diplomatic shifts in region",
+    "description": "Mohammed bin Salman arrives for first Washington visit in seven years as both nations seek upgraded security partnership",
+    "link": "https://www.foxnews.com/world/trump-saudi-crown-prince-mohammed-bin-salman-meet-white-house-amid-diplomatic-shifts-region",
+    "timestamp": "2025-11-18T10:45:41Z"
+  },
+  {
+    "title": "Trump Is Stripping Some Service Members Of Their Retirement Benefits",
+    "description": "The move raises questions about how far the administration will go to reshape the armed forces.",
+    "link": "https://www.huffpost.com/entry/trump-is-stripping-some-service-members-of-their-retirement-benefits_n_691b96a8e4b085766d7e8235",
+    "timestamp": "2025-11-18T10:45:17Z"
+  },
+  {
+    "title": "The Michelin-Star System Is Slowly Taking Over the American Restaurant World. But There\u2019s One City It Should Have Left Alone.",
+    "description": "This ever-expanding pay-to-play scheme needs to stop.",
+    "link": "https://slate.com/life/2025/11/michelin-star-restaurants-boston-philadelphia-reservations.html",
+    "timestamp": "2025-11-18T10:45:00Z"
+  },
+  {
+    "title": "Donald Trump Reacts To Ted Cruz Presidential Run Rumors",
+    "description": "President Donald Trump has reacted to rumors that Texas Senator Ted Cruz is considering a presidential run in the 2028 election.\nAxios reported on Monday that Cruz was laying the groundwork for a future presidential run. But Cruz has not launched a formal bid\u2026",
+    "link": "https://biztoc.com/x/d78b1fbe6043fe2c",
+    "timestamp": "2025-11-18T10:42:17Z"
+  },
+  {
+    "title": "Trump Refuses to Rule Out Military Action Against Venezuela",
+    "description": "2 min ago\nTrump Refuses to Rule Out Military Action Against Venezuela\nPresident Donald Trump said Monday that he will not rule out sending troops into Venezuela as the buildup of U.S. military near the South American country continued.\nTrump said he probably \u2026",
+    "link": "https://biztoc.com/x/de2061422d83eadb",
+    "timestamp": "2025-11-18T10:42:08Z"
+  },
+  {
     "title": "Trump Says 'We'll Be Selling' F-35 Jets To Saudi Arabia, Ahead Of Crown Prince's White House Visit",
     "description": "President Donald Trump announced plans to sell Lockheed Martin\u2018s (NYSE:LMT) F-35 fighter jets to Saudi Arabia, potentially reshaping the military dynamics in the Middle East.\nTrump Calls Saudi Arabia \u2018Great Ally\u2019\nThe announcement came on Monday, just a day be\u2026",
     "link": "https://biztoc.com/x/de384fed0dac102c",
@@ -192,27 +228,9 @@
     "timestamp": "2025-11-18T10:00:02Z"
   },
   {
-    "title": "Ticked Off Over Preauthorization: Walk-In Patient Avoided Lyme Disease but Not a Surprise Bill",
-    "description": "A Maine woman sought care at a clinic for a tick bite, then paid full price after her insurer denied coverage. Its reason? She didn't have preapproval for the walk-in visit, even though testing later detected the pathogen that causes Lyme disease.",
-    "link": "https://kffhealthnews.org/news/article/prior-authorization-walk-in-clinic-tick-bite-coverage-denial/",
-    "timestamp": "2025-11-18T10:00:00Z"
-  },
-  {
-    "title": "What the U.S. Government Is Dismissing That Could Seed a Bird Flu Pandemic",
-    "description": "Egg producers suspect bird flu is traveling through the air. After a disastrous Midwestern outbreak early this year, we tested that theory and found that where the wind blew, the virus followed. Vaccines could help, but the USDA hasn\u2019t approved them.",
-    "link": "http://www.propublica.org/article/bird-flu-airborne-usda-pandemic",
-    "timestamp": "2025-11-18T10:00:00Z"
-  },
-  {
     "title": "Trump\u2019s Poll Numbers Just Entered the Danger Zone",
     "description": "In November, for the first time in his second term, the president\u2019s average job approval dropped below 45 percent. That spells trouble for the 2026 midterms.\u00a0\nThe post Trump\u2019s Poll Numbers Just Entered the Danger Zone\u00a0 appeared first on Washington Monthly.",
     "link": "http://washingtonmonthly.com/2025/11/18/trump-poll-numbers-danger-zone-2026-midterms/",
-    "timestamp": "2025-11-18T10:00:00Z"
-  },
-  {
-    "title": "How Fossil-Fuel Companies Are Driving Plastic Production and Pollution",
-    "description": "To keep profits rolling in, oil and gas companies want to turn fossil fuels into a mounting pile of packaging and other plastic products",
-    "link": "https://www.scientificamerican.com/article/how-fossil-fuel-companies-are-driving-plastic-production-and-pollution/",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
@@ -222,21 +240,39 @@
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
+    "title": "What the U.S. Government Is Dismissing That Could Seed a Bird Flu Pandemic",
+    "description": "Egg producers suspect bird flu is traveling through the air. After a disastrous Midwestern outbreak early this year, we tested that theory and found that where the wind blew, the virus followed. Vaccines could help, but the USDA hasn\u2019t approved them.",
+    "link": "http://www.propublica.org/article/bird-flu-airborne-usda-pandemic",
+    "timestamp": "2025-11-18T10:00:00Z"
+  },
+  {
+    "title": "Ticked Off Over Preauthorization: Walk-In Patient Avoided Lyme Disease but Not a Surprise Bill",
+    "description": "A Maine woman sought care at a clinic for a tick bite, then paid full price after her insurer denied coverage. Its reason? She didn't have preapproval for the walk-in visit, even though testing later detected the pathogen that causes Lyme disease.",
+    "link": "https://kffhealthnews.org/news/article/prior-authorization-walk-in-clinic-tick-bite-coverage-denial/",
+    "timestamp": "2025-11-18T10:00:00Z"
+  },
+  {
+    "title": "How Fossil-Fuel Companies Are Driving Plastic Production and Pollution",
+    "description": "To keep profits rolling in, oil and gas companies want to turn fossil fuels into a mounting pile of packaging and other plastic products",
+    "link": "https://www.scientificamerican.com/article/how-fossil-fuel-companies-are-driving-plastic-production-and-pollution/",
+    "timestamp": "2025-11-18T10:00:00Z"
+  },
+  {
     "title": "Personalized mRNA Vaccines Will Revolutionize Cancer Treatment\u2014If Federal Funding Cuts Don\u2019t Doom Them",
     "description": "Vaccines based on mRNA can be tailored to target a cancer patient\u2019s unique tumor mutations. But crumbling support for cancer and mRNA vaccine research has endangered this promising therapy",
     "link": "https://www.scientificamerican.com/article/personalized-mrna-vaccines-will-revolutionize-cancer-treatment-if-federal/",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
-    "title": "U.S. firm set to launch 200mph flying taxis in Dubai",
-    "description": "DUBAI, United Arab Emirates \u2014 It will work like any other ride-hailing app except that instead of a car, a battery-powered aircraft will swoop in and fly you.",
-    "link": "https://www.nbcnews.com/world/middle-east/us-firm-set-launch-200mph-flying-taxis-dubai-rcna244381",
-    "timestamp": "2025-11-18T10:00:00Z"
-  },
-  {
     "title": "Saudi crown prince returns to U.S. for first time after international isolation",
     "description": "Whether viewed as a visionary reformist or a murderous despot, Crown Prince Mohammed bin Salman, Saudi Arabia\u2019s de facto leader, will be taking a huge step toward rejoining the international community when he meets with President Donald Trump at the White Hou\u2026",
     "link": "https://www.nbcnews.com/world/saudi-arabia/trump-mohammed-bin-salman-white-house-visit-rcna244327",
+    "timestamp": "2025-11-18T10:00:00Z"
+  },
+  {
+    "title": "U.S. firm set to launch 200mph flying taxis in Dubai",
+    "description": "DUBAI, United Arab Emirates \u2014 It will work like any other ride-hailing app except that instead of a car, a battery-powered aircraft will swoop in and fly you.",
+    "link": "https://www.nbcnews.com/world/middle-east/us-firm-set-launch-200mph-flying-taxis-dubai-rcna244381",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
@@ -556,41 +592,5 @@
     "description": "PARIS (Reuters) -German stock exchange operator Deutsche Boerse plans to integrate stablecoins made by French \u200bbank Societe Generale in its settlement...",
     "link": "https://finance.yahoo.com/news/deutsche-boerse-add-socgens-stablecoins-074712018.html",
     "timestamp": "2025-11-18T07:47:12Z"
-  },
-  {
-    "title": "Fake Ozempic, Zepbound: Counterfeit weight loss meds booming in high-income countries despite the serious health risks",
-    "description": "Celebrity endorsements by Elon Musk and Serena Williams have pushed weight loss medication into the mainstream. Demand is so great it\u2019s fueling trade in often dangerous counterfeit products. In the US alone, 12% of the population have reported using injectabl\u2026",
-    "link": "https://www.dw.com/en/fake-ozempic-zepbound-counterfeit-weight-loss-meds-booming-in-high-income-countries-despite-the-serious-health-risks/a-74775442",
-    "timestamp": "2025-11-18T07:39:00Z"
-  },
-  {
-    "title": "Fake Ozempic, Zepbound: Booming in high-income countries despite the serious health risks; how to spot fake drugs online and at pharmacies",
-    "description": "Celebrity endorsements by Elon Musk and Serena Williams have pushed weight loss medication into the mainstream. Demand is so great it\u2019s fueling trade in often dangerous counterfeit products.",
-    "link": "https://www.dw.com/en/fake-ozempic-zepbound-booming-in-high-income-countries-despite-the-serious-health-risks-how-to-spot-fake-drugs-online-and-at-pharmacies/a-74775442",
-    "timestamp": "2025-11-18T07:39:00Z"
-  },
-  {
-    "title": "Saudi crown prince to get warm embrace from Trump, US business in Washington",
-    "description": "President Donald Trump is set to fete Crown Prince Mohammed bin Salman",
-    "link": "https://abcnews.go.com/US/wireStory/after-years-washington-saudi-crown-prince-warm-embrace-127618597",
-    "timestamp": "2025-11-18T07:35:53Z"
-  },
-  {
-    "title": "'Deeply ashamed' former US treasury secretary quits public life over links to Epstein",
-    "description": "Former US treasury secretary Larry Summers has said he is stepping back from public life as emails showed he continued to communicate with Jeffrey Epstein after the paedophile financier pleaded guilty to soliciting prostitution from an underage girl.",
-    "link": "https://news.sky.com/story/deeply-ashamed-former-us-treasury-secretary-larry-summers-quits-public-life-over-links-to-jeffrey-epstein-13472069",
-    "timestamp": "2025-11-18T07:35:00Z"
-  },
-  {
-    "title": "Today in Germany: A roundup of the latest news on Tuesday",
-    "description": "Merz and Macron push for digital sovereignty in Europe at Berlin summit, Germany secures its spot at next World Cup championship, public sector workers unions gear up to push for significant pay rise and more news on Tuesday, November 18th.",
-    "link": "https://www.thelocal.de/20251118/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-99",
-    "timestamp": "2025-11-18T07:34:17Z"
-  },
-  {
-    "title": "The BBC Is Gambling With Its Own Destruction Over Trump Scandal",
-    "description": "",
-    "link": "https://biztoc.com/x/5db4aaac8f880148",
-    "timestamp": "2025-11-18T07:33:04Z"
   }
 ]
