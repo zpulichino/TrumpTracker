@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump Announces 'FIFA Pass' to Fast-Track U.S. Visas for 2026 World Cup Travelers",
+    "description": "The Trump administration has launched a new \"FIFA Pass\" system to fast-track visa interviews for 2026 World Cup travelers, offering priority scheduling to fans who purchased tickets through FIFA.",
+    "link": "https://www.ibtimes.com/trump-announces-fifa-pass-fast-track-us-visas-2026-world-cup-travelers-3790580",
+    "timestamp": "2025-11-18T10:52:50Z"
+  },
+  {
     "title": "Satya Nadella relinquishes his role as Microsoft\u2019s communicator-in-chief\u2014right when he\u2019s needed most",
     "description": "Also: All the news and watercooler chat from Fortune.",
     "link": "https://fortune.com/2025/11/18/satya-nadella-microsoft-ignite-communicator-in-chief-ai-fears/",
@@ -228,15 +234,9 @@
     "timestamp": "2025-11-18T10:00:02Z"
   },
   {
-    "title": "Trump\u2019s Poll Numbers Just Entered the Danger Zone",
-    "description": "In November, for the first time in his second term, the president\u2019s average job approval dropped below 45 percent. That spells trouble for the 2026 midterms.\u00a0\nThe post Trump\u2019s Poll Numbers Just Entered the Danger Zone\u00a0 appeared first on Washington Monthly.",
-    "link": "http://washingtonmonthly.com/2025/11/18/trump-poll-numbers-danger-zone-2026-midterms/",
-    "timestamp": "2025-11-18T10:00:00Z"
-  },
-  {
-    "title": "Trump Accidentally Stabs Vance in the Back as MAGA Erupts in Civil War",
-    "description": "A civil war is unfolding inside the MAGA movement over Nick Fuentes, the neo-Nazi and white supremacist, and President Donald Trump just made it worse. In an interview, Trump defended Fuentes in a way that will boost his standing inside MAGA. As it turns out,\u2026",
-    "link": "https://newrepublic.com/article/203333/trump-accidentally-stabs-vance-back-maga-erupts-civil-war",
+    "title": "Ticked Off Over Preauthorization: Walk-In Patient Avoided Lyme Disease but Not a Surprise Bill",
+    "description": "A Maine woman sought care at a clinic for a tick bite, then paid full price after her insurer denied coverage. Its reason? She didn't have preapproval for the walk-in visit, even though testing later detected the pathogen that causes Lyme disease.",
+    "link": "https://kffhealthnews.org/news/article/prior-authorization-walk-in-clinic-tick-bite-coverage-denial/",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
@@ -246,9 +246,9 @@
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
-    "title": "Ticked Off Over Preauthorization: Walk-In Patient Avoided Lyme Disease but Not a Surprise Bill",
-    "description": "A Maine woman sought care at a clinic for a tick bite, then paid full price after her insurer denied coverage. Its reason? She didn't have preapproval for the walk-in visit, even though testing later detected the pathogen that causes Lyme disease.",
-    "link": "https://kffhealthnews.org/news/article/prior-authorization-walk-in-clinic-tick-bite-coverage-denial/",
+    "title": "Trump\u2019s Poll Numbers Just Entered the Danger Zone",
+    "description": "In November, for the first time in his second term, the president\u2019s average job approval dropped below 45 percent. That spells trouble for the 2026 midterms.\u00a0\nThe post Trump\u2019s Poll Numbers Just Entered the Danger Zone\u00a0 appeared first on Washington Monthly.",
+    "link": "http://washingtonmonthly.com/2025/11/18/trump-poll-numbers-danger-zone-2026-midterms/",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
@@ -258,21 +258,27 @@
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
+    "title": "Trump Accidentally Stabs Vance in the Back as MAGA Erupts in Civil War",
+    "description": "A civil war is unfolding inside the MAGA movement over Nick Fuentes, the neo-Nazi and white supremacist, and President Donald Trump just made it worse. In an interview, Trump defended Fuentes in a way that will boost his standing inside MAGA. As it turns out,\u2026",
+    "link": "https://newrepublic.com/article/203333/trump-accidentally-stabs-vance-back-maga-erupts-civil-war",
+    "timestamp": "2025-11-18T10:00:00Z"
+  },
+  {
     "title": "Personalized mRNA Vaccines Will Revolutionize Cancer Treatment\u2014If Federal Funding Cuts Don\u2019t Doom Them",
     "description": "Vaccines based on mRNA can be tailored to target a cancer patient\u2019s unique tumor mutations. But crumbling support for cancer and mRNA vaccine research has endangered this promising therapy",
     "link": "https://www.scientificamerican.com/article/personalized-mrna-vaccines-will-revolutionize-cancer-treatment-if-federal/",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
-    "title": "Saudi crown prince returns to U.S. for first time after international isolation",
-    "description": "Whether viewed as a visionary reformist or a murderous despot, Crown Prince Mohammed bin Salman, Saudi Arabia\u2019s de facto leader, will be taking a huge step toward rejoining the international community when he meets with President Donald Trump at the White Hou\u2026",
-    "link": "https://www.nbcnews.com/world/saudi-arabia/trump-mohammed-bin-salman-white-house-visit-rcna244327",
-    "timestamp": "2025-11-18T10:00:00Z"
-  },
-  {
     "title": "U.S. firm set to launch 200mph flying taxis in Dubai",
     "description": "DUBAI, United Arab Emirates \u2014 It will work like any other ride-hailing app except that instead of a car, a battery-powered aircraft will swoop in and fly you.",
     "link": "https://www.nbcnews.com/world/middle-east/us-firm-set-launch-200mph-flying-taxis-dubai-rcna244381",
+    "timestamp": "2025-11-18T10:00:00Z"
+  },
+  {
+    "title": "Saudi crown prince returns to U.S. for first time after international isolation",
+    "description": "Whether viewed as a visionary reformist or a murderous despot, Crown Prince Mohammed bin Salman, Saudi Arabia\u2019s de facto leader, will be taking a huge step toward rejoining the international community when he meets with President Donald Trump at the White Hou\u2026",
+    "link": "https://www.nbcnews.com/world/saudi-arabia/trump-mohammed-bin-salman-white-house-visit-rcna244327",
     "timestamp": "2025-11-18T10:00:00Z"
   },
   {
@@ -586,11 +592,5 @@
     "description": "The vote was a crucial next step for the fragile ceasefire and efforts to outline Gaza\u2019s future.",
     "link": "https://www.thejournal.ie/un-security-council-backs-trumps-peace-plan-for-gaza-6877904-Nov2025/",
     "timestamp": "2025-11-18T07:47:37Z"
-  },
-  {
-    "title": "Deutsche Boerse to add SocGen's stablecoins to its settlement business",
-    "description": "PARIS (Reuters) -German stock exchange operator Deutsche Boerse plans to integrate stablecoins made by French \u200bbank Societe Generale in its settlement...",
-    "link": "https://finance.yahoo.com/news/deutsche-boerse-add-socgens-stablecoins-074712018.html",
-    "timestamp": "2025-11-18T07:47:12Z"
   }
 ]
