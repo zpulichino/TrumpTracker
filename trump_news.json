@@ -1,5 +1,53 @@
 [
   {
+    "title": "Will Modi Cozy Up to Putin?",
+    "description": "Next week, the Russian leader visits New Delhi for the first time since his full-scale invasion of Ukraine.",
+    "link": "http://foreignpolicy.com/2025/11/25/modi-putin-meeting-india-russia-relations/",
+    "timestamp": "2025-11-25T14:55:54Z"
+  },
+  {
+    "title": "Zelenskyy is racing to beat Trump's peace plan deadline \u2013 but what will Russia do?",
+    "description": "The plan has changed from its original form, but it's clear the Ukrainian president wants to be seen to agree to something quickly - that would go down well with Donald Trump.",
+    "link": "https://news.sky.com/story/zelenskyy-is-racing-to-beat-donald-trumps-peace-plan-deadline-but-what-will-russia-do-13475289",
+    "timestamp": "2025-11-25T14:52:00Z"
+  },
+  {
+    "title": "Trump speaks to Xi and Takaichi as rift between China and Japan deepens",
+    "description": "Tokyo and Beijing in standoff following Japanese prime minister\u2019s remarks about Taiwan",
+    "link": "https://www.irishtimes.com/world/asia-pacific/2025/11/25/trump-speaks-to-xi-and-takaichi-as-rift-between-china-and-japan-deepens/",
+    "timestamp": "2025-11-25T14:51:35Z"
+  },
+  {
+    "title": "Trump May Meet Xi Four Times Next Year",
+    "description": "\u201cTreasury Secretary Scott Bessent said there may be as many as four meetings between US President Donald Trump and Chinese leader Xi Jinping next year as both sides look to keep in place a fragile trade truce,\u201d Bloomberg reports.",
+    "link": "https://politicalwire.com/2025/11/25/trump-may-meet-xi-four-times-next-year/",
+    "timestamp": "2025-11-25T14:51:26Z"
+  },
+  {
+    "title": "Gulf Giants Redraw the Map of Post-Russian Energy Power",
+    "description": "The future of Russia\u2019s international oil and gas giant Lukoil\u2019s assets remains shrouded in fog. However, it is clear that the forced dismantling of Lukoil\u2019s empire, which is triggered by US sanctions, could be one of the most consequential energy auctions of \u2026",
+    "link": "https://oilprice.com/Energy/Energy-General/Gulf-Giants-Redraw-the-Map-of-Post-Russian-Energy-Power.html",
+    "timestamp": "2025-11-25T14:51:16Z"
+  },
+  {
+    "title": "Sudanese army, paramilitary fighters haven't signed onto truce plan, Trump advisor says",
+    "description": "Neither of\u00a0Sudan's warring factions has formally accepted a \"strong\" plan for a truce put forward by the United States, senior U.S. envoy Massad Boulos said on Tuesday.",
+    "link": "https://www.cbc.ca/news/world/sudan-us-proposal-rsf-sudanese-army-9.6991431",
+    "timestamp": "2025-11-25T14:50:54Z"
+  },
+  {
+    "title": "Africa's solar power revolution driven by China's investment",
+    "description": "Chinese solar equipment has been flooding African markets, partly as a ripple effect of the US-China trade war. It's one of several factors helping the continent gain traction with electrification. Solar power is widely recognized as an excellent solution for\u2026",
+    "link": "https://www.dw.com/en/africa-china-solar-power-investment-trade-renewable-energy-graphics/a-74795571",
+    "timestamp": "2025-11-25T14:50:00Z"
+  },
+  {
+    "title": "Africa's solar power revolution is finally happening",
+    "description": "Chinese solar equipment has been flooding African markets, partly as a ripple effect of the US-China trade war. It's one of several factors helping the continent gain traction with electrification.",
+    "link": "https://www.dw.com/en/africas-solar-power-revolution-is-finally-happening/a-74795571",
+    "timestamp": "2025-11-25T14:50:00Z"
+  },
+  {
     "title": "Sensitive issues still to be discussed as Ukraine \u2018supports essence\u2019 of peace framework",
     "description": "Zelenskiy could visit the United States in the next few days to discuss deal with Donald Trump",
     "link": "https://www.irishtimes.com/world/europe/2025/11/25/sensitive-issues-still-to-be-discussed-as-ukraine-supports-essence-of-peace-framework/",
@@ -514,41 +562,5 @@
     "description": "The Trump administration ends Temporary Protected Status for Burmese migrants, citing improved conditions for the safe return of citizens.",
     "link": "https://www.foxnews.com/politics/trump-admin-ends-temporary-protected-status-burmese-migrants",
     "timestamp": "2025-11-25T13:13:16Z"
-  },
-  {
-    "title": "\u2018My God!\u2019 CNN\u2019s Elie Honig Stunned by \u2018Humiliating\u2019 Implosion of Trump Revenge Cases",
-    "description": "Elie Honig\u00a0told anchor\u00a0Kaitlan Collins that the implosion of Trump's revenge cases against\u00a0James Comey\u00a0and New York AG Letitia James\u00a0was \"humiliating.\"\nThe post \u2018My God!\u2019 CNN\u2019s Elie Honig Stunned by \u2018Humiliating\u2019 Implosion of Trump Revenge Cases first appeare\u2026",
-    "link": "https://www.mediaite.com/media/news/my-god-cnns-elie-honig-stunned-by-humiliating-implosion-of-trump-revenge-cases/",
-    "timestamp": "2025-11-25T13:08:47Z"
-  },
-  {
-    "title": "Venezuela demands international airlines resume flights - or else",
-    "description": "Airlines are told to resume flights to Venezuela within 48 hours or risk losing their clearance to fly there.",
-    "link": "https://www.bbc.com/news/articles/cg4nl3dxkd9o",
-    "timestamp": "2025-11-25T13:05:40Z"
-  },
-  {
-    "title": "Julie Chrisley weighs in on Ghislaine Maxwell's 'concierge-style' prison treatment claims",
-    "description": "Former \"Chrisley Knows Best\" star Julie Chrisley weighs in on Ghislaine Maxwell's alleged preferential treatment in federal prison after her own sentence.",
-    "link": "https://www.foxnews.com/entertainment/julie-chrisley-weighs-ghislaine-maxwells-concierge-style-prison-treatment-claims",
-    "timestamp": "2025-11-25T13:00:57Z"
-  },
-  {
-    "title": "Obamacare expiring soon: Millions of Americans could see health insurance premiums double - are you at risk?",
-    "description": "Obamacare premium doubling 2026: Millions of Americans face rising health insurance costs as Affordable Care Act subsidies are set to expire. President Trump's plan to extend these subsidies has been delayed due to Republican opposition. Without action, premi\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/obamacare-expiring-soon-millions-of-americans-could-see-health-insurance-premiums-double-are-you-at-risk/articleshow/125564974.cms",
-    "timestamp": "2025-11-25T13:00:40Z"
-  },
-  {
-    "title": "Colorado nonprofits encrypt messages, lock doors to ward off federal threats. \u2018Will they come after you?\u2019",
-    "description": "\"There's a lot of fear,\" said Cathy Alderman of the Colorado Coalition for the Homeless. \"The chaos they intend to inflict on us, it's very real.\"",
-    "link": "https://www.denverpost.com/2025/11/25/immigration-crackdown-colorado-nonprofits-ice-raids/",
-    "timestamp": "2025-11-25T13:00:32Z"
-  },
-  {
-    "title": "Duffy Threatens to Withhold Millions From PA After Terror Suspect Received CDL",
-    "description": "Federal agency may also decertify Pennsylvania\u2019s CDL program.\nThe post Duffy Threatens to Withhold Millions From PA After Terror Suspect Received CDL first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-    "link": "https://legalinsurrection.com/2025/11/duffy-threatens-to-withhold-millions-from-pa-after-terror-suspect-received-cdl/",
-    "timestamp": "2025-11-25T13:00:23Z"
   }
 ]
