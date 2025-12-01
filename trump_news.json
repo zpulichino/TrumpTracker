@@ -1,5 +1,53 @@
 [
   {
+    "title": "US pauses visas for Afghan passport holders, citing national security concerns",
+    "description": "The US Department of State has announced a pause on visa issuance for Afghan passport holders, while the US Citizenship and Immigration Services (USCIS) has halted all asylum decisions amid so-called national security concerns.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/11/sec-251129-presstv01.htm",
+    "timestamp": "2025-11-30T10:53:58Z"
+  },
+  {
+    "title": "Popular fashion brands that filed for bankruptcy in 2025",
+    "description": "Major apparel brands like Forever 21 and SSENSE face bankruptcy in 2025 as fast fashion, tariffs, and economic shifts reshape retail.",
+    "link": "https://www.businessinsider.com/fashion-brands-bankruptcy-2025",
+    "timestamp": "2025-11-30T10:52:13Z"
+  },
+  {
+    "title": "Zelenskyy Ramps Up Diplomatic Efforts Amid Russian Attacks, Corruption Scandal",
+    "description": "Ukrainian President Volodymyr Zelenskyy is stepping up global efforts to thrash out a peace agreement, sending a negotiating team to the United States and planning a trip to Paris himself as his government battles a corruption scandal and intensified Russian \u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/11/ukraine-251130-rferl01.htm",
+    "timestamp": "2025-11-30T10:51:36Z"
+  },
+  {
+    "title": "Netanyahu requests a pardon to end his ongoing corruption trial in Israel",
+    "description": "Israeli Prime Minister Benjamin Netanyahu on Sunday asked the country\u2019s president to grant him a pardon from corruption charges, seeking to end a long-running trial that has bitterly divided the nation.",
+    "link": "https://www.bostonherald.com/2025/11/30/netanyahu-requests-a-pardon-to-end-his-ongoing-corruption-trial-in-israel/",
+    "timestamp": "2025-11-30T10:50:13Z"
+  },
+  {
+    "title": "Netanyahu requests a pardon during the Israeli prime minister\u2019s ongoing corruption trial",
+    "description": "By SAM MEDNICK TEL AVIV (AP) \u2014 Israeli Prime Minister Benjamin Netanyahu on Sunday asked the country\u2019s president to grant him a pardon from corruption charges, seeking to end a long-running trial that has bitterly divided the nation. Netanyahu, who has been a\u2026",
+    "link": "https://www.bostonherald.com/2025/11/30/netanyahu-requests-a-pardon-during-the-israeli-prime-ministers-ongoing-corruption-trial/",
+    "timestamp": "2025-11-30T10:50:13Z"
+  },
+  {
+    "title": "OPEC+ Meets to Assess Market With Output Plans Seen Unchanged",
+    "description": "OPEC+ will gather to assess global oil markets on Sunday, with the producers still on track to pause supply increases in the first quarter amid growing signs of a surplus.",
+    "link": "https://financialpost.com/pmn/business-pmn/opec-meets-to-assess-market-with-output-plans-seen-unchanged",
+    "timestamp": "2025-11-30T10:49:56Z"
+  },
+  {
+    "title": "Netanyahu Requests Pardon from Israeli President After Trump Push: Report",
+    "description": "The reported request comes weeks after U.S. President Donald Trump also asked Israeli President Isaac Herzog to pardon Netanyahu.",
+    "link": "https://biztoc.com/x/d2af5c70ab13fc1d",
+    "timestamp": "2025-11-30T10:47:55Z"
+  },
+  {
+    "title": "Gaza death toll surpasses 70,000 amid continued Israeli attacks",
+    "description": "The Palestinian death toll has surpassed 70,000 since the Israel-Hamas war began, Gaza\u2019s Health Ministry has said, while a hospital announced that Israeli fire killed two Palestinian children in the territory's south.",
+    "link": "https://www.hurriyetdailynews.com/gaza-death-toll-surpasses-70-000-amid-continued-israeli-attacks-216275",
+    "timestamp": "2025-11-30T10:45:54Z"
+  },
+  {
     "title": "Netanyahu writes to Israeli president requesting pardon in corruption cases",
     "description": "This is a breaking news story.",
     "link": "https://www.aljazeera.com/news/2025/11/30/netanyahu-writes-to-israeli-president-requesting-pardon-in-corruption-cases",
@@ -168,15 +216,15 @@
     "timestamp": "2025-11-30T06:12:12Z"
   },
   {
-    "title": "Trump launches \u201cGenesis Mission\u201d AI initiative, compares it to Manhattan Project",
-    "description": "President Donald Trump\u2019s\u00a0\u201cGenesis Mission\u201d\u00a0executive order aims to\u00a0fast-track U.S. AI dominance, comparing its urgency to the\u00a0Manhattan Project. Focuses on\u00a0scientific breakthroughs, national security and economic leadership\u00a0through centralized AI infrastructu\u2026",
-    "link": "https://www.naturalnews.com/2025-11-30-president-trump-launches-genesis-mission-ai-initiative.html",
-    "timestamp": "2025-11-30T06:00:00Z"
-  },
-  {
     "title": "Jennifer O'Connell: Donald Trump attacked Joe Biden for being too old. Now his critics say the same about him",
     "description": "Trump uses bullying and personal attacks on his enemies - but we should be wary of the impulse to do the same",
     "link": "https://www.irishtimes.com/opinion/2025/11/30/jennifer-oconnell-donald-trump-attacked-joe-biden-for-being-too-old-now-his-critics-say-the-same-about-him/",
+    "timestamp": "2025-11-30T06:00:00Z"
+  },
+  {
+    "title": "Trump launches \u201cGenesis Mission\u201d AI initiative, compares it to Manhattan Project",
+    "description": "President Donald Trump\u2019s\u00a0\u201cGenesis Mission\u201d\u00a0executive order aims to\u00a0fast-track U.S. AI dominance, comparing its urgency to the\u00a0Manhattan Project. Focuses on\u00a0scientific breakthroughs, national security and economic leadership\u00a0through centralized AI infrastructu\u2026",
+    "link": "https://www.naturalnews.com/2025-11-30-president-trump-launches-genesis-mission-ai-initiative.html",
     "timestamp": "2025-11-30T06:00:00Z"
   },
   {
@@ -508,59 +556,5 @@
     "description": "After the New York Times published an article about how President Donald Trump is aging, he posted a long rant about how the publication is \u201cfailing\u201d and h",
     "link": "https://www.newsbreak.com/share/4372290550836-nyt-fires-back-after-trump-calls-reporter-ugly-over-article-about-his-health?s=a2&amp;share_destination_id=MTgzNTk3MzAzLTE3NjQ0NjUwODM5NTk%3D&amp;pd=0CQM2pWb&amp;hl=en_US&amp;send_time=1764465083&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.47.0%22%2C%22languages%22%3A%22en%22%7D",
     "timestamp": "2025-11-30T01:14:53Z"
-  },
-  {
-    "title": "Trump declares Venezuelan airspace closed",
-    "description": "President Donald Trump has taken the dramatic step of declaring Venezuelan airspace off-limits, intensifying the U.S. offensive against drug trafficking networks. With a ramped-up military footprint in the Caribbean, the administration aims to stem the tide o\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-declares-venezuelan-airspace-closed/articleshow/125667441.cms",
-    "timestamp": "2025-11-30T01:01:31Z"
-  },
-  {
-    "title": "Did Wisconsin Democrat AG Undermine His Own Case Against Alternate Trump Electors?",
-    "description": "Wisconsin Attorney General Josh Kaul\u2019s office twice asserted that a slate of alternate electors contesting the 2020 election was legal before bringing criminal charges on... Read More\nThe post Did Wisconsin Democrat AG Undermine His Own Case Against Alternate\u2026",
-    "link": "https://www.dailysignal.com/2025/11/29/did-wisconsin-democrat-ag-undermine-his-own-case-against-alternate-trump-electors/",
-    "timestamp": "2025-11-30T01:00:00Z"
-  },
-  {
-    "title": "Josh Brolin Reflects On Previous Friendship With Trump: \u201cThere Is No Greater Genius Than Him In Marketing\u201d",
-    "description": "Josh Brolin reflected on his previous friendship with Donald Trump\u00a0\u2014 back when the POTUS was a real estate mogul based in New York City. Calling him a \u201cgenius\u201d in marketing, the Oscar-nominated Milk actor said he knew a \u201cdifferent guy\u201d than the figure the GOP\u2026",
-    "link": "http://deadline.com/2025/11/josh-brolin-former-friendship-trump-1236631147/",
-    "timestamp": "2025-11-30T00:54:55Z"
-  },
-  {
-    "title": "NATO chief hails Trump efforts to end fighting in Ukraine",
-    "description": "Reykjavik (AFP) Nov 27, 2025 -\n NATO Secretary General Mark Rutte on Thursday praised US President Donald Trump's efforts to end the war in Ukraine, the deadliest conflict in Europe since World War II.\n\n\"There is tremendous renewed energy around the peace pro\u2026",
-    "link": "https://www.spacewar.com/reports/NATO_chief_hails_Trump_efforts_to_end_fighting_in_Ukraine_999.html",
-    "timestamp": "2025-11-30T00:47:16Z"
-  },
-  {
-    "title": "Trump says Venezuela anti-drug operations 'by land' to begin 'soon'",
-    "description": "Palm Beach, United States (AFP) Nov 28, 2025 -\n\n US President Donald Trump said Thursday that efforts to halt Venezuelan drug trafficking \"by land\" would begin \"very soon,\" further ratcheting up tensions with Caracas, which claims the anti-drug campaign aims \u2026",
-    "link": "https://www.spacewar.com/reports/Trump_says_Venezuela_anti-drug_operations_by_land_to_begin_soon_999.html",
-    "timestamp": "2025-11-30T00:47:16Z"
-  },
-  {
-    "title": "Josh Brolin Discusses His Former Friendship With President Donald Trump: 'I Know a Different Guy'",
-    "description": "Josh Brolin is recalling his former friendship with Donald Trump, before he became the President. According to the 57-year-old actor, he knew \u201ca different guy\u201d at the time they met, which was during the filming of Oliver Stone\u2018s 2010 movie Wall Street: Money \u2026",
-    "link": "https://www.justjared.com/2025/11/29/josh-brolin-discusses-his-former-friendship-with-president-donald-trump-i-know-a-different-guy/",
-    "timestamp": "2025-11-30T00:44:01Z"
-  },
-  {
-    "title": "Microsoft New Zealand sees strong revenue growth \u2013 turnover now double its 2021 level",
-    "description": "The threat of a digital services tax has melted away.",
-    "link": "https://www.nzherald.co.nz/business/microsoft-new-zealand-sees-strong-revenue-growth-turnover-now-double-its-2021-level/premium/IK2YCFEMD5ATZBOW75OIESXJNE/",
-    "timestamp": "2025-11-30T00:42:59Z"
-  },
-  {
-    "title": "Venezuela reacts to US airspace closure threat",
-    "description": "Venezuela has condemned US President Donald Trump\u2019s threat to close the country\u2019s airspace Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/628681-venezuela-responds-to-us-airspace/",
-    "timestamp": "2025-11-30T00:42:48Z"
-  },
-  {
-    "title": "Stephen Miller: Migration Imports Societies, not Individuals",
-    "description": "President Trump and his advisers say mass migration changes cultures and societies, but Democrat partisans insist that all would-be migrants must be viewed as individuals, complete with all the legal protections granted to Americans facing court trials.\nThe p\u2026",
-    "link": "https://www.breitbart.com/immigration/2025/11/29/stephen-miller-migration-imports-societies-not-individuals/",
-    "timestamp": "2025-11-30T00:41:06Z"
   }
 ]
