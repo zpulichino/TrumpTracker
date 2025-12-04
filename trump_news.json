@@ -1,5 +1,77 @@
 [
   {
+    "title": "First legal complaint filed over US Caribbean airstrikes",
+    "description": "The Trump administration is facing a formal complaint that it has violated international law. The complaint was filed at a multinational human rights commission by the family of a Colombian man killed in a US airstrike.",
+    "link": "https://www.dw.com/en/first-legal-complaint-filed-over-us-caribbean-airstrikes/a-74994431",
+    "timestamp": "2025-12-03T09:44:00Z"
+  },
+  {
+    "title": "Hamas slams Israel's restrictions on humanitarian aid into Gaza",
+    "description": "The Hamas resistance movement has condemned Israel's restrictions on the entry of humanitarian aid into Gaza, particularly concerning tents and prefabricated homes.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251202-presstv06.htm",
+    "timestamp": "2025-12-03T09:43:20Z"
+  },
+  {
+    "title": "White House stands behind Hegseth's 'kill everybody' order against boat sailing in Caribbean",
+    "description": "The White House has rallied behind War Secretary Pete Hegseth as he faces mounting controversy over ordering US forces to \"kill everybody\" on board a boat in the Caribbean, and authorizing a second lethal strike on the same vessel as it was burning and people\u2026",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251202-presstv05.htm",
+    "timestamp": "2025-12-03T09:43:13Z"
+  },
+  {
+    "title": "Maduro vows Venezuela will reject 'slave's peace' pushed by US",
+    "description": "Venezuelan President Nicholas Maduro has said Caracas will not bow to Washington's military or political coercion, stressing the nation rejects any peace that amounts to \"slavery\" to the US.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251202-presstv02.htm",
+    "timestamp": "2025-12-03T09:42:37Z"
+  },
+  {
+    "title": "Qatar warns Israel's ceasefire violations threaten Gaza truce, pushes for second stage",
+    "description": "Qatar has warned that Israeli violations of the Gaza ceasefire are troubling even as Doha works to maintain the truce in the besieged territory.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251202-presstv01.htm",
+    "timestamp": "2025-12-03T09:42:30Z"
+  },
+  {
+    "title": "Trump Closes Flights Over Venezuela After Maduro's Refusal to Leave Country - Reports",
+    "description": "US President Donald Trump urged Venezuelan leader Nicolas Maduro to leave the country by November 28, and after that deadline, announced the closure of Venezuelan airspace, the Reuters news agency reported, citing sources.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251202-sputnik02.htm",
+    "timestamp": "2025-12-03T09:41:56Z"
+  },
+  {
+    "title": "Tennessee special election results: What we know about Matt Van Epps\u2019s win",
+    "description": "Republican Van Epps manages to defeat his Democratic challenger by a narrow margin.",
+    "link": "https://www.aljazeera.com/news/2025/12/3/tennessee-special-election-results-what-we-know-about-matt-van-eppss-win",
+    "timestamp": "2025-12-03T09:37:56Z"
+  },
+  {
+    "title": "Putin warns Europe Russia will respond instantly to any aggression",
+    "description": "Russian President Vladimir Putin said Moscow is not seeking conflict with Europe but warned that Russia is fully prepared to respond if European countries choose to escalate tensions.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2025/12/russia-251202-presstv01.htm",
+    "timestamp": "2025-12-03T09:36:12Z"
+  },
+  {
+    "title": "Guardsmen Keeping America's Cities Safer, Says Pentagon Press Secretary",
+    "description": "Currently, more than 2,200 National Guardsmen from across the country are serving as part of Joint Task Force D.C., with an additional 500 on the way, said Pentagon Press Secretary Kingsley Wilson, who held a press briefing today.",
+    "link": "https://www.globalsecurity.org/security/library/news/2025/12/sec-251202-dodnews01.htm",
+    "timestamp": "2025-12-03T09:35:52Z"
+  },
+  {
+    "title": "Netanyahu pushes for Israel-controlled 'buffer zone' in Syria between Golan Heights, Damascus",
+    "description": "Israeli prime minister Benjamin Netanyahu has escalated territorial demands in Syria, calling for a mandatory demilitarized \"buffer zone\" stretching from the fringe of the Israeli-occupied Golan Heights to the outskirts of the capital Damascus.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/syria/2025/syria-251203-presstv01.htm",
+    "timestamp": "2025-12-03T09:35:01Z"
+  },
+  {
+    "title": "Russia Says 'Meaningful' Meeting With US On Ukraine Peace Proposal Ends 'No Closer' To Deal",
+    "description": "A US delegation led by special envoy Steve Witkoff met with Russian President Vladimir Putin and his aides for almost five hours at the Kremlin on December 2 for talks on a proposal aimed at ending Moscow's full-scale invasion of Ukraine.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/12/ukraine-251202-rferl02.htm",
+    "timestamp": "2025-12-03T09:33:10Z"
+  },
+  {
+    "title": "'You Will Awaken the Jaguar' -- Colombia's Petro Threatens Trump After He Said any Country Drug Trafficking to U.S. Is Subject To Attack",
+    "description": "Far-left President of Colombia Gustavo Petro on Tuesday threatened President Donald Trump with \"awakening the Jaguar\" after Trump said any country trafficking drugs into the U.S. could be subject to attack.\nThe post \u2018You Will Awaken the Jaguar\u2019 \u2014 Colombia\u2019s P\u2026",
+    "link": "https://www.breitbart.com/latin-america/2025/12/03/you-will-awaken-the-jaguar-colombias-petro-threatens-trump-after-he-said-any-country-drug-trafficking-to-u-s-is-subject-to-attack/",
+    "timestamp": "2025-12-03T09:31:51Z"
+  },
+  {
     "title": "Dollar set for ninth straight loss as traders eye Fed outlook; euro rises, yen falls",
     "description": "The dollar faces its ninth consecutive loss as traders anticipate Fed rate cuts, while the euro rises and the yen weakens.",
     "link": "https://www.thehindubusinessline.com/markets/forex/dollar-set-for-ninth-straight-loss-as-traders-eye-fed-outlook-euro-rises-yen-falls/article70352791.ece",
@@ -490,71 +562,5 @@
     "description": "President Donald Trump has said any country trafficking illegal drugs into the US could be attacked.",
     "link": "https://www.rte.ie/news/us/2025/1203/1546997-trump-drug-trafficking/",
     "timestamp": "2025-12-03T05:25:50Z"
-  },
-  {
-    "title": "Any nation could be attacked for drug trafficking - Trump",
-    "description": "US President Donald Trump has said any country trafficking illegal drugs into the United States could be attacked.",
-    "link": "https://www.rte.ie/news/us/2025/1203/1546997-us-politics/",
-    "timestamp": "2025-12-03T05:25:50Z"
-  },
-  {
-    "title": "CSBC Bihar Constable admit card 2025 released at csbc.bihar.gov.in: Direct link to download hall tickets here",
-    "description": "The Central Selection Board of Constable has issued the CSBC Bihar Driver Constable Admit Card 2025, available from December 3 to 10 on csbc.bihar.gov.in. Candidates will sit for the qualifying written exam on December 10, with mandatory reporting by 9:30 am.\u2026",
-    "link": "https://timesofindia.indiatimes.com/education/news/csbc-bihar-constable-admit-card-2025-released-at-csbc-bihar-gov-in-direct-link-to-download-hall-tickets-here/articleshow/125734215.cms",
-    "timestamp": "2025-12-03T05:25:41Z"
-  },
-  {
-    "title": "The 26-Minute, 51% Wipeout That Deepened the Trumps\u2019 Crypto Woes",
-    "description": "American Bitcoin Corp. shares plunged over 50% in minutes, highlighting the collapse of Trump-linked crypto ventures. While Bitcoin and broader crypto markets fell around 25% in recent months, Trump-associated tokens and projects, including memecoins, Alt5 Si\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/the-26-minute-51-wipeout-that-deepened-the-trumps-crypto-woes/articleshow/125734444.cms",
-    "timestamp": "2025-12-03T05:24:47Z"
-  },
-  {
-    "title": "Trump will play a starring role heading into a big weekend at the Kennedy Center",
-    "description": "The Kennedy Center, known for theater and opera, becomes the sports world's focus on Friday",
-    "link": "https://abcnews.go.com/Entertainment/wireStory/trump-play-starring-role-heading-big-weekend-kennedy-128062868",
-    "timestamp": "2025-12-03T05:17:34Z"
-  },
-  {
-    "title": "Trump targets Minnesota's Somali community with harsh words and policies",
-    "description": "President Donald Trump and his top officials have recently criticized Minnesota's Somali community, drawing attention to immigrants from the war-torn East African country",
-    "link": "https://abcnews.go.com/US/wireStory/trump-targets-minnesotas-somali-community-harsh-words-policies-128063110",
-    "timestamp": "2025-12-03T05:17:30Z"
-  },
-  {
-    "title": "US, Russia find 'no compromise' on key territory issue after Ukraine talks",
-    "description": "High-stakes U.S.-Russia talks on ending the war in Ukraine failed to yield a breakthrough on Tuesday, as the Kremlin said \"no compromise\" had been found yet on the key question of territory.",
-    "link": "https://www.hurriyetdailynews.com/us-russia-find-no-compromise-on-key-territory-issue-after-ukraine-talks-216389",
-    "timestamp": "2025-12-03T05:16:33Z"
-  },
-  {
-    "title": "India\u2019s oil imports and other issues will be on the agenda for Putin meeting with Modi",
-    "description": "NEW DELHI (AP) \u2014 Russian President Vladimir Putin will be in India this week for a summit aimed at deepening economic, defense and energy ties, a visit that will also test New Delhi\u2019s efforts to balance relations with Moscow and Washington as the war in Ukrai\u2026",
-    "link": "https://financialpost.com/pmn/indias-oil-imports-and-other-issues-will-be-on-the-agenda-for-putin-meeting-with-modi",
-    "timestamp": "2025-12-03T05:12:01Z"
-  },
-  {
-    "title": "India\u2019s journey to self-sustenance in the Rare Earth ecosystem",
-    "description": "China's rare earth export restrictions highlighted India's supply chain vulnerability. Despite rich reserves, India faces midstream and downstream bottlenecks in magnet production. Accelerating domestic integration through technological prowess, commercial in\u2026",
-    "link": "https://timesofindia.indiatimes.com/auto/news/indias-journey-to-self-sustenance-in-the-rare-earth-ecosystem/articleshow/125733951.cms",
-    "timestamp": "2025-12-03T05:07:14Z"
-  },
-  {
-    "title": "Trump Tries To Cut Congress Out of U.S. Attorney Appointments",
-    "description": "Alina Habba said she was the acting U.S. attorney for New Jersey. President Donald Trump and Attorney General Pam Bondi agreed. All three were wrong, the U.S. Court of Appeals for the 3rd Circuit ruled this week.\nThat unanimous decision, which was issued by a\u2026",
-    "link": "https://biztoc.com/x/f04cb8471b4f24ce",
-    "timestamp": "2025-12-03T05:06:28Z"
-  },
-  {
-    "title": "Putin's visit highlights Indian imports of discounted Russian oil in the face of US sanctions",
-    "description": "Russian President Vladimir Putin will be in India this week for a summit aimed at deepening economic, defense and energy ties, a visit that will also test...",
-    "link": "https://www.yahoo.com/news/articles/indias-oil-imports-other-issues-050535694.html",
-    "timestamp": "2025-12-03T05:05:35Z"
-  },
-  {
-    "title": "DNC Chair: 'Inflation Has Been a Challenge for a Long Time Now', But GOP's Deflecting",
-    "description": "On Tuesday\u2019s broadcast of CNN\u2019s \u201cLaura Coates Live,\u201d DNC Chair Ken Martin stated that \u201cinflation has been a challenge for a long time now in this country.\u201d But Republicans are trying to \u201cdeflect\u201d from the issue. He also argued that\nThe post DNC Chair: \u2018Inflat\u2026",
-    "link": "https://www.breitbart.com/clips/2025/12/02/dnc-chair-inflation-has-been-a-challenge-for-a-long-time-now-but-gops-deflecting/",
-    "timestamp": "2025-12-03T05:03:11Z"
   }
 ]
