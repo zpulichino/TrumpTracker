@@ -1,5 +1,47 @@
 [
   {
+    "title": "Thailand reports first civilian deaths in renewed border conflict with Cambodia",
+    "description": "Three Thai civilians were killed as heavy combat continued along the country's border with Cambodia, the Thai military said Thursday, marking the country's first civilian fatalities since the fighting resumed. The latest large-scale fighting was set off by a \u2026",
+    "link": "https://japantoday.com/category/world/thailand-reports-first-civilian-deaths-in-renewed-border-conflict-with-cambodia",
+    "timestamp": "2025-12-11T07:19:04Z"
+  },
+  {
+    "title": "Court Blocks KSh 208B Ruto-US Health Deal Over Data Sharing Concerns",
+    "description": "The High Court has temporarily halted the KSh 208B health deal between President Ruto and US President Trump signed on December 4 2025.",
+    "link": "https://thekenyatimes.com/latest-kenya-times-news/blow-to-ruto-as-court-blocks-implementation-of-ksh208-billion-health-deal-with-trump/",
+    "timestamp": "2025-12-11T07:17:24Z"
+  },
+  {
+    "title": "US, Japan hold joint air exercise after China-Russia patrols",
+    "description": "Japan said Thursday it held a joint air exercise with the United States in a show of force, days after Chinese-Russian patrols in the region and following weeks of diplomatic feuding between Tokyo and Beijing. The Japanese joint chiefs of staff said Wednesday\u2026",
+    "link": "https://www.digitaljournal.com/world/us-japan-hold-joint-air-exercise-after-china-russia-patrols/article",
+    "timestamp": "2025-12-11T07:17:20Z"
+  },
+  {
+    "title": "Venezuelan opposition leader Machado reappears in Norway after months in hiding",
+    "description": "Venezuelan opposition leader Mar\u00eda Corina Machado makes public appearance in Oslo after 11 months in hiding as daughter accepts Nobel Peace Prize on her behalf.",
+    "link": "https://www.foxnews.com/world/venezuelan-opposition-leader-machado-reappears-norway-months-hiding",
+    "timestamp": "2025-12-11T07:08:58Z"
+  },
+  {
+    "title": "First civilians killed in Thailand as conflict with Cambodia erupts again following ceasefire",
+    "description": "The first civilians have been killed in Thailand as the conflict with Cambodia erupted again, days after a ceasefire pushed by Donald Trump.",
+    "link": "https://news.sky.com/story/first-civilians-killed-in-thailand-as-conflict-with-cambodia-erupts-again-following-ceasefire-13482025",
+    "timestamp": "2025-12-11T07:04:00Z"
+  },
+  {
+    "title": "US seizes sanctioned oil tanker off coast of Venezuela, Trump says",
+    "description": "The U.S. has seized a sanctioned oil tanker off the coast of Venezuela, President Donald Trump said on Wednesday, a move that sent oil prices higher and sharply escalated tensions between Washington and Caracas.",
+    "link": "https://www.independent.ie/world-news/north-america/us-seizes-sanctioned-oil-tanker-off-coast-of-venezuela-trump-says/a2145527628.html",
+    "timestamp": "2025-12-11T07:03:27Z"
+  },
+  {
+    "title": "Trump 'gold card' fast-tracks US visas for the wealthy",
+    "description": "The Trump administration has introduced a website for applicants who can pay $1 million to expedite their visa process. Trump says it will provide \"citizenship for all qualified and vetted people.\" President Donald Trump's administration has launched a new, a\u2026",
+    "link": "https://www.dw.com/en/trump-gold-card-fast-tracks-us-visas-for-the-wealthy/a-75100618",
+    "timestamp": "2025-12-11T06:59:00Z"
+  },
+  {
     "title": "Mexico raises tariffs on Chinese imports",
     "description": "Mexican lawmakers have backed a measure to raise tariffs on goods from China and other countries that do not have trade agreements with Mexico, despite strong pushback from Beijing.",
     "link": "https://www.hurriyetdailynews.com/mexico-raises-tariffs-on-chinese-imports-216686",
@@ -108,27 +150,27 @@
     "timestamp": "2025-12-11T06:00:00Z"
   },
   {
-    "title": "Trump threatens \u201csevere\u201d Canadian fertilizer tariffs as farm relief plan takes shape",
-    "description": "President Donald Trump warned of imposing \u201cvery severe\u201d tariffs on Canadian fertilizer imports (potash and nitrogen), citing U.S. dependence on Canada\u2014which supplies 95% of America\u2019s potash\u2014as a vulnerability. A new relief program allocates $11 billion to row\u2026",
-    "link": "https://www.naturalnews.com/2025-12-11-trump-threatens-severe-tariffs-on-canadian-fertilizer.html",
-    "timestamp": "2025-12-11T06:00:00Z"
-  },
-  {
     "title": "European leaders defend continent amid Trump\u2019s \u201cweak\u201d criticism",
     "description": "President Donald Trump labels the EU as \u201cweak\u201d and incompetent on migration and Ukraine, claiming countries like Britain, France and Germany are being \u201cdestroyed\u201d by mass migration. He doubles down on his nationalist \u201cAmerica First\u201d stance, favoring bilateral\u2026",
     "link": "https://www.naturalnews.com/2025-12-11-european-leaders-defend-continent-amid-trumps-criticism.html",
     "timestamp": "2025-12-11T06:00:00Z"
   },
   {
-    "title": "A new front in the trade war: Trump targets Canadian fertilizer",
-    "description": "President Donald Trump has threatened \u201cvery severe\u201d tariffs on Canadian fertilizer imports to bolster U.S. production. The threat comes alongside a new $12 billion aid package for American farmers struggling with high input costs. The U.S. is heavily reliant \u2026",
-    "link": "https://www.naturalnews.com/2025-12-11-new-front-trade-war-trump-targets-canadian-fertilizer.html",
+    "title": "Trump threatens \u201csevere\u201d Canadian fertilizer tariffs as farm relief plan takes shape",
+    "description": "President Donald Trump warned of imposing \u201cvery severe\u201d tariffs on Canadian fertilizer imports (potash and nitrogen), citing U.S. dependence on Canada\u2014which supplies 95% of America\u2019s potash\u2014as a vulnerability. A new relief program allocates $11 billion to row\u2026",
+    "link": "https://www.naturalnews.com/2025-12-11-trump-threatens-severe-tariffs-on-canadian-fertilizer.html",
     "timestamp": "2025-12-11T06:00:00Z"
   },
   {
     "title": "Trump\u2019s phone call: A pivotal moment in the Thailand-Cambodia border crisis",
     "description": "President Donald Trump, known for his assertive foreign policy, decided to intervene in the ongoing Thailand-Cambodia border crisis, which had displaced over 500,000 people and claimed dozens of lives. His decision came as heavy fighting had erupted again, le\u2026",
     "link": "https://www.naturalnews.com/2025-12-11-trumps-phone-call-pivotal-thailand-cambodia-border-crisis.html",
+    "timestamp": "2025-12-11T06:00:00Z"
+  },
+  {
+    "title": "A new front in the trade war: Trump targets Canadian fertilizer",
+    "description": "President Donald Trump has threatened \u201cvery severe\u201d tariffs on Canadian fertilizer imports to bolster U.S. production. The threat comes alongside a new $12 billion aid package for American farmers struggling with high input costs. The U.S. is heavily reliant \u2026",
+    "link": "https://www.naturalnews.com/2025-12-11-new-front-trade-war-trump-targets-canadian-fertilizer.html",
     "timestamp": "2025-12-11T06:00:00Z"
   },
   {
@@ -342,15 +384,15 @@
     "timestamp": "2025-12-11T04:54:00Z"
   },
   {
-    "title": "Ukraine updates: NATO says alliance is Russia's next target",
-    "description": "NATO chief Mark Rutte says allies are not adequately prepared to meet the threat Moscow poses. Meanwhile, Kyiv has reportedly sent a revised peace plan to Washington. DW has more.",
-    "link": "https://www.dw.com/en/ukraine-updates-nato-says-alliance-is-russias-next-target/live-75100132",
-    "timestamp": "2025-12-11T04:54:00Z"
-  },
-  {
     "title": "Ukraine set for more peace plan talks with key allies",
     "description": "Ukraine is ready to join more talks with key partners from the \"Coalition of the Willing\" group that is meeting virtually this morning. Plus, keeping track of whether Ukraine sent a revised peace proposal to Washington. 'Coalition of the Willing' talks to foc\u2026",
     "link": "https://www.dw.com/en/ukraine-set-for-more-peace-plan-talks-with-key-allies/live-75100132",
+    "timestamp": "2025-12-11T04:54:00Z"
+  },
+  {
+    "title": "Ukraine updates: NATO says alliance is Russia's next target",
+    "description": "NATO chief Mark Rutte says allies are not adequately prepared to meet the threat Moscow poses. Meanwhile, Kyiv has reportedly sent a revised peace plan to Washington. DW has more.",
+    "link": "https://www.dw.com/en/ukraine-updates-nato-says-alliance-is-russias-next-target/live-75100132",
     "timestamp": "2025-12-11T04:54:00Z"
   },
   {
@@ -508,47 +550,5 @@
     "description": "Foreigners who travel to the United States without a visa may soon be required to submit social media information.",
     "link": "https://nypost.com/2025/12/10/us-news/foreigners-traveling-to-the-us-without-a-visa-could-be-part-of-new-social-media-screening/",
     "timestamp": "2025-12-11T03:40:43Z"
-  },
-  {
-    "title": "\u2018South Park\u2019 Season 28 Ending Explained: What Happened to Trump and Satan\u2019s Baby?",
-    "description": "Stan teams up with Jesus and the Woodland Critters\u00a0for a twisty Christmas miracle\nThe post \u2018South Park\u2019 Season 28 Ending Explained: What Happened to Trump and Satan\u2019s Baby? appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/south-park-season-28-episode-5-ending-explained-trump-baby-suicide/",
-    "timestamp": "2025-12-11T03:40:18Z"
-  },
-  {
-    "title": "Cristiano Ronaldo takes another hit from Lionel Messi ahead of the next World Cup",
-    "description": "There&apos;s no doubt that for more than a decade they captured the world&apos;s attention: different styles but the same ambition. Both pushed their careers to the highest level,",
-    "link": "https://www.marca.com/en/world-cup/2025/12/11/693a393bca474193778b45fc.html",
-    "timestamp": "2025-12-11T03:36:59Z"
-  },
-  {
-    "title": "Despite opposition, US House passes record $901bn defence spending bill",
-    "description": "The bill faced notable opposition from lawmakers concerned about the Trump administration's management of the military.",
-    "link": "https://www.aljazeera.com/news/2025/12/11/despite-opposition-us-house-passes-record-901bn-defence-spending-bill",
-    "timestamp": "2025-12-11T03:36:36Z"
-  },
-  {
-    "title": "U.S. Senate's Crypto Market Structure Bill Gets Messy as Calendar Weighs Down",
-    "description": "The White House has shut down proposals, and lawmakers are circulating the Democrats' asks in what had been a close negotiation, revealing 11th-hour pressure.",
-    "link": "https://www.coindesk.com/policy/2025/12/10/u-s-senate-s-crypto-market-structure-bill-gets-messy-as-calendar-weighs-down",
-    "timestamp": "2025-12-11T03:35:18Z"
-  },
-  {
-    "title": "Donald Trump Says CNN Should Be Sold as Part of Any Warner Bros. Discovery Deal Because the \u2018People Running It\u2019 Currently Are \u2018Either Corrupt",
-    "description": "Donald Trump Says CNN Should Be Sold as Part of Any Warner Bros. Discovery Deal Because the \u2018People Running It\u2019 Currently Are \u2018Either Corrupt or Incompetent\u2019Variety Trump enters Warner Bros. fight, says it\u2019s \u2018imperative that CNN be sold\u2019CNN Trump says CNN 'sh\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=180359157",
-    "timestamp": "2025-12-11T03:32:18Z"
-  },
-  {
-    "title": "US House votes for $800 million in Ukraine aid",
-    "description": "The US House of Representatives has passed a bill providing $800 million in Ukraine aid Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/629292-us-approves-military-aid-ukraine/",
-    "timestamp": "2025-12-11T03:30:40Z"
-  },
-  {
-    "title": "Trump threatens to primary Indiana Republicans ahead of key redistricting vote",
-    "description": "The Indiana Senate will vote on a new map on Thursday that could create two new GOP-leaning House seats.",
-    "link": "https://www.politico.com/news/2025/12/10/trump-indiana-redistricting-republicans-rodric-bray-00686257",
-    "timestamp": "2025-12-11T03:30:15Z"
   }
 ]
