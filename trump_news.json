@@ -1,6 +1,24 @@
 [
   {
     "title": "US unemployment claims fall again last week, remain at historically healthy level",
+    "description": "The latest figures come despite some signs that the labor market is weakening.",
+    "link": "https://www.bostonherald.com/2025/12/24/unemployment-benefits-remains-historically-healthy/",
+    "timestamp": "2025-12-24T13:56:08Z"
+  },
+  {
+    "title": "How Intel CEO Lip-Bu Tan turned Trump\u2019s attack into a White House deal",
+    "description": "While questions remain over Intel\u2019s manufacturing challenges and Tan\u2019s technical depth, the deal signals a new era of US industrial policy centred on strategic equity stakes",
+    "link": "https://www.thehindubusinessline.com/info-tech/how-intel-ceo-lip-bu-tan-turned-trumps-attack-into-a-white-house-deal/article70434118.ece",
+    "timestamp": "2025-12-24T13:54:36Z"
+  },
+  {
+    "title": "Gold prices break another record to cap a monster run in 2025",
+    "description": "The rally striking not just for its scale \u2014 gold is up roughly 70% in 2025 \u2014 but also because it\u2019s happening alongside a rally in stocks",
+    "link": "https://qz.com/gold-prices-record-stocks-usd-inflation",
+    "timestamp": "2025-12-24T13:51:45Z"
+  },
+  {
+    "title": "US unemployment claims fall again last week, remain at historically healthy level",
     "description": "The number of Americans applying for unemployment benefits fell last week and remain at historically healthy levels despite some signs that the labor market is weakening",
     "link": "https://abcnews.go.com/Business/wireStory/us-applications-fall-week-remain-historically-healthy-level-128676219",
     "timestamp": "2025-12-24T13:51:21Z"
@@ -402,15 +420,15 @@
     "timestamp": "2025-12-24T12:00:00Z"
   },
   {
-    "title": "Friend, Neighbor, Military Target",
-    "description": "Trump has presented Mexico\u2019s Claudia Sheinbaum with a near-impossible dilemma.",
-    "link": "https://www.theatlantic.com/national-security/2025/12/mexico-claudia-sheinbaum-trump/685397/",
-    "timestamp": "2025-12-24T12:00:00Z"
-  },
-  {
     "title": "Supreme Court rules against Trump's troops deployment in Illinois and the latest Epstein file release: Morning Rundown",
     "description": "The Supreme Court rules against the Trump administration over National Guard deployment in Illinois.",
     "link": "https://www.nbcnews.com/news/us-news/supreme-court-rules-trumps-troops-deployment-illinois-latest-epstein-f-rcna250778",
+    "timestamp": "2025-12-24T12:00:00Z"
+  },
+  {
+    "title": "Friend, Neighbor, Military Target",
+    "description": "Trump has presented Mexico\u2019s Claudia Sheinbaum with a near-impossible dilemma.",
+    "link": "https://www.theatlantic.com/national-security/2025/12/mexico-claudia-sheinbaum-trump/685397/",
     "timestamp": "2025-12-24T12:00:00Z"
   },
   {
@@ -538,23 +556,5 @@
     "description": "\u2018Tis the season for some exciting Xmas movie facts! Christmas movies are an important staple of the holiday season along with hot cocoa, bringing a giant tree inside your house, and buying yourself a ton of gifts on Black Friday (if you don\u2019t do this, you\u2019re \u2026",
     "link": "https://pleated-jeans.com/2025/12/24/christmas-movie-facts-12-16-20/",
     "timestamp": "2025-12-24T11:08:49Z"
-  },
-  {
-    "title": "How a Silicon Valley dealmaker charmed Trump and gave Intel a lifeline",
-    "description": "Intel CEO Lip-Bu Tan met with President Trump. This meeting secured billions in U.S. government investment for Intel. The deal gives the U.S. government a significant stake in the chipmaker. Tan's leadership is being questioned regarding technical expertise. \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/how-a-silicon-valley-dealmaker-charmed-trump-and-gave-intel-a-lifeline/articleshow/126159212.cms",
-    "timestamp": "2025-12-24T11:05:38Z"
-  },
-  {
-    "title": "Israel covertly arms Druze militia in Syria, report says",
-    "description": "Israel began supplying weapons to Syria\u2019s Druze community only days after Bashar al-Assad was ousted last December, the Washington Post has reported.",
-    "link": "https://www.hurriyetdailynews.com/israel-covertly-arms-druze-militia-in-syria-report-says-217147",
-    "timestamp": "2025-12-24T11:01:25Z"
-  },
-  {
-    "title": "U.S. grandmother mistakenly hit with $802 tariff bill on $30 Barbie shipped from Canada",
-    "description": "A $30 Barbie from Canada turned into a $802 tariff bill for a Boston grandmother due to a FedEx customs error.",
-    "link": "https://nationalpost.com/news/world/grandmother-canada-barbie-doll-u-s-tariff",
-    "timestamp": "2025-12-24T11:00:55Z"
   }
 ]
