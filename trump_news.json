@@ -1,5 +1,29 @@
 [
   {
+    "title": "Politicians are slowly but surely starting to try out AI for themselves",
+    "description": "\"I use it, despite the fact that I think it's going to destroy us,\" one Democratic senator told Business Insider.",
+    "link": "https://www.businessinsider.com/lawmakers-use-ai-chatgpt-grok-claude-themselves-2025-12",
+    "timestamp": "2025-12-28T10:41:01Z"
+  },
+  {
+    "title": "Moscow's response to European attack will be devastating: Russian foreign minister Lavrov",
+    "description": "As Zelenskyy is set to meet Trump with his peace plan backed by key European powers, who according to media reports, insist on deployment of European troops as part of security guarantees for Kiev, Lavrov said they will be a 'legitimate target' for Russia.",
+    "link": "https://economictimes.indiatimes.com/news/defence/moscows-response-to-european-attack-will-be-devastating-russian-foreign-minister-lavrov/articleshow/126214680.cms",
+    "timestamp": "2025-12-28T10:35:35Z"
+  },
+  {
+    "title": "Storms, GAA clashes and crime: The stories that caught readers\u2019 attention in 2025",
+    "description": "Breaking down the stories readers were most interested in, there was a clear winner in 2025, and it was not the presidential election",
+    "link": "https://www.irishtimes.com/media/2025/12/28/storms-gaa-clashes-and-crime-the-stories-that-caught-readers-attention-in-2025/",
+    "timestamp": "2025-12-28T10:30:00Z"
+  },
+  {
+    "title": "Zelensky looks to close out Ukraine plan in meeting with Trump",
+    "description": "Ukrainian President Volodymyr Zelensky will sit down with Donald Trump on Sunday and seek to secure the US president\u2019s stamp of approval for a new proposal to end the nearly four-year conflict with Russia. The 20-point plan, which emerged from weeks of intens\u2026",
+    "link": "https://www.digitaljournal.com/world/zelensky-looks-to-close-out-ukraine-plan-in-meeting-with-trump/article",
+    "timestamp": "2025-12-28T10:27:20Z"
+  },
+  {
     "title": "EU chiefs vow Ukraine support will not falter",
     "description": "EU chiefs Ursula von der Leyen and Antonio Costa on Dec. 27 vowed the European Union's support for Ukraine would not falter ahead of Ukrainian President Volodymyr Zelensky's talks with U.S. President Donald Trump.",
     "link": "https://www.hurriyetdailynews.com/eu-chiefs-vow-ukraine-support-will-not-falter-217255",
@@ -24,12 +48,6 @@
     "timestamp": "2025-12-28T10:00:26Z"
   },
   {
-    "title": "Trump to meet with Zelenskyy at Mar-a-Lago as peace talks advance",
-    "description": "President Donald Trump and Ukrainian President Volodymyr Zelenskyy are set to meet in Florida on Sunday afternoon as both leaders look to make progress on a potential peace deal to end the war in Ukraine.\u201cA lot can be decided before the New Year,\u201d Zelenskyy w\u2026",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-meet-zelenskyy-mar-lago-peace-talks-ukraine-russia-rcna251009",
-    "timestamp": "2025-12-28T10:00:00Z"
-  },
-  {
     "title": "The 10 Senate races that will decide the balance of power in 2026",
     "description": "The fight for the Senate is expanding to a few more states next year, as both parties tout talented candidates and point to political dynamics tilting in their favor",
     "link": "https://www.nbcnews.com/politics/2026-election/10-senate-races-will-decide-balance-power-2026-rcna248276",
@@ -39,6 +57,12 @@
     "title": "Year in Review 2025: Consolidation, Chaos, and Cookies",
     "description": "With 2026 just days away, take a look at the major stories of 2025 - and their impact across the ad tech landscape\u2026\nMergers old and new reshaped the agency landscape; regulators pushed back against the giants; and Google quietly admitted [...]\nThe post Year i\u2026",
     "link": "https://www.exchangewire.com/blog/2025/12/28/year-in-review-2025-consolidation-chaos-and-cookies/",
+    "timestamp": "2025-12-28T10:00:00Z"
+  },
+  {
+    "title": "Trump to meet with Zelenskyy at Mar-a-Lago as peace talks advance",
+    "description": "President Donald Trump and Ukrainian President Volodymyr Zelenskyy are set to meet in Florida on Sunday afternoon as both leaders look to make progress on a potential peace deal to end the war in Ukraine.\u201cA lot can be decided before the New Year,\u201d Zelenskyy w\u2026",
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-meet-zelenskyy-mar-lago-peace-talks-ukraine-russia-rcna251009",
     "timestamp": "2025-12-28T10:00:00Z"
   },
   {
@@ -294,15 +318,15 @@
     "timestamp": "2025-12-28T05:31:03Z"
   },
   {
-    "title": "Richard Curran: The big winners and losers in the Irish economy\u2019s year of living dangerously",
-    "description": "It has been the year of living dangerously for the Irish economy. But like the canny surfer riding big waves, the economy somehow managed to stay up \u2014 despite the ominous signs from Donald Trump, geopolitical uncertainty and rising costs.",
-    "link": "https://www.independent.ie/business/irish/richard-curran-the-big-winners-and-losers-in-the-irish-economys-year-of-living-dangerously/a366899754.html",
-    "timestamp": "2025-12-28T05:30:00Z"
-  },
-  {
     "title": "Letters to the editor: Irish secularists are still subject to the tyranny of the majority in schools",
     "description": "Madam \u2014 I would have expected more from David Quinn (\u2018Our favourite festive stories guide us to the true spirit of Christmas\u2019, December 21) than his cliched, one-dimensional portrayal of atheism.",
     "link": "https://www.independent.ie/opinion/letters/letters-to-the-editor-irish-secularists-are-still-subject-to-the-tyranny-of-the-majority-in-schools/a772982864.html",
+    "timestamp": "2025-12-28T05:30:00Z"
+  },
+  {
+    "title": "Richard Curran: The big winners and losers in the Irish economy\u2019s year of living dangerously",
+    "description": "It has been the year of living dangerously for the Irish economy. But like the canny surfer riding big waves, the economy somehow managed to stay up \u2014 despite the ominous signs from Donald Trump, geopolitical uncertainty and rising costs.",
+    "link": "https://www.independent.ie/business/irish/richard-curran-the-big-winners-and-losers-in-the-irish-economys-year-of-living-dangerously/a366899754.html",
     "timestamp": "2025-12-28T05:30:00Z"
   },
   {
@@ -550,29 +574,5 @@
     "description": "Morons can\u2019t fix this. It\u2019s time the dumb kids were put out to pasture.\nThe post Opinion: The ugly, stupid, expensive, death of American Exceptionalism \u2013 And the dumb kids that never grew up. appeared first on Digital Journal.",
     "link": "https://www.digitaljournal.com/world/opinion-the-ugly-stupid-expensive-death-of-american-exceptionalism-and-the-dumb-kids-that-never-grew-up/article",
     "timestamp": "2025-12-28T00:51:04Z"
-  },
-  {
-    "title": "Fearing deportation, Hondurans in the US send more cash home than ever before",
-    "description": "There's been a surge in remittances going back to Honduras amid Trump's immigration crackdown.",
-    "link": "https://www.bbc.com/news/articles/c93wjn1y72vo",
-    "timestamp": "2025-12-28T00:48:09Z"
-  },
-  {
-    "title": "How frogs went from right-wing meme to anti-ICE protest symbol",
-    "description": "The frog has become a frequent symbol at protests against the Trump administration.",
-    "link": "https://www.bbc.com/news/articles/cn987yqnee9o",
-    "timestamp": "2025-12-28T00:47:32Z"
-  },
-  {
-    "title": "How oil, drugs and immigration fueled Trump's Venezuela campaign",
-    "description": "President Donald Trump's administration launched a secret military operation targeting Latin American drug cartels. This campaign intensified pressure on Venezuela's leader, Nicolas Maduro. The operation involved maritime strikes and a quasi-blockade of oil t\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/how-oil-drugs-and-immigration-fueled-trumps-venezuela-campaign/articleshow/126211245.cms",
-    "timestamp": "2025-12-28T00:42:48Z"
-  },
-  {
-    "title": "\u2018Stop Being Awful\u2019 Jake Tapper Slams Hooligans Yelling \u2018Retard\u2019 at Tim Walz\u2019s House",
-    "description": "Jake Tapper admonished the \"awful\" people who continue to shout slurs at Gov. Tim Walz's house in a parroting of President Donald Trump's insult.\nThe post \u2018Stop Being Awful\u2019 Jake Tapper Slams Hooligans Yelling \u2018Retard\u2019 at Tim Walz\u2019s House first appeared on Me\u2026",
-    "link": "https://www.mediaite.com/media/news/stop-being-awful-jake-tapper-slams-hooligans-yelling-retard-at-tim-walzs-house/",
-    "timestamp": "2025-12-28T00:30:45Z"
   }
 ]
