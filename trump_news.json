@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trump says US hit \u2018big facility\u2019 in Venezuela linked to alleged drug boats",
+    "description": "President\u2019s reference is the first time the US has announced a land strike in Venezuela",
+    "link": "https://www.irishtimes.com/world/americas/2025/12/30/trump-says-us-hit-big-facility-in-venezuela-linked-to-alleged-drug-boats/",
+    "timestamp": "2025-12-30T07:39:10Z"
+  },
+  {
+    "title": "Attack on Putin: PM Modi raises concern after Russia claims Ukrainian drones targeted residence",
+    "description": "Prime Minister Narendra Modi  raised alarms about a purported drone attack on President Vladimir Putin's home, calling for calm and advocating for diplomatic solutions as the route to stability. Meanwhile, Russia has placed blame on Ukraine, which has firmly \u2026",
+    "link": "https://economictimes.indiatimes.com/news/india/putin-attack-residence-modi-response-russia-ukraine-drone-claim-peace-talks/articleshow/126247022.cms",
+    "timestamp": "2025-12-30T07:24:04Z"
+  },
+  {
+    "title": "Trump says US hit dock for Venezuela drug boats",
+    "description": "The United States hit and destroyed a docking area for alleged Venezuela drug boats, President Donald Trump said Monday, in what could amount to the first land strike of the military campaign against trafficking from Latin America. The US leader\u2019s confirmatio\u2026",
+    "link": "https://www.digitaljournal.com/world/trump-says-us-hit-dock-for-venezuela-drug-boats/article",
+    "timestamp": "2025-12-30T07:23:22Z"
+  },
+  {
     "title": "\u2018We are heading for a war Europe might lose\u2019: Continent shifts to military footing",
     "description": "European governments are preparing the public for the possibility of conflict as US security guarantees fade",
     "link": "https://www.irishtimes.com/world/europe/2025/12/30/we-are-heading-for-a-war-europe-might-lose-continent-shifting-to-a-military-footing/",
@@ -150,15 +168,15 @@
     "timestamp": "2025-12-30T06:00:00Z"
   },
   {
-    "title": "Lavrov claims Ukraine launched 91 drones at Putin\u2019s residence, vows to revise peace talk stance",
-    "description": "Russia accuses Ukraine of a drone attack on Putin\u2019s residence, vowing severe retaliation. Ukraine\u2019s Zelensky denies the claim, calling it a fabrication to justify escalation. Russia warns it will revise its negotiation stance, citing alleged Ukrainian \u201cstate \u2026",
-    "link": "https://www.naturalnews.com/2025-12-30-lavrov-ukraine-drones-putin-residence.html",
-    "timestamp": "2025-12-30T06:00:00Z"
-  },
-  {
     "title": "Pentagon warns of China\u2019s rapidly expanding nuclear arsenal",
     "description": "Beijing has deployed over\u00a0100 DF-31 ICBMs\u00a0(6,800-mile range) in underground silos across Xinjiang, Gansu and Inner Mongolia, with plans to exceed\u00a01,500 nuclear warheads by 2037. The Pentagon warns China is preparing for a potential military takeover of Taiwan\u2026",
     "link": "https://www.naturalnews.com/2025-12-30-pentagon-warns-chinas-rapidly-expanding-nuclear-arsenal.html",
+    "timestamp": "2025-12-30T06:00:00Z"
+  },
+  {
+    "title": "Lavrov claims Ukraine launched 91 drones at Putin\u2019s residence, vows to revise peace talk stance",
+    "description": "Russia accuses Ukraine of a drone attack on Putin\u2019s residence, vowing severe retaliation. Ukraine\u2019s Zelensky denies the claim, calling it a fabrication to justify escalation. Russia warns it will revise its negotiation stance, citing alleged Ukrainian \u201cstate \u2026",
+    "link": "https://www.naturalnews.com/2025-12-30-lavrov-ukraine-drones-putin-residence.html",
     "timestamp": "2025-12-30T06:00:00Z"
   },
   {
@@ -222,12 +240,6 @@
     "timestamp": "2025-12-30T05:30:00Z"
   },
   {
-    "title": "Pop culture review of 2025: Samantha Mumba\u2019s Eurovision rant, Swiftwatch and unconsciously coupling at a Coldplay gig",
-    "description": "after years of threatening a coup, 2025 was the year pop culture finally took over. It stormed the corridors of power, like Mariah Carey running in kitten heels through a perfume ad, and ordered its own ascension from \u201cdistraction from the news\u201d to \u201cvery much\u2026",
-    "link": "https://www.independent.ie/life/pop-culture-review-of-2025-samantha-mumbas-eurovision-rant-swiftwatch-and-unconsciously-coupling-at-a-coldplay-gig/a253360781.html",
-    "timestamp": "2025-12-30T05:30:00Z"
-  },
-  {
     "title": "Blow to peace hopes as Vladimir Putin says his house was target of Ukrainian drone attack",
     "description": "Russia accused Ukraine yesterday of trying to attack president Vladimir Putin\u2019s residence in northern Russia, although it provided no evidence to back up an assertion that Kyiv dismissed as baseless and designed to undermine peace negotiations.",
     "link": "https://www.independent.ie/world-news/europe/blow-to-peace-hopes-as-vladimir-putin-says-his-house-was-target-of-ukrainian-drone-attack/a2090397122.html",
@@ -237,6 +249,12 @@
     "title": "\u2018There was a major explosion\u2019 \u2013 Trump says US hit area where boats \u2018loaded\u2019 drugs in Venezuela",
     "description": "US president Donald Trump said yesterday the United States had \u201chit\u201d an area in Venezuela where boats are loaded with drugs, which would mark the first known time the United States has carried out operations on land in Venezuela since a pressure campaign bega\u2026",
     "link": "https://www.independent.ie/world-news/north-america/there-was-a-major-explosion-trump-says-us-hit-area-where-boats-loaded-drugs-in-venezuela/a83234350.html",
+    "timestamp": "2025-12-30T05:30:00Z"
+  },
+  {
+    "title": "Pop culture review of 2025: Samantha Mumba\u2019s Eurovision rant, Swiftwatch and unconsciously coupling at a Coldplay gig",
+    "description": "after years of threatening a coup, 2025 was the year pop culture finally took over. It stormed the corridors of power, like Mariah Carey running in kitten heels through a perfume ad, and ordered its own ascension from \u201cdistraction from the news\u201d to \u201cvery much\u2026",
+    "link": "https://www.independent.ie/life/pop-culture-review-of-2025-samantha-mumbas-eurovision-rant-swiftwatch-and-unconsciously-coupling-at-a-coldplay-gig/a253360781.html",
     "timestamp": "2025-12-30T05:30:00Z"
   },
   {
@@ -532,17 +550,5 @@
     "description": "President Donald Trump met with Volodymyr Zelenskyy and Benjamin Netanyahu, and it was a fitting way to end the year, writes Sky's Mark Stone.",
     "link": "https://news.sky.com/story/a-head-spinning-two-days-of-trump-diplomacy-but-how-much-was-theatrical-hot-air-13488600",
     "timestamp": "2025-12-30T02:57:00Z"
-  },
-  {
-    "title": "Zelensky: The story about Ukrainian drone attacks on Putin's Russian house is a lie",
-    "description": "Ukrainian President Volodymyr Zelenskyy has vehemently rejected Russia's serious accusations that a drone attack targeted one of Russian President Vladimir Putin's official residences. The Ukrainian President accuses Russia of making these false accusations w\u2026",
-    "link": "https://english.gossiplankanews.com/2025/12/zelensky-story-about-ukrainian-drone.html",
-    "timestamp": "2025-12-30T02:55:21Z"
-  },
-  {
-    "title": "Trump Says 'Hero' Netanyahu Deserves Pardon, Israeli President Herzog Responds",
-    "description": "President Donald Trump renewed his call to secure Israeli Prime Minister Benjamin Netanyahu a pardon, with Israeli President Isaac Herzog quickly denying Trump's claim that a pardon was already \"on its way.\"\nThe post Trump Says \u2018Hero\u2019 Netanyahu Deserves Pardo\u2026",
-    "link": "https://www.breitbart.com/middle-east/2025/12/29/trump-hero-netanyahu-deserves-pardon-israeli-president-herzog-responds/",
-    "timestamp": "2025-12-30T02:45:58Z"
   }
 ]
