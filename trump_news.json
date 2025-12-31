@@ -1,5 +1,17 @@
 [
   {
+    "title": "Brett Kavanaugh Is Trying to Walk Back \u201cKavanaugh Stops.\u201d Too Late.",
+    "description": "It appears the justice has some regrets.",
+    "link": "https://slate.com/news-and-politics/2025/12/brett-kavanaugh-stops-immigration-racial-profiling-ice.html",
+    "timestamp": "2025-12-30T10:45:00Z"
+  },
+  {
+    "title": "Trump's embrace of Netanyahu is a strategic tactic that offers little clarity on post-war Gaza",
+    "description": "Public praise has long masked deep disagreements between Trump and Netanyahu, but the prime minister's aides now fear the U.S. president may push demands Netanyahu's fragile coalition cannot accept",
+    "link": "https://www.haaretz.com/israel-news/2025-12-30/ty-article/.premium/trumps-embrace-of-netanyahu-is-a-tactic-that-offers-little-clarity-on-post-war-gaza/0000019b-6e9f-dc6a-a19b-7edf78ee0000",
+    "timestamp": "2025-12-30T10:36:51Z"
+  },
+  {
     "title": "Trump warns Hamas of \u2018hell to pay\u2019",
     "description": "Following talks with Israeli Prime Minister Benjamin Netanyahu, US President Donald Trump has demanded that Hamas disarm Read Full Article at RT.com",
     "link": "https://www.rt.com/news/630238-trump-demand-hamas-disarm/",
@@ -156,15 +168,15 @@
     "timestamp": "2025-12-30T09:51:38Z"
   },
   {
-    "title": "'Israel is inherently anti-peace': Iran warns Israel's recognition of Somaliland aims at destabilizing region",
-    "description": "Iran has again condemned the Israeli regime's self-described recognition of Somaliland, calling the move \"fundamentally baseless and meaningless\" and part of a broader strategy aimed at destabilizing the region.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/12/iran-251229-presstv03.htm",
-    "timestamp": "2025-12-30T09:51:38Z"
-  },
-  {
     "title": "Iran vows 'harsh response' to any aggression",
     "description": "A senior advisor to Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei has strongly condemned fresh US threats of military strike against the country, vowing a crushing response to any possible aggression.",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/12/iran-251229-presstv01.htm",
+    "timestamp": "2025-12-30T09:51:38Z"
+  },
+  {
+    "title": "'Israel is inherently anti-peace': Iran warns Israel's recognition of Somaliland aims at destabilizing region",
+    "description": "Iran has again condemned the Israeli regime's self-described recognition of Somaliland, calling the move \"fundamentally baseless and meaningless\" and part of a broader strategy aimed at destabilizing the region.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/12/iran-251229-presstv03.htm",
     "timestamp": "2025-12-30T09:51:38Z"
   },
   {
@@ -198,18 +210,6 @@
     "timestamp": "2025-12-30T09:45:52Z"
   },
   {
-    "title": "Russia Claims Ukraine Targeted Putin Residence, Vows To Retaliate",
-    "description": "Russian Foreign Minister Sergei Lavrov claimed Ukraine targeted one of President Vladimir Putin's residences and said Moscow will retaliate and review its stance in negotiations seeking an end to its ongoing full-scale invasion of Ukraine.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/12/ukraine-251229-rferl02.htm",
-    "timestamp": "2025-12-30T09:45:20Z"
-  },
-  {
-    "title": "Trump threatens new attack on Iran if it attempts to rearm",
-    "description": "U.S. President Donald Trump on Monday threatened to attack Iran again if Tehran attempts to rearm.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/12/iran-251230-pdo01.htm",
-    "timestamp": "2025-12-30T09:45:20Z"
-  },
-  {
     "title": "Trump 'very angry' on reported drone attack on Russian presidential residence denied by Ukraine: media",
     "description": "Russian Foreign Minister Sergei Lavrov said on Monday that Kiev launched an overnight drone attack targeting the presidential residence in Russia's northwestern region of Novgorod. When asked if he was worried the alleged attack could affect his efforts to br\u2026",
     "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/12/ukraine-251230-globaltimes01.htm",
@@ -222,9 +222,15 @@
     "timestamp": "2025-12-30T09:45:20Z"
   },
   {
-    "title": "OCHA-managed humanitarian funds receive landmark US$2 billion contribution from United States",
-    "description": "Statement by Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251229-unocha02.htm",
+    "title": "Russia Claims Ukraine Targeted Putin Residence, Vows To Retaliate",
+    "description": "Russian Foreign Minister Sergei Lavrov claimed Ukraine targeted one of President Vladimir Putin's residences and said Moscow will retaliate and review its stance in negotiations seeking an end to its ongoing full-scale invasion of Ukraine.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/12/ukraine-251229-rferl02.htm",
+    "timestamp": "2025-12-30T09:45:20Z"
+  },
+  {
+    "title": "Trump threatens new attack on Iran if it attempts to rearm",
+    "description": "U.S. President Donald Trump on Monday threatened to attack Iran again if Tehran attempts to rearm.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2025/12/iran-251230-pdo01.htm",
     "timestamp": "2025-12-30T09:45:20Z"
   },
   {
@@ -240,15 +246,21 @@
     "timestamp": "2025-12-30T09:45:20Z"
   },
   {
-    "title": "Maduro: Venezuela's Armed Forces more ready than ever",
-    "description": "President of Venezuela Nicolas Maduro stressed that his country's armed forces are more ready than ever to protect Venezuela.",
-    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251229-irna02.htm",
+    "title": "OCHA-managed humanitarian funds receive landmark US$2 billion contribution from United States",
+    "description": "Statement by Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251229-unocha02.htm",
     "timestamp": "2025-12-30T09:45:20Z"
   },
   {
     "title": "Coast Guard awards contracts to build Arctic Security Cutters",
     "description": "The U.S. Coast Guard announced the award of two contracts to build up to six Arctic Security Cutter (ASC) icebreakers - ships designed to break through and navigate ice-covered waters - between the United States and Finland in a major step forward for America\u2026",
     "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251229-uscg01.htm",
+    "timestamp": "2025-12-30T09:45:20Z"
+  },
+  {
+    "title": "Maduro: Venezuela's Armed Forces more ready than ever",
+    "description": "President of Venezuela Nicolas Maduro stressed that his country's armed forces are more ready than ever to protect Venezuela.",
+    "link": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251229-irna02.htm",
     "timestamp": "2025-12-30T09:45:20Z"
   },
   {
@@ -306,15 +318,15 @@
     "timestamp": "2025-12-30T09:00:00Z"
   },
   {
-    "title": "What's coming up next in Canadian politics? Here are five key stories to watch in 2026",
-    "description": "2026 is shaping up to be an action-packed year in Canadian politics. Federal opposition parties will make key decisions on their futures as the Liberal government, just one seat shy of a majority government, strategizes what to do next while juggling U.S. tra\u2026",
-    "link": "https://www.cbc.ca/news/politics/five-key-stories-canadian-politics-carney-poilievre-trump-trade-canada-9.7028865",
-    "timestamp": "2025-12-30T09:00:00Z"
-  },
-  {
     "title": "After years on their back foot, here's why Democrats are feeling good about 2026",
     "description": "For much of the last two years, the U.S. Democratic Party has been on its back foot, enduring painful electoral defeats to an omnipresent Republican opponent while grappling with a troubling decline in voter registration and a listless party base. But in the \u2026",
     "link": "https://www.cbc.ca/news/world/democrats-are-feeling-good-2026-9.7029512",
+    "timestamp": "2025-12-30T09:00:00Z"
+  },
+  {
+    "title": "What's coming up next in Canadian politics? Here are five key stories to watch in 2026",
+    "description": "2026 is shaping up to be an action-packed year in Canadian politics. Federal opposition parties will make key decisions on their futures as the Liberal government, just one seat shy of a majority government, strategizes what to do next while juggling U.S. tra\u2026",
+    "link": "https://www.cbc.ca/news/politics/five-key-stories-canadian-politics-carney-poilievre-trump-trade-canada-9.7028865",
     "timestamp": "2025-12-30T09:00:00Z"
   },
   {
@@ -532,17 +544,5 @@
     "description": "China\u2019s foreign policy in 2025 was dominated by trade tension and economic disputes triggered by U.S. President Donald Trump\u2019s efforts, in his second term, to use tariffs to reshape global commerce in Washington\u2019s favor.",
     "link": "https://www.hurriyetdailynews.com/economic-rivalry-reshapes-us-china-relations-in-2025-217309",
     "timestamp": "2025-12-30T06:24:21Z"
-  },
-  {
-    "title": "Trump says US 'hit' Venezuela drug boat loading facility",
-    "description": "The attack marks the first known land operation in Venezuela since the US started what it says is a campaign against drugs cartels in the region.",
-    "link": "https://www.dw.com/en/trump-says-us-hit-venezuela-drug-boat-loading-facility/a-75337920",
-    "timestamp": "2025-12-30T06:19:00Z"
-  },
-  {
-    "title": "India-China work toward rebuilding ties in 2025 after over four years of fractious relations",
-    "description": "NSA Ajit Doval and Chinese Foreign Minister Wang Yi, the Special Representatives of India and China on the boundary question, initiated steps towards gradually improving the relations",
-    "link": "https://www.thehindubusinessline.com/news/world/india-china-work-toward-rebuilding-ties-in-2025-after-over-four-years-of-fractious-relations/article70452059.ece",
-    "timestamp": "2025-12-30T06:16:45Z"
   }
 ]
