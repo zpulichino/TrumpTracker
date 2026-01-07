@@ -1,5 +1,59 @@
 [
   {
+    "title": "The US turns back to nuclear power",
+    "description": "AI's power demands are vast and growing. The Trump administration wants nuclear reactors to meet them. Whether that's achievable, and whether communities will accept it, is another matter.\n\n-\n2026/01\n\n/ \narticle",
+    "link": "https://mondediplo.com/2026/01/09us-nuclear",
+    "timestamp": "2026-01-06T08:58:55Z"
+  },
+  {
+    "title": "Donbas: the ground neither side will cede",
+    "description": "In the Ukraine war, western Donetsk has taken on an importance far beyond its strategic value. With neither side ready to pay the political price of yielding, the deadlock risks dangerous escalation.\n\n-\n2026/01\n\n/ \narticle",
+    "link": "https://mondediplo.com/2026/01/07donbas",
+    "timestamp": "2026-01-06T08:58:52Z"
+  },
+  {
+    "title": "Ukraine: reign of the oligarchs",
+    "description": "Since independence, Ukraine's oligarchs have shaped its politics and economy, often with state complicity. Volodymyr Zelensky vowed to clean up the system, but even the war has only clipped their wings.\n\n-\n2026/01\n\n/ \narticle",
+    "link": "https://mondediplo.com/2026/01/06ukraine",
+    "timestamp": "2026-01-06T08:58:51Z"
+  },
+  {
+    "title": "Blame it on Thucydides",
+    "description": "China's President Xi says his country's rise does not mean war with the US is inevitable. But many in Washington and beyond still see great-power rivalry as a path that ends in confrontation.\n\n-\n2026/01\n\n/ \narticle",
+    "link": "https://mondediplo.com/2026/01/03china",
+    "timestamp": "2026-01-06T08:58:46Z"
+  },
+  {
+    "title": "Trump's gameplan for Latin America",
+    "description": "Donald Trump's military attack on Venezuela did not come out of the blue. It was the boldest move yet in his campaign of sustained interference across Latin America.\n\n-\n2026/01\n\n/ \narticle",
+    "link": "https://mondediplo.com/2026/01/02venezuela",
+    "timestamp": "2026-01-06T08:58:45Z"
+  },
+  {
+    "title": "Trump health decline is 'perfect storm' as niece outlines what months ahead look like",
+    "description": "Donald Trump's niece says the physical, cognitive, and mental health of the president is in decline, and has made for a \"perfect storm\".Contrasting the \"loud\" and \"quiet\" of presidents Trump and Joe Biden, Mary Trump believes many are confusing the current pr\u2026",
+    "link": "https://www.rawstory.com/donald-trump-health-2674851256/",
+    "timestamp": "2026-01-06T08:56:07Z"
+  },
+  {
+    "title": "US Health Dept to freeze $12.8 billion in funding to 5 democratic states",
+    "description": "The funding was for child care subsidies, social services and cash support for low-income families. Read more at straitstimes.com. Read more at straitstimes.com.",
+    "link": "https://www.straitstimes.com/world/united-states/us-health-dept-to-freeze-12-8-billion-in-funding-to-5-democratic-states",
+    "timestamp": "2026-01-06T08:51:12Z"
+  },
+  {
+    "title": "Colombia prepares for refugee influx after US strikes on Venezuela",
+    "description": "Already home to three million Venezuelan refugees, Colombia is worried that over a million more could try to cross over.",
+    "link": "https://www.aljazeera.com/features/2026/1/6/colombia-prepares-for-refugee-influx-after-us-strikes-on-venezuela",
+    "timestamp": "2026-01-06T08:50:55Z"
+  },
+  {
+    "title": "Venezuela launches crackdown on dissent after US capture of Nicol\u00e1s Maduro",
+    "description": "Armed militias patrol the streets and journalists arrested amid government wave of repression",
+    "link": "https://www.irishtimes.com/world/americas/2026/01/06/venezuela-launches-crackdown-on-dissent-after-us-capture-of-nicolas-maduro/",
+    "timestamp": "2026-01-06T08:50:46Z"
+  },
+  {
     "title": "U.S. national debt reaches new high of $38.5 trillion",
     "description": "High debt levels and potential fiscal dominance could lead to lower interest rates, benefiting assets like bitcoin and gold.",
     "link": "https://www.coindesk.com/markets/2026/01/06/u-s-national-debt-reaches-new-high-of-usd38-5-trillion",
@@ -450,15 +504,15 @@
     "timestamp": "2026-01-06T06:00:00Z"
   },
   {
-    "title": "Trump issues ultimatum to Iran: Surrender or face full military force",
-    "description": "Trump demands Iran\u2019s \u201cunconditional surrender,\u201d threatening military action while revealing U.S./allied control of Iranian airspace and knowledge of Ayatollah Khamenei\u2019s location. Israel struck Iranian nuclear/military sites, killing commanders and civilians;\u2026",
-    "link": "https://www.naturalnews.com/2026-01-06-trump-to-iran-surrender-or-face-military-force.html",
-    "timestamp": "2026-01-06T06:00:00Z"
-  },
-  {
     "title": "Chinese EV maker BYD pulls ahead as Tesla sales slump",
     "description": "Chinese automaker BYD reported a nearly 28% increase in December sales, with total 2025 deliveries (BEVs and plug-in hybrids) reaching 4.6 million vehicles, while Tesla\u2019s 2026 projected sales are 1.6 million\u00a0\u2013 down from 1.79 million in 2024. BYD offers a wide\u2026",
     "link": "https://www.naturalnews.com/2026-01-06-byd-pulls-ahead-as-tesla-sales-slump.html",
+    "timestamp": "2026-01-06T06:00:00Z"
+  },
+  {
+    "title": "Trump issues ultimatum to Iran: Surrender or face full military force",
+    "description": "Trump demands Iran\u2019s \u201cunconditional surrender,\u201d threatening military action while revealing U.S./allied control of Iranian airspace and knowledge of Ayatollah Khamenei\u2019s location. Israel struck Iranian nuclear/military sites, killing commanders and civilians;\u2026",
+    "link": "https://www.naturalnews.com/2026-01-06-trump-to-iran-surrender-or-face-military-force.html",
     "timestamp": "2026-01-06T06:00:00Z"
   },
   {
@@ -496,59 +550,5 @@
     "description": "The \"Daily Show\" host joked that Americans \"can't even be conspiracy theorists now\" after Trump and friends shared the casus belli behind the strikes.",
     "link": "https://www.huffpost.com/entry/jon-stewart-trump-maduro-venezuela-attack_n_695c88d0e4b0d6beb5fe551a",
     "timestamp": "2026-01-06T05:51:26Z"
-  },
-  {
-    "title": "Fifth anniversary of Jan. 6 brings fresh division to the Capitol",
-    "description": "On the fifth anniversary of the Jan. 6, 2021 attack on the Capitol, there is no official event to memorialize what happened that day",
-    "link": "https://abcnews.go.com/Politics/wireStory/anniversary-jan-6-brings-fresh-division-capitol-128935730",
-    "timestamp": "2026-01-06T05:49:55Z"
-  },
-  {
-    "title": "ALAN WILSON: Holding Narco-Regime Accountable Not An Act Of War",
-    "description": "The political class and liberal media commentators are once again rushing to outrage, this time over President Trump\u2019s decisive action involving the arrest of",
-    "link": "https://dailycaller.com/2026/01/06/opinion-holding-narco-regime-accountable-not-an-act-of-war-alan-wilson/",
-    "timestamp": "2026-01-06T05:44:05Z"
-  },
-  {
-    "title": "Democrats Demanded Maduro\u2019s Ouster Before Trump Delivered. And We've Got the Receipts!",
-    "description": "President Donald J. Trump just notched another huge win on the world stage, and Democrats are furious. At least, they want us to think they are. Trump greenlit the operation that snagged Nicol\u00e1s Maduro, the narcoterrorist and socialist dictator. Now Maduro si\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4360629/posts",
-    "timestamp": "2026-01-06T05:40:55Z"
-  },
-  {
-    "title": "Jimmy Kimmel Slams Trump for Hosting the \u2018Lowest Rated Kennedy Center Honors Telecast of All Time\u2019: \u2018He Said He\u2019d Step Down if This Happened\u2019",
-    "description": "Jimmy Kimmel returned to late-night on Monday after his winter break, and he used his first monologue of 2026 to tease Donald Trump about the low ratings from the Kennedy Center Honors broadcast. \u201cYou know he hosted an awards show over the break,\u201d Kimmel said\u2026",
-    "link": "https://variety.com/2026/tv/news/jimmy-kimmel-trump-lowest-rated-kennedy-center-honors-1236624214/",
-    "timestamp": "2026-01-06T05:36:42Z"
-  },
-  {
-    "title": "Venezuelan Opposition Leader Says She Wants to Share Her Nobel Peace Prize With Trump: \u2018It\u2019s a Huge Step for Humanity\u2019 | Video",
-    "description": "\"Jan. 3 will go down in history as the day justice defeated tyranny,\" Maria Corina Machado adds\nThe post Venezuelan Opposition Leader Says She Wants to Share Her Nobel Peace Prize With Trump: \u2018It\u2019s a Huge Step for Humanity\u2019 | Video appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/media-platforms/politics/maria-corina-machado-fox-news-interview-nobel-peace-prize-trump/",
-    "timestamp": "2026-01-06T05:35:52Z"
-  },
-  {
-    "title": "Expanding \"Donroe Doctrine\" triggers alert across LatAm countries",
-    "description": "After the U.S. military raided Venezuela and forcibly captured Venezuelan President Nicolas Maduro and his wife on Saturday, U.S. President Donald Trump ...",
-    "link": "https://en.antaranews.com/news/398605/expanding-donroe-doctrine-triggers-alert-across-latam-countries",
-    "timestamp": "2026-01-06T05:33:04Z"
-  },
-  {
-    "title": "US sharply criticised by foes and friends over Maduro seizure - BBC",
-    "description": "US sharply criticised by foes and friends over Maduro seizureBBC Opinion | Donald Trump Was Right to Oust MaduroThe New York Times US critics and allies condemn Maduro\u2019s abduction at UN Security CouncilAl Jazeera Trump\u2019s stunning shift on \u2018America First\u2019CNN V\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=180522089",
-    "timestamp": "2026-01-06T05:32:55Z"
-  },
-  {
-    "title": "Success for Donald Trump as OECD and US agree on new tax deal",
-    "description": "More than 145 countries, including Ireland, have agreed a landmark deal with the US that will exempt American companies from some overseas taxes.",
-    "link": "https://www.independent.ie/business/world/success-for-donald-trump-as-oecd-and-us-agree-on-new-tax-deal/a549169473.html",
-    "timestamp": "2026-01-06T05:30:00Z"
-  },
-  {
-    "title": "Israeli army strikes hit \u2018Hezbollah and Hamas targets\u2019 in Lebanon",
-    "description": "The Israeli military yesterday began striking what it described as Hezbollah and Hamas \u201ctargets\u201d in Lebanon after issuing evacuation orders for four villages in the country\u2019s east and south.",
-    "link": "https://www.independent.ie/world-news/middle-east/israeli-army-strikes-hit-hezbollah-and-hamas-targets-in-lebanon/a1759425139.html",
-    "timestamp": "2026-01-06T05:30:00Z"
   }
 ]
