@@ -1,5 +1,71 @@
 [
   {
+    "title": "Spanish citizens released from Venezuela prison arrive in Madrid",
+    "description": "MADRID, Jan 9 (Reuters) - \u200cFour Spanish nationals and a prominent Venezuelan-Spanish rights \u200cactivist arrived in Madrid on Friday a \u200cday after they were released from prison in Venezuela in the aftermath of the U.S. capture of President Nicolas Maduro. Read f\u2026",
+    "link": "https://www.thestar.com.my/news/world/2026/01/09/spanish-citizens-released-from-venezuela-prison-arrive-in-madrid",
+    "timestamp": "2026-01-09T15:32:00Z"
+  },
+  {
+    "title": "Iran goes dark: Regime cuts internet amid protests, unrest",
+    "description": "The internet is down across most of Iran as the ongoing protests escalate towards a potential turning point in the country's history.",
+    "link": "https://www.dw.com/en/iran-goes-dark-regime-cuts-internet-amid-protests-unrest/a-75454452",
+    "timestamp": "2026-01-09T15:32:00Z"
+  },
+  {
+    "title": "Minneapolis Mayor Suggests Tensions Could Get Much Worse As Anti-ICE Protests Continue",
+    "description": "Democratic Minneapolis Mayor Jacob Frey hinted on Thursday that tensions could get increasingly worse while vowing to \"not take the bait\" from ICE agents.",
+    "link": "https://dailycaller.com/2026/01/09/minneapolis-jacob-frey-cbs-tony-dokoupil-ice-protests/",
+    "timestamp": "2026-01-09T15:31:31Z"
+  },
+  {
+    "title": "Oil Prices Rise as Protests in Iran Escalate",
+    "description": "Oil prices rose early on Friday as protests in Iran continued to escalate, unnerving market participants that one of the biggest oil producers in the Middle East could see supply threatened.\u00a0 Both the WTI and Brent benchmarks traded about 0.7% higher as of 8:\u2026",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Protests-in-Iran-Escalate.html",
+    "timestamp": "2026-01-09T15:30:00Z"
+  },
+  {
+    "title": "Head of Amnesty International Agrees Trump-Led US Is \u2018Destroying World Order\u2019",
+    "description": "Amnesty International Secretary General Agnes Callamard expressed agreement Thursday that the US under President Donald Trump is tearing down world order, while also pointing the finger at other major Western powers for being part of the problem.In a post on \u2026",
+    "link": "https://www.commondreams.org/news/amnesty-international-trump-us",
+    "timestamp": "2026-01-09T15:29:48Z"
+  },
+  {
+    "title": "US forces launched from the Navy's most advanced aircraft carrier to seize another blockade-breaking oil tanker",
+    "description": "USS Gerald R. Ford is one of a dozen Navy warships that was deployed to the Caribbean region last year.",
+    "link": "https://www.businessinsider.com/us-forces-launched-from-navy-most-advanced-carrier-seize-tanker-2026-1",
+    "timestamp": "2026-01-09T15:29:01Z"
+  },
+  {
+    "title": "Trump to Meet with Oil Executives on Restoring Venezuela's Oil Infrastructure",
+    "description": "President Donald Trump will host 17 oil companies at the White House on Friday to discuss investment opportunities to help restore oil infrastructure in Venezuela.\nThe post Trump to Meet with Oil Executives on Restoring Venezuela\u2019s Oil Infrastructure appeared\u2026",
+    "link": "https://www.breitbart.com/politics/2026/01/09/trump-to-meet-with-oil-executives-on-restoring-venezuelas-oil-infrastructure/",
+    "timestamp": "2026-01-09T15:28:44Z"
+  },
+  {
+    "title": "US Supreme Court defers ruling on Trump\u2019s global tariffs case",
+    "description": "The case tests the limits of presidential authority and the court\u2019s readiness to curb Trump\u2019s expansive use of executive power since returning to office in January 2025",
+    "link": "https://www.thehindubusinessline.com/news/world/us-supreme-court-defers-ruling-on-trumps-global-tariffs-case/article70491778.ece",
+    "timestamp": "2026-01-09T15:25:08Z"
+  },
+  {
+    "title": "White House Reportedly Suspects Marjorie Taylor Greene Tipped Off Left-Wing Protesters About Trump Dinner Plans",
+    "description": "White House officials believe that Marjorie Taylor Greene may have tipped off a far-left protest group about Donald Trump's dinner plans last September.\nThe post White House Reportedly Suspects Marjorie Taylor Greene Tipped Off Left-Wing Protesters About Trum\u2026",
+    "link": "https://www.mediaite.com/media/news/white-house-reportedly-suspects-marjorie-taylor-greene-tipped-off-left-wing-protesters-about-trump-dinner-plans/",
+    "timestamp": "2026-01-09T15:24:48Z"
+  },
+  {
+    "title": "AOC condemns ICE as \u2018anti-civilian paramilitary organisation\u2019 following death of Renee Nicole Good",
+    "description": "New York Democrat Alexandria Ocasio-Cortez, also known as AOC, has warned US Immigration and Customs Enforcement (ICE) has now become an \u201canti-civilian, paramilitary organisation\u201d, following the shooting and death of Renee Nicole Good. Good, a 37-year old mot\u2026",
+    "link": "https://www.thepinknews.com/2026/01/09/alexandria-ocasio-cortez-ice-renee-nicole-good/",
+    "timestamp": "2026-01-09T15:22:48Z"
+  },
+  {
+    "title": "Trump tariffs case: No ruling issued by US Supreme Court on Friday",
+    "description": "The US Supreme Court has postponed a decision on President Donald Trump's global tariffs. This case examines presidential authority and has economic implications worldwide. Trump invoked a 1977 law for these tariffs, citing national emergencies. Businesses an\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-tariffs-case-no-ruling-issued-by-supreme-court-on-friday/articleshow/126437268.cms",
+    "timestamp": "2026-01-09T15:20:05Z"
+  },
+  {
     "title": "Venezuela Oil Revival Won\u2019t Rely on Funding From US, Burgum Says",
     "description": "The Trump administration is unlikely to provide financial support to help US oil companies revitalize Venezuela\u2019s oil sector, Interior Secretary Doug Burgum said Friday, throwing cold water on hopes the multibillion-dollar effort would be subsidized by the US\u2026",
     "link": "https://financialpost.com/pmn/business-pmn/venezuela-oil-revival-wont-rely-on-funding-from-us-burgum-says",
@@ -484,59 +550,5 @@
     "description": "Deep funding cuts under President Donald Trump will make it more difficult for struggling communities to get help to fix sewer systems that put health and homes at risk. Cuts include grants, loans and technical help promised by the Biden administration to add\u2026",
     "link": "https://apnews.com/article/trump-epa-water-wastewater-dei-grant-cuts-a4574db81462836d316ab3edbb626a16",
     "timestamp": "2026-01-09T14:14:10Z"
-  },
-  {
-    "title": "India closely tracking US bill proposing 500% tariffs on Russian oil buyers",
-    "description": "New Delhi reiterated that its energy sourcing decisions are driven by market dynamics and the need to ensure affordable energy for its 1.4 billion people",
-    "link": "https://www.thehindubusinessline.com/economy/india-closely-tracking-us-bill-proposing-500-tariffs-on-russian-oil-buyers/article70491323.ece",
-    "timestamp": "2026-01-09T14:12:17Z"
-  },
-  {
-    "title": "Only Time Will Tell",
-    "description": "Trump claims Venezuela is cooperating, cancels additional strikes, and pledges to rebuild and use its oil after Maduro\u2019s capture.",
-    "link": "https://reason.com/2026/01/09/only-time-will-tell/",
-    "timestamp": "2026-01-09T14:09:25Z"
-  },
-  {
-    "title": "Trump Rambles When Hannity Confronts Him on Foreign Focus: How Is That \u2018America\u2019s First?\u2019",
-    "description": "Trump rambled unresponsively when Sean Hannity pressed him to explain how his devotion of resources to foreign policy is in \"America's first interest?\"\nThe post Trump Rambles When Hannity Confronts Him on Foreign Focus: How Is That \u2018America\u2019s First?\u2019 first ap\u2026",
-    "link": "https://www.mediaite.com/media/tv/trump-rambles-when-hannity-confronts-him-on-foreign-focus-how-is-that-americas-first/",
-    "timestamp": "2026-01-09T14:07:34Z"
-  },
-  {
-    "title": "Global stocks rise, dollar dips after US jobs miss expectations",
-    "description": "LONDON, Jan 9 : \u200cGlobal shares rallied and the dollar pared gains on Friday after data showed the U.S. economy created fewer jobs than expected in December, which could reinforce the case for more Federal Reserve rate cuts this year.The Bureau of Labor Statis\u2026",
-    "link": "https://www.channelnewsasia.com/business/global-stocks-rise-dollar-dips-after-us-jobs-miss-expectations-5847686",
-    "timestamp": "2026-01-09T14:06:05Z"
-  },
-  {
-    "title": "Stocks jump, dollar higher in wake of US jobs numbers",
-    "description": "NEW YORK, Jan \u200c9 : Stock indexes gained and the dollar was higher\u00a0on Friday after data showed the U.S. economy created fewer jobs than expected in December, supporting the view the Federal Reserve would leave interest rates unchanged this month.The S&P 500 hi\u2026",
-    "link": "https://www.channelnewsasia.com/business/stocks-jump-dollar-higher-in-wake-us-jobs-numbers-5847686",
-    "timestamp": "2026-01-09T14:06:05Z"
-  },
-  {
-    "title": "U.S. in process of seizing Olina tanker in the Caribbean, officials say",
-    "description": "The U.S. is in the process of seizing the Olina tanker in the Caribbean near Trinidad in the fifth such interdiction of ships in recent weeks as part of Washington's efforts to control\u00a0Venezuelan oil exports, two U.S. officials said on Friday.",
-    "link": "https://www.cbc.ca/news/world/united-states-seizing-tanker-caribbean-9.7039299",
-    "timestamp": "2026-01-09T14:05:21Z"
-  },
-  {
-    "title": "Dollar gains against major currencies following US jobs data",
-    "description": "NEW \u200cYORK, Jan 9 : The dollar gained on Friday after data showed slower than expected U.S. jobs growth, suggesting\u00a0the Federal Reserve could leave interest rates unchanged later this month.Financial markets had been bracing for a probable Supreme Court decisi\u2026",
-    "link": "https://www.channelnewsasia.com/business/dollar-gains-against-major-currencies-following-us-jobs-data-5847511",
-    "timestamp": "2026-01-09T14:03:17Z"
-  },
-  {
-    "title": "US Supreme Court set to issue ruling on Trump\u2019s tariffs",
-    "description": "marks a major test of presidential powers",
-    "link": "https://www.irishtimes.com/business/economy/2026/01/09/us-supreme-court-set-to-issue-ruling-on-trumps-tariffs/",
-    "timestamp": "2026-01-09T14:02:49Z"
-  },
-  {
-    "title": "House passes bill to extend health care subsidies in defiance of GOP leaders",
-    "description": "In a remarkable rebuke of Republican leadership, the House passed legislation Thursday that would extend expired health care subsidies for those who get coverag",
-    "link": "https://wchstv.com/news/nation-world/house-passes-bill-to-extend-health-care-subsidies-in-defiance-of-gop-leaders",
-    "timestamp": "2026-01-09T14:01:01Z"
   }
 ]
