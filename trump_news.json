@@ -1,5 +1,11 @@
 [
   {
+    "title": "Wind and solar overtake fossil fuels in EU power supply",
+    "description": "Wind and solar power produced more electricity than fossil fuels in the EU for the first time last year.",
+    "link": "https://www.rte.ie/news/world/2026/0123/1554694-wind-solar-eu/",
+    "timestamp": "2026-01-23T11:51:47Z"
+  },
+  {
     "title": "Why are Ukraine and Russia not able to agree on the fate of Donetsk?",
     "description": "Ukrainian President Volodymyr Zelenskiy said that the issue\u2060 \u2060which centres on the fate of the Donbas region in eastern Ukraine - would be discussed at U.S.-brokered trilateral talks in Abu Dhabi on Friday and Saturday.",
     "link": "https://indianexpress.com/article/world/russia-ukraine-war-peace-deal-donetsk-10490918/",
@@ -450,27 +456,27 @@
     "timestamp": "2026-01-23T10:23:51Z"
   },
   {
-    "title": "Senior general vows swift response to any aggression on Iran",
-    "description": "An Iranian military commander has warned that any attack on the country's soil will be met with a swift, precise, and devastating response following recent threats by US President Donald Trump to strike the country.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260122-presstv01.htm",
-    "timestamp": "2026-01-23T10:23:51Z"
-  },
-  {
     "title": "Foreign Minister Signs Board of Peace Founding Charter",
     "description": "Minister of Foreign Affairs Prince Faisal bin Farhan bin Abdullah signed today the founding charter of the Board of Peace in the presence of President Donald Trump of the United States of America and leaders and representatives of a number of countries, welco\u2026",
     "link": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260122-spa01.htm",
     "timestamp": "2026-01-23T10:23:51Z"
   },
   {
-    "title": "Claims of so-called 'China threat' groundless; China opposes being used as pretext to seek selfish interests, says FM spokesperson over NATO's claim on Arctic security",
-    "description": "China has consistently advocated handling relations between countries in accordance with the purposes and principles of the United Nations Charter. Claims of a so-called \"China threat\" are entirely groundless, and China opposes fabricating issues and using Ch\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/01/china-260122-globaltimes02.htm",
+    "title": "Senior general vows swift response to any aggression on Iran",
+    "description": "An Iranian military commander has warned that any attack on the country's soil will be met with a swift, precise, and devastating response following recent threats by US President Donald Trump to strike the country.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260122-presstv01.htm",
     "timestamp": "2026-01-23T10:23:51Z"
   },
   {
     "title": "'Hands on trigger': IRGC chief warns US and Israel against any miscalculation",
     "description": "The chief commander of Iran's Islamic Revolution Guards Corps (IRGC) has warned enemies against any miscalculation, stressing that his forces have \"their hands on the trigger\" to implement the orders of Leader of the Islamic Revolution Ayatollah Seyyed Ali Kh\u2026",
     "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/01/iran-260122-presstv02.htm",
+    "timestamp": "2026-01-23T10:23:51Z"
+  },
+  {
+    "title": "Claims of so-called 'China threat' groundless; China opposes being used as pretext to seek selfish interests, says FM spokesperson over NATO's claim on Arctic security",
+    "description": "China has consistently advocated handling relations between countries in accordance with the purposes and principles of the United Nations Charter. Claims of a so-called \"China threat\" are entirely groundless, and China opposes fabricating issues and using Ch\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/01/china-260122-globaltimes02.htm",
     "timestamp": "2026-01-23T10:23:51Z"
   },
   {
@@ -504,9 +510,9 @@
     "timestamp": "2026-01-23T10:21:51Z"
   },
   {
-    "title": "Trump Launches Board Of Peace, Putin Seeks To Use Frozen Assets For Sign-Up Fee",
-    "description": "US President Donald Trump launched the Board of Peace, a new body for resolving international conflicts, repeating his belief that a peace deal to end Russia's invasion of Ukraine \"is coming very soon.\"",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-rferl02.htm",
+    "title": "Israel Fails to Pull Troops From Gaza in 1st Phase of Peace Deal - Palestinian Official",
+    "description": "Israel has failed to complete its obligations to withdraw troops from the Gaza Strip under the first phase of US President Donald Trump's peace plan for the Palestinian enclave, retaining its presence on 60% of newly occupied Palestinian territories, Palestin\u2026",
+    "link": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-sputnik01.htm",
     "timestamp": "2026-01-23T10:21:51Z"
   },
   {
@@ -516,21 +522,15 @@
     "timestamp": "2026-01-23T10:21:51Z"
   },
   {
-    "title": "Israel Fails to Pull Troops From Gaza in 1st Phase of Peace Deal - Palestinian Official",
-    "description": "Israel has failed to complete its obligations to withdraw troops from the Gaza Strip under the first phase of US President Donald Trump's peace plan for the Palestinian enclave, retaining its presence on 60% of newly occupied Palestinian territories, Palestin\u2026",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-sputnik01.htm",
-    "timestamp": "2026-01-23T10:21:51Z"
-  },
-  {
     "title": "Explainer: Trump Signs 'Board Of Peace' Into Existence",
     "description": "US President Donald Trump has signed into existence a Board of Peace, an initiative he says will seek to resolve global conflicts and promote stability, peace, and governance \"in areas affected or threatened by conflict.\"",
     "link": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-rferl03.htm",
     "timestamp": "2026-01-23T10:21:51Z"
   },
   {
-    "title": "Trump launches \"Board of Peace\" in Davos, drawing criticism for undermining UN",
-    "description": "U.S. President Donald Trump formally launched his so-called \"Board of Peace\" on Thursday at a charter-signing ceremony during the World Economic Forum in Davos, Switzerland.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260123-pdo03.htm",
+    "title": "Trump Launches Board Of Peace, Putin Seeks To Use Frozen Assets For Sign-Up Fee",
+    "description": "US President Donald Trump launched the Board of Peace, a new body for resolving international conflicts, repeating his belief that a peace deal to end Russia's invasion of Ukraine \"is coming very soon.\"",
+    "link": "https://www.globalsecurity.org/military/library/news/2026/01/mil-260122-rferl02.htm",
     "timestamp": "2026-01-23T10:21:51Z"
   }
 ]
