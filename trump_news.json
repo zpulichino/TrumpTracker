@@ -1,5 +1,269 @@
 [
   {
+    "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
+    "description": "Scott Bessent's comments come amid a war of words between Ottawa and Washington.",
+    "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o",
+    "timestamp": "2026-01-24T03:20:10Z"
+  },
+  {
+    "title": "SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini",
+    "description": "In 2023, the SEC charged Genesis Global Capital and Gemini Trust Company with illegally selling securities to hundreds of thousands of investors through their crypto lending program.",
+    "link": "https://www.livemint.com/companies/news/sec-agrees-to-dismiss-case-over-crypto-lending-by-winklevoss-gemini-11769224436889.html",
+    "timestamp": "2026-01-24T03:19:35Z"
+  },
+  {
+    "title": "Turkiye\u2019s FM Fidan says Israel \u2018looking for opportunity\u2019 to attack Iran",
+    "description": "Turkish Foreign Minister Hakan Fidan says he has conveyed concerns of possible Israeli attack to leadership in Tehran.",
+    "link": "https://www.aljazeera.com/news/2026/1/24/turkiyes-fm-fidan-says-israel-looking-for-opportunity-to-attack-iran",
+    "timestamp": "2026-01-24T03:18:48Z"
+  },
+  {
+    "title": "Canada Against Golden Dome Over Greenland - Trump",
+    "description": "US President Donald Trump said on Friday that Canada is opposing the construction of the Golden Dome over Greenland, a project that would safeguard the country, while instead engaging in what he described as dangerous business with China.",
+    "link": "https://sputnikglobe.com/20260124/canada-against-golden-dome-over-greenland---trump-1123516748.html",
+    "timestamp": "2026-01-24T03:16:00Z"
+  },
+  {
+    "title": "Pentagon plans to give South Korea primary role in deterring North Korea threats under new strategy",
+    "description": "A new Pentagon document says its defense strategy is pivoting toward burden-sharing as the U.S. plans a \"more limited\" role in deterring North Korea and other parts of the world.",
+    "link": "https://www.foxnews.com/politics/pentagon-plans-give-south-korea-primary-role-deterring-north-korea-threats-new-strategy",
+    "timestamp": "2026-01-24T03:11:03Z"
+  },
+  {
+    "title": "Stephen Miller Praises \u2018Masterclass in Diplomacy\u2019 After Trump Insults Allies",
+    "description": "White House Deputy Chief of Staff Stephen Miller gave a rave review to President Donald Trump, who this week insulted several U.S. allies.\nThe post Stephen Miller Praises \u2018Masterclass in Diplomacy\u2019 After Trump Insults Allies first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/tv/stephen-miller-praises-masterclass-in-diplomacy-after-trump-insults-allies/",
+    "timestamp": "2026-01-24T03:08:17Z"
+  },
+  {
+    "title": "California joins WHO network in spite of Trump withdrawal from group",
+    "description": "California, under Gov. Gavin Newsom, became the first state to break from the Trump administration and realign with the World Health Organization.",
+    "link": "https://www.washingtonexaminer.com/policy/healthcare/4432345/california-who-trump-withdrawal/",
+    "timestamp": "2026-01-24T03:07:45Z"
+  },
+  {
+    "title": "Newsom announces California will remain in WHO network despite US withdrawal",
+    "description": "The governor said California is now the first and only state to join WHO's Global Outbreak Alert & Response Network, which is designed to rapidly detect, verify, assess, and respond to emerging public health threats.",
+    "link": "https://justthenews.com/politics-policy/health/newsom-announces-california-will-remain-who-network-despite-us-withdrawal",
+    "timestamp": "2026-01-24T03:02:24Z"
+  },
+  {
+    "title": "What to know about the deal to keep TikTok in US",
+    "description": "Here's what to know about the deal, which created a new TikTok U.S. joint venture after social video platform company signed agreements with major investors including Oracle, Silver Lake and the Emirati investment firm MGX.",
+    "link": "https://economictimes.indiatimes.com/tech/technology/what-to-know-about-the-deal-to-keep-tiktok-in-us/articleshow/127356202.cms",
+    "timestamp": "2026-01-24T03:01:17Z"
+  },
+  {
+    "title": "'Absurd' attack on judge by Trump DOJ leaves civil rights litigator aghast",
+    "description": "President Donald Trump's civil rights chief, Harmeet Dhillon, took to the right-wing Newsmax channel on Friday to bash a magistrate judge who blocked the ongoing detention of Minnesota activists charged with conspiracy against rights for protesting inside a c\u2026",
+    "link": "https://www.rawstory.com/harmeet-dhillon-2675020977/",
+    "timestamp": "2026-01-24T03:00:22Z"
+  },
+  {
+    "title": "How Donald Trump Brought Us to a \u201cRupture in the World Order\u201d",
+    "description": "On The Political Scene Podcast, the Washington Roundtable is joined by the former Prime Minister of Sweden Carl Bildt to discuss where President Trump\u2019s turbulent week on the world stage leaves U.S. relations with Europe.",
+    "link": "https://www.newyorker.com/podcast/political-scene/how-donald-trump-brought-us-to-a-rupture-in-the-world-order",
+    "timestamp": "2026-01-24T03:00:00Z"
+  },
+  {
+    "title": "TikTok in the US goes American, but questions remain",
+    "description": "After a long legal saga, TikTok has established a majority American-owned joint venture to operate its US business, deflecting the threat of a ban over its Chinese ownership. TikTok insists that US users will maintain a \"global TikTok experience,\" meaning US \u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/tiktok-in-the-us-goes-american-but-questions-remain/articleshow/127355733.cms",
+    "timestamp": "2026-01-24T02:53:41Z"
+  },
+  {
+    "title": "US completes withdrawal from World Health Organization - NewsBreak",
+    "description": "NEW YORK (AP) \u2014 The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was endin",
+    "link": "https://www.newsbreak.com/share/4455645544319-us-completes-withdrawal-from-world-health-organization?_f=app_share&amp;pd=0I1TeYH4&amp;lang=en_US&amp;send_time=1769222534&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2226.2.1.11%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
+    "timestamp": "2026-01-24T02:43:01Z"
+  },
+  {
+    "title": "How serious a 'security threat' is China to Greenland?",
+    "description": "Donald Trump says the US needs to control Greenland to fight a security threat from China. But does Beijing really have that much power in the region?",
+    "link": "https://www.abc.net.au/news/2026-01-24/how-much-power-does-china-really-have-in-the-arctic/106257590",
+    "timestamp": "2026-01-24T02:36:14Z"
+  },
+  {
+    "title": "Cissie Graham Lynch warns abortion fight \u2018far from over\u2019 at annual March for Life in DC",
+    "description": "Cissie Graham Lynch shares how March for Life transformed her views as young families and students lead the charge defending unborn children nationwide.",
+    "link": "https://www.foxnews.com/faith-values/cissie-graham-lynch-warns-abortion-fight-far-from-over-march-life",
+    "timestamp": "2026-01-24T02:34:31Z"
+  },
+  {
+    "title": "Trump's Move to Send US Ships to Mideast Renews Iran Threat",
+    "description": "The Lincoln is accompanied by three Arleigh Burke-class guided missile destroyers - USS Spruance, USS Michael Murphy and the USS Frank E. Petersen Jr.",
+    "link": "https://www.ndtvprofit.com/world/trumps-move-to-send-us-ships-to-mideast-renews-iran-threat-10874421",
+    "timestamp": "2026-01-24T02:32:08Z"
+  },
+  {
+    "title": "Trump administration's defense strategy tells allies to handle their own security",
+    "description": "The Pentagon has released a National Defense Strategy that chastises U.S. allies to take control of their own security and reasserts the Trump administration\u2019s focus on dominance in the Western Hemisphere over a longtime goal of countering China",
+    "link": "https://abcnews.go.com/US/wireStory/trump-administrations-defense-strategy-tells-allies-handle-security-129509602",
+    "timestamp": "2026-01-24T02:29:46Z"
+  },
+  {
+    "title": "SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini",
+    "description": "Jan 23 : The U.S. Securities and Exchange Commission on Friday agreed to dismiss its enforcement case against a cryptocurrency exchange founded by billionaire twins Tyler and Cameron Winklevoss, after investors in its lending program recovered their assets in\u2026",
+    "link": "https://www.channelnewsasia.com/business/sec-agrees-dismiss-case-over-crypto-lending-winklevoss-gemini-5880291",
+    "timestamp": "2026-01-24T02:26:33Z"
+  },
+  {
+    "title": "SEC agrees to dismiss case over crypto lending by Winklevoss' Gemini",
+    "description": "The U.S. Securities and Exchange Commission on Friday agreed to dismiss its enforcement case against a cryptocurrency exchange founded by \u200bbillionaire twins ...",
+    "link": "https://finance.yahoo.com/news/sec-agrees-dismiss-case-over-022633294.html",
+    "timestamp": "2026-01-24T02:26:33Z"
+  },
+  {
+    "title": "Streaming Brawl! Netflix Vs. Paramount With Delayed \u2018Skyscraper Live\u2019 & UFC 324 Now Facing Off Tomorrow",
+    "description": "Forget Warner Bros, the real war zone between Netflix and Paramount this weekend is live spectacle sports. Originally locked in for tonight from Taiwan, the Ted Sarandos and Greg Peters-run streamer\u2019s Skyscraper Live was already set to steal some of the thund\u2026",
+    "link": "http://deadline.com/2026/01/netflix-skyscraper-live-ufc-paramount-head-to-head-1236695211/",
+    "timestamp": "2026-01-24T02:24:05Z"
+  },
+  {
+    "title": "After TikTok deal, Chinese companies search for a new global path",
+    "description": "The outcome of a fractured TikTok underscores the difficult choice facing Chinese technology companies with global aspirations. In the United States, they must contend with shifting geopolitical fault lines, drawn-out legal battles and mistrust of any company\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/after-tiktok-deal-chinese-companies-search-for-a-new-global-path/articleshow/127353658.cms",
+    "timestamp": "2026-01-24T02:23:33Z"
+  },
+  {
+    "title": "China no longer America's top defence priority, Pentagon says",
+    "description": "China is no longer the US Pentagon's top priority, shifting its focus to the homeland and Western Hemisphere, an influential new strategy document says.",
+    "link": "https://news.sky.com/story/china-no-longer-americas-top-defence-priority-pentagon-says-13498252",
+    "timestamp": "2026-01-24T02:23:00Z"
+  },
+  {
+    "title": "Vance, Loomer Spar Over GOP\u2019s Position on Abortion",
+    "description": "ice President JD Vance and conservative influencer Laura Loomer traded jabs on social media Friday after Loomer questioned why Republicans were \u201cpushing more abortion messaging\u201d ahead of the November midterms. \u201cWhy is the GOP pushing more abortion messaging i\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4363672/posts",
+    "timestamp": "2026-01-24T02:20:55Z"
+  },
+  {
+    "title": "Five takeaways from Davos 2026 as Trump dominates the agenda",
+    "description": "Davos 2026 ended with Trump in the spotlight, Ukraine tensions rising, AI innovation on display, energy debates heating up, and markets unsettled, highlighting disruption and global economic uncertainty.",
+    "link": "https://www.thehindubusinessline.com/news/world/five-takeaways-from-davos-2026-as-trump-dominates-the-agenda/article70545168.ece",
+    "timestamp": "2026-01-24T02:20:51Z"
+  },
+  {
+    "title": "Thousands rally against immigration enforcement in subzero Minnesota temperatures",
+    "description": "Thousands rally against immigration enforcement in subzero Minnesota temperaturesboston.com",
+    "link": "https://www.boston.com/news/national-news/2026/01/23/thousands-rally-against-immigration-enforcement-in-subzero-minnesota-temperatures/",
+    "timestamp": "2026-01-24T02:16:47Z"
+  },
+  {
+    "title": "Trump administration's defense strategy tells allies to handle their own security",
+    "description": "The Pentagon has released a new defense strategy. It asks allies to take charge of their own security. The focus is now on the Western Hemisphere. Traditional allies are urged to increase their defense spending. The U.S. will ensure access to key areas like G\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/trump-administrations-defense-strategy-tells-allies-to-handle-their-own-security/articleshow/127353165.cms",
+    "timestamp": "2026-01-24T02:16:08Z"
+  },
+  {
+    "title": "US sends aircraft carrier, warships to Middle East as Trump warns Iran",
+    "description": "The US is deploying an aircraft carrier, warships and jets to the Middle East as Trump warns Iran over executions and a crackdown on protests.",
+    "link": "https://www.thehindubusinessline.com/news/world/us-sends-aircraft-carrier-warships-to-middle-east-as-trump-warns-iran/article70545166.ece",
+    "timestamp": "2026-01-24T02:05:49Z"
+  },
+  {
+    "title": "'Awful, despicable': Canadian veterans slam Trump's comments about NATO troops",
+    "description": "Canadian veterans of the war in Afghanistan were outraged over comments by U.S. President Donald Trump, who minimized the contributions of NATO forces, claiming they stayed away from the front lines.",
+    "link": "https://www.cbc.ca/news/canada/trump-nato-afghanistan-veterans-9.7058568",
+    "timestamp": "2026-01-24T02:05:31Z"
+  },
+  {
+    "title": "White House Posts AI Slop of Trump and a Penguin in Greenland, Which Doesn\u2019t Have Penguins",
+    "description": "On Friday, the White House\u2019s official X account posted an AI-generated image of President Donald Trump walking toward Greenland\u2019s flag, hand-in-hand \u2014 or wing \u2014 with an American flag-touting penguin, even though penguins do not live in Greenland and are found\u2026",
+    "link": "https://www.mediaite.com/online/white-house-posts-ai-slop-of-trump-and-a-penguin-in-greenland-which-doesnt-have-penguins/",
+    "timestamp": "2026-01-24T02:05:04Z"
+  },
+  {
+    "title": "UK PM, others outraged at Trump's comments downplaying NATO allies' role during Afghanistan war",
+    "description": "UK PM, others outraged at Trump's comments downplaying NATO allies' role during Afghanistan wargo.com",
+    "link": "https://abcnews.go.com/Politics/uk-pm-outraged-trumps-comments-downplaying-nato-allies/story?id=129496969",
+    "timestamp": "2026-01-24T02:04:46Z"
+  },
+  {
+    "title": "India Weather Live Updates: Rain to ease across Delhi-NCR over weekend, dense fog to return",
+    "description": "India Weather Live Updates: Parts of Delhi and the wider National Capital Region are likely to see a break in rainfall from Saturday onwards, followed by a return of dense fog during night and early morning hours. Similar fog conditions are forecast over Punj\u2026",
+    "link": "https://m.economictimes.com/news/newsblogs/india-world-business-live-news-updates-rain-snow-weather-weekend-us-president-donald-trump-pm-modi-kerala-tamil-nadu-west-bengal-assembly-polls-congress-rahul-gandhi/liveblog/127352429.cms",
+    "timestamp": "2026-01-24T02:01:25Z"
+  },
+  {
+    "title": "It's So Bad Trump Has To Campaign In ...Iowa!?!",
+    "description": "President Donald Trump will travel to Iowa next week to kick off his series of weekly speeches on the economy\u2014the most important issue to voters in the 2026 midterm elections.\nThe fact that Trump is starting in Iowa is a major sign of just how much trouble Re\u2026",
+    "link": "https://crooksandliars.com/2026/01/its-so-bad-trump-has-campaign-iowa",
+    "timestamp": "2026-01-24T02:00:01Z"
+  },
+  {
+    "title": "Washington Week with The Atlantic full episode, 1/23/26",
+    "description": "Last week, Denmark. This week, Canada. Why does Donald Trump go out of his way to embarrass allies? Is Trump bored of peace? He seems to be, at least when it comes to America\u2019s traditional allies. Join moderator Jeffrey Goldberg, Peter Baker of The New York T\u2026",
+    "link": "https://www.pbs.org/weta/washingtonweek/video/2026/01/washington-week-with-the-atlantic-full-episode-12326",
+    "timestamp": "2026-01-24T01:54:05Z"
+  },
+  {
+    "title": "Niall Ferguson: How Trump Won Davos - The Free Press",
+    "description": "Niall Ferguson: How Trump Won DavosThe Free Press Opinion | This unlikely leader ended Trump \u2014 with gentlemanly clarityThe Washington Post Five takeaways from Davos 2026Reuters \u201cSometimes you need a dictator\u201d: Trump shines new light on his political philosoph\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=180647590",
+    "timestamp": "2026-01-24T01:52:46Z"
+  },
+  {
+    "title": "US lawmakers say TikTok joint venture deal needs scrutiny from Congress",
+    "description": "Representative Jack Moolenaar, the Republican chair of the House select committee on China, said the committee would conduct oversight of the deal finalised Thursday, adding China \"cannot be allowed to weaponise an app \u200cto divide and \u200cweaken our country. Does\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/update-2-us-lawmakers-say-tiktok-joint-venture-deal-needs-scrutiny-from-congress/articleshow/127351703.cms",
+    "timestamp": "2026-01-24T01:50:55Z"
+  },
+  {
+    "title": "TikTok US venture to collect precise user location data",
+    "description": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app.",
+    "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o",
+    "timestamp": "2026-01-24T01:50:48Z"
+  },
+  {
+    "title": "Ex-Trump official makes explosive claim DHS secretly prepared for nuclear war under Trump",
+    "description": "Former Trump administration official turned whistleblower Miles Taylor revealed startling details Friday about the dangers he says Donald Trump posed during his first White House term, revealing that the Department of Homeland Security quietly prepared for th\u2026",
+    "link": "https://www.rawstory.com/trump-nuclear-war/",
+    "timestamp": "2026-01-24T01:48:07Z"
+  },
+  {
+    "title": "Trump stirs talk of 'new world order' as leaders signal shifting global alliances",
+    "description": "President Trump's actions are challenging the established global order.  He is making decisions based on personal interactions, causing concern among allies.  This approach is creating uncertainty in international relations.  Leaders are discussing new ways t\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-stirs-talk-of-new-world-order-as-leaders-signal-shifting-global-alliances/articleshow/127351357.cms",
+    "timestamp": "2026-01-24T01:45:58Z"
+  },
+  {
+    "title": "Iran\u2019s Wiki-Weaponized Info War, Twin-City Textbook Insurrection and other commentary",
+    "description": "\u201cIranian security forces have killed up to 20,000 protesters since December 2025,\u201d notes Ashley Rindsberg at The Free Press.",
+    "link": "https://nypost.com/2026/01/23/opinion/irans-wiki-weaponized-info-war-twin-city-textbook-insurrection-and-other-commentary/",
+    "timestamp": "2026-01-24T01:40:37Z"
+  },
+  {
+    "title": "Judges Deny DOJ\u2019s Motions to Keep MN Church Protesters Locked Up, Rejecting \u2018Simply Speculative\u2019 Flight Risk Arguments",
+    "description": "Several federal judges in Minnesota have rejected arguments by the DOJ to continue to detain three people who were arrested in connection with a protest at a church in St. Paul.\nThe post Judges Deny DOJ\u2019s Motions to Keep MN Church Protesters Locked Up, Reject\u2026",
+    "link": "https://www.mediaite.com/crime/judges-deny-dojs-motions-to-keep-mn-church-protesters-locked-up-rejecting-simply-speculative-flight-risk-arguments/",
+    "timestamp": "2026-01-24T01:33:46Z"
+  },
+  {
+    "title": "Woke colleges are still wasting young American minds",
+    "description": "Despite pushback by President Donald Trump, woke programming at US colleges continues to infect young minds, scarring generations \u2014 and one particularly sickening example is right here in New York, at Brooklyn College.",
+    "link": "https://nypost.com/2026/01/23/opinion/the-fight-to-purge-wokeness-at-colleges-is-far-from-over/",
+    "timestamp": "2026-01-24T01:31:11Z"
+  },
+  {
+    "title": "Treasury Escalates Iranian Sanctions, Targets Illicit \u2018Shadow Fleet\u2019 as Regime Engages in \u2018Economic Self\u2011Immolation\u2019",
+    "description": "\u201cThe Iranian regime is engaged in a ritual of economic self-immolation,\u201d Treasury Secretary Scott Bessent said Friday, as the Trump administration imposed new sanctions on Iran\u2019s oil-export \u201cshadow fleet\u201d amid a widening crackdown on protesters and mounting U\u2026",
+    "link": "https://www.breitbart.com/politics/2026/01/23/treasury-escalates-iranian-sanctions-targets-illicit-shadow-fleet-regime-economic-self-immolation/",
+    "timestamp": "2026-01-24T01:30:28Z"
+  },
+  {
+    "title": "Living in Greenland",
+    "description": "Described by Donald Trump as \u201ca giant piece of ice,\u201d the world\u2019s largest island has found itself at the centre of global attention. The president\u2019s demands to take over the self-governing Danish territory, potentially even by force, led to a diplomatic crisis\u2026",
+    "link": "https://www.bbc.co.uk/programmes/p0mwv13q",
+    "timestamp": "2026-01-24T01:30:00Z"
+  },
+  {
+    "title": "Chinese asylum seeker who exposed rights abuses fights to stay in the US",
+    "description": "Guan Heng sought asylum in the United States after exposing human rights abuses in his native China",
+    "link": "https://abcnews.go.com/US/wireStory/chinese-asylum-seeker-exposed-rights-abuses-fights-stay-129509285",
+    "timestamp": "2026-01-24T01:25:53Z"
+  },
+  {
     "title": "US Invites Dozens of Military Chiefs to Americas Defense Summit",
     "description": "General Dan Caine, the chairman of the US Joint Chiefs of Staff, will lead a summit of fellow military leaders to coordinate the campaign against narcotics traffickers and other criminal organizations in the Western Hemisphere.",
     "link": "https://financialpost.com/pmn/business-pmn/us-invites-dozens-of-military-chiefs-to-americas-defense-summit",
@@ -292,275 +556,5 @@
     "description": "NEW YORK \u2013 The U.S. has finalized its withdrawal from the World Health Organization, one year after President Donald Trump announced America was ending its 78-year-old commitment, federal officials sa...",
     "link": "https://www.durangoherald.com/articles/u-s-completes-withdrawal-from-world-health-organization/",
     "timestamp": "2026-01-24T00:01:58Z"
-  },
-  {
-    "title": "Historic Graphite Mine in New York Marks Start of Made\u2011in\u2011America Battery Supply Chain",
-    "description": "Four other graphite mines are poised to be part of the new supply chain as Tesla opens up a huge lithium refinery operation. Both moves signal a return of American critical mineral dominance.\nThe post Historic Graphite Mine in New York Marks Start of Made\u2011in\u2011\u2026",
-    "link": "https://legalinsurrection.com/2026/01/historic-graphite-mine-in-new-york-marks-start-of-made-in-america-battery-supply-chain/",
-    "timestamp": "2026-01-24T00:00:04Z"
-  },
-  {
-    "title": "Trump mocks climate change during winter storm, taunts \u2018environmental insurrectionists\u2019",
-    "description": "As a major winter storm swept across much of the United States, Donald Trump seized on the cold snap to attack climate science, posting a confused rant on Truth Social mocking what he called \u201cenvironmental insurrectionists\u201d and questioning global warming. The\u2026",
-    "link": "https://www.rawstory.com/global-warming-2675012506/",
-    "timestamp": "2026-01-24T00:00:02Z"
-  },
-  {
-    "title": "ET@Davos 2026: Beyond the serious business, young turks go off the beaten track to chill",
-    "description": "India\u2019s young and restless, including founders, frat boys and sorority girls \u2014 many of them Davos debutants \u2014 chose unique ways to connect, bond, mingle and confab at the World Economic Forum (WEF), while global leaders sought to rethink and reconfigure the w\u2026",
-    "link": "https://economictimes.indiatimes.com/news/india/etdavos-2026-beyond-the-serious-business-young-turks-go-off-the-beaten-track-to-chill/articleshow/127324808.cms",
-    "timestamp": "2026-01-24T00:00:00Z"
-  },
-  {
-    "title": "Miami Dolphins begin filling coordinator roles with special teams",
-    "description": "Miami Dolphins coach Jeff Hafley is adding ex-Bills special teams coordinator Chris Tabor to his staff.",
-    "link": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/01/23/miami-dolphins-jeff-hafley-special-teams-coordinator-chris-tabor/88327239007/",
-    "timestamp": "2026-01-23T23:59:19Z"
-  },
-  {
-    "title": "Pro-lifers rage they were 'fooled' as Trump abandons them: 'We're not a cheap date!'",
-    "description": "A year into his second term, President Donald Trump faces a furious backlash from anti-abortion leaders who say he's abandoned them.Abby Johnson, a prominent anti-abortion advocate, railed to Notus on Friday that Trump has \u201cdone nothing for the pro-life movem\u2026",
-    "link": "https://www.rawstory.com/trump-abortion-2675020801/",
-    "timestamp": "2026-01-23T23:59:02Z"
-  },
-  {
-    "title": "Russia-Ukraine war: List of key events, day 1,430",
-    "description": "These are the key developments from day 1,430 of Russia\u2019s war on Ukraine.",
-    "link": "https://www.aljazeera.com/news/2026/1/23/russia-ukraine-war-list-of-key-events-day-1430",
-    "timestamp": "2026-01-23T23:58:25Z"
-  },
-  {
-    "title": "Dems double-down on a playbook they KNOW the voters hate headed into the midterms",
-    "description": "Wow: The Democrats who won November\u2019s three big US elections are going for the full Joe Biden playbook \u2014 a terrible signal to send for this year\u2019s midterms. Even the \u201cmoderates\u201d are making Trump-bashing the crux of their \u201cplatforms\u201d as they pander to the hard\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4363657/posts",
-    "timestamp": "2026-01-23T23:56:34Z"
-  },
-  {
-    "title": "Trump says US VP headed to Azerbaijan, Armenia next month",
-    "description": "By Jasper WardWASHINGTON, Jan 23 (Reuters) - U.S. Vice President JD Vance will travel to Azerbaijan and Armenia next month, President Donald Trump said on Friday, months \u2026 Leggi",
-    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/24/trump-says-us-vp-headed-to-azerbaijan-armenia-next-month",
-    "timestamp": "2026-01-23T23:56:25Z"
-  },
-  {
-    "title": "Trump's claim that Ilhan Omar is worth $30M requires context",
-    "description": "Omar's financial disclosures list $6 million to $30 million in total household assets based on valuations of businesses owned in part by her husband.",
-    "link": "https://www.snopes.com//news/2026/01/23/ilhan-omar-30-million/",
-    "timestamp": "2026-01-23T23:56:00Z"
-  },
-  {
-    "title": "Trump stirs talk of 'new world order' as leaders signal shifting global alliances",
-    "description": "President Donald Trump gives.  Offended by Canadian Prime Minister Mark Carney's increasingly assertive posture toward the U.S., Trump revoked an invitation ...",
-    "link": "https://www.yahoo.com/news/articles/trump-stirs-talk-world-order-235438659.html",
-    "timestamp": "2026-01-23T23:54:38Z"
-  },
-  {
-    "title": "Cramer\u2019s week ahead: Earnings from Meta, Microsoft and Apple. Plus, a Fed meeting",
-    "description": "Cramer on Friday also named which stocks investors should consider buying after earnings.",
-    "link": "https://www.cnbc.com/2026/01/23/cramers-week-ahead-big-tech-earnings-and-the-fed.html",
-    "timestamp": "2026-01-23T23:50:00Z"
-  },
-  {
-    "title": "'We're being terrorized.' What Mainers are seeing as ICE launches operation in the state",
-    "description": "Mainers are grappling with the increased presence of U.S. Immigration and Customs Enforcement agents in their cities as the state becomes the latest target for President Donald Trump's mass deportations agenda.",
-    "link": "https://www.pbs.org/newshour/nation/were-being-terrorized-what-mainers-are-seeing-as-ice-launches-operation-in-the-state",
-    "timestamp": "2026-01-23T23:47:46Z"
-  },
-  {
-    "title": "News From Nancy 1/23/2026 \u2014 Save Our Health Care",
-    "description": "Fighting With Nonviolence For A Beloved Community   Dear Friends,  &nbsp;  This week has been full of historical remembrances \u2014 both good and bad. &nbsp;  &nbsp;  We began this week celebrating the national holiday and commemorating the life and legacy of Rev\u2026",
-    "link": "https://www.saveourhealthcare.org/news/012326",
-    "timestamp": "2026-01-23T23:45:34Z"
-  },
-  {
-    "title": "Trump's ICE Surge In Maine Complicates Life For Susan Collins",
-    "description": "The Maine senator's Democratic challengers are calling on her to do more to address ICE's tactics and its crackdown on immigrants across the country.",
-    "link": "https://www.huffpost.com/entry/trump-ice-maine-susan-collins_n_6973a641e4b0a02ab3a11311",
-    "timestamp": "2026-01-23T23:45:03Z"
-  },
-  {
-    "title": "In US ally Thailand, feelings of betrayal after Trump\u2019s visa freeze",
-    "description": "Thais who planned to build a life in the US express shock at inclusion on list of blacklisted countries.",
-    "link": "https://www.aljazeera.com/news/2026/1/23/in-us-ally-thailand-feelings-of-betrayal-after-trumps-visa-freeze",
-    "timestamp": "2026-01-23T23:44:43Z"
-  },
-  {
-    "title": "Lexie Lawler nursing license to be revoked, and has Baptist Health SF released complete statement? Here's complete truth",
-    "description": "Lexie Lawler nursing license to be revoked, and has Baptist Health SF released complete statement? Lexie Lawler, a former labor and delivery nurse at Baptist Health Boca Raton, is fired after posting violent social media comments about White House Press Secre\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/lexie-lawler-nursing-license-to-be-revoked-and-has-baptist-health-sf-released-complete-statement-heres-complete-truth-labor-and-delivery-nurse-baptist-health-boca-raton-regional-hospital-florida-violent-and-offensive-comments-white-house-press-secretary-karoline-leavitt-severe-medical-complications-during-childbirth/articleshow/127342443.cms",
-    "timestamp": "2026-01-23T23:41:26Z"
-  },
-  {
-    "title": "Did Donald Trump just promote Linux on Twitter? Not exactly",
-    "description": "Donald Trump posted a White House image telling people to \u00e2oeembrace the penguin,\u00e2 and Linux nerds immediately did what Linux nerds do, assuming it was a wink at Tux and open source. The image shows Trump walking across an icy landscape with a penguin holding\u2026",
-    "link": "https://slashdot.org/submission/17344298/did-donald-trump-just-promote-linux-on-twitter-not-exactly",
-    "timestamp": "2026-01-23T23:40:10Z"
-  },
-  {
-    "title": "Ren\u00e9e Fleming Becomes Latest Star to Drop Out of a Kennedy Center Engagement",
-    "description": "The Kennedy Center has lost another one of the few remaining stars on its 2026 schedule, as the legendary soprano Ren\u00e9e Fleming has dropped out of an appearance at the embattled venue previously scheduled for May. Although many of the musicians who have bowed\u2026",
-    "link": "https://variety.com/2026/music/news/renee-fleming-exits-kennedy-center-engagement-1236639524/",
-    "timestamp": "2026-01-23T23:39:04Z"
-  },
-  {
-    "title": "Frustration Inside Ubisoft: \u2018This Is Probably The Most Embarrassed I Have Felt Working Somewhere\u2019",
-    "description": "Some Ubisoft developers feel like they've been here before and they're tired of it\nThe post Frustration Inside Ubisoft: \u2018This Is Probably The Most Embarrassed I Have Felt Working Somewhere\u2019 appeared first on Kotaku.",
-    "link": "https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684",
-    "timestamp": "2026-01-23T23:37:14Z"
-  },
-  {
-    "title": "An exiled crown prince says he can lead Iran to democracy, but Trump hasn't endorsed him",
-    "description": "Reza Pahlavi, son of the Shah who ruled Iran until 1979, says he is ready to lead the country to democracy. But some Iranians, and President Trump, harbor doubts.",
-    "link": "https://www.nbcnews.com/politics/white-house/exiled-crown-prince-says-can-lead-iran-democracy-trump-hasnt-endorsed-rcna255415",
-    "timestamp": "2026-01-23T23:36:55Z"
-  },
-  {
-    "title": "Sen.\u00a0Kirsten Gillibrand 'optimistic' Senate Agriculture will advance crypto bill despite differences",
-    "description": "Sen.\u00a0Kirsten Gillibrand, D-N.Y., is\u00a0\"very\u00a0optimistic\"\u00a0the Senate Agriculture Committee's updated cryptocurrency\u00a0market structure bill will move forward.",
-    "link": "https://www.cnbc.com/2026/01/23/sen-gillibrand-optimistic-senate-agriculture-will-advance-crypto-bill.html",
-    "timestamp": "2026-01-23T23:36:02Z"
-  },
-  {
-    "title": "2 dead after U.S. strike on alleged drug boat in Eastern Pacific",
-    "description": "The U.S. military said Friday that it has carried out a deadly strike on a vessel accused of trafficking drugs in the Eastern Pacific Ocean, the first known attack since the raid that captured Venezuelan President Nicol\u00e1s Maduro earlier this month.",
-    "link": "https://www.cbc.ca/news/world/us-strike-eastern-pacific-alleged-drug-boat-9.7059109",
-    "timestamp": "2026-01-23T23:35:13Z"
-  },
-  {
-    "title": "U.S. Carries Out First Known Strike On Alleged Drug Boat Since Maduro's Capture",
-    "description": "It's the first since the raid that captured Venezuelan President Nicol\u00e1s Maduro earlier this month.",
-    "link": "https://www.huffpost.com/entry/us-strike-alleged-drug-boat-maduro-capture_n_697403a5e4b0bae0f7818644",
-    "timestamp": "2026-01-23T23:31:47Z"
-  },
-  {
-    "title": "Minneapolis\u2019 icy ICE rally sees 100 clergy arrested as thousands protest \u2018federal occupation\u2019",
-    "description": "Rev. Elizabeth Barish Browne was among the protesters. \u201cIt\u2019s definitely chilly, but the kind of ice that\u2019s dangerous to us is not the weather.\u201d",
-    "link": "https://fortune.com/2026/01/23/minneapolis-icy-ice-rally-sees-100-clergy-arrested-as-thousands-protest-federal-occupation/",
-    "timestamp": "2026-01-23T23:31:39Z"
-  },
-  {
-    "title": "Trump Admin Officially Cuts the World Health Org Loose.",
-    "description": "PULSE POINTS \u2753WHAT HAPPENED: The United States has officially withdrawn from the World Health Organization (WHO), citing concerns over the organization's",
-    "link": "https://thenationalpulse.com/2026/01/23/trump-admin-officially-cuts-the-world-health-org-loose/",
-    "timestamp": "2026-01-23T23:27:12Z"
-  },
-  {
-    "title": "The long view on Trump and Europe: From the Politics Desk",
-    "description": "Welcome to the online version of From the Politics Desk, a newsletter that brings you the NBC News Politics team\u2019s latest reporting and analysis from the White House, Capitol Hill and the campaign trail",
-    "link": "https://www.nbcnews.com/politics/politics-news/long-view-trump-europe-politics-desk-rcna255688",
-    "timestamp": "2026-01-23T23:25:37Z"
-  },
-  {
-    "title": "Trump's 'Board of Peace' gets its legitimacy from the UN, an agency he routinely belittles",
-    "description": "So far, about 30 countries ranging from Bulgaria to Belarus have signed on to the board that critics say is a Trumpian bid to build an alternative to the United Nations.",
-    "link": "https://www.cbc.ca/news/world/trump-board-of-peace-united-nations-9.7058836",
-    "timestamp": "2026-01-23T23:25:15Z"
-  },
-  {
-    "title": "White House 'Is Closely Monitoring' Winter Storm",
-    "description": "The Trump administration \"is closely monitoring\" the winter storm forecast to affect the eastern half of the United States, a White House official said Friday afternoon.\nThe post White House \u2018Is Closely Monitoring\u2019 Winter Storm appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/weather/2026/01/23/white-house-is-closely-monitoring-winter-storm/",
-    "timestamp": "2026-01-23T23:25:00Z"
-  },
-  {
-    "title": "Episcopal Bishop Refuses to Condemn Church Service Invasion",
-    "description": "I don\u2019t expect much from the Episcopal Church, but it still speaks volumes when a bishop refuses to condemn the invasion of a church service.... Read More\nThe post Episcopal Bishop Refuses to Condemn Church Service Invasion appeared first on The Daily Signal.",
-    "link": "https://www.dailysignal.com/2026/01/23/episcopal-bishop-refuses-condemn-church-service-invasion/",
-    "timestamp": "2026-01-23T23:20:00Z"
-  },
-  {
-    "title": "Prince Harry Takes Swing at Donald Trump Over Afghanistan War Remarks",
-    "description": "Prince Harry criticized President Donald Trump over downplaying the role of NATO allies in the Afghanistan War. Trump had told Fox News in an interview that the U.S. had \"never really asked anything of\" its NATO allies and questioned if they would come to Ame\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363651/posts",
-    "timestamp": "2026-01-23T23:18:44Z"
-  },
-  {
-    "title": "The week the US and Canada broke up",
-    "description": "This story appeared in\u00a0The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.\u00a0Subscribe here. Welcome to The Logoff: President Donald Trump has shattered one of the US\u2019s s\u2026",
-    "link": "https://www.vox.com/the-logoff-newsletter-trump/476340/donald-trump-mark-carney-speech-davos-us-canada-relationship",
-    "timestamp": "2026-01-23T23:18:26Z"
-  },
-  {
-    "title": "Top Trump Aides Post Bizarre Exchange About Spanking Democratic Influencer",
-    "description": "\"These losers that work for Donald Trump, they don\u2019t do anything all day. they don\u2019t have real jobs,\" influencer Harry Sisson said in a video addressing the beef.",
-    "link": "https://www.huffpost.com/entry/harry-sisson-steven-cheung-james-blair-spanking_n_6973dfeee4b0e79d3ae4be0c",
-    "timestamp": "2026-01-23T23:17:59Z"
-  },
-  {
-    "title": "Master of evasion Bill Clinton may finally be held to account as Congress probes contempt",
-    "description": "The former president and practiced political escape artist is on the verge of being held in contempt of Congress for ignoring a congressional subpoena regarding the Epstein scandal.",
-    "link": "https://nypost.com/2026/01/23/opinion/master-of-evasion-bill-clinton-may-finally-be-held-to-account-as-congress-probes-contempt/",
-    "timestamp": "2026-01-23T23:16:01Z"
-  },
-  {
-    "title": "California to join WHO health network in rebuke of Trump (Brock Hrehor/Politico)",
-    "description": "Brock Hrehor / Politico:\nCalifornia to join WHO health network in rebuke of Trump \u2026 Newsom, who discussed the collaboration with WHO Director-General Tedros Adhanom Ghebreyesus during his recent trip to the World Economic Forum in Davos, explicitly framed the\u2026",
-    "link": "https://www.memeorandum.com/260123/p107",
-    "timestamp": "2026-01-23T23:15:00Z"
-  },
-  {
-    "title": "Blumenthal: Americans Are 'Repulsed' by ICE Agents 'Abhorrent' Behavior",
-    "description": "Friday on CNN's \"The Arena,\" Sen. Richard Blumenthal (D-CT) said Americans are \"repulsed\" by Immigration and Customs Enforcement (ICE) agents' \"abhorrent\" behavior.\nThe post Blumenthal: Americans Are \u2018Repulsed\u2019 by ICE Agents \u2018Abhorrent\u2019 Behavior appeared firs\u2026",
-    "link": "https://www.breitbart.com/clips/2026/01/23/blumenthal-americans-are-repulsed-by-ice-agents-abhorrent-behavior/",
-    "timestamp": "2026-01-23T23:12:13Z"
-  },
-  {
-    "title": "Starmer says Trump should apologize for \u2018insulting\u2019 UK troops",
-    "description": "UK Prime Minister Keir Starmer has slammed US President Donald Trump for \u201cinsulting\u201d British troops who served in Afghanistan Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/631441-starmer-defends-troops-trump/",
-    "timestamp": "2026-01-23T23:10:48Z"
-  },
-  {
-    "title": "JD Vance: California Fraud Dwarfs Theft of Federal Funds in Minnesota",
-    "description": "Vice President JD Vance revealed this week that about $7 billion worth of Small Business Administration fraud has been discovered in California, an indicator the theft of federal funds across all departments could well exceed any other state's.\nThe post JD Va\u2026",
-    "link": "https://www.breitbart.com/crime/2026/01/23/jd-vance-california-fraud-dwarfs-theft-federal-funds-minnesota/",
-    "timestamp": "2026-01-23T23:10:09Z"
-  },
-  {
-    "title": "Protest in Minneapolis as 5-year-old\u2019s detention sparks global condemnation",
-    "description": "Thousands join a Minneapolis protest after the ICE detention of a 5-year-old boy sparks outrage. Businesses close in a coordinated city-wide action.\n\nRead More: https://punchng.com/protest-in-minneapolis-as-5-year-olds-detention-sparks-global-condemnation/",
-    "link": "https://punchng.com/protest-in-minneapolis-as-5-year-olds-detention-sparks-global-condemnation/",
-    "timestamp": "2026-01-23T23:08:46Z"
-  },
-  {
-    "title": "One survivor reported, two killed in US boat strike in the Eastern Pacific",
-    "description": "The latest bombing brings the death toll from US boat strikes to 125 since September, raising human rights concerns.",
-    "link": "https://www.aljazeera.com/news/2026/1/23/one-survivor-reported-two-killed-in-us-boat-strike-in-the-eastern-pacific",
-    "timestamp": "2026-01-23T23:08:46Z"
-  },
-  {
-    "title": "The Rumbles Within Trump\u2019s GOP",
-    "description": "The president\u2019s fixation on Greenland has posed yet another test for Republican leaders.",
-    "link": "https://www.theatlantic.com/newsletters/2026/01/trump-gop-greenland-pushback/685740/",
-    "timestamp": "2026-01-23T23:06:00Z"
-  },
-  {
-    "title": "Piers Morgan And Prince Harry Demand Trump Apologize for Dissing British Soldiers Who Fought In Afghanistan",
-    "description": "Piers Morgan and Prince Harry call for an apology from Donald Trump for suggesting British troops avoided battle in Afghanistan after 9/11.\nThe post Piers Morgan And Prince Harry Demand Trump Apologize for Dissing British Soldiers Who Fought In Afghanistan fi\u2026",
-    "link": "https://www.mediaite.com/media/news/piers-morgan-and-prince-harry-demand-trump-apologize-for-dissing-british-soldiers-who-fought-in-afghanistan/",
-    "timestamp": "2026-01-23T23:04:34Z"
-  },
-  {
-    "title": "Who is Lexie Lawler and why was she fired from her job? Watch viral video and see what she said about Karoline Leavitt",
-    "description": "Who is Lexie Lawler and why was she fired from her job? Lexie Lawler, a labor and delivery nurse at Baptist Health Boca Raton, was fired after a social media video showed her making graphic comments about White House Press Secretary Karoline Leavitt\u2019s pregnan\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/who-is-lexie-lawler-and-why-was-she-fired-from-her-job-watch-viral-video-and-see-what-she-said-about-karoline-leavitt-white-house-press-secretary-pregnancy-labor-and-delivery-nurse-baptist-health-boca-raton-regional-hospital-florida-severe-childbirth-complications-4th-degree-tear/articleshow/127339903.cms",
-    "timestamp": "2026-01-23T23:04:15Z"
-  },
-  {
-    "title": "Target faces new backlash amid Minnesota ICE raids after boycotts over its DEI rollback. But don\u2019t blame politics for falling profits, analyst says",
-    "description": "Recent events have caused renewed backlash against Target, nearly a year after boycotts began over the company rolling back its diversity, equity, and inclusion initiatives.",
-    "link": "https://fortune.com/2026/01/23/target-ice-backlash-protest-minnesota-dei-boycott-sales-foot-traffic-earnings/",
-    "timestamp": "2026-01-23T23:03:35Z"
-  },
-  {
-    "title": "Bari Weiss Putting Personal Podcast On Pause To Focus on Embattled New Role at CBS News \u2014 As Ratings and Her Credibility at Network Plummet",
-    "description": "Bari Weiss is pausing 'Honestly', the flagship podcast she started at her 'The Free Press' website.",
-    "link": "https://radaronline.com/p/bari-weiss-podcast-honestly-pause-cbs-news-ratings-credibility/",
-    "timestamp": "2026-01-23T23:01:51Z"
-  },
-  {
-    "title": "Breitbart Business Digest: Why Panicans Always Lose Money",
-    "description": "This is the Breitbart Business Digest's weekly wrap, where we run through the news of the week with the wild abandon of a Canadian Prime Minister kowtowing to Chinese communists.\nThe post Breitbart Business Digest: Why Panicans Always Lose Money appeared firs\u2026",
-    "link": "https://www.breitbart.com/economy/2026/01/23/breitbart-business-digest-why-panicans-always-lose-money/",
-    "timestamp": "2026-01-23T23:01:48Z"
   }
 ]
