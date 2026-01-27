@@ -1,5 +1,383 @@
 [
   {
+    "title": "Wild winter weather leaves hundreds of thousands of Americans without power",
+    "description": "A massive winter storm across much of the US, spreading from Texas all the way to New England, affects powerlines, traffic and air travel.",
+    "link": "https://www.abc.net.au/news/2026-01-26/snow-sleet-and-freezing-rain-cause-havoc-across-united-states/106268992",
+    "timestamp": "2026-01-26T01:48:54Z"
+  },
+  {
+    "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens 100% tariffs",
+    "description": "Trump's rhetoric on Truth Social contrasts with what he said after the agreement between Ottawa and Beijing: \"If you can get a deal with China, you should do that.\"",
+    "link": "https://www.cnbc.com/2026/01/26/canada-china-trade-deal-tariffs-trump.html",
+    "timestamp": "2026-01-26T01:47:37Z"
+  },
+  {
+    "title": "Welcome to the American Winter",
+    "description": "In the frozen streets of Minneapolis, something profound is happening.",
+    "link": "https://www.theatlantic.com/politics/2026/01/minneapolis-uprising/685755/",
+    "timestamp": "2026-01-26T01:42:51Z"
+  },
+  {
+    "title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows",
+    "description": "Democratic senators are vowing to oppose a funding bill for the Department of Homeland Security following the shooting death of a man in Minnesota",
+    "link": "https://abcnews.go.com/US/wireStory/democrats-vow-oppose-homeland-security-funds-after-minnesota-129545742",
+    "timestamp": "2026-01-26T01:41:55Z"
+  },
+  {
+    "title": "Cuba's Santeros offer gifts and ask deities for peace as tensions rise with US",
+    "description": "Priests and priestesses of the Afro-Cuban religion known as Santer\u00eda have offered gifts to deities and asked for peace as tensions rise between the United States and Cuba and the island braces for more economic difficulties",
+    "link": "https://abcnews.go.com/International/wireStory/cubas-santeros-offer-gifts-deities-peace-tensions-rise-129551607",
+    "timestamp": "2026-01-26T01:41:37Z"
+  },
+  {
+    "title": "Trump Dodges Question on Whether Border Patrol Agent Did \u2018Right Thing\u2019 in Alex Pretti Shooting: Admin Is \u2018Reviewing Everything\u2019",
+    "description": "President Trump declined to answer two times when a Wall Street Journal reporter asked him if the Border Patrol agent who shot Alex Pretti did the \"right thing\"\nThe post Trump Dodges Question on Whether Border Patrol Agent Did \u2018Right Thing\u2019 in Alex Pretti Sho\u2026",
+    "link": "https://www.mediaite.com/politics/trump-dodges-question-on-whether-border-patrol-agent-did-right-thing-in-alex-pretti-shooting-admin-is-reviewing-everything/",
+    "timestamp": "2026-01-26T01:39:41Z"
+  },
+  {
+    "title": "Minnesota Timberwolves Hold Moment Of Silence For Alex Pretti Ahead Of Rescheduled Game As Attendees Shout \u2018F\u2014 ICE\u2019",
+    "description": "After the NBA postponed the planned match between the Minnesota Timberwolves and Golden State Warriors, the rescheduled game opened with a tribute to ICU nurse Alex Pretti, who was gunned down by federal agents yesterday. \u201cTarget Center, we are heartbroken by\u2026",
+    "link": "http://deadline.com/2026/01/minnesota-timberwolves-alex-pretti-tribute-ice-1236696481/",
+    "timestamp": "2026-01-26T01:38:42Z"
+  },
+  {
+    "title": "Trump says it's 'too late' to stop White House ballroom construction (Washington Post)",
+    "description": "Washington Post:\nTrump says it's \u2018too late\u2019 to stop White House ballroom construction\u00a0 \u2014\u00a0 The president's comments came after Justice Department lawyers argued that the ballroom plans can still be modified and they plan to wait for federal reviews.\u00a0 \u2014\u00a0 Presid\u2026",
+    "link": "https://www.memeorandum.com/260125/p85",
+    "timestamp": "2026-01-26T01:35:01Z"
+  },
+  {
+    "title": "Emory fires Iranian official's daughter after campus protests over controversial hiring decision",
+    "description": "Fatemeh Ardeshir-Larijani, daughter of sanctioned Iranian official Ali Larijani, lost her position at Emory University as activists called for review of her immigration status.",
+    "link": "https://www.foxnews.com/world/emory-university-dismisses-daughter-senior-iranian-official-ali-larijani-campus-demonstrations",
+    "timestamp": "2026-01-26T01:25:45Z"
+  },
+  {
+    "title": "Time for ICE to Pause in Minneapolis (Wall Street Journal)",
+    "description": "Wall Street Journal:\nTime for ICE to Pause in Minneapolis\u00a0 \u2014\u00a0 Alex Pretti made a mistake, but he wasn't a \u2018domestic terrorist.\u2019\u00a0 \u2014\u00a0 When Donald Trump visited the Journal in October 2024, he was asked how he'd implement his mass deportation policy to avoid app\u2026",
+    "link": "https://www.memeorandum.com/260125/p82",
+    "timestamp": "2026-01-26T01:25:00Z"
+  },
+  {
+    "title": "From Pink Prints To Red Hats: Nicki Minaj Joins Donald Trump For Summit",
+    "description": "The \u201cQueen of Rap\u201d is officially trading her crown for a seat at the political table. Just one month after shocking the internet with a surprise appearance at the Turning Point USA (TPUSA) conference, Nicki Minaj is doubling down on her conservative alliance.\u2026",
+    "link": "https://bossip.com/4312668/nicki-minaj-joins-donald-trump-for-summit/",
+    "timestamp": "2026-01-26T01:22:33Z"
+  },
+  {
+    "title": "Daughter of top Iranian official ousted from Emory University following massive public outrage",
+    "description": "Georgia's Emory University has severed ties with Dr. Fatemeh Ardeshir-Larijani, the daughter of a sanctioned Iranian regime official, following mounting pressure.",
+    "link": "https://nypost.com/2026/01/25/us-news/emory-university-fires-daughter-of-iran-official-fatemeh-ardeshir-larijani/",
+    "timestamp": "2026-01-26T01:21:56Z"
+  },
+  {
+    "title": "Trump has sent the gold price surging",
+    "description": "The first year of the US president\u2019s second term has been chaotic and generated a raft of uncertainties and risks for other countries and their economies.",
+    "link": "https://www.smh.com.au/business/markets/trump-s-gold-rush-america-has-the-world-running-scared-20260126-p5nwxm.html",
+    "timestamp": "2026-01-26T01:21:01Z"
+  },
+  {
+    "title": "One called it murder. Some need more information. How policing experts see the Pretti shooting.",
+    "description": "The Border Patrol\u2019s killing of Alex Pretti in Minneapolis has revived concerns about whether immigration enforcement officers are properly trained to deal with protesters.",
+    "link": "https://www.nbcnews.com/news/us-news/alex-pretti-shooting-minneapolis-border-patrol-policing-experts-rcna255817",
+    "timestamp": "2026-01-26T01:17:12Z"
+  },
+  {
+    "title": "Trump just lit a 'green light' after another American killed in Minneapolis: legal expert",
+    "description": "A legal expert issued a dire warning about how President Donald Trump's immigration officers are going to conduct themselves going forward after another American was killed while protesting in Minneapolis. On Saturday, 37-year-old ICU nurse Alex Pretti was gu\u2026",
+    "link": "https://www.rawstory.com/trump-immigration-2675023709/",
+    "timestamp": "2026-01-26T01:09:56Z"
+  },
+  {
+    "title": "Trump says US used secret weapon 'The Discombobulator' to disable Venezuelan equipment in Maduro raid",
+    "description": "President Donald Trump disclosed the use of a secret weapon, 'The Discombobulator', during Nicolas Maduro's capture. This device reportedly disabled Venezuelan military equipment. Trump also reiterated threats of military action against drug cartels, potentia\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/trump-says-us-used-secret-weapon-the-discombobulator-to-disable-venezuelan-equipment-in-maduro-raid/articleshow/127516419.cms",
+    "timestamp": "2026-01-26T01:08:04Z"
+  },
+  {
+    "title": "Trump was surging after the Venezuela raid\u2014then came Jerome Powell, Greenland and Minnesota. Now it feels like a \u2018historic hinge moment\u2019",
+    "description": "\"It's not acceptable for American citizens to be killed by federal agents for exercising their God-given and constitutional rights to protest their government.\"",
+    "link": "https://fortune.com/2026/01/25/trump-resistance-jerome-powell-federal-reserve-greenland-minnesota/",
+    "timestamp": "2026-01-26T01:05:13Z"
+  },
+  {
+    "title": "Walz says children in Minnesota are hiding like Anne Frank amid ICE enforcement",
+    "description": "Minnesota Governor Tim Walz again invoked Nazi-era comparisons when speaking about ICE operations in the state, suggesting that events unfolding in Minnesota will one day be written about in a manner similar to Anne Frank\u2019s diary. \u201cWe have got children in Min\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4363959/posts",
+    "timestamp": "2026-01-26T01:03:54Z"
+  },
+  {
+    "title": "CNBC Daily Open: Canada is drawing Trump's ire \u2014 and faces a 100% tariff",
+    "description": "Trump threatened Canada with tariffs of 100% if it strikes a deal with China. Trump also withdrew an invitation to the Canada to join his \"Board of Peace.\"",
+    "link": "https://www.cnbc.com/2026/01/26/cnbc-daily-open-canada-is-drawing-trumps-ire-and-faces-a-100percent-tariff.html",
+    "timestamp": "2026-01-26T01:01:58Z"
+  },
+  {
+    "title": "Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs",
+    "description": "Canadian Prime Minister Mark Carney says his country has no intention of pursuing a free trade deal with China",
+    "link": "https://abcnews.go.com/Business/wireStory/carney-canada-plans-pursue-free-trade-agreement-china-129545734",
+    "timestamp": "2026-01-26T01:01:45Z"
+  },
+  {
+    "title": "Small-cap carnage forces fund managers to rethink strategy after steep fall",
+    "description": "Sunil Singhania returns to the Indian mutual fund industry with Abakkus's Flexi Cap Fund, raising Rs. 2,500 crore. After managing AIFs and PMS, he aims to leverage his expertise in a growing market, focusing on profit-making companies with strong ROCE. Abakku\u2026",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/small-cap-carnage-forces-fund-managers-to-rethink-strategy-after-steep-fall/articleshow/127360542.cms",
+    "timestamp": "2026-01-26T01:00:00Z"
+  },
+  {
+    "title": "Letters to the Editor, January 26th: On Revenue and family carers, young children and screen time and a Trump-free St Brigid\u2019s Day?",
+    "description": "Carers already face exhaustive means testing and ongoing reassessment to qualify for these payment",
+    "link": "https://www.irishtimes.com/opinion/letters/2026/01/26/letters-to-the-editor-january-26th-on-revenue-and-family-carers-young-children-and-screen-time-and-a-trump-free-st-brigids-day/",
+    "timestamp": "2026-01-26T01:00:00Z"
+  },
+  {
+    "title": "Massive winter storm freezes much of US, forces 11,000 flight cancellations",
+    "description": "A massive winter storm brought sleet, freezing rain, and snow across the U.S., causing widespread power outages and halting travel. Subzero temperatures followed, exacerbating dangerous conditions and impacting infrastructure. The storm's extensive reach, spa\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/massive-winter-storm-freezes-much-of-us-forces-11000-flight-cancellations/articleshow/127515894.cms",
+    "timestamp": "2026-01-26T00:55:34Z"
+  },
+  {
+    "title": "Republicans Call For Investigation After Federal Agents Kill Minneapolis Man",
+    "description": "The Trump administration's misinformation around Alex Pretti's death has led even the president's allies to demand more transparency.",
+    "link": "https://www.huffpost.com/entry/republicans-border-patrol-alex-pretti-probe_n_6976a80ae4b00d7771d76da3",
+    "timestamp": "2026-01-26T00:55:06Z"
+  },
+  {
+    "title": "\u2018COMMON SENSE\u2019: Trump makes urgent request of Tim Walz, Jacob Frey and \u2018EVERY Democrat Governor and Mayor\u2019",
+    "description": "President also calls on Congress 'to immediately pass Legislation to END Sanctuary Cities, which is the root cause of all of these problems'",
+    "link": "https://www.wnd.com/2026/01/common-sense-trump-makes-urgent-request-tim-walz/",
+    "timestamp": "2026-01-26T00:54:12Z"
+  },
+  {
+    "title": "Canada holds firm on trade pivot as energy minister heads to India",
+    "description": "Canada is pursuing a strategy to boost trade beyond the United States. Foreign Minister Anita Anand stated the nation will not be deterred by recent threats from the Trump administration. Canada aims to double its non-US exports within ten years. This diversi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/canada-holds-firm-on-trade-pivot-as-energy-minister-heads-to-india/articleshow/127515732.cms",
+    "timestamp": "2026-01-26T00:53:59Z"
+  },
+  {
+    "title": "Trump tells Tim Walz to turn over all migrants with a criminal history after 'Democrat ensued chaos' causes Minnesota shooting of Alex Pretti",
+    "description": "President Donald Trump admitted 'I don't like any shooting' when asked about the fatal Border Patrol confrontation with Minnesota nurse Alex Pretti as he gave state officials an ultimatum to turn over all criminal migrants. In a lengthy Truth Social post on S\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4363956/posts",
+    "timestamp": "2026-01-26T00:49:32Z"
+  },
+  {
+    "title": "PM Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs",
+    "description": "Canada denies plans for a free trade deal with China. Prime Minister Mark Carney clarifies recent agreements only address specific tariff issues. U.S. President Donald Trump expresses strong disapproval, warning of tariffs. Carney states Canada adheres to tra\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/pm-carney-says-canada-has-no-plans-to-pursue-free-trade-agreement-with-china-as-trump-threatens-tariffs/articleshow/127515171.cms",
+    "timestamp": "2026-01-26T00:47:05Z"
+  },
+  {
+    "title": "Winter storm grips much of US in snow, ice, Arctic cold",
+    "description": "A massive winter storm is impacting over 118 million Americans with heavy snow, sleet, and freezing rain.  Bitter cold grips the nation east of the Rockies.  More than one million customers have lost power across eight Southern states.  Thousands of flights a\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/winter-storm-grips-much-of-us-in-snow-ice-arctic-cold/articleshow/127515337.cms",
+    "timestamp": "2026-01-26T00:45:57Z"
+  },
+  {
+    "title": "White House staff \u2018sounded alarm\u2019 over Trump\u2019s mental health, psychiatrist says - NewsBreak",
+    "description": "Dr. Bandy Lee, a psychiatrist formerly associated with Yale University, says White House staff reached out in 2017 expressing concerns about Donald Trump's",
+    "link": "https://www.newsbreak.com/share/4459711244447-white-house-staff-sounded-alarm-over-trump-s-mental-health-psychiatrist-says?_f=app_share&amp;pd=03DNXOum&amp;lang=en_US&amp;send_time=1769388253&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2226.2.1.11%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
+    "timestamp": "2026-01-26T00:44:29Z"
+  },
+  {
+    "title": "UK to join major wind farm project with nine European countries",
+    "description": "For the first time, the new wind farms will be connected to more than one country through undersea cables.",
+    "link": "https://www.bbc.com/news/articles/cp372d37gxgo",
+    "timestamp": "2026-01-26T00:43:21Z"
+  },
+  {
+    "title": "US to slap full tariffs on Canada if it seals China trade deal: Treasury secretary",
+    "description": "WASHINGTON: The United States will impose 100 per cent tariffs on Canadian imports should Ottawa finalise a new trade deal with China, Treasury Secretary Scott Bessent said Sunday (Jan 25), amplifying a si",
+    "link": "https://www.channelnewsasia.com/world/us-100-percent-tariff-canada-china-trade-deal-bessent-5882281",
+    "timestamp": "2026-01-26T00:42:39Z"
+  },
+  {
+    "title": "Volunteers shelter immigrant children after ICE raids",
+    "description": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
+    "link": "https://www.kmbc.com/article/minneapolis-ice-raids-families-sheltered/70133075",
+    "timestamp": "2026-01-26T00:42:12Z"
+  },
+  {
+    "title": "Alex Pretti\u2019s Family Slams Trump\u2019s \u2018Sickening Lies,\u2019 Gov. Walz Mobilizes National Guard As Democrats Threaten DHS Funding Block",
+    "description": "Alex Pretti\u2019s family is speaking out after the 37-year-old Minneapolis resident was shot and killed by federal immigration agents, accusing President Donald Trump and his administration of spreading \u201csickening lies\u201d about what happened. The Guardian reports t\u2026",
+    "link": "https://bossip.com/4313443/alex-pretti-family-donald-trump-sickening-lies-gov-walz-national-guard/",
+    "timestamp": "2026-01-26T00:39:12Z"
+  },
+  {
+    "title": "Dollar Pressure Mounts as Reasons for Further Weakness Multiply",
+    "description": "The dollar weakened against most major peers Monday as investors debated how potential US involvement in foreign-exchange intervention in Japan might worsen sentiment toward the world\u2019s reserve currency.",
+    "link": "https://financialpost.com/pmn/business-pmn/dollar-pressure-mounts-as-reasons-for-further-weakness-multiply",
+    "timestamp": "2026-01-26T00:37:47Z"
+  },
+  {
+    "title": "Volunteers shelter immigrant children after ICE raids",
+    "description": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
+    "link": "https://www.kcra.com/article/minneapolis-ice-raids-families-sheltered/70133075",
+    "timestamp": "2026-01-26T00:36:01Z"
+  },
+  {
+    "title": "Volunteers shelter immigrant children after ICE raids",
+    "description": "As more than 2,000 federal agents surge in Minneapolis in an immigration crackdown and clash with protesters on the streets, countless residents are also quietly resisting the operation through grassroots networks sheltering and supporting immigrants.",
+    "link": "https://www.wgal.com/article/minneapolis-ice-raids-families-sheltered/70133075",
+    "timestamp": "2026-01-26T00:35:05Z"
+  },
+  {
+    "title": "He Spent Decades Building the Religious Right. Now He\u2019s Marching to Undo It.",
+    "description": "He helped build the religious right in the United States. Now he\u2019s in Minneapolis, Minnesota, to join the clergy\u2019s fight ICE\u2019s siege of the city. \u201cBeing here, in solidarity, is part of the repair work in my own soul,\u201d said Rev. Rob Schenck, an Evangelical min\u2026",
+    "link": "https://www.motherjones.com/politics/2026/01/minneapolis-ice-shooting-clergy-march-rob-schenck-video/",
+    "timestamp": "2026-01-26T00:34:07Z"
+  },
+  {
+    "title": "Minneapolis shooting: NRA stress right to carry guns after fatal shooting of Alex Pretti by federal agents",
+    "description": "The NRA criticised comments made by a senior federal prosecutor, saying it was \u201cdangerous and wrong\u201d to suggest that people who legally carry guns risk being shot by police.",
+    "link": "https://indianexpress.com/article/world/minneapolis-shooting-nra-stress-right-to-carry-guns-after-fatal-shooting-of-alex-pretti-by-federal-agents-10494787/",
+    "timestamp": "2026-01-26T00:33:20Z"
+  },
+  {
+    "title": "Crypto shaves $100B as Democrats threaten government shutdown",
+    "description": "Senate Democrats have threatened to block a funding bill if it includes money for the Department of Homeland Security, making traders fearful of another possible US government shutdown.",
+    "link": "https://cointelegraph.com/news/crypto-wipes-100-billion-us-government-shutdown-fears",
+    "timestamp": "2026-01-26T00:30:13Z"
+  },
+  {
+    "title": "India weighing Pax Silica entry despite sovereignty worries",
+    "description": "India is considering joining the US-led Pax Silica initiative to secure supply chains for semiconductors, AI infrastructure, critical minerals and advanced manufacturing. While keen to access raw materials and advanced tools, New Delhi is cautious about commi\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/india-weighing-pax-silica-entry-despite-sovereignty-worries/articleshow/127498656.cms",
+    "timestamp": "2026-01-26T00:30:00Z"
+  },
+  {
+    "title": "Trump, unbowed by backlash to Minneapolis shooting, blames Democrats for 'chaos'",
+    "description": "The fatal shooting of a Minneapolis protester by a federal immigration officer touched off a firestorm and prompted some fellow Republicans to question President Donald Trump\u2019s hard-line immigration crackdown, but the president on Sunday night doubled ...",
+    "link": "https://abcnews.go.com/US/wireStory/trump-unbowed-backlash-minneapolis-shooting-blames-democrats-chaos-129551129",
+    "timestamp": "2026-01-26T00:29:54Z"
+  },
+  {
+    "title": "Gold tops record $5,000 mark on Trump policy uncertainty",
+    "description": "Gold prices have reached a record high of over $5,000 per ounce. This surge is driven by global uncertainty and policies from US President Donald Trump. Recent events, including trade war fears and pressure on the Federal Reserve, have boosted gold's appeal. \u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-tops-record-5000-mark-on-trump-policy-uncertainty/articleshow/127514693.cms",
+    "timestamp": "2026-01-26T00:28:38Z"
+  },
+  {
+    "title": "Tim Walz Compares ICE Enforcing U.S. Immigration Laws to Nazi Germany",
+    "description": "Minnesota Gov. Tim Walz (D) compared U.S. Immigration and Customs Enforcement (ICE) enforcing the nation's immigration laws to Nazi Germany and referenced the story of Anne Frank.\nThe post Tim Walz Compares ICE Enforcing U.S. Immigration Laws to Nazi Germany \u2026",
+    "link": "https://www.breitbart.com/immigration/2026/01/25/tim-walz-compares-ice-enforcing-u-s-immigration-laws-to-nazi-germany/",
+    "timestamp": "2026-01-26T00:28:23Z"
+  },
+  {
+    "title": "Another Schumer Shutdown? Top Dem Vows Senate Dems Won\u2019t Support DHS Funding Bill",
+    "description": "DAILY CALLER NEWS FOUNDATION\u2014Hours after Border Patrol fatally shot an armed man Saturday in Minneapolis, Senate Minority Leader Chuck Schumer said he and other Democrats... Read More\nThe post Another Schumer Shutdown? Top Dem Vows Senate Dems Won\u2019t Support D\u2026",
+    "link": "https://www.dailysignal.com/2026/01/25/schumer-vows-senate-dems-wont-support-dhs-funding-bill/",
+    "timestamp": "2026-01-26T00:25:55Z"
+  },
+  {
+    "title": "Democrats vow to oppose homeland security funding bill",
+    "description": "This stand increases the prospect of a partial government shutdown by the end of the week",
+    "link": "https://www.kcra.com/article/democrats-vow-to-oppose-homeland-security-funding/70130343",
+    "timestamp": "2026-01-26T00:25:48Z"
+  },
+  {
+    "title": "Democrats vow to oppose homeland security funding bill",
+    "description": "This stand increases the prospect of a partial government shutdown by the end of the week",
+    "link": "https://www.wgal.com/article/democrats-vow-to-oppose-homeland-security-funding/70130343",
+    "timestamp": "2026-01-26T00:25:42Z"
+  },
+  {
+    "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens tariffs",
+    "description": "TORONTO (AP) \u2014 Canadian Prime Minister Mark Carney said Sunday his country has no intention of pursuing a free trade deal with China. He was responding to U.S. President Donald Trump's threat to impose a 100% tariff on goods imported from Canada if America's \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4363951/posts",
+    "timestamp": "2026-01-26T00:24:47Z"
+  },
+  {
+    "title": "Democrats vow to oppose homeland security funding bill",
+    "description": "This stand increases the prospect of a partial government shutdown by the end of the week",
+    "link": "https://www.wbaltv.com/article/democrats-vow-to-oppose-homeland-security-funding/70130343",
+    "timestamp": "2026-01-26T00:23:42Z"
+  },
+  {
+    "title": "Democrats vow to oppose homeland security funding bill",
+    "description": "This stand increases the prospect of a partial government shutdown by the end of the week",
+    "link": "https://www.wlwt.com/article/democrats-vow-to-oppose-homeland-security-funding/70130343",
+    "timestamp": "2026-01-26T00:23:39Z"
+  },
+  {
+    "title": "Minneapolis confronts rising violence under federal immigration crackdown",
+    "description": "Two fatal ICE-related shooting deaths have shaken Minneapolis and left the city on edge. How are residents of Minnesota's most populous city responding to the federal immigration crackdown? Two fatal ICE-related shooting deaths have shaken Minneapolis and lef\u2026",
+    "link": "https://www.dw.com/en/minneapolis-confronts-rising-violence-under-federal-immigration-crackdown/a-75654166",
+    "timestamp": "2026-01-26T00:22:00Z"
+  },
+  {
+    "title": "Minneapolis protests clampdown killings by federal agents",
+    "description": "Two shooting deaths at the hands of federal officers have left Minneapolis on edge. How are residents of Minnesota's most-populous city responding to the federal immigration clampdown? Instead of withdrawing from the streets following the shooting deaths of t\u2026",
+    "link": "https://www.dw.com/en/minneapolis-protests-clampdown-killings-by-federal-agents/a-75654166",
+    "timestamp": "2026-01-26T00:22:00Z"
+  },
+  {
+    "title": "US exports to Nigeria jump 60% amid Trump tariff",
+    "description": "The US-Nigeria trade balance flips to a $1.45bn surplus as American exports surge 60%. Learn how Trump\u2019s tariff policies are reshaping economic ties.\n\nRead More: https://punchng.com/us-exports-to-nigeria-jump-60-amid-trump-tariff/",
+    "link": "https://punchng.com/us-exports-to-nigeria-jump-60-amid-trump-tariff/",
+    "timestamp": "2026-01-26T00:20:25Z"
+  },
+  {
+    "title": "Asia-Pacific markets trade mixed as gold hits fresh record of $5,000",
+    "description": "Asia-Pacific markets traded mixed Monday as investors continued to pile into gold, sending it to fresh highs.",
+    "link": "https://www.cnbc.com/2026/01/26/asia-pacific-markets-nikkei-225-hang-seng-index-kospi-gold-canada.html",
+    "timestamp": "2026-01-26T00:16:56Z"
+  },
+  {
+    "title": "Leiter recalls historic year: From tragedy in D.C. to Gaza ceasefire breakthrough",
+    "description": "Ambassador Yechiel Leiter marks one year in Washington, recalling key moments from meetings with President Trump to the embassy tragedy, Operation Rising Lion, the Gaza ceasefire, and the return of hostages.",
+    "link": "https://www.israelnationalnews.com/news/421455",
+    "timestamp": "2026-01-26T00:15:31Z"
+  },
+  {
+    "title": "Democrats vow to oppose homeland security funding bill",
+    "description": "This stand increases the prospect of a partial government shutdown by the end of the week",
+    "link": "https://www.wmur.com/article/democrats-vow-to-oppose-homeland-security-funding/70130343",
+    "timestamp": "2026-01-26T00:14:47Z"
+  },
+  {
+    "title": "Minneapolis mourns ICU nurse killed by a Border Patrol agent as a warmhearted neighbor and caregiver",
+    "description": "Family members say the man who was killed by a federal officer in Minneapolis was an intensive care nurse at a U.S. Department of Veterans Affairs hospital who cared deeply about people and was upset by President Donald Trump\u2019s immigration crackdown in...",
+    "link": "https://abcnews.go.com/US/wireStory/minneapolis-mourns-icu-nurse-killed-border-patrol-agent-129549806",
+    "timestamp": "2026-01-26T00:13:43Z"
+  },
+  {
+    "title": "Tim Walz begs Donald Trump to pull federal agents from Minnesota after second immigration protester is shot dead in weeks",
+    "description": "Governor Tim Walz has begged President Donald Trump to pull federal agents out of Minnesota after a second immigration protester was shot dead by officers this month. 'What is the plan, Donald? What do we need to do to get these federal agents out of our stat\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4363947/posts",
+    "timestamp": "2026-01-26T00:10:18Z"
+  },
+  {
+    "title": "China didn\u2019t grab many headlines at Davos, but it's the elephant in the room",
+    "description": "The world's second-largest economy is sticking to its calls for global cooperation, which didn't stand out as much as other high-profile speeches at Davos.",
+    "link": "https://www.cnbc.com/2026/01/26/china-isnt-grabbing-headlines-at-davos-but-its-the-elephant-in-the-room.html",
+    "timestamp": "2026-01-26T00:05:33Z"
+  },
+  {
+    "title": "Sen. Warren Accuses CFPB of Harming Trump\u2019s Affordability Push",
+    "description": "President Donald Trump has been lobbying for a 10% cap on credit card interest rates. But according to Sen. Elizabeth Warren, Trump\u2019s own administration has been undermining what the president has characterized as a push to improve affordability, CNBC reporte\u2026",
+    "link": "https://www.pymnts.com/credit-cards/2026/sen-warren-accuses-cfpb-of-harming-trumps-affordability-push/",
+    "timestamp": "2026-01-26T00:00:05Z"
+  },
+  {
+    "title": "\u2018Union County\u2019 Review: Will Poulter Stars in a Sensitive Docudrama About Community Recovery",
+    "description": "Sundance: Will Poulter and Noah Centineo star as brothers struggling with opiates in a sensitively observed, occasionally myopic addiction docudrama set in rural Ohio.",
+    "link": "https://www.indiewire.com/criticism/movies/union-county-review-will-poulter-1235175321/",
+    "timestamp": "2026-01-26T00:00:00Z"
+  },
+  {
+    "title": "We All Benefit From An Independent Federal Reserve",
+    "description": "To many, the fight between President Donald Trump and the Federal Reserve Chair Jerome Powell may seem just one of the many ongoing skirmishes as the MAGA movement attempts to root out and reclaim \u201celite\u201d institutions\u2014the so-called \u201cDeep State\u201d which has dict\u2026",
+    "link": "https://time.com/7357268/we-need-an-independent-federal-reserve/",
+    "timestamp": "2026-01-26T00:00:00Z"
+  },
+  {
+    "title": "How Trump Won Davos",
+    "description": "[Subscription Required]\u00a0I have never before seen a single individual so completely dominate this vast bazaar of the powerful, the wealthy, the famous, and the self-important.",
+    "link": "https://www.thefp.com/p/niall-ferguson-how-trump-won-davos",
+    "timestamp": "2026-01-26T00:00:00Z"
+  },
+  {
     "title": "\u2018Enough is Enough\u2019: Republican Lawmakers Rip Trump Over \u2018Murder of Americans\u2019 By Federal Officers",
     "description": "Republican lawmakers are beginning to turn on the President Donald Trump over the \"murder of Americans\" by federal agents.\nThe post \u2018Enough is Enough\u2019: Republican Lawmakers Rip Trump Over \u2018Murder of Americans\u2019 By Federal Officers first appeared on Mediaite.",
     "link": "https://www.mediaite.com/media/news/enough-is-enough-republican-lawmakers-rip-trump-over-murder-of-americans-by-federal-officers/",
@@ -202,341 +580,5 @@
     "description": "Top officials in President Donald Trump\u2019s administration have responded to the killing of Alex Pretti by the Border Patrol in Minneapolis on Saturday with a torrent of claims that are either contradicted by video footage or unsupported by any evidence present\u2026",
     "link": "https://www.cnn.com/2026/01/25/politics/trump-officials-shifting-rhetoric-alex-pretti",
     "timestamp": "2026-01-25T22:28:42Z"
-  },
-  {
-    "title": "Walz, Ellison once again demand federal officers leave Minnesota",
-    "description": "Alex Pretti was shot and killed in Uptown Saturday by federal immigration officers. His death follows that of Renee Good, who was also killed earlier this month.",
-    "link": "https://www.kare11.com/article/news/local/ice-in-minnesota/walz-ellison-once-again-demand-federal-officers-leave-minnesota/89-8636fa0a-1f67-4d06-a920-776953ac9dda",
-    "timestamp": "2026-01-25T22:27:44Z"
-  },
-  {
-    "title": "'Heartbroken' Timberwolves resume NBA play amid Minneapolis turmoil",
-    "description": "Minnesota Timberwolves coach Chris Finch said the NBA team was \"heartbroken\" by events unfolding in Minneapolis, where federal agents shot dead a second US citizen amid the Trump administration's mass immigration crackdown.Both coaches praised the decision to\u2026",
-    "link": "https://sports.yahoo.com/articles/heartbroken-timberwolves-resume-nba-play-221528416.html",
-    "timestamp": "2026-01-25T22:15:28Z"
-  },
-  {
-    "title": "Schumer calls on GOP to help rewrite DHS bill and advance funds for other departments as shutdown deadline nears",
-    "description": "\u201cThis is the best course of action, and the American people are on our side,\u201d Schumer said.",
-    "link": "https://fortune.com/2026/01/25/schumer-dhs-appropriations-bill-government-shutdown-deadline-minnesota-shooting/",
-    "timestamp": "2026-01-25T22:14:54Z"
-  },
-  {
-    "title": "Some in GOP call for probe\u00a0after Minnesota shooting",
-    "description": "A growing number of Republicans are pressing for a deeper investigation into federal immigration tactics in Minnesota after a U.S. Border Patrol agent fatally shot a man in Minneapolis, a sign that the accounting of events by President Donald Trump's administ\u2026",
-    "link": "https://www.bostonherald.com/2026/01/25/some-in-gop-call-for-probe-after-minnesota-shooting/",
-    "timestamp": "2026-01-25T22:09:21Z"
-  },
-  {
-    "title": "Tim Walz Compares Trump\u2019s ICE Raids to Anne Frank Getting Arrested by Nazis",
-    "description": "Minnesota Gov. Tim Walz (D) compared President Donald Trump's ICE and Border Patrol raids on illegal immigrants to Anne Frank being captured by Nazi Germany\nThe post Tim Walz Compares Trump\u2019s ICE Raids to Anne Frank Getting Arrested by Nazis first appeared on\u2026",
-    "link": "https://www.mediaite.com/politics/tim-walz-compares-trumps-ice-raids-to-anne-frank-getting-arrested-by-nazis/",
-    "timestamp": "2026-01-25T22:04:54Z"
-  },
-  {
-    "title": "Pentagon no longer views China threat as top priority",
-    "description": "The Pentagon on Friday night released a long-awaited strategy that prioritizes the U.S. homeland and Western Hemisphere \u2014 a stunning reversal from previous administrations that aligns with President Donald Trump\u2019s military strikes in Venezuela and efforts to \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363932/posts",
-    "timestamp": "2026-01-25T22:01:32Z"
-  },
-  {
-    "title": "China wins as Donald Trump cedes leadership of the global economy at Davos",
-    "description": "China now pitches itself as the steady defender of global trade rules.",
-    "link": "https://www.nzherald.co.nz/business/china-wins-as-donald-trump-cedes-leadership-of-the-global-economy-at-davos/premium/UBWNFRIZPNCILO7Y7CUY3D2TQE/",
-    "timestamp": "2026-01-25T22:00:00Z"
-  },
-  {
-    "title": "Wood Mackenzie Sees Sharp Pullback in UK North Sea Capex",
-    "description": "Recently, U.S. President Donald Trump claimed that the UK has 500 years of oil reserves left in the North Sea, and blamed the country\u2019s high energy prices on the government\u2019s unwillingness to drill. However, the unfortunate fact is that the North Sea oil and \u2026",
-    "link": "https://oilprice.com/Energy/Crude-Oil/Wood-Mackenzie-Sees-Sharp-Pullback-in-UK-North-Sea-Capex.html",
-    "timestamp": "2026-01-25T22:00:00Z"
-  },
-  {
-    "title": "Graphic: Anti-ICE rioter bites off federal officer\u2019s finger during Minneapolis chaos",
-    "description": "Tricia McLaughlin posts unnerving, bloody photos of results of attacks on agents",
-    "link": "https://www.wnd.com/2026/01/graphic-anti-ice-rioter-bites-federal-officers-finger/",
-    "timestamp": "2026-01-25T21:58:30Z"
-  },
-  {
-    "title": "Leaked ICE memo reveals 'broader effort' of Trump's immigration regime: lawyer",
-    "description": "A lawyer representing a group of whistleblowers who leaked a recent Department of Homeland Security memo said on Sunday that the document revealed the \"broader effort\" of President Donald Trump's immigration regime. Immigration has been the Trump administrati\u2026",
-    "link": "https://www.rawstory.com/trump-immigration-2675023568/",
-    "timestamp": "2026-01-25T21:56:55Z"
-  },
-  {
-    "title": "Winter storm wreaks havoc for NBA as Nuggets-Grizzlies and Mavericks-Bucks matches postponed",
-    "description": "The NBA schedule is already feeling the impact of a powerful winter storm sweeping across the United States, with severe weather conditions forcing postponements and placing additi",
-    "link": "https://www.marca.com/en/basketball/nba/2026/01/25/69768ed8ca47418e4d8b4594.html",
-    "timestamp": "2026-01-25T21:54:51Z"
-  },
-  {
-    "title": "Fatal shooting of Alex Pretti in Minneapolis widens rift between state and White House",
-    "description": "FBI director insists Pretti the aggressor: \u2018You do not get to attack law enforcement officials in this country without repercussions\u2019",
-    "link": "https://www.irishtimes.com/world/us/2026/01/26/fatal-shooting-of-alex-pretti-in-minneapolis-widens-rift-between-state-and-white-house/",
-    "timestamp": "2026-01-25T21:53:51Z"
-  },
-  {
-    "title": "Bystander videos show violent takedown before fatal shooting in Minneapolis",
-    "description": "Multiple videos emerge of nurse Alex Pretti being pepper-sprayed, wrestled to the ground and then shot. The Trump administration says Mr Pretti was an armed man provoking violence.",
-    "link": "https://www.abc.net.au/news/2026-01-26/minneapolis-videos-shooting-alex-pretti/106268710",
-    "timestamp": "2026-01-25T21:51:04Z"
-  },
-  {
-    "title": "House Oversight Chair Suggests Trump Pull ICE Out of Minnesota (Manuela Silva/NOTUS)",
-    "description": "Manuela Silva / NOTUS:\nHouse Oversight Chair Suggests Trump Pull ICE Out of Minnesota\u00a0 \u2014\u00a0 House Oversight Committee Chairman James Comer suggested on Sunday that President Donald Trump should pull back the thousands of federal officers deployed to Minneapolis\u2026",
-    "link": "https://www.memeorandum.com/260125/p66",
-    "timestamp": "2026-01-25T21:50:00Z"
-  },
-  {
-    "title": "Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid",
-    "description": "President Donald Trump says the U.S. used a secret weapon he called \u201cThe Discombobulator\u201d to disable Venezuelan equipment when the U.S. captured Nicol\u00e1s Maduro",
-    "link": "https://abcnews.go.com/US/wireStory/trump-us-secret-weapon-disable-venezuelan-equipment-maduro-129549430",
-    "timestamp": "2026-01-25T21:49:46Z"
-  },
-  {
-    "title": "The Irish Times view on the Ukraine talks: critical barriers remain",
-    "description": "There are some signs of progress, but it is not clear yet if a deal can be done",
-    "link": "https://www.irishtimes.com/opinion/editorials/2026/01/25/the-irish-times-view-on-the-ukraine-talks-critical-barriers-remain/",
-    "timestamp": "2026-01-25T21:49:00Z"
-  },
-  {
-    "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens tariffs",
-    "description": "Canadian Prime Minister Mark Carney\u00a0said Sunday his country has no intention of pursuing a free trade deal with\u00a0China.",
-    "link": "https://www.pbs.org/newshour/world/carney-says-canada-not-pursuing-free-trade-deal-with-china-as-trump-threatens-tariffs",
-    "timestamp": "2026-01-25T21:44:23Z"
-  },
-  {
-    "title": "White House staff \u2018sounded alarm\u2019 over Trump\u2019s mental health, psychiatrist says - NewsBreak",
-    "description": "Dr. Bandy Lee, a psychiatrist formerly associated with Yale University, says White House staff reached out in 2017 expressing concerns about Donald Trump's",
-    "link": "https://www.newsbreak.com/share/4459711244447-white-house-staff-sounded-alarm-over-trump-s-mental-health-psychiatrist-says?_f=app_share&amp;pd=0EV7oQ8m&amp;lang=en_US&amp;send_time=1769377110&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2226.2.1.11%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
-    "timestamp": "2026-01-25T21:39:06Z"
-  },
-  {
-    "title": "Barack Obama Urges More Street Protests, Blames Trump for Minneapolis Shooting",
-    "description": "Former President Barack Obama is urging Americans to \"support and draw inspiration\" from the aggressive, Antifa-style\u00a0provoke-blame-escalate street campaign in Minnesota against federal law enforcement that has led to the deaths of two Americans.\nThe post Bar\u2026",
-    "link": "https://www.breitbart.com/crime/2026/01/25/obama-urge-more-protests-blames-trump-after-minneapolis-shooting/",
-    "timestamp": "2026-01-25T21:37:16Z"
-  },
-  {
-    "title": "1st LD Writethru: 2 dead as U.S. hit by historic winter storm",
-    "description": "NEW YORK, Jan. 25 (Xinhua) -- Two people died from hypothermia in the U.S. state of Louisiana as a historic winter storm sweeping across vast parts of the United States this weekend has brought snow and ice as well as frigid temperatures. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2026/01/26/1st-ld-writethru-2-dead-as-us-hit-by-historic-winter-storm",
-    "timestamp": "2026-01-25T21:36:00Z"
-  },
-  {
-    "title": "Trump's Greenland Moves Cost Him With Europe's Far Right",
-    "description": "Tensions over President Trump's goal of taking control of Greenland have driven a wedge in the once-solid link between MAGA and Europe's far right. The rift seems to signal that ideological alignment alone may not be enough to temper worries among European na\u2026",
-    "link": "https://www.newser.com/story/382533/trumps-greenland-moves-cost-him-with-europes-far-right.html",
-    "timestamp": "2026-01-25T21:35:00Z"
-  },
-  {
-    "title": "U.S. Fed set to keep rates steady as officials defend independence",
-    "description": "The U.S. Federal Reserve is widely expected to keep interest rates unchanged when it meets this week, holding firm despite President Donald Trump's pressure to slash levels as it guards against threats to its independence. The central bank has cut rates three\u2026",
-    "link": "https://japantoday.com/category/business/us-fed-set-to-keep-rates-steady-as-officials-defend-independence",
-    "timestamp": "2026-01-25T21:32:28Z"
-  },
-  {
-    "title": "I\u2019m building, on top of everything else that I am doing, one of the greatest and most beautiful Ballrooms anywhere in the World, with more than 300 Million Dollars of Great American Patriots\u2019 money, and working closely with, right from the beginning,...",
-    "description": "...the United States Military and Secret Service. This is a GIFT (ZERO taxpayer funding!) to the United States of America, of 300 to 400 Million Dollars (depending on the scope and quality of interior finishes!), for a desperately needed space, sought for ove\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363927/posts",
-    "timestamp": "2026-01-25T21:30:05Z"
-  },
-  {
-    "title": "Scott Bessent Brawls With ABC\u2019s Jonathan Karl Over Alex Pretti Shooting: He Should\u2019ve \u2018Brought a Billboard,\u2019 Not a Gun",
-    "description": "Treasury Secretary Scott Bessent\u00a0argued the Alex Pretti shooting was a \"tragedy\" that could have been avoided if he brought a homemade sign instead of a gun\nThe post Scott Bessent Brawls With ABC\u2019s Jonathan Karl Over Alex Pretti Shooting: He Should\u2019ve \u2018Brough\u2026",
-    "link": "https://www.mediaite.com/media/scott-bessent-brawls-with-abcs-jonathan-karl-over-alex-pretti-shooting-he-shouldve-brought-a-billboard-not-a-gun/",
-    "timestamp": "2026-01-25T21:28:42Z"
-  },
-  {
-    "title": "Democrats vow to oppose homeland security funding bill, increasing chance of shutdown",
-    "description": "Democratic senators are vowing to oppose a funding bill for the Department of Homeland Security following the shooting death of a 37-year-old Minnesota man, a stand that increases the prospect of a partial government shutdown by the end of the week. Senate De\u2026",
-    "link": "https://japantoday.com/category/world/democrats-vow-to-oppose-homeland-security-funding-bill.-that-increases-the-chance-of-a-shutdown",
-    "timestamp": "2026-01-25T21:28:41Z"
-  },
-  {
-    "title": "Storm leaves 1 million\u00a0without power in U.S., forcing 10,000 flight cancelations",
-    "description": "More than 1 million customers in the U.S. as far west as New Mexico were without electricity and over 10,000 flights were canceled on Sunday during a \u200cmonster winter storm that paralyzed eastern and southern states with heavy snow and ice. As snow, sleet, fre\u2026",
-    "link": "https://japantoday.com/category/world/us-storm-leaves-1-million-without-power-forces-10-000-flight-cancellations",
-    "timestamp": "2026-01-25T21:28:35Z"
-  },
-  {
-    "title": "Republican calls growing for deeper investigation into fatal Minneapolis shooting",
-    "description": "A growing number of Republicans are pressing for a deeper investigation into federal immigration tactics in Minnesota after a U.S. Border Patrol agent fatally shot a man in Minneapolis, a sign that the accounting of events by President Donald Trump's administ\u2026",
-    "link": "https://japantoday.com/category/world/some-republicans-express-concern-over-the-tactics-used-in-minnesota-and-urge-shooting-investigation",
-    "timestamp": "2026-01-25T21:28:25Z"
-  },
-  {
-    "title": "Carney says Canada has no plans to pursue free trade agreement with China as Trump threatens tariffs",
-    "description": "Canadian Prime Minister Mark Carney said Sunday his country has no intention of pursuing a free trade deal with China. He was responding to U.S. President Donald Trump\u2019s threat to impose a 100% tariff on goods imported from Canada if America\u2019s northern neighb\u2026",
-    "link": "https://japantoday.com/category/world/carney-says-canada-has-no-plans-to-pursue-free-trade-agreement-with-china-as-trump-threatens-tariffs",
-    "timestamp": "2026-01-25T21:28:12Z"
-  },
-  {
-    "title": "More than 36,500 killed in deadliest two days in Iran protest crackdown: report.",
-    "description": "More than 36,500 killed in deadliest two days in Iran protest crackdown: report. More than 36,500 Iranians were allegedly killed during a brutal, two-day crackdown against anti-regime protesters, the deadliest in the history of the Islamic Republic, according\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363926/posts",
-    "timestamp": "2026-01-25T21:27:44Z"
-  },
-  {
-    "title": "Europe's leaders find a way to speak with one voice against Trump",
-    "description": "No more fawning praise. No more polite workarounds and old-style diplomacy. And no one is calling Donald Trump \u201cdaddy\u201d now. European leaders who scrambled for a year to figure out how to deal with an emboldened American president in his second term edged clos\u2026",
-    "link": "https://japantoday.com/category/features/opinions/getting-to-%27no%27-europe%27s-leaders-find-a-way-to-speak-with-one-voice-against-trump",
-    "timestamp": "2026-01-25T21:23:20Z"
-  },
-  {
-    "title": "Sorry, AOC \u2014 protest culture is un-American",
-    "description": "Taking to the streets to disrupt the lives of average citizens is antithetical to the highest virtue of republicanism, namely minding your own business.",
-    "link": "https://nypost.com/2026/01/25/opinion/sorry-aoc-protest-culture-is-un-american/",
-    "timestamp": "2026-01-25T21:23:11Z"
-  },
-  {
-    "title": "Trump threatens new 100 per cent tariffs on Canada if it secures China trade deal",
-    "description": "US president had recently encouraged Canadian prime minister Mark Carney to strike the agreement",
-    "link": "https://www.irishtimes.com/world/americas/2026/01/25/trump-threatens-new-100-per-cent-tariffs-on-canada-if-it-secures-china-trade-deal/",
-    "timestamp": "2026-01-25T21:20:38Z"
-  },
-  {
-    "title": "James Comer Calls on Trump to Pull ICE Out of Minnesota",
-    "description": "\u201cHouse Oversight Committee Chairman James Comer suggested on Sunday that President Donald Trump should pull back the thousands of federal officers deployed to Minneapolis, becoming the first prominent Republican to urge Trump to consider local officials\u2019 requ\u2026",
-    "link": "https://politicalwire.com/2026/01/25/james-comer-calls-on-trump-to-pull-ice-out-of-minnesota/",
-    "timestamp": "2026-01-25T21:18:10Z"
-  },
-  {
-    "title": "This city knows all too well how low Trump will go \u2014 and he's about to go yet lower",
-    "description": "During the 2024 election, JD Vance and Donald Trump told disgusting, racist lies about Haitians in Springfield and made the southwest Ohio city a national target of hate and extremism.Pathetic loser neo-Nazis stalked the streets, disrupted community meetings,\u2026",
-    "link": "https://www.rawstory.com/2675011022/",
-    "timestamp": "2026-01-25T21:17:38Z"
-  },
-  {
-    "title": "Witnessing Another Public Killing in Minneapolis",
-    "description": "Vinson Cunningham writes about how the rapidly disseminated videos of Alex Pretti\u2019s fatal shooting, in Minneapolis, reveal a brazen display of brute power.",
-    "link": "https://www.newyorker.com/culture/on-television/witnessing-another-public-killing-in-minneapolis",
-    "timestamp": "2026-01-25T21:12:20Z"
-  },
-  {
-    "title": "Donald Trump to Skip Super Bowl, Says He Hates Bad Bunny and Green Day",
-    "description": "Reading Time: 3 minutesDonald Trump thinks the acts performing at the Super Bowl this week are \"terrible.\" He just said so himself.\nDonald Trump to Skip Super Bowl, Says He Hates Bad Bunny and Green Day was originally published on The Hollywood Gossip.",
-    "link": "http://www.thehollywoodgossip.com/2026/01/donald-trump-to-skip-super-bowl-says-he-hates-bad-bunny-and-green-day/",
-    "timestamp": "2026-01-25T21:11:32Z"
-  },
-  {
-    "title": "Trump moved to cut funding for ICE body cameras, pared back oversight",
-    "description": "WASHINGTON, Jan 25 (Reuters) - President Donald Trump's administration opposed \u200cefforts to expand the use of body cameras by immigration officers and sharply cut oversight staffing as it surged officers into Minneapolis and other cities, leading to a series o\u2026",
-    "link": "https://www.thestar.com.my/news/world/2026/01/26/trump-moved-to-cut-funding-for-ice-body-cameras-pared-back-oversight",
-    "timestamp": "2026-01-25T21:11:00Z"
-  },
-  {
-    "title": "Target CEO Joins Minnesota Businesses Urging \u2018Deescalation\u2019 After Latest Shooting In Minneapolis",
-    "description": "At least two U.S. citizens have been shot and killed by federal agents since a major operation began in Minnesota.",
-    "link": "https://www.forbes.com/sites/zacharyfolk/2026/01/25/target-ceo-joins-minnesota-businesses-urging-deescalation-after-latest-shooting-in-minneapolis/",
-    "timestamp": "2026-01-25T21:08:55Z"
-  },
-  {
-    "title": "Donald Trump won't attend the Super Bowl this year",
-    "description": "Last year, Donald Trump became the first sitting president to attend a Super Bowl.",
-    "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/donald-trump-wont-attend-the-super-bowl-this-year",
-    "timestamp": "2026-01-25T21:08:14Z"
-  },
-  {
-    "title": "Donald Trump won't attend the Super Bowl this year",
-    "description": "Last year, Donald Trump became the first sitting president to attend a Super Bowl.",
-    "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b8b54f65-c0ce-4f47-ae71-55030935943f",
-    "timestamp": "2026-01-25T21:08:14Z"
-  },
-  {
-    "title": "White House staff \u2018sounded alarm\u2019 over Trump\u2019s mental health, psychiatrist says - NewsBreak",
-    "description": "Dr. Bandy Lee, a psychiatrist formerly associated with Yale University, says White House staff reached out in 2017 expressing concerns about Donald Trump's",
-    "link": "https://www.newsbreak.com/share/4459711244447-white-house-staff-sounded-alarm-over-trump-s-mental-health-psychiatrist-says?s=a2&amp;share_destination_id=MzE0MTA0OTA3LTE3NjkzNzUwMzc3MDc%3D&amp;pd=0LFx2B8A&amp;hl=en_US&amp;send_time=1769375037&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.3.0%22%2C%22languages%22%3A%22en%22%7D",
-    "timestamp": "2026-01-25T21:04:55Z"
-  },
-  {
-    "title": "Open Thread: The Democratic AGs Will Not Stop Fighting Back",
-    "description": "I wasn't sure what to expect from a group of Democratic state AGs, but I definitely was not expecting a long monologue about Ruby Ridge and the Boston Massacre www.theverge.com/policy/86588\u2026 [image or embed] \u2014 sarah jeong (@sarahjeong.bsky.social) January 22,\u2026",
-    "link": "https://balloon-juice.com/2026/01/25/open-thread-the-democratic-ags-will-not-stop-fighting-back/",
-    "timestamp": "2026-01-25T20:47:11Z"
-  },
-  {
-    "title": "Walz to Trump: \"You clearly underestimated the people of this state\"",
-    "description": "Minnesota's governor spoke out Sunday afternoon following the shooting death of Alex Pretti by federal immigration enforcement agents. \"What's the plan, Donald Trump? What is the plan?\" Walz said. \"Fear, violence and chaos is what you wanted from us, and you \u2026",
-    "link": "https://www.cbsnews.com/minnesota/news/tim-walz-donald-trump-immigration-surge-ice-border-patrol-alex-pretti/",
-    "timestamp": "2026-01-25T20:40:44Z"
-  },
-  {
-    "title": "Bad Bunny Wearing Dress at Super Bowl Halftime Show? What We Know",
-    "description": "As Bad Bunny prepares to headline the Super Bowl halftime show, fans are buzzing about what he might wear on stage.",
-    "link": "http://www.billboard.com/music/music-news/bad-bunny-wearing-dress-super-bowl-halftime-what-we-know-1236162454/",
-    "timestamp": "2026-01-25T20:39:20Z"
-  },
-  {
-    "title": "NRA and pro-gun groups call for \u2018full investigation\u2019 into killing of Alex Pretti",
-    "description": "The National Rifle Association (NRA) has joined other gun lobbying and advocacy groups that are typically aligned with Donald Trump in calling for the Republican president\u2019s administration to conduct a \u201cfull investigation\u201d into the killing of Alex Pretti, the\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363919/posts",
-    "timestamp": "2026-01-25T20:38:50Z"
-  },
-  {
-    "title": "Canada not going free trade with China",
-    "description": "Canadian Prime Minister Mark Carney said Sunday his country has no intention of pursuing a free trade deal with China.",
-    "link": "https://www.bostonherald.com/2026/01/25/canada-not-going-free-trade-with-china/",
-    "timestamp": "2026-01-25T20:32:42Z"
-  },
-  {
-    "title": "Minnesota-based CEOs, including Fortune 500 bosses, call for \u2018immediate de-escalation of tensions\u2019 after fatal shooting",
-    "description": "\"With yesterday\u2019s tragic news, we are calling for an immediate de-escalation of tensions and for state, local and federal officials to work together to find real solutions.\"",
-    "link": "https://fortune.com/2026/01/25/minnesota-ceo-fortune-500-immigration-crackdown-shooting-alex-pretti/",
-    "timestamp": "2026-01-25T20:32:36Z"
-  },
-  {
-    "title": "US judge blocks Trump administration's push to end legal status of 8,400 migrants",
-    "description": "BOSTON, Jan 25 (Reuters) - A federal judge has blocked the Trump administration's push to terminate the legal status of more than 8,400 family members of U.S. citizens and green card holders who moved to the United States from seven Latin American countries. \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363918/posts",
-    "timestamp": "2026-01-25T20:32:22Z"
-  },
-  {
-    "title": "Donald Trump criticizes Bad Bunny and Green Day and confirms he will not attend Super Bowl 60",
-    "description": "Donald Trump has once again generated controversy after publicly expressing his rejection of the artists announced for Super Bowl 60, particularly Bad Bunny and Green Day, a stance",
-    "link": "https://www.marca.com/en/nfl/super-bowl/2026/01/25/69767a81268e3e2b0b8b459f.html",
-    "timestamp": "2026-01-25T20:32:07Z"
-  },
-  {
-    "title": "What\u2019s behind the recent shift in US defence strategy?",
-    "description": "Washington has revealed its new national defence strategy.",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/1/25/whats-behind-the-recent-shift-in-us-defence",
-    "timestamp": "2026-01-25T20:31:19Z"
-  },
-  {
-    "title": "Donna Brazile Calls ICE Agents \u2018Hooded Thugs\u2019 in ABC News Debate With Daily Signal\u2019s Rob Bluey",
-    "description": "An exchange on ABC News\u2019 \u201cThis Week\u201d Sunday laid bare the sharp political divide over the Trump administration\u2019s immigration enforcement tactics. Following a second fatal... Read More\nThe post Donna Brazile Calls ICE Agents \u2018Hooded Thugs\u2019 in ABC News Debate W\u2026",
-    "link": "https://www.dailysignal.com/2026/01/25/donna-brazile-calls-ice-agents-hooded-thugs-in-abc-news-debate-with-daily-signals-rob-bluey/",
-    "timestamp": "2026-01-25T20:29:26Z"
-  },
-  {
-    "title": "Embarrassed by Leaks, Feds Raid Washington Post Journalist's Home",
-    "description": "Agents seized devices and data but already had what they needed to prosecute the leaker.",
-    "link": "https://reason.com/2026/01/26/embarrassed-by-leaks-feds-raid-washington-post-journalists-home/",
-    "timestamp": "2026-01-25T20:28:48Z"
-  },
-  {
-    "title": "Oklahoma governor says situation in Minneapolis 'a real tragedy'",
-    "description": "Oklahoma Gov. Kevin Stitt weighed in on the growing tensions in Minneapolis after a man was fatally shot by federal immigration officials Saturday, drawing protests to the streets.",
-    "link": "https://www.koco.com/article/oklahoma-gov-kevin-stitt-raises-concerns-federal-tactics-minneapolis-ice-minnesota/70130759",
-    "timestamp": "2026-01-25T20:23:39Z"
-  },
-  {
-    "title": "Democrat Senator Chris Coons dodges questions after trashing trump in Davos",
-    "description": "After speaking to friendly media at the World Economic Forum, the Democrat senator refuses to answer Rebel News' questions and walks away. The World Economic Forum in Davos attracts global elites eager to shape policy far from their voters \u2014 and U.S. politici\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4363917/posts",
-    "timestamp": "2026-01-25T20:23:36Z"
-  },
-  {
-    "title": "Explainer-Can ICE agents be prosecuted for Minneapolis shootings?",
-    "description": "Jan 25 (Reuters) - U.S. \u200cImmigration and Customs Enforcement agents shot and killed two U.S. citizens in separate enforcement actions in Minneapolis this month as part of President Donald \u200cTrump's hardline immigration crackdown. Read full story",
-    "link": "https://www.thestar.com.my/news/world/2026/01/26/explainer-can-ice-agents-be-prosecuted-for-minneapolis-shootings",
-    "timestamp": "2026-01-25T20:13:00Z"
-  },
-  {
-    "title": "Don\u2019t Let Them Tell You That Was Self-Defense",
-    "description": "Pretti was a licensed, law-abiding gun owner, registered nurse, and a military veteran.",
-    "link": "https://slate.com/news-and-politics/2026/01/alex-pretti-execution-lie-self-defense-myths.html",
-    "timestamp": "2026-01-25T20:07:56Z"
   }
 ]
