@@ -1,5 +1,413 @@
 [
   {
+    "title": "AI and Affordability Dominate First Day of BloombergNEF Energy Summit",
+    "description": "Data centers are becoming the key lens for understanding the clean tech industry and US politics.",
+    "link": "https://financialpost.com/pmn/business-pmn/ai-and-affordability-dominate-first-day-of-bloombergnef-energy-summit",
+    "timestamp": "2026-01-27T03:00:44Z"
+  },
+  {
+    "title": "Massive union overseeing Border Patrol demands ouster of Kristi Noem and Stephen Miller",
+    "description": "A massive union that represents some of President Donald Trump's immigration agents called on two of the administration's top officials to resign following the killing of an ICU nurse in Minneapolis over the weekend. The American Federation of Government Empl\u2026",
+    "link": "https://www.rawstory.com/trump-immigration-2675036080/",
+    "timestamp": "2026-01-27T02:59:20Z"
+  },
+  {
+    "title": "Trump Revives Foreign-Made Films Tariff Plan, but Promises \u2018Low-Interest Bonds\u2019 for LA Production",
+    "description": "\"I\u2019m going to put tariffs on and we\u2019re going to be doing bonds ... for the movie industry,\" the president says\nThe post Trump Revives Foreign-Made Films Tariff Plan, but Promises \u2018Low-Interest Bonds\u2019 for LA Production appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/politics/trump-tariff-plan-foreign-made-films-low-interest-bonds-local-production/",
+    "timestamp": "2026-01-27T02:56:54Z"
+  },
+  {
+    "title": "Starmer says he won't 'choose between' the US or China",
+    "description": "Sir Keir says ignoring China \"wouldn't be sensible\" as he prepares to visit the country.",
+    "link": "https://www.bbc.com/news/articles/cp3zp58wqlno",
+    "timestamp": "2026-01-27T02:55:36Z"
+  },
+  {
+    "title": "Minnesota Republican brutally mocked for copy-paste blunder on social media",
+    "description": "A Minnesota Republican lawmaker faced mockery and humiliation on Monday after he completely screwed up his social media statement on talks between Gov. Tim Walz and President Donald Trump to de-escalate the federal crackdown in Minneapolis.Rep. Brad Finstad, \u2026",
+    "link": "https://www.rawstory.com/brad-finstad/",
+    "timestamp": "2026-01-27T02:48:40Z"
+  },
+  {
+    "title": "Gold, silver rise to near record highs on lingering safe-haven demand",
+    "description": "Gold prices have reached unprecedented levels, breaking the $5,100 mark. This surge is driven by safe-haven demand amidst global geopolitical tensions. The US dollar's weakness further supports gold's rise. Silver is also near its all-time highs. Investors ar\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-rise-to-near-record-highs-on-lingering-safe-haven-demand/articleshow/127590401.cms",
+    "timestamp": "2026-01-27T02:47:50Z"
+  },
+  {
+    "title": "Trump Struggles To Come Up With \u2018Alzheimer\u2019s\u2019 To Describe Father\u2019s Illness: \u2018I Don\u2019t Have It\u2019",
+    "description": "During a recent interview, President Donald Trump could not come up with the word \"Alzheimer's\" when recalling how the disease afflicted his father.\nThe post Trump Struggles To Come Up With \u2018Alzheimer\u2019s\u2019 To Describe Father\u2019s Illness: \u2018I Don\u2019t Have It\u2019 first a\u2026",
+    "link": "https://www.mediaite.com/politics/trump/trump-struggles-to-come-up-with-alzheimers-to-describe-fathers-illness-i-dont-have-it/",
+    "timestamp": "2026-01-27T02:47:11Z"
+  },
+  {
+    "title": "Conor Lamb Has Seen the Democrats' Future",
+    "description": "Conor Lamb's office sits across from PPG Paints Arena in downtown Pittsburgh, a world away from the rural stretches of Washington County where he pulled off one of the most improbable Democratic",
+    "link": "http://www.realclearpennsylvania.com/articles/2026/01/26/lamb_has_seen_the_democrats_future_it_already_happened_to_him_1160943.html",
+    "timestamp": "2026-01-27T02:42:29Z"
+  },
+  {
+    "title": "Biden DOJ Investigated Omar\u2019s Finances",
+    "description": "Justice Department under the Biden administration opened an investigation in 2024 into Ilhan Omar, focusing on her personal finances, and campaign spending.",
+    "link": "https://dailycaller.com/2026/01/26/biden-doj-investigate-ilhan-omar-finances/",
+    "timestamp": "2026-01-27T02:42:17Z"
+  },
+  {
+    "title": "Marjorie Taylor Greene Demands MAGA Admit Injustice Of Latest Minnesota Shooting",
+    "description": "\"Legally carrying a firearm is not the same as brandishing a firearm. I support American\u2019s 1st and 4th amendment rights. There is nothing wrong with legally peacefully protesting and videoing,\" she wrote.",
+    "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-alex-pretti-shooting_n_6977d58ae4b09961fe713f2c",
+    "timestamp": "2026-01-27T02:40:12Z"
+  },
+  {
+    "title": "Carney walked back Davos comments in call with Trump, US treasury chief says",
+    "description": "By Ismail Shakil and Kanishka SinghOTTAWA/ WASHINGTON, Jan 26 (Reuters) - Canadian Prime Minister Mark Carney, in a call with U.S. President Donald Trump on Monday, \u201caggr\u2026 Leggi",
+    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/27/carney-walked-back-davos-comments-in-call-with-trump-us-treasury-chief-says",
+    "timestamp": "2026-01-27T02:36:50Z"
+  },
+  {
+    "title": "Oil slips even as US winter storm curbs crude output",
+    "description": "Oil prices dipped despite a severe winter storm disrupting U.S. Gulf Coast production and refineries, with analysts estimating significant output losses. Geopolitical tensions in the Middle East also persist as a U.S. aircraft carrier arrived in the region. M\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-even-as-us-winter-storm-curbs-crude-output/articleshow/127589824.cms",
+    "timestamp": "2026-01-27T02:36:22Z"
+  },
+  {
+    "title": "Sepp Blatter supports boycott of men's World Cup games in US",
+    "description": "Former FIFA president Sepp Blatter is backing a proposed fan boycott of men's World Cup matches in the United States because of the conduct of President Donald Trump and his administration.",
+    "link": "https://www.abc.net.au/news/2026-01-27/sepp-blatter-fifa-wc-boycott-games-in-us-trump/106273718",
+    "timestamp": "2026-01-27T02:34:58Z"
+  },
+  {
+    "title": "Ex-FIFA president Sepp Blatter joins those calling for boycott of World Cup in United States",
+    "description": "Former FIFA president Sepp Blatter on Monday backed a proposed fan boycott of World Cup matches in the United States because of the conduct of President Donald Trump and his administration at home and abroad. Blatter was the latest international soccer figure\u2026",
+    "link": "https://japantoday.com/category/sports/ex-fifa-president-sepp-blatter-joins-those-calling-for-boycott-of-world-cup-in-united-states",
+    "timestamp": "2026-01-27T02:31:07Z"
+  },
+  {
+    "title": "Robert F. Kennedy Jr. announces U.S. departure from the World Health Organisation and calls it \u2018independence\u2019 - NewsBreak",
+    "description": "On Jan. 23, 2026, U.S. Health and Human Services Secretary Robert F. Kennedy Jr. posted a video on X announcing that the U.S. had formally completed its wi",
+    "link": "https://www.newsbreak.com/share/4461476588262-robert-f-kennedy-jr-announces-u-s-departure-from-the-world-health-organisation-and-calls-it-independence?_f=app_share&amp;pd=0MziQU9U&amp;lang=en_US&amp;send_time=1769480861&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2226.2.1.11%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
+    "timestamp": "2026-01-27T02:30:24Z"
+  },
+  {
+    "title": "Trump admin dealt major blow in blue state election plot",
+    "description": "A federal court on Monday handed President Donald Trump's administration a major blow to its scheme to rig the 2026 midterm elections. The Trump Department of Justice has sued multiple states in an effort to obtain their voter rolls. Some experts believe the \u2026",
+    "link": "https://www.rawstory.com/trump-2675036055/",
+    "timestamp": "2026-01-27T02:27:13Z"
+  },
+  {
+    "title": "Robert F. Kennedy Jr. announces U.S. departure from the World Health Organisation and calls it \u2018independence\u2019 - NewsBreak",
+    "description": "On Jan. 23, 2026, U.S. Health and Human Services Secretary Robert F. Kennedy Jr. posted a video on X announcing that the U.S. had formally completed its wi",
+    "link": "https://www.newsbreak.com/share/4461476588262-robert-f-kennedy-jr-announces-u-s-departure-from-the-world-health-organisation-and-calls-it-independence?s=a2&amp;share_destination_id=MTQwNzc1NTA1LTE3Njk0ODA3MDE5MDI%3D&amp;pd=09Wg8fxP&amp;hl=en_US&amp;send_time=1769480701&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.3.2%22%2C%22languages%22%3A%22en%22%7D",
+    "timestamp": "2026-01-27T02:26:11Z"
+  },
+  {
+    "title": "Brazilian President Lula da Silva confirms India visit in February",
+    "description": "Brazil Lula India visit: India and Brazil are members of the BRICS grouping, which Trump has repeatedly criticised, alleging efforts to weaken the US dollar through trade in national currencies.",
+    "link": "https://economictimes.indiatimes.com/news/india/brazilian-president-lula-da-silva-confirms-india-visit-in-february/articleshow/127589146.cms",
+    "timestamp": "2026-01-27T02:24:36Z"
+  },
+  {
+    "title": "South Korea auto stocks recover from early slump after Trump tariff comments",
+    "description": "SEOUL, Jan 27 : Shares of South Korea\u2019s automakers clawed back early losses after U.S. President Donald Trump said in a social media post he would raise tariffs on South Korean goods, including autos, to 25 per cent from 15 per cent.Shares of Hyundai Motor re\u2026",
+    "link": "https://www.channelnewsasia.com/business/south-korea-auto-stocks-recover-early-slump-after-trump-tariff-comments-5885736",
+    "timestamp": "2026-01-27T02:23:38Z"
+  },
+  {
+    "title": "Robert F. Kennedy Jr. announces U.S. departure from the World Health Organisation and calls it \u2018independence\u2019 - NewsBreak",
+    "description": "On Jan. 23, 2026, U.S. Health and Human Services Secretary Robert F. Kennedy Jr. posted a video on X announcing that the U.S. had formally completed its wi",
+    "link": "https://www.newsbreak.com/share/4461476588262-robert-f-kennedy-jr-announces-u-s-departure-from-the-world-health-organisation-and-calls-it-independence?s=a2&amp;share_destination_id=MzI5MzI0MDczLTE3Njk0ODA1MjU2OTg%3D&amp;pd=0MHoEbfp&amp;hl=en_US&amp;send_time=1769480525&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.3.2%22%2C%22languages%22%3A%22en%22%7D",
+    "timestamp": "2026-01-27T02:22:42Z"
+  },
+  {
+    "title": "Gavin Newsom Says He\u2019s Launching Review Of Whether TikTok Is Suppressing Content Critical Of Donald Trump",
+    "description": "California Governor Gavin Newsom said that he is ordering a review of whether TikTok under its new owners has been suppressing content critical of Donald Trump. Newsom wrote on X on Monday, \u201cIt\u2019s time to investigate. I am launching a review into whether TikTo\u2026",
+    "link": "http://deadline.com/2026/01/gavin-newsom-tiktok-donald-trump-1236697931/",
+    "timestamp": "2026-01-27T02:21:06Z"
+  },
+  {
+    "title": "Carney calls Trump's tariff threats bluster ahead of US-Canada free trade talks",
+    "description": "US-Canada spat: Trump threatened this past weekend to impose a 100% tariff on goods imported from Canada if America's northern neighbour went ahead with a trade deal with Beijing, though Carney has said Canada has no interest in negotiating a comprehensive tr\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/carney-calls-trumps-tariff-threats-bluster-ahead-of-us-canada-free-trade-talks/articleshow/127588917.cms",
+    "timestamp": "2026-01-27T02:20:09Z"
+  },
+  {
+    "title": "TikTok Completes Deal to Create U.S. Entity and Avert Ban",
+    "description": "Major investors Oracle, Silver Lake, and MGX signed agreements to form the new joint venture",
+    "link": "https://pitchfork.com/news/tiktok-completes-deal-to-create-us-entity-and-avert-ban/",
+    "timestamp": "2026-01-27T02:16:44Z"
+  },
+  {
+    "title": "California governor alleges TikTok is suppressing content critical of Trump",
+    "description": "California Governor \u200bGavin Newsom alleged on \u2060Monday that TikTok was suppressing content critical of \u200cPresident \u200cDonald Trump and that \u200cNewsom was launching a review of the social media platform's content moderation practices \u200bto determine \u200bif they violated \u200c\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/california-governor-alleges-tiktok-is-suppressing-content-critical-of-trump/articleshow/127588788.cms",
+    "timestamp": "2026-01-27T02:15:12Z"
+  },
+  {
+    "title": "The shootings in Minneapolis are upending the politics of immigration in Congress",
+    "description": "The shooting deaths of two American citizens at the hands of federal law enforcement in Minneapolis have upended the politics of the Trump administration\u2019s deportation agenda",
+    "link": "https://abcnews.go.com/Politics/wireStory/shootings-minneapolis-upending-politics-immigration-congress-129581164",
+    "timestamp": "2026-01-27T02:13:48Z"
+  },
+  {
+    "title": "Canada\u2019s Prime Minister Mark Carney likely to visit India in March to sign energy, uranium, and AI deals",
+    "description": "Canada\u2019s PM Mark Carney may visit India in March to sign uranium, energy, AI, and CEPA trade deals, boosting bilateral economic and technology cooperation.",
+    "link": "https://www.thehindubusinessline.com/news/canadas-prime-minister-mark-carney-likely-to-visit-india-in-march-to-sign-energy-uranium-and-ai-deals/article70554996.ece",
+    "timestamp": "2026-01-27T02:12:07Z"
+  },
+  {
+    "title": "All the ways TikTok is broken:\u00a0here\u2019s\u00a0what\u2019s real\u00a0and what\u2019s\u00a0not",
+    "description": "While social media rumors have suggested the errors are examples of censorship, more than a day after the issues began, TikTok USDS says the problems are the result of a power outage at a data center that it is working to resolve. Rumors of censorship targeti\u2026",
+    "link": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+    "timestamp": "2026-01-27T02:10:25Z"
+  },
+  {
+    "title": "White House staff \u2018sounded alarm\u2019 over Trump\u2019s mental health, psychiatrist says - NewsBreak",
+    "description": "Dr. Bandy Lee, a psychiatrist formerly associated with Yale University, says White House staff reached out in 2017 expressing concerns about Donald Trump's",
+    "link": "https://www.newsbreak.com/share/4459711244447-white-house-staff-sounded-alarm-over-trump-s-mental-health-psychiatrist-says?s=a2&amp;share_destination_id=MjE0MDc5NjUwLTE3Njk0Nzk2NDExMDA%3D&amp;pd=0EUFtaFN&amp;hl=en_US&amp;send_time=1769479641&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.3.0%22%2C%22languages%22%3A%22en%22%7D",
+    "timestamp": "2026-01-27T02:07:51Z"
+  },
+  {
+    "title": "Robert F. Kennedy Jr. announces U.S. departure from the World Health Organisation and calls it \u2018independence\u2019 - NewsBreak",
+    "description": "On Jan. 23, 2026, U.S. Health and Human Services Secretary Robert F. Kennedy Jr. posted a video on X announcing that the U.S. had formally completed its wi",
+    "link": "https://www.newsbreak.com/share/4461476588262-robert-f-kennedy-jr-announces-u-s-departure-from-the-world-health-organisation-and-calls-it-independence?s=a2&amp;share_destination_id=MjE0MDc5NjUwLTE3Njk0Nzk1MzczOTU%3D&amp;pd=0EUFtaFN&amp;hl=en_US&amp;send_time=1769479537&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.3.0%22%2C%22languages%22%3A%22en%22%7D",
+    "timestamp": "2026-01-27T02:06:04Z"
+  },
+  {
+    "title": "Venezuela forecasts $1.4 billion oil investments in 2026, up 55%: president",
+    "description": "Venezuela's interim president Delcy Rodriguez on Monday forecast a $1.4 billion bonanza from planned reforms to the oil sector aimed at drawing in foreign investors following the ouster of Nicolas Maduro. The interim leader is under pressure from President Do\u2026",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/venezuela-forecasts-1-4-bn-oil-investments-in-2026-up-55-president/articleshow/127588220.cms",
+    "timestamp": "2026-01-27T02:04:50Z"
+  },
+  {
+    "title": "Stocks up as earnings hopes offset Trump's Korea tariff move, dollar wobbles",
+    "description": "SYDNEY, Jan 27 : Asian shares advanced on Tuesday as investors hoped for the best from a barrage of U.S. mega-cap earnings, though uncertainty caused by President Donald Trump\u2019s latest tariff moves on South Korea limited broader gains while boosting gold and \u2026",
+    "link": "https://www.channelnewsasia.com/business/stocks-up-earnings-hopes-offset-trumps-korea-tariff-move-dollar-wobbles-5885581",
+    "timestamp": "2026-01-27T02:02:43Z"
+  },
+  {
+    "title": "Bitcoin Whales Are Back: 104K BTC Added As $1M Transfers Surge",
+    "description": "Whale-sized Bitcoin holders are piling up more coins even as prices wobble. According to blockchain tracker Santiment, wallets holding at least 1,000 BTC added 104,340 BTC in recent weeks. Related Reading: Gold Becomes The Whale Safe Haven As Bitcoin Takes A \u2026",
+    "link": "http://www.newsbtc.com/news/bitcoin/bitcoin-whales-are-back-104k-btc-added-as-1m-transfers-surge/",
+    "timestamp": "2026-01-27T02:00:32Z"
+  },
+  {
+    "title": "Gold\u2019s dazzling new peak of $5,000-plus demands clarity on the financial world\u2019s insecurity",
+    "description": "The yellow metal\u2019s dizzying global uprun past $5,000 per ounce\u2014up from $2,770 about a year ago\u2014reflects a fear of the future as US President Donald Trump rattles the world. Anxiety levels could change as responses emerge to the risk of a historic financial ru\u2026",
+    "link": "https://www.livemint.com/opinion/online-views/golds-new-peak-5-000-financial-world-uncertainty-donald-trump-global-order-dollar-bretton-woods-special-drawing-rights-11769414577998.html",
+    "timestamp": "2026-01-27T02:00:15Z"
+  },
+  {
+    "title": "Anderson Cooper Brings Receipts Showing Trump\u2019s Double Standard on Guns: \u2018He Supports the 2nd Amendment \u2013 Just Not All the Time\u2019",
+    "description": "CNN's Anderson Cooper exposed the double standard applied by President Donald Trump when it comes to gun rights.\nThe post Anderson Cooper Brings Receipts Showing Trump\u2019s Double Standard on Guns: \u2018He Supports the 2nd Amendment \u2013 Just Not All the Time\u2019\u00a0 first a\u2026",
+    "link": "https://www.mediaite.com/media/tv/anderson-cooper-brings-receipts-showing-trumps-double-standard-on-guns-he-supports-the-2nd-amendment-just-not-all-the-time/",
+    "timestamp": "2026-01-27T01:59:34Z"
+  },
+  {
+    "title": "Oil slips even as US winter storm curbs crude output",
+    "description": "Jan 27 : Oil prices fell on Tuesday even as a massive winter storm hit crude production and affected refineries on the U.S. Gulf Coast.Brent crude futures fell 28 cents, or 0.4 per cent, to $65.31 a barrel at 0145 GMT. U.S. West Texas Intermediate crude was a\u2026",
+    "link": "https://www.channelnewsasia.com/business/oil-slips-even-us-winter-storm-curbs-crude-output-5885531",
+    "timestamp": "2026-01-27T01:57:22Z"
+  },
+  {
+    "title": "TikTok Backlash Fuels Sudden Surge in Little-Known Australian Social App",
+    "description": "Upscrolled surged into the top 10 free apps after users accused TikTok of suppressing political content, straining UpScrolled\u2019s servers.",
+    "link": "https://decrypt.co/355976/tiktok-backlash-fuels-sudden-surge-australian-app",
+    "timestamp": "2026-01-27T01:55:33Z"
+  },
+  {
+    "title": "Canada, India pledge to grow oil, petroleum trade in energy reset",
+    "description": "India Canada deal: The ministers will meet at India Energy Week in Goa on Tuesday, using the event to relaunch a \u201cministerial energy dialogue.\u201d The mechanism, once the main channel for energy cooperation between the two countries, fell dormant amid an explosi\u2026",
+    "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/canada-india-pledge-to-grow-oil-petroleum-trade-in-energy-reset/articleshow/127587633.cms",
+    "timestamp": "2026-01-27T01:54:25Z"
+  },
+  {
+    "title": "Trump's 25% tariff move against South Korea paints hard line on unratified trade deals",
+    "description": "U.S. President Donald Trump announced a steep tariff hike on South Korean imports Monday, plunging Seoul into political chaos and delivering a stark message to US allies: domestic legislative delays will no longer be tolerated.",
+    "link": "https://www.digitimes.com/news/a20260127VL204/donald-trump-south-korea-tariffs-usa-automotive.html",
+    "timestamp": "2026-01-27T01:49:54Z"
+  },
+  {
+    "title": "Yen strength from intervention risk keeps dollar in check",
+    "description": "The yen held firm against the dollar, which weakened due to a looming U.S. government shutdown and President Trump's policies. Traders are watching for potential coordinated intervention by U.S. and Japanese authorities after recent yen gains. The dollar's br\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/yen-strength-from-intervention-risk-keeps-dollar-in-check/articleshow/127587680.cms",
+    "timestamp": "2026-01-27T01:49:26Z"
+  },
+  {
+    "title": "Microsoft's plans for 15 more data centers win approval at former Wisconsin Foxconn site",
+    "description": "Microsoft intends to expand in a place where it's been welcomed, months after backing down on a rezoning attempt in an adjacent village when residents objected.",
+    "link": "https://www.cnbc.com/2026/01/26/microsoft-wins-approval-for-15-data-centers-at-wisconsin-foxconn-site.html",
+    "timestamp": "2026-01-27T01:49:09Z"
+  },
+  {
+    "title": "Wall Street indexes close higher ahead of earnings, Fed meeting",
+    "description": "Indian markets mirrored global trends as major indices extended gains, driven by anticipation of mega-cap earnings and the Federal Reserve's interest rate decision. Investors are keenly watching tech giants for AI payoff signals, while a mixed bag of individu\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-indexes-close-higher-ahead-of-earnings-fed-meeting/articleshow/127587552.cms",
+    "timestamp": "2026-01-27T01:46:48Z"
+  },
+  {
+    "title": "Australian lawyer apologises for AI-generated errors in murder case",
+    "description": "Defense lawyer Rishi Nathwani, who holds the prestigious legal title of King's Counsel, took \"full responsibility\" for filing incorrect information in submissions in the case of a teenager charged with murder, according to court documents seen by The Associat\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australian-lawyer-apologises-for-ai-generated-errors-in-murder-case/articleshow/127587525.cms",
+    "timestamp": "2026-01-27T01:46:23Z"
+  },
+  {
+    "title": "India, Britain Natural Partners To Make Most Of AI: UK Tech Secretary Liz Kendall",
+    "description": "UKIFF founder Manoj Ladwa reflected upon the &quot;consequential&quot; period for bilateral ties with the signing of the Free Trade Agreement (FTA) last year, stressing that the &quot;real work&quot; lies ahead as the deal is ratified by the UK Parliament and\u2026",
+    "link": "https://www.ndtvprofit.com/world/india-britain-natural-partners-to-make-most-of-ai-uk-tech-secretary-liz-kendall-10890115",
+    "timestamp": "2026-01-27T01:46:08Z"
+  },
+  {
+    "title": "Trump has 'very good' call with Minneapolis Mayor Frey, announces border czar Homan meeting (Greg Wehner/Fox News)",
+    "description": "Greg Wehner / Fox News:\nTrump has \u2018very good\u2019 call with Minneapolis Mayor Frey, announces border czar Homan meeting\u00a0 \u2014\u00a0 Mayor Jacob Frey says some federal agents will begin leaving the area Tuesday but said Operation Metro Surge must end\u00a0 \u2014\u00a0 President Donald \u2026",
+    "link": "https://www.memeorandum.com/260126/p144",
+    "timestamp": "2026-01-27T01:45:02Z"
+  },
+  {
+    "title": "Rift at influential Silicon Valley venture firm shows tech's divide over ICE shooting",
+    "description": "The death of \u206037-year-old Alex Pretti was one of five shootings this month involving federal agents conducting immigration enforcement, including the fatal shooting of Minnesota woman Renee Good. At least six immigrants have died this month in federal immigra\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/startups/rift-at-influential-silicon-valley-venture-firm-shows-techs-divide-over-ice-shooting/articleshow/127587257.cms",
+    "timestamp": "2026-01-27T01:41:57Z"
+  },
+  {
+    "title": "Republicans appeal decision that threw out NYC's only GOP-controlled House district",
+    "description": "New York\u2019s congressional redistricting battle is headed back to court",
+    "link": "https://abcnews.go.com/Politics/wireStory/republicans-appeal-decision-threw-nycs-gop-controlled-house-129581908",
+    "timestamp": "2026-01-27T01:41:34Z"
+  },
+  {
+    "title": "Trump softens tone on Minneapolis violence amid calls for accountability (Washington Post)",
+    "description": "Washington Post:\nTrump softens tone on Minneapolis violence amid calls for accountability\u00a0 \u2014\u00a0 The White House changed leadership in Minnesota and softened tone on dead protesters as polls show Americans turning against ICE.\u00a0 \u2014\u00a0 President Donald Trump on Monda\u2026",
+    "link": "https://www.memeorandum.com/260126/p143",
+    "timestamp": "2026-01-27T01:40:01Z"
+  },
+  {
+    "title": "Davos World Economic Forum (WEF) 2026: Collapse of Neoliberalism, Trade is Now a Weapon, \u201cThe End of Rules-Based Order\u201d",
+    "description": "The end of the Pax Americana established after 1945 was officially acknowledged by both the leaders of finance capital and the elected leaders in Davos 26.\n*\nThe World Economic Forum (WEF) 2026 in Davos, which has served as the \u2026\nThe post Davos World Economic\u2026",
+    "link": "https://www.globalresearch.ca/reflections-davos-26-geopolitics/5913651",
+    "timestamp": "2026-01-27T01:39:53Z"
+  },
+  {
+    "title": "'What the hell?' Battleground state lawmakers rail against ICE violence",
+    "description": "Arizona Democrats rail against ICE violence: \u2018What the hell is wrong with us?\u2019by Caitlin Sievers, Arizona Mirror January 26, 2026Democratic legislators took to the floor of the Arizona House of Representatives on Monday to express outrage and sorrow, and to d\u2026",
+    "link": "https://www.rawstory.com/what-the-hell/",
+    "timestamp": "2026-01-27T01:33:48Z"
+  },
+  {
+    "title": "Trump Hikes Tariffs on South Korea Back to 25% over Failure to Enact Trade Agreement",
+    "description": "President Donald Trump announced Monday that he is raising tariffs on South Korea to 25 percent because the country's government has failed to implement the agreed terms of its trade deal with the United States.\nThe post Trump Hikes Tariffs on South Korea Bac\u2026",
+    "link": "https://www.breitbart.com/politics/2026/01/26/trump-hikes-tariffs-south-korea-back-25-percent/",
+    "timestamp": "2026-01-27T01:32:31Z"
+  },
+  {
+    "title": "Drug boat death toll hits 126",
+    "description": "The death toll from the Trump administration's strikes on alleged drug boats is up to 126 people, with the inclusion of those presumed dead after being lost at sea, the U.S. military confirmed Monday.",
+    "link": "https://www.bostonherald.com/2026/01/26/drug-boat-death-toll-hits-126/",
+    "timestamp": "2026-01-27T01:32:13Z"
+  },
+  {
+    "title": "Russia oil\u2019s unexpected staying power in India extends into 2026",
+    "description": "India oil imports: India continues to buy Russian oil, a key financial support for Moscow. Despite US pressure and sanctions, these imports are proving resilient. New Delhi is expected to maintain significant purchases of Russian crude well into 2026. The glo\u2026",
+    "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-oils-unexpected-staying-power-in-india-extends-into-2026/articleshow/127586596.cms",
+    "timestamp": "2026-01-27T01:31:37Z"
+  },
+  {
+    "title": "Mint Quick Edit | The US Fed\u2019s rate call this week: White House whim is unlikely to play a role",
+    "description": "Economic conditions in the US do not argue for monetary policy easing, no matter how insistent Trump has been on it. Once Powell exits the Fed\u2019s top job, though, investor expectations may shift\u2014and not necessarily in favour of optimism over the cost of credit.",
+    "link": "https://www.livemint.com/opinion/quick-edit/mint-quick-edit-the-us-federal-reserve-rate-call-white-house-donald-trump-inflation-growth-unemployment-jerome-powell-11769430737149.html",
+    "timestamp": "2026-01-27T01:31:15Z"
+  },
+  {
+    "title": "MAGA Host: 'Time For President Trump To Invoke The Insurrection Act\u2019",
+    "description": "The pro-MAGA hosts on Real America's Voice argued that Alex Pretti's death at the hands of DHS officers should prompt President Donald Trump to invoke the Insurrection Act against anti-ICE protesters.\n\n\n\"As you can imagine, a number of protests broke out ther\u2026",
+    "link": "https://crooksandliars.com/2026/01/maga-host-pretti-shooting-time-president",
+    "timestamp": "2026-01-27T01:24:10Z"
+  },
+  {
+    "title": "In possible thaw, Trump and Minnesota's governor talk after fatal shooting",
+    "description": "MINNEAPOLIS, Jan \u200c26 (Reuters) - President Donald Trump and Minnesota Governor Tim Walz each struck a conciliatory tone on Monday after a private phone call in a \u200csign the two sides were seeking to defuse a crisis over the Trump-ordered deportation drive that\u2026",
+    "link": "https://www.thestar.com.my/news/world/2026/01/27/in-possible-thaw-trump-and-minnesota039s-governor-talk-after-fatal-shooting",
+    "timestamp": "2026-01-27T01:22:00Z"
+  },
+  {
+    "title": "Trump slaps Asian trade partner with 25% tariff",
+    "description": "President Donald Trump has announced a sudden increase in tariffs on key South Korean imports from 15% to 25% Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/631561-trump-south-korea-tariffs/",
+    "timestamp": "2026-01-27T01:20:50Z"
+  },
+  {
+    "title": "CNBC Daily Open: Trump turns tariff pressure back on South Korea \u2014 but markets are focused on Big Tech earnings",
+    "description": "U.S. equities remain resilient, as investors positioned themselves ahead of Big Tech earnings.",
+    "link": "https://www.cnbc.com/2026/01/27/cnbc-daily-open-trump-hikes-south-korea-tariffs-markets-focus-on-big-tech-earnings.html",
+    "timestamp": "2026-01-27T01:20:04Z"
+  },
+  {
+    "title": "Trump says he is raising tariffs on South Korea to 25%",
+    "description": "US president says he is raising tariffs from 15 percent due to Seoul's failure to ratify a trade deal.",
+    "link": "https://www.aljazeera.com/news/2026/1/27/trump-says-he-is-raising-tariffs-on-south-korea-to-25",
+    "timestamp": "2026-01-27T01:18:05Z"
+  },
+  {
+    "title": "Hundreds of Target employees urge the company to keep ICE out of stores. Read the letter to leadership.",
+    "description": "More than 275 employees signed a letter to Target leadership that outlined four steps they say the company should take in response to ICE.",
+    "link": "https://www.businessinsider.com/target-employees-urge-company-to-keep-ice-out-of-stores-2026-1",
+    "timestamp": "2026-01-27T01:15:00Z"
+  },
+  {
+    "title": "Nicki Minaj To Back Trump Again At Treasury Event",
+    "description": "The Pink Friday rapper continues her support of MAGA with her scheduled appearance at Trump's celebrity-slated Treasury Event for \"Trump Accounts.\"",
+    "link": "https://screenrant.com/nicki-minaj-support-donald-trump-treasury-event/",
+    "timestamp": "2026-01-27T01:14:15Z"
+  },
+  {
+    "title": "Kristen Stewart: I\u2019m Leaving America Because of Donald Trump!",
+    "description": "Reading Time: 3 minutesKristen Stewart is no fan of President Donald Trump. She may even move out of the United States.\nKristen Stewart: I\u2019m Leaving America Because of Donald Trump! was originally published on The Hollywood Gossip.",
+    "link": "http://www.thehollywoodgossip.com/2026/01/kristen-stewart-im-leaving-america-because-of-donald-trump/",
+    "timestamp": "2026-01-27T01:14:12Z"
+  },
+  {
+    "title": "Former DHS secretary says Trump's choice to send 'border czar' Tom Homan to Minnesota is 'stroke of genius'",
+    "description": "Former DHS Secretary Chad Wolf calls President Donald Trump's decision to send 'border czar' Tom Homan to Minnesota a \"stroke of genius\" for deportations.",
+    "link": "https://www.foxnews.com/media/former-dhs-secretary-says-trumps-choice-send-border-czar-tom-homan-minnesota-stroke-genius",
+    "timestamp": "2026-01-27T01:10:37Z"
+  },
+  {
+    "title": "US official links Hamas disarmament to amnesty",
+    "description": "US official says Hamas disarmament may come with amnesty under Trump\u2019s Gaza plan.",
+    "link": "https://www.israelnationalnews.com/news/421518",
+    "timestamp": "2026-01-27T01:10:15Z"
+  },
+  {
+    "title": "Bovino removed from his role as U.S. Border Patrol commander at large, The Atlantic reports",
+    "description": "Gregory Bovino has been removed from \u200chis role as the &quot;commander at large&quot; for the U.S. Border \u2060Patrol and will \u200dreturn to his \u200dformer \u200djob in California, where \u2060he is expected to retire \u200bsoon, the Atlantic reported on Monday, citing a Homeland Secu\u2026",
+    "link": "https://japantoday.com/category/world/bovino-removed-from-his-role-as-us-border-patrol-commander-at-large-the-atlantic-reports",
+    "timestamp": "2026-01-27T01:09:43Z"
+  },
+  {
+    "title": "US businesses break their silence after latest Minnesota ICE shooting",
+    "description": "Minnesota shooting: Corporate leaders in Minnesota are breaking their silence on immigration enforcement after federal agents fatally shot a protester. Major CEOs have called for de-escalation, marking a significant shift in public opinion. This comes as busi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-businesses-break-their-silence-after-latest-minnesota-ice-shooting/articleshow/127585602.cms",
+    "timestamp": "2026-01-27T01:08:47Z"
+  },
+  {
+    "title": "EU and India Conclude Trade Talks, Seeking Trump Alternatives",
+    "description": "The European Union and India are set to announce an agreement on a long-awaited trade deal on Tuesday, forging closer economic ties to hedge against US President Donald Trump\u2019s tariffs.",
+    "link": "https://financialpost.com/pmn/business-pmn/eu-and-india-conclude-trade-talks-seeking-trump-alternatives",
+    "timestamp": "2026-01-27T01:08:25Z"
+  },
+  {
+    "title": "Robert F. Kennedy Jr. announces U.S. departure from the World Health Organisation and calls it \u2018independence\u2019 - NewsBreak",
+    "description": "On Jan. 23, 2026, U.S. Health and Human Services Secretary Robert F. Kennedy Jr. posted a video on X announcing that the U.S. had formally completed its wi",
+    "link": "https://www.newsbreak.com/share/4461476588262-robert-f-kennedy-jr-announces-u-s-departure-from-the-world-health-organisation-and-calls-it-independence?_f=app_share&amp;pd=05jRa00W&amp;lang=en_US&amp;send_time=1769475911&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2226.2.1.11%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2",
+    "timestamp": "2026-01-27T01:05:48Z"
+  },
+  {
+    "title": "Canada, India Pledge to Grow Oil, Petroleum Trade in Energy Reset",
+    "description": "Canada and India will pledge to expand trade in oil and gas as the countries reboot their relationship after a diplomatic chill.",
+    "link": "https://financialpost.com/pmn/business-pmn/canada-india-pledge-to-grow-oil-petroleum-trade-in-energy-reset",
+    "timestamp": "2026-01-27T01:03:31Z"
+  },
+  {
     "title": "Charlamagne predicts 'de-MAGA-ification' in future, like how 'Nazi ideology was outlawed' in postwar Germany",
     "description": "Charlamagne compared the Trump regime to Nazi Germany, predicting future prosecution of leaders while defending Second Amendment rights after activist Alex Pretti's shooting death.",
     "link": "https://www.foxnews.com/media/charlamagne-predicts-de-maga-ification-future-like-how-nazi-ideology-outlawed-postwar-germany",
@@ -166,401 +574,5 @@
     "description": "Customs and Border Patrol commander Greg Bovino has been ousted from his role as \"commander at large\" after his disastrous response to the latest killing of a U.S. citizen by federal immigration officers, according to a new report. President Donald Trump's ad\u2026",
     "link": "https://www.rawstory.com/greg-bovino-2675035933/",
     "timestamp": "2026-01-27T00:21:06Z"
-  },
-  {
-    "title": "Trump has 'very good' call with Minneapolis Mayor Frey, announces border czar Homan meeting",
-    "description": "President Trump announced a \"very good\" call with Minneapolis Mayor Jacob Frey as riots continue amid federal immigration enforcement. Tom Homan will meet with the mayor tomorrow.",
-    "link": "https://www.foxnews.com/politics/trump-has-very-good-call-minneapolis-mayor-frey-announces-border-czar-homan-meeting",
-    "timestamp": "2026-01-27T00:20:35Z"
-  },
-  {
-    "title": "Are stadium food and beer prices too high? Colorado lawmakers unveil bills targeting costs.",
-    "description": "\"Everyone has experienced the $20 beer at a Nuggets game, the $10 water at the airport or the $80 Tylenol at the emergency room. ... It's exploitation,\" Rep. Yara Zokaie said.",
-    "link": "https://www.denverpost.com/2026/01/26/democrats-dynamic-pricing-stadium-concessions-legislature/",
-    "timestamp": "2026-01-27T00:19:49Z"
-  },
-  {
-    "title": "Rod Stewart Demands Apology From \u2018Draft Dodger\u2019 Trump for Insulting NATO Troops",
-    "description": "Rod Stewart called on President Donald Trump to apologize for his disparaging remarks about NATO troops, exhorting British Prime Minister Keir Starmer and Leader of Reform UK Nigel Farage to also put pressure on the \"draft dodger.\" Stewart addressed his ex-fr\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4364111/posts",
-    "timestamp": "2026-01-27T00:17:57Z"
-  },
-  {
-    "title": "Rod Stewart Demands Apology From \u2018Draft Dodger\u2019 Trump for Insulting NATO Troops",
-    "description": "Rod Stewart called on President Donald Trump to apologize for his disparaging remarks about NATO troops, exhorting British Prime Minister Keir Starmer and Leader of Reform UK Nigel Farage to also put pressure on the \"draft dodger.\" Stewart addressed his ex-fr\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4364111/posts",
-    "timestamp": "2026-01-27T00:17:57Z"
-  },
-  {
-    "title": "ICE Update: Trump Allegedly Reconsidering Presence In Minnesota, NRA Refutes Claim Alex Pretti Shooting Justified",
-    "description": "Minneapolis, Minnesota, is mad as hell, and they aren\u2019t going to take it anymore. ICE has killed two American citizens in the last three weeks (and a third since December nationwide, when including Keith Porter Jr., say his name), and the streets are flooded \u2026",
-    "link": "https://bossip.com/4318213/trump-allegedly-reconsidering-ice-presence-in-minnesota/",
-    "timestamp": "2026-01-27T00:17:44Z"
-  },
-  {
-    "title": "Trump\u2019s Arctic plan has been 500 years in the making \u2014 and it will save the free world",
-    "description": "Warmer Arctic temperatures and 21st-century technology put a trade route the world has sought for centuries within reach \u2014 but whose?",
-    "link": "https://nypost.com/2026/01/26/opinion/trumps-arctic-plan-has-been-500-years-in-the-making-and-it-will-save-the-free-world/",
-    "timestamp": "2026-01-27T00:17:43Z"
-  },
-  {
-    "title": "Newt Gingrich Proposes Ways For Trump To Enforce Immigration Law And Still Keep Public Trust",
-    "description": "Former House Speaker Newt Gingrich urged President Donald Trump on Monday to pursue a tougher but more disciplined approach to immigration enforcement.",
-    "link": "https://dailycaller.com/2026/01/26/newt-gingrich-ways-trump-enforce-immigration-law/",
-    "timestamp": "2026-01-27T00:17:15Z"
-  },
-  {
-    "title": "In possible thaw, Trump and Minnesota\u2019s governor talk after fatal shooting",
-    "description": "By Brad Brooks, Jack Queen and Andy SullivanMINNEAPOLIS, Jan 26 (Reuters) - President Donald Trump and Minnesota Governor Tim Walz each struck a conciliatory tone on Mond\u2026 Leggi",
-    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/27/in-possible-thaw-trump-and-minnesota-s-governor-talk-after-fatal-shooting",
-    "timestamp": "2026-01-27T00:16:46Z"
-  },
-  {
-    "title": "Lawyers accuse Mexico of breaking law in sending cartel members to US without order",
-    "description": "A group of lawyers and family members of cartel members accused Mexico\u2019s government on Tuesday of breaking the law by sending nearly a hundred Mexican citizens to the United States without an extradition order",
-    "link": "https://abcnews.go.com/US/wireStory/lawyers-accuse-mexico-breaking-law-sending-cartel-members-129582654",
-    "timestamp": "2026-01-27T00:15:33Z"
-  },
-  {
-    "title": "Shares in South Korean automakers slide after Trump post on raising tariffs",
-    "description": "SEOUL, Jan 27 : Hyundai Motor shares fell 4 per cent at the opening on Tuesday, after U.S. President Donald Trump said in a social media post that he will raise tariffs on South Korean goods including autos from 15 per cent to 25 per cent. Shares in sister au\u2026",
-    "link": "https://www.channelnewsasia.com/business/shares-in-south-korean-automakers-slide-after-trump-post-raising-tariffs-5885266",
-    "timestamp": "2026-01-27T00:14:56Z"
-  },
-  {
-    "title": "Federal Reserve to hold rates as political storm intensifies around Powell",
-    "description": "The Federal Reserve is expected to pause its interest-rate-cutting cycle this week, as a more stable jobs market eases divisions within the central bank. Officials believe current rates are appropriately positioned to support employment while keeping inflatio\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/federal-reserve-to-hold-rates-as-political-storm-intensifies-around-powell/articleshow/127583519.cms",
-    "timestamp": "2026-01-27T00:14:43Z"
-  },
-  {
-    "title": "Limits on ICE agents in Minnesota blocked by appeals court",
-    "description": "The 8th Circuit Court of Appeals put an indefinite hold on a lower-court judge\u2019s order that prevented officers from arresting, detaining, pepper-spraying or retaliating against peaceful protesters.",
-    "link": "https://fortune.com/2026/01/26/limits-ice-agents-minnesota-peaceful-protesters-appeals-court/",
-    "timestamp": "2026-01-27T00:14:37Z"
-  },
-  {
-    "title": "Trump plans tariff hike on South Korean imports to 25% over trade deal delays",
-    "description": "Trump says he will raise tariffs on South Korean autos, lumber and pharma to 25%, citing delays in a trade deal, with timing of the hike still unclear.",
-    "link": "https://www.thehindubusinessline.com/news/world/trump-plans-tariff-hike-on-south-korean-imports-to-25-over-trade-deal-delays/article70554993.ece",
-    "timestamp": "2026-01-27T00:13:47Z"
-  },
-  {
-    "title": "Trump stuns with call to Minneapolis mayor: 'Feels like unconditional surrender'",
-    "description": "Political analysts and observers were stunned on Monday after details of a call between President Donald Trump and a Democratic mayor were released. Trump spoke with Minneapolis mayor Jacob Frey on Monday, two days after immigration agents shot and killed Ale\u2026",
-    "link": "https://www.rawstory.com/trump-2675035897/",
-    "timestamp": "2026-01-27T00:12:18Z"
-  },
-  {
-    "title": "BREAKING: Border Patrol Commander Greg Bovino Reportedly Ousted, Will Retire",
-    "description": "Border Patrol Commander-at-Large Greg Bovino, arguably the most public face of the Trump administration's immigration raids, is expected to retire, The Atlantic reported on Monday night.\nThe post BREAKING: Border Patrol Commander Greg Bovino Reportedly Ousted\u2026",
-    "link": "https://www.mediaite.com/media/news/breaking-border-patrol-commander-greg-bovino-ousted-will-reportedly-retire/",
-    "timestamp": "2026-01-27T00:10:37Z"
-  },
-  {
-    "title": "Middle East officials concerned Trump may strike Iran in coming days",
-    "description": "US warships and jets are moving toward Iran, raising fears of an imminent strike as Tehran and its proxies threaten retaliation and regional leaders warn of a potential wider conflict.",
-    "link": "https://www.israelnationalnews.com/news/421517",
-    "timestamp": "2026-01-27T00:09:08Z"
-  },
-  {
-    "title": "Elizabeth Warren Calls for Kristi Noem to Resign or Be Impeached After ICE Shootings: \u2018These Lies Have to Stop\u2019",
-    "description": "\"In America, we believe in accountability, not lies,\" the Massachusetts senator adds\nThe post Elizabeth Warren Calls for Kristi Noem to Resign or Be Impeached After ICE Shootings: \u2018These Lies Have to Stop\u2019 appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/culture-lifestyle/culture/elizabeth-warren-calls-kristi-noem-to-resign/",
-    "timestamp": "2026-01-27T00:04:50Z"
-  },
-  {
-    "title": "Treasury cancels $21 million in Booz Allen contracts, blaming Trump tax return leak | CNN Business",
-    "description": "The Treasury Department cut ties with Booz Allen Hamilton on Monday and announced that it was canceling $21 million in federal contracts with the consulting giant because one of its ex-employees previously leaked President Donald Trump\u2019s tax returns to the pr\u2026",
-    "link": "https://www.cnn.com/2026/01/26/business/booz-allen-contracts-treasury",
-    "timestamp": "2026-01-27T00:04:37Z"
-  },
-  {
-    "title": "Top African health chief slams Trump plan for human experiments in Africa - NewsBreak",
-    "description": "The clash between African health leaders and the Trump administration over a controversial vaccine study in Guinea-Bissau has quickly become a test of who",
-    "link": "https://www.newsbreak.com/share/4459938919309-top-african-health-chief-slams-trump-plan-for-human-experiments-in-africa?s=a2&amp;share_destination_id=NTQ2NDA5MDktMTc2OTQ3MjAxOTQ0Mw%3D%3D&amp;pd=03hGazFf&amp;hl=en_US&amp;send_time=1769472019&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.3.2%22%2C%22languages%22%3A%22en%22%7D",
-    "timestamp": "2026-01-27T00:00:46Z"
-  },
-  {
-    "title": "Democrats Are Complicit Enablers of Trump\u2019s War Machine",
-    "description": "Reprinted with permission from The Screeching Kettle at Substack. The year is 2026. The US under Donald Trump kidnapped the president of Venezuela after bombing the country and killing a hundred people on the ground. This follows a year of airstrikes on Venez\u2026",
-    "link": "https://original.antiwar.com/jon_reynolds/2026/01/26/democrats-are-complicit-enablers-of-trumps-war-machine/",
-    "timestamp": "2026-01-27T00:00:44Z"
-  },
-  {
-    "title": "ICE agents will conduct enforcement operations at Super Bowl LX, official says",
-    "description": "ICE agents will conduct enforcement operations at Super Bowl LX as President Donald Trump boycotts the game, criticizing Grammy-winner Bad Bunny's halftime show selection.",
-    "link": "https://www.foxnews.com/sports/ice-agents-conduct-enforcement-operations-super-bowl-lx-official-says",
-    "timestamp": "2026-01-27T00:00:33Z"
-  },
-  {
-    "title": "Trump-Backed WLFI Snaps Up 2,868 ETH, Sells $8M WBTC",
-    "description": "World Liberty Financial (WLFI), a crypto project backed by US President Donald Trump, moved a chunk of its Bitcoin exposure into Ethereum this week. Reports say the group sold wrapped Bitcoin holdings and picked up a large amount of Ether in the same set of t\u2026",
-    "link": "http://www.newsbtc.com/altcoin/trump-backed-wlfi-snaps-up-2868-eth-sells-8m-wbtc/",
-    "timestamp": "2026-01-27T00:00:27Z"
-  },
-  {
-    "title": "'Red line.' Greenland shuts down Trump on sovereignty for US bases (Kim Hjelmgaard/USA Today)",
-    "description": "Kim Hjelmgaard / USA Today:\n\u2018Red line.\u2019 Greenland shuts down Trump on sovereignty for US bases\u00a0 \u2014\u00a0 President Donald Trump insists that the United States will effectively take ownership of U.S. military bases in Greenland, making them sovereign U.S. land.\u00a0 A s\u2026",
-    "link": "https://www.memeorandum.com/260126/p135",
-    "timestamp": "2026-01-27T00:00:04Z"
-  },
-  {
-    "title": "'Where's the gun?': Video shows federal officer looking for weapon after Alex Pretti shooting",
-    "description": "A video recorded in Minneapolis on Jan. 24, 2026, shows a federal immigration officer searching 37-year-old Alex Pretti's body and asking \"Where's the gun?\" after Pretti's fatal shooting, then confirming with another officer that someone already had removed a\u2026",
-    "link": "https://www.snopes.com//fact-check/alex-pretti-gun-video/",
-    "timestamp": "2026-01-27T00:00:00Z"
-  },
-  {
-    "title": "How Greenland Gives the U.S. New Leverage Over Russia\u2019s Arctic Energy Strategy",
-    "description": "Until U.S. President Donald Trump\u2019s recent comments pushed it into public view, Greenland was widely regarded as a geopolitical footnote: immense, frozen, sparsely inhabited, and far from the centre of global power politics. Yet in strategic terms it sits at \u2026",
-    "link": "https://oilprice.com/Energy/Energy-General/How-Greenland-Gives-the-US-New-Leverage-Over-Russias-Arctic-Energy-Strategy.html",
-    "timestamp": "2026-01-27T00:00:00Z"
-  },
-  {
-    "title": "A Call Is Rising for Nations to Boycott the Trump World Cup",
-    "description": "January 27, 2026\n \r\n\n \nA Call Is Rising for Nations to Boycott the Trump World Cup\r\n\n\n\nAs marauding state agents fill US streets, a leading German soccer official says countries should consider what was once unthinkable: skipping the 2026 World Cup.\r\n\n\n\r\n\n \n \u2026",
-    "link": "https://www.thenation.com/?post_type=article&p=584679",
-    "timestamp": "2026-01-27T00:00:00Z"
-  },
-  {
-    "title": "Europe financing \u2018war\u2019 against itself by buying Russian oil products from India: Bessent",
-    "description": "US imposes tariffs on India over Russian oil purchases as Europe signs a trade deal with New Delhi, sparking debate over war funding and global trade ties.",
-    "link": "https://www.thehindubusinessline.com/news/europe-financing-war-against-itself-by-buying-russian-oil-products-from-india-bessent/article70554991.ece",
-    "timestamp": "2026-01-26T23:58:19Z"
-  },
-  {
-    "title": "Attempt to rein in Trump's immigration agents dealt a setback",
-    "description": "A federal appeals court on Monday again dashed efforts by advocates to rein in the tactics President Donald Trump's immigration forces use against protesters, according to a new report. Josh Gerstein, senior legal affairs reporter for Politico, reported that \u2026",
-    "link": "https://www.rawstory.com/trump-ice-2675035719/",
-    "timestamp": "2026-01-26T23:57:48Z"
-  },
-  {
-    "title": "Trump threatens Iran with \u2018armada\u2019 bigger than around Venezuela",
-    "description": "The US Department of War has deployed a \u201cbig armada\u201d of warships and other military assets near Iran, President Donald Trump has stated Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/631560-trump-bigger-armada-iran/",
-    "timestamp": "2026-01-26T23:56:08Z"
-  },
-  {
-    "title": "Asia-Pacific markets set for mixed open as Trump takes aim at South Korea",
-    "description": "Trump threatened South Korea with increased tariffs after he claimed that Seoul's legislature has not approved the country's trade deal with Washington.",
-    "link": "https://www.cnbc.com/2026/01/27/asia-markets-live-nikkei-kospi-hang-seng.html",
-    "timestamp": "2026-01-26T23:53:07Z"
-  },
-  {
-    "title": "Trump reshuffles his Minnesota operation after backlash from second fatal shooting",
-    "description": "The fatal shooting of Alex Pretti by a Border Patrol agent over the weekend has Donald Trump \u201cconcerned\u201d about the sustainability of his administration\u2019s ongoing Minneapolis operations.",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-reshuffles-minnesota-operation-backlash-second-fatal-shooting-rcna255984",
-    "timestamp": "2026-01-26T23:51:12Z"
-  },
-  {
-    "title": "Minneapolis Mayor Says He Spoke With Trump and the President Agreed the \u2018Situation Can\u2019t Continue\u2019",
-    "description": "Minneapolis Mayor Jacob Frey posted on social media that he had spoken with President Donald Trump and pushed for the federal government to end its immigration crackdown in his city.\nThe post Minneapolis Mayor Says He Spoke With Trump and the President Agreed\u2026",
-    "link": "https://www.mediaite.com/politics/minneapolis-mayor-says-he-spoke-with-trump-and-the-president-agreed-the-situation-cant-continue/",
-    "timestamp": "2026-01-26T23:46:55Z"
-  },
-  {
-    "title": "Banking and Credit Union Groups Call for Opposition to Credit Card Competition Act",
-    "description": "Eleven banking and credit union groups sent a\u00a0joint letter to members of Congress, urging the lawmakers to reject the Credit Card Competition Act (CCCA) and any expansion of the Durbin amendment. \u201cThe payment card system is convenient, secure and essential to\u2026",
-    "link": "https://www.pymnts.com/bank-regulation/2026/banking-and-credit-union-groups-call-for-opposition-to-credit-card-competition-act/",
-    "timestamp": "2026-01-26T23:45:27Z"
-  },
-  {
-    "title": "S&P 500 wins back all losses from Greenland dip, gold and silver surge even higher",
-    "description": "Precious metals prices have been soaring as investors look for safer places to park their money amid threats of tariffs, inflation, and huge national debt.",
-    "link": "https://fortune.com/2026/01/26/how-much-did-market-go-up-today-gold-silver-why/",
-    "timestamp": "2026-01-26T23:43:35Z"
-  },
-  {
-    "title": "GOP senator demands DHS immigration chiefs testify after fatal shootings in Minnesota",
-    "description": "Sen. Rand Paul's, R-Ky., request comes on the heels of the latest fatal shooting involving a border patrol agent, though his inquiry is more focused on the billions flowing to DHS.",
-    "link": "https://www.foxnews.com/politics/gop-senator-demands-dhs-immigration-chiefs-testify-after-fatal-shootings-minnesota",
-    "timestamp": "2026-01-26T23:42:53Z"
-  },
-  {
-    "title": "Fed expected to hold rates this week as political storm intensifies around Powell",
-    "description": "The Federal Reserve is expected to halt interest rate cuts this week, signaling a restored consensus amid political scrutiny around Chair Jerome Powell. Read more at straitstimes.com. Read more at straitstimes.com.",
-    "link": "https://www.straitstimes.com/business/economy/fed-expected-to-hold-rates-this-week-as-political-storm-intensifies-around-powell",
-    "timestamp": "2026-01-26T23:41:10Z"
-  },
-  {
-    "title": "(VIDEO) Arizona Attorney General Claims \u201cRight-Wing Media has Mischaracterized\u201d Violent Comments Justifying Shooting ICE, Attacks ICE for \u201cPutting Every American in Danger\u201d in Damage Control Statement",
-    "description": "Arizona Attorney General Kris Mayes released a video statement on Sunday, attempting to walk back recent comments, where she told her radical left voters they have the right to shoot and kill masked ICE agents in Arizona.\u00a0 \u201cWe\u2019re a gun culture in this state,\u201d\u2026",
-    "link": "https://www.thegatewaypundit.com/2026/01/video-arizona-attorney-general-claims-right-wing-media/",
-    "timestamp": "2026-01-26T23:40:17Z"
-  },
-  {
-    "title": "Trump paves the ground for Minnesota retreat as he touts talks with governor, mayor: \u2018lots of progress is being made\u2019",
-    "description": "Some federal agents were expected to leave as soon as Tuesday.",
-    "link": "https://fortune.com/2026/01/26/trump-paves-the-ground-for-minnesota-retreat-as-he-touts-talks-with-governor-mayor-lots-of-progress-is-being-made/",
-    "timestamp": "2026-01-26T23:40:01Z"
-  },
-  {
-    "title": "Deadly winter storm hits US, 17 killed, flights grounded",
-    "description": "A deadly US winter storm leaves 17 dead, hundreds of thousands without power, and grounds over 10,000 flights. Read about the massive impact.\n\nRead More: https://punchng.com/deadly-winter-storm-hits-us-17-killed-flights-grounded/",
-    "link": "https://punchng.com/deadly-winter-storm-hits-us-17-killed-flights-grounded/",
-    "timestamp": "2026-01-26T23:39:37Z"
-  },
-  {
-    "title": "Ex-FIFA president Sepp Blatter joins those calling for boycott of World Cup in United States",
-    "description": "Former FIFA president Sepp Blatter on Monday backed a proposed fan boycott of World Cup matches in the United States because of the conduct of President Donald Trump and his administration at home and abroad. Blatter was the latest international soccer figure\u2026",
-    "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9a4a4607-798f-4814-9bae-63935bf866d1",
-    "timestamp": "2026-01-26T23:38:23Z"
-  },
-  {
-    "title": "Ex-Olympic snowboarder Ryan Wedding pleads not guilty to running drug smuggling ring",
-    "description": "A former Canadian Olympic snowboarder pleaded not guilty to running a billion-dollar\u00a0drug trafficking\u00a0ring and orchestrating multiple\u00a0killings, as one of the FBI's top fugitives made his first U.S. court appearance Monday since he was arrested in Mexico last \u2026",
-    "link": "https://www.pbs.org/newshour/nation/ex-olympic-snowboarder-ryan-wedding-pleads-not-guilty-to-running-drug-smuggling-ring",
-    "timestamp": "2026-01-26T23:38:18Z"
-  },
-  {
-    "title": "\u2018Could not be more front line\u2019 - MP who served in Afghanistan backs Christopher Luxon\u2019s rebuke of Donald Trump",
-    "description": "MPs hit back at the President's attack on Nato service in Afghanistan.",
-    "link": "https://www.nzherald.co.nz/nz/politics/could-not-be-more-front-line-mp-who-served-in-afghanistan-backs-christopher-luxons-rebuke-of-donald-trump/HZUQOP7YYFC7ZPLMG765GAPLPM/",
-    "timestamp": "2026-01-26T23:38:06Z"
-  },
-  {
-    "title": "Today\u2019s Hot Read: \u2018The Superhuman President\u2019",
-    "description": "This exchange in Ben Terris\u2019s story on Trump\u2019s health, his view on mortality and legacy, and his Cabinet\u2019s contest to say the most over-the-top thing about his physical prowess. nymag.com/intelligence\u2026 [image or embed] \u2014 Mr. Dan Zak (@mrdanzak.com) January 26\u2026",
-    "link": "https://balloon-juice.com/2026/01/26/todays-hot-read-the-superhuman-president/",
-    "timestamp": "2026-01-26T23:37:25Z"
-  },
-  {
-    "title": "'Public face' of Trump's Minneapolis crackdown set to leave city - as president's tone shifts",
-    "description": "The border commander who has emerged as the face of the Trump administration's ICE operation in Minneapolis is poised to leave the city, reports Sky's US partner network NBC News.",
-    "link": "https://news.sky.com/story/public-face-of-trumps-minneapolis-crackdown-set-to-leave-city-as-presidents-tone-shifts-13499461",
-    "timestamp": "2026-01-26T23:37:00Z"
-  },
-  {
-    "title": "The shootings in Minneapolis are upending the politics of immigration in Congress",
-    "description": "Democrats have awakened to what they see as a moral moment for the country.",
-    "link": "https://www.bostonherald.com/2026/01/26/congress-immigration-enforcement/",
-    "timestamp": "2026-01-26T23:35:39Z"
-  },
-  {
-    "title": "The shootings in Minneapolis are upending the politics of immigration in Congress",
-    "description": "Democrats have awakened to what they see as a moral moment for the country.",
-    "link": "https://www.denverpost.com/2026/01/26/congress-immigration-enforcement/",
-    "timestamp": "2026-01-26T23:35:39Z"
-  },
-  {
-    "title": "Israel\u2019s hostage agony finally ends \u2014 but its Gaza mission is far from over",
-    "description": "A nation willing to sacrifice this much will not accept half-measures, cosmetic victories or temporary fixes.",
-    "link": "https://nypost.com/2026/01/26/opinion/israels-hostage-agony-finally-ends-but-not-its-gaza-mission/",
-    "timestamp": "2026-01-26T23:33:31Z"
-  },
-  {
-    "title": "TikTok\u2019s \u2018Nihilistic Penguin\u2019 Meme, Explained",
-    "description": "A clip of a \u2018Nihilistic Penguin\u2019 walking toward certain death has gone viral\u2014what does the meme mean?",
-    "link": "https://www.forbes.com/sites/danidiplacido/2026/01/26/tiktoks-nihilistic-penguin-meme-explained/",
-    "timestamp": "2026-01-26T23:33:18Z"
-  },
-  {
-    "title": "Nicki Minaj and \u2018Marty Supreme\u2019 Actor Kevin O\u2019Leary Set to Join Trump at Launch Event for \u201cTrump Accounts\u201d - hollywoodreporter.com",
-    "description": "Nicki Minaj and \u2018Marty Supreme\u2019 Actor Kevin O\u2019Leary Set to Join Trump at Launch Event for \u201cTrump Accounts\u201dhollywoodreporter.com Nicki Minaj Will Stump for Trump Again at Treasury Department EventRolling Stone Nicki Minaj Confirmed for Trump Accounts Summit in\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=180661804",
-    "timestamp": "2026-01-26T23:32:20Z"
-  },
-  {
-    "title": "ICE Shootings Are Freaking Out the GOP. They're Afraid to Tell Trump. (Jonathan Martin/Politico)",
-    "description": "Jonathan Martin / Politico:\nICE Shootings Are Freaking Out the GOP.\u00a0 They're Afraid to Tell Trump. \u2026 To cover the Republican Party in the age of President Donald Trump requires a grasp of cryptology.\u00a0 \u2014\u00a0 Because of the unflinching personal loyalty he demands,\u2026",
-    "link": "https://www.memeorandum.com/260126/p129",
-    "timestamp": "2026-01-26T23:30:01Z"
-  },
-  {
-    "title": "Minnesota: Mayor says some federal agents to leave Minneapolis amid outrage over protester shootings",
-    "description": "Minneapolis Mayor Jacob Frey said some federal immigration officers will leave the city after a call with Donald Trump. Earlier the president said he is deploying border czar Tom Homan to Minnesota. DW has the latest.",
-    "link": "https://www.dw.com/en/minnesota-mayor-says-some-federal-agents-to-leave-minneapolis-amid-outrage-over-protester-shootings/live-75666369",
-    "timestamp": "2026-01-26T23:30:00Z"
-  },
-  {
-    "title": "DHS probes whether agents killed VA nurse following accidental discharge during Minneapolis ICE raid",
-    "description": "DHS is investigating whether Border Patrol agents believed they were under fire when accidental gun discharge preceded fatal shooting of Alex Pretti.",
-    "link": "https://www.foxnews.com/us/dhs-probes-whether-agents-killed-va-nurse-accidental-discharge-minneapolis-ice-raid",
-    "timestamp": "2026-01-26T23:29:46Z"
-  },
-  {
-    "title": "Border Patrol Commander Greg Bovino & Some of His Agents Expected to Leave Minneapolis, Sources Say",
-    "description": "Controversial Border Patrol commander Greg Bovino and some of his fellow agents are expected to leave Minneapolis imminently. The reports come from multiple sources who have conveyed this to outlets like CNN and CBS News. Keep reading to find out more\u2026 Bovino\u2026",
-    "link": "https://www.justjared.com/2026/01/26/border-patrol-commander-greg-bovino-some-of-his-agents-expected-to-leave-minneapolis-sources-say/",
-    "timestamp": "2026-01-26T23:29:07Z"
-  },
-  {
-    "title": "It\u2019s in everyone\u2019s interest to find common ground in Minnesota",
-    "description": "Alex Pretti\u2019s death plainly prompted a sobering all around, as it should.",
-    "link": "https://nypost.com/2026/01/26/opinion/its-in-everyones-interest-to-find-common-ground-in-minnesota/",
-    "timestamp": "2026-01-26T23:28:52Z"
-  },
-  {
-    "title": "What we know about the investigations into the Minneapolis shooting death of Alex Pretti",
-    "description": "The fatal shooting of Minneapolis man Alex Pretti by federal immigration officers has sparked calls for an independent investigation",
-    "link": "https://abcnews.go.com/Politics/wireStory/investigations-minneapolis-shooting-death-alex-pretti-129581708",
-    "timestamp": "2026-01-26T23:25:57Z"
-  },
-  {
-    "title": "Trump raises US tariffs on South Korea imports to 25%",
-    "description": "The US president said he was frustrated that lawmakers in Seoul had yet to approve a trade deal between the two countries that was reached last year.",
-    "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o",
-    "timestamp": "2026-01-26T23:25:02Z"
-  },
-  {
-    "title": "Trump Hails Return of Final Israeli Hostage's Remains from Gaza, Declares \u2018Now We Have to Disarm Hamas\u2019",
-    "description": "President Donald Trump hailed the return of the final Israeli hostage's remains from Gaza on Monday as an \u201cimpossible\u201d outcome achieved \u2014 then declared the moment now pivots to Phase II of his Gaza framework.\nThe post Trump Hails Return of Final Israeli Hosta\u2026",
-    "link": "https://www.breitbart.com/politics/2026/01/26/trump-hails-return-final-israeli-hostage-s-remains-gaza-declares-now-we-have-to-disarm-hamas/",
-    "timestamp": "2026-01-26T23:23:55Z"
-  },
-  {
-    "title": "Death toll from US strikes on alleged drug boats reaches 126 people",
-    "description": "The figure includes 116 people who were killed immediately in at least 36 attacks.",
-    "link": "https://www.denverpost.com/2026/01/26/trump-cartels-boat-strikes-death-toll/",
-    "timestamp": "2026-01-26T23:21:12Z"
-  },
-  {
-    "title": "Minneapolis ICE Shooting Tests Limits of Trump\u2019s Immigration Crackdown",
-    "description": "Protests, legal challenges, and bipartisan backlash are converging on the administration\u2019s tactics.",
-    "link": "http://foreignpolicy.com/2026/01/26/minneapolis-ice-shooting-protests-alex-pretti-renee-good-immigration/",
-    "timestamp": "2026-01-26T23:21:12Z"
-  },
-  {
-    "title": "Death toll from US strikes on alleged drug boats reaches 126 people",
-    "description": "The figure includes 116 people who were killed immediately in at least 36 attacks.",
-    "link": "https://www.bostonherald.com/2026/01/26/trump-cartels-boat-strikes-death-toll/",
-    "timestamp": "2026-01-26T23:21:12Z"
-  },
-  {
-    "title": "Despicable Tim Walz hits a dangerous new low \u2014 soiling Anne Frank\u2019s memory",
-    "description": "That politicians are comparing the arrest of literal criminals to the ideological mass murder of an entire people confirms they have completely lost the plot.",
-    "link": "https://nypost.com/2026/01/26/opinion/despicable-tim-walz-hits-a-dangerous-new-low-soiling-anne-franks-memory/",
-    "timestamp": "2026-01-26T23:20:58Z"
-  },
-  {
-    "title": "Steve Bannon flips out after Trump's White House 'blinks' first on Minnesota ICE crackdown",
-    "description": "One of President Donald Trump's closest allies flipped out on Monday after the president did another U-turn on the situation in Minneapolis. Steve Bannon, a former White House advisor, said on his \"War Room\" podcast on Monday that Trump \"blinked\" in Minneapol\u2026",
-    "link": "https://www.rawstory.com/steve-bannon-2675035669/",
-    "timestamp": "2026-01-26T23:19:57Z"
-  },
-  {
-    "title": "America First in uniform: What NDS-2026 really means",
-    "description": "Washington has redrawn its military priorities around power, not values Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/631551-america-first-in-uniform-nds-2026/",
-    "timestamp": "2026-01-26T23:13:03Z"
-  },
-  {
-    "title": "Greg Bovino and ICE agents to leave Minnesota amid backlash over Alex Pretti shooting - here's what happened",
-    "description": "Greg Bovino: Border Patrol commander Greg Bovino is set to depart Minneapolis amid criticism following the shooting death of ICU nurse Alex Pretti. This decision comes after discussions between President Trump and local officials regarding federal immigration\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/greg-bovino-and-ice-agents-to-leave-minnesota-amid-backlash-over-alex-pretti-shooting-heres-what-happened/articleshow/127580556.cms",
-    "timestamp": "2026-01-26T23:11:31Z"
-  },
-  {
-    "title": "7 ways to rein in ICE",
-    "description": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. I don\u2019t know how you spent your frigid weekend hours, but I spent mine on my phone \u2014 compulsively refreshing\u2026",
-    "link": "https://www.vox.com/today-explained-newsletter/476559/minneapolis-ice-surge-shutdown-injunction-investigation",
-    "timestamp": "2026-01-26T23:10:49Z"
-  },
-  {
-    "title": "The Real Bill Cassidy Exposed: Louisiana\u2019s Fake Conservative",
-    "description": "U.S. Senator Bill Cassidy has spent years selling Louisiana voters one version of himself while consistently governing as something else entirely. Cassidy\u2019s record shows a pattern that should alarm every America First voter: siding with Democrats when it matt\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4364105/posts",
-    "timestamp": "2026-01-26T23:10:32Z"
   }
 ]
