@@ -1,5 +1,119 @@
 [
   {
+    "title": "Mexican president says her country has paused oil shipments to Cuba",
+    "description": "Mexican President Claudia Sheinbaum said the pause was part of general fluctuations in oil supplies and that it was a \"sovereign decision\" not made under pressure from the United States.",
+    "link": "https://www.npr.org/2026/01/28/nx-s1-5691086/mexico-oil-shipments-cuba",
+    "timestamp": "2026-01-28T07:44:43Z"
+  },
+  {
+    "title": "Congresswoman Ihlan Omar faces down attacker after being sprayed with unknown substance",
+    "description": "\u2018We\u2019re gonna keep talking. Just give me ten minutes. Please don\u2019t let them have the show\u2019.",
+    "link": "https://www.thejournal.ie/minnesota-congresswoman-continues-speech-after-attack-with-unknown-substance-6940276-Jan2026/",
+    "timestamp": "2026-01-28T07:44:00Z"
+  },
+  {
+    "title": "Explainer - Why the euro's rise to $1.20 is a big deal?",
+    "description": "The euro has just hit a new milestone against the dollar, highlighting the single currency's renewed push higher as sentiment towards the greenback sours.",
+    "link": "https://www.rte.ie/news/business/2026/0128/1555467-explainer-why-the-euros-rise-to-1-20-is-a-big-deal/",
+    "timestamp": "2026-01-28T07:43:33Z"
+  },
+  {
+    "title": "Dollar staggers near four-year low",
+    "description": "The US dollar struggled near four-year lows today after President Donald Trump brushed off its recent weakness, exacerbating greenback selling and lifting the yen, euro and sterling ahead of the Federal Reserve policy decision.",
+    "link": "https://www.rte.ie/news/business/2026/0128/1555468-dollar-value-falls/",
+    "timestamp": "2026-01-28T07:42:51Z"
+  },
+  {
+    "title": "Trump says 'we're going to de-escalate' in Minneapolis after backlash over Alex Pretti killing",
+    "description": "The US President also said he did not agree with comments made by his deputy chief of staff that Pretti was a \u201cwould-be assassin\u201d.",
+    "link": "https://www.thejournal.ie/trump-deescalate-minneapolis-backlash-alex-pretti-killing-6940268-Jan2026/",
+    "timestamp": "2026-01-28T07:42:22Z"
+  },
+  {
+    "title": "Trump says Alex Pretti shouldn\u2019t have been carrying a gun",
+    "description": "US President Donald Trump said Alex Pretti shouldn\u2019t have been carrying a gun, even though he was legally armed.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-alex-pretti-shouldnt-have-been-carrying-a-gun",
+    "timestamp": "2026-01-28T07:36:21Z"
+  },
+  {
+    "title": "Gold hits fresh record above $5,250, silver surges to \u20b94 lakh on dollar weakness",
+    "description": "Market analysts attribute the bullion rally to multiple factors including safe-haven demand amid geopolitical tensions and trade uncertainty",
+    "link": "https://www.thehindubusinessline.com/markets/gold/gold-hits-fresh-record-above-5250-silver-surges-to-4-lakh-on-dollar-weakness/article70560022.ece",
+    "timestamp": "2026-01-28T07:32:05Z"
+  },
+  {
+    "title": "CNBC Daily Open: Starmer's high stakes visit to China takes center stage",
+    "description": "That comes just one day after India and the EU announced a \"landmark\" free trade deal, as countries recalibrate supply chains and trade ties away from the U.S.",
+    "link": "https://www.cnbc.com/2026/01/28/cnbc-daily-open-starmers-high-stakes-visit-to-china-takes-center-stage.html",
+    "timestamp": "2026-01-28T07:30:01Z"
+  },
+  {
+    "title": "Israel to hold funeral for last hostage recovered from Gaza",
+    "description": "MEITAR, Israel, Jan 28 (Reuters) - The remains of the last Israeli captive recovered from the Gaza Strip were set to be buried on Wednesday in a funeral that will help Is\u2026 Leggi",
+    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/28/israel-to-hold-funeral-for-last-hostage-recovered-from-gaza",
+    "timestamp": "2026-01-28T07:29:57Z"
+  },
+  {
+    "title": "Donald Trump in damage control mode as White House seeks to ease Minneapolis unrest over shooting of two US citizens",
+    "description": "US President Donald Trump's border czar, Tom Homan, met with the Minneapolis mayor and the",
+    "link": "https://www.independent.ie/world-news/north-america/donald-trump-in-damage-control-mode-as-white-house-seeks-to-ease-minneapolis-unrest-over-shooting-of-two-us-citizens/a1457827314.html",
+    "timestamp": "2026-01-28T07:28:29Z"
+  },
+  {
+    "title": "Trump climbdown on Alex Pretti killing catches Homeland Security chief and Maga off guard",
+    "description": "President\u2019s sudden switch of tone after latest killing by immigration agents in Minneapolis has exposed Republican Party cracks",
+    "link": "https://www.irishtimes.com/world/us/2026/01/28/trump-climbdown-on-alex-pretti-killing-catches-homeland-security-chief-and-maga-off-guard/",
+    "timestamp": "2026-01-28T07:22:26Z"
+  },
+  {
+    "title": "Dollar has become a 'falling chainsaw' - what it means for you",
+    "description": "There is no end in sight to a plunge in the value of the US dollar, threatening ramifications globally but especially for Donald Trump if it's overdone.",
+    "link": "https://news.sky.com/story/dollar-has-become-a-falling-chainsaw-what-it-means-for-you-13499913",
+    "timestamp": "2026-01-28T07:20:00Z"
+  },
+  {
+    "title": "Silver futures hit record \u20b93.83 lakh/kg; gold at fresh peak of \u20b91.62 lakh/10g",
+    "description": "Silver prices extended their record-breaking run on Wednesday, soaring more than 7 per cent, to hit a lifetime high of \u20b93.83 lakh per kg in the futures trade, while gold jumped to a new peak of \u20b91.62 lakh per 10 grams, buoyed by a sharp fall in US dollar and \u2026",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-hit-record-383-lakhkg-gold-at-fresh-peak-of-162-lakh10g/article70559979.ece",
+    "timestamp": "2026-01-28T07:16:43Z"
+  },
+  {
+    "title": "Congresswoman attacked with unknown substance in Minneapolis",
+    "description": "A man has been arrested after spraying an unknown substance on Minnesota Representative Ilhan Omar as she called for ICE to be abolished during a town hall event in Minneapolis.",
+    "link": "https://news.sky.com/story/congresswoman-ilhan-omar-attacked-with-unknown-substance-in-minneapolis-13499911",
+    "timestamp": "2026-01-28T07:16:00Z"
+  },
+  {
+    "title": "EU trade deal with India shows that Europe is seeking new partnerships",
+    "description": "The European Union and India have reached a free trade agreement to deepen economic and strategic ties after nearly two decades of negotiations. The agreement announced Tuesday reflects a new priority for the EU after the Trump administration threatened to im\u2026",
+    "link": "https://apnews.com/article/india-eu-european-union-trade-deal-4d2b0333040d7f4d055a7dfe9d8484a3",
+    "timestamp": "2026-01-28T07:12:09Z"
+  },
+  {
+    "title": "Rubio set to warn of future military action if Venezuela's new leaders stray from US goals",
+    "description": "Secretary of State Marco Rubio is expected to warn that the Trump administration is ready to take new military action against Venezuela if the country's interim leadership strays from U.S. expectations",
+    "link": "https://abcnews.go.com/US/wireStory/rubio-set-warn-future-military-action-venezuelas-new-129624074",
+    "timestamp": "2026-01-28T07:09:48Z"
+  },
+  {
+    "title": "US Secretary to warn Venezuela leader of Maduro\u2019s fate",
+    "description": "The US Secretary of State is expected to warn Venezuela\u2019s leader, Delcy Rodriguez, that she could face the same fate as Nicolas Maduro if she fails to comp\n\nRead More: https://punchng.com/us-secretary-to-warn-venezuela-leader-of-maduros-fate/",
+    "link": "https://punchng.com/us-secretary-to-warn-venezuela-leader-of-maduros-fate/",
+    "timestamp": "2026-01-28T07:09:07Z"
+  },
+  {
+    "title": "Stephen Colbert Reveals Date Of Final 'Late Show' Episode With Subtle Dig At CBS",
+    "description": "\"It feels real now,\" he said.",
+    "link": "https://www.huffpost.com/entry/stephen-colbert-final-show-date_n_6979a61ce4b05884820b57aa",
+    "timestamp": "2026-01-28T07:08:46Z"
+  },
+  {
+    "title": "Ilhan Omar sprayed by unknown substance during speech",
+    "description": "US Democratic congresswoman Ilhan Omar was targeted during a speech last night by a man who sprayed an unidentified liquid at her from a syringe before being tackled by security guards.",
+    "link": "https://www.rte.ie/news/us/2026/0128/1555459-ilhan-omar-us/",
+    "timestamp": "2026-01-28T07:05:58Z"
+  },
+  {
     "title": "Bitcoin Rainbow Chart says \u2018accumulate\u2019 \u2013 But analysts warn of bear market",
     "description": "Neither the Bitcoin Rainbow Chart nor the Pi Cycle Top indicator has fired a top signal this cycle.",
     "link": "https://ambcrypto.com/bitcoin-rainbow-chart-says-accumulate-but-analysts-warn-of-bear-market/",
@@ -144,6 +258,12 @@
     "timestamp": "2026-01-28T06:00:00Z"
   },
   {
+    "title": "Trump\u2019s Second Amendment Betrayal: The Crossing of a Conservative Red Line",
+    "description": "The Stunning Admission: \u2018You Can\u2019t Have Guns\u2019 The core of the conservative movement\u2019s support for Donald Trump has long been rooted in a perceived mutual allegiance to the Constitution, particularly the Second Amendment. That bedrock trust was shattered in th\u2026",
+    "link": "https://www.naturalnews.com/2026-01-28-trumps-second-amendment-betrayal.html",
+    "timestamp": "2026-01-28T06:00:00Z"
+  },
+  {
     "title": "U.S. withdraws from World Health Organization, citing COVID-19 response and reform failures",
     "description": "The United States has formally withdrawn from the World Health Organization\u00a0(WHO), fulfilling a pledge President Donald Trump made upon returning to office in 2025. Administration officials said the decision was driven by the WHO\u2019s handling of the COVID-19 pa\u2026",
     "link": "https://www.naturalnews.com/2026-01-28-us-withdraws-from-who-citing-covid-response.html",
@@ -153,12 +273,6 @@
     "title": "Federal crackdown forces Chicago children\u2019s hospital to halt gender alteration drugs for minors",
     "description": "Lurie Children\u2019s Hospital of Chicago, the largest pediatric facility in the city, announced it will stop prescribing puberty blockers and cross-sex hormones to new minor patients following a federal investigation by the Department of Health and Human Services\u2026",
     "link": "https://www.naturalnews.com/2026-01-28-chicago-childrens-hospital-halt-gender-alteration-drugs-minors.html",
-    "timestamp": "2026-01-28T06:00:00Z"
-  },
-  {
-    "title": "Trump\u2019s Second Amendment Betrayal: The Crossing of a Conservative Red Line",
-    "description": "The Stunning Admission: \u2018You Can\u2019t Have Guns\u2019 The core of the conservative movement\u2019s support for Donald Trump has long been rooted in a perceived mutual allegiance to the Constitution, particularly the Second Amendment. That bedrock trust was shattered in th\u2026",
-    "link": "https://www.naturalnews.com/2026-01-28-trumps-second-amendment-betrayal.html",
     "timestamp": "2026-01-28T06:00:00Z"
   },
   {
@@ -306,6 +420,12 @@
     "timestamp": "2026-01-28T05:30:00Z"
   },
   {
+    "title": "Letters: Learning how to fall well may help, but how to stay upright must be first step",
+    "description": "Bobby Carty is quite right in his letter (\u2018Teaching elderly people how to fall properly may prevent serious \u00adinjuries\u2019, Irish Independent, January 27).",
+    "link": "https://www.independent.ie/opinion/letters/letters-learning-how-to-fall-well-may-help-but-how-to-stay-upright-must-be-first-step/a1033686508.html",
+    "timestamp": "2026-01-28T05:30:00Z"
+  },
+  {
     "title": "Hamas wants its 10,000 police officers to be part of new Gaza regime",
     "description": "Hamas is seeking to incorporate its 10,000 police officers into a new US-backed Palestinian administration for Gaza, sources say, a demand likely to be opposed by Israel.",
     "link": "https://www.independent.ie/world-news/middle-east/hamas-wants-its-10000-police-officers-to-be-part-of-new-gaza-regime/a108982893.html",
@@ -321,12 +441,6 @@
     "title": "C\u00f3nal Thomas: Washington visit will test Miche\u00e1l Martin\u2019s resolve like never before, but don\u2019t expect any Enda Kenny-type chutzpah",
     "description": "Scarcely believable would it be for Miche\u00e1l Martin to visit the White House in March and publicly urge US president Donald Trump, as Enda Kenny famously did in 2017, to help the plight of the undocumented Irish living in the United States.",
     "link": "https://www.independent.ie/opinion/comment/conal-thomas-washington-visit-will-test-micheal-martins-resolve-like-never-before-but-dont-expect-any-enda-kenny-type-chutzpah/a446667714.html",
-    "timestamp": "2026-01-28T05:30:00Z"
-  },
-  {
-    "title": "Letters: Learning how to fall well may help, but how to stay upright must be first step",
-    "description": "Bobby Carty is quite right in his letter (\u2018Teaching elderly people how to fall properly may prevent serious \u00adinjuries\u2019, Irish Independent, January 27).",
-    "link": "https://www.independent.ie/opinion/letters/letters-learning-how-to-fall-well-may-help-but-how-to-stay-upright-must-be-first-step/a1033686508.html",
     "timestamp": "2026-01-28T05:30:00Z"
   },
   {
@@ -448,113 +562,5 @@
     "description": "President Donald Trump endorsed Stacy Garrity for governor of Pennsylvania on Tuesday in a post on Truth Social. He said, in part, \" Stacy is a true America First Patriot who has been with me from the beginning. As your next Governor, Stacy will work tireless\u2026",
     "link": "https://freerepublic.com/focus/f-news/4364316/posts",
     "timestamp": "2026-01-28T04:54:51Z"
-  },
-  {
-    "title": "Fed likely to pause rate cuts as inflation risks and political pressure loom",
-    "description": "The US Federal Reserve is expected to hold interest rates steady after recent cuts, as economic growth remains stable and inflation, though easing, stays above target. Policymakers face a balancing act between employment and inflation. Political pressure from\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-likely-to-pause-rate-cuts-as-inflation-risks-and-political-pressure-loom/articleshow/127677449.cms",
-    "timestamp": "2026-01-28T04:54:03Z"
-  },
-  {
-    "title": "Man arrested after spraying unknown substance on Rep. Ilhan Omar at Minneapolis town hall",
-    "description": "A man has sprayed an unknown substance on U.S. Rep. Ilhan Omar before being tackled to the ground during a town hall she was hosting",
-    "link": "https://abcnews.go.com/Politics/wireStory/man-arrested-after-spraying-unknown-substance-rep-ilhan-129619377",
-    "timestamp": "2026-01-28T04:53:24Z"
-  },
-  {
-    "title": "Man arrested after spraying unknown substance on Rep. Ilhan Omar at Minneapolis town hall",
-    "description": "A man has sprayed an unknown substance on U.S. Rep. Ilhan Omar before being tackled to the ground during a town hall she was hosting",
-    "link": "https://abcnews.go.com/US/wireStory/man-arrested-after-spraying-unknown-substance-rep-ilhan-129619376",
-    "timestamp": "2026-01-28T04:53:23Z"
-  },
-  {
-    "title": "NY Governor candidate Blakeman attacks Hochul, Mamdani over IHRA reversal",
-    "description": "Bruce Blakeman urges New York to adopt the IHRA antisemitism definition, criticizing Gov. Hochul and Mayor Mamdani for resisting or reversing it amid rising antisemitism.",
-    "link": "https://www.israelnationalnews.com/news/421586",
-    "timestamp": "2026-01-28T04:53:15Z"
-  },
-  {
-    "title": "Georgia state lawmaker moves to name Sawnee Mountain after President Trump",
-    "description": "The preserve was named after a Cherokee chief who aided \"many of the first settlers\" in the greater Atlanta area throughout the 19th century, according to a plaque near his statue on the mountain.",
-    "link": "https://nypost.com/2026/01/27/us-news/georgia-lawmaker-moves-to-rename-mountain-after-president-trump/",
-    "timestamp": "2026-01-28T04:51:37Z"
-  },
-  {
-    "title": "OpenAI CEO Sam Altman Says ICE Is 'Going Too Far' In Internal Message",
-    "description": "The statements come as tech workers have urged executives, who've been largely quiet, to speak out on the subject.",
-    "link": "https://www.huffpost.com/entry/tech-ice-trump_n_69799081e4b05884820b5123",
-    "timestamp": "2026-01-28T04:51:13Z"
-  },
-  {
-    "title": "Wall Street pins hopes on Fed independence as Donald Trump eyes new chair",
-    "description": "Global markets find reassurance in the Federal Reserve's independence. Despite President Trump's concerns about appointing aligned Fed chairs, bankers believe future leaders will prioritize economic data over politics. Institutions are preparing for various e\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-pins-hopes-on-fed-independence-as-donald-trump-eyes-new-chair/articleshow/127677314.cms",
-    "timestamp": "2026-01-28T04:50:51Z"
-  },
-  {
-    "title": "\u2018We Have Taken in $600 Billion in Tariffs\u2019 \u2014 Trump",
-    "description": "WASHINGTON (Sputnik) - US President Donald Trump told Fox News that the United States had gained $600 billion due to tariffs.",
-    "link": "https://sputnikglobe.com/20260128/we-have-taken-in-600-billion-in-tariffs--trump-1123538798.html",
-    "timestamp": "2026-01-28T04:49:54Z"
-  },
-  {
-    "title": "Trump weighs less aggressive approach in Minneapolis",
-    "description": "US President Donald Trump's border czar, Tom Homan, met with the Minneapolis mayor and the Minnesota governor in a show of detente, as the White House sought to ease unrest gripping the city after two US citizens were shot dead by federal agents.",
-    "link": "https://www.rte.ie/news/us/2026/0128/1555450-us-minnesota/",
-    "timestamp": "2026-01-28T04:49:37Z"
-  },
-  {
-    "title": "Crude oil futures gain as US winter storm hits output",
-    "description": "Crude oil futures traded higher on Wednesday morning as a severe winter storm in the US disrupted crude oil production and exports from the US Gulf Coast.",
-    "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-as-us-winter-storm-hits-output/article70559391.ece",
-    "timestamp": "2026-01-28T04:47:56Z"
-  },
-  {
-    "title": "Trump Warns Against Al-Maliki Returning as Iraq\u2019s Prime Minister",
-    "description": "WASHINGTON (Sputnik) - President Donald Trump said Iraq could make a \u201cvery bad choice\u201d by \u201creinstalling Nouri al Maliki as Prime Minister.\u201d",
-    "link": "https://sputnikglobe.com/20260128/trump-warns-against-al-maliki-returning-as-iraqs-prime-minister-1123538479.html",
-    "timestamp": "2026-01-28T04:42:00Z"
-  },
-  {
-    "title": "Hundreds gather in downtown Lincoln to march on behalf of Renee Good and Alex Pretti",
-    "description": "\"My whole family's immigrants, and even if I wasn't, I feel just having basic empathy and humanity is what has us all here today.\"",
-    "link": "https://www.klkntv.com/hundreds-gather-in-downtown-lincoln-to-march-on-behalf-of-renee-good-and-alex-pretti/",
-    "timestamp": "2026-01-28T04:40:30Z"
-  },
-  {
-    "title": "Trump endorses Garrity for Pa. governor",
-    "description": "President Donald Trump endorsed Stacy Garrity for governor of Pennsylvania on Tuesday in a post on Truth Social.",
-    "link": "https://www.wgal.com/article/president-trump-endorses-stacy-garrity-pa-governor/70165410",
-    "timestamp": "2026-01-28T04:36:28Z"
-  },
-  {
-    "title": "Gold's blistering rally continues past $5,200 as dollar plunges to 4-year low",
-    "description": "US consumer confidence, meanwhile, slumped to its lowest\nlevel in more than 11-1/2 years in January amid mounting anxiety\nover a sluggish \u200dlabor market and high prices.",
-    "link": "https://www.thehindubusinessline.com/markets/gold/golds-blistering-rally-continues-past-5200-as-dollar-plunges-to-4-year-low/article70559363.ece",
-    "timestamp": "2026-01-28T04:35:56Z"
-  },
-  {
-    "title": "Bitwise Registers Uniswap ETF Trust in Early Step Toward Potential Filing",
-    "description": "The filing comes after regulators closed their probe into Uniswap Labs, shifting attention from enforcement toward questions over liquidity.",
-    "link": "https://decrypt.co/356125/bitwise-uniswap-etf-trust-early-step-potential-filing",
-    "timestamp": "2026-01-28T04:33:41Z"
-  },
-  {
-    "title": "Thai parties tap nationalist mood as Cambodia clashes roil rural voters",
-    "description": "KANTHARALAK, Thailand, Jan 28 (Reuters) - Thai lawmaker Phumin Leethiraprasert has switched party allegiances in his re-election campaign for a February 8 poll, aiming to\u2026 Leggi",
-    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/28/thai-parties-tap-nationalist-mood-as-cambodia-clashes-roil-rural-voters",
-    "timestamp": "2026-01-28T04:32:42Z"
-  },
-  {
-    "title": "Monochrome cookies and branded popcorn buckets: Trump family holds private White House screening for Melania film",
-    "description": "Some 70 VIP guests arrived at the White House Saturday to celebrate the first lady\u2019s Amazon-funded movie, which tracks her over the 20 days leading up to President Trump\u2019s inauguration",
-    "link": "https://www.the-independent.com/arts-entertainment/films/news/melania-trump-film-documentary-amazon-white-house-screening-b2909055.html",
-    "timestamp": "2026-01-28T04:31:35Z"
-  },
-  {
-    "title": "Bin Salman to Iran: No Saudi territory will be used for military strikes",
-    "description": "Saudi Arabia tells Iran it will not allow its airspace or territory to be used for attacks, as US forces build up in the region and concerns grow over possible military action.",
-    "link": "https://www.israelnationalnews.com/news/421585",
-    "timestamp": "2026-01-28T04:25:13Z"
   }
 ]
