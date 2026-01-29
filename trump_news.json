@@ -1,5 +1,77 @@
 [
   {
+    "title": "Ontario snowbirds buy property in Mexico to avoid wintering in the U.S.",
+    "description": "Some Ontario residents who typically spend their winters in the U.S. say they\u2019ve recently opted to buy property in Mexico instead.\u00a0\nThe shift comes as some snowbirds grow uneasy about the political climate under U.S. President Donald Trump.",
+    "link": "https://www.cbc.ca/news/canada/toronto/ontario-snowbirds-choose-mexico-9.7063503",
+    "timestamp": "2026-01-28T09:00:00Z"
+  },
+  {
+    "title": "This Albertan signed up to fight in Ukraine. He was nearly killed by friendly fire",
+    "description": "David Rauser spoke to CBC News from western Ukraine after being accidentally shot in the head by a member of his team in Donetsk.",
+    "link": "https://www.cbc.ca/news/world/ukraine-david-rauser-donetsk-9.7063338",
+    "timestamp": "2026-01-28T09:00:00Z"
+  },
+  {
+    "title": "2 Officers Fired Shots During Alex Pretti Confrontation: DHS",
+    "description": "Two federal officers fired shots during the encounter that killed ICU nurse Alex Pretti over the weekend in Minneapolis, a Customs and Border Protection official told Congress in a notice sent Tuesday, the AP reports. Officers tried to take Pretti into custod\u2026",
+    "link": "https://www.newser.com/story/382700/2-officers-fired-shots-during-alex-pretti-confrontation-dhs.html",
+    "timestamp": "2026-01-28T09:00:00Z"
+  },
+  {
+    "title": "Live updates: Trump tells Minneapolis mayor he\u2019s \u2018playing with fire\u2019 if federal immigration law isn\u2019t enforced | CNN",
+    "description": "President Donald Trump issued a warning to Minneapolis Mayor Jacob Frey if the city doesn\u2019t enforce federal immigration law. Frey reiterated local police will not carry out federal immigration enforcement. Follow for live news updates.",
+    "link": "https://www.cnn.com/us/live-news/minneapolis-ice-trump-01-28-26",
+    "timestamp": "2026-01-28T08:51:56Z"
+  },
+  {
+    "title": "Turkey urges US to start nuclear talks with Iran",
+    "description": "Turkey\u2019s foreign minister advises the US to start nuclear talks with Iran, warning against military action and advocating for diplomacy to resolve issues.\n\nRead More: https://punchng.com/turkey-urges-us-to-start-nuclear-talks-with-iran/",
+    "link": "https://punchng.com/turkey-urges-us-to-start-nuclear-talks-with-iran/",
+    "timestamp": "2026-01-28T08:50:02Z"
+  },
+  {
+    "title": "Can \u2018never here Keir\u2019 bring back the goods from China?",
+    "description": "As Prime Minister Sir Keir Starmer touches down in Beijing, does the UK face a choice between a \u201cgolden age\u201d or an \u201cice age\u201d with its relationship with China? Sam and Anne assess: \u2013 Will the PM have to pick a side between Chinese President Xi Jinping and US P\u2026",
+    "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-never-here-keir-bring-back-the-goods-from-china/",
+    "timestamp": "2026-01-28T08:48:30Z"
+  },
+  {
+    "title": "Wolves in sheep\u2019s clothing: The dark side of Western benevolence",
+    "description": "The debate over aid for Africa raises a vital concern over its true cost Read Full Article at RT.com",
+    "link": "https://www.rt.com/africa/631582-true-cost-of-western-aid-for-africa/",
+    "timestamp": "2026-01-28T08:46:59Z"
+  },
+  {
+    "title": "Iraq faces return of ex-PM linked to 'Islamic State' rise",
+    "description": "Ex-prime minister Nouri al-Maliki is often seen as responsible for sectarian tensions and military mismanagement that made the \"Islamic State\" possible in Iraq. He's just been nominated as Iraq's next prime minister. When the extremist group known as the \"Isl\u2026",
+    "link": "https://www.dw.com/en/iraq-faces-return-of-ex-pm-linked-to-islamic-state-rise/a-75684321",
+    "timestamp": "2026-01-28T08:38:00Z"
+  },
+  {
+    "title": "Trump-Putin photo spotted at White House",
+    "description": "A PBS reporter has spotted a photograph of Donald Trump and Vladimir Putin hanging inside a White House visitors\u2019 foyer Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/631631-trump-putin-photo-white-house/",
+    "timestamp": "2026-01-28T08:33:43Z"
+  },
+  {
+    "title": "'Prove It!': Jimmy Kimmel Calls BS On Trump's Favorite Line Of Attack On Protesters",
+    "description": "The late night host torched a key claim the president frequently makes.",
+    "link": "https://www.huffpost.com/entry/jimmy-kimmel-trump-protesters_n_6979a435e4b05884820b574b",
+    "timestamp": "2026-01-28T08:29:19Z"
+  },
+  {
+    "title": "Christians have concerns about Trump's 'Board of Peace'",
+    "description": "The \"Board of Peace\" has been compared by some to a gathering of supervillains.",
+    "link": "https://www.christiantoday.com/news/christians-have-concerns-about-trump-s-board-of-peace",
+    "timestamp": "2026-01-28T08:28:00Z"
+  },
+  {
+    "title": "Trump Says He Feels \u2018Terrible\u2019 Alex Pretti, But Worse About Renee Good Because Her Parents Were \u2018Trump Fans\u2019",
+    "description": "Donald Trump said he feels \"terrible\" about the deaths of Alex Pretti and Renee Good in Minnesota during an interview on Fox News.",
+    "link": "http://www.rollingstone.com/politics/politics-news/donald-trump-alex-pretti-renee-good-deaths-1235506048/",
+    "timestamp": "2026-01-28T08:27:54Z"
+  },
+  {
     "title": "What to know about UK-China relations as Prime Minister Keir Starmer visits Beijing",
     "description": "U.K. Prime Minister Keir Starmer visits Beijing for a four-day visit to China aimed at repairing ties and expanding opportunities for British businesses in the world\u2019s second-largest economy",
     "link": "https://abcnews.go.com/Business/wireStory/uk-china-relations-prime-minister-keir-starmer-visits-129625923",
@@ -496,71 +568,5 @@
     "description": "In the early hours of yesterday I was on the receiving end of one of the deadly Russian mass drone attacks that regularly terrorise Ukrainian cities.",
     "link": "https://www.independent.ie/world-news/europe/i-was-caught-up-in-a-russian-attack-and-saw-the-brutal-reality-for-ukrainians-as-talks-grind-on/a245675205.html",
     "timestamp": "2026-01-28T05:30:00Z"
-  },
-  {
-    "title": "C\u00f3nal Thomas: Washington visit will test Miche\u00e1l Martin\u2019s resolve like never before, but don\u2019t expect any Enda Kenny-type chutzpah",
-    "description": "Scarcely believable would it be for Miche\u00e1l Martin to visit the White House in March and publicly urge US president Donald Trump, as Enda Kenny famously did in 2017, to help the plight of the undocumented Irish living in the United States.",
-    "link": "https://www.independent.ie/opinion/comment/conal-thomas-washington-visit-will-test-micheal-martins-resolve-like-never-before-but-dont-expect-any-enda-kenny-type-chutzpah/a446667714.html",
-    "timestamp": "2026-01-28T05:30:00Z"
-  },
-  {
-    "title": "Max Boot: Unless they\u2019re a dictator, why would anyone want to join Donald Trump\u2019s so-called Board of Peace?",
-    "description": "US president Donald Trump is often accused of being a warmonger and a rogue leader who acts in defiance of international law and global opinion. His menacing plan (abandoned for now) to seize Greenland from Denmark, the \u201ceasy way\u201d or the \u201chard way\u201d, shows why\u2026",
-    "link": "https://www.independent.ie/opinion/comment/max-boot-unless-theyre-a-dictator-why-would-anyone-want-to-join-donald-trumps-so-called-board-of-peace/a281517943.html",
-    "timestamp": "2026-01-28T05:30:00Z"
-  },
-  {
-    "title": "Federal Reserve may keep rates unchanged for months as economy shows signs of health - The Boston Globe",
-    "description": "With the economy growing at a healthy pace and the unemployment rate appearing to level off, Fed officials likely see little reason to rush any further rate cuts.",
-    "link": "https://www.bostonglobe.com/2026/01/28/business/federal-reserve-interest-rates/",
-    "timestamp": "2026-01-28T05:27:43Z"
-  },
-  {
-    "title": "Iran warns against 'instability' after US strike group arrives",
-    "description": "Iran's president on Tuesday warned U.S. \"threats\" against the Islamic republic would only cause instability, as a U.S. naval strike group led by an aircraft carrier took up position in Middle Eastern waters.",
-    "link": "https://www.hurriyetdailynews.com/iran-warns-against-instability-after-us-strike-group-arrives-218317",
-    "timestamp": "2026-01-28T05:24:51Z"
-  },
-  {
-    "title": "Hybrid cars top choice for consumers in Europe in 2025: data",
-    "description": "Hybrid-electric vehicles dethroned purely petrol-powered cars as the top power option among consumers in Europe last year, data showed Tuesday. Some 1.88 million new vehicles were registered in 2025 in the European Union, an increase of 1.8 percent from the p\u2026",
-    "link": "https://japantoday.com/category/business/hybrid-cars-top-choice-for-consumers-in-europe-in-2025-data",
-    "timestamp": "2026-01-28T05:22:28Z"
-  },
-  {
-    "title": "Three months after rapidly scheduled arguments, Supreme Court has yet to decide on Trump's tariffs",
-    "description": "When the Supreme Court granted an unusually quick hearing over President Donald Trump\u2019s tariffs, a similarly fast resolution seemed possible.",
-    "link": "https://www.clickondetroit.com/business/2026/01/28/three-months-after-rapidly-scheduled-arguments-supreme-court-has-yet-to-decide-on-trumps-tariffs/",
-    "timestamp": "2026-01-28T05:18:50Z"
-  },
-  {
-    "title": "Three months after rapidly scheduled arguments, Supreme Court has yet to decide on Trump's tariffs",
-    "description": "When the Supreme Court granted an unusually quick hearing over President Donald Trump\u2019s tariffs, a similarly fast resolution seemed possible",
-    "link": "https://abcnews.go.com/Business/wireStory/months-after-rapidly-scheduled-arguments-supreme-court-decide-129624347",
-    "timestamp": "2026-01-28T05:18:20Z"
-  },
-  {
-    "title": "Three months after rapidly scheduled arguments, Supreme Court has yet to decide on Trump's tariffs",
-    "description": "When the Supreme Court granted an unusually quick hearing over President Donald Trump\u2019s tariffs, a similarly fast resolution seemed possible",
-    "link": "https://abcnews.go.com/US/wireStory/months-after-rapidly-scheduled-arguments-supreme-court-decide-129624346",
-    "timestamp": "2026-01-28T05:18:19Z"
-  },
-  {
-    "title": "Federal Reserve may keep rates unchanged for months as economy shows signs of health",
-    "description": "Federal Reserve officials are expected to keep their short-term interest rate unchanged Wednesday after three cuts last year, ignoring huge pressure for lower borrowing costs from the White House in favor of waiting to see how the economy evolves",
-    "link": "https://abcnews.go.com/US/wireStory/federal-reserve-rates-unchanged-months-economy-shows-signs-129624075",
-    "timestamp": "2026-01-28T05:17:31Z"
-  },
-  {
-    "title": "TikTok Disruption In US: Oracle Blames Weather-Related Power Outage",
-    "description": "Oracle says a weather-related power outage at one of its data centres triggered technical issues affecting TikTok users in the US.",
-    "link": "https://www.ndtvprofit.com/technology/tiktok-outage-after-suppression-claims-oracle-explains-what-hit-users-in-us-10897160",
-    "timestamp": "2026-01-28T05:12:58Z"
-  },
-  {
-    "title": "Is Trump\u2019s \u2018Board of Peace\u2019 an effort to curtail Europe\u2019s middle powers?",
-    "description": "Most European countries have declined or demurred on their invitations to the US president's initiative to rebuild Gaza.",
-    "link": "https://www.aljazeera.com/news/2026/1/28/trumps-board-of-peace-an-effort-to-curtail-middle-powers-says-expert",
-    "timestamp": "2026-01-28T05:11:55Z"
   }
 ]
