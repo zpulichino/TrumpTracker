@@ -1,5 +1,35 @@
 [
   {
+    "title": "What are the key challenges awaiting new US Fed chair?",
+    "description": "US President Donald Trump is set to announce his pick to chair the Federal Reserve today, setting up a key shift in the central bank's leadership.",
+    "link": "https://www.rte.ie/news/business/2026/0130/1555900-challenges-facing-new-fed-chief/",
+    "timestamp": "2026-01-30T07:58:17Z"
+  },
+  {
+    "title": "The 8 at 8: Friday",
+    "description": "The impacts of nitrous oxide, more rain warnings and a halt on Russian attacks on Kyiv\u2026",
+    "link": "https://www.thejournal.ie/8-at-8-friday-301-6942417-Jan2026/",
+    "timestamp": "2026-01-30T07:58:13Z"
+  },
+  {
+    "title": "Panama court voids Hong Kong company's port contracts",
+    "description": "Panama's Supreme Court has annulled key port contracts \u2060held by a subsidiary of Hong Kong-based CK Hutchison, leaving the future ownership of some Panama Canal operations unclear and possibly upsetting its plans to sell some terminals.",
+    "link": "https://www.rte.ie/news/2026/0130/1555898-panama-hong-kong/",
+    "timestamp": "2026-01-30T07:57:55Z"
+  },
+  {
+    "title": "CNA Explains: What's behind the separatist push in Canada\u2019s Alberta - and why Trump is paying attention",
+    "description": "US State Department officials have reportedly met the leaders of an Alberta separatist group several times over the past year.",
+    "link": "https://www.channelnewsasia.com/world/trump-canada-alberta-mark-carney-separation-movement-cna-explains-5895931",
+    "timestamp": "2026-01-30T07:51:14Z"
+  },
+  {
+    "title": "Trump says he will announce his Federal Reserve chair nominee on Friday morning",
+    "description": "President said he plans to announce new Federal Reserve chair choice Friday, after criticizing incumbent Jerome Powell for not cutting interest rates more aggressively.",
+    "link": "https://www.npr.org/2026/01/30/g-s1-107913/trump-to-announce-fed-chair-nominee-friday",
+    "timestamp": "2026-01-30T07:51:12Z"
+  },
+  {
     "title": "Bullion\u2019s vertical run is over, Ravi Dharamshi says as gold and silver ETFs slide",
     "description": "Gold and silver\u2019s blistering rally has stalled, with fund manager Ravi Dharamshi warning that bullion\u2019s \u201cnear-vertical rise\u201d has run its course. Precious metals and ETFs tumbled sharply as investors booked profits, global prices retreated, and a stronger doll\u2026",
     "link": "https://economictimes.indiatimes.com/markets/stocks/news/bullions-vertical-run-is-over-ravi-dharamshi-says-as-gold-and-silver-etfs-slide/articleshow/127794833.cms",
@@ -330,15 +360,15 @@
     "timestamp": "2026-01-30T06:00:00Z"
   },
   {
-    "title": "A new dependency: EU confronts energy vulnerability amid Greenland rift",
-    "description": "The European Union is urgently seeking to diversify its natural gas suppliers amid rising tensions with the United States over Greenland. A recent transatlantic trade deal has locked the EU into purchasing hundreds of billions of dollars worth of U.S. energy,\u2026",
-    "link": "https://www.naturalnews.com/2026-01-30-eu-confronts-energy-vulnerability-amid-greenland-rift.html",
-    "timestamp": "2026-01-30T06:00:00Z"
-  },
-  {
     "title": "Set Them Free: A weaponized justice system and the fight for freedom",
     "description": "According to the book \u201cSet Them Free: The Untold Story of America\u2019s J6 Prisoners and the Fight for Justice,\u201d the events of Jan. 6, 2021 were deliberately misrepresented by corporate media and government actors as a violent insurrection, when in reality, it wa\u2026",
     "link": "https://www.naturalnews.com/2026-01-30-set-them-free-weaponized-justice-fight-freedom.html",
+    "timestamp": "2026-01-30T06:00:00Z"
+  },
+  {
+    "title": "A new dependency: EU confronts energy vulnerability amid Greenland rift",
+    "description": "The European Union is urgently seeking to diversify its natural gas suppliers amid rising tensions with the United States over Greenland. A recent transatlantic trade deal has locked the EU into purchasing hundreds of billions of dollars worth of U.S. energy,\u2026",
+    "link": "https://www.naturalnews.com/2026-01-30-eu-confronts-energy-vulnerability-amid-greenland-rift.html",
     "timestamp": "2026-01-30T06:00:00Z"
   },
   {
@@ -402,12 +432,6 @@
     "timestamp": "2026-01-30T05:30:00Z"
   },
   {
-    "title": "Border tsar announces change of ICE tactics in Minneapolis",
-    "description": "US border tsar Tom Homan, newly installed as commander of President Donald Trump\u2019s immigration enforcement surge in Minneapolis, said yesterday that federal agents would focus on targeted operations, shifting away from the broad street sweeps that have drawn \u2026",
-    "link": "https://www.independent.ie/world-news/north-america/border-tsar-announces-change-of-ice-tactics-in-minneapolis/a1790243013.html",
-    "timestamp": "2026-01-30T05:30:00Z"
-  },
-  {
     "title": "Letters: The story of Saipan always leaves out one question \u2013 why were they even there?",
     "description": "I read with interest Miguel Delaney\u2019s article on the Roy Keane/Mick McCarthy controversy in Saipan on the eve of the World Cup in 2002 (\u2018A surprising twist as \u201cSaipan\u201d reopens an old Irish wound \u2013 and adds a new one\u2019, Irish Independent, January 27).",
     "link": "https://www.independent.ie/opinion/letters/letters-the-story-of-saipan-always-leaves-out-one-question-why-were-they-even-there/a1796946626.html",
@@ -417,6 +441,12 @@
     "title": "Donald Trump to name Federal Reserve chair nominee \u2018next week\u2019",
     "description": "US president Donald Trump said he would announce his nominee to chair the Federal Reserve \"next week\" and reiterated his expectation that the central bank's new leader will lower interest rates.",
     "link": "https://www.independent.ie/business/world/donald-trump-to-name-federal-reserve-chair-nominee-next-week/a1411802575.html",
+    "timestamp": "2026-01-30T05:30:00Z"
+  },
+  {
+    "title": "Border tsar announces change of ICE tactics in Minneapolis",
+    "description": "US border tsar Tom Homan, newly installed as commander of President Donald Trump\u2019s immigration enforcement surge in Minneapolis, said yesterday that federal agents would focus on targeted operations, shifting away from the broad street sweeps that have drawn \u2026",
+    "link": "https://www.independent.ie/world-news/north-america/border-tsar-announces-change-of-ice-tactics-in-minneapolis/a1790243013.html",
     "timestamp": "2026-01-30T05:30:00Z"
   },
   {
@@ -508,47 +538,5 @@
     "description": "Gold prices drop over 4% amidst hawkish Fed chair speculation, yet remain on track for January's strongest monthly gain since 1980.",
     "link": "https://www.thehindubusinessline.com/markets/gold/gold-slips-amid-fed-chair-bets-but-still-set-for-best-month-since-1980/article70568804.ece",
     "timestamp": "2026-01-30T05:05:23Z"
-  },
-  {
-    "title": "New challenges ahead: What obstacles await the next US Fed chair?",
-    "description": "President Donald Trump announces his choice for the US Federal Reserve chair today. This appointment marks a significant leadership change at a crucial time. The new head faces challenges of political pressure and economic uncertainty. Senate confirmation wil\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/new-challenges-ahead-what-obstacles-await-the-next-us-fed-chair/articleshow/127791567.cms",
-    "timestamp": "2026-01-30T05:05:17Z"
-  },
-  {
-    "title": "Trump threatens tariffs on any country selling oil to Cuba, a move that puts pressure on Mexico",
-    "description": "President Donald Trump on Thursday signed an executive order that would impose a tariff on any goods from countries that sell or provide oil to Cuba.",
-    "link": "https://nypost.com/2026/01/30/us-news/trump-threatens-tariffs-on-any-country-selling-oil-to-cuba/",
-    "timestamp": "2026-01-30T05:05:11Z"
-  },
-  {
-    "title": "Reading Obituaries: And Murdering Time in the Age of Donald Trump",
-    "description": "Mad hatter Trump is murdering time \u2014 at least, the time we humans have left to live reasonably decent lives on this planet",
-    "link": "https://www.juancole.com/2026/01/reading-obituaries-murdering.html",
-    "timestamp": "2026-01-30T05:04:48Z"
-  },
-  {
-    "title": "Analysis-Barring last-minute nuclear deal, US and Russia teeter on brink of new arms race",
-    "description": "LONDON/WASHINGTON, Jan 30 (Reuters) - The United States and Russia could embark on an unrestrained nuclear arms race for the first time since the Cold War, unless they re\u2026 Leggi",
-    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/30/analysis-barring-last-minute-nuclear-deal-us-and-russia-teeter-on-brink-of-new-arms-race",
-    "timestamp": "2026-01-30T05:04:38Z"
-  },
-  {
-    "title": "Explainer-What is the New START nuclear treaty and why does its expiry matter?",
-    "description": "By Mark TrevelyanJan 30 (Reuters) - The last Russia-U.S. nuclear arms control treaty, known as New START, is due to expire on February 5.Here is a guide to the treaty and\u2026 Leggi",
-    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/30/explainer-what-is-the-new-start-nuclear-treaty-and-why-does-its-expiry-matter",
-    "timestamp": "2026-01-30T05:04:09Z"
-  },
-  {
-    "title": "Trump says he will announce his Federal Reserve chair nominee on Friday morning",
-    "description": "President Donald Trump said he plans to announce his choice for Federal Reserve chairman on Friday morning",
-    "link": "https://abcnews.go.com/Business/wireStory/trump-announce-federal-reserve-chair-nominee-friday-morning-129688272",
-    "timestamp": "2026-01-30T05:01:57Z"
-  },
-  {
-    "title": "Trump says he will announce his Federal Reserve chair nominee on Friday morning",
-    "description": "President Donald Trump said he plans to announce his choice for Federal Reserve chairman on Friday morning",
-    "link": "https://abcnews.go.com/Politics/wireStory/trump-announce-federal-reserve-chair-nominee-friday-morning-129688270",
-    "timestamp": "2026-01-30T05:01:55Z"
   }
 ]
