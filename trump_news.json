@@ -1,5 +1,311 @@
 [
   {
+    "title": "Trump says India won't buy Russian oil anymore. Moscow insists India hasn't said that",
+    "description": "Analysts are skeptical that India will stop buying Russian oil completely.",
+    "link": "https://www.cnbc.com/2026/02/04/trump-india-deal-russia-oil-purchases-kremlin-reaction.html",
+    "timestamp": "2026-02-04T10:04:55Z"
+  },
+  {
+    "title": "Trump raises the price of peace with Harvard to $1 billion",
+    "description": "President Donald Trump has increased his demand for a one billion dollar payment from Harvard University. This escalates a prolonged dispute between the White House and the Ivy League institution. Trump rejected claims that he had dropped the financial demand\u2026",
+    "link": "https://timesofindia.indiatimes.com/education/news/trump-raises-the-price-of-peace-with-harvard-to-1-billion/articleshow/127905780.cms",
+    "timestamp": "2026-02-04T10:04:28Z"
+  },
+  {
+    "title": "Power outages in Russian region after Ukrainian attack \u2013 governor",
+    "description": "Ukrainian drone and artillery strikes severely damaged energy infrastructure in Russia\u2019s Belgorod Region, causing widespread power outages Read Full Article at RT.com",
+    "link": "https://www.rt.com/russia/631947-belgorod-power-outages-attack/",
+    "timestamp": "2026-02-04T10:03:18Z"
+  },
+  {
+    "title": "Here's how the top H-1B sponsor is turning to India as Trump tightens visa rules",
+    "description": "The Google-parent's expansion plan comes amid tighter US immigration policies under Donald Trump. In January this year, Washington announced an indefinite pause on immigrant visa processing for applicants from 75 countries.",
+    "link": "https://www.livemint.com/companies/google-alphabet-h-1b-visa-sponsor-tech-workforce-indians-us-visa-rule-donald-trump-11770196718368.html",
+    "timestamp": "2026-02-04T10:02:09Z"
+  },
+  {
+    "title": "Neither fair nor reasonable to ask China to join nuclear disarmament negotiations at this stage: Chinese FM on Trump's reported call to include China in nuclear arms control talks",
+    "description": "\"China has noted the constructive proposals previously put forward by Russia regarding follow-up arrangements to the New START Treaty and hopes the US will respond positively and genuinely uphold global strategic stability,\" Chinese Foreign Ministry spokesper\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/02/china-260203-globaltimes02.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "China's position not changed on keeping global industrial and supply chains of critical minerals safe and stable: FM on US' plan for strategic stockpile of critical minerals",
+    "description": "Reuters reported that US President Donald Trump announced plans on Monday to launch a strategic stockpile of critical minerals backed by $10 billion in seed funding from the US Export-Import Bank. In response to a request for comment on the fact that the US m\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/02/china-260203-globaltimes03.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Iranian Admiral Warns US Attack Would Trigger Strike on Israel",
+    "description": "Ali Shamkhani, a senior advisor to Iran's Supreme Leader has declared that Tehran views the US and Israel as a single military entity.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-sputnik02.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Iran's foreign minister ramps up regional diplomacy amid tensions with US",
+    "description": "Iranian Foreign Minister Abbas Araghchi has launched a flurry of high-level diplomatic consultations, holding phone talks with his counterparts in Turkey, Qatar, Oman, and Kuwait.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-presstv03.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Israel pressing for Iran strike, Trump remains reluctant: Report",
+    "description": "The Israeli regime has been pressing US President Donald Trump to authorize a strike on Iran, but Trump has remained reluctant, according to a report citing statements from US officials.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-presstv04.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Russian FM slams US threats against Iran as 'unacceptable' as Moscow pushes for de-escalation",
+    "description": "Russian Foreign Minister Sergei Lavrov has condemned new US threats of military action against Iran, warning that any renewed act of aggression would have grave regional and global consequences.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-presstv07.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "China, Russia hold new round of strategic stability consultation as New START Treaty is expiring; Beijing, Moscow show prudent and responsible approach to arms control: Chinese expert",
+    "description": "Chinese Assistant Foreign Minister Liu Bin and Russian Deputy Foreign Minister Sergey Ryabkov on Tuesday co-chaired a new round of China-Russia strategic stability consultation in Beijing. The two sides held in-depth exchanges of views on the current global s\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/02/china-260203-globaltimes01.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Iran finalizes planning for talks with US; venue to be announced: Foreign Ministry",
+    "description": "The Foreign Ministry says preparations have been completed for holding talks with the United States in the coming days, with consultations continuing on the location of the negotiations.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-presstv01.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Qatar: High-level dialogue with Iran ongoing to prevent regional escalation",
+    "description": "Qatar says it is continuing high-level political consultations with Iran and other regional actors in an effort to prevent further escalation of tensions amid warmongering by the United States.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-presstv05.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "China Hopes for Positive US Response to Russia's New START Offer - Report",
+    "description": "China has taken note of the constructive proposal of Russia on the New START (New Strategic Arms Reduction Treaty) and hopes that the United States will respond positively, Chinese Foreign Ministry spokesman Lin Jian said on Tuesday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260203-sputnik04.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Hegseth: US 'Prepared' To Take Action Against Iran",
+    "description": "US Defense Secretary Pete Hegseth has once again warned Tehran that the Pentagon is \"more than prepared\" to take action if Iran refuses to negotiate over its nuclear program.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-rferl03.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Pakistan invited to attend US-Iran talks in Turkiye: Foreign Ministry",
+    "description": "The Ministry of Foreign Affairs of Pakistan has confirmed that Islamabad has been invited to participate in talks between Iran and the US, which are set to take place in Istanbul, Turkiye, later this week.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-irna02.htm",
+    "timestamp": "2026-02-04T10:01:33Z"
+  },
+  {
+    "title": "Delcy Rodriguez Says Venezuela Is 'Calm' a Month After Maduro Capture",
+    "description": "\"Acting President\" of Venezuela Delcy Rodr\u00edguez on Tuesday night said the country is calm a month after U.S. forces captured socialist dictator Nicol\u00e1s Maduro.\nThe post Delcy Rodr\u00edguez Says Venezuela Is \u2018Calm\u2019 a Month After Maduro Capture appeared first on Br\u2026",
+    "link": "https://www.breitbart.com/national-security/2026/02/04/delcy-rodriguez-says-venezuela-is-in-calm-a-month-after-maduro-capture/",
+    "timestamp": "2026-02-04T10:00:12Z"
+  },
+  {
+    "title": "DEAN PHILLIPS: We can fix immigration enforcement without fueling chaos or lawlessness",
+    "description": "Minneapolis ICE operation unifies progressive left with gun-rights advocates and Republicans against enforcement tactics that resulted in deaths and violations.",
+    "link": "https://www.foxnews.com/opinion/dean-phillips-can-fix-immigration-enforcement-without-fueling-chaos-lawlessness",
+    "timestamp": "2026-02-04T10:00:08Z"
+  },
+  {
+    "title": "Former Capitol Police officer Harry Dunn launches another run for Congress in Maryland",
+    "description": "Harry Dunn, a former Capitol Police officer who was on duty during the Jan.",
+    "link": "https://www.nbcnews.com/politics/2026-election/former-capitol-police-officer-harry-dunn-launches-another-run-congress-rcna257319",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "Trump tried to gut science research funding. Courts and Congress have rebuffed him.",
+    "description": "Scientists' worst fears about Trump's cuts to research funding haven't come to pass, thanks to several legal challenges and Congress\u2019 recent rejection of his proposed budget cuts.",
+    "link": "https://www.nbcnews.com/science/science-news/trump-science-research-funding-cuts-congress-rebuffed-rcna256793",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "Is it Too Late to Save Hollywood?",
+    "description": "Kyle Paoletta\n\n\n\nA conversation with A.S. Hamrah about the dispiriting state of the movie business in the post-Covid era.\r\n\n\r\n\n\nThe post Is it Too Late to Save Hollywood? appeared first on The Nation.",
+    "link": "https://www.thenation.com/?post_type=article&p=584778",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "Jill On Money: Warsh named as Fed chair \u2014 Should you care?",
+    "description": "The months-long beauty contest is over: President Donald Trump has named Kevin Warsh to succeed Jerome Powell as Federal Reserve Chair.",
+    "link": "https://rss.tribunecontentagency.com/websvc-bin/rss_story_read.cgi?resid=202602040500TMS_____RETIRESM_58093_ctnrs_20260204",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "'Same fears all over again': ICE crackdown in Minnesota reminds Lititz woman of life as refugee",
+    "description": "Earlier this month, Fairy Diamond applied to the U.S. Department of State to obtain passports for herself, her husband and her 9-month-old daughter. The Diamonds have no international travel plans; the 31-year-old stay-at-home mom from Lititz says she just wa\u2026",
+    "link": "https://lancasteronline.com/news/local/same-fears-all-over-again-ice-crackdown-in-minnesota-reminds-lititz-woman-of-life-as/article_ef622454-ab4e-4a5f-9fb5-ca286861e630.html",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "Ryan Routh, convicted of trying to assassinate Donald Trump, to be sentenced",
+    "description": "A Secret Service agent saw Ryan Routh with a rifle at a golf course in Florida and fired on him in 2024 as Trump was golfing. He was found guilty of attempting to assassinate a presidential candidate.",
+    "link": "https://www.npr.org/2026/02/04/nx-s1-5693102/ryan-routh-sentence-assassination-attempt-donald-trump",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "A former Democrat and the Trump factor scramble Michigan's race for governor",
+    "description": "DETROIT \u2014 Michigan could do something this fall that it hasn\u2019t done in more than 65 years: elect a Democrat to succeed a Democratic governor",
+    "link": "https://www.nbcnews.com/politics/2026-election/former-democrat-trump-factor-scramble-michigans-race-governor-rcna257083",
+    "timestamp": "2026-02-04T10:00:00Z"
+  },
+  {
+    "title": "US Treasury Issues License to Sell US-Made Oil Diluents to Venezuela - OFAC",
+    "description": "MOSCOW (Sputnik) - The US Treasury has issued a general license to sell American-made oil diluents to Venezuela, the Office of Foreign Assets Control (OFAC) said.",
+    "link": "https://sputnikglobe.com/20260204/us-treasury-issues-license-to-sell-us-made-oil-diluents-to-venezuela---ofac-1123578091.html",
+    "timestamp": "2026-02-04T09:58:32Z"
+  },
+  {
+    "title": "Colombian President Says Ready to Supply Electricity to Venezuela",
+    "description": "MEXICO CITY (Sputnik) - Colombia is ready to start supplying electricity to Venezuela, all the necessary capabilities already exist, Colombian President Gustavo Petro stated after a meeting with US President Donald Trump.",
+    "link": "https://sputnikglobe.com/20260204/colombian-president-says-ready-to-supply-electricity-to-venezuela-1123577726.html",
+    "timestamp": "2026-02-04T09:55:11Z"
+  },
+  {
+    "title": "US-backed group seeks major stake in DR Congo mining sector",
+    "description": "Glencore has announced a deal to sell a minority stake in its mining projects in the DR Congo to the Orion Critical Mineral Consortium Read Full Article at RT.com",
+    "link": "https://www.rt.com/africa/631943-us-backed-group-seeks-major-stake-dr-congo-minerals/",
+    "timestamp": "2026-02-04T09:55:10Z"
+  },
+  {
+    "title": "Made in the USA: How American-Built Weapons Have Wrought Destruction in Gaza",
+    "description": "To stay up to date on our latest investigations, join Bellingcat\u2019s WhatsApp channel\u00a0here On the night of Jan. 7 this year, three 250-pound bombs smashed into an apartment block in the Al Tuffah neighbourhood of northern Gaza. Footage of the aftermath shows wa\u2026",
+    "link": "https://www.bellingcat.com/news/2026/02/04/made-in-the-usa-how-american-built-weapons-have-wrought-destruction-in-gaza/",
+    "timestamp": "2026-02-04T09:54:48Z"
+  },
+  {
+    "title": "Donald Trump's 'Joke' Takes Darkest Of Turns On 'The Daily Show'",
+    "description": "Michael Kosta argued \"it's pretty clear that Trump is not joking\" when it comes to one \"scary\" thing",
+    "link": "https://www.huffpost.com/entry/michael-kosta-donald-trump-jokes_n_69830dcbe4b07fd36aeabcab",
+    "timestamp": "2026-02-04T09:52:46Z"
+  },
+  {
+    "title": "Israel to Support Attack on Iran If It Fails to Reach Broad Agreement With US - Reports",
+    "description": "MOSCOW (Sputnik) - Israel will support an attack on Iran if the agreement between Tehran and Washington does not include measures to limit ballistic missile production and Iran's support for proxy groups in the region, the Financial Times newspaper reported, \u2026",
+    "link": "https://sputnikglobe.com/20260204/israel-to-support-attack-on-iran-if-it-fails-to-reach-broad-agreement-with-us---reports-1123577526.html",
+    "timestamp": "2026-02-04T09:51:14Z"
+  },
+  {
+    "title": "How Seahawks built Super Bowl 60 roster, from Sam Darnold signing to 'Dark Side' defense",
+    "description": "The Seahawks' unlikely path to Super Bowl 60 included a complete re-tooling of the offense.",
+    "link": "https://www.sportingnews.com/us/nfl/seattle-seahawks/news/seahawks-super-bowl-60-roster-sam-darnold/646acec895712b43f5bbb984",
+    "timestamp": "2026-02-04T09:50:01Z"
+  },
+  {
+    "title": "World Trade Organization must 'reform or die'",
+    "description": "Successfully reforming the WTO is a matter of life and death for the organization, warns the facilitator of talks on revamping the global trade body.",
+    "link": "https://www.hurriyetdailynews.com/world-trade-organization-must-reform-or-die-218574",
+    "timestamp": "2026-02-04T09:47:44Z"
+  },
+  {
+    "title": "Fact check: How videos are recycled for political purposes",
+    "description": "Old images, current crises: DW shows how recycling old content works, and how you can quickly recognize disinformation and build media literacy.",
+    "link": "https://www.dw.com/en/fact-check-how-videos-are-recycled-for-political-purposes/a-75589380",
+    "timestamp": "2026-02-04T09:43:00Z"
+  },
+  {
+    "title": "US Accepts Iran's Request to Move Talks From Turkiye - Reports",
+    "description": "MOSCOW (Sputnik) - The administration of US President Donald Trump has accepted Tehran's request to move talks on the Iranian nuclear program from Turkiye to Oman, Axios journalist Barak Ravid reported on Wednesday, citing a source.",
+    "link": "https://sputnikglobe.com/20260204/us-accepts-irans-request-to-move-talks-from-turkiye---reports-1123577090.html",
+    "timestamp": "2026-02-04T09:42:15Z"
+  },
+  {
+    "title": "Trump scolds CNN reporter for not smiling as she asks about Epstein abuse survivors",
+    "description": "\u2018I\u2019ve known you for ten years. I don\u2019t think I\u2019ve ever seen a smile on your face,\u2019 Trump tells Kaitlan Collins during Oval Office event",
+    "link": "https://www.irishtimes.com/world/us/2026/02/04/trump-scolds-cnn-reporter-for-not-smiling-as-she-asks-about-epstein-abuse-survivors/",
+    "timestamp": "2026-02-04T09:41:00Z"
+  },
+  {
+    "title": "Iran's Network Of Proxies 'Activated' As Possible War With US Looms",
+    "description": "When Israel and the United States conducted an intensive bombing campaign in Iran last year, Tehran's regional network of armed proxies and partners largely stood on the sidelines.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-rferl01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Ukraine Accuses Russia Of 'Winter Genocide' After Fresh Strikes On Energy Sites",
+    "description": "Ukraine has accused Russia of committing \"winter genocide\" after another round of massive air strikes targeted energy and civilian infrastructure.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/02/ukraine-260203-rferl01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "U.S. still seeks to take over Greenland, despite resumption of diplomatic talks: Greenlandic PM",
+    "description": "Despite the resumption of diplomatic talks with the U.S. government, Washington's desire to take over Greenland remains, the island's Prime Minister Jens-Frederik Nielsen said in an interview with Danish Broadcasting Corporation (DR) published Tuesday.",
+    "link": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260204-pdo01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "India has made no official move to halt Russian oil imports: Kremlin",
+    "description": "The Kremlin says it has received no official statement from India about halting purchases of Russian oil, despite US President Donald Trump's claim that New Delhi would stop buying the country's crude as part of a deal with Washington",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260203-presstv01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Iranian surveillance drone successfully completes mission in intl. waters amid reports of US sabotage",
+    "description": "An Iranian Armed Forces' patrol and surveillance drone has successfully completed its mission in international waters amid reports of United States forces' downing one such aircraft.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-presstv02.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "U.S.-Iran drone encounter clouds prospects for talks",
+    "description": "A drone belonging to Iran's armed forces completed a \"surveillance mission\" in international waters Tuesday, Iranian media reported, shortly after the U.S. military said it had shot down an Iranian aircraft that \"aggressively approached\" an aircraft carrier.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260204-pdo01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Potential U.S.-Iran nuclear talks face mixed signals amid rising tensions",
+    "description": "Plans for potential U.S.-Iran nuclear negotiations remain uncertain as reports of an upcoming meeting in Istanbul were questioned by Iranian officials, while both sides continue to exchange warnings and bolster military deployments amid rising regional tensio\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-pdo01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Russia warns of military measures if US deploys weapons in Greenland",
+    "description": "Russia has warned it will take military countermeasures if the United States moves ahead with its controversial plans to deploy weapons in Greenland.",
+    "link": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260203-presstv03.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Hezbollah leader warns of 'existential threat' amid US-Israeli disarmament push",
+    "description": "Hezbollah Secretary-General Sheikh Naim Qassem has warned that a US-Israeli push to disarm the resistance in Lebanon is a calculated prelude to the annihilation of the Lebanese nation.",
+    "link": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260203-presstv05.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Russia's New START Offer Still 'On The Table,' But No US Response Yet - Kremlin",
+    "description": "Russia's initiative on the New START (New Strategic Arms Reduction Treaty) is still \"on the table,\" but Moscow has not yet received any response from the United States, Kremlin spokesman Dmitry Peskov said on Tuesday.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2026/02/russia-260203-sputnik03.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Witkoff In Middle East For Talks Aimed At Making Progress On Nuclear Deal With Iran",
+    "description": "US envoy Steve Witkoff met with Israeli officials for more than three hours on February 3, two days before a key meeting in Istanbul with Iranian Foreign Minister Abbas Araqchi in an attempt to jumpstart negotiations on Tehran's nuclear program and tamp down \u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260203-rferl02.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "Russian Strikes On Ukraine Test Diplomacy As US Congress Presses For Action",
+    "description": "The Kremlin's resumption of its campaign of air strikes on Ukraine's energy infrastructure ignited a firestorm of bipartisan calls on Capitol Hill for immediate action to support Kyiv, but a more measured response from the White House.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/02/ukraine-260204-rferl01.htm",
+    "timestamp": "2026-02-04T09:37:27Z"
+  },
+  {
+    "title": "India-US trade deal redraws the playbook for Indian exporters",
+    "description": "A surprise US tariff cut by President Donald Trump has reshaped plans for Indian exporters. Garment makers are halting overseas moves and reopening price talks with American buyers. This shift means discounts will end, leading to revised invoices or upcharges\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-redraws-the-playbook-for-indian-exporters/articleshow/127905300.cms",
+    "timestamp": "2026-02-04T09:33:28Z"
+  },
+  {
+    "title": "Lorde donates over $200k to Minnesota immigrant funds after ICE clashes",
+    "description": "Lorde has shared that she is donating proceeds from her official merch sales in Minneapolis to funds that support immigrants in Minnesota. Posting to her Instagram stories on 3 February, Lorde shared a photo of her hand with the words \u2018ICE OUT\u2019 written on it \u2026",
+    "link": "https://www.thepinknews.com/2026/02/04/lorde-donate-minnesota-immigrant-funds-ice/",
+    "timestamp": "2026-02-04T09:31:37Z"
+  },
+  {
+    "title": "A new nuclear age beckons as clock ticks down on last Russia-US arms deal",
+    "description": "By Guy Faulconbridge and Mark TrevelyanMOSCOW, Feb 4 (Reuters) - The last nuclear treaty between Russia and the United States is due to expire within hours, raising the r\u2026 Leggi",
+    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/04/a-new-nuclear-age-beckons-as-clock-ticks-down-on-last-russia-us-arms-deal",
+    "timestamp": "2026-02-04T09:27:37Z"
+  },
+  {
     "title": "Move on, says Trump as Epstein files trigger probe in UK",
     "description": "U.S. President Donald Trump made a fresh plea on Feb. 3 for Americans to move on from the Jeffrey Epstein scandal, even as it left a prominent British politician facing a criminal probe on the other side of the Atlantic.",
     "link": "https://www.hurriyetdailynews.com/move-on-says-trump-as-epstein-files-trigger-probe-in-uk-218572",
@@ -102,15 +408,15 @@
     "timestamp": "2026-02-04T09:00:00Z"
   },
   {
-    "title": "Fears mount that Trump administration could meddle in U.S. elections",
-    "description": "Concern is mounting among political observers and critics of U.S. President Donald Trump that his administration is laying the groundwork to meddle in crucial midterm elections that could determine which party controls Congress.",
-    "link": "https://www.cbc.ca/news/world/trump-elections-take-over-states-constitution-analysis-9.7072603",
-    "timestamp": "2026-02-04T09:00:00Z"
-  },
-  {
     "title": "Thousands of Epstein files taken down after some survivors' names and nude photos found",
     "description": "Lawyers for dozens of alleged victims of Jeffrey Epstein immediately noted that, despite the U.S. Department of Justice's promises, some of its published records contained the names or other identifying information of many women who accused Epstein of sex tra\u2026",
     "link": "https://www.cbc.ca/news/investigates/epstein-files-redaction-mistakes-9.7073148",
+    "timestamp": "2026-02-04T09:00:00Z"
+  },
+  {
+    "title": "Fears mount that Trump administration could meddle in U.S. elections",
+    "description": "Concern is mounting among political observers and critics of U.S. President Donald Trump that his administration is laying the groundwork to meddle in crucial midterm elections that could determine which party controls Congress.",
+    "link": "https://www.cbc.ca/news/world/trump-elections-take-over-states-constitution-analysis-9.7072603",
     "timestamp": "2026-02-04T09:00:00Z"
   },
   {
@@ -238,311 +544,5 @@
     "description": "\u2018This is actually true,\u2019 the Daily Show host said of surprise inclusion in newly released documents",
     "link": "https://www.the-independent.com/arts-entertainment/tv/news/jon-stewart-epstein-files-daily-show-b2913552.html",
     "timestamp": "2026-02-04T07:43:19Z"
-  },
-  {
-    "title": "Latest Epstein file dump deepens America\u2019s exhaustion syndrome",
-    "description": "The US is far too battered to fully absorb what the Epstein files have to say about the most powerful tiers of society",
-    "link": "https://www.irishtimes.com/world/us/2026/02/04/latest-epstein-file-dump-deepens-americas-exhaustion-syndrome/",
-    "timestamp": "2026-02-04T07:39:42Z"
-  },
-  {
-    "title": "Nvidia AI chip sales to China stalled by U.S. security review, FT reports",
-    "description": "Nvidia's\u00a0H200\u00a0AI\u00a0chip\u00a0sales\u00a0to\u00a0China\u00a0remain in limbo nearly two months after exports were approved, the Financial Times reported on Tuesday.",
-    "link": "https://www.cnbc.com/2026/02/04/nvidia-ai-chip-sales-to-china-stalled-by-us-security-review-ft-reports.html",
-    "timestamp": "2026-02-04T07:36:36Z"
-  },
-  {
-    "title": "What are 'rare earths' for?",
-    "description": "US is hosting a key meeting on critical minerals with European Union ministers and others. The focus is on rare earths, essential for modern technology. Production of these materials has significantly increased. Rare earths are crucial for wind turbines, figh\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/what-are-rare-earths-for/articleshow/127902930.cms",
-    "timestamp": "2026-02-04T07:35:39Z"
-  },
-  {
-    "title": "Ford & Geely in talks for manufacturing, tech partnership",
-    "description": "Ford and China's Geely are in discussions about a potential partnership, eight people with knowledge of the ongoing talks said, as the world's carmakers look to share heavier technology and manufacturing costs.",
-    "link": "https://www.rte.ie/news/business/2026/0204/1556653-ford-and-geely-in-manufacturing-talks/",
-    "timestamp": "2026-02-04T07:35:07Z"
-  },
-  {
-    "title": "KPop Demon Hunters Still Top The Daily LITG, 4th Of February, 2026",
-    "description": "KPop Demon Hunters taking over was the most-read story on Bleeding Cool yesterday, again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a \u2026",
-    "link": "https://bleedingcool.com/collectibles/kpop-demon-hunters-still-top-the-daily-litg-4th-of-february-2026/",
-    "timestamp": "2026-02-04T07:22:08Z"
-  },
-  {
-    "title": "AXISCADES secures US orders worth \u20b913.5 crore after India-US trade deal",
-    "description": "The Bengaluru-based technology company says the orders came from a leading US homeland security firm and a global marketing and audience engagement company",
-    "link": "https://www.thehindubusinessline.com/info-tech/axiscades-secures-us-orders-worth-135-crore-after-india-us-trade-deal/article70590690.ece",
-    "timestamp": "2026-02-04T07:13:46Z"
-  },
-  {
-    "title": "US refiners struggle to absorb sudden surge in Venezuelan crude oil imports",
-    "description": "Oil refiners on the U.S. Gulf Coast are struggling to absorb a rapid surge in Venezuelan crude shipments since last month\u2019s flagship $2 billion supply deal between Caracas and \u200bWashington, pressuring prices and leaving some volumes unsold, according to trader\u2026",
-    "link": "https://www.thehindubusinessline.com/economy/us-refiners-struggle-to-absorb-sudden-surge-in-venezuelan-crude-oil-imports/article70590226.ece",
-    "timestamp": "2026-02-04T07:11:42Z"
-  },
-  {
-    "title": "Trump says talks with Iran continuing amid tensions",
-    "description": "US President Donald Trump has said that talks with Iran are continuing to try to de-escalate tensions in the Gulf.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-says-talks-with-iran-continuing-amid-tensions",
-    "timestamp": "2026-02-04T07:11:06Z"
-  },
-  {
-    "title": "Russia-Ukraine war: Second round of peace talks set to begin in Abu Dhabi",
-    "description": "The main sticking point in the negotiations continues to be the long-term fate of territory in eastern Ukraine.",
-    "link": "https://www.aljazeera.com/news/2026/2/4/russia-ukraine-war-second-round-of-peace-talks-set-to-begin-in-abu-dhabi",
-    "timestamp": "2026-02-04T07:10:12Z"
-  },
-  {
-    "title": "India Safeguarded Interests Of Farmers, Dairy In US Trade Deal: Goyal",
-    "description": "A lack of details regarding the India-US trade deal was flagged by Opposition leaders in Parliament.",
-    "link": "https://www.ndtvprofit.com/economy/india-safeguarded-interests-of-farmers-dairy-producers-in-us-trade-deal-piyush-goyal-10943492",
-    "timestamp": "2026-02-04T07:08:56Z"
-  },
-  {
-    "title": "Indian IT stocks take a beating as AI automation tools signal an agentic shift",
-    "description": "Shares of Tata Consultancy Services Ltd, Infosys Ltd, HCL Technologies Ltd, Wipro Ltd, and Tech Mahindra Ltd were down big in early trade after American AI firm Palantir launched a new tool that threatens an important revenue stream of these companies.",
-    "link": "https://www.livemint.com/industry/infotech/nifty-it-crash-palantir-hivemind-ai-anthropic-claude-cowork-11770180782493.html",
-    "timestamp": "2026-02-04T07:04:34Z"
-  },
-  {
-    "title": "Trump Says He Was Unaware Of Abu Dhabi Royal\u2019s $500 Million WLFI Investment",
-    "description": "Reports say a wealthy Abu Dhabi investor bought a near-half stake in a crypto company tied to the Trump family. The transaction, reported to be worth about $500 million, involved an entity linked to Sheikh Tahnoon bin Zayed Al Nahyan. It has prompted question\u2026",
-    "link": "http://www.newsbtc.com/news/trump-says-he-was-unaware-of-abu-dhabi-royals-500-million-wlfi-investment/",
-    "timestamp": "2026-02-04T07:00:46Z"
-  },
-  {
-    "title": "Trump urges public to 'get on to something else' amid political fallout from Epstein files",
-    "description": "The latest release of the files left Former British ambassador to Washington Peter Mandelson facing a criminal probe.",
-    "link": "https://www.thejournal.ie/trump-urges-public-to-get-on-to-something-else-after-latest-epstein-files-release-6946218-Feb2026/",
-    "timestamp": "2026-02-04T06:57:08Z"
-  },
-  {
-    "title": "Steeper discounts on Russian oil test India's response to US trade deal",
-    "description": "Indian refiners are seeing larger discounts on Russian oil. This comes as a trade deal with the US requires India to reduce its purchases of Russian crude. Traders report discounts exceeding ten dollars a barrel. The situation leaves refiners seeking clarific\u2026",
-    "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/steeper-discounts-on-russian-oil-test-indias-response-to-us-trade-deal/articleshow/127902011.cms",
-    "timestamp": "2026-02-04T06:56:55Z"
-  },
-  {
-    "title": "BofA lifts near\u2011term rupee forecast by 2% to 88.60\u201389 after US trade deal",
-    "description": "Bank of America expects the rupee to strengthen to 88.60\u201389.00 by March-end after a landmark U.S.\u2013India trade deal triggered its sharpest gain in seven years. The Rupee\u2019s rebound follows months of pressure from foreign outflows, though BofA says RBI is unlike\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/bofa-lifts-nearterm-rupee-forecast-by-2-to-88-6089-after-u-s-trade-deal/articleshow/127902273.cms",
-    "timestamp": "2026-02-04T06:53:14Z"
-  },
-  {
-    "title": "Trump\u2019s Judicial Nominees Signal Their Loyalty to Him, Endangering Us All",
-    "description": "In the United States, we rely on fair and independent judges to protect our rights and freedom. They are central to the system of checks and balances we all learned about in school. But there\u2019s a disturbing new trend: President Donald Trump\u2019s nominees to be f\u2026",
-    "link": "https://www.counterpunch.org/2026/02/04/trumps-judicial-nominees-signal-their-loyalty-to-him-endangering-us-all/",
-    "timestamp": "2026-02-04T06:52:51Z"
-  },
-  {
-    "title": "US sends troops to Nigeria after December airstrikes",
-    "description": "The US deploys a small team of troops to Nigeria to support counterterrorism efforts following airstrikes on terrorist targets in December 2025.\n\nRead More: https://punchng.com/us-sends-troops-to-nigeria-after-december-airstrikes/",
-    "link": "https://punchng.com/us-sends-troops-to-nigeria-after-december-airstrikes/",
-    "timestamp": "2026-02-04T06:52:29Z"
-  },
-  {
-    "title": "'Monster's Paradise': The New Opera That Brutally Lampoons Trump",
-    "description": "The opera features a gluttonous, ravenous, insatiable President-King, mocking the president.",
-    "link": "https://www.huffpost.com/entry/donald-trump-opera-monsters-paradise_n_6982e4bde4b053ac3e15de50",
-    "timestamp": "2026-02-04T06:49:01Z"
-  },
-  {
-    "title": "India-US trade deal will protect farmers' interests & sensitive sectors: Piyush Goyal elaborates pact in Lok Sabha",
-    "description": "India has finalized a trade agreement with the United States after a year of negotiations, securing favorable tariff treatment for its exporters. The pact aims to boost Indian businesses, including MSMEs and farmers, by expanding market access in the US while\u2026",
-    "link": "https://economictimes.indiatimes.com/news/economy/agriculture/india-us-trade-deal-will-protect-farmers-interests-and-sensitive-sectors-says-piyush-goyal-as-he-elaborates-pact-in-lok-sabha/articleshow/127902043.cms",
-    "timestamp": "2026-02-04T06:44:05Z"
-  },
-  {
-    "title": "Peter Schiff Takes Aim At Crypto Bulls After Sharp Rebound In Gold",
-    "description": "Schiff comments came after the precious metal recovered on Tuesday following a sharp retreat over the past two sessions.",
-    "link": "https://www.ndtvprofit.com/markets/that-didnt-take-long-peter-schiff-takes-aim-at-crypto-bulls-warns-those-who-bet-against-gold-after-sharp-rebound-10942987",
-    "timestamp": "2026-02-04T06:40:59Z"
-  },
-  {
-    "title": "'Truly Unhinged': Critics Rip Trump After Uncomfortably 'Weird Exchange' With Reporter",
-    "description": "Trump is facing heavy criticism over comments he made to CNN's Kaitlan Collins.",
-    "link": "https://www.huffpost.com/entry/trump-kaitlan-collins-smile-reaction_n_6982cdece4b074c50785b319",
-    "timestamp": "2026-02-04T06:39:36Z"
-  },
-  {
-    "title": "CNBC's UK Exchange newsletter: The pressure\u2019s on Shell to beat once again",
-    "description": "With Shell\u2019s results on the horizon, questions remain over the pace of earnings growth in years to come \u2014 despite evidence that it is one of the best-run companies in its sector.",
-    "link": "https://www.cnbc.com/2026/02/04/cnbcs-uk-exchange-newsletter-the-pressures-on-shell-to-beat-once-again.html",
-    "timestamp": "2026-02-04T06:30:01Z"
-  },
-  {
-    "title": "Trump admin sued by New York, New Jersey over Hudson River tunnel funding freeze: \u2018See you in court\u2019",
-    "description": "New York and New Jersey are suing the Trump administration after accusing the feds of \"illegally withholding\" $16 billion in funding for the Gateway project.",
-    "link": "https://www.foxnews.com/politics/trump-admin-sued-new-york-new-jersey-over-hudson-river-tunnel-funding-freeze-see-you-court",
-    "timestamp": "2026-02-04T06:25:49Z"
-  },
-  {
-    "title": "India\u2013US trade deal to boost leather, footwear exports: CLE",
-    "description": "The announcement of the India-US trade deal came on the heels of the conclusion of a free trade pact with the European Union last month. The India-EU FTA is expected to be implemented in this year",
-    "link": "https://www.thehindubusinessline.com/companies/indiaus-trade-deal-to-boost-leather-footwear-exports-cle/article70590171.ece",
-    "timestamp": "2026-02-04T06:25:28Z"
-  },
-  {
-    "title": "Kennedy Center workers still in the dark as orchestra scouts other venues - The Washington Post",
-    "description": "Kennedy Center workers still in the dark as orchestra scouts other venuesThe Washington Post Trump\u2019s Kennedy Center Shutdown Plan Jolts Workers and PerformersThe New York Times Which Washington Landmark Will Donald Trump Destroy Next?The Atlantic Trump hints \u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=180729104",
-    "timestamp": "2026-02-04T06:12:07Z"
-  },
-  {
-    "title": "Review of World Affairs",
-    "description": "* United Nations Faces \u2018Imminent Financial Collapse.\u2019 * Iran\u2019s Military Drill By Shashi P.B.B. Malla United Nations The United Nations\u2019 [\u2026]\nThe post Review of World Affairs appeared first on Peoples' Review.",
-    "link": "https://mypeoplesreview.com/2026/02/04/review-of-world-affairs-80/",
-    "timestamp": "2026-02-04T06:11:30Z"
-  },
-  {
-    "title": "Brothers of Renee Good call for action in Congress",
-    "description": "The brothers of Renee Good, killed by federal immigration officers in Minneapolis, called on Congress to do something about the violence on American streets as a result of immigration operations.",
-    "link": "https://www.npr.org/2026/02/04/g-s1-108617/brothers-renee-good-congress",
-    "timestamp": "2026-02-04T06:09:37Z"
-  },
-  {
-    "title": "On rare earth supply, Trump looks beyond America",
-    "description": "The United States is leading a collaborative effort with more than 50 countries to safeguard crucial mineral supplies necessary for cutting-edge technology. China's grip on these resources raises alarms, prompting this strategic initiative focused on facilita\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/on-rare-earth-supply-trump-looks-beyond-america/articleshow/127901192.cms",
-    "timestamp": "2026-02-04T06:04:09Z"
-  },
-  {
-    "title": "Plans for new ballroom at Trump Doonbeg should support \u2018both people and snails\u2019",
-    "description": "Several mentions of protected Vertigo angustior snail included in submissions to Clare council, with many locals backing proposed development",
-    "link": "https://www.irishtimes.com/ireland/2026/02/04/plans-for-new-ballroom-at-trump-doonbeg-should-support-both-people-and-snails/",
-    "timestamp": "2026-02-04T06:00:01Z"
-  },
-  {
-    "title": "Kathy Sheridan: Sinn F\u00e9in is deliberately being obtuse about EU plan to help Ukraine",
-    "description": "It\u2019s not a simple question of spending money on services here or bolstering Ukraine\u2019s defence",
-    "link": "https://www.irishtimes.com/opinion/2026/02/04/kathy-sheridan-sinn-fein-is-deliberately-being-obtuse-about-eu-plan-to-help-ukraine/",
-    "timestamp": "2026-02-04T06:00:01Z"
-  },
-  {
-    "title": "George Mitchell-Jeffrey Epstein links: why is former US senator\u2019s name being removed at Queen\u2019s?",
-    "description": "The speed at which Queen\u2019s severed ties with  its former chancellor has drawn support - and criticism",
-    "link": "https://www.irishtimes.com/politics/2026/02/04/george-mitchell-jeffrey-epstein-links-why-is-former-us-senators-name-being-removed-at-queens/",
-    "timestamp": "2026-02-04T06:00:01Z"
-  },
-  {
-    "title": "Michael McDowell: Irish people fail to understand how fragile our electricity supply is",
-    "description": "We have ruled out nuclear and gas exploration, and stalled on wind energy. Our dependence on gas energy will continue until 2050 at the earliest",
-    "link": "https://www.irishtimes.com/opinion/2026/02/04/michael-mcdowell-irish-people-fail-to-understand-how-fragile-our-electricity-supply-is/",
-    "timestamp": "2026-02-04T06:00:01Z"
-  },
-  {
-    "title": "CREDIT AGRICOLE SA: Fourth quarter 2025 and full-year 2025 results - DYNAMIC ACTIVITY AND STRONG RESULTS IN 2025",
-    "description": "This press release comments on the results of Cr\u00e9dit Agricole S.A. and those of Cr\u00e9dit Agricole Group, which comprises the Cr\u00e9dit Agricole S.A. entities and the Cr\u00e9dit Agricole Regional Banks, which own 63.5% of Cr\u00e9dit Agricole S.A.",
-    "link": "https://www.globenewswire.com/news-release/2026/02/04/3231749/0/en/CREDIT-AGRICOLE-SA-Fourth-quarter-2025-and-full-year-2025-results-DYNAMIC-ACTIVITY-AND-STRONG-RESULTS-IN-2025.html",
-    "timestamp": "2026-02-04T06:00:00Z"
-  },
-  {
-    "title": "A world without nuclear arms control begins tomorrow",
-    "description": "New Start treaty, which expires on Thursday, capped the number of missiles and warheads in US and Russian arsenals",
-    "link": "https://www.irishtimes.com/world/us/2026/02/04/a-world-without-nuclear-arms-control-begins-tomorrow/",
-    "timestamp": "2026-02-04T06:00:00Z"
-  },
-  {
-    "title": "EU seeks critical minerals partnership with U.S. to break China\u2019s supply chain dominance",
-    "description": "The EU will propose a critical minerals partnership to the U.S. this week. The goal is to jointly secure supply chains and reduce dependence on China. The U.S. is launching its own $12 billion stockpile project with major companies. A new audit reveals the EU\u2026",
-    "link": "https://www.naturalnews.com/2026-02-04-eu-critical-minerals-partnership-china-dominance.html",
-    "timestamp": "2026-02-04T06:00:00Z"
-  },
-  {
-    "title": "House passes stopgap funding bill to avert shutdown",
-    "description": "The U.S. House narrowly passed a $1.2 trillion bipartisan funding package (217-214), ending a partial government shutdown. President Trump signed it the same day, funding most agencies through Sept. 30, except the Department of Homeland Security (DHS). The bi\u2026",
-    "link": "https://www.naturalnews.com/2026-02-04-house-passes-stopgap-funding-bill-to-avert-shutdown.html",
-    "timestamp": "2026-02-04T06:00:00Z"
-  },
-  {
-    "title": "Bank of England set to hold rates as global volatility muddies the waters",
-    "description": "Britain's central bank is still battling inflation above the 2 percent target.",
-    "link": "https://www.politico.eu/article/bank-of-england-set-to-hold-rates-as-global-volatility-muddies-the-waters/",
-    "timestamp": "2026-02-04T06:00:00Z"
-  },
-  {
-    "title": "Human Rights Watch warns US heading to 'authoritarianism'",
-    "description": "Trump's return to the White House has intensified a \"downward spiral\" on human rights, says Human Rights Watch.",
-    "link": "https://www.channelnewsasia.com/world/human-rights-watch-warns-us-authoritarianism-5906041",
-    "timestamp": "2026-02-04T05:56:00Z"
-  },
-  {
-    "title": "Trump Addresses Disappearance Of Savannah Guthrie\u2019s Mother",
-    "description": "The president called the disappearance of Nancy Guthrie a \"terrible thing.\"",
-    "link": "https://www.huffpost.com/entry/donald-trump-savannah-guthrie_n_6982dcebe4b053ac3e15c91e",
-    "timestamp": "2026-02-04T05:55:38Z"
-  },
-  {
-    "title": "India made long push with Trump behind scenes to clinch US Deal",
-    "description": "Behind the scenes, India\u2019s national security adviser worked diplomatically to mend ties with the US, advocating for a trade agreement amid rising tensions and public criticism from President Trump",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-04/india-made-long-push-with-trump-behind-scenes-to-clinch-us-deal",
-    "timestamp": "2026-02-04T05:54:55Z"
-  },
-  {
-    "title": "How can someone in midst of legal process to stay be deported? And other questions about America's confusing immigration laws | The Spokesman Review",
-    "description": "President Donald Trump campaigned in 2024 on a promise to crack down on illegal border crossings and conduct a \u201cmass deportation\u201d of unauthorized immigrants unlike anything the United States had seen before. Jeff Feldman, associate teaching professor of law a\u2026",
-    "link": "https://www.spokesman.com/stories/2026/feb/01/immigration-law-is-confusing-heres-what-you-need-t/",
-    "timestamp": "2026-02-04T05:47:01Z"
-  },
-  {
-    "title": "Who is Deepak Chopra, the Indian-American mentioned in the Jeffrey Epstein files and what do the emails reveal? Here are the details",
-    "description": "Deepak Chopra, a well-known Indian-American author and wellness expert, has found himself at the center of a controversy after his names appeared in the newly released Jeffrey Epstein files. Deepak Chopra was born in New Delhi and later moved to the US in 197\u2026",
-    "link": "https://economictimes.indiatimes.com/news/new-updates/who-is-deepak-chopra-the-indian-american-mentioned-in-the-jeffrey-epstein-files-and-what-do-the-emails-reveal-here-are-the-details/articleshow/127900867.cms",
-    "timestamp": "2026-02-04T05:46:08Z"
-  },
-  {
-    "title": "Judge set to hear arguments as court gives Trump another shot at nixing hush money conviction",
-    "description": "A federal judge is set to hear arguments as he again weighs a legal maneuver that could lead to President Donald Trump having his hush money conviction erased",
-    "link": "https://abcnews.go.com/US/wireStory/judge-set-hear-arguments-court-trump-shot-nixing-129839092",
-    "timestamp": "2026-02-04T05:41:59Z"
-  },
-  {
-    "title": "Gokaldas Exports shares surge over 40% in two days after India-US trade deal",
-    "description": "Gokaldas Exports shares have surged over 40% in two sessions after India and the US announced a landmark trade deal cutting tariffs to 18%. With the US contributing nearly 70% of its revenue, the company stands to benefit significantly. The stock also shows s\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/gokaldas-exports-shares-surge-over-40-in-two-days-after-india-us-trade-deal/articleshow/127900783.cms",
-    "timestamp": "2026-02-04T05:38:37Z"
-  },
-  {
-    "title": "Donald Trump To Sit Down With Anchor Tom Llamas For Super Bowl Pregame And 'Nightly News' Interview (Ted Johnson/Deadline)",
-    "description": "Ted Johnson / Deadline:\nDonald Trump To Sit Down With Anchor Tom Llamas For Super Bowl Pregame And \u2018Nightly News\u2019 Interview\u00a0 \u2014\u00a0 Donald Trump will sit down for an interview with NBC Nightly News anchor Tom Llamas, with a portion of the interview set to air as \u2026",
-    "link": "https://www.memeorandum.com/260204/p1",
-    "timestamp": "2026-02-04T05:35:00Z"
-  },
-  {
-    "title": "China warns Panama as Hong Kong firm contests ruling on canal ports",
-    "description": "China calls court ruling against Hong Kong firm CK Hutchison on Panama Canal ports 'absurd' and 'shameful'.",
-    "link": "https://www.aljazeera.com/news/2026/2/4/china-warns-panama-as-hong-kong-firm-contests-ruling-on-canal-ports",
-    "timestamp": "2026-02-04T05:34:02Z"
-  },
-  {
-    "title": "Nicki Minaj sparks outrage after homophobic jab at Grammys host, Trevor Noah",
-    "description": "The Grammys are usually remembered for big wins, bold fashion, and viral performances. This year, the headlines shifted fast. What started as a joke in the opening monologue quickly turned into one of the most heated pop culture debates of the night after Nic\u2026",
-    "link": "https://thechronicle.com.gh/nicki-minaj-sparks-outrage-after-homophobic-jab-at-grammys-host-trevor-noah/",
-    "timestamp": "2026-02-04T05:33:55Z"
-  },
-  {
-    "title": "Trump administration presses efforts to ensure supply of critical minerals outside of China",
-    "description": "The Trump administration is expected to unveil its grandest yet plan to rebuild the supply chains of critical minerals for everything from jet engines to smartphones",
-    "link": "https://abcnews.go.com/Technology/wireStory/trump-administration-presses-efforts-ensure-supply-critical-minerals-129839060",
-    "timestamp": "2026-02-04T05:33:52Z"
-  },
-  {
-    "title": "Trump administration presses efforts to ensure supply of critical minerals outside of China",
-    "description": "The Trump administration is expected to unveil its grandest yet plan to rebuild the supply chains of critical minerals for everything from jet engines to smartphones",
-    "link": "https://abcnews.go.com/Business/wireStory/trump-administration-presses-efforts-ensure-supply-critical-minerals-129839054",
-    "timestamp": "2026-02-04T05:33:51Z"
-  },
-  {
-    "title": "Trump administration presses efforts to ensure supply of critical minerals outside of China",
-    "description": "The Trump administration is expected to unveil its grandest yet plan to rebuild the supply chains of critical minerals for everything from jet engines to smartphones",
-    "link": "https://abcnews.go.com/US/wireStory/trump-administration-presses-efforts-ensure-supply-critical-minerals-129839051",
-    "timestamp": "2026-02-04T05:33:50Z"
-  },
-  {
-    "title": "Donald Trump\u2019s call to \u2018nationalise\u2019 elections provokes furious response",
-    "description": "US president Donald Trump\u2019s call for Republicans to \u201cnationalise\u201d elections drew pushback yesterday, including from a few Republicans, as Democrats voiced fresh concern that he intends to interfere with the November mid-terms that will determine control of Co\u2026",
-    "link": "https://www.independent.ie/world-news/north-america/donald-trumps-call-to-nationalise-elections-provokes-furious-response/a307216428.html",
-    "timestamp": "2026-02-04T05:30:00Z"
   }
 ]
