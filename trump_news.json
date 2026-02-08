@@ -1,5 +1,47 @@
 [
   {
+    "title": "Donald Trump is still weird",
+    "description": "Democrats have moved away from the useful insult, but that doesn\u2019t make it less true",
+    "link": "https://www.salon.com/2026/02/07/donald-trump-is-still-weird/",
+    "timestamp": "2026-02-07T11:30:38Z"
+  },
+  {
+    "title": "The Trump phone seems to be real after all \u2013 and we just got our best look yet at it",
+    "description": "Trump Mobile executives have shown off the latest look of the Trump T1 phone in an interview with The Verge.",
+    "link": "https://www.techradar.com/phones/the-trump-phone-seems-to-be-real-after-all-and-we-just-got-our-best-look-yet-at-it",
+    "timestamp": "2026-02-07T11:30:00Z"
+  },
+  {
+    "title": "Epstein revelations have toppled top figures in Europe while US fallout is more muted",
+    "description": "The Jeffrey Epstein files have rocked Europe's elite, revealing ties to a prince, an ambassador, and top politicians",
+    "link": "https://abcnews.go.com/International/wireStory/epstein-revelations-toppled-top-figures-europe-us-fallout-129944882",
+    "timestamp": "2026-02-07T11:25:54Z"
+  },
+  {
+    "title": "Anti-Trump performers litter Super Bowl LX in California",
+    "description": "The NFL hopes it can unite fans on Sunday during Super Bowl LX, but those who have been outspoken against President Trump and his administration are set to perform at the game.",
+    "link": "https://www.foxnews.com/sports/anti-trump-performers-litter-super-bowl-lx-california",
+    "timestamp": "2026-02-07T11:25:34Z"
+  },
+  {
+    "title": "The Bloodbath at Washington Post Is All Jeff Bezos\u2019s Fault",
+    "description": "Billionaires like Bezos and Trump have no real interest in a free press \u2014 particularly when massive profits are on the line.\nThe post The Bloodbath at Washington Post Is All Jeff Bezos\u2019s Fault appeared first on The Intercept.",
+    "link": "https://theintercept.com/2026/02/07/washington-post-layoffs-jeff-bezos/",
+    "timestamp": "2026-02-07T11:11:00Z"
+  },
+  {
+    "title": "Analysis:Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty",
+    "description": "NEW YORK, Feb 7 : Bitcoin could drop further\u00a0 after wiping out all of its price gains since the election of U.S. President Donald Trump as liquidity is expected to remain thin for the near future.Bitcoin's slump alongside other digital asset prices coincides \u2026",
+    "link": "https://www.channelnewsasia.com/business/analysisbitcoin-loses-trump-era-gains-crypto-market-volatility-signals-uncertainty-5914576",
+    "timestamp": "2026-02-07T11:05:07Z"
+  },
+  {
+    "title": "From Trump to Epstein, how Brad Karp lost his grip on law firm Paul Weiss\u200b",
+    "description": "By Mike Spector and David ThomasFeb 7 (Reuters) - Brad Karp, the chairman of high-powered U.S. law firm Paul Weiss, joined other prominent Democratic fundraisers at elect\u2026 Leggi",
+    "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/07/from-trump-to-epstein-how-brad-karp-lost-his-grip-on-law-firm-paul-weiss",
+    "timestamp": "2026-02-07T11:02:33Z"
+  },
+  {
     "title": "Grant guidelines for libraries and museums take \u201cchilling\u201d political turn under Trump",
     "description": "Alarm grows that new funding guidelines could encourage a more constrained or distorted view of American history.",
     "link": "https://www.salon.com/2026/02/07/grant-guidelines-for-libraries-and-museums-take-chilling-political-turn-under-trump-partner/",
@@ -78,12 +120,6 @@
     "timestamp": "2026-02-07T10:24:02Z"
   },
   {
-    "title": "Trump signs tariff threat against Iran's trade partners shortly after high-stakes talks in Oman",
-    "description": "US President Donald Trump has signed an executive order threatening additional tariffs on countries that continue to trade with Iran, shortly after Iranian and American representatives held indirect talks in Muscat on Tehran's nuclear energy program and sanct\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260207-presstv01.htm",
-    "timestamp": "2026-02-07T10:19:03Z"
-  },
-  {
     "title": "Vance Heads to Armenia, Azerbaijan As US Pushes Peace, Trade, And Minerals Strategy",
     "description": "US Vice President JD Vance will visit Armenia and Azerbaijan to reinforce a US-brokered peace deal and advance a strategic transit corridor Washington sees as central to reshaping trade, energy, and influence across the South Caucasus.",
     "link": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260206-rferl01.htm",
@@ -96,15 +132,21 @@
     "timestamp": "2026-02-07T10:19:03Z"
   },
   {
-    "title": "Washington Seeks New Path On Nuclear Arms As Treaty With Russia Expires",
-    "description": "The New Strategic Arms Reduction Treaty (New START), the final remaining bilateral agreement limiting US and Russian nuclear arsenals, expired on February 5, closing a chapter that began in the Cold War and survived its end.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/usa/2026/usa-260206-rferl01.htm",
+    "title": "Trump signs tariff threat against Iran's trade partners shortly after high-stakes talks in Oman",
+    "description": "US President Donald Trump has signed an executive order threatening additional tariffs on countries that continue to trade with Iran, shortly after Iranian and American representatives held indirect talks in Muscat on Tehran's nuclear energy program and sanct\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/02/iran-260207-presstv01.htm",
     "timestamp": "2026-02-07T10:19:03Z"
   },
   {
     "title": "As Promised, War Department Moving Out Fast on Drone Dominance",
     "description": "The War Department announced Feb. 3 the selection of 25 vendors who will help the department achieve its goal of getting some 300,000 drones into the force, both quickly and inexpensively, by 2027.",
     "link": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260206-dodnews03.htm",
+    "timestamp": "2026-02-07T10:19:03Z"
+  },
+  {
+    "title": "Washington Seeks New Path On Nuclear Arms As Treaty With Russia Expires",
+    "description": "The New Strategic Arms Reduction Treaty (New START), the final remaining bilateral agreement limiting US and Russian nuclear arsenals, expired on February 5, closing a chapter that began in the Cold War and survived its end.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/usa/2026/usa-260206-rferl01.htm",
     "timestamp": "2026-02-07T10:19:03Z"
   },
   {
@@ -162,15 +204,15 @@
     "timestamp": "2026-02-07T10:00:00Z"
   },
   {
-    "title": "Some Iranians rally behind the regime, but public anger runs deep after protest crackdown",
-    "description": "Supporters of Iran's supreme leader, Ayatollah Ali Khamenei, rallied to support him in Tehran this walks as talks took place with the U.S.",
-    "link": "https://www.nbcnews.com/world/iran/iran-protests-crackdown-ayatollah-khamenei-supporters-tehran-rcna257541",
-    "timestamp": "2026-02-07T10:00:00Z"
-  },
-  {
     "title": "Shipyard Bosses Forced to Pay Overtime to Get People to Stay for Pete Hegseth Speech",
     "description": "\u201cThey issued a polling sheet this morning to see who would attend and, at least from my crew, there were no takers.\u201d\nThe post Shipyard Bosses Forced to Pay Overtime to Get People to Stay for Pete Hegseth Speech appeared first on The Intercept.",
     "link": "https://theintercept.com/2026/02/07/pete-hegseth-speech-overtime-pay-maine-biw/",
+    "timestamp": "2026-02-07T10:00:00Z"
+  },
+  {
+    "title": "Some Iranians rally behind the regime, but public anger runs deep after protest crackdown",
+    "description": "Supporters of Iran's supreme leader, Ayatollah Ali Khamenei, rallied to support him in Tehran this walks as talks took place with the U.S.",
+    "link": "https://www.nbcnews.com/world/iran/iran-protests-crackdown-ayatollah-khamenei-supporters-tehran-rcna257541",
     "timestamp": "2026-02-07T10:00:00Z"
   },
   {
@@ -240,15 +282,15 @@
     "timestamp": "2026-02-07T09:00:01Z"
   },
   {
-    "title": "TikTok creators flock to UpScrolled app after U.S. takeover. Here's why",
-    "description": "Thousands of creators are deleting TikTok and flocking elsewhere just days after a change in ownership and mounting claims of widespread censorship and shadowbanning, or reduced reach, on the app.",
-    "link": "https://www.cbc.ca/news/world/upscrolled-app-tiktok-users-downloading-censorship-9.7073441",
-    "timestamp": "2026-02-07T09:00:00Z"
-  },
-  {
     "title": "Daily life will be impacted if pre-clearance at remote border crossings ends, residents say",
     "description": "Residents of remote communities along the Canada-U.S. border are asking Ottawa not to scrap a trusted traveller border entry program that pre-clears them, making it easier to travel into Ontario and Manitoba without reporting to a customs checkpoint. The prog\u2026",
     "link": "https://www.cbc.ca/news/canada/manitoba/canada-remote-border-crossing-program-9.7076440",
+    "timestamp": "2026-02-07T09:00:00Z"
+  },
+  {
+    "title": "TikTok creators flock to UpScrolled app after U.S. takeover. Here's why",
+    "description": "Thousands of creators are deleting TikTok and flocking elsewhere just days after a change in ownership and mounting claims of widespread censorship and shadowbanning, or reduced reach, on the app.",
+    "link": "https://www.cbc.ca/news/world/upscrolled-app-tiktok-users-downloading-censorship-9.7073441",
     "timestamp": "2026-02-07T09:00:00Z"
   },
   {
@@ -532,53 +574,5 @@
     "description": "There is also strong support for inserting guarantee of neutrality into Constitution",
     "link": "https://www.irishtimes.com/ireland/2026/02/07/three-quarters-of-voters-back-social-media-ban-for-under-16s/",
     "timestamp": "2026-02-07T06:00:01Z"
-  },
-  {
-    "title": "Daniel Geary: One by one, powerful men are being damaged by the Epstein files. But not Trump\u2019s friends",
-    "description": "Is it possible that the US department of justice is withholding evidence that would damage Trump and his political allies?",
-    "link": "https://www.irishtimes.com/opinion/2026/02/07/powerful-men-are-being-damaged-by-the-epstein-files-but-not-trumps-friends/",
-    "timestamp": "2026-02-07T06:00:00Z"
-  },
-  {
-    "title": "Trump acknowledges need for softer immigration tactics following fatal Minneapolis incidents",
-    "description": "President Donald Trump said his administration may need a \u201csofter touch\u201d in immigration enforcement following the fatal shootings of two U.S. citizens by federal agents in Minneapolis. The January deaths of Renee Good and Alex Pretti triggered national protes\u2026",
-    "link": "https://www.naturalnews.com/2026-02-07-trump-acknowledges-need-for-softer-immigration-tactics.html",
-    "timestamp": "2026-02-07T06:00:00Z"
-  },
-  {
-    "title": "Explaining Every Beef Mentioned in 50 Cent's Super Bowl 2026 Commercial: What Does Each Item Mean?",
-    "description": "50 Cent\u2018s 2026 Super Bowl commercial is going viral for its nods to the rapper\u2019s many long-standing feuds with other rappers. He stars in a new Door Dash commercial framed around his reputation for trolling, even joking that he\u2019s been called the \u201cKing of Trol\u2026",
-    "link": "https://www.justjared.com/2026/02/07/explaining-every-beef-mentioned-in-50-cents-super-bowl-2026-commercial-what-does-each-item-mean/",
-    "timestamp": "2026-02-07T05:57:04Z"
-  },
-  {
-    "title": "Investor angst turns to earnings after trade clouds clear",
-    "description": "Indian stocks are navigating challenges despite trade agreements. Corporate earnings growth is lagging, and foreign investors are looking elsewhere. Recent AI advancements also impact tech giants. While trade deals offer some relief, the focus remains on stra\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/investor-angst-turns-to-earnings-after-trade-clouds-clear/articleshow/128021914.cms",
-    "timestamp": "2026-02-07T05:51:03Z"
-  },
-  {
-    "title": "U.S. plans first meeting for Gaza 'Board of Peace' in Washington on Feb 19, Axios reports",
-    "description": "The White House is planning the first leaders meeting for President Donald Trump's so-called &quot;Board of Peace&quot; in \u200crelation to Gaza on February 19, Axios reported on Friday, citing a U.S. official and diplomats from four countries that are on the boa\u2026",
-    "link": "https://japantoday.com/category/world/us-plans-meeting-for-gaza-%27board-of-peace%27-in-washington-on-feb-19-axios-reports",
-    "timestamp": "2026-02-07T05:50:48Z"
-  },
-  {
-    "title": "Hegseth ending military education ties with Harvard amid Trump feud: 'We train warriors, not wokesters'",
-    "description": "War Secretary Pete Hegseth announced Friday that military education programs with Harvard University will end in the 2026-27 academic year.",
-    "link": "https://www.foxnews.com/politics/hegseth-ending-military-education-ties-harvard-amid-trump-feud-we-train-warriors-not-wokesters",
-    "timestamp": "2026-02-07T05:49:17Z"
-  },
-  {
-    "title": "Cairns says Ireland must not \"bow down to bullies\"",
-    "description": "The Social Democrats leader Holly Cairns has this morning insisted Ireland must not \"bow down to bullies\" when Taoiseach Micheal Martin meets with US president Donald Trump at the White House on St Patrick's Day.",
-    "link": "https://www.rte.ie/news/ireland/2026/0207/1557210-social-democrats-conference/",
-    "timestamp": "2026-02-07T05:48:08Z"
-  },
-  {
-    "title": "Ireland must not 'bow down to bullies' - Soc Dems leader",
-    "description": "The Social Democrats leader Holly Cairns has insisted Ireland must not \"bow down to bullies\" when Taoiseach Miche\u00e1l Martin meets with US President Donald Trump at the White House on St Patrick's Day.",
-    "link": "https://www.rte.ie/news/politics/2026/0207/1557210-social-democrats-conference/",
-    "timestamp": "2026-02-07T05:48:08Z"
   }
 ]
