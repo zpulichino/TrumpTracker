@@ -1,5 +1,53 @@
 [
   {
+    "title": "Iran says no country can deprive it of enrichment rights",
+    "description": "TEHRAN: Iran's atomic energy chief Mohammad Eslami said no country can deprive the Islamic republic of its right to nuclear enrichment, after United States President Donald Trump again hinted at military action follow",
+    "link": "https://www.channelnewsasia.com/world/iran-nuclear-enrichment-no-country-can-deprive-5940086",
+    "timestamp": "2026-02-19T09:52:00Z"
+  },
+  {
+    "title": "Air Force One will be painted red, white and blue as Trump hinted, US military says",
+    "description": "The U.S. military says a red, white and blue color scheme championed by President Donald Trump will become the new look for Air Force One",
+    "link": "https://abcnews.com/US/wireStory/air-force-painted-red-white-blue-trump-hinted-130283713",
+    "timestamp": "2026-02-19T09:49:24Z"
+  },
+  {
+    "title": "US-Iran news: Tehran has '10 to 15 days' to reach a deal: Trump",
+    "description": "The White House said there are many \"reasons and arguments that one could make for a strike against Iran\" but that diplomacy is always the first option. It comes as the US rapidly builds up a military presence near Iran.",
+    "link": "https://www.dw.com/en/us-iran-news-tehran-has-10-to-15-days-to-reach-a-deal-trump/live-76029737",
+    "timestamp": "2026-02-19T09:42:00Z"
+  },
+  {
+    "title": "US-Iran news: Trump dials up pressure amid diplomatic talks",
+    "description": "The White House said there are many \"reasons and arguments that one could make for a strike against Iran\" but that diplomacy is always the first option. It comes as the US rapidly builds up a military presence near Iran.",
+    "link": "https://www.dw.com/en/us-iran-news-trump-dials-up-pressure-amid-diplomatic-talks/live-76029737",
+    "timestamp": "2026-02-19T09:42:00Z"
+  },
+  {
+    "title": "Trump remains undecided on Iran strike, as U.S. considers 'weeks-long' attack",
+    "description": "According to reports, President Donald Trump has been informed that the U.S. military is prepared to launch a strike on Iran by the end of the coming weekend for a 'weeks-long' campaign to overthrow the government, or a more limited one to target ballistic an\u2026",
+    "link": "https://www.haaretz.com/us-news/2026-02-19/ty-article/.premium/trump-remains-undecided-on-iran-strike-as-u-s-considers-weeks-long-attack/0000019c-74ef-d631-a3de-7defeadc0000",
+    "timestamp": "2026-02-19T09:23:29Z"
+  },
+  {
+    "title": "Trump visits Georgia: Marjorie Taylor Greene issues statement before president's visit",
+    "description": "In a social media post ahead of the president\u2019s visit, Greene suggested that the White House and Republicans are \u201con the struggle bus\u201d ahead of the State of the Union address and 2026 midterm elections.",
+    "link": "https://www.wsbtv.com/news/local/ahead-trumps-visit-former-district-marjorie-taylor-greene-says-partys-struggle-bus/HSAX5ELYB5HE7BC5UYGTTGDIWE/",
+    "timestamp": "2026-02-19T09:23:08Z"
+  },
+  {
+    "title": "Authoritarians, strongmen and dictators: Who is on Donald Trump\u2019s Board of Peace?",
+    "description": "Representatives of repressive regimes from around the world are flying to Washington for the inaugural meeting of the body",
+    "link": "https://www.irishtimes.com/world/us/2026/02/19/authoritarians-strongmen-and-dictators-who-is-on-donald-trumps-board-of-peace/",
+    "timestamp": "2026-02-19T09:18:52Z"
+  },
+  {
+    "title": "United States is being too complacent about Iran and oil prices",
+    "description": "US officials may be overconfident about oil prices in a potential US-Iran conflict. Despite last year\u2019s limited impact on oil after Trump bombed Iranian nuclear facilities, past stability doesn\u2019t guarantee future calm, experts warn. High US shale output, stra\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/united-states-in-being-too-complacent-about-iran-and-oil-prices/articleshow/128549289.cms",
+    "timestamp": "2026-02-19T09:06:39Z"
+  },
+  {
     "title": "Iran and the US lean into gunboat diplomacy as nuclear talks hang in balance",
     "description": "Iran and the United States are both applying naval pressure to the talks over Tehran's nuclear program",
     "link": "https://abcnews.com/International/wireStory/iran-us-lean-gunboat-diplomacy-nuclear-talks-hang-130291650",
@@ -288,6 +336,18 @@
     "timestamp": "2026-02-19T06:00:01Z"
   },
   {
+    "title": "U.S. announces withdrawal of ALL remaining troops from Syria amid rising tensions with Iran",
+    "description": "The U.S. has begun withdrawing its remaining 1,000 troops from Syria in a phased two-month process, handing over key bases (Al Tanf Garrison and Al-Shaddadi) to the Syrian government, now controlled by Hayat Tahrir al-Sham (HTS), an al-Qaeda offshoot. The wit\u2026",
+    "link": "https://www.naturalnews.com/2026-02-19-us-announces-withdrawal-all-remaining-troops-syria.html",
+    "timestamp": "2026-02-19T06:00:00Z"
+  },
+  {
+    "title": "DHS spokeswoman Tricia McLaughlin announces departure from agency amid mounting public backlash",
+    "description": "Tricia McLaughlin, DHS assistant secretary for public affairs, announced her departure following public criticism of the Trump administration\u2019s aggressive deportation and ICE enforcement tactics. Her exit signals potential shifts in the administration\u2019s appro\u2026",
+    "link": "https://www.naturalnews.com/2026-02-19-dhs-spokeswoman-mclaughlin-announces-departure-from-agency.html",
+    "timestamp": "2026-02-19T06:00:00Z"
+  },
+  {
     "title": "Former Israeli PM calls Tucker Carlson a \u00e2\u0080\u009cphony\u00e2\u0080\u009d over airport detention claims",
     "description": "Tucker Carlson claims Israeli security detained and questioned him after an interview. Israeli authorities and the U.S. Embassy deny any detention occurred. Former Israeli PM Naftali Bennett called Carlson a liar in a scathing personal attack. The incident hi\u2026",
     "link": "https://www.naturalnews.com/2026-02-19-israeli-pm-tucker-carlson-airport-detention.html",
@@ -303,18 +363,6 @@
     "title": "Zelensky slams peace talks: \u201cWe don\u2019t have time for this\u201d",
     "description": "Ukrainian President Vladimir Zelensky sharply criticized ongoing peace negotiations with Russia during the Feb. 17 to 18 talks in Geneva, saying progress has been insufficient. The U.S.-mediated meetings addressed military and diplomatic issues, but Zelensky \u2026",
     "link": "https://www.naturalnews.com/2026-02-19-zelensky-slams-peace-talks-with-russia.html",
-    "timestamp": "2026-02-19T06:00:00Z"
-  },
-  {
-    "title": "U.S. announces withdrawal of ALL remaining troops from Syria amid rising tensions with Iran",
-    "description": "The U.S. has begun withdrawing its remaining 1,000 troops from Syria in a phased two-month process, handing over key bases (Al Tanf Garrison and Al-Shaddadi) to the Syrian government, now controlled by Hayat Tahrir al-Sham (HTS), an al-Qaeda offshoot. The wit\u2026",
-    "link": "https://www.naturalnews.com/2026-02-19-us-announces-withdrawal-all-remaining-troops-syria.html",
-    "timestamp": "2026-02-19T06:00:00Z"
-  },
-  {
-    "title": "DHS spokeswoman Tricia McLaughlin announces departure from agency amid mounting public backlash",
-    "description": "Tricia McLaughlin, DHS assistant secretary for public affairs, announced her departure following public criticism of the Trump administration\u2019s aggressive deportation and ICE enforcement tactics. Her exit signals potential shifts in the administration\u2019s appro\u2026",
-    "link": "https://www.naturalnews.com/2026-02-19-dhs-spokeswoman-mclaughlin-announces-departure-from-agency.html",
     "timestamp": "2026-02-19T06:00:00Z"
   },
   {
@@ -336,9 +384,9 @@
     "timestamp": "2026-02-19T06:00:00Z"
   },
   {
-    "title": "A new political dynasty taking shape?",
-    "description": "On Wednesday Lara Trump suggested multiple Trump family members are considering future political campaigns. She cites President Donald Trump\u2019s influence as a primary inspiration for the family. Lara Trump has personally considered Senate runs in North Carolin\u2026",
-    "link": "https://www.naturalnews.com/2026-02-19-a-new-political-dynasty-taking-shape.html",
+    "title": "U.S. military poised for Iran strike as nuclear talks stall, Russian drills begin",
+    "description": "Diplomatic talks between the U.S. and Iran have stalled, with no agreement on nuclear demands. The U.S. is mobilizing a major naval force near Iran, including two aircraft carriers. American military sources indicate preparedness for a large-scale strike as e\u2026",
+    "link": "https://www.naturalnews.com/2026-02-19-military-iran-strike-nuclear-talks-drills.html",
     "timestamp": "2026-02-19T06:00:00Z"
   },
   {
@@ -348,9 +396,9 @@
     "timestamp": "2026-02-19T06:00:00Z"
   },
   {
-    "title": "U.S. military poised for Iran strike as nuclear talks stall, Russian drills begin",
-    "description": "Diplomatic talks between the U.S. and Iran have stalled, with no agreement on nuclear demands. The U.S. is mobilizing a major naval force near Iran, including two aircraft carriers. American military sources indicate preparedness for a large-scale strike as e\u2026",
-    "link": "https://www.naturalnews.com/2026-02-19-military-iran-strike-nuclear-talks-drills.html",
+    "title": "A new political dynasty taking shape?",
+    "description": "On Wednesday Lara Trump suggested multiple Trump family members are considering future political campaigns. She cites President Donald Trump\u2019s influence as a primary inspiration for the family. Lara Trump has personally considered Senate runs in North Carolin\u2026",
+    "link": "https://www.naturalnews.com/2026-02-19-a-new-political-dynasty-taking-shape.html",
     "timestamp": "2026-02-19T06:00:00Z"
   },
   {
@@ -490,65 +538,5 @@
     "description": "Washington, D.C. Mayor Muriel Bowser (D) declared a public emergency and requested support from the federal government regarding the ongoing Potomac River sewage crisis.\nThe post D.C. Mayor Muriel Bowser Requests Federal Support in Potomac Sewage Crisis appea\u2026",
     "link": "https://www.breitbart.com/politics/2026/02/18/d-c-mayor-muriel-bowser-requests-federal-support-in-potomac-sewage-crisis/",
     "timestamp": "2026-02-19T04:40:37Z"
-  },
-  {
-    "title": "Has Marco Rubio Found the Secret to a Free Cuba?",
-    "description": "On Monday night, while talking to reporters aboard Air Force One, someone asked President Donald Trump about Cuba. \"They'll make a deal,\" he said. \"Cuba is right now a failed nation, and they don't even have jet fuel for airplanes to take off. They're cloggin\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4367424/posts",
-    "timestamp": "2026-02-19T04:37:03Z"
-  },
-  {
-    "title": "GOP strategist short-circuits after CNN host throws his words back in his face",
-    "description": "A GOP strategist melted down on Wednesday after a CNN host threw his own words back in his face. Shermichael Singleton, a GOP strategist, was a panelist on CNN's \"NewsNight\" with Abby Phillip, where the panel got into a heated debate about President Donald Tr\u2026",
-    "link": "https://www.rawstory.com/gop-2675282705/",
-    "timestamp": "2026-02-19T04:25:58Z"
-  },
-  {
-    "title": "US futures retreat after Nvidia-led rally, oil prices rise",
-    "description": "US futures retreat after Nvidia-led rally, oil prices risewhio.com",
-    "link": "https://www.whio.com/news/business/asian-shares-advance/TD6BGX43ZM4AZJND3MUQHELXOQ/",
-    "timestamp": "2026-02-19T04:24:13Z"
-  },
-  {
-    "title": "\u2018Reckless\u2019: Trump Is Now Talking Nuclear Weapons amid Mounting Concern over Capacity",
-    "description": "Americans have been concerned about US president Donald Trump for some time now \u2013 not just in terms of policy such as the use of the National Guard and ICE raids, but around his capacity and fitness to serve in the top job per the 25th amendment.Mental health\u2026",
-    "link": "https://www.indy100.com/politics/trump/trump-nuclear-weapons-tests-pentagon",
-    "timestamp": "2026-02-19T04:24:11Z"
-  },
-  {
-    "title": "After brutal crackdown: US imposes new visa restrictions on Iranian officials",
-    "description": "Trump administration imposes new visa restrictions on 18 Iranian officials and telecom leaders following last month\u2019s brutal crackdown on anti-regime protesters.",
-    "link": "https://www.israelnationalnews.com/news/422639",
-    "timestamp": "2026-02-19T04:23:24Z"
-  },
-  {
-    "title": "U.S. military pushes more weaponry into the Middle East for possible strikes on Iran",
-    "description": "WASHINGTON \u2014 The Pentagon is sending a slew of additional weaponry to the Middle East, including more warships, air defenses and submarines, in preparation for a possible military strike on Iran if President Donald Trump makes that decision, according to U.S.\u2026",
-    "link": "https://www.nbcnews.com/world/iran/us-military-pushes-weaponry-middle-east-possible-strikes-iran-rcna259632",
-    "timestamp": "2026-02-19T04:21:43Z"
-  },
-  {
-    "title": "Rubio plans to update Netanyahu on US-Iran talks in Israel next week, officials say",
-    "description": "Secretary of State Marco Rubio plans to travel to Israel next week to update Israeli Prime Minister Benjamin Netanyahu on the U.S.-Iran nuclear talks",
-    "link": "https://abcnews.com/US/wireStory/rubio-plans-update-netanyahu-us-iran-talks-israel-130285644",
-    "timestamp": "2026-02-19T04:21:30Z"
-  },
-  {
-    "title": "Microsoft says it does not think US ICE uses firm's tech for mass surveillance of civilians",
-    "description": "The statement from the \u200ctechnology company came \u2060in \u2060response to a report by The Guardian that said ICE deepened its reliance on Microsoft's cloud technology last year as the \u200bagency ramped up arrest and deportation operations. The newspaper cited leaked docu\u2026",
-    "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-says-it-does-not-think-us-ice-uses-firms-tech-for-mass-surveillance-of-civilians/articleshow/128538596.cms",
-    "timestamp": "2026-02-19T04:21:24Z"
-  },
-  {
-    "title": "Microsoft says it does not think US ICE uses firm's tech for mass surveillance of civilians",
-    "description": "WASHINGTON, Feb 18 : Microsoft said on Wednesday it did not think the U.S. Immigration and Customs Enforcement agency was using its technology for mass surveillance of civilians but added that it provided cloud-based productivity and collaboration tools to IC\u2026",
-    "link": "https://www.channelnewsasia.com/business/microsoft-says-it-does-not-think-us-ice-uses-firms-tech-mass-surveillance-civilians-5939551",
-    "timestamp": "2026-02-19T04:21:12Z"
-  },
-  {
-    "title": "Trump weighs plan to kill Iranian leaders \u2013 WSJ",
-    "description": "US President Donald Trump is weighing options for a military attack on Iran, the Wall Street Journal said Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/632755-trump-briefed-iran-strikes/",
-    "timestamp": "2026-02-19T04:13:22Z"
   }
 ]
