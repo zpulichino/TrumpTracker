@@ -1,5 +1,83 @@
 [
   {
+    "title": "America's hottest NIMBY issue: Data centers",
+    "description": "As politicians can't ignore data centers anymore, everyone from Bernie Sanders to Ron DeSantis is turning against them.",
+    "link": "https://www.businessinsider.com/americas-hottest-nimby-issue-data-centers-sanders-desantis-2026-2",
+    "timestamp": "2026-02-22T09:13:01Z"
+  },
+  {
+    "title": "Trump sending hospital ship to Greenland \u2018to care for the sick\u2019",
+    "description": "US President Donald Trump has said he is sending a hospital ship to Greenland Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/632886-trump-greenland-hospital-ship/",
+    "timestamp": "2026-02-22T09:08:07Z"
+  },
+  {
+    "title": "Iran, U.S. diverge on sanctions relief: Iranian official tells Reuters",
+    "description": "Tehran can consider exporting part of its uranium stockpile, a senior Iranian official tells Reuters.",
+    "link": "https://www.cnbc.com/2026/02/22/iran-us-diverge-on-sanctions-relief-iranian-official-tells-reuters.html",
+    "timestamp": "2026-02-22T09:07:49Z"
+  },
+  {
+    "title": "Iranian Official Says Indirect Talks With US Expected in Early March - Reports",
+    "description": "MOSCOW (Sputnik) - A senior Iranian official said that indirect talks between Iran and the US are expected in early March, Reuters reported on Sunday.",
+    "link": "https://sputnikglobe.com/20260222/iranian-official-says-indirect-talks-with-us-expected-in-early-march---reports-1123670065.html",
+    "timestamp": "2026-02-22T09:02:05Z"
+  },
+  {
+    "title": "US Troops in Middle East Being Redeployed for New Missions, Not Evacuated - Reports",
+    "description": "MOSCOW (Sputnik) - Hundreds of US troops stationed at military bases in Qatar and Bahrain have been redeployed for other missions and operations, not evacuated, the New York Times reported.",
+    "link": "https://sputnikglobe.com/20260222/us-troops-in-middle-east-being-redeployed-for-new-missions-not-evacuated---reports-1123669952.html",
+    "timestamp": "2026-02-22T09:00:09Z"
+  },
+  {
+    "title": "Syrian Canadians waited years to return. For many, coming home has been harder than leaving",
+    "description": "It's been a little over a year since the fall of Bashar al-Assad in Syria ended a 14-year civil war. More than 1.3 million Syrians have returned home since then, according to the UN refugee agency, primarily from neighbouring countries such as Turkey, Lebanon\u2026",
+    "link": "https://www.cbc.ca/news/world/syria-canadian-return-home-9.7094102",
+    "timestamp": "2026-02-22T09:00:00Z"
+  },
+  {
+    "title": "Why Kate Barr is campaigning in North Carolina as a 'fake Republican'",
+    "description": "Kate Barr, a progressive, is attempting to become the Republican candidate for Congress in North Carolina\u2019s 14th district, a conservative stronghold.",
+    "link": "https://www.cbc.ca/news/world/fake-republican-kate-barr-9.7095820",
+    "timestamp": "2026-02-22T09:00:00Z"
+  },
+  {
+    "title": "Minnesota Democrats should pay \u2018reparations\u2019 \u2013 Vance",
+    "description": "US Vice President J.D. Vance has urged Minnesota Democrats to pay \u201creparations\u201d for the alleged Somali-linked fraud schemes Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/632885-vance-demands-reparations-for-somali/",
+    "timestamp": "2026-02-22T08:49:18Z"
+  },
+  {
+    "title": "DHS suspends TSA PreCheck, Global Entry as partial government shutdown continues",
+    "description": "TSA PreCheck and Global Entry services suspended starting Sunday due to government shutdown affecting Department of Homeland Security operations.",
+    "link": "https://www.foxnews.com/politics/dhs-suspends-tsa-precheck-global-entry-partial-government-shutdown-continues",
+    "timestamp": "2026-02-22T08:47:33Z"
+  },
+  {
+    "title": "Jairam Ramesh defends Rahul Gandhi, slams Kiren Rijiju\u2019s \u2018security\u2019 charge",
+    "description": "Congress leader Jairam Ramesh defended Rahul Gandhi. He stated Gandhi is a responsible parliamentarian. Ramesh refuted Union Minister Kiren Rijiju's claims. Rijiju alleged Gandhi is dangerous for India's security. Ramesh highlighted Gandhi raising national se\u2026",
+    "link": "https://economictimes.indiatimes.com/news/politics-and-nation/jairam-ramesh-defends-rahul-gandhi-slams-kiren-rijijus-security-charge/articleshow/128670819.cms",
+    "timestamp": "2026-02-22T08:44:49Z"
+  },
+  {
+    "title": "DHS agent killed US citizen in March last year, records reveal",
+    "description": "Texas shooting appears to be \u200bthe first known instance of US citizen being killed during Trump's immigration crackdown.",
+    "link": "https://www.aljazeera.com/news/2026/2/22/dhs-agent-killed-us-citizen-in-march-last-year-records-reveal",
+    "timestamp": "2026-02-22T08:38:02Z"
+  },
+  {
+    "title": "Letters to the editor",
+    "description": "Herald readers sound off on \"Trump Derangement Syndrome,\" Puerto Rico's power blackouts, and calls for voter ID.",
+    "link": "https://www.bostonherald.com/2026/02/22/letters-to-the-editor-760/",
+    "timestamp": "2026-02-22T08:37:57Z"
+  },
+  {
+    "title": "India pauses its trade team visit to evaluate US Supreme Court tariff ruling",
+    "description": "Negotiators likely to recalibrate position as experts warn proposed deal may now be more burdensome than the new global 15% tariff",
+    "link": "https://www.thehindubusinessline.com/economy/india-us-to-reschedule-chief-negotiators-meet-on-interim-trade-deal-sources/article70662596.ece",
+    "timestamp": "2026-02-22T08:32:42Z"
+  },
+  {
     "title": "Xi Gains Upper Hand Before Trump Summit After US Tariff Reversal",
     "description": "Chinese President Xi Jinping is heading to the negotiating table with Donald Trump with a boost in bargaining power, after the US leader lost his ability to quickly raise tariffs for nearly any reason.",
     "link": "https://financialpost.com/pmn/business-pmn/xi-gains-upper-hand-before-trump-summit-after-us-tariff-reversal",
@@ -484,83 +562,5 @@
     "description": "The Supreme Court decision striking down President Donald Trump\u2019s sweeping tariffs has added a wrinkle to already complicated U.S.-China relations",
     "link": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
     "timestamp": "2026-02-22T02:21:44Z"
-  },
-  {
-    "title": "CIA retracts intel reports that agency says failed to meet standards for political bias",
-    "description": "CIA Director John Ratcliffe has ordered the retraction or \u201csubstantive revision\u201d of 19 of the agency\u2019s intelligence products after a review determined they failed to meet standards for analytic tradecraft and political independence, the Central Intelligence A\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4367805/posts",
-    "timestamp": "2026-02-22T02:15:53Z"
-  },
-  {
-    "title": "After a rare Supreme Court loss for Trump, here's his record with the bench",
-    "description": "Donald Trump was furious when the US Supreme Court ruled that his use of tariffs was illegal. Here's how earlier cases in that jurisdiction have fared.",
-    "link": "https://www.abc.net.au/news/2026-02-22/rare-loss-for-trump-before-the-supreme-court-his-record/106004520",
-    "timestamp": "2026-02-22T02:13:58Z"
-  },
-  {
-    "title": "Trump\u2019s treasured negotiating edge dulled By tariff defeat",
-    "description": "The Supreme Court has struck down President Trump's global tariffs. This decision significantly limits his ability to use tariffs as a tool for leverage in international dealings. Trump plans to reimpose duties through other means, but these are less flexible\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/trumps-treasured-negotiating-edge-dulled-by-tariff-defeat/articleshow/128662984.cms",
-    "timestamp": "2026-02-22T02:08:02Z"
-  },
-  {
-    "title": "Newsom weighs in on social media age restrictions, citing experience as a parent: \u2018We need help\u2019",
-    "description": "California Gov. Gavin Newsom backs social media age limits, supporting legislation to restrict platform access for teens in bipartisan state bill.",
-    "link": "https://www.foxnews.com/politics/newsom-weighs-social-media-age-restrictions-citing-experience-parent-we-need-help",
-    "timestamp": "2026-02-22T02:06:00Z"
-  },
-  {
-    "title": "Ruling against Trump's tariffs creates new uncertainty in US trade relations with China",
-    "description": "The Supreme Court decision striking down President Donald Trump\u2019s sweeping tariffs has added a wrinkle to already complicated U.S.-China relations.",
-    "link": "https://www.clickondetroit.com/business/2026/02/22/ruling-against-trumps-tariffs-creates-new-uncertainty-in-us-trade-relations-with-china/",
-    "timestamp": "2026-02-22T02:05:39Z"
-  },
-  {
-    "title": "[Ilya Somin] Andrew McCarthy on \"Why Trump's Section 122 Tariffs Are Illegal\"",
-    "description": "NA Within hours of the Supreme Court's decision striking down his massive IEEPA tariffs in our case challenging them, Donald\u2026",
-    "link": "https://reason.com/volokh/2026/02/21/andrew-mccarthy-on-why-trumps-section-122-tariffs-are-illegal/",
-    "timestamp": "2026-02-22T01:58:11Z"
-  },
-  {
-    "title": "Trump announces plans to raise global tariffs to 15%",
-    "description": "WASHINGTON DC: US President Donald Trump has declared that he will increase global tariffs to 15%, following a Supreme Court decision that struck down his previous import tax measures. On Friday, Trump had initially said he would replace the voided tariffs wi\u2026",
-    "link": "https://english.khabarhub.com/2026/22/536150/",
-    "timestamp": "2026-02-22T01:57:39Z"
-  },
-  {
-    "title": "Trump Extends Rare Olive Branch to the Media: \u2018The Press Has Been Relatively Fair to Me Over the Last Year\u2026 Bad, But Not Horrible\u2019",
-    "description": "President Trump gave the mainstream media a rare compliment on Saturday when he said they have been \"relatively fair\" to him since returning to the White House\nThe post Trump Extends Rare Olive Branch to the Media: \u2018The Press Has Been Relatively Fair to Me Ov\u2026",
-    "link": "https://www.mediaite.com/media/trump-extends-rare-olive-branch-to-the-media-the-press-has-been-relatively-fair-to-me-over-the-last-year-bad-but-not-horrible/",
-    "timestamp": "2026-02-22T01:55:02Z"
-  },
-  {
-    "title": "JPMorgan Admits to Closing Over 50 Trump Bank Accounts",
-    "description": "JPMorgan Chase admitted that it closed more than 50 of President Donald Trump's bank accounts after his first term as president concluded.\nThe post JPMorgan Admits to Closing Over 50 Trump Bank Accounts appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2026/02/21/jpmorgan-chase-admitted-that-it-closed-more-than-50-of-president-donald-trumps-bank-accounts-after-his-first-term-as-president-concluded/",
-    "timestamp": "2026-02-22T01:54:19Z"
-  },
-  {
-    "title": "Bongino has expletive-filled meltdown when 3-time Trump voter says term 'absolutely sucks'",
-    "description": "A three-time Donald Trump voter's declaration that the president's current term \"just absolutely sucks\" sent former Trump FBI official Dan Bongino into a tailspin over the weekend.It started when self-identified \"American nationalist\" Evan Kilgore took to X t\u2026",
-    "link": "https://www.rawstory.com/dan-bongino-2675291417/",
-    "timestamp": "2026-02-22T01:40:23Z"
-  },
-  {
-    "title": "Trump Threatens Netflix With 'Consequences' Over Rice Board Seat (Sam Kim/Bloomberg)",
-    "description": "Sam Kim / Bloomberg:\nTrump Threatens Netflix With \u2018Consequences\u2019 Over Rice Board Seat\u00a0 \u2014\u00a0 Donald Trump called on Netflix to fire board member Susan Rice or \u201cpay the consequences,\u201d after she said that Democrats would take action against corporations that \u201ctake\u2026",
-    "link": "https://www.memeorandum.com/260221/p53",
-    "timestamp": "2026-02-22T01:20:00Z"
-  },
-  {
-    "title": "Trump Posts Picture of US \u2018Hospital Boat\u2019 He\u2019s Sending To Greenland For Those Who Are \u2018Not Being Taken Care of There\u2019",
-    "description": "Donald Trump posted an A.I. rendering of a U.S. hospital ship sailing into the sunset on the high seas to announce he was sending medical aid to Greenland.\nThe post Trump Posts Picture of US \u2018Hospital Boat\u2019 He\u2019s Sending To Greenland For Those Who Are \u2018Not Bei\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-posts-picture-of-us-hospital-boat-hes-sending-to-greenland-for-those-who-are-not-being-taken-care-of-there/",
-    "timestamp": "2026-02-22T01:12:38Z"
-  },
-  {
-    "title": "JPMorgan concedes it closed Trump's accounts after Jan. 6 attack (Ken Sweet/Associated Press)",
-    "description": "Ken Sweet / Associated Press:\nJPMorgan concedes it closed Trump's accounts after Jan. 6 attack\u00a0 \u2014\u00a0 JPMorgan Chase acknowledged for the first time that it closed the bank accounts of President Donald Trump and several of his businesses in the political and leg\u2026",
-    "link": "https://www.memeorandum.com/260221/p52",
-    "timestamp": "2026-02-22T01:10:01Z"
   }
 ]
