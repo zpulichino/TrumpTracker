@@ -1,5 +1,413 @@
 [
   {
+    "title": "Reporter's Notebook: Trump's State of the Union becomes political boxing match as Democrats boycott",
+    "description": "Trump's State of the Union becomes political boxing match with theatrical buildup, congressional outbursts, dramatic showmanship, and orchestrated political theater.",
+    "link": "https://www.foxnews.com/politics/reporters-notebook-trumps-state-union-becomes-political-boxing-match-democrats-boycott",
+    "timestamp": "2026-02-23T16:39:15Z"
+  },
+  {
+    "title": "Whoopi Goldberg Zooms In To \u2018The View\u2019 Amid \u201cNutty\u201d NYC Blizzard: \u201cWe Even Told The Audience, \u2018Stay Home!\u2019\u201d",
+    "description": "\"I'm coming to you remotely because of this crazy historic blizzard that is slamming the East Coast has snowed me in,\" Goldberg told viewers on Monday.",
+    "link": "https://decider.com/2026/02/23/whoopi-goldberg-zooms-in-to-the-view-nyc-blizzard/",
+    "timestamp": "2026-02-23T16:36:59Z"
+  },
+  {
+    "title": "Many in Mexico fear more violence after army kills cartel leader 'El Mencho'",
+    "description": "Mexico Security Secretary Omar Garc\u00eda Harfuch also said Monday some 30 criminal suspects were killed in Jalisco and four others were killed in Michoacan.",
+    "link": "https://www.pbs.org/newshour/world/many-in-mexico-fear-more-violence-after-army-kills-cartel-leader-el-mencho",
+    "timestamp": "2026-02-23T16:36:15Z"
+  },
+  {
+    "title": "Backed by Anthropic, a Super PAC begins an ad blitz in support of AI regulation",
+    "description": "A new ad campaign on Monday warned northern New Jersey residents that Congress could leave them vulnerable to harm by artificial intelligence.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/backed-by-anthropic-a-super-pac-begins-an-ad-blitz-in-support-of-ai-regulation/articleshow/128722281.cms",
+    "timestamp": "2026-02-23T16:35:51Z"
+  },
+  {
+    "title": "The US Had a Big Battery Boom Last Year",
+    "description": "Despite Donald Trump's unrelenting attacks on renewable energy, there's a quiet revolution happening on US grids.",
+    "link": "https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/",
+    "timestamp": "2026-02-23T16:35:22Z"
+  },
+  {
+    "title": "EU freezes US trade deal after Supreme Court tariff ruling",
+    "description": "European officials are asking Washington for clarity on Donald Trump's new 15% tariff before they can move ahead with the deal. EU lawmakers decided Monday to delay the approval of the bloc's trade deal with the US due to uncertainty over President Donald Tru\u2026",
+    "link": "https://www.dw.com/en/eu-freezes-us-trade-deal-after-supreme-court-tariff-ruling/a-76095257",
+    "timestamp": "2026-02-23T16:34:00Z"
+  },
+  {
+    "title": "Panama orders occupation of 2 key canal ports after Supreme Court ruling",
+    "description": "Panama orders occupation of 2 key canal ports after Supreme Court rulinglocal10.com",
+    "link": "https://www.local10.com/business/2026/02/23/panama-orders-occupation-of-2-key-canal-ports-after-supreme-court-ruling/",
+    "timestamp": "2026-02-23T16:32:42Z"
+  },
+  {
+    "title": "SCOOP: Tim Walz Accused Of Stonewalling Key Probe As Somali Fraud Rocks His State",
+    "description": "The House Education and Workforce Committee accused Tim Walz of stonewalling its probe into Somali welfare fraud in a Monday letter obtained by the DCNF.",
+    "link": "https://dailycaller.com/2026/02/23/scoop-tim-walz-accused-of-stonewalling-key-probe-as-somali-fraud-rocks-his-state/",
+    "timestamp": "2026-02-23T16:30:57Z"
+  },
+  {
+    "title": "Trump officials explore dollar stablecoin for Gaza",
+    "description": "Trump officials explore a US dollar backed stablecoin to support Gazas economic recovery and digital payments shift.\nThe post Trump officials explore dollar stablecoin for Gaza appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/dollar-backed-stablecoin-gaza/",
+    "timestamp": "2026-02-23T16:30:42Z"
+  },
+  {
+    "title": "NCAA Eligibility Fights: The Elusive Paths Out of the Courts",
+    "description": "It\u2019s worth taking a step back from each case involving college athletes seeking to play past their NCAA eligibility and examining what is happening with college athlete eligibility. Ever since 2024, when Vanderbilt quarterback Diego Pavia started a cascade of\u2026",
+    "link": "https://www.sportico.com/law/analysis/2026/college-athlete-eligibility-litigation-1234885264/",
+    "timestamp": "2026-02-23T16:30:00Z"
+  },
+  {
+    "title": "EU lawmakers again postpone vote on US trade deal after tariff upheaval",
+    "description": "The EU assembly has been debating legislative proposals to remove many EU import duties on US goods, a key part of the deal struck in Turnberry, Scotland, last July, \u2060as \u200bwell as to continue zero duties for U.S. lobsters.",
+    "link": "https://indianexpress.com/article/world/us-news/eu-lawmakers-again-postpone-vote-on-us-trade-deal-after-tariff-upheaval-10548119/",
+    "timestamp": "2026-02-23T16:29:20Z"
+  },
+  {
+    "title": "Hungary blocks Russia sanctions, EU cash for Kyiv on eve of Ukraine war anniversary",
+    "description": "BRUSSELS, Feb 23 (Reuters) - Hungary maintained its veto on Monday \u2060on new EU sanctions on Russia and a huge loan for Ukraine, while a Ukrainian strike on a Russian pumping station serving the Druzhba oil pipeline threatened to further harm Kyiv's fraught tie\u2026",
+    "link": "https://www.thestar.com.my/news/world/2026/02/24/hungary-blocks-russia-sanctions-eu-cash-for-kyiv-on-eve-of-ukraine-war-anniversary",
+    "timestamp": "2026-02-23T16:29:00Z"
+  },
+  {
+    "title": "UK Gov't Does Not Rule Out Retaliatory Tariffs Against US \u2013 Reports",
+    "description": "MOSCOW (Sputnik) - The United Kingdom does not rule out the possibility of imposing tariffs against the United States as a retaliation following the new 15% US tariffs, a spokesperson for UK Prime Minister Keir Starmer's office was quoted by Sky News as sayin\u2026",
+    "link": "https://sputnikglobe.com/20260223/uk-govt-does-not-rule-out-retaliatory-tariffs-against-us--reports-1123676056.html",
+    "timestamp": "2026-02-23T16:27:45Z"
+  },
+  {
+    "title": "Survivor Contestant GOES OFF On CBS in Shocking Video \u2014 Accuses Network Of Promoting MAGA-Friendly Politics",
+    "description": "Eliza Orlins, who appeared on two seasons of the CBS hit show Survivor, accused CBS of working to appeal to a MAGA-friendly audience.\nThe post Survivor Contestant GOES OFF On CBS in Shocking Video \u2014 Accuses Network Of Promoting MAGA-Friendly Politics first ap\u2026",
+    "link": "https://www.mediaite.com/media/news/survivor-contestant-goes-off-on-cbs-in-shocking-video-accuses-network-of-promoting-maga-friendly-politics/",
+    "timestamp": "2026-02-23T16:27:10Z"
+  },
+  {
+    "title": "US stock market on the verge of largest loss today: Dow, S&P 500, Nasdaq 100 wiped out over 1.5% as losses accelerate; Magnificent Seven stocks take Trump tariff toll \u2014 check the biggest losers here",
+    "description": "US stock market plunge deepened today as the Dow Jones crashed 814 points, down 1.64%. The S&P 500 fell 1.23%. The Nasdaq dropped 1.44%. Trade war fears returned after President Donald Trump warned of higher tariffs. Investors reacted fast. The Magnificent Se\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-on-the-verge-of-largest-loss-today-dow-sp-500-nasdaq-100-wiped-out-over-1-5-as-losses-accelerate-magnificent-seven-stocks-take-trump-tariff-toll-check-the-biggest-losers-here/articleshow/128721785.cms",
+    "timestamp": "2026-02-23T16:26:38Z"
+  },
+  {
+    "title": "Silicon Valley can't import talent like before. So it's exporting jobs",
+    "description": "Google, Amazon, Microsoft, and other U.S. tech giants are ramping up India hiring.",
+    "link": "https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/",
+    "timestamp": "2026-02-23T16:24:44Z"
+  },
+  {
+    "title": "Armed man shot and killed at Mar-a-Lago was never interested in politics or guns, cousin says",
+    "description": "Trump was at the White House at the time.",
+    "link": "https://www.bostonherald.com/2026/02/23/maralago-shooting/",
+    "timestamp": "2026-02-23T16:22:48Z"
+  },
+  {
+    "title": "Panama orders occupation of 2 key canal ports after Supreme Court ruling",
+    "description": "Panama has ordered the occupation of two key ports at the ends of the Panama Canal",
+    "link": "https://abcnews.com/International/wireStory/panama-orders-occupation-2-key-canal-ports-after-130415225",
+    "timestamp": "2026-02-23T16:21:56Z"
+  },
+  {
+    "title": "South Korea Shows Justice Can Protect Democracy",
+    "description": "The life sentence for Yoon Suk-yeol\u2019s coup attempt should be a model for other states.",
+    "link": "http://foreignpolicy.com/2026/02/23/south-korea-yoon-sentence/",
+    "timestamp": "2026-02-23T16:21:32Z"
+  },
+  {
+    "title": "Sen Adam Schiff says he'll skip the State of the Union for the first time, slamming President Donald Trump",
+    "description": "President Donald Trump is scheduled to give the State of the Union address on Tuesday, but Sen. Adam Schiff, D-Calif., announced that he will not attend.",
+    "link": "https://www.foxnews.com/politics/sen-adam-schiff-says-hell-skip-state-union-first-time-slamming-president-donald-trump",
+    "timestamp": "2026-02-23T16:21:20Z"
+  },
+  {
+    "title": "Savannah Chrisley shares verdict on The View stars after divisive guest hosting spot",
+    "description": "\u2018I\u2019m the only one at the table who believes differently,\u2019 Chrisley explained on a podcast after the show",
+    "link": "https://www.the-independent.com/arts-entertainment/tv/news/savannah-chrisley-the-view-host-b2925907.html",
+    "timestamp": "2026-02-23T16:20:05Z"
+  },
+  {
+    "title": "OCC grants Crypto.com conditional approval for bank trust charter",
+    "description": "While Coinbase and others await decision on their applications, the federal banks regulator has already signaled friendliness to crypto companies through several conditional approvals.",
+    "link": "https://cointelegraph.com/news/occ-crypto-com-conditional-approval-national-bank-trust-charter",
+    "timestamp": "2026-02-23T16:20:01Z"
+  },
+  {
+    "title": "Trump threatens countries that would 'play games' with tariffs",
+    "description": "The US president has threatened higher tariffs on countries that choose to \"play games\" after the US Supreme Court ruling last week.",
+    "link": "https://www.channelnewsasia.com/world/tariffs-us-trump-supreme-court-ruling-5947636",
+    "timestamp": "2026-02-23T16:20:00Z"
+  },
+  {
+    "title": "Tariff turmoil is back. Here's the investing playbook for the latest chapter in Trump's trade war.",
+    "description": "New tariffs chaos means investor should focus on AI and sectors of the S&P 500 that have outperformed this year, investing experts told Business Insider.",
+    "link": "https://www.businessinsider.com/where-to-invest-trump-global-tariffs-supreme-court-trade-war-2026-2",
+    "timestamp": "2026-02-23T16:19:19Z"
+  },
+  {
+    "title": "Iran president vows defiance as protests build against regime amid US military build up",
+    "description": "Iranian university students chanted anti-regime slogans in Tehran on Monday as nuclear talks with the U.S. and Iran are expected to resume on Thursday.",
+    "link": "https://www.foxnews.com/world/iran-president-vows-defiance-protests-build-against-regime-amid-us-military-build-up",
+    "timestamp": "2026-02-23T16:17:37Z"
+  },
+  {
+    "title": "Trump, Schumer find rare common ground on releasing UFO files",
+    "description": "President Donald Trump directed Secretary of War Pete Hegseth and the Pentagon to release the government's files on UFOs, UAPs and \"all other information\" related to the phenomena.",
+    "link": "https://www.foxnews.com/politics/trump-schumer-find-rare-common-ground-releasing-ufo-files",
+    "timestamp": "2026-02-23T16:17:34Z"
+  },
+  {
+    "title": "The Supreme Court Blew Trump\u2019s Budget to Smithereens",
+    "description": "The Supreme Court\u2019s\u00a0tariff decision\u00a0creates two revenue problems for President Donald Trump. The\u00a0more obvious one\u00a0has commanded most of the attention: Trump has to give back more than $175 billion in revenue already collected through the insta-tariffs he impo\u2026",
+    "link": "https://newrepublic.com/article/206891/repeal-trump-tax-cut-tariffs",
+    "timestamp": "2026-02-23T16:17:23Z"
+  },
+  {
+    "title": "Can You Trust Wikipedia?",
+    "description": "Wikipedia shapes our perception of reality today more than ever before because it informs the large language models like ChatGPT. But can we really trust it?",
+    "link": "https://reason.com/video/2026/02/23/can-you-trust-wikipedia/",
+    "timestamp": "2026-02-23T16:17:19Z"
+  },
+  {
+    "title": "Trump Claims He Doesn\u2019t Need Congressional Approval to Impose Tariffs",
+    "description": "Trump pushed back on the Supreme Court's tariff decision, saying on Monday that he doesn't need Congress's OK to impose tariffs.\nThe post Trump Claims He Doesn\u2019t Need Congressional Approval to Impose Tariffs first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/news/trump-claims-he-doesnt-need-congressional-approval-to-impose-tariffs/",
+    "timestamp": "2026-02-23T16:17:09Z"
+  },
+  {
+    "title": "Trump's New Tariffs Are Probably Illegal Too",
+    "description": "Attorneys for the Trump administration even admitted that Section 122 can't be applied to address trade deficits. Trump is now trying to do that anyway.",
+    "link": "https://reason.com/2026/02/23/trumps-new-tariffs-are-probably-illegal-too/",
+    "timestamp": "2026-02-23T16:16:55Z"
+  },
+  {
+    "title": "Worrying start to 2026 for Giant as bike brand\u2019s revenue slumps by 22% in January",
+    "description": "2025 proved a turbulent year for bike brand Giant, punctuated by the US government\u2019s decision to block imports of the company\u2019s bicycles due to an investigation into forced labour allegations.And 2026 hasn\u2019t got off to the best start either for the Taiwanese \u2026",
+    "link": "https://road.cc/news/giant-revenue-slumps-in-january-2026",
+    "timestamp": "2026-02-23T16:16:02Z"
+  },
+  {
+    "title": "US judge permanently blocks release of report on Trump documents case (Andrew Goudsward/Reuters)",
+    "description": "Andrew Goudsward / Reuters:\nUS judge permanently blocks release of report on Trump documents case\u00a0 \u2014\u00a0 A U.S. judge permanently barred the Justice Department on Monday from releasing a prosecutor's report on the criminal case accusing President Donald Trump of\u2026",
+    "link": "https://www.memeorandum.com/260223/p54",
+    "timestamp": "2026-02-23T16:15:06Z"
+  },
+  {
+    "title": "Healthcare crisis looms over Greenland\u2019s isolated villages",
+    "description": "The situation facing Kapisillit underscores the challenges to the healthcare system in the vast Arctic island.\nThe post Healthcare crisis looms over Greenland\u2019s isolated villages appeared first on Digital Journal.",
+    "link": "https://www.digitaljournal.com/life/healthcare-crisis-looms-over-greenlands-isolated-villages/article",
+    "timestamp": "2026-02-23T16:12:20Z"
+  },
+  {
+    "title": "Trump suggests he wants to send Americans 'that don't work' to other countries",
+    "description": "President Donald Trump suggested he would like to load up Americans \"that don't work\" in caravans and send them to other countries.At an event with so-called Angel Families on Monday, Trump claimed other countries had done exactly that to the U.S. \u2014 rounding \u2026",
+    "link": "https://www.rawstory.com/trump-unemployed-caravans/",
+    "timestamp": "2026-02-23T16:07:12Z"
+  },
+  {
+    "title": "Wyden and Merkley choose town hall over State of the Union speech",
+    "description": "WASHINGTON, D.C. (KTVZ) -- U.S. Senators Ron Wyden and Jeff Merkley announced they will not attend the State of the Union speech on Tuesday, February 24th. Instead, the Oregon Democrats will co-host a live online town hall that day to answer questions directl\u2026",
+    "link": "https://ktvz.com/news/2026/02/23/wyden-and-merkley-choose-town-hall-over-state-of-the-union-speech/",
+    "timestamp": "2026-02-23T16:06:00Z"
+  },
+  {
+    "title": "Energy options after US verdict",
+    "description": "India can use the space created by the US Supreme Court ruling to diversify oil purchases without capitulating on Russian oil",
+    "link": "https://www.thehindubusinessline.com/opinion/energy-options-after-us-verdict/article70668123.ece",
+    "timestamp": "2026-02-23T16:03:39Z"
+  },
+  {
+    "title": "Legendary Miami nightclub hosting USA men\u2019s hockey team party",
+    "description": "Sunday marked a once-in-a-lifetime experience for the Team USA men's hockey team after winning Winter Olympics gold medals in the Milan Cortina Games. However, NHL star Jack Hughes and Co. are now preparing to take their gold medals back to America to celebra\u2026",
+    "link": "https://www.thebiglead.com/legendary-miami-club-reveals-team-usa-mens-hockey-team-party/",
+    "timestamp": "2026-02-23T16:03:10Z"
+  },
+  {
+    "title": "Iranian students protest for third day as US pressure mounts",
+    "description": "DUBAI, Feb 23 (Reuters) - \u2060Iranian students defied authorities with protests for a third day on Monday, \u2060weeks after security forces crushed mass unrest with thousands killed and as the \u200cUnited States weighs possible air strikes against the Islamic Republic. \u2026",
+    "link": "https://www.thestar.com.my/news/world/2026/02/24/iranian-students-protest-for-third-day-as-us-pressure-mounts",
+    "timestamp": "2026-02-23T16:01:00Z"
+  },
+  {
+    "title": "Mike Johnson reveals special guests for Trump's State of the Union",
+    "description": "The family of slain Louisiana Officer Marc Brock will attend President Trump\u2019s State of the Union address as guests of House Speaker Mike Johnson.",
+    "link": "https://www.foxnews.com/politics/mike-johnson-reveals-special-guests-trumps-state-union",
+    "timestamp": "2026-02-23T16:00:38Z"
+  },
+  {
+    "title": "Trump Offers A Hospital Boat To Greenland, The PM Says \u201cNo Thank You\u201d",
+    "description": "On Saturday, United States ruler Donald Trump said that he would send a \u201cgreat hospital boat\u201d to Greenland to take care of what he called its \u201cmany people who are sick, and not being taken care of.\u201d Greenland's Prime Minister Jens-Frederik Nielsen immediately\u2026",
+    "link": "https://www.shtfplan.com/war/trump-offers-a-hospital-boat-to-greenland-the-pm-says-no-thank-you",
+    "timestamp": "2026-02-23T16:00:16Z"
+  },
+  {
+    "title": "Judge Cannon permanently blocks release of Jack Smith's report on Trump classified docs case...",
+    "description": "A federal judge has permanently barred the release of a report by special counsel Jack Smith on his investigation into President Donald Trump\u2019s hoarding of classified documents at his Mar-a-Lago estate. U.S. District Judge Aileen Cannon, who was nominated to \u2026",
+    "link": "https://apnews.com/article/trump-classified-documents-jack-smith-3a86d9c12f18b4dfe648e539925d72a2",
+    "timestamp": "2026-02-23T16:00:15Z"
+  },
+  {
+    "title": "Trump Says He\u2019s Sending a Hospital Ship to Greenland, But There Is No Need and No Hospital Ship",
+    "description": "President Trump sends out statenff ed bts on Truth Social, his personal social media site, that are sometimes odd. Someone in the White House should fact-check them before he posts and embarrasses himself. Over the weekend, he posted this: Donald J. Trump@rea\u2026",
+    "link": "https://dianeravitch.net/2026/02/23/trump-says-hes-sending-a-hospital-ship-to-greenland-but-there-is-no-need-and-no-hospital-ship/",
+    "timestamp": "2026-02-23T16:00:00Z"
+  },
+  {
+    "title": "Saudi Arabia\u2019s New U.S. LNG Deal Marks a Stunning Geopolitical Reversal",
+    "description": "The signing of a 20-year agreement for U.S. gas producer Caturus\u2019s Commonwealth liquefied natural gas (LNG) division to supply one million tonnes per \u200cannum of LNG to Saudi Arabia\u2019s Aramco is enormously significant both inside and outside the energy market. A\u2026",
+    "link": "https://oilprice.com/Energy/Natural-Gas/Saudi-Arabias-New-US-LNG-Deal-Marks-a-Stunning-Geopolitical-Reversal.html",
+    "timestamp": "2026-02-23T16:00:00Z"
+  },
+  {
+    "title": "Trump said US is only country that allows mail-in ballots. Here's the truth",
+    "description": "As of February 2026, the United States is the only country in the world that allows mail-in ballots, as U.S. President Donald Trump claimed.",
+    "link": "https://www.snopes.com//fact-check/trump-mail-in-voting/",
+    "timestamp": "2026-02-23T16:00:00Z"
+  },
+  {
+    "title": "Letters: Major General Rose King\u2019s initiative to incorporate M\u0101ori cultural interests is to be commended",
+    "description": "OPINION: The Army's M\u0101ori cultural move should not be not dismissed as \"inappropriate\".",
+    "link": "https://www.nzherald.co.nz/nz/letters-major-general-rose-kings-initiative-to-incorporate-maori-cultural-interests-is-to-be-commended/premium/3UT6EF3Q6ZEZ5DAWXEV7ZAEDQI/",
+    "timestamp": "2026-02-23T16:00:00Z"
+  },
+  {
+    "title": "Haze over Ukraine war",
+    "description": "Four years on, a ceasefire still seems far-fetched",
+    "link": "https://www.thehindubusinessline.com/opinion/haze-over-ukraine-war/article70668234.ece",
+    "timestamp": "2026-02-23T15:58:42Z"
+  },
+  {
+    "title": "Emotional meltdown: Watch AOC hold back tears as she blames Trump for her word-salad disaster",
+    "description": "'I'm afraid the issue's not my understanding but rather the problem is perhaps you've gotten adjusted to a president that never thinks before he speaks'",
+    "link": "https://www.wnd.com/2026/02/emotional-meltdown-watch-aoc-hold-back-tears-as/",
+    "timestamp": "2026-02-23T15:58:34Z"
+  },
+  {
+    "title": "Trump targets Netflix board member Susan Rice during merger fight",
+    "description": "Trump demanded Susan Rice be fired \u201cIMMEDIATELY\u201c and warned of \u201cconsequences,\u201d forcing Netflix to navigate deal math in a Washington that feels personal",
+    "link": "https://qz.com/trump-netflix-susan-rice-warner-bros-merger",
+    "timestamp": "2026-02-23T15:56:10Z"
+  },
+  {
+    "title": "The United States Is Dangerously Misreading Iran",
+    "description": "Washington can start a war, but it may not be able to control the escalation.",
+    "link": "http://foreignpolicy.com/2026/02/23/trump-iran-war-misreading-khamenei-strategy-nuclear/",
+    "timestamp": "2026-02-23T15:54:14Z"
+  },
+  {
+    "title": "\u2018Weak! Weak! Weak!\u2019 CNN Data Guru Stunned by Trump\u2019s Feeble Pre-SOTU Polling \u2014 Lower than \u2018Any Other President This Century\u2019",
+    "description": "Enten said Trump's numbers have \u201cnever been weaker\u201d and showed past polls that show Trump scored comparably lower than any other president this century.\nThe post \u2018Weak! Weak! Weak!\u2019 CNN Data Guru Stunned by Trump\u2019s Feeble Pre-SOTU Polling \u2014 Lower than \u2018Any Ot\u2026",
+    "link": "https://www.mediaite.com/media/tv/weak-weak-weak-cnn-data-guru-stunned-by-trumps-feeble-pre-sotu-polling-lower-than-any-other-president-this-century/",
+    "timestamp": "2026-02-23T15:54:14Z"
+  },
+  {
+    "title": "At least 25 soldiers dead in attacks after raid on Mexico's most wanted cartel leader",
+    "description": "MEXICO CITY, Feb 23 (Reuters) - \u2060Mexico Security Minister Omar Garcia Harfuch said that 25 \u2060members of the National Guard and one security guard \u200cdied in cartel attacks following the capture and death of infamous cartel boss Nemesio Oseguera, alias \"El Mencho\u2026",
+    "link": "https://www.thestar.com.my/news/world/2026/02/23/at-least-25-soldiers-dead-in-attacks-after-raid-on-mexico039s-most-wanted-cartel-leader",
+    "timestamp": "2026-02-23T15:52:00Z"
+  },
+  {
+    "title": "Trump\u2019s Iran Policy Does Not Add Up",
+    "description": "The choice isn\u2019t between a deal and war. It\u2019s between using American leverage and discarding it.",
+    "link": "https://www.theatlantic.com/international/2026/02/trump-iran-nuclear-deal-war/686108/",
+    "timestamp": "2026-02-23T15:52:00Z"
+  },
+  {
+    "title": "Trump threatens countries that would 'play games' with tariffs",
+    "description": "President Trump threatened nations with higher import duties if they \"play games\" following the Supreme Court's decision against his global tariffs. He asserted his authority to impose new tariffs without congressional approval, claiming the ruling granted hi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-threatens-countries-that-would-play-games-with-tariffs/articleshow/128720993.cms",
+    "timestamp": "2026-02-23T15:51:58Z"
+  },
+  {
+    "title": "Adam Sandler sends heartfelt message to Olympians; Mikaela Shiffrin reacts",
+    "description": "Team USA came away from the 2026 Winter Olympics with 33 medals, good enough for second place in the overall count behind Norway. The Americans brought home 12 golds, with the men's and women's hockey squads both finishing on top of the podium. MORE: Donald T\u2026",
+    "link": "https://www.thebiglead.com/adam-sandler-message-to-team-usa-olympians-mikaela-shiffrin-reacts/",
+    "timestamp": "2026-02-23T15:50:30Z"
+  },
+  {
+    "title": "\u2018He Will Try Anything\u2019: Democratic AGs Preparing for Trump to Send Military to Polls, Seize Ballots",
+    "description": "Democratic state attorneys general across the US are preparing for President Donald Trump to take unprecedented actions to interfere with the 2026 midterm elections.As reported by Politico on Monday, the Democratic AGs have been conducting war games aimed at \u2026",
+    "link": "https://www.commondreams.org/news/trump-midterm-election-subversion",
+    "timestamp": "2026-02-23T15:48:12Z"
+  },
+  {
+    "title": "Trump Jokes to Men\u2019s Hockey Team That He\u2019ll \u2018Have To\u2019 Invite Women\u2019s Team to White House or He\u2019ll Be \u2018Impeached\u2019",
+    "description": "President Donald Trump on Sunday spoke to the US men's hockey team and joked about being forced to invite the women's team that also won gold.\nThe post Trump Jokes to Men\u2019s Hockey Team That He\u2019ll \u2018Have To\u2019 Invite Women\u2019s Team to White House or He\u2019ll Be \u2018Impea\u2026",
+    "link": "https://www.mediaite.com/media/sports/trump-jokes-to-mens-hockey-team-that-hell-have-to-invite-womens-team-to-white-house-or-hell-be-impeached/",
+    "timestamp": "2026-02-23T15:45:52Z"
+  },
+  {
+    "title": "Anti-American Disinformation Feeding Divisiveness: Who\u2019s Behind It?",
+    "description": "Liberal think tanks and the mainstream media, which have a strong left-leaning bias and an intense hatred of President Donald Trump, have convinced many Americans that the United States is slipping economically, militarily, and diplomatically.\nThe post Anti-A\u2026",
+    "link": "https://www.thegatewaypundit.com/2026/02/anti-american-disinformation-feeding-divisiveness-whos-behind-it/",
+    "timestamp": "2026-02-23T15:45:47Z"
+  },
+  {
+    "title": "Majority Of Americans Say Trump Policies Made Country, Their Lives Worse As His Big Speech Looms",
+    "description": "The majority of Americans said they think the country is moving in a negative direction under President Donald Trump, according to a poll released on Monday.",
+    "link": "https://dailycaller.com/2026/02/23/trump-policies-country-direction-state-union-marist-poll/",
+    "timestamp": "2026-02-23T15:44:36Z"
+  },
+  {
+    "title": "Trump-linked stablecoin wobbles as WLFI says it's under 'coordinated attack'",
+    "description": "The USD1 token briefly fell to $0.994, some 0.6% below its $1 peg, CoinGecko data shows.",
+    "link": "https://www.coindesk.com/markets/2026/02/23/trump-linked-stablecoin-wobbles-as-wlfi-says-it-s-under-coordinated-attack",
+    "timestamp": "2026-02-23T15:44:31Z"
+  },
+  {
+    "title": "EU Parliament puts US trade deal on ice after latest Trump tariff hit",
+    "description": "Trade MEPs punt a vote to implement the trade deal after Donald Trump sets new tariffs that they say violate the transatlantic accord.",
+    "link": "https://www.politico.eu/article/eu-parliament-puts-us-trade-deal-ice-after-latest-donald-trump-tariff-hit/",
+    "timestamp": "2026-02-23T15:44:31Z"
+  },
+  {
+    "title": "India's strategic patience paid off. What next for US trade deal?",
+    "description": "United States trade policy shifts have unexpectedly strengthened India's negotiating position. India's deliberate approach to a trade deal now appears astute. The country finds itself with more space to reassess and secure better terms. This strategic patienc\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-strategic-patience-paid-off-what-next-for-us-trade-deal/articleshow/128720376.cms",
+    "timestamp": "2026-02-23T15:42:12Z"
+  },
+  {
+    "title": "Trump warns of higher tariffs on countries backing away from trade deal",
+    "description": "Trump on Friday said that nothing has changed between the India and US deal.",
+    "link": "https://indianexpress.com/article/business/trump-tariffs-supreme-court-ieepa-ruling-trade-talks-10548028/",
+    "timestamp": "2026-02-23T15:41:14Z"
+  },
+  {
+    "title": "Ted Sarandos Brushes Off Trump\u2019s Call to Fire Susan Rice From Netflix Board: \u2018He Likes to Do a Lot of Things on Social Media\u2019",
+    "description": "\u201cThis is a business deal. It\u2019s not a political deal,\" the streamer's co-CEO says\nThe post Ted Sarandos Brushes Off Trump\u2019s Call to Fire Susan Rice From Netflix Board: \u2018He Likes to Do a Lot of Things on Social Media\u2019 appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/industry-news/deals-ma/ted-sarandos-responds-trump-fire-susan-rice/",
+    "timestamp": "2026-02-23T15:40:01Z"
+  },
+  {
+    "title": "Ted Sarandos Brushes Off Trump\u2019s Call to Fire Susan Rice From Netflix Board: \u2018He Likes to Do a Lot of Things on Social Media\u2019",
+    "description": "\u201cThis is a business deal. It\u2019s not a political deal,\" the streamer's co-CEO says\nThe post Ted Sarandos Brushes Off Trump\u2019s Call to Fire Susan Rice From Netflix Board: \u2018He Likes to Do a Lot of Things on Social Media\u2019 appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/industry-news/business/ted-sarandos-responds-trump-fire-susan-rice/",
+    "timestamp": "2026-02-23T15:40:01Z"
+  },
+  {
+    "title": "US pulling non-essential staff from embassy in Beirut amid Iran tensions",
+    "description": "The US State Department is evacuating non-essential staff and families from its Beirut embassy. This move comes amid rising fears of a military clash with Iran. The embassy will remain operational with core staff. This is a temporary measure to ensure safety.\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-pulling-non-essential-staff-from-embassy-in-beirut-amid-iran-tensions/articleshow/128720419.cms",
+    "timestamp": "2026-02-23T15:38:04Z"
+  },
+  {
+    "title": "Dow Jones free fall today: Why is the Dow Jones falling so sharply as Dow, S&P 500 and Nasdaq plunge deep into the red?",
+    "description": "Dow Jones in free fall today. The Dow plunged 689 points to 48,936, down 1.39%. The S&P 500 fell 0.67% to 6,863. The Nasdaq dropped 0.60% to 22,749. US stock market investors reacted after President Trump raised global tariffs to 15%. Trade war fears returned\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/dow-jones-free-fall-today-why-is-the-dow-jones-falling-so-sharply-as-dow-sp-500-and-nasdaq-plunge-deep-into-the-red/articleshow/128720355.cms",
+    "timestamp": "2026-02-23T15:37:36Z"
+  },
+  {
+    "title": "JUST IN: Judge Cannon Permanently Blocks Release of Jack Smith Report on Classified Docs",
+    "description": "The FBI raid found allegedly classified documents and other presidential materials in boxes throughout his property, including stored in public spaces like bathrooms\nThe post JUST IN: Judge Cannon Permanently Blocks Release of Jack Smith Report on Classified \u2026",
+    "link": "https://www.mediaite.com/media/news/just-in-judge-cannon-permanently-blocks-release-of-jack-smith-report-on-classified-docs/",
+    "timestamp": "2026-02-23T15:37:22Z"
+  },
+  {
+    "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+    "description": "Indian markets enter Tuesday\u2019s session with momentum after gains in the Sensex and Nifty, but analysts say direction will hinge on key resistance levels, volatility trends in India VIX and cues from global developments following the US Supreme Court\u2019s tariff \u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/128720333.cms",
+    "timestamp": "2026-02-23T15:37:09Z"
+  },
+  {
     "title": "Minding the gap between the art of deal-making and the art of diplomacy, or how to handle Donald Trump",
     "description": "Snap decisions, hard bargaining and public provocation\u2026 Donald Trump never ceases to throw off his partners. How can foreign policy best tackle his behaviour.",
     "link": "https://theconversation.com/minding-the-gap-between-the-art-of-deal-making-and-the-art-of-diplomacy-or-how-to-handle-donald-trump-276421",
@@ -124,437 +532,5 @@
     "description": "Market reaction to the court ruling on U.S. President Donald Trump\u2019s tariffs has been \u201cpretty subdued,\u201d said BMO CEO Darryl White. Read on.",
     "link": "https://financialpost.com/fp-finance/banking/bmos-ceo-market-reaction-tariff-ruling-pretty-subdued",
     "timestamp": "2026-02-23T15:21:27Z"
-  },
-  {
-    "title": "Judge permanently blocks release of special counsel Jack Smith's report on Trump classified documents case",
-    "description": "U.S. District Judge Aileen Cannon said the release of the report would present a \"manifest injustice\" to Trump and his two co-defendants.",
-    "link": "https://www.pbs.org/newshour/politics/judge-permanently-blocks-release-of-special-counsel-jack-smiths-report-on-trump-classified-documents-case",
-    "timestamp": "2026-02-23T15:20:05Z"
-  },
-  {
-    "title": "After Supreme Court rebuke, Democrats call for government to refund billions in Trump tariff money",
-    "description": "The measure would prioritize refunds to small businesses.",
-    "link": "https://www.denverpost.com/2026/02/23/democrats-trump-tariffs-supreme-court/",
-    "timestamp": "2026-02-23T15:18:15Z"
-  },
-  {
-    "title": "After Supreme Court rebuke, Democrats call for government to refund billions in Trump tariff money",
-    "description": "The measure would prioritize refunds to small businesses.",
-    "link": "https://www.bostonherald.com/2026/02/23/democrats-trump-tariffs-supreme-court/",
-    "timestamp": "2026-02-23T15:18:15Z"
-  },
-  {
-    "title": "South Africa accepts Trump\u2019s new US ambassador",
-    "description": "South Africa on Monday said it accepted a conservative envoy highly critical of Pretoria as the new US ambassador to the country, amid frayed relations with President Donald Trump. The two countries\u2019 governments have been at odds over a series of internationa\u2026",
-    "link": "https://www.digitaljournal.com/world/south-africa-accepts-trumps-new-us-ambassador/article",
-    "timestamp": "2026-02-23T15:17:20Z"
-  },
-  {
-    "title": "Judge Cannon permanently blocks Jack Smith report on classified docs at Mar-a-Lago",
-    "description": "U.S. District Court Judge Aileen Cannon issued a ruling blocking the second volume of former special counsel Jack Smith's report, which centered on President Donald Trump's alleged mishandling of classified documents at Mar-a-Lago following his first term in \u2026",
-    "link": "https://www.rawstory.com/stringr/cannon-smith-report-volume-2/",
-    "timestamp": "2026-02-23T15:15:52Z"
-  },
-  {
-    "title": "Trump\u2019s Iran War Could Be an Even Bigger Catastrophe Than Iraq",
-    "description": "Jeet Heer\n\n\n\nRemarkably, Trump seems on the verge of outdoing George W. Bush in reckless, stupid militarism.\r\n\n\r\n\n\nThe post Trump\u2019s Iran War Could Be an Even Bigger Catastrophe Than Iraq appeared first on The Nation.",
-    "link": "https://www.thenation.com/article/politics/trump-iran-war-threats-iraq/",
-    "timestamp": "2026-02-23T15:15:44Z"
-  },
-  {
-    "title": "Elbridge Colby and the Reordering of the Indo-Pacific",
-    "description": "The influential Pentagon official is narrowing choices available to U.S. allies.",
-    "link": "http://foreignpolicy.com/2026/02/23/elbridge-colby-indopacific-trump-china/",
-    "timestamp": "2026-02-23T15:15:30Z"
-  },
-  {
-    "title": "What is Christian Zionism, the pro-Israel ideology invoked by US ambassador",
-    "description": "Huckabee's remarks that Israel has God-given right to much of Middle East are rooted in Christian Zionism, experts say.",
-    "link": "https://www.aljazeera.com/news/2026/2/23/what-is-christian-zionism-us-envoy-beliefs-about-israels-mena-expansion",
-    "timestamp": "2026-02-23T15:14:30Z"
-  },
-  {
-    "title": "It\u2019s Been Almost Two Months Since the U.S. Invaded a Country. Is It Iran\u2019s Turn to Be a Trump Distraction?",
-    "description": "Trump claimed the nuclear program of Iran was \"obliterated.\" Now, 8 months later it's \"a week away\" from having nuclear bombs. Okay, sure.",
-    "link": "https://www.jezebel.com/iran-war-us-strikes-invasion-venezuela-donald-trump-distraction-epstein-nuclear-enrichment",
-    "timestamp": "2026-02-23T15:14:04Z"
-  },
-  {
-    "title": "UK companies seek deeper ties with Europe as Trump tariffs fuel uncertainty, business groups say",
-    "description": "U.S. President Donald Trump's latest tariffs measures have thrust British businesses into fresh uncertainty.",
-    "link": "https://www.cnbc.com/2026/02/23/uk-companies-europe-eu-trump-tariffs-trade.html",
-    "timestamp": "2026-02-23T15:11:43Z"
-  },
-  {
-    "title": "Judge blocks release of special counsel Smith's report on Trump classified documents case",
-    "description": "A federal judge has permanently barred the release of a report by special counsel Jack Smith on his investigation into President Donald Trump\u2019s hoarding of classified documents.",
-    "link": "https://www.wmur.com/article/cannon-bars-smith-report-trump-classified-documents/70463061",
-    "timestamp": "2026-02-23T15:11:09Z"
-  },
-  {
-    "title": "Judge Aileen Cannon bars the release of special counsel report on Trump\u2019s handling of classified documents | CNN Politics",
-    "description": "Special counsel Jack Smith\u2019s final report on Donald Trump\u2019s alleged mishandling of classified records and obstruction of justice at Mar-a-Lago after his first term will not be released, a Trump-appointed judge in Florida ruled Monday.",
-    "link": "https://www.cnn.com/2026/02/23/politics/aileen-cannon-jack-smith-special-counsel-volume-2-trump-documents",
-    "timestamp": "2026-02-23T15:09:22Z"
-  },
-  {
-    "title": "Stellantis Poised To End 2025 With Its First Annual Loss",
-    "description": "All that money for little more than a Christmas ornament.",
-    "link": "https://www.jalopnik.com/2107772/stellantis-2025-first-annual-loss/",
-    "timestamp": "2026-02-23T15:07:36Z"
-  },
-  {
-    "title": "Suppressed DNC Autopsy Found Biden Admin\u2019s Support for Gaza Genocide Cost Harris Votes",
-    "description": "Democratic National Committee officials who crafted the party's postmortem on its loss to President Donald Trump in the 2024 election reportedly determined that the Biden administration's support for Israel's genocidal assault on Gaza cost Kamala Harris votes\u2026",
-    "link": "https://www.commondreams.org/news/kamala-harris-gaza-2024",
-    "timestamp": "2026-02-23T15:06:42Z"
-  },
-  {
-    "title": "Little Clarity on Legality of Trump\u2019s Foreign Aid Shutdown One Year After",
-    "description": "Lawsuits to reinstate frozen foreign aid have been hampered by questions of standing, jurisdiction, and legal technicalities.",
-    "link": "http://foreignpolicy.com/2026/02/23/trump-foreign-aid-usaid-lawsuits-legal/",
-    "timestamp": "2026-02-23T15:06:31Z"
-  },
-  {
-    "title": "AOC Has Instagram Meltdown. It\u2019s a Sight to Behold.",
-    "description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) traveled to the Munich Security Conference with big ambitions and came home with a reputation problem. The trip was supposed to bolster her foreign policy credentials ahead of a future Senate or presidential run. Instead\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4367978/posts",
-    "timestamp": "2026-02-23T15:05:51Z"
-  },
-  {
-    "title": "Judge Blocks Release Of Jack Smith's Report On Trump Classified Documents Case",
-    "description": "Aileen Cannon, who was nominated to the bench by Trump, said the release of the report would be unfair to the president and his two co-defendants.",
-    "link": "https://www.huffpost.com/entry/judge-blocks-release-of-trump-classified-documents-report_n_699c6a86e4b01da501522f6d",
-    "timestamp": "2026-02-23T15:05:28Z"
-  },
-  {
-    "title": "White House taunts Canada after hockey loss",
-    "description": "The White House posted an eagle-pins-goose meme after the US defeated Canada in the Olympic gold medal hockey game Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/632932-white-house-taunts-canada-hockey/",
-    "timestamp": "2026-02-23T15:05:00Z"
-  },
-  {
-    "title": "Donald Trump tells wild jokes after Team USA men\u2019s hockey wins gold medal",
-    "description": "Team USA men\u2019s hockey made Olympic history after ending their 46-year gold medal drought Sunday against Canada, and that epic win meant an important conversation with president Donald Trump. As per tradition for many American winners, Trump phoned the USA\u2026",
-    "link": "https://www.thebiglead.com/donald-trump-tells-wild-jokes-team-usa-mens-hockey-wins-gold-medal/",
-    "timestamp": "2026-02-23T15:04:16Z"
-  },
-  {
-    "title": "Pray I Don't Alter It Further",
-    "description": "I am not going to try to decipher Trump's latest screed about his powers to bully other countries. The main point is he was never interested in \"deals\" and, as his long career showed us, he never feels bound by them anyway.\u00a0He first seized on tariffs because \u2026",
-    "link": "https://www.eschatonblog.com/2026/02/pray-i-dont-alter-it-further.html",
-    "timestamp": "2026-02-23T15:03:00Z"
-  },
-  {
-    "title": "\u2018Evil is real and unmistakable\u2019: Would-be assassin at Mar-a-Lago reportedly obsessed with Epstein files",
-    "description": "'He wouldn't even hurt an ant. He doesn't even know how to use a gun'",
-    "link": "https://www.wnd.com/2026/02/evil-is-real-unmistakable-would-be-assassin-mar/",
-    "timestamp": "2026-02-23T15:01:55Z"
-  },
-  {
-    "title": "US stock market crashes today: Why Dow, SP 500, Nasdaq down again today? Wall Street moving like Trump tariffs \u2014 no clue whatsoever",
-    "description": "US stock market crashes today. The Dow Jones fell 261 points to 49,364. The S&P 500 dropped 0.29% to 6,889. The Nasdaq slid 0.44% to 22,786. Investors reacted fast after President Trump raised global tariffs to 15%. Trade fears returned. Inflation worries inc\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-why-dow-sp-500-nasdaq-down-again-today-wall-street-moving-like-trump-tariffs-no-clue-whatsoever/articleshow/128719200.cms",
-    "timestamp": "2026-02-23T15:01:24Z"
-  },
-  {
-    "title": "After Supreme Court rebuke, Democrats call for government to refund billions in Trump tariff money",
-    "description": "A trio of Senate Democrats is calling for the government to start refunding roughly $175 billion in tariff revenues that the Supreme Court ruled were...",
-    "link": "https://www.yahoo.com/news/articles/supreme-court-rebuke-democrats-call-150121826.html",
-    "timestamp": "2026-02-23T15:01:21Z"
-  },
-  {
-    "title": "Family of Iowa grad killed by illegal immigrant to attend Trump's State of the Union",
-    "description": "Sarah Root\u2019s family will attend President Trump\u2019s State of the Union after his administration extradited the illegal immigrant convicted in her 2016 drunk-driving death.",
-    "link": "https://www.foxnews.com/politics/family-iowa-grad-killed-illegal-immigrant-attend-trumps-state-union",
-    "timestamp": "2026-02-23T15:00:58Z"
-  },
-  {
-    "title": "Trump Reverts to First-Term Tumult as Republican Fears Mount (Bloomberg)",
-    "description": "Bloomberg:\nTrump Reverts to First-Term Tumult as Republican Fears Mount\u00a0 \u2014\u00a0 President Donald Trump's first year back in office won praise from supporters for its efficiency in passing legislation, enacting a trade agenda and rapidly deporting immigrants.\u00a0 \u2014\u00a0 \u2026",
-    "link": "https://www.memeorandum.com/260223/p38",
-    "timestamp": "2026-02-23T15:00:27Z"
-  },
-  {
-    "title": "US says China 'massively expanded' nuclear arsenal",
-    "description": "Washington said the lapsing earlier this month of New START -- the last treaty between top nuclear powers the United States and Russia -- presented the possibility to achieve a \"better agreement\" including Beijing.",
-    "link": "https://economictimes.indiatimes.com/news/defence/us-says-china-massively-expanded-nuclear-arsenal/articleshow/128719235.cms",
-    "timestamp": "2026-02-23T15:00:21Z"
-  },
-  {
-    "title": "Democrats Are Still Burying Their 2024 Election Autopsy \u2014 And Now We Know Why",
-    "description": "The Democratic Party is still refusing to release its 2024 election autopsy, and now we finally know why.\nThe post Democrats Are Still Burying Their 2024 Election Autopsy \u2014 And Now We Know Why appeared first on The Gateway Pundit.",
-    "link": "https://www.thegatewaypundit.com/2026/02/democrats-are-still-burying-their-2024-election-autopsy/",
-    "timestamp": "2026-02-23T15:00:12Z"
-  },
-  {
-    "title": "Trump's quashed tariffs: Congressional Democrats seek to force refunds",
-    "description": "A majority of President Donald Trump's tariffs were struck down by the Supreme Court on Friday, leading him to seek other legal mechanisms for the duties.",
-    "link": "https://www.cnbc.com/2026/02/23/congress-democrats-trump-tariffs.html",
-    "timestamp": "2026-02-23T15:00:01Z"
-  },
-  {
-    "title": "Sopranos Star Says the Show\u2019s Themes Might Be Different Today",
-    "description": "Michael Imperioli, still best known for his Emmy-winning performance as Christopher Moltisanti on The Sopranos, has recently offered his take on how the iconic HBO drama\u2019s characters might fit into today\u2019s political landscape. The actor told The Independent t\u2026",
-    "link": "http://www.denofgeek.com/tv/sopranos-star-says-themes-might-be-different-today/",
-    "timestamp": "2026-02-23T15:00:00Z"
-  },
-  {
-    "title": "Fifth Circuit Court Upholds Ten Commandments in Louisiana Public Schools",
-    "description": "The 5th Circuit Court of Appeals ruled that the state of Louisiana can require every public school to post the Ten Commandments. This issue has been controversial in many states. The Ten Commandments is a specifically religious statement, and there are multip\u2026",
-    "link": "https://dianeravitch.net/2026/02/23/fifth-circuit-court-upholds-ten-commandments-in-louisiana-public-schools/",
-    "timestamp": "2026-02-23T15:00:00Z"
-  },
-  {
-    "title": "Iran Signals Openness to Nuclear Deal as U.S. Military Pressure Mounts",
-    "description": "The Iranian government, facing pressure at home with a growing opposition and globally with threats of a US military strike, appears ready for a third round of Omani-mediated talks with American negotiators in the upcoming week. Omani Foreign Minister Badr Al\u2026",
-    "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Signals-Openness-to-Nuclear-Deal-as-US-Military-Pressure-Mounts.html",
-    "timestamp": "2026-02-23T15:00:00Z"
-  },
-  {
-    "title": "What to know about the Mexican army's killing of the powerful cartel leader 'El Mencho'",
-    "description": "The Trump administration has been threatening tariffs or unilateral military action if Mexico does not show results in the fight against the cartels.",
-    "link": "https://www.pbs.org/newshour/world/what-to-know-about-the-mexican-armys-killing-of-the-powerful-cartel-leader-el-mencho",
-    "timestamp": "2026-02-23T14:59:56Z"
-  },
-  {
-    "title": "Government looking for \u2018absolute clarity\u2019 on fresh US tariff developments \u2013 McEntee",
-    "description": "European governments seeking assurance new US \u2018global\u2019 tariff rate does not undo terms of EU-US deal",
-    "link": "https://www.irishtimes.com/business/economy/2026/02/23/government-looking-for-absolute-clarity-on-fresh-us-tariff-developments-mcentee/",
-    "timestamp": "2026-02-23T14:59:33Z"
-  },
-  {
-    "title": "WATCH LIVE: Trump to honor 'angel families' at the White House",
-    "description": "President Donald Trump will honor families who have had loved ones killed by undocumented immigrants.",
-    "link": "https://www.pbs.org/newshour/politics/watch-live-trump-to-honor-angel-families-at-the-white-house",
-    "timestamp": "2026-02-23T14:59:05Z"
-  },
-  {
-    "title": "Trump\u2019s Favorite Judge Is Back to Do Him One More Favor on Jack Smith",
-    "description": "She\u2019s baaaaack: Judge Aileen Cannon just barred the Department of Justice from releasing the second volume of former special counsel Jack Smith\u2019s report on Donald Trump. In a 15-page order Monday, Cannon approved two motions to block the public release of Vol\u2026",
-    "link": "https://newrepublic.com/post/206904/donald-trump-judge-aileen-cannon-jack-smith",
-    "timestamp": "2026-02-23T14:58:54Z"
-  },
-  {
-    "title": "US orders non-emergency personnel to leave Beirut embassy amid tensions",
-    "description": "US official says Washington determined it was 'prudent to reduce our footprint to essential personnel' in Lebanon.",
-    "link": "https://www.aljazeera.com/news/2026/2/23/us-orders-non-emergency-personnel-to-leave-beirut-embassy-amid-tensions",
-    "timestamp": "2026-02-23T14:57:11Z"
-  },
-  {
-    "title": "Too early to comment on US tariff changes; commerce ministry reviewing situation, says FM Sitharaman",
-    "description": "India's Finance Minister Nirmala Sitharaman says it is too early to comment on new US tariffs. The Commerce Ministry is reviewing the situation. India and the US have rescheduled trade talks. India continues to pursue trade agreements with various countries. \u2026",
-    "link": "https://economictimes.indiatimes.com/news/economy/policy/too-early-to-comment-on-us-tariff-changes-commerce-ministry-reviewing-situation-says-fm-nirmala-sitharaman/articleshow/128719095.cms",
-    "timestamp": "2026-02-23T14:56:12Z"
-  },
-  {
-    "title": "Nicki Minaj Bashes Gavin Newsom: 'His Way of Bonding With Black People Is to Tell Them How Stupid He Is and that He Can\u2019t Read'",
-    "description": "Rap megastar Nicki Minaj bashed California Gov. Gavin Newsom (D), declaring that \"his way of bonding with black people is to tell them how stupid he is and that he can't read.\"",
-    "link": "https://www.breitbart.com/entertainment/2026/02/23/nicki-minaj-bashes-gavin-newsom-his-way-of-bonding-with-black-people-is-to-tell-them-how-stupid-he-is-and-that-he-cant-read/",
-    "timestamp": "2026-02-23T14:56:11Z"
-  },
-  {
-    "title": "Supreme Court agrees to hear from oil and gas companies trying to block climate change lawsuits",
-    "description": "Governments around the country have sought damages totaling billions of dollars.",
-    "link": "https://www.denverpost.com/2026/02/23/supreme-court-climate-change-lawsuits/",
-    "timestamp": "2026-02-23T14:54:08Z"
-  },
-  {
-    "title": "Supreme Court agrees to hear from oil and gas companies trying to block climate change lawsuits",
-    "description": "Governments around the country have sought damages totaling billions of dollars.",
-    "link": "https://www.bostonherald.com/2026/02/23/supreme-court-climate-change-lawsuits/",
-    "timestamp": "2026-02-23T14:54:08Z"
-  },
-  {
-    "title": "Supreme Court will hear climate change lawsuit",
-    "description": "The Supreme Court has agreed to hear from oil and gas companies trying to block lawsuits seeking to hold the industry liable for billions of dollars in damage linked to climate change. The conservative-majority court took up the case Monday. The companies wen\u2026",
-    "link": "https://apnews.com/article/supreme-court-climate-change-lawsuits-c8982af07855a7a6379e1313ebb71895",
-    "timestamp": "2026-02-23T14:53:25Z"
-  },
-  {
-    "title": "Judicial Tyranny is a Threat to the Rule of Law",
-    "description": "Just because someone is wearing a black robe doesn\u2019t mean they\u2019re upholding the rule of law. Consider some recent judicial rulings. Last November, Department of... Read More\nThe post Judicial Tyranny is a Threat to the Rule of Law appeared first on The Daily \u2026",
-    "link": "https://www.dailysignal.com/2026/02/23/judicial-tyranny-is-a-threat-to-the-rule-of-law/",
-    "timestamp": "2026-02-23T14:53:21Z"
-  },
-  {
-    "title": "Bitcoin falls to nearly $64,000 as 2026 crypto woes continue",
-    "description": "Bitcoin fell below $65,000 on Monday as geopolitical and macroeconomic uncertainty sparked another flight from risk-on investments.",
-    "link": "https://www.cnbc.com/2026/02/23/bitcoin-falls-to-nearly-64000-as-2026-crypto-woes-continue-.html",
-    "timestamp": "2026-02-23T14:52:15Z"
-  },
-  {
-    "title": "Stocks tick lower after Trump ratchets up tariffs",
-    "description": "Trump said over the weekend he would slap a 15% tariff on most goods.",
-    "link": "https://abcnews.com/Business/stocks-tick-lower-after-trump-ratchets-tariffs/story?id=130407007",
-    "timestamp": "2026-02-23T14:52:08Z"
-  },
-  {
-    "title": "Netflix Boss Ted Sarandos Brushes Off Trump\u2019s Demand He Fire Board Member Susan Rice or \u2018Pay the Consequences",
-    "description": "Netflix CEO Ted Sarandos has dismissed a demand from President Donald Trump to fire former UN Ambassador Susan Rice from the streaming giant's board or \"pay the consequences.\"\u00a0\nThe post Netflix Boss Ted Sarandos Brushes Off Trump\u2019s Demand He Fire Board Member\u2026",
-    "link": "https://www.mediaite.com/media/news/netflix-boss-ted-sarandos-brushes-off-trumps-demand-he-fire-board-member-susan-rice-or-pay-the-consequences/",
-    "timestamp": "2026-02-23T14:51:03Z"
-  },
-  {
-    "title": "Trump Unleashed: 'I Can Destroy The Country'",
-    "description": "Donald Trump ranted like a deranged Karen, claiming he can destroy a country if he wants to, but because of the Supreme court ruling against his yo-yo tariffs, he's not allowed to tax them a dollar.\nDemented Donald is not allowed to destroy a foreign country \u2026",
-    "link": "https://crooksandliars.com/2026/02/trump-unleashed-i-can-destroy-county",
-    "timestamp": "2026-02-23T14:50:41Z"
-  },
-  {
-    "title": "Treasury Secretary Blames Dems For Man Getting Shot At Mar-a-Lago",
-    "description": "Treasury Sec. Scott Bessent made an appearance on Fox not \"news\" this Sunday and was asked by Maria Bartiromo about the armed man who was shot and killed after entering the perimeter around Mar-a-Lago.\nHere's some details on that from CNN:\nUS Secret Service a\u2026",
-    "link": "https://crooksandliars.com/2026/02/treasury-secretary-blames-dems-man-getting",
-    "timestamp": "2026-02-23T14:50:33Z"
-  },
-  {
-    "title": "Trump's Tantrum Over the Tariff Decision Highlights His Narcissistic Authoritarianism",
-    "description": "The president neither understands nor appreciates the vital role of judicial independence in upholding the rule of law.",
-    "link": "https://reason.com/2026/02/23/trumps-tantrum-over-the-tariff-decision-highlights-his-narcissistic-authoritarianism/",
-    "timestamp": "2026-02-23T14:49:38Z"
-  },
-  {
-    "title": "Iran says would respond 'ferociously' to any US attack",
-    "description": "In a dramatic turn of events, Iran has cautioned the United States that any aggression will be met with strong retaliation. As indirect discussions about Iran\u2019s nuclear strategy prepare to restart, Iranian students are protesting government policies, signalin\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/iran-says-would-respond-ferociously-to-any-us-attack/articleshow/128718439.cms",
-    "timestamp": "2026-02-23T14:48:38Z"
-  },
-  {
-    "title": "Europe hits the brakes on U.S. trade deal after tariff ruling",
-    "description": "The European Parliament halted ratification of a trade deal with the U.S., the latest fallout from the Supreme Court's tariff ruling.",
-    "link": "https://www.nbcnews.com/business/economy/europe-halts-trade-deal-trump-tariffs-rcna260231",
-    "timestamp": "2026-02-23T14:46:42Z"
-  },
-  {
-    "title": "Binance\u2019s Zhao touts U.S. growth bid at Trump family crypto bash",
-    "description": "Just months after receiving a presidential pardon, Binance co-founder Changpeng Zhao appeared at Mar-a-Lago last week. Find out more here",
-    "link": "https://financialpost.com/fp-finance/cryptocurrency/binances-zhao-trump-crypto-bash",
-    "timestamp": "2026-02-23T14:45:53Z"
-  },
-  {
-    "title": "Federal judge blocks release of Jack Smith report's second volume",
-    "description": "The judge\u2019s ruling blocks the release of Jack Smith\u2019s report on President Donald Trump\u2019s handling of classified documents.",
-    "link": "https://www.foxnews.com/politics/federal-judge-blocks-release-jack-smith-reports-second-volume",
-    "timestamp": "2026-02-23T14:45:44Z"
-  },
-  {
-    "title": "Trump Invents Pathetic SCOTUS Insult as Tariff Meltdown Continues",
-    "description": "president donald trump is having a totally teenagerish temper tantrum because the supreme court blocked his illegal tariffs. In a tirade on Truth Social Monday morning, Trump declared that he\u2019d no longer capitalize the Supreme Court\u2019s name \u201cbased on a complet\u2026",
-    "link": "https://newrepublic.com/post/206898/donald-trump-supreme-court-insult-tariff-meltdown",
-    "timestamp": "2026-02-23T14:43:23Z"
-  },
-  {
-    "title": "Alysa Liu shows off custom Team USA jersey after Winter Olympics glory",
-    "description": "Team USA built up many new stars at the 2026 Winter Olympics in Milan Cortina, but ice skater Alysa Liu took that stardom to an entirely larger level with her endeavors on the ice. The 20 year old ice dancer\u2026",
-    "link": "https://www.thebiglead.com/alysa-liu-shows-off-custom-team-usa-jersey-winter-olympics-glory/",
-    "timestamp": "2026-02-23T14:41:38Z"
-  },
-  {
-    "title": "The Media Front: Silent Right",
-    "description": "In this edition: Stephen Colbert, Don Lemon, Mark Zuckerberg, New York Times AI drama and the future of sports media\nThe post The Media Front: Silent Right appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/media-platforms/journalism/the-media-front-stephen-colbert-don-lemon-fcc/",
-    "timestamp": "2026-02-23T14:39:33Z"
-  },
-  {
-    "title": "Judge blocks release of special counsel Smith\u2019s report on Trump classified documents case",
-    "description": "U.S. District Judge Aileen Cannon was nominated to the bench by Trump.",
-    "link": "https://www.denverpost.com/2026/02/23/judge-special-counsel-trump-classified-documents/",
-    "timestamp": "2026-02-23T14:39:31Z"
-  },
-  {
-    "title": "Judge blocks release of special counsel Smith\u2019s report on Trump classified documents case",
-    "description": "U.S. District Judge Aileen Cannon was nominated to the bench by Trump.",
-    "link": "https://www.bostonherald.com/2026/02/23/judge-special-counsel-trump-classified-documents/",
-    "timestamp": "2026-02-23T14:39:31Z"
-  },
-  {
-    "title": "Indian exports to attract 10% tariff in US for 150 days from Feb 24; uncertainty persists",
-    "description": "Following a Supreme Court verdict against his earlier sweeping tariffs last week, Trump on February 21 imposed a 10 per cent tariff on all countries, including India, from February 24 for 150 days",
-    "link": "https://www.thehindubusinessline.com/economy/indian-exports-to-attract-10-tariff-in-us-for-150-days-from-feb-24-uncertainty-persists/article70666665.ece",
-    "timestamp": "2026-02-23T14:37:41Z"
-  },
-  {
-    "title": "Ruchir Sharma: Gold enters the storybook stage",
-    "description": "Its price is now far above levels suggested by fundamental forces, but it's hard to see what might stop its ascent",
-    "link": "https://financialpost.com/financial-times/ruchir-sharma-gold-storybook-stage",
-    "timestamp": "2026-02-23T14:36:55Z"
-  },
-  {
-    "title": "World Mourns Willie Colon: The Unapologetically Pro-Police, MAGA Founding Father of Salsa",
-    "description": "Nuyorican music icon, activist, and retired law enforcement officer Willie Col\u00f3n passed away in his native New York on Saturday at the age of 75, leaving an unfillable and quintessentially American void in Spanish-language music.\nThe post World Mourns Willie \u2026",
-    "link": "https://www.breitbart.com/entertainment/2026/02/23/world-mourns-willie-colon-the-unapologetically-pro-police-maga-founding-father-of-salsa/",
-    "timestamp": "2026-02-23T14:35:37Z"
-  },
-  {
-    "title": "Supreme Court takes up oil companies' plea to end climate change lawsuits",
-    "description": "The Supreme Court agreed to hear an attempt by energy companies to throw out a Colorado lawsuit to hold them accountable for the costs of climate change.",
-    "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-takes-oil-companies-appeal-end-climate-change-lawsuits-rcna252425",
-    "timestamp": "2026-02-23T14:35:32Z"
-  },
-  {
-    "title": "US stock markets today: US stocks open lower as tariff uncertainty hurts risk appetite",
-    "description": "US stocks edged lower on Monday as tariff uncertainty weighed on sentiment across key benchmarks, including the Dow Jones Industrial Average, S&P 500 and the Nasdaq Composite.",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-markets-today-us-stocks-open-lower-as-tariff-uncertainty-hurts-risk-appetite/articleshow/128718082.cms",
-    "timestamp": "2026-02-23T14:35:16Z"
-  },
-  {
-    "title": "Nolte: Newsom Tells Black Audience \u2018I\u2019m Like You\u2026960 SAT\u2026I Cannot Read a Speech\u2019",
-    "description": "California Gov. Gavin Newsom (D-Racist) basically told a group of black voters in Georgia, Vote for me. I\u2019m stupid just like you!\nThe post Nolte: Newsom Tells Black Audience \u2018I\u2019m Like You\u2026960 SAT\u2026I Cannot Read a Speech\u2019 appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2026/02/23/nolte-newsom-tells-black-audience-im-like-you960-sati-cannot-read-a-speech/",
-    "timestamp": "2026-02-23T14:34:20Z"
-  },
-  {
-    "title": "Telegraph: Epstein Stored Computers And CDs In Storage Units",
-    "description": "According to The Telegraph, Jeffrey Epstein paid private detectives to remove equipment from his Florida home to prevent investigators from finding it.\nThey reference documents that show he rented six storage units across the US and used them to house items f\u2026",
-    "link": "https://crooksandliars.com/2026/02/telegraph-epstein-stored-computers-and-cds",
-    "timestamp": "2026-02-23T14:31:24Z"
-  },
-  {
-    "title": "Trump won't blink on tariffs \u2014 because he can't (Stephen Collinson/CNN)",
-    "description": "Stephen Collinson / CNN:\nTrump won't blink on tariffs \u2014 because he can't\u00a0 \u2014\u00a0 No, President Donald Trump isn't looking for a new \u201cmost beautiful word\u201d in the dictionary to replace his beloved tariffs.\u00a0 \u2014\u00a0 True to his philosophy of never accepting a defeat, he'\u2026",
-    "link": "https://www.memeorandum.com/260223/p36",
-    "timestamp": "2026-02-23T14:30:00Z"
-  },
-  {
-    "title": "Trump\u2019s big speech will be delivered to a changed nation and a Congress he has sidelined",
-    "description": "The country is at a crossroads.",
-    "link": "https://www.bostonherald.com/2026/02/23/trump-congress-state-of-the-union/",
-    "timestamp": "2026-02-23T14:23:41Z"
-  },
-  {
-    "title": "Trump's approval rating with independents hits a new low ahead of the State of the Union (CNN)",
-    "description": "CNN:\nTrump's approval rating with independents hits a new low ahead of the State of the Union\u00a0 \u2014\u00a0 When President Donald Trump gives his State of the Union address Tuesday, he will face a public that increasingly questions his priorities and expresses broad do\u2026",
-    "link": "https://www.memeorandum.com/260223/p35",
-    "timestamp": "2026-02-23T14:20:01Z"
-  },
-  {
-    "title": "'You ruined our life': Trump superfans furious after husband locked up by ICE",
-    "description": "A New Jersey woman expressed regret for her support of President Donald Trump after immigration agents picked up her husband and detained him for months.Abdellatif Hafraoui was taken into custody in August at Newark airport, where he had his wife had planned \u2026",
-    "link": "https://www.rawstory.com/regretful-trump-voters-2675293606/",
-    "timestamp": "2026-02-23T14:19:36Z"
-  },
-  {
-    "title": "Russia-Ukraine war at 4 years: Which country is winning the battle? A look at where do these two countries stand",
-    "description": "Around a fifth of Ukraine is contaminated by mines or unexploded ordnance, according to the UN's Mine Action Service. The total cost of reconstruction in Ukraine is estimated at around $588 billion over the next decade, the World Bank reported Monday.",
-    "link": "https://economictimes.indiatimes.com/news/international/us/russia-ukraine-war-at-4-years-which-country-is-winning-the-battle-a-look-at-where-do-these-two-countries-stand/articleshow/128717570.cms",
-    "timestamp": "2026-02-23T14:19:11Z"
-  },
-  {
-    "title": "Can Keir Starmer save the Chagos deal?",
-    "description": "Opponents confident they can scupper controversial agreement as PM faces a race against time to get it over the line",
-    "link": "https://theweek.com/politics/keir-starmer-chagos-islands-deal-donald-trump",
-    "timestamp": "2026-02-23T14:16:23Z"
-  },
-  {
-    "title": "Recovery stalls for U.S. citizen girl with rare brain tumor, deported mother says",
-    "description": "An 11-year-old U.S. citizen girl\u2019s treatment for a rare brain tumor was interrupted when her parents were deported to Mexico.",
-    "link": "https://www.nbcnews.com/news/us-news/girl-us-citizen-brain-tumor-mexico-deported-parents-rcna259779",
-    "timestamp": "2026-02-23T14:15:48Z"
-  },
-  {
-    "title": "Mexico\u2019s latest cartel violence prompts fears of \u2018narcoterrorism\u2019 in replay 1990s Colombia",
-    "description": "The Mexican army killed the country\u2019s most powerful cartel leader and one of the United States\u2019 most wanted fugitives on Sunday, notching a major victory while cartel members responded with a wave violence across the country. The\u00a0killing of Jalisco New Genera\u2026",
-    "link": "https://fortune.com/2026/02/23/what-happened-in-mexico-cartel-violence-el-mencho-war-on-drugs/",
-    "timestamp": "2026-02-23T14:15:35Z"
   }
 ]
