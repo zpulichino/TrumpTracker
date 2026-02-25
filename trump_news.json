@@ -1,5 +1,263 @@
 [
   {
+    "title": "Apple to Build the Mac Mini in the United States for the First Time",
+    "description": "Apple will begin manufacturing the wee desktop computer in Houston later this year.",
+    "link": "https://www.cnet.com/tech/computing/apple-mac-mini-made-in-america/",
+    "timestamp": "2026-02-24T21:31:24Z"
+  },
+  {
+    "title": "'The View' co-host Joy Behar claims Trump is not a 'legitimate president,' sides with Dems skipping SOTU",
+    "description": "Joy Behar said President Trump was not a legitimate president on \"The View\" and sided with Democrats boycotting State of the Union address.",
+    "link": "https://www.foxnews.com/media/the-view-co-host-joy-behar-claims-trump-not-legitimate-president-sides-dems-skipping-sotu",
+    "timestamp": "2026-02-24T21:30:35Z"
+  },
+  {
+    "title": "Apple will build the Mac Mini in the US and you can probably thank AI",
+    "description": "Better than a golden plaque",
+    "link": "https://www.techradar.com/computing/macs/apple-will-build-the-mac-mini-in-the-us-and-you-can-probably-thank-ai",
+    "timestamp": "2026-02-24T21:30:00Z"
+  },
+  {
+    "title": "'Secret' $800m arms deal with Russia boosts Iran's air defences",
+    "description": "Iran has reportedly signed a secret arms deal with Russia to acquire thousands of advanced shoulder-fired missiles to help boost its air defences.",
+    "link": "https://www.abc.net.au/news/2026-02-25/iran-missile-defence-deal-russia-verba-manpad-weapons/106380088",
+    "timestamp": "2026-02-24T21:29:12Z"
+  },
+  {
+    "title": "Appeals court questions shifting reasons for Trump\u2019s EPA killing clean energy contracts",
+    "description": "Judges pressed the EPA about what one judge calls shifting reasons for the move.",
+    "link": "https://www.bostonherald.com/2026/02/24/trump-epa-grants-appeals/",
+    "timestamp": "2026-02-24T21:29:11Z"
+  },
+  {
+    "title": "Bitcoin heads for worst month since crypto collapse of June 2022",
+    "description": "Bitcoin remained tethered near the the lower end of recent trading range even as markets showed signs of a renewal of risk appetite. Read on",
+    "link": "https://financialpost.com/fp-finance/cryptocurrency/bitcoin-heads-to-worst-month-since-2022",
+    "timestamp": "2026-02-24T21:29:02Z"
+  },
+  {
+    "title": "Warner Bros. Discovery says it thinks Paramount's new bid could be superior to Netflix's offer",
+    "description": "David Ellison's Paramount Skydance has a new offer for WBD that may force Netflix to pay more money, or drop its pursuit altogether.",
+    "link": "https://www.businessinsider.com/wbd-warner-bros-paramount-netflix-bid-david-ellison-bidding-war-2026-2",
+    "timestamp": "2026-02-24T21:28:45Z"
+  },
+  {
+    "title": "MS Now Host Says Trump\u2019s 'Savage' ICE Centers \u2018More Extreme\u2019 Than WWII Internment Camps",
+    "description": "\"There\u2019s no transparency,\" Joe Scarborough said.",
+    "link": "https://www.huffpost.com/entry/joe-scarborough-trump-ice-camps-worse-wwii-internment-camps_n_699de381e4b0967090fd0378",
+    "timestamp": "2026-02-24T21:27:53Z"
+  },
+  {
+    "title": "Exclusive: No. 2 House Democrat to skip Trump's State of the Union address",
+    "description": "House Democratic Whip\u00a0Katherine Clark told ABC News she will not attend President Donald Trump's State of the Union address on Tuesday night.",
+    "link": "https://abcnews.com/Politics/exclusive-2-house-democrat-skip-trumps-state-union/story?id=130444113",
+    "timestamp": "2026-02-24T21:27:39Z"
+  },
+  {
+    "title": "FBI Notes From Interviews With Trump Accuser Omitted From Epstein Database",
+    "description": "Democrats who viewed the unredacted Epstein files said they confirmed the FBI investigated the \"heinous\" accusation.",
+    "link": "https://www.huffpost.com/entry/epstein-files-trump-accuser-fbi-interviews_n_699e044ee4b0c4f80826dcb9",
+    "timestamp": "2026-02-24T21:27:32Z"
+  },
+  {
+    "title": "The United States Has Grand Plans in the Caucasus",
+    "description": "Washington is trying to build up Armenia and Azerbaijan as regional allies.",
+    "link": "http://foreignpolicy.com/2026/02/24/iran-armenia-azerbaijan-united-states/",
+    "timestamp": "2026-02-24T21:27:24Z"
+  },
+  {
+    "title": "US Defense Secretary Pete Hegseth warns Anthropic to allow full military use of its ai or risk losing Pentagon contract",
+    "description": "The US government is putting pressure on AI company Anthropic over military use of its technology. Defense Secretary Pete Hegseth has given a deadline for the company to allow its AI to be used in legal defense work. Anthropic is worried about safety risks, e\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/us-defense-secretary-pete-hegseth-warns-anthropic-to-allow-full-military-use-of-its-ai-or-risk-losing-pentagon-contract/articleshow/128762771.cms",
+    "timestamp": "2026-02-24T21:26:49Z"
+  },
+  {
+    "title": "Trump Adds Take-A-Number Ticket Dispenser At Mar-A-Lago For Would-Be Assassins",
+    "description": "PALM BEACH, FL \u2014 In an effort to create a more efficient process for everyone making an attempt on his life, President Donald Trump ordered his staff to install a &#34;Take-A-Number&#34; ticket dispenser at the front gate of Mar-a-Lago for all would-be assass\u2026",
+    "link": "https://babylonbee.com/news/trump-adds-take-a-number-ticket-dispenser-to-front-of-mar-a-lago-for-would-be-assassins",
+    "timestamp": "2026-02-24T21:26:00Z"
+  },
+  {
+    "title": "State of the Union: Trump to announce plans for new tax cuts through budget reconciliation",
+    "description": "Advancing any legislation through this process is now significantly more challenging given House Speaker Mike Johnson's shrinking margin in the lower chamber.",
+    "link": "https://www.cnbc.com/2026/02/24/state-of-the-union-trump-tax-cuts.html",
+    "timestamp": "2026-02-24T21:25:42Z"
+  },
+  {
+    "title": "HP reckons memory chip crunch will linger next year, warns of PC sales slump",
+    "description": "Feb 24 : HP Inc said on Tuesday it expected volatility in memory chips to persist even into next year and forecast a slump in its PC shipments, sending its shares down around 6 per cent in extended trading.The personal devices maker said it expects adjusted p\u2026",
+    "link": "https://www.channelnewsasia.com/business/hp-reckons-memory-chip-crunch-will-linger-next-year-warns-pc-sales-slump-5950896",
+    "timestamp": "2026-02-24T21:24:43Z"
+  },
+  {
+    "title": "Trump to Push Congress for More Tax Relief in State of the Union Address",
+    "description": "President Donald Trump told Breitbart News and other media outlets that he will push for more tax relief for Americans in his State of the Union address on Tuesday night.\nThe post Trump to Push Congress for More Tax Relief in State of the Union Address appear\u2026",
+    "link": "https://www.breitbart.com/politics/2026/02/24/trump-to-push-congress-for-more-tax-relief-in-state-of-the-union-address/",
+    "timestamp": "2026-02-24T21:23:21Z"
+  },
+  {
+    "title": "Housing and Urban Development Celebrates Falling Rents Amid Migrant Deportations",
+    "description": "President Donald Trump's deportation policy is cutting rents for many millions of younger Americans, says Housing Secretary Scott Turner.\nThe post Housing and Urban Development Celebrates Falling Rents Amid Migrant Deportations appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/economy/2026/02/24/housing-and-urban-development-celebrates-falling-rents-amid-migrant-deportations/",
+    "timestamp": "2026-02-24T21:23:04Z"
+  },
+  {
+    "title": "Sean Taylor \u2013 First Light (2026)",
+    "description": "First Light, Sean Taylor\u2019s latest release, is like a collection of broadside ballads; song sheets with the ink still wet, hawked on street corners from the 16th century for some 300 years. As immediate as news bulletins, the songs were meant to provide inform\u2026",
+    "link": "https://exystence.net/blog/2026/02/24/sean-taylor-first-light-2026/",
+    "timestamp": "2026-02-24T21:21:26Z"
+  },
+  {
+    "title": "US Attorney Boxwine Already Can\u2019t Remember Trying To Put Mark Kelly In Jail",
+    "description": "NBC News reports that US Attorney Jeanine Pirro has now officially given up trying to put Mark Kelly IN JAIL for reciting the law out loud.",
+    "link": "https://www.wonkette.com/p/us-attorney-boxwine-already-cant",
+    "timestamp": "2026-02-24T21:20:21Z"
+  },
+  {
+    "title": "Trump administration considers forcing banks to verify customers\u2019 citizenship | CNN Business",
+    "description": "The Trump administration is weighing a new requirement for US banks to verify citizenship information of current and future customers as part of the president\u2019s aggressive immigration crackdown, sources told CNN.",
+    "link": "https://www.cnn.com/2026/02/24/business/trump-immigration-banks-citizenship",
+    "timestamp": "2026-02-24T21:19:53Z"
+  },
+  {
+    "title": "Who Are Donald Trump's Kids & Grandchildren? Meet the Extended Family",
+    "description": "Donald Trump is officially giving his State of the Union address this evening (February 24). After winning the 2024 election, the 79-year-old president elect secured a second term as president. He is now in his second year on the job. If you were unaware, the\u2026",
+    "link": "https://www.justjared.com/2026/02/24/who-are-donald-trumps-kids-grandchildren-meet-the-extended-family-2/",
+    "timestamp": "2026-02-24T21:18:43Z"
+  },
+  {
+    "title": "Ukrainian envoy says US raised concerns about strikes aimed at Russia that impacted US oil interests",
+    "description": "The U.S. State Department has expressed its displeasure about Ukraine\u2019s recent attacks on the \u2060 Russian port of Novorossiysk on the Black Sea that have...",
+    "link": "https://www.yahoo.com/news/articles/ukrainian-envoy-says-us-raised-211803116.html",
+    "timestamp": "2026-02-24T21:18:03Z"
+  },
+  {
+    "title": "Avalanche\u2019s Brock Nelson skips Team USA White House visit after winning gold medal",
+    "description": "All four members of the Colorado Avalanche who played in the gold medal game of the 2026 Winter Olympics were back in Denver on Tuesday morning, according to a team source.",
+    "link": "https://www.denverpost.com/2026/02/24/avlanche-nelson-trump-white-house-patel/",
+    "timestamp": "2026-02-24T21:18:02Z"
+  },
+  {
+    "title": "Quinn and Jack Hughes address Trump call drama and White House invite after U.S. men's hockey gold",
+    "description": "U.S. Olympic hockey stars Quinn and Jack Hughes spoke out Tuesday about the viral phone call between the men&apos;s hockey team and former President Donald Trump, following their 2",
+    "link": "https://www.marca.com/en/olympic-games/2026/02/24/699df9cfe2704e0c698b4585.html",
+    "timestamp": "2026-02-24T21:16:58Z"
+  },
+  {
+    "title": "Trump Hires Team USA Goalie To Guard Southern Border",
+    "description": "WASHINGTON, D.C. \u2014 America's national security received a significant boost this week, as President Donald Trump announced that he had hired the goalie of the U.S. men's Olympic hockey team to guard the southern border. Trump made the announcement from the Wh\u2026",
+    "link": "https://freerepublic.com/focus/f-bloggers/4368145/posts",
+    "timestamp": "2026-02-24T21:16:58Z"
+  },
+  {
+    "title": "Democrats to probe DOJ's alleged withholding of Epstein files on Trump (Hailey Fuchs/Politico)",
+    "description": "Hailey Fuchs / Politico:\nDemocrats to probe DOJ's alleged withholding of Epstein files on Trump \u2026 \u201cFor the last few weeks, Oversight Democrats have been investigating the FBI's handling of allegations from 2019 of sexual assault on a minor made against Presid\u2026",
+    "link": "https://www.memeorandum.com/260224/p84",
+    "timestamp": "2026-02-24T21:15:01Z"
+  },
+  {
+    "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against Enphase Energy, Inc.and Certain Officers \u2013 ENPH",
+    "description": "NEW YORK, Feb. 24, 2026 (GLOBE NEWSWIRE) -- Pomerantz LLP announces that a class action lawsuit has been filed against Enphase Energy, Inc. (\u201cEnphase\u201d or the \u201cCompany\u201d) (NASDAQ: ENPH) and certain officers.\u202f\u202f The class action, filed in the United States Distri\u2026",
+    "link": "https://www.globenewswire.com/news-release/2026/02/24/3244071/1087/en/Pomerantz-Law-Firm-Announces-the-Filing-of-a-Class-Action-Against-Enphase-Energy-Inc-and-Certain-Officers-ENPH.html",
+    "timestamp": "2026-02-24T21:15:00Z"
+  },
+  {
+    "title": "Bingo! Trump SOTU Preemptively Ridiculed By Newsom With Game Cards Predictions: \u201cRandom Nicki Minaj Callout\u201d",
+    "description": "Gavin Newsom has long made trolling and slagging Donald Trump a bit of a game, and now with tonight\u2019s State of the Union speech, the California governor has made it official. \u201cTonight, we\u2019re playing Trump Crash Out Bingo,\u201d Newsom announced online Tuesday just\u2026",
+    "link": "http://deadline.com/2026/02/gavin-newsom-trump-state-of-the-union-1236734740/",
+    "timestamp": "2026-02-24T21:12:37Z"
+  },
+  {
+    "title": "Hegseth Warns Anthropic To Let Military Use Its AI Tech As It Sees Fit: AP Source",
+    "description": "Anthropic, maker of Claude, has been clear that it has ethical concerns over unchecked government use of AI.",
+    "link": "https://www.huffpost.com/entry/hegseth-warns-anthropic-to-let-the-military-use-ai-tech-as-it-sees-fit-ap-source_n_699e100ee4b0967090fd572b",
+    "timestamp": "2026-02-24T21:12:11Z"
+  },
+  {
+    "title": "\u2018I Might\u2019: Kamala Harris Leaves the Door Open On a Potential 2028 Run",
+    "description": "Former Vice President Kamala Harris revealed she was still undecided about another run for president, but said she \u201cmight\u201d give it another go. Harris on Monday held a live video call with author Sharon McMahon. At one point in their conversation, McMahon intr\u2026",
+    "link": "https://www.mediaite.com/politics/i-might-kamala-harris-leaves-the-door-open-on-a-potential-2028-run/",
+    "timestamp": "2026-02-24T21:10:20Z"
+  },
+  {
+    "title": "Top Gen said to dispute Trump's expectation of easy win in Iran",
+    "description": "US News: WASHINGTON: President Donald Trump said on Monday that General Dan Caine, the chair of the joint chiefs of staff, believed that any eventual military .",
+    "link": "https://timesofindia.indiatimes.com/world/us/top-gen-said-to-dispute-trumps-expectation-of-easy-win-in-iran/articleshow/128762889.cms",
+    "timestamp": "2026-02-24T21:10:03Z"
+  },
+  {
+    "title": "Mike Johnson Slams \u2018Shameful\u2019 Democrats for Boycotting Trump\u2019s State of the Union: \u2018Republicans Don\u2019t Do That\u2019",
+    "description": "House Speaker Mike Johnson shamed Democrats planning to skip President Donald Trump's State of the Union address, declaring that Republicans \"don't do that.\"\nThe post Mike Johnson Slams \u2018Shameful\u2019 Democrats for Boycotting Trump\u2019s State of the Union: \u2018Republic\u2026",
+    "link": "https://www.mediaite.com/media/tv/mike-johnson-slams-shameful-democrats-for-boycotting-trumps-state-of-the-union-republicans-dont-do-that/",
+    "timestamp": "2026-02-24T21:09:49Z"
+  },
+  {
+    "title": "The longest State of the Union addresses in history, ranked",
+    "description": "President Donald Trump set the record for the longest address in 2025.",
+    "link": "https://www.businessinsider.com/state-of-the-union-address-longest-record",
+    "timestamp": "2026-02-24T21:09:30Z"
+  },
+  {
+    "title": "LAPD secures $9.8 million DHS grant to protects city\u2019s airspace from drones",
+    "description": "The $9.8 million DHS grant will combat illegal drones that \"pose a threat to the safety and security of the American people,\" LAPD documents said.",
+    "link": "https://nypost.com/2026/02/24/us-news/los-angeles-police-department-approved-a-9-8-million-dhs-grant-for-anti-drone-technology/",
+    "timestamp": "2026-02-24T21:06:08Z"
+  },
+  {
+    "title": "After Donating $35 Million to Trump PAC, Crypto.com Scores Wins From Regulators",
+    "description": "Weeks after giving another $5 million to a pro-Trump PAC, the exchange received lawsuit aid from the CFTC and a bank charter from the Treasury Department.",
+    "link": "https://decrypt.co/359029/after-donating-35-million-trump-pac-crypto-com-scores-wins-regulators",
+    "timestamp": "2026-02-24T21:05:23Z"
+  },
+  {
+    "title": "CIA offers tips to potential informants in Iran as Trump considers military action",
+    "description": "The agency posted messages offering instructions in Farsi on how to safely contact U.S. intelligence.",
+    "link": "https://www.bostonherald.com/2026/02/24/cia-informant-tips/",
+    "timestamp": "2026-02-24T21:04:35Z"
+  },
+  {
+    "title": "James Cameron Complains About Netflix/Warner Bros Merger, Doesn\u2019t Acknowledge A Paramount Deal Would Be Much Worse",
+    "description": "We\u2019ve explained in detail how Larry Ellison is trying to scuttle Netflix\u2019s planned merger with Warner Brothers because he wants to buy CNN and HBO, and, as he\u2019s doing with CBS (and now TikTok) turn them into a safe space for right wing zealots, autocrats, and\u2026",
+    "link": "https://www.techdirt.com/2026/02/24/james-cameron-complains-about-netflix-warner-bros-merger-doesnt-acknowledge-a-paramount-deal-would-be-much-worse/",
+    "timestamp": "2026-02-24T21:02:18Z"
+  },
+  {
+    "title": "SOTU Spotlight: The Moments That Shaped Trump\u2019s Addresses",
+    "description": "As President Donald Trump prepares to deliver his State of the Union address on Tuesday, a look back at some of the most memorable, surprising, and closely watched moments from his previous speeches highlights how the annual address has provided a stage for l\u2026",
+    "link": "https://www.breitbart.com/politics/2026/02/24/sotu-spotlight-the-moments-that-shaped-trumps-addresses/",
+    "timestamp": "2026-02-24T21:02:00Z"
+  },
+  {
+    "title": "The Atlantic staff writer fumes over Trump\u2019s women's hockey joke during call with Team USA",
+    "description": "Sports writer Sally Jenkins sparked heated debate after criticizing President Donald Trump's joke to the U.S. men's hockey team, citing WNBA ratings over NHL viewership statistics.",
+    "link": "https://www.foxnews.com/media/atlantic-staff-writer-fumes-over-trumps-hockey-joke-during-call-team-usa",
+    "timestamp": "2026-02-24T21:00:59Z"
+  },
+  {
+    "title": "Did the Constitution doom American democracy?",
+    "description": "In the spring of 2015, few outlets predicted that the US would soon face a democratic crisis. Barack Obama was the president, and the conventional wisdom was that he\u2019d be succeeded by Hillary Clinton or Jeb Bush. Donald Trump wouldn\u2019t announce his presidentia\u2026",
+    "link": "https://www.vox.com/politics/480266/american-democracy-doomed-matt-yglesias-trump",
+    "timestamp": "2026-02-24T21:00:44Z"
+  },
+  {
+    "title": "Pentagon: We\u2019ll Soon Learn If Aliens Are Real",
+    "description": "United States Secretary of War Pete Hegseth has said that he will learn alongside the American public whether his department holds records proving the existence of aliens. When asked if he thinks aliens are real, Hegseth said, \u201cWe\u2019ll see. I get to do the revi\u2026",
+    "link": "https://www.shtfplan.com/headline-news/pentagon-well-soon-learn-if-aliens-are-real",
+    "timestamp": "2026-02-24T21:00:28Z"
+  },
+  {
+    "title": "We Now Know What Trump\u2019s \u201cLocker Room Banter\u201d Looks Like",
+    "description": "It seems quaint to think about now. But in October 2016, just one month away from the presidential election that would fundamentally warp American politics, the biggest threat to Donald Trump\u2019s candidacy was a 2005 Access Hollywood recording that caught Trump\u2026",
+    "link": "https://www.motherjones.com/politics/2026/02/trump-locker-room-us-mens-hockey-team-access-hollywood/",
+    "timestamp": "2026-02-24T21:00:13Z"
+  },
+  {
+    "title": "Pressley, McGovern join Sen. Markey in boycotting State of the Union address",
+    "description": "Democratic U.S. Reps. Ayanna Pressley (MA-07) and Jim McGovern (MA-02) say they will not attend the State of the Union address Tuesday night, joining Sen. Ed Markey in boycotting the event in protest against President Trump.",
+    "link": "https://www.bostonherald.com/2026/02/24/pressley-mcgovern-join-sen-markey-in-boycotting-state-of-the-union-address/",
+    "timestamp": "2026-02-24T20:59:40Z"
+  },
+  {
     "title": "Donald Trump Talks Iran, Previews SOTU Speech In Traditional Pre-Speech White House Lunch With Network Anchors",
     "description": "Donald Trump dined with major broadcast and cable network news anchors on Tuesday, carrying on a long tradition of presidents having lunch with the major media figures in the hours before delivering a State of the Union address. The three major broadcast anch\u2026",
     "link": "http://deadline.com/2026/02/trump-news-anchor-lunch-state-of-the-union-1236734696/",
@@ -304,251 +562,5 @@
     "description": "The lawsuit argues that the public university \u201cengaged in a hostile work environment against Jewish and Israeli faculty and staff\u201d and violated the Civil Rights Act of 1964, which outlawed discrimination based on race, color, religion, sex or national origin.",
     "link": "https://nypost.com/2026/02/24/us-news/ucla-sued-by-trump-administration-over-alleged-antisemitism/",
     "timestamp": "2026-02-24T20:14:26Z"
-  },
-  {
-    "title": "A running list of ICE deaths and shootings during Trump\u2019s second term",
-    "description": "The dramatic increase in the scale, scope and aggressiveness of interior immigration enforcement since January 2025 has led to a spike in injuries and deaths",
-    "link": "https://theweek.com/politics/ice-deaths-shootings-trump-second-term-cbp-dhs",
-    "timestamp": "2026-02-24T20:09:28Z"
-  },
-  {
-    "title": "Fake ophthalmologist dupes Bengaluru doctor of Rs 22 lakh in matrimonial scam",
-    "description": "Bengaluru: A doctor lost over Rs 22 lakh in a matrimonial fraud after being lured into a fake relationship with an alleged ophthalmologist based in Be.",
-    "link": "https://timesofindia.indiatimes.com/city/bengaluru/fake-ophthalmologist-dupes-bengaluru-doctor-of-rs-22-lakh-in-matrimonial-scam/articleshow/128759885.cms",
-    "timestamp": "2026-02-24T20:09:00Z"
-  },
-  {
-    "title": "U.S. men's hockey team expected to attend Trump's State of the Union speech",
-    "description": "Members of the U.S. men's hockey team are expected to attend President Donald Trump's State of the Union address on Tuesday, White House officials said",
-    "link": "https://www.nbcnews.com/politics/donald-trump/trump-us-mens-hockey-team-state-union-speech-congress-rcna260479",
-    "timestamp": "2026-02-24T20:08:48Z"
-  },
-  {
-    "title": "The Winklevoss Twins\u2019 Crypto Company Is in Crisis After the Bitcoin Crash",
-    "description": "\"They made the wrong bet at the wrong time.\"\nThe post The Winklevoss Twins\u2019 Crypto Company Is in Crisis After the Bitcoin Crash appeared first on Futurism.",
-    "link": "http://futurism.com/future-society/winklevoss-bitcoin-crypto-crash",
-    "timestamp": "2026-02-24T20:07:18Z"
-  },
-  {
-    "title": "Russell Brand Sparks Outrage With More Disturbing Charges Days After Baptizing Over 20 People In Hot Tub",
-    "description": "\u201cBaptizing people in Arkansas a month later? He\u2019s quick!\u201d",
-    "link": "https://www.boredpanda.com/russell-brand-new-charges-after-baptizing-over-20-people/",
-    "timestamp": "2026-02-24T20:05:35Z"
-  },
-  {
-    "title": "American tourist describes wave of violence after Mexican cartel boss killing",
-    "description": "An American tourist describes the violence he was caught in Puerto Vallarta.",
-    "link": "https://abcnews.com/US/american-tourist-violence-mexican-drug-lords-killing-warning/story?id=130441026",
-    "timestamp": "2026-02-24T20:04:52Z"
-  },
-  {
-    "title": "These are the 5 U.S. men's hockey players not at President Donald Trump's State of the Union address",
-    "description": "We have the official list here.",
-    "link": "https://www.sportingnews.com/us/nhl/news/these-5-us-mens-hockey-players-not-president-donald-trumps-state-union-address/f679a4dfef362b552ba37d4f",
-    "timestamp": "2026-02-24T20:04:36Z"
-  },
-  {
-    "title": "Immigration is Trump's best and worst issue: ABC News/Washington Post/Ipsos poll",
-    "description": "We asked Trump approvers and disapprovers what his best and worst moves were.",
-    "link": "https://abcnews.com/Politics/immigration-trumps-best-worst-issue-abc-newswashington-postipsos/story?id=130453377",
-    "timestamp": "2026-02-24T20:03:21Z"
-  },
-  {
-    "title": "The End of Diplomacy",
-    "description": "The once-bustling corridors at Foggy Bottom are tomblike as ambassadors scrap for information.",
-    "link": "https://www.theatlantic.com/national-security/2026/02/trump-diplomacy-state-department-washington/686126/",
-    "timestamp": "2026-02-24T20:02:43Z"
-  },
-  {
-    "title": "Kamala Harris Completely Fails to Read the Room on 2028",
-    "description": "The 2028 presidential election could see a painfully familiar face return to the campaign trail.Former Vice President Kamala Harris told podcaster Sharon McMahon on Tuesday that she has not yet ruled out the possibility of yet another presidential campaign.\u201cW\u2026",
-    "link": "https://newrepublic.com/post/206997/kamala-harris-read-room-2028",
-    "timestamp": "2026-02-24T20:02:11Z"
-  },
-  {
-    "title": "Limits on Ukraine\u2019s army in peace deal should apply to Russia too, EU chief proposes",
-    "description": "Zelenskiy praises Europeans who have \u2018stood on the right side of history\u2019 as Kyiv counts four years of war",
-    "link": "https://www.irishtimes.com/world/europe/2026/02/25/limits-on-ukraines-army-in-peace-deal-should-apply-to-russia-too-eu-chief-proposes/",
-    "timestamp": "2026-02-24T20:00:20Z"
-  },
-  {
-    "title": "How to Watch the 2026 State of the Union",
-    "description": "President Trump will deliver his first official State of the Union of his second term amid the partial government shutdown. Here's what to know.",
-    "link": "http://www.rollingstone.com/product-recommendations/streaming/how-to-watch-state-of-the-union-2026-trump-congress-1235521172/",
-    "timestamp": "2026-02-24T20:00:00Z"
-  },
-  {
-    "title": "The Iran Question Looms Over Trump\u2019s State of the Union",
-    "description": "Tonight, when President Donald Trump steps into the House chamber to deliver his State of the Union address, it will undoubtedly be overshadowed by the prospect of coming conflict with Iran.\u00a0 Tehran will be up late (or early),\u00a0carefully scrutinizing every wor\u2026",
-    "link": "https://oilprice.com/Energy/Energy-General/The-Iran-Question-Looms-Over-Trumps-State-of-the-Union.html",
-    "timestamp": "2026-02-24T20:00:00Z"
-  },
-  {
-    "title": "3 San Diego Democrats to skip Trump\u2019s State of the Union address",
-    "description": "Three Democratic members of the San Diego congressional delegation will not attend Tuesday night's State of the Union address by President Donald Trump, while another lawmaker plans to attend and bring a guest highlighting immigration issues.",
-    "link": "https://www.kpbs.org/news/politics/2026/02/24/3-san-diego-democrats-to-skip-trumps-state-of-the-union-address",
-    "timestamp": "2026-02-24T19:58:04Z"
-  },
-  {
-    "title": "Ahead of State of the Union Address, Progressive Caucus Leader Tells Trump: \u2018We Need Our Money Back\u2019",
-    "description": "Now that the US Supreme Court has ruled President Donald Trump levied illegal tariffs on US businesses and consumers for more than a year, progressive Democrats are escalating demands that Americans get their money back.Days after the Supreme Court shut down \u2026",
-    "link": "https://www.commondreams.org/news/trump-tariff-refund-demands",
-    "timestamp": "2026-02-24T19:55:07Z"
-  },
-  {
-    "title": "Iran FM says nuclear deal 'within reach' ahead of US talks",
-    "description": "Iran's Foreign Minister Abbas Araghchi\u00a0says a nuclear deal with the United States is \u201cwithin reach\u201d ahead of a third round of talks in Geneva.",
-    "link": "https://www.channelnewsasia.com/world/iran-us-nuclear-talks-geneva-foreign-minister-araghchi-5950676",
-    "timestamp": "2026-02-24T19:55:00Z"
-  },
-  {
-    "title": "Devils announcer rips people who painted 'narrative' that Jack Hughes, US men's hockey team are 'sexist'",
-    "description": "New Jersey Devils announcer Don La Greca defended Jack Hughes and Team USA hockey players against political controversy following their Olympic gold medal win.",
-    "link": "https://www.foxnews.com/sports/devils-announcer-rips-people-who-painted-narrative-jack-hughes-us-mens-hockey-team-sexist",
-    "timestamp": "2026-02-24T19:54:54Z"
-  },
-  {
-    "title": "Here's what President Donald Trump said about U.S. women's hockey after Olympics",
-    "description": "It was a historic Olympics for Team USA.",
-    "link": "https://www.sportingnews.com/us/olympics/news/heres-what-president-donald-trump-said-about-us-womens-hockey-olympics/cea603c8be488ed4c1ecb984",
-    "timestamp": "2026-02-24T19:53:47Z"
-  },
-  {
-    "title": "Republican fumes at Senate GOP as Trump bidding in jeopardy: 'Acting like a nursing home!'",
-    "description": "Some Republicans are fuming as Senate GOP leadership refuses to bend on the filibuster to pass President Donald Trump's long-sought voter ID legislation.Trump and his House allies have pushed the SAVE America Act, which would require photo ID at the ballot bo\u2026",
-    "link": "https://www.rawstory.com/eric-burlison-2675327538/",
-    "timestamp": "2026-02-24T19:53:15Z"
-  },
-  {
-    "title": "More State Governments Are Turning Against Data Center Tax Breaks",
-    "description": "As data center projects increasingly meet fierce popular resistance, local and state elected leaders are taking notice.",
-    "link": "https://stateline.org/2026/02/24/data-center-tax-breaks-are-on-the-chopping-block-in-some-states/",
-    "timestamp": "2026-02-24T19:51:58Z"
-  },
-  {
-    "title": "'The View' co-host calls out fans outraged by having Trump supporter Savannah Chrisley on the show",
-    "description": "Sunny Hostin defended Savannah Chrisley's guest hosting role on \"The View\" after fans expressed outrage over having a Trump supporter at the table.",
-    "link": "https://www.foxnews.com/media/the-view-co-host-calls-out-fans-outraged-having-trump-supporter-savannah-chrisley-show",
-    "timestamp": "2026-02-24T19:51:54Z"
-  },
-  {
-    "title": "Iran looms large over Trump's State of the Union address: ANALYSIS",
-    "description": "Foreign policy analysts told ABC News that President Donald Trump could use the moment to make the case for using military force against Iran.",
-    "link": "https://abcnews.com/Politics/iran-looms-large-trumps-state-union-address-analysis/story?id=130387861",
-    "timestamp": "2026-02-24T19:50:36Z"
-  },
-  {
-    "title": "Canada plans to assist Cuba while Washington squeezes the island",
-    "description": "Canada said on Monday it plans to provide assistance to Cuba while the island grapples with fuel shortages after Washington moved to choke off Cuba's oil supplies. Washington has escalated a pressure campaign against the Communist-run island and long-time U.S\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4368135/posts",
-    "timestamp": "2026-02-24T19:49:14Z"
-  },
-  {
-    "title": "USA men\u2019s hockey team parties on Air Force One after Olympic gold medal",
-    "description": "The Team USA men\u2019s hockey team is enjoying life thoroughly after winning its first Olympic gold medal in over 46 years, and their cool journey from the 2026 Winter Olympics has landed them back in the United States. After spending\u2026",
-    "link": "https://www.thebiglead.com/usa-mens-hockey-team-parties-air-force-one-olympic-gold-medal/",
-    "timestamp": "2026-02-24T19:47:46Z"
-  },
-  {
-    "title": "Trump Tower developer ran business that collapsed owing $28 million",
-    "description": "The businessman behind a proposed Trump Tower on the Gold Coast ran a development business that collapsed owing $28 million.",
-    "link": "https://www.abc.net.au/news/2026-02-25/trump-tower-altus-david-young-business-collapse/106382270",
-    "timestamp": "2026-02-24T19:46:44Z"
-  },
-  {
-    "title": "US men's Olympic hockey team lands at Joint Base Andrews on way to State of the Union",
-    "description": "The gold-medal-winning U.S. men's Olympic hockey team has touched down at Joint Base Andrews on its way to the Capitol for President Donald Trump's State of the Union address on Tuesday night. Forward Matthew Tkachuk posted pictures on social media of members\u2026",
-    "link": "https://sports.yahoo.com/articles/us-mens-olympic-hockey-team-194522828.html",
-    "timestamp": "2026-02-24T19:45:22Z"
-  },
-  {
-    "title": "Apple to move some Mac Mini production to U.S. this year as part of effort to boost domestic manufacturing",
-    "description": "Apple is expanding a facility in Houston as part of a $600 billion commitment to U.S. manufacturing.",
-    "link": "https://www.cnbc.com/2026/02/24/apple-to-move-some-mac-mini-production-to-us-in-2026.html",
-    "timestamp": "2026-02-24T19:44:26Z"
-  },
-  {
-    "title": "A continental revolution is brewing in Europe",
-    "description": "The future of the region is being written east of Brussels \u2013 and Marco Rubio\u2019s tour confirmed exactly what Brussels fears most Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/632999-central-europe-continental-revolution/",
-    "timestamp": "2026-02-24T19:43:01Z"
-  },
-  {
-    "title": "Ex-Trump official goes nuclear over DOJ's Epstein 'cover-up': 'It's coming from the top'",
-    "description": "Ex-Trump administration official Sarah Matthews went hard at her former boss on Tuesday during an appearance on MS NOW, accusing President Donald Trump of being involved in a massive \u201ccover-up\u201d concerning Jeffrey Epstein and his past ties to the disgraced fin\u2026",
-    "link": "https://www.rawstory.com/trump-epstein-2675327533/",
-    "timestamp": "2026-02-24T19:42:21Z"
-  },
-  {
-    "title": "Ranking Member Robert Garcia Statement After Department of Justice Withheld Epstein Files, Includes Allegation President Donald Trump Sexually Abused a Minor (The U.S. House Committee on Oversight Feed)",
-    "description": "The U.S. House Committee on Oversight Feed:\nRanking Member Robert Garcia Statement After Department of Justice Withheld Epstein Files, Includes Allegation President Donald Trump Sexually Abused a Minor\u00a0 \u2014\u00a0 Washington, D.C. \u2014 Today, Rep. Robert Garcia, Ranking\u2026",
-    "link": "https://www.memeorandum.com/260224/p78",
-    "timestamp": "2026-02-24T19:40:00Z"
-  },
-  {
-    "title": "How one AI company is helping businesses navigate Trump\u2019s new tariff chaos following the Supreme Court ruling",
-    "description": "Plus a chaotic AI Impact Summit wraps up in India and Anthropic accuses Chinese rivals of using Claude's answers to train their own models",
-    "link": "https://fortune.com/2026/02/24/how-one-ai-company-is-helping-businesses-navigate-trumps-new-tariff-chaos-following-the-supreme-court-ruling/",
-    "timestamp": "2026-02-24T19:39:56Z"
-  },
-  {
-    "title": "Rubio, Ratcliffe to deliver classified Iran briefing to 'Gang of Eight' ahead of Trump's State of the Union",
-    "description": "Rubio and CIA chief to brief Congress on Iran tensions just hours before Trump's State of the Union address as nuclear talks resume Thursday morning.",
-    "link": "https://www.foxnews.com/politics/rubio-ratcliffe-deliver-classified-iran-briefing-gang-eight-ahead-trumps-state-union",
-    "timestamp": "2026-02-24T19:38:45Z"
-  },
-  {
-    "title": "Trump-nominated judge blocks Abbott\u2019s DEI ban in 3 districts",
-    "description": "A federal judge has temporarily blocked Texas' DEI ban in Houston, Katy, and Plano school districts, impacting student clubs and diversity programs.",
-    "link": "https://www.foxnews.com/us/trump-nominated-judge-blocks-abbotts-dei-ban-3-districts",
-    "timestamp": "2026-02-24T19:37:51Z"
-  },
-  {
-    "title": "Warner Bros gets new offer from Paramount but still recommends Netflix bid",
-    "description": "If Warner\u2019s board changes course and deems Paramount\u2019s latest offer superior, Netflix will be able to revise its bid.",
-    "link": "https://www.aljazeera.com/economy/2026/2/24/warner-bros-gets-new-offer-from-paramount-but-still-recommends-netflix-bid",
-    "timestamp": "2026-02-24T19:37:12Z"
-  },
-  {
-    "title": "EXCLUSIVE: Trump Invites Girl Taken From Parents After Secret Gender Transition (Reagan Reese/The Daily Caller)",
-    "description": "Reagan Reese / The Daily Caller:\nEXCLUSIVE: Trump Invites Girl Taken From Parents After Secret Gender Transition\u00a0 \u2014\u00a0 President Donald Trump's guests for his State of the Union address will include Sage Blair, a young woman who was separated from her parents a\u2026",
-    "link": "https://www.memeorandum.com/260224/p76",
-    "timestamp": "2026-02-24T19:35:01Z"
-  },
-  {
-    "title": "EXCLUSIVE: Erika Kirk To Be Trump's Special Guest At State Of The Union (Mary Margaret Olohan/The Daily Wire)",
-    "description": "Mary Margaret Olohan / The Daily Wire:\nEXCLUSIVE: Erika Kirk To Be Trump's Special Guest At State Of The Union\u00a0 \u2014\u00a0 WASHINGTON\u2014Erika Kirk will attend the State of the Union on Tuesday evening as a special guest of President Donald Trump, The Daily Wire can fir\u2026",
-    "link": "https://www.memeorandum.com/260224/p77",
-    "timestamp": "2026-02-24T19:35:01Z"
-  },
-  {
-    "title": "US warned Ukraine\u2019s ambassador over strikes on Black Sea oil target | CNN Politics",
-    "description": "The Trump administration took the unusual step of warning the Ukrainian government that its strikes on a Russian Black Sea oil facility late last year had impacted US investments in Kazakhstan, the Ukrainian ambassador to the US revealed Tuesday.",
-    "link": "https://www.cnn.com/2026/02/24/politics/us-warned-ukraine-ambassador-strikes-black-sea-oil",
-    "timestamp": "2026-02-24T19:31:53Z"
-  },
-  {
-    "title": "Somalis In Firing Line Of American Crackdown",
-    "description": "Ranked among the many issues for which the winter of 2025-26 might be remembered in the United States \u2013 ranging from explosive exposes of abusive tycoons linked to a country whose genocide of Palestine Washington has long supported, to a regime-change raid in\u2026",
-    "link": "https://muslimmatters.org/2026/02/24/somalis-in-firing-line-of-american-crackdown/",
-    "timestamp": "2026-02-24T19:29:58Z"
-  },
-  {
-    "title": "Erika Kirk to be Trump's guest at State of the Union",
-    "description": "Erika Kirk, widow of assassinated Turning Point USA founder Charlie Kirk, will attend President Donald Trump's State of the Union as his special guest.",
-    "link": "https://www.foxnews.com/politics/erika-kirk-trump-guest-state-union",
-    "timestamp": "2026-02-24T19:29:25Z"
-  },
-  {
-    "title": "Trump\u2019s State of the Union Resistance Will Be Streamed | Analysis",
-    "description": "Dozens of Congressional Democrats are ditching Trump\u2019s address to counterprogram the pomp and circumstance, testing whether a digital show of force can upstage a president in prime time\nThe post Trump\u2019s State of the Union Resistance Will Be Streamed | Analysi\u2026",
-    "link": "https://www.thewrap.com/media-platforms/politics/trump-state-of-the-union-democrats-boycotting/",
-    "timestamp": "2026-02-24T19:28:31Z"
-  },
-  {
-    "title": "FedEx joins over 1,000 companies seeking tariff refunds in court",
-    "description": "Shipping company FedEx has filed a lawsuit against the federal government asking for refunds for the tariffs it paid set by President Donald Trump.",
-    "link": "https://www.wftv.com/news/trending/fedex-sues-government-over-tariff-refunds/62NPMP5JNVE4RHIYT2K6UY3IYQ/",
-    "timestamp": "2026-02-24T19:27:31Z"
   }
 ]
