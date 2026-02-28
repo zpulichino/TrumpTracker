@@ -1,5 +1,191 @@
 [
   {
+    "title": "Virginia Democrats talk affordability \u2014 and vote to nearly triple their own pay",
+    "description": "Virginia Democrats vote themselves a 278% pay raise while campaigning on affordability issues, sparking Republican criticism over legislative budget priorities.",
+    "link": "https://www.foxnews.com/politics/virginia-dems-talk-affordability-vote-nearly-triple-pay",
+    "timestamp": "2026-02-27T21:33:05Z"
+  },
+  {
+    "title": "What Trump's Rate Payer Protection Pledge means for you",
+    "description": "Under President Donald Trump's new initiative, tech firms may be required to finance additional power generation to ease strain on public energy grids.",
+    "link": "https://www.foxnews.com/tech/what-trump-rate-payer-protection-pledge-means-you",
+    "timestamp": "2026-02-27T21:30:40Z"
+  },
+  {
+    "title": "Trump bans Anthropic from government use",
+    "description": "After months of increasingly heated rhetoric between the Defense Department and leading AI company Anthropic over the military\u2019s use of its systems, President Donald Trump announced Friday afternoon that he was banning federal agencies from using Anthropic\u2019s \u2026",
+    "link": "https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055",
+    "timestamp": "2026-02-27T21:30:15Z"
+  },
+  {
+    "title": "Democrats Vow Revenge Against Corporations that Courted Trump if They Take Back Power After the Midterms",
+    "description": "Democrats are weighing how to target corporations that have courted President Donald Trump's approval if they retake the House after the midterm elections.",
+    "link": "https://www.breitbart.com/entertainment/2026/02/27/democrats-vow-revenge-against-corporations-that-courted-trump-if-they-take-back-power-after-the-midterms/",
+    "timestamp": "2026-02-27T21:30:14Z"
+  },
+  {
+    "title": "Lauren Boebert Stumbles Trying to Explain What Inflation Means | Video",
+    "description": "\"The average American knows that prices aren\u2019t actually coming down,\" host Piers Morgan says as he challenges the congresswoman\nThe post Lauren Boebert Stumbles Trying to Explain What Inflation Means | Video appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/politics/lauren-boebert-stumbles-trying-to-define-inflation/",
+    "timestamp": "2026-02-27T21:29:48Z"
+  },
+  {
+    "title": "Trump bans AI firm Anthropic from federal agencies",
+    "description": "The White House had demanded Anthropic to allow unrestricted military use of its AI technology or face consequences. The San Francisco-headquartered firm pushed back on those demands President Donald Trump on Friday ordered all US federal agencies to phase ou\u2026",
+    "link": "https://www.dw.com/en/trump-bans-ai-firm-anthropic-from-federal-agencies/a-76159762",
+    "timestamp": "2026-02-27T21:28:00Z"
+  },
+  {
+    "title": "Furious Trump wants 'rehearing' after 'highly disappointing' Supreme Court defeat",
+    "description": "President Donald Trump lashed out at the Supreme Court again on Friday, questioning whether a \u201cRehearing or Readjudication\u201d is possible after the justices dealt a devastating blow to his tariff agenda one week ago.In a lengthy post on Truth Social, Trump clai\u2026",
+    "link": "https://www.rawstory.com/trump-supreme-court-2675368843/",
+    "timestamp": "2026-02-27T21:26:48Z"
+  },
+  {
+    "title": "Politics, trade on tap for Poilievre during trip to U.K. and Germany",
+    "description": "Conservative Leader Pierre Poilievre is planning his first official international trip as opposition leader next week, with plans to meet with parliamentary colleagues and business leaders in both London and Germany.",
+    "link": "https://www.cbc.ca/news/politics/poilievre-europe-travel-9.7108961",
+    "timestamp": "2026-02-27T21:26:47Z"
+  },
+  {
+    "title": "Europe's worries about Trump in spotlight as Macron heads to French nuclear sub base",
+    "description": "French President\u00a0Emmanuel Macron, the person with the power to unleash France's nuclear arsenal, will on Monday update French thinking on the potential use of warheads carried on\u00a0submarines\u00a0and planes, if it ever came to that.",
+    "link": "https://www.pbs.org/newshour/world/europes-worries-about-trump-in-spotlight-as-macron-heads-to-french-nuclear-sub-base",
+    "timestamp": "2026-02-27T21:26:10Z"
+  },
+  {
+    "title": "'Peace is within reach': Omani FM optimistic after meeting US VP JD Vance",
+    "description": "Omani Foreign Minister Badr Albusaidi expresses hope for peace after meeting US VP JD Vance in Washington, discussing ongoing US-Iran talks.",
+    "link": "https://www.israelnationalnews.com/news/423099",
+    "timestamp": "2026-02-27T21:24:08Z"
+  },
+  {
+    "title": "Trump suggests a \u2018friendly takeover\u2019 of Cuba amid US fuel blockade",
+    "description": "The Republican leader, who has sought to expand US influence across Latin America, said of Cuba: 'They want our help.'",
+    "link": "https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-takeover-of-cuba-amid-us-fuel-blockade",
+    "timestamp": "2026-02-27T21:24:01Z"
+  },
+  {
+    "title": "CNN chief prescribes calm after staff anxiety over Paramount's expected purchase of parent company",
+    "description": "Shortly after it became known that Paramount was the apparent victor in the competition to buy CNN's parent company, network president Mark Thompson was compelled to send his staff a note to calm down, in effect.",
+    "link": "https://www.news4jax.com/news/politics/2026/02/27/cnn-chief-prescribes-calm-after-staff-anxiety-over-paramounts-expected-purchase-of-parent-company/",
+    "timestamp": "2026-02-27T21:23:30Z"
+  },
+  {
+    "title": "Trumps directs all federal agencies to stop using AI company Anthropic's technology",
+    "description": "Trump's directive comes amid a feud \u2060between the Pentagon and top artificial \u2060intelligence lab Anthropic over concerns about how \u2060the \u2060military \u200bcould use AI at war.",
+    "link": "https://www.cbc.ca/news/business/trump-anthropic-feud-ai-9.7109006",
+    "timestamp": "2026-02-27T21:23:19Z"
+  },
+  {
+    "title": "Trump Tells Feds to Stop Using Claude AI After Anthropic Stood by Surveillance Restrictions",
+    "description": "The Trump administration wanted the Department of Defense to be able to use Claude for \"any lawful purpose.\"",
+    "link": "https://www.cnet.com/tech/services-and-software/anthropic-claude-pentagon-surveillance-weapons-concerns-trump-order/",
+    "timestamp": "2026-02-27T21:22:00Z"
+  },
+  {
+    "title": "Dozens of US Republicans call for tariff probe into Australian lamb",
+    "description": "Republicans write to Donald Trump's top trade officials to request an investigation into Australian lamb, as several members of Congress sponsor a bill for a 30 per cent tariff on Australian sheep products.",
+    "link": "https://www.abc.net.au/news/2026-02-28/republicans-call-for-australian-lamb-tariff-investigation/106339474",
+    "timestamp": "2026-02-27T21:21:12Z"
+  },
+  {
+    "title": "Red State Residents In Chaos After Lawmakers Yank Their Driver's Licenses, Birth Certificates",
+    "description": "\"People who got this letter on Thursday still had to go to work on Friday. What are they supposed to do?\u201d one advocate told HuffPost.",
+    "link": "https://www.huffpost.com/entry/kansas-anti-trans-drivers-license_n_69a1fc59e4b03f5cc1b3f981",
+    "timestamp": "2026-02-27T21:21:07Z"
+  },
+  {
+    "title": "Trump orders U.S. government to stop using Anthropic but gives Pentagon six months to phase it out amid standoff over AI use",
+    "description": "Trump added that if Anthropic doesn't obey, he will use \"the Full Power of the Presidency to make them comply.\"",
+    "link": "https://fortune.com/2026/02/27/trump-us-government-anthropic-claude-pentagon-6-months-phaseout-ai-standoff/",
+    "timestamp": "2026-02-27T21:20:49Z"
+  },
+  {
+    "title": "A Tale of Two Plumbers",
+    "description": "Hannah Spencer\u2019s victory in a UK parliamentary by-election is a major win for the Green Party, which aims to build a viable left-populist alternative to Reform UK and Keir Starmer\u2019s Labour Party.",
+    "link": "https://dissentmagazine.org/online_articles/a-tale-of-two-plumbers/",
+    "timestamp": "2026-02-27T21:19:55Z"
+  },
+  {
+    "title": "Trump Threatens \u2018Friendly\u2019 Takeover of American Neighbor",
+    "description": "President Donald Trump has warned that he may launch a \u201cfriendly takeover\u201d of Cuba, paving the way for yet another foreign intervention by the \u201cAmerica First...",
+    "link": "https://www.thedailybeast.com/trump-threatens-friendly-takeover-of-cold-war-enemy-cuba/",
+    "timestamp": "2026-02-27T21:19:45Z"
+  },
+  {
+    "title": "5 things to know as Trump's 'national emergency' plan emerges to seize control of voting",
+    "description": "The liberal media platform Democracy Docket has obtained the 17-page draft emergency executive order that President Donald Trump's allies have presented to him to seize control of voting infrastructure and election policies, under the guise of a national emer\u2026",
+    "link": "https://www.rawstory.com/trump-voting-order/",
+    "timestamp": "2026-02-27T21:19:21Z"
+  },
+  {
+    "title": "Supreme Court\u2019s Tariffs Ruling Leaves Commercial Real Estate in a Familiar Spot",
+    "description": "Just a week ago, it looked as though the tariff clouds were clearing for commercial real estate.\u00a0 The Supreme Court had invalidated a major portion of President Donald Trump\u2019s tariff policies, dangling the prospect of $175 billion in refunds to the more than \u2026",
+    "link": "http://commercialobserver.com/2026/02/supreme-court-tariffs-commercial-real-estate-strategy/",
+    "timestamp": "2026-02-27T21:18:49Z"
+  },
+  {
+    "title": "Trump says US government will 'immediately cease' use of Anthropic AI",
+    "description": "The Pentagon set a 5:00 p.m. ET deadline for Anthropic to agree to a deal.",
+    "link": "https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898",
+    "timestamp": "2026-02-27T21:18:31Z"
+  },
+  {
+    "title": "Trump orders federal agencies to stop using Anthropic's technology",
+    "description": "Trump's directive comes amid a dispute between the AI giant and the Department of Defense.",
+    "link": "https://www.businessinsider.com/trump-federal-agencies-stop-using-anthropic-technology-department-defense-2026-2",
+    "timestamp": "2026-02-27T21:17:11Z"
+  },
+  {
+    "title": "Renee Good was \u2018slow to anger, quick to love,\u2019 her father tells AP",
+    "description": "By COLLEEN SLEVIN DENVER (AP) \u2014 Renee Good loved sparkles and laughter and any excuse for a celebration. She loved pretty much everyone she met, and was late for pretty much everything. \u201cShe had this way of making you feel special and loved that I didn\u2019t even\u2026",
+    "link": "https://www.denverpost.com/2026/02/27/renee-good-was-slow-to-anger-quick-to-love-her-father-tells-ap/",
+    "timestamp": "2026-02-27T21:16:46Z"
+  },
+  {
+    "title": "Bill Clinton Releases Fiery Statement Following Hillary\u2019s Testimony On Epstein Ties",
+    "description": "Bill Clinton insisted on his innocence, claiming that he \u201csaw nothing\u201d during the time he associated with Jeffrey Epstein.",
+    "link": "https://www.boredpanda.com/bill-clinton-releases-statement-following-hillary-testimony-epstein-ties/",
+    "timestamp": "2026-02-27T21:15:02Z"
+  },
+  {
+    "title": "Trump says of Iran 'sometimes you have to' use force as US-Tehran tensions rise",
+    "description": "The US has amassed a huge military presence in the region after the president threatened military action if Tehran refused to forswear nuclear weapons.",
+    "link": "https://www.abc.net.au/news/2026-02-28/iran-trump-use-force/106399936",
+    "timestamp": "2026-02-27T21:14:51Z"
+  },
+  {
+    "title": "Trump Directs Entire Federal Government To Drop Anthropic After Standoff With Pentagon",
+    "description": "Anthropic rejected a request from the Pentagon to allow it to have unrestricted access to its AI model, taking issue with the agency using the model for mass surveillance and fully autonomous weapons.",
+    "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/02/27/trump-directs-entire-federal-government-to-drop-anthropic-after-standoff-with-pentagon/",
+    "timestamp": "2026-02-27T21:14:41Z"
+  },
+  {
+    "title": "Queens Dems declare cloudy forecast for Mamdani\u2019s Sunnyside Yard housing plan",
+    "description": "Mayor Zohran Mamdani\u2019s pitch to Trump for a giant Queens housing plan is getting a mixed response from local elected leaders who represent Western Queens. [ more \u203a ]",
+    "link": "https://gothamist.com/news/queens-dems-declare-cloudy-forecast-for-mamdanis-sunnyside-yard-housing-plan",
+    "timestamp": "2026-02-27T21:14:17Z"
+  },
+  {
+    "title": "Bill Clinton claims Trump shared vastly different Epstein 'falling out' story: House Dem",
+    "description": "Former President Bill Clinton revealed to lawmakers Friday that he had a previous conversation with President Donald Trump about what really caused the rift between him and Jeffrey Epstein years ago. Rep. Maxwell Alejandro Frost (D-FL) described what Clinton \u2026",
+    "link": "https://www.rawstory.com/bill-clinton-2675367524/",
+    "timestamp": "2026-02-27T21:13:46Z"
+  },
+  {
+    "title": "Trump Orders All Federal Agencies To Phase Out Use Of Anthropic Technology",
+    "description": "Trump\u2019s comments came just over an hour before the Pentagon\u2019s deadline for Anthropic to allow unrestricted military use of its AI technology or face consequences.",
+    "link": "https://www.huffpost.com/entry/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology_n_69a207fae4b0790713155358",
+    "timestamp": "2026-02-27T21:13:40Z"
+  },
+  {
+    "title": "Trump says he is directing federal agencies to cease use of Anthropic technology",
+    "description": "U.S. President Donald Trump on Friday said he was directing every federal agency to immediately cease all use of Anthropic's technology, adding there would be a six-month phase out for agencies such as the Defense Department who use the company's products. \"I\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4368591/posts",
+    "timestamp": "2026-02-27T21:13:18Z"
+  },
+  {
     "title": "Trump blacklists Anthropic over AI clash with Pentagon",
     "description": "President Donald Trump has ordered federal agencies to immediately halt the use of artificial intelligence systems developed by Anthropic, Read Full Article at RT.com",
     "link": "https://www.rt.com/news/633146-trump-anthropic-ai-pentagon/",
@@ -382,203 +568,5 @@
     "description": "Two transgender Kansans are suing to block a  state law that requires drivers' licenses align with the holders' biological sex rather than their gender identities.",
     "link": "https://www.nbcnews.com/politics/politics-news/transgender-drivers-license-birth-certificate-biological-sex-kansas-rcna261007",
     "timestamp": "2026-02-27T19:56:56Z"
-  },
-  {
-    "title": "Trump says \u2018friendly takeover of Cuba\u2019 possible",
-    "description": "Donald Trump said \u201cwe could very well end up having a friendly takeover of Cuba\" by the US.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/trump-says-friendly-takeover-of-cuba-possible",
-    "timestamp": "2026-02-27T19:56:02Z"
-  },
-  {
-    "title": "US positions F-22 stealth fighters in Israel, puts 'almost any target in Iran at risk'",
-    "description": "Eleven U.S. F-22 Raptor stealth fighters have reportedly been deployed to Israel's Ovda Air Base, marking America's first operational combat aircraft deployment.",
-    "link": "https://www.foxnews.com/world/us-positions-f-22-stealth-fighters-israel-puts-almost-any-target-iran-risk",
-    "timestamp": "2026-02-27T19:55:57Z"
-  },
-  {
-    "title": "Trump faces 2,000 tariff lawsuits following Supreme Court loss",
-    "description": "In the days since the U.S. Supreme Court declared most of Donald Trump\u2019s global tariffs illegal, over 100 companies filed lawsuits. Read on",
-    "link": "https://financialpost.com/legal-post/trump-faces-2000-tariff-lawsuits",
-    "timestamp": "2026-02-27T19:54:42Z"
-  },
-  {
-    "title": "When I look at US hockey, I see role models. Not invented outrage. | Opinion",
-    "description": "I think we can learn a lot from these Olympians about how to handle our own wins, losses, setbacks and successes in life, not just in sports.",
-    "link": "https://www.usatoday.com/story/opinion/columnist/2026/02/27/us-mens-hockey-team-usa-olympics-inspiration/88900297007/",
-    "timestamp": "2026-02-27T19:52:18Z"
-  },
-  {
-    "title": "US DOJ seized and froze $580M in crypto from \u2018Chinese transnational criminals\u2018",
-    "description": "The seizures and freezing over three months were conducted by the District of Columbia\u2019s Scam Center Strike Force, established by US Attorney Jeanine Pirro in November.",
-    "link": "https://cointelegraph.com/news/us-justice-department-seized-crypto-china",
-    "timestamp": "2026-02-27T19:51:33Z"
-  },
-  {
-    "title": "Team USA men\u2019s hockey star set for \u2018SNL\u2019 cameo after Winter Olympics",
-    "description": "Americans are still celebrating the wave of success from the 2026 Winter Olympics and one Team USA hockey star is continuing that party with several late-night show appearances. Both the men\u2019s and women\u2019s hockey teams celebrated their gold medals thoroughly\u2026",
-    "link": "https://www.thebiglead.com/team-usa-mens-hockey-star-snl-cameo-winter-olympics/",
-    "timestamp": "2026-02-27T19:51:18Z"
-  },
-  {
-    "title": "Katie Miller Is Trying To Sell MAGA on Solar Energy",
-    "description": "Solar power could soon get a leg up, thanks to the help of two unlikely green energy advocates: Katie Miller and Kellyanne Conway.",
-    "link": "https://reason.com/2026/02/27/katie-miller-is-trying-to-sell-maga-on-solar-energy/",
-    "timestamp": "2026-02-27T19:50:07Z"
-  },
-  {
-    "title": "Comer tried to head off 'sticky line' of inquiry for Melania over Epstein: MS NOW",
-    "description": "As House Oversight Committee Chair James Comer (R-KY) spoke to reporters about the depositions of the Clintons on their potential connections to the Jeffrey Epstein sex trafficking case, he made a curious statement that, according to MS NOW's Ali Vitali, was \u2026",
-    "link": "https://www.rawstory.com/comer-melania/",
-    "timestamp": "2026-02-27T19:49:26Z"
-  },
-  {
-    "title": "A golden sweep by Team USA in Olympic hockey led to celebrations that got complicated and political",
-    "description": "The United States swept the hockey gold medals at the Winter Olympics for the first time, beating Canada 2-1 in overtime in both the men\u2019s and women\u2019s tournaments and finishing the tournaments unbeaten. \u2014 Women\u2019s team: The players largely steered away from po\u2026",
-    "link": "https://sports.yahoo.com/articles/golden-sweep-team-usa-olympic-194834485.html",
-    "timestamp": "2026-02-27T19:48:34Z"
-  },
-  {
-    "title": "Bill Clinton tells lawmakers he 'did nothing wrong' with Epstein",
-    "description": "Bill Clinton said he \"saw nothing that ever gave me pause\" during the time he spent with Jeffrey Epstein. It is the first time a former president has been compelled to testify to Congress.",
-    "link": "https://www.dw.com/en/bill-clinton-tells-lawmakers-he-did-nothing-wrong-with-epstein/a-76159288",
-    "timestamp": "2026-02-27T19:48:00Z"
-  },
-  {
-    "title": "Radiohead tells Trump's ICE to take down a video using their song",
-    "description": "The British rock band Radiohead is demanding that the Trump administration take down a promotional video for Immigration and Customs Enforcement that uses one of their songs",
-    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/radiohead-tells-trumps-ice-take-video-using-song-rcna261010",
-    "timestamp": "2026-02-27T19:47:48Z"
-  },
-  {
-    "title": "Blind Refugee Found Dead 5 Days After Release From Border Patrol Custody in Buffalo",
-    "description": "The Department of Homeland Security claims that the refugee was dropped off at a \u201cwarm, safe location\u201d in Buffalo, New York. But he never made it inside.",
-    "link": "https://reason.com/2026/02/27/blind-refugee-found-dead-5-days-after-release-from-border-patrol-custody-in-buffalo/",
-    "timestamp": "2026-02-27T19:47:10Z"
-  },
-  {
-    "title": "Cruel: Trump Admin Strips Funding From Gas-Station Daycare Center With 20,000 Students",
-    "description": "SHOREVIEW, MN \u2014 In the latest in a long line of cruel, heartless atrocities it has committed, the Trump administration has just stripped federal funding from a gas station daycare center with 20,000 students. According to Absame Dihoud, the daycare's propriet\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4368580/posts",
-    "timestamp": "2026-02-27T19:45:52Z"
-  },
-  {
-    "title": "Men's hockey team players apologize to their women's team for laughing at Trump's comments",
-    "description": "The drama surrounding the men&apos;s and women&apos;s hockey teams representing the United States continues to ripple well beyond the Olympic ice. Just one week ago, the U.S. women",
-    "link": "https://www.marca.com/en/olympic-games/2026/02/27/69a1e60722601d26798b457e.html",
-    "timestamp": "2026-02-27T19:45:44Z"
-  },
-  {
-    "title": "Emergence of Epstein island photo leads to new calls for Lutnick to testify | CNN Politics",
-    "description": "Members of Congress are raising questions after a photograph they say shows Commerce Secretary Howard Lutnick alongside Jeffrey Epstein on Epstein\u2019s private island was briefly removed from the Justice Department\u2019s website.",
-    "link": "https://www.cnn.com/2026/02/27/politics/lutnick-epstein-island-photo-congress-testify",
-    "timestamp": "2026-02-27T19:43:52Z"
-  },
-  {
-    "title": "The Catholic Bishops\u2019 Supreme Court Brief Is a Searing Moral Rebuke to Donald Trump",
-    "description": "They really go hard in this amicus brief.",
-    "link": "https://slate.com/news-and-politics/2026/02/donald-trump-birthright-citizenship-immigration-catholic-bishops.html",
-    "timestamp": "2026-02-27T19:39:44Z"
-  },
-  {
-    "title": "WBD and Paramount may have an easier time winning regulatory approval than Netflix",
-    "description": "With Netflix out of the picture, a Paramount and Warner Bros. Discovery deal may have fewer obstacles to regulatory approval.",
-    "link": "https://www.cnbc.com/2026/02/27/warner-bros-paramount-skydance-netflix-deal.html",
-    "timestamp": "2026-02-27T19:35:37Z"
-  },
-  {
-    "title": "BCCEC continues focus on supply chain diversity as US tariff rates move again",
-    "description": "Bahamas Chamber of Commerce and Employers\u2019 Confederation (BCCEC) CEO Dr. Leo Rolle said the chamber continues to encourage local businesses to diversify their supply chains, as continually changing US tariffs",
-    "link": "https://www.thenassauguardian.com/business/bccec-continues-focus-on-supply-chain-diversity-as-us-tariff-rates-move-again/article_d75a4ca3-a596-4487-811f-25ab88ba7603.html",
-    "timestamp": "2026-02-27T19:35:13Z"
-  },
-  {
-    "title": "RFK Jr Confronts Rogan About Trump ICE Criticism: \u2018I Know That\u2019s Something That\u2019s Disturbed You\u2019",
-    "description": "Robert F. Kennedy Jr. confronted podcaster Joe Rogan about his criticism of ICE and immigration enforcement tactics under President Donald Trump.\nThe post RFK Jr Confronts Rogan About Trump ICE Criticism: \u2018I Know That\u2019s Something That\u2019s Disturbed You\u2019 first a\u2026",
-    "link": "https://www.mediaite.com/media/news/rfk-jr-confronts-rogan-about-trump-ice-criticism-i-know-thats-something-thats-disturbed-you/",
-    "timestamp": "2026-02-27T19:34:35Z"
-  },
-  {
-    "title": "JD Vance just made a revealing omission as he pushed preposterous claims",
-    "description": "Vice President JD Vance did not utter the word \u201ctariffs\u201d a single time during his upbeat speech at a Plover, Wisconsin, machining plant Thursday. The visit, aimed at shoring up vulnerable Republican U.S. Rep. Derrick Van Orden ahead of the 2026 midterms, was \u2026",
-    "link": "https://www.rawstory.com/jd-vance-2675347856/",
-    "timestamp": "2026-02-27T19:34:25Z"
-  },
-  {
-    "title": "Punk In The Park 2026 Canceled Over Political Backlash",
-    "description": "Following backlash against its political ties, the Punk in the Park festival has canceled its 2026 events across multiple cities, promising refunds to ticket holders.",
-    "link": "https://loudwire.com/punk-in-park-canceled-2026/",
-    "timestamp": "2026-02-27T19:33:47Z"
-  },
-  {
-    "title": "Panama officials search CK Hutchison's local office as tensions rise",
-    "description": "PANAMA CITY, Feb 27 (Reuters) - Panamanian authorities searched the local ports unit of Hong Kong conglomerate CK Hutchison, the subsidiary said on Friday...",
-    "link": "https://uk.finance.yahoo.com/news/panama-officials-search-ck-hutchisons-091832072.html",
-    "timestamp": "2026-02-27T19:33:12Z"
-  },
-  {
-    "title": "Countries warn citizens against travel to Israel and Iran amid rising tensions",
-    "description": "Several countries, including France, Britain, and Germany, advise citizens against traveling to Israel and Iran due to escalating tensions. Warnings include heightened security risks and possible border closures.",
-    "link": "https://www.israelnationalnews.com/news/423096",
-    "timestamp": "2026-02-27T19:32:11Z"
-  },
-  {
-    "title": "Trump 'not thrilled' with Iran but undecided on attack",
-    "description": "<![CDATA[ The US president said\u00a0he is \"not exactly happy\" with how Iran negotiated during talks and has not yet made a final decision on whether to carry out an attack. ]]>",
-    "link": "https://www.channelnewsasia.com/world/trump-us-iran-war-strike-israel-talks-5959511",
-    "timestamp": "2026-02-27T19:31:00Z"
-  },
-  {
-    "title": "Rubio plans Israel trip as Trump says he\u2019s \u2018not happy\u2019 with US-Iran talks",
-    "description": "Trump tells reporters he would 'love not to use' military force against Iran but added, 'Sometimes you have to.'",
-    "link": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk",
-    "timestamp": "2026-02-27T19:30:38Z"
-  },
-  {
-    "title": "Democratic Congressman Reminds Fox Host of Constitution\u2019s Existence",
-    "description": "Fox News\u2019s Maria Bartiromo had to be reminded that the Second Amendment exists while defending the federal immigration agents who shot and killed American citizens. Speaking with Bartiromo Friday, Representative Ro Khanna defended his congressional colleagues\u2026",
-    "link": "https://newrepublic.com/post/207160/democratic-congressman-reminds-fox-host-constitution-existence-maria-bartiromo-ro-khanna",
-    "timestamp": "2026-02-27T19:30:33Z"
-  },
-  {
-    "title": "California to Paramount: Assimilate This",
-    "description": "After Netflix dropped out of the race to acquire Warner Bros. Discovery, Paramount is poised for victory\u2014but it's not there yet.",
-    "link": "https://gizmodo.com/paramount-warner-bros-deal-california-antitrust-2000727659",
-    "timestamp": "2026-02-27T19:30:19Z"
-  },
-  {
-    "title": "A Canadian Hospital Scoops Up Nurses Who No Longer Feel Safe in Trump\u2019s America",
-    "description": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-    "link": "https://kffhealthnews.org/news/article/the-week-in-brief-american-nurses-move-to-canada/",
-    "timestamp": "2026-02-27T19:30:00Z"
-  },
-  {
-    "title": "Trump frustrated with Iran talks as US personnel leave Israel",
-    "description": "President Trump voices frustration with Iran talks, threatening military action as US personnel are authorized to leave Israel amid rising tensions.\n\nRead More: https://punchng.com/trump-frustrated-with-iran-talks-as-us-personnel-leave-israel/",
-    "link": "https://punchng.com/trump-frustrated-with-iran-talks-as-us-personnel-leave-israel/",
-    "timestamp": "2026-02-27T19:29:48Z"
-  },
-  {
-    "title": "Jeffrey Epstein\u2019s Brother Shares What Was Said In Their Final Conversation",
-    "description": "Mark Epstein recently shared what his brother told him during their final phone call, while also questioning the official account of his death.",
-    "link": "https://www.boredpanda.com/jeffrey-epstein-brother-mark-shares-final-conversation/",
-    "timestamp": "2026-02-27T19:29:33Z"
-  },
-  {
-    "title": "This Is Not How Democracies Go to War. It\u2019s How Dictators Do.",
-    "description": "It\u2019s not just that Donald Trump cannot explain why he is about to start a war with Iran; the worst part is that he is not even trying.Trump has hardly said a word about Iran over the past week, even in his State of the Union address. Congress is a bystander. \u2026",
-    "link": "https://newrepublic.com/article/207162/trump-iran-war-democracies-dictators",
-    "timestamp": "2026-02-27T19:27:14Z"
-  },
-  {
-    "title": "Trump Nemesis Massie Rips Fox Host in Fiery Clap-Back: \u2018Covering Up for Rich Men Who Raped Girls\u2019",
-    "description": "Trump nemesis Thomas Massie hammered Brian Kilmeade in a fiery clap-back accusing him of \"covering up for rich men who raped girls.\"\nThe post Trump Nemesis Massie Rips Fox Host in Fiery Clap-Back: \u2018Covering Up for Rich Men Who Raped Girls\u2019 first appeared on M\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-nemesis-massie-rips-fox-host-in-fiery-clap-back-covering-up-for-rich-men-who-raped-girls/",
-    "timestamp": "2026-02-27T19:26:46Z"
-  },
-  {
-    "title": "Lutnick Could Face House Subpoena After Republican Joins Calls For His Testimony On Epstein Relationship",
-    "description": "The Justice Department removed a photo of Lutnick with Epstein from its website, then restored it on Thursday.",
-    "link": "https://www.forbes.com/sites/saradorn/2026/02/27/lutnick-could-face-house-subpoena-after-republican-joins-calls-for-his-testimony-on-epstein-relationship/",
-    "timestamp": "2026-02-27T19:26:26Z"
   }
 ]
