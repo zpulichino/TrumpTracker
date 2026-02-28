@@ -1,5 +1,41 @@
 [
   {
+    "title": "Transgender Kansans sue over new law invalidating their driver's licenses",
+    "description": "Two transgender Kansans are suing to block a  state law that requires drivers' licenses align with the holders' biological sex rather than their gender identities.",
+    "link": "https://www.nbcnews.com/politics/politics-news/transgender-drivers-license-birth-certificate-biological-sex-kansas-rcna261007",
+    "timestamp": "2026-02-27T19:56:56Z"
+  },
+  {
+    "title": "Trump says \u2018friendly takeover of Cuba\u2019 possible",
+    "description": "Donald Trump said \u201cwe could very well end up having a friendly takeover of Cuba\" by the US.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/trump-says-friendly-takeover-of-cuba-possible",
+    "timestamp": "2026-02-27T19:56:02Z"
+  },
+  {
+    "title": "US positions F-22 stealth fighters in Israel, puts 'almost any target in Iran at risk'",
+    "description": "Eleven U.S. F-22 Raptor stealth fighters have reportedly been deployed to Israel's Ovda Air Base, marking America's first operational combat aircraft deployment.",
+    "link": "https://www.foxnews.com/world/us-positions-f-22-stealth-fighters-israel-puts-almost-any-target-iran-risk",
+    "timestamp": "2026-02-27T19:55:57Z"
+  },
+  {
+    "title": "Trump faces 2,000 tariff lawsuits following Supreme Court loss",
+    "description": "In the days since the U.S. Supreme Court declared most of Donald Trump\u2019s global tariffs illegal, over 100 companies filed lawsuits. Read on",
+    "link": "https://financialpost.com/legal-post/trump-faces-2000-tariff-lawsuits",
+    "timestamp": "2026-02-27T19:54:42Z"
+  },
+  {
+    "title": "When I look at US hockey, I see role models. Not invented outrage. | Opinion",
+    "description": "I think we can learn a lot from these Olympians about how to handle our own wins, losses, setbacks and successes in life, not just in sports.",
+    "link": "https://www.usatoday.com/story/opinion/columnist/2026/02/27/us-mens-hockey-team-usa-olympics-inspiration/88900297007/",
+    "timestamp": "2026-02-27T19:52:18Z"
+  },
+  {
+    "title": "US DOJ seized and froze $580M in crypto from \u2018Chinese transnational criminals\u2018",
+    "description": "The seizures and freezing over three months were conducted by the District of Columbia\u2019s Scam Center Strike Force, established by US Attorney Jeanine Pirro in November.",
+    "link": "https://cointelegraph.com/news/us-justice-department-seized-crypto-china",
+    "timestamp": "2026-02-27T19:51:33Z"
+  },
+  {
     "title": "Team USA men\u2019s hockey star set for \u2018SNL\u2019 cameo after Winter Olympics",
     "description": "Americans are still celebrating the wave of success from the 2026 Winter Olympics and one Team USA hockey star is continuing that party with several late-night show appearances. Both the men\u2019s and women\u2019s hockey teams celebrated their gold medals thoroughly\u2026",
     "link": "https://www.thebiglead.com/team-usa-mens-hockey-star-snl-cameo-winter-olympics/",
@@ -324,15 +360,15 @@
     "timestamp": "2026-02-27T19:00:00Z"
   },
   {
-    "title": "Rubio to hold talks Monday in Israel on Iran: State Dept",
-    "description": "The US Secretary of State is set to hold talks in Israel on Iran, Lebanon and the US-led 20-point Gaza peace plan.",
-    "link": "https://www.channelnewsasia.com/world/marco-rubio-trump-threat-strikes-us-iran-war-5959411",
-    "timestamp": "2026-02-27T18:58:00Z"
-  },
-  {
     "title": "US opens 'pop-up' consulate in Israeli settlement considered illegal under international law",
     "description": "Around 4,000 people in Efrat - that's about a third of its population - are US citizens. And as we watched, a decent chunk of that number came to a community centre, clutching passports, documents, small Stars and Stripes flags and paperwork.",
     "link": "https://news.sky.com/story/us-opens-pop-up-consulate-in-israeli-settlement-considered-illegal-under-international-law-13513109",
+    "timestamp": "2026-02-27T18:58:00Z"
+  },
+  {
+    "title": "Rubio to hold talks Monday in Israel on Iran: State Dept",
+    "description": "The US Secretary of State is set to hold talks in Israel on Iran, Lebanon and the US-led 20-point Gaza peace plan.",
+    "link": "https://www.channelnewsasia.com/world/marco-rubio-trump-threat-strikes-us-iran-war-5959411",
     "timestamp": "2026-02-27T18:58:00Z"
   },
   {
@@ -414,15 +450,15 @@
     "timestamp": "2026-02-27T18:41:59Z"
   },
   {
-    "title": "Trump Says He Sees Possible \u2018Friendly Takeover of Cuba\u2019",
-    "description": "US President Donald Trump suggested a possible \u201cfriendly takeover of Cuba\u201d as the White House looks to leverage the Communist-run island\u2019s energy crisis to exert greater influence.",
-    "link": "https://financialpost.com/pmn/business-pmn/trump-says-he-sees-possible-friendly-takeover-of-cuba",
-    "timestamp": "2026-02-27T18:36:52Z"
-  },
-  {
     "title": "Trump says he sees possible 'friendly takeover of Cuba'",
     "description": "Donald Trump suggested a \u201cfriendly takeover of Cuba\u201d as the U.S. looks to leverage the island\u2019s energy crisis to exert influence. Read on",
     "link": "https://financialpost.com/commodities/energy/trump-sees-possible-friendly-takeover-cuba",
+    "timestamp": "2026-02-27T18:36:52Z"
+  },
+  {
+    "title": "Trump Says He Sees Possible \u2018Friendly Takeover of Cuba\u2019",
+    "description": "US President Donald Trump suggested a possible \u201cfriendly takeover of Cuba\u201d as the White House looks to leverage the Communist-run island\u2019s energy crisis to exert greater influence.",
+    "link": "https://financialpost.com/pmn/business-pmn/trump-says-he-sees-possible-friendly-takeover-of-cuba",
     "timestamp": "2026-02-27T18:36:52Z"
   },
   {
@@ -538,41 +574,5 @@
     "description": "Patna: The state govt has intensified efforts to revive the long-closed Sasamusa sugar mill in Gopalganj district, assigning the responsibility of res.",
     "link": "https://timesofindia.indiatimes.com/city/patna/bihar-govt-steps-up-efforts-to-revive-sasamusa-sugar-mill-in-gopalganj/articleshow/128862257.cms",
     "timestamp": "2026-02-27T18:25:45Z"
-  },
-  {
-    "title": "Poll: Marco Rubio Most Liked Leader in Venezuela",
-    "description": "A recent survey conducted by AtlasIntel found that U.S. Secretary of State Marco Rubio ranks as the most liked politician in Venezuela.\nThe post Poll: Marco Rubio Most Liked Leader in Venezuela appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/latin-america/2026/02/27/poll-marco-rubio-most-liked-leader-venezuela/",
-    "timestamp": "2026-02-27T18:25:02Z"
-  },
-  {
-    "title": "Liquor, ganja consumption rampant in airport parking areas; director writes to police",
-    "description": "Bhubaneswar airport authorities have alerted the city police about rampant antisocial activities, including drug consumption and unruly behavior by transport operators, in its parking areas. Airport Director Prasanna Pradhan highlighted concerns over the nega\u2026",
-    "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/liquor-ganja-consumption-rampant-in-airport-parking-areas-director-writes-to-police/articleshow/128862208.cms",
-    "timestamp": "2026-02-27T18:24:52Z"
-  },
-  {
-    "title": "Rajpal Yadav on launching his digital universe: Everything is at your fingertips",
-    "description": "Rajpal Yadav is stepping into the digital space with his own YouTube channel and content platform. The actor says the move is aimed at directly connecting with audiences and reclaiming his creative identity online.",
-    "link": "https://timesofindia.indiatimes.com/web-series/news/hindi/rajpal-yadav-on-launching-his-digital-universe-everything-is-at-your-fingertips/articleshow/128860286.cms",
-    "timestamp": "2026-02-27T18:24:23Z"
-  },
-  {
-    "title": "Nirmala secures chairperson\u2019s post of Phusro civic body",
-    "description": "Bokaro: In a decisive mandate, Nirmala Devi emerged as the new chairperson of Phusro Municipal Council, securing a commanding victory after maintainin.",
-    "link": "https://timesofindia.indiatimes.com/city/ranchi/nirmala-secures-chairpersons-post-of-phusro-civic-body/articleshow/128862245.cms",
-    "timestamp": "2026-02-27T18:24:19Z"
-  },
-  {
-    "title": "Ranchi Civic Polls: Flower & Sweet Sales Surge as Supporters Gear Up for Victory Celebrations",
-    "description": "Ranchi's markets buzzed with activity as civic poll counting progressed. Flower vendors reported brisk sales of garlands, with supporters stocking up early in anticipation of victory. Sweet shops saw a surge in orders for celebratory sweets, with many placing\u2026",
-    "link": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-civic-polls-flower-sweet-sales-surge-as-supporters-gear-up-for-victory-celebrations/articleshow/128862231.cms",
-    "timestamp": "2026-02-27T18:22:01Z"
-  },
-  {
-    "title": "Karnataka man arrested for killing wife in Saligao room",
-    "description": "Calangute: A migrant from Karnataka allegedly murdered his wife by slashing her throat with a knife early Friday morning in a rented room at Muddavadd.",
-    "link": "https://timesofindia.indiatimes.com/city/goa/karnataka-man-arrested-for-killing-wife-in-saligao-room/articleshow/128862122.cms",
-    "timestamp": "2026-02-27T18:21:23Z"
   }
 ]
