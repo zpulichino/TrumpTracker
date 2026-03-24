@@ -1,5 +1,425 @@
 [
   {
+    "title": "Voice of America journalists allege Trump wants to make outlet a propaganda source",
+    "description": "Some journalists at Voice of America charged in a lawsuit Monday that the Trump administration \u2014 while largely shutting down the government-run outlet that provides news around the world \u2014 wants the operation to be more of a voice for propaganda",
+    "link": "https://abcnews.com/US/wireStory/voice-america-journalists-allege-trump-make-outlet-propaganda-131337021",
+    "timestamp": "2026-03-23T19:15:06Z"
+  },
+  {
+    "title": "'I'll kill him': Convicted man back in custody after threatening Trump, then demanding pardon",
+    "description": "Oregon man Diedrich Holgate was re-arrested after allegedly texting threats to kill President Trump to his probation officer.",
+    "link": "https://www.foxnews.com/politics/ill-kill-him-convicted-man-back-custody-after-threatening-trump-demanding-pardon",
+    "timestamp": "2026-03-23T19:13:04Z"
+  },
+  {
+    "title": "Nearly 150 USDA County Offices Have No Conservation Staff, New Data\u00a0Shows",
+    "description": "March 23, 2026 \u2013 According to a new analysis, 144 U.S. Department of Agriculture (USDA) county offices lost all of their conservation staff in 2025, prompting questions around who will assist farmers looking to enroll in popular programs that boost farm resil\u2026",
+    "link": "https://civileats.com/2026/03/23/nearly-150-usda-county-offices-have-no-conservation-staff-new-data-shows/",
+    "timestamp": "2026-03-23T19:12:46Z"
+  },
+  {
+    "title": "Trans Golfer Hailey Davidson Sues USGA and LPGA Over Ban From Women\u2019s Tournaments",
+    "description": "Davidson alleges that the sports leagues have violated anti-discrimination law.",
+    "link": "https://www.them.us/story/trans-golfer-hailey-davidson-sues-usga-lpga",
+    "timestamp": "2026-03-23T19:12:09Z"
+  },
+  {
+    "title": "Oil Prices Drop, Stock Market Surges Amid Chatter That Iran War Nearing End",
+    "description": "While the situation in Iran remains developing, chatter that the United States will cease operations is growing although unproven.",
+    "link": "https://hiphopwired.com/3049255/oil-prices-drop-stocks-surge-rumor-iran-war-ending/",
+    "timestamp": "2026-03-23T19:10:20Z"
+  },
+  {
+    "title": "US won\u2019t strike Iran\u2019s power plants for 5 days: Trump",
+    "description": "Claims talks with \u2018top person\u2019 in Iran; oil prices ease Agency DUBAI: President Donald Trump extended his deadline for Iran to reopen the crucial Strait of Hormuz to international shipping, saying Monday that the US would hold off on threatened strikes agains\u2026",
+    "link": "https://statetimes.in/us-wont-strike-irans-power-plants-for-5-days-trump/",
+    "timestamp": "2026-03-23T19:09:58Z"
+  },
+  {
+    "title": "Abortionist Kermit Gosnell dead.",
+    "description": "It is only fitting that Phelim McAleer and Ann McElhinney should be the first to tell the world that Kermit Gosnell is dead.They send out a notice this morning that \"according to prison and law enforcement sources, Gosnell died two weeks ago but his death has\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4371879/posts",
+    "timestamp": "2026-03-23T19:05:26Z"
+  },
+  {
+    "title": "Two dead in New York jet collision, Trump deploys ICE to strained US airports",
+    "description": "\u201cThey're really there to help,\u201d US President Donald Trump said, as the deadly runway crash in New York and long TSA lines prompted the deployment of US Immigration and Customs Enforcement (ICE) agents.",
+    "link": "https://www.channelnewsasia.com/world/us-new-york-laguardia-air-canada-crash-airport-ice-trump-6012116",
+    "timestamp": "2026-03-23T19:01:17Z"
+  },
+  {
+    "title": "Small comforts fade and big worries grow as fuel prices surge globally",
+    "description": "People around the world are cutting back as high gas prices stretch household budgets.",
+    "link": "https://www.twincities.com/2026/03/23/us-iran-war-global-fuel-prices/",
+    "timestamp": "2026-03-23T19:00:40Z"
+  },
+  {
+    "title": "Code Pink Invades Cuba, Enjoys 5-Star Hotel as People Suffer Through Blackout",
+    "description": "These people held many events and hosted a concert with Kneecap, the notorious anti-Israel Irish band.\nThe post Code Pink Invades Cuba, Enjoys 5-Star Hotel as People Suffer Through Blackout first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+    "link": "https://legalinsurrection.com/2026/03/code-pink-invades-cuba-enjoys-5-star-hotel-as-people-suffer-through-blackout/",
+    "timestamp": "2026-03-23T19:00:09Z"
+  },
+  {
+    "title": "Trump Delays Threat to \u201cObliterate\u201d Iran\u2019s Energy Sites",
+    "description": "Trump vowed on Monday to postpone all strikes against Iranian power plants and energy infrastructure for five days.",
+    "link": "https://truthout.org/articles/trump-delays-threat-to-obliterate-irans-energy-sites/",
+    "timestamp": "2026-03-23T18:58:52Z"
+  },
+  {
+    "title": "Schumer clashes with MS NOW host over whether degrading Iranian military is a good thing",
+    "description": "Sen. Chuck Schumer clashed with Joe Scarborough on Monday over whether degrading Iran's military is a good thing, as Schumer argued gas prices and recession risks matter more.",
+    "link": "https://www.foxnews.com/media/schumer-clashes-ms-now-host-over-whether-degrading-iranian-military-good-thing",
+    "timestamp": "2026-03-23T18:57:37Z"
+  },
+  {
+    "title": "What to know about the collision between a plane and fire truck at New York's LaGuardia Airport",
+    "description": "Photos and videos from the crash's aftermath show the jet's nose crushed and the fire truck on its side.",
+    "link": "https://www.pbs.org/newshour/nation/what-to-know-about-the-collision-between-a-plane-and-fire-truck-at-new-yorks-laguardia-airport",
+    "timestamp": "2026-03-23T18:57:10Z"
+  },
+  {
+    "title": "Top TSA watchdog backs Trump\u2019s ICE airport move as shutdown snarls travel",
+    "description": "As the DHS shutdown enters its 37th day, GOP Rep. Carlos Gimenez says Trump\u2019s plan to use ICE agents at airports will \"speed up the process\" for frustrated American travelers.",
+    "link": "https://www.foxnews.com/politics/top-tsa-watchdog-backs-trumps-ice-airport-move-shutdown-snarls-travel",
+    "timestamp": "2026-03-23T18:56:47Z"
+  },
+  {
+    "title": "Netanyahu responds to Trump: Israel's interests will be preserved even with an agreement",
+    "description": "Prime Minister Benjamin Netanyahu responded for the first time to President Trump\u2019s statement regarding efforts to end the war. \u201cWe will safeguard our interests.\"",
+    "link": "https://www.israelnationalnews.com/news/424452",
+    "timestamp": "2026-03-23T18:56:15Z"
+  },
+  {
+    "title": "Under-The-Radar Race In Ohio Pits Two Trump Allies Against One Another",
+    "description": "An under-the-radar race is pitting two allies of President Trump against one another: Vice President J.D. Vance, and Ohio governor candidate Vivek Ramaswamy.",
+    "link": "https://dailycaller.com/2026/03/23/vivek-ramaswamy-jd-vance-ohio-state-treasurer-race-kristina-roegner-jay-edwards-endorsements/",
+    "timestamp": "2026-03-23T18:55:14Z"
+  },
+  {
+    "title": "3606 - Trump Punts Hormuz; Republican National Purity Dream w/ David Bier",
+    "description": "It's Fun Day Monday on The Majority Report \u00a0 On today's program: \u00a0 This Saturday Donald Trump issued a warning to Iran to open the Strait of Hormuz within 48 hours, or he'll order the obliteration of their power grid. On Monday after Iran didn't bite, Trump g\u2026",
+    "link": "https://majorityfm.libsyn.com/3606-trump-punts-hormuz-republican-national-purity-dream-w-david-bier",
+    "timestamp": "2026-03-23T18:55:00Z"
+  },
+  {
+    "title": "Trump Refuses Reasonable DHS Funding Deal, Sends ICE To Patrol 14 Airports Including Atlanta, Houston, And Chicago",
+    "description": "Airport chaos persists despite ICE deployment as political deadlock in Washington blocks resolution of TSA staffing crisis.\nThe post Trump Refuses Reasonable DHS Funding Deal, Sends ICE To Patrol 14 Airports Including Atlanta, Houston, And Chicago appeared fi\u2026",
+    "link": "https://bossip.com/4535172/trump-rejects-dhs-funding-deal-sends-ice-to-airports/",
+    "timestamp": "2026-03-23T18:54:09Z"
+  },
+  {
+    "title": "China Extends Digital Yuan Project to 12 New Banks",
+    "description": "China will reportedly permit select banks to handle its central bank digital currency (CBDC). That\u2019s according to a\u00a0report\u00a0Friday (March 20) from Reuters, which notes that this effort marks a strong contrast to the U.S. stance on CBDCs. The People\u2019s Bank of C\u2026",
+    "link": "https://www.pymnts.com/cbdc/2026/china-extends-digital-yuan-project-to-12-new-banks/",
+    "timestamp": "2026-03-23T18:52:49Z"
+  },
+  {
+    "title": "TACO Trump strikes again with sudden Iran backdown",
+    "description": "After threatening to \"obliterate\" Iran's power plants, Donald Trump's sudden backdown is again fuelling TACO taunts.",
+    "link": "https://www.abc.net.au/news/2026-03-24/donald-trump-taco-iran-war-threats-backdown/106488596",
+    "timestamp": "2026-03-23T18:51:56Z"
+  },
+  {
+    "title": "Trump demands SAVE America Act be tied to DHS funding amid airport chaos",
+    "description": "The Republicans should tie Homeland Security shutdown funding to the voter ID SAVE America Act, President Donald Trump urged Monday in Memphis.",
+    "link": "https://www.foxnews.com/politics/trump-demands-save-america-act-tied-dhs-funding-amid-airport-chaos",
+    "timestamp": "2026-03-23T18:51:23Z"
+  },
+  {
+    "title": "Trump Releases Line Of Sympathy Cards",
+    "description": "U.S. \u2014 Separate from his work as the nation's commander in chief, President Donald Trump announced that he was releasing a line of specialty sympathy cards he had written himself.",
+    "link": "https://babylonbee.com/news/trump-releases-line-of-sympathy-cards",
+    "timestamp": "2026-03-23T18:51:12Z"
+  },
+  {
+    "title": "Canada's oil and gas pipelines attract Middle East, Asian interest: Premier Danielle Smith",
+    "description": "Middle Eastern and Asian investors have expressed early-stage interest in a potential new crude oil pipeline in Canada and could become minority owners if such a project \u200cgoes ahead, Alberta Premier Danielle Smith said on Monday.",
+    "link": "https://www.bnnbloomberg.ca/business/2026/03/23/canadas-pipeline-plan-attracts-middle-eastern-asian-interest-alberta-premier-says/",
+    "timestamp": "2026-03-23T18:50:42Z"
+  },
+  {
+    "title": "Trump's shambolic policy-making by Fox segment hits the airports (Matt Gertz/Media Matters for America)",
+    "description": "Matt Gertz / Media Matters for America:\nTrump's shambolic policy-making by Fox segment hits the airports\u00a0 \u2014\u00a0 President Donald Trump threw his administration into chaos on Saturday by demanding the stationing of Immigration and Customs Enforcement agents at U.\u2026",
+    "link": "https://www.memeorandum.com/260323/p89",
+    "timestamp": "2026-03-23T18:50:00Z"
+  },
+  {
+    "title": "\u2018See If You Can Top That!\u2019 Trump Urges Kash Patel to Praise Him Even More Than Stephen Miller Did at Fawning Roundtable",
+    "description": "Trump challenged FBI Director Kash Patel to do a better job praising him than Stephen Miller after the adviser applauded the president's \"miracle\" on crime\nThe post \u2018See If You Can Top That!\u2019 Trump Urges Kash Patel to Praise Him Even More Than Stephen Miller \u2026",
+    "link": "https://www.mediaite.com/politics/see-if-you-can-top-that-trump-urges-kash-patel-to-praise-him-even-more-than-stephen-miller-did-at-fawning-roundtable/",
+    "timestamp": "2026-03-23T18:49:41Z"
+  },
+  {
+    "title": "This zombie ship was meant to be scrap metal \u2014 it just sailed the Strait of Hormuz",
+    "description": "Iran has effectively blocked the only way out of the Persian Gulf, leaving about 3,000 ships stranded. But two zombie ships appear to have sailed in and out of the Gulf through the Strait of Hormuz.",
+    "link": "https://www.abc.net.au/news/2026-03-24/strait-of-hormuz-iran-us-war-trump-zombie-ships/106486194",
+    "timestamp": "2026-03-23T18:46:17Z"
+  },
+  {
+    "title": "Italian voters reject judicial reform in setback for Meloni",
+    "description": "With political tensions already running high, public debate intensified in the final weeks before the vote, turning it into a de facto confidence test on Meloni's leadership itself.",
+    "link": "https://www.pbs.org/newshour/world/italian-voters-reject-judicial-reform-in-setback-for-meloni",
+    "timestamp": "2026-03-23T18:45:25Z"
+  },
+  {
+    "title": "What to know about Trump's deployment of ICE agents to airports",
+    "description": "ICE agents are assisting unpaid TSA agents with managing the flow of passengers, and the president said they can also \"arrest illegals.\"",
+    "link": "https://www.businessinsider.com/what-to-know-trump-plan-deploy-ice-agents-us-airports-2026-3",
+    "timestamp": "2026-03-23T18:45:21Z"
+  },
+  {
+    "title": "Trump heads to Elvis Presley's Graceland in Memphis, a detour during Iran war and airport turmoil (Associated Press)",
+    "description": "Associated Press:\nTrump heads to Elvis Presley's Graceland in Memphis, a detour during Iran war and airport turmoil\u00a0 \u2014\u00a0 President Donald Trump, who for years has played Elvis Presley's music at his campaign rallies across the country and who has often compare\u2026",
+    "link": "https://www.memeorandum.com/260323/p88",
+    "timestamp": "2026-03-23T18:45:03Z"
+  },
+  {
+    "title": "Cloned \u2018Meat\u2019 Secretly Flooding American Food Supply Without Labels",
+    "description": "America\u2019s food supply is being infiltrated by unlabeled cloned \u201cbeef\u201d and \u201cpork,\u201d quietly mixed into supermarket shelves and restaurant chains\u2019 menus and sold as real meat, without the knowledge of the public.\nThe revelation comes as Canada abruptly halted it\u2026",
+    "link": "https://www.globalresearch.ca/cloned-meat-secretly-flooding-american-food-supply-without-labels/5919572",
+    "timestamp": "2026-03-23T18:44:29Z"
+  },
+  {
+    "title": "Trump claims he could jointly control the Strait of Hormuz with Iran\u2019s supreme leader as Tehran denies any talks (VIDEOS, PHOTOS)",
+    "description": "US President Donald Trump has announced that he believes he and \u201cthe next Ayatollah\u201d could control the Strait of Hormuz of a fifth of global oil production flows through the Gulf",
+    "link": "https://www.rt.com/news/635960-trump-claims-he-could-jointly-control-hormuz-ayatollah/",
+    "timestamp": "2026-03-23T18:43:23Z"
+  },
+  {
+    "title": "Bitcoin, Ethereum and Wider Crypto Market Rebound As Trump Teases Potential Peace With Iran",
+    "description": "Bitcoin (BTC) has gained more than 4% today after US President Donald Trump teased a potential path to peace with Iran. On Saturday, Trump threatened to bomb and \u201cobliterate\u201d Iran\u2019s power plants if the Middle Eastern country didn\u2019t open the Strait of Hormuz w\u2026",
+    "link": "https://dailyhodl.com/2026/03/23/bitcoin-ethereum-and-wider-crypto-market-rebound-as-trump-teases-potential-peace-with-iran/",
+    "timestamp": "2026-03-23T18:43:00Z"
+  },
+  {
+    "title": "Chevron\u2019s CEO says oil prices are still too low\u2014and the effects of the Strait of Hormuz closure are not \u2018fully priced in\u2019",
+    "description": "\u201cPhysical supply changes don\u2019t respond immediately,\u201d said Wirth. \u201cEven when strait reopens at some point, it will take time.\u201d",
+    "link": "https://fortune.com/2026/03/23/chevron-ceo-mike-wirth-strait-of-hormuz-oil-prices-outlook/",
+    "timestamp": "2026-03-23T18:41:25Z"
+  },
+  {
+    "title": "SCOTUS conservatives signal readiness to curb late-arriving mail ballots",
+    "description": "Conservative Supreme Court justices appeared skeptical during oral arguments of allowing states to continue counting late-arriving mail-in ballots. A decision is expected in June.",
+    "link": "https://www.foxnews.com/politics/scotus-conservatives-signal-readiness-curb-late-arriving-mail-ballots",
+    "timestamp": "2026-03-23T18:40:06Z"
+  },
+  {
+    "title": "Europe\u2019s Far Right Is Turning on Trump",
+    "description": "The president\u2019s attempt to influence elections across the Atlantic is backfiring.",
+    "link": "https://www.theatlantic.com/national-security/2026/03/europe-far-right-denmark-elections-trump/686503/",
+    "timestamp": "2026-03-23T18:40:01Z"
+  },
+  {
+    "title": "ICE agents coming to some airports as travelers experience security delays",
+    "description": "ICE agents are expected to begin handling some security duty at select U.S. airports Monday amid an ongoing partial government shutdown that has sidelined many Transportation Security Administration officers, but there was no immediate indication any Californ\u2026",
+    "link": "https://www.kpbs.org/news/quality-of-life/2026/03/23/ice-agents-coming-to-some-airports-as-travelers-experience-security-delays",
+    "timestamp": "2026-03-23T18:39:36Z"
+  },
+  {
+    "title": "Trump's Latest Plan For ICE Is Truly Stupid: 'No Way It Helps'",
+    "description": "The president\u2019s plan is an unhelpful distraction at best and could actually make things more dangerous, TSA union leaders say.",
+    "link": "https://www.huffpost.com/entry/ice-airports-tsa_n_69c1743ae4b04b9b3f196495",
+    "timestamp": "2026-03-23T18:34:36Z"
+  },
+  {
+    "title": "Trump Insults Newsmax Reporter: 'You're Not Doing A Good Job'",
+    "description": "The president has a history of insulting reporters who ask him questions he doesn't like.",
+    "link": "https://www.huffpost.com/entry/trump-insults-newsmax-reporter_n_69c16121e4b04b9b3f193f85",
+    "timestamp": "2026-03-23T18:34:28Z"
+  },
+  {
+    "title": "NATO leader says he expects Europe will come together on Iran - Politico",
+    "description": "NATO leader says he expects Europe will come together on IranPolitico NATO Allies \u2018Coming Together\u2019 to Secure Strait of Hormuz, Mark Rutte SaysWSJ Trump says that he's asked 'about 7' countries to join coalition to police Iran's Strait of HormuzAP News Day 22\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=181087844",
+    "timestamp": "2026-03-23T18:32:38Z"
+  },
+  {
+    "title": "Pakistan moves into position as mediator in US-Israeli war on Iran",
+    "description": "Army chief Asim Munir uses Tehran ties and warm relationship with US president to boost mediation effort",
+    "link": "https://www.irishtimes.com/world/middle-east/2026/03/23/pakistan-moves-into-position-as-mediator-in-us-israeli-war-on-iran/",
+    "timestamp": "2026-03-23T18:32:10Z"
+  },
+  {
+    "title": "XRP hits a snag after Monday\u2019s relief rally, active addresses down 40%",
+    "description": "Active XRP addresses dropped over 40% in four days. XRP price remains stuck between a tight trading range. Retail holders have grown, but overall network activity is slowing. XRP has entered a tight and uncertain phase after a brief rally following an announc\u2026",
+    "link": "https://coinjournal.net/news/xrp-hits-a-snag-after-mondays-relief-rally-active-addresses-down-40/",
+    "timestamp": "2026-03-23T18:31:19Z"
+  },
+  {
+    "title": "Trump says US and Iran 'want deal' as Tehran calls claim of talks \u2018fake news\u2019",
+    "description": "President Donald Trump says he will postpone threatened strikes on Iran's power infrastructure for five days after 'productive' talks.",
+    "link": "https://www.abc.net.au/news/2026-03-24/trump-says-iran-wants-a-deal-to-end-the-war/106488538",
+    "timestamp": "2026-03-23T18:30:47Z"
+  },
+  {
+    "title": "Did Trump say he was 'glad' Robert Mueller died?",
+    "description": "A screenshot authentically shows a March 21, 2026, Truth Social post by U.S. President Donald Trump saying he was \"glad\" former FBI director and special counsel Robert Mueller had died.",
+    "link": "https://www.snopes.com//fact-check/trump-robert-mueller-post/",
+    "timestamp": "2026-03-23T18:30:00Z"
+  },
+  {
+    "title": "Bannon: Trump's ICE airport deployment is 'test run' for ICE at polls (Jacob Knutson/Democracy Docket)",
+    "description": "Jacob Knutson / Democracy Docket:\nBannon: Trump's ICE airport deployment is \u2018test run\u2019 for ICE at polls\u00a0 \u2014\u00a0 Steve Bannon suggested that President Donald Trump deployed Immigration and Customs Enforcement (ICE) agents to major U.S. airports as part of a \u201ctest \u2026",
+    "link": "https://www.memeorandum.com/260323/p84",
+    "timestamp": "2026-03-23T18:30:00Z"
+  },
+  {
+    "title": "David Cross Talks Ninth Special, Playing Comedy Clubs For First Time In Two Decades & Live Nation\u2019s DOJ Settlement \u2014 Comedy Means Business Podcast",
+    "description": "Over the course of more than four decades, David Cross has done it all. An Emmy-winner and two-time Grammy nominee who was central to the rise of alt comedy in the 1990s, Cross has been performing stand-up professionally since he was a teenager back in late \u2019\u2026",
+    "link": "http://deadline.com/2026/03/david-cross-new-special-comedy-means-business-interview-1236761816/",
+    "timestamp": "2026-03-23T18:30:00Z"
+  },
+  {
+    "title": "Trump Installs Christopher Columbus Statue Outside White House",
+    "description": "President Donald Trump installed a statue of Christopher Columbus outside of the Eisenhower Executive Office Building.",
+    "link": "https://dailycaller.com/2026/03/23/trump-christopher-columbus-statue-white-house-2/",
+    "timestamp": "2026-03-23T18:28:59Z"
+  },
+  {
+    "title": "Stocks regain ground after Trump postpones strikes on Iran\u2019s energy plants",
+    "description": "Precious metals edge up while oil prices fall",
+    "link": "https://www.irishtimes.com/business/2026/03/23/stocks-regain-ground-after-trump-postpones-strikes-on-irans-energy-plants/",
+    "timestamp": "2026-03-23T18:27:46Z"
+  },
+  {
+    "title": "Trump Recounts the Story of the Man Who Invented the Paper Clip",
+    "description": "\"You know the story of the paper clip?\" Trump said when asked about ICE and TSA.",
+    "link": "https://gizmodo.com/trump-recounts-the-story-of-the-man-who-invented-the-paper-clip-2000736957",
+    "timestamp": "2026-03-23T18:25:15Z"
+  },
+  {
+    "title": "Supreme Court seems skeptical of allowing states to accept late-arriving mail ballots",
+    "description": "The Supreme Court\u2018s conservative majority sounds skeptical of state laws that allow the counting of late-arriving mail ballots, a persistent target of President Donald Trump. The court heard arguments in a case from Mississippi that could also affect voters i\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4371874/posts",
+    "timestamp": "2026-03-23T18:24:59Z"
+  },
+  {
+    "title": "Democrat Emily Gregory wants to represent Trump \u2014 and his Mar-a-Lago resort \u2014 in Florida's legislature",
+    "description": "Democrat Emily Gregory is hoping to score an upset for a seat in the Florida state House representing President Donald Trump.",
+    "link": "https://www.cnbc.com/2026/03/23/trump-mar-a-lago-florida-democrat-emily-gregory-election.html",
+    "timestamp": "2026-03-23T18:24:49Z"
+  },
+  {
+    "title": "Trump Wants to End Mail Voting. The Supreme Court\u2019s Conservative Justices Appear Eager to Assist.",
+    "description": "President Trump has claimed he is \u201cgoing to lead a movement to get rid of MAIL-IN BALLOTS\u201d and is currently lobbying the US Senate to effectively outlaw the practice as part of his push to pass the Save America Act. The conservative justices on the US Supreme\u2026",
+    "link": "https://www.motherjones.com/politics/2026/03/trump-mailing-in-voting-mississippi-supreme-court-midterms/",
+    "timestamp": "2026-03-23T18:24:35Z"
+  },
+  {
+    "title": "Hell is an American airport",
+    "description": "Today is the day the Trump administration is sending ICE into our airports, to help reduce long lines. Does anyone actually believe that? Donald Trump and his border czar, Tom Homan, have followed through on promises from the president\u2019s administration to sen\u2026",
+    "link": "https://freethoughtblogs.com/pharyngula/2026/03/23/hell-is-an-american-airport/",
+    "timestamp": "2026-03-23T18:24:00Z"
+  },
+  {
+    "title": "Charlamagne Tha God Unleashes On Trump in Blistering Rant: When You Die, \u2018People Are Gonna Treat It Like Mardi Gras!\u2019",
+    "description": "Charlamagne Tha God on Monday went off on President Donald Trump for the way he reacted to the death of former FBI Director Robert Mueller.\nThe post Charlamagne Tha God Unleashes On Trump in Blistering Rant: When You Die, \u2018People Are Gonna Treat It Like Mardi\u2026",
+    "link": "https://www.mediaite.com/media/radio/charlamagne-tha-god-unleashes-on-trump-in-blistering-rant-when-you-die-people-are-gonna-treat-it-like-mardi-gras/",
+    "timestamp": "2026-03-23T18:23:44Z"
+  },
+  {
+    "title": "Over 400 million barrels will be added to the oil market soon \u2013 what are strategic reserves and what can they do?",
+    "description": "Nations\u2019 stores of petroleum can dampen price shocks in the short term, but as reserve supplies dwindle, economic pain may continue.",
+    "link": "https://theconversation.com/over-400-million-barrels-will-be-added-to-the-oil-market-soon-what-are-strategic-reserves-and-what-can-they-do-278370",
+    "timestamp": "2026-03-23T18:22:57Z"
+  },
+  {
+    "title": "Iran denies any talks with US after Trump claims \u2018productive\u2019 discussions",
+    "description": "Iran parliament speaker says US president using idea of talks to 'escape quagmire in which US and Israel are trapped'.",
+    "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions",
+    "timestamp": "2026-03-23T18:21:54Z"
+  },
+  {
+    "title": "House GOP targeting vulnerable Dems over DHS shutdown, TSA chaos",
+    "description": "The NRCC launches paid ads targeting Democrats in 28 districts, accusing them of shutting down DHS and forcing TSA agents to work without pay at airports.",
+    "link": "https://www.foxnews.com/politics/house-gop-targeting-vulnerable-dems-over-dhs-shutdown-tsa-chaos",
+    "timestamp": "2026-03-23T18:20:08Z"
+  },
+  {
+    "title": "HOLY CRAP! President Trump just said he will deploy the NATIONAL GUARD to airports nationwide on top of ICE if necessary",
+    "description": " HOLY CRAP! President Trump just said he will deploy the NATIONAL GUARD to airports nationwide on top of ICE if necessary Democrats are about to FUME. \"If that's not enough, I will bring the National Guard! We're NOT gonna have the Democrats destroy our cou\u2026",
+    "link": "https://freerepublic.com/focus/f-bloggers/4371873/posts",
+    "timestamp": "2026-03-23T18:20:00Z"
+  },
+  {
+    "title": "Let\u2019s talk about your tech rules, Trump envoy tells EU",
+    "description": "Washington wants more concrete engagement on the EU\u2019s landmark digital platform and competition laws, Ambassador Andrew Puzder tells POLITICO.",
+    "link": "https://www.politico.eu/article/lets-talk-about-your-tech-rules-us-donald-trump-envoy-andrew-puzder-tells-eu/",
+    "timestamp": "2026-03-23T18:17:02Z"
+  },
+  {
+    "title": "\u2018The greatest political hoax in history\u2019 now targeted by grand jury investigation",
+    "description": "'Yes, there was a Russian collusion conspiracy, but not the one that the media relentlessly pushed during the first Trump term'",
+    "link": "https://www.wnd.com/2026/03/greatest-political-hoax-history-now-targeted-grand-jury/",
+    "timestamp": "2026-03-23T18:16:49Z"
+  },
+  {
+    "title": "11,000 Children Among Tens of Thousands \u2018Waiting for Surgery\u2019 in Cuba Due to US Blockade",
+    "description": "More than 96,000 Cubans, including 11,000 children, are \"waiting for surgery\" due to a fuel shortage caused by the American blockade, the country's deputy foreign minister, Carlos Fernandez de Cossio, said on Sunday.The numbers cited by the minister on NBC's \u2026",
+    "link": "https://www.commondreams.org/news/cuba-surgery-blockade",
+    "timestamp": "2026-03-23T18:16:33Z"
+  },
+  {
+    "title": "'Make this one for Jesus': Trump curses as he demands passing voter ID bill for Christ",
+    "description": "President Donald Trump cursed as he told Republicans to pass a restrictive voter identification bill \"for Jesus.\"During a Monday event in Memphis, the president said he was tying Department of Homeland Security funding to the SAVE America Act, a bill that wou\u2026",
+    "link": "https://www.rawstory.com/trump-voter-id/",
+    "timestamp": "2026-03-23T18:16:19Z"
+  },
+  {
+    "title": "Historic preservation groups sue Trump to block Kennedy Center changes",
+    "description": "A coalition of preservation groups is suing to stop major physical changes at the Kennedy Center under President Donald Trump's renovation plans.",
+    "link": "https://www.pbs.org/newshour/nation/historic-preservation-groups-sue-trump-to-block-kennedy-center-changes",
+    "timestamp": "2026-03-23T18:16:07Z"
+  },
+  {
+    "title": "Ana Navarro: People Will 'Celebrate' When Trump Dies",
+    "description": "Monday on ABC's \"The View,\" co-host Ana Navarro predicted people would celebrate when President Donald Trump dies.\nThe post Ana Navarro: People Will \u2018Celebrate\u2019 When Trump Dies appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/clips/2026/03/23/ana-navarro-people-will-celebrate-when-trump-dies/",
+    "timestamp": "2026-03-23T18:15:31Z"
+  },
+  {
+    "title": "Sam Bankman-Fried Court Letter Under Scrutiny As Parents Call For Clemency",
+    "description": "Prosecutors said there was \"reason to doubt\" that a recent court letter supposedly from Sam Bankman-Fried was actually sent by him",
+    "link": "https://decrypt.co/362060/sam-bankman-fried-court-letter-under-scrutiny-as-parents-call-for-clemency",
+    "timestamp": "2026-03-23T18:15:19Z"
+  },
+  {
+    "title": "Trump Compares Putting ICE Officers In Airports To... Paper Clips?!?",
+    "description": "The president swiftly took credit for the idea before dropping an out-there tale about a common office item.",
+    "link": "https://www.huffpost.com/entry/trump-ice-agents-airports-invent-paper-clips_n_69c1446de4b04cdc2d76edef",
+    "timestamp": "2026-03-23T18:14:15Z"
+  },
+  {
+    "title": "Air traffic controller repeatedly told fire engine to 'stop' ahead of deadly plane crash",
+    "description": "Both pilots died when the Air Canada jet struck the vehicle, which was crossing a runway. The New York airport has since reopened, albeit with reduced capacity.",
+    "link": "https://news.sky.com/story/laguardia-crash-air-traffic-controller-repeatedly-told-fire-engine-to-stop-ahead-of-deadly-plane-colllision-13523599",
+    "timestamp": "2026-03-23T18:13:00Z"
+  },
+  {
+    "title": "Trump Tells Reporters Talks with Iran Have Been \u2018Very Strong\u2019: \u2018We Have Major Points of Agreement\u2019",
+    "description": "President Donald Trump said Monday that discussions with Iran have been \"very, very strong\" when asked about Tehran denying conversations that could lead to ending the war.\nThe post Trump Tells Reporters Talks with Iran Have Been \u2018Very Strong\u2019: \u2018We Have Major\u2026",
+    "link": "https://www.breitbart.com/politics/2026/03/23/trump-tells-reporters-talks-with-iran-have-been-very-strong-we-have-major-points-of-agreement/",
+    "timestamp": "2026-03-23T18:12:48Z"
+  },
+  {
+    "title": "Chevron CEO says Iran war impact isn't fully priced into oil market, traders have \u2018scant information\u2019",
+    "description": "Chevron CEO Mike Wirth said the physical supply of oil is much tighter than the oil futures market suggests.",
+    "link": "https://www.cnbc.com/2026/03/23/chevron-ceo-oil-price-iran-war-strait-hormuz.html",
+    "timestamp": "2026-03-23T18:12:05Z"
+  },
+  {
+    "title": "Blaming Israel Lets Washington off the Hook",
+    "description": "Joe Kent\u2019s resignation letter mixes fact and fiction to deleterious effect.",
+    "link": "http://foreignpolicy.com/2026/03/23/israel-iran-trump-joe-kent-antisemitism-militarism-biden-netanyahu/",
+    "timestamp": "2026-03-23T18:10:08Z"
+  },
+  {
+    "title": "Oil prices slide, European stocks rebound on Trump's Iran remarks",
+    "description": "US President Donald Trump said the US and Iran had held \"productive conversations\u201d aimed at ending the conflict in the Middle East,\u00a0though Tehran denied any talks.",
+    "link": "https://www.channelnewsasia.com/business/stocks-oil-gas-europe-asia-trump-iran-israel-war-talks-6011846",
+    "timestamp": "2026-03-23T18:09:00Z"
+  },
+  {
     "title": "Steve Bannon admits Trump sent ICE to airports as 'test run' for midterms",
     "description": "MAGA influencer Steve Bannon argued that President Donald Trump deployed Immigration and Customs Enforcement agents to airports as a \"5-D chess\" move that would prepare them to police polling places in the 2026 midterm elections. For his part, Trump has said \u2026",
     "link": "https://www.rawstory.com/bannon-ice-airports-midterms/",
@@ -142,389 +562,5 @@
     "description": "\u2018This is who he is because he\u2019s a mean person with a dark heart, verbal diarrhea, and no impulse control,\u2019 co-host Ana Navarro said",
     "link": "https://www.the-independent.com/arts-entertainment/tv/news/the-view-trump-robert-mueller-b2944025.html",
     "timestamp": "2026-03-23T17:41:02Z"
-  },
-  {
-    "title": "ICE Deployed to Airports After Trump Rejects Deal to Fund TSA",
-    "description": "President Donald Trump rejected a proposal from Congress to fund the TSA as hours-long security delays hamper travels and ICE deploys to airports.",
-    "link": "http://www.rollingstone.com/politics/politics-news/trump-rejects-deal-fund-tsa-ice-airports-1235535704/",
-    "timestamp": "2026-03-23T17:40:31Z"
-  },
-  {
-    "title": "There's no way to redeem Trump's dismal second presidency (John Kenneth White/The Hill)",
-    "description": "John Kenneth White / The Hill:\nThere's no way to redeem Trump's dismal second presidency\u00a0 \u2014\u00a0 The Trump presidency is over.\u00a0 Those words seem harsh and, perhaps, overstated.\u00a0 But Donald Trump is governing without the consent of the governed.\u00a0 Most polls show T\u2026",
-    "link": "https://www.memeorandum.com/260323/p80",
-    "timestamp": "2026-03-23T17:40:01Z"
-  },
-  {
-    "title": "It is not Europe\u2019s war even when Iran hangs Europeans",
-    "description": "We Europeans are a bunch of cowards who have lost the sense of sovereignty and reciprocity. Opinion.",
-    "link": "https://www.israelnationalnews.com/news/424447",
-    "timestamp": "2026-03-23T17:39:33Z"
-  },
-  {
-    "title": "Biden Admin Let College Student\u2019s Alleged Illegal Alien Killer Into Country, DHS Says",
-    "description": "The illegal immigrant who killed Sheridan Gorman was released into the country by the Biden administration after being arrested by U.S. Border Patrol.",
-    "link": "https://dailycaller.com/2026/03/23/biden-admin-let-college-students-alleged-illegal-alien-killer-into-country-dhs-says/",
-    "timestamp": "2026-03-23T17:38:10Z"
-  },
-  {
-    "title": "The stock market's dreams of rate cuts have been officially dashed",
-    "description": "Investors had been betting on two or three rate cuts this year. Now, it looks like they won't get any this year.",
-    "link": "https://www.businessinsider.com/fed-interest-rate-cuts-iran-war-inflation-oil-prices-economy-2026-3",
-    "timestamp": "2026-03-23T17:37:32Z"
-  },
-  {
-    "title": "Photos show ICE agents at US airports as TSA staffing shortages disrupt air travel",
-    "description": "The Trump administration announced the deployment of Immigration and Customs Enforcement agents to US airports amid the partial government shutdown.",
-    "link": "https://www.businessinsider.com/ice-agents-airports-tsa-shutdown-delays-photos-2026-3",
-    "timestamp": "2026-03-23T17:35:53Z"
-  },
-  {
-    "title": "Who is actually talking to the Iranians?",
-    "description": "On Friday night, Donald Trump announced that America was \u201cvery close to meeting our objectives as we consider winding down our great military efforts in the Middle East.\u201d He even pinned the announcement to the top of his Truth Social account to make sure ever\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4371871/posts",
-    "timestamp": "2026-03-23T17:35:10Z"
-  },
-  {
-    "title": "French company stops US offshore wind projects in $1B deal with Trump administration",
-    "description": "The Department of Interior says a French energy company has agreed to give up two U.S. offshore wind leases and invest in fossil fuel projects instead",
-    "link": "https://abcnews.com/US/wireStory/french-company-stops-us-offshore-wind-projects-1b-131334366",
-    "timestamp": "2026-03-23T17:35:02Z"
-  },
-  {
-    "title": "Bill O\u2019Reilly Calls Trump\u2019s Celebration of Robert Mueller\u2019s Death \u2018Tough,\u2019 But Understandable",
-    "description": "Former Fox News host Bill O'Reilly offered his own take of Trump's reaction to Robert Mueller's death on Monday, saying it's a \"tough analysis,\" but he understands where the commander in chief is coming from.\nThe post Bill O\u2019Reilly Calls Trump\u2019s Celebration o\u2026",
-    "link": "https://www.mediaite.com/media/news/bill-oreilly-calls-trumps-celebration-of-robert-muellers-death-tough-but-understandable/",
-    "timestamp": "2026-03-23T17:34:02Z"
-  },
-  {
-    "title": "US to pay TotalEnergies to drop offshore wind leases",
-    "description": "The Department of Interior says a French energy company has agreed to give up two U.S. offshore wind leases and invest in fossil fuel projects instead. The department said Monday that TotalEnergies committed to invest approximately $1 billion in oil and natur\u2026",
-    "link": "https://apnews.com/article/trump-offshore-wind-energy-climate-totalenergies-interior-092eeeacc5d09730d4e20a95d7df7de1",
-    "timestamp": "2026-03-23T17:32:45Z"
-  },
-  {
-    "title": "Between fatwa and the bomb: Is Iran rethinking its nuclear doctrine?",
-    "description": "Amid war and political transition, Tehran signals its nuclear doctrine may evolve, challenging decades of religious limits and strategic restraint.",
-    "link": "https://www.rt.com/news/635924-between-fatwa-and-bomb-iran/",
-    "timestamp": "2026-03-23T17:32:01Z"
-  },
-  {
-    "title": "Trump Deflates Own War Boner, Goes Full TACO On Bombing Iranian Power Plants",
-    "description": "Check back tomorrow. The way this thing keeps swinging, we might nuke Tehran by then.",
-    "link": "https://www.wonkette.com/p/trump-deflates-own-war-boner-goes",
-    "timestamp": "2026-03-23T17:30:51Z"
-  },
-  {
-    "title": "Trump Threatens To Deploy ICE To Airports",
-    "description": "United States ruler Donald Trump claims that since democrats are \"blocking funding\" for the TSA (Transportation Security Administration) personnel, he can have ICE (Immigration and Customs Enforcement) agents fill in instead. He said he will make this happen \u2026",
-    "link": "https://www.shtfplan.com/headline-news/trump-threatens-to-deploy-ice-to-airports",
-    "timestamp": "2026-03-23T17:30:11Z"
-  },
-  {
-    "title": "Trump says US is talking with Iranian leader as he extends deadline for striking power plants",
-    "description": "Agency DUBAI: US President Donald Trump on Monday said the US was talking with a \u201crespected\u201d Iranian leader and claimed the Islamic Republic was eager for a deal to end the war. He also extended a deadline for Iran to reopen the crucial Strait of Hormuz or fa\u2026",
-    "link": "https://statetimes.in/trump-says-us-is-talking-with-iranian-leader-as-he-extends-deadline-for-striking-power-plants/",
-    "timestamp": "2026-03-23T17:29:48Z"
-  },
-  {
-    "title": "Watch the mail: Nearly 500K NY Essential Plan insured face coverage loss",
-    "description": "President Donald Trump at a July 4, 2025, bill signing for his domestic policy bill authorizing massive spending cuts and tax cuts. Gov. Kathy Hochul's office now estimates the package will mean 460,000 will lose health insurance coverage under a key New York\u2026",
-    "link": "https://gothamist.com/news/watch-the-mail-nearly-500k-ny-essential-plan-insured-face-coverage-loss",
-    "timestamp": "2026-03-23T17:29:17Z"
-  },
-  {
-    "title": "Trump Predicts \u2018Palestinian Leader\u2019 Chuck Schumer Will Lose Next Primary",
-    "description": "Donald Trump compared Chuck Schumer (D-NY) to a \"Palestinian leader\" Monday before predicting the New York Democrat will lose in the next primary.\nThe post Trump Predicts \u2018Palestinian Leader\u2019 Chuck Schumer Will Lose Next Primary first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/trump-predicts-palestinian-leader-chuck-schumer-will-lose-next-primary/",
-    "timestamp": "2026-03-23T17:28:57Z"
-  },
-  {
-    "title": "ICE Arrests Crying Woman at Airport as Chaos Grows Nationwide",
-    "description": "Immigration and Customs Enforcement agents violently arrested a woman at an airport just one day after President Donald Trump called for them to help fill TSA staffing gaps.Video of the incident on Sunday night showed two plainclothes agents dragging a sobbin\u2026",
-    "link": "https://newrepublic.com/post/208069/ice-arrests-crying-woman-airport-tsa",
-    "timestamp": "2026-03-23T17:27:54Z"
-  },
-  {
-    "title": "Why ICE agents are getting paid, but TSA employees are not",
-    "description": "American travelers are facing travel chaos at airports during a partial government shutdown, as TSA workers go unpaid.",
-    "link": "https://www.businessinsider.com/why-ice-agents-paid-tsa-not-dhs-government-shutdown-2026-3",
-    "timestamp": "2026-03-23T17:27:41Z"
-  },
-  {
-    "title": "Trump: When footwear becomes fealty",
-    "description": "A show of subservience",
-    "link": "https://theweek.com/politics/trump-when-footwear-becomes-fealty",
-    "timestamp": "2026-03-23T17:27:39Z"
-  },
-  {
-    "title": "MS NOW host scrambles as ex-Capitol cop makes explosive claim about Trump live on air",
-    "description": "MS NOW host Ana Cabrera was quick to issue a disclaimer on Monday morning after ex-Capitol cop Michael Fanone made unfounded allegations that Donald Trump has been accused of sexually assaulting children live on air.Fanone, who became the face of the police o\u2026",
-    "link": "https://www.rawstory.com/trump-epstein-2676579424/",
-    "timestamp": "2026-03-23T17:27:25Z"
-  },
-  {
-    "title": "Trump Blows Up DHS Deal, Chooses ICE Airport Chaos Instead",
-    "description": "Senate Republicans had a deal to end the DHS shutdown, but Trump chose ICE airport chaos instead. The president is throwing a tantrum over the SAVE America Act, so now American travelers are paying the price.",
-    "link": "http://nymag.com/intelligencer/article/trump-blows-up-dhs-deal-chooses-ice-airport-chaos-instead.html",
-    "timestamp": "2026-03-23T17:25:55Z"
-  },
-  {
-    "title": "French company stops US offshore wind projects in $1B deal with Trump administration",
-    "description": "French company stops US offshore wind projects in $1B deal with Trump administration",
-    "link": "https://www.livemint.com/companies/french-company-stops-us-offshore-wind-projects-in-1b-deal-with-trump-administration-11774286637615.html",
-    "timestamp": "2026-03-23T17:23:57Z"
-  },
-  {
-    "title": "How Trump\u2019s surprise Iran remarks sent oil prices tumbling",
-    "description": "Oil prices sank 10% after President Trump announced a halt to strikes on Iran. Explore the reasons behind the market\u2019s rapid reaction and what it means.\n\nRead More: https://punchng.com/how-trumps-surprise-iran-remarks-sent-oil-prices-tumbling/",
-    "link": "https://punchng.com/how-trumps-surprise-iran-remarks-sent-oil-prices-tumbling/",
-    "timestamp": "2026-03-23T17:21:36Z"
-  },
-  {
-    "title": "Miranda Devine: We\u2019re still learning the full rot of the Russiagate scandal",
-    "description": "Robert Mueller is dead, but his toxic legacy lives on\u00a0in the destroyed lives of the innocent victims targeted by the Russia collusion probe that bears his name.",
-    "link": "https://nypost.com/2026/03/23/opinion/were-still-learning-the-full-rot-of-the-russiagate-scandal/",
-    "timestamp": "2026-03-23T17:19:57Z"
-  },
-  {
-    "title": "Trump Postpones Iran Strikes Until They All Assemble In One Place Again For A Meeting",
-    "description": "WASHINGTON, D.C. \u2014 In a promising sign that the weeks-long conflict in the Middle East could soon be over, President Donald Trump postponed strikes against Iran until all of its leaders assembled in one place again for a meeting. Trump posted the announcement\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4371867/posts",
-    "timestamp": "2026-03-23T17:19:52Z"
-  },
-  {
-    "title": "ICE agents spotted at airports assisting TSA as partial shutdown drags on",
-    "description": "The agents are not trained to work airport security and are working exits and entrances, but critics say the armed officers are instilling fear in American travelers.",
-    "link": "https://www.nbcnews.com/news/us-news/ice-agents-tsa-airports-dhs-shutdown-security-delays-wait-times-rcna264740",
-    "timestamp": "2026-03-23T17:19:33Z"
-  },
-  {
-    "title": "JB Pritzker Boasted That Chicago Was Safe Just Months Before College Student Shot By Illegal",
-    "description": "JB Pritzker made multiple apparent attempts to portray Chicago as safe, just months before an illegal immigrant allegedly murdered a college freshman there.",
-    "link": "https://dailycaller.com/2026/03/23/jb-pritzker-chicago-safe-sheridan-gorman-shot-illegal-immigrant/",
-    "timestamp": "2026-03-23T17:18:49Z"
-  },
-  {
-    "title": "IEA head says global economy faces \u2018major, major threat\u2019 from Iran war",
-    "description": "IEA head says global economy faces \u2018major, major threat\u2019 from Iran warbostonherald.com",
-    "link": "https://www.bostonherald.com/2026/03/23/global-economy-iran-war/",
-    "timestamp": "2026-03-23T17:17:42Z"
-  },
-  {
-    "title": "Citadel Securities\u2019 Rubner Sees Short Squeeze Fueling US Stocks\u00a0Rally",
-    "description": "A record streak of short bets is at risk of unwinding, priming US equities for a comeback with hedge funds and systematic strategies poised to drive the next wave of buying, according to Citadel Securities\u2019 Scott Rubner.",
-    "link": "https://financialpost.com/pmn/business-pmn/citadel-securities-rubner-sees-short-squeeze-fueling-us-stocks-rally",
-    "timestamp": "2026-03-23T17:16:34Z"
-  },
-  {
-    "title": "The US Navy's most advanced aircraft carrier has pulled into port after months at sea facing combat, fire, and plumbing problems",
-    "description": "USS Gerald R. Ford pulled into port in Greece as its deployment, which has been extended twice, hits the nine-month mark.",
-    "link": "https://www.businessinsider.com/us-navy-most-advanced-aircraft-carrier-long-deployment-port-2026-3",
-    "timestamp": "2026-03-23T17:15:40Z"
-  },
-  {
-    "title": "ICE officers go to TSA checkpoints at Trump's direction, while long wait times at airports persist",
-    "description": "More federal immigration officers are making their way to U.S. airports after President Donald Trump said he\u2019d deploy them to supplement the Transportation Security Administration during a government shutdown that has caused long lines at security checkpoints\u2026",
-    "link": "https://apnews.com/article/atlanta-airport-tsa-federal-immigration-agents-4cfb93f7d2ff5a1ccb87d1bdbf54b959",
-    "timestamp": "2026-03-23T17:14:57Z"
-  },
-  {
-    "title": "Pakistan pitches mediator role in US-Israel-Iran war; Asim Munir, Trump hold talks: Report",
-    "description": "Pakistan is positioning itself as a key mediator in the US-Iran conflict, leveraging its ties to Tehran and relationship with Donald Trump. Army chief Asim Munir and Prime Minister Muhammad Shehbaz Sharif have engaged in high-level talks with Trump and Irania\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/pakistan-pitches-mediator-role-in-us-israel-iran-war-asim-munir-trump-hold-talks-report/articleshow/129758228.cms",
-    "timestamp": "2026-03-23T17:14:27Z"
-  },
-  {
-    "title": "China sees long lines at the gas pump as Mideast turmoil hits",
-    "description": "The China state refiner issued a notice Sunday that the price of gas will be set higher by a \"meaningful\" amount starting March 24.",
-    "link": "https://www.cnbc.com/2026/03/23/long-lines-at-the-gas-pump-in-china-as-mideast-turmoil-hits-.html",
-    "timestamp": "2026-03-23T17:13:20Z"
-  },
-  {
-    "title": "Conservatives Call Out Ex-CBS Reporter\u2019s Move to Left-Wing Outfit: \u2018Why No One Trusts Corporate Media\u2019",
-    "description": "Ex-CBS reporter Scott MacFarlane was mocked by conservatives for joining anti-Trump MeidasTouch Network, who said it proved he was a biased liberal journalist\nThe post Conservatives Call Out Ex-CBS Reporter\u2019s Move to Left-Wing Outfit: \u2018Why No One Trusts Corpo\u2026",
-    "link": "https://www.mediaite.com/media/conservatives-call-out-ex-cbs-reporters-move-to-left-wing-outfit-why-no-one-trusts-corporate-media/",
-    "timestamp": "2026-03-23T17:12:37Z"
-  },
-  {
-    "title": "The 5 at 5: Monday",
-    "description": "Five minutes, five stories, five o\u2019clock\u2026",
-    "link": "https://www.thejournal.ie/5-at-5-the-journal-monday-6992680-Mar2026/",
-    "timestamp": "2026-03-23T17:11:36Z"
-  },
-  {
-    "title": "Trump Delays Strikes on Iranian Energy Sites 5 Days",
-    "description": "President Donald Trump announced Monday he is postponing planned U.S. military strikes on Iranian energy infrastructure for five days after what he described as \"very good and productive\" talks with Tehran.\"I am pleased to report that the United States of Ame\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4371866/posts",
-    "timestamp": "2026-03-23T17:08:45Z"
-  },
-  {
-    "title": "Trump Delays Strikes on Iranian Energy Sites 5 Days",
-    "description": "President Donald Trump announced Monday he is postponing planned U.S. military strikes on Iranian energy infrastructure for five days after what he described as \"very good and productive\" talks with Tehran.\"I am pleased to report that the United States of Ame\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4371866/posts",
-    "timestamp": "2026-03-23T17:08:45Z"
-  },
-  {
-    "title": "Trump Hints That Joe Kent Did His Late Wife Dirty In Unhinged Interview",
-    "description": "The president took a bonkers detour while attacking his former director of the National Counterterrorism Center.",
-    "link": "https://www.huffpost.com/entry/donald-trump-joe-kent-wife-killed-remarried-fairly-quickly_n_69c15906e4b0964b56ffc1f7",
-    "timestamp": "2026-03-23T17:07:54Z"
-  },
-  {
-    "title": "Top Iranian Official Denies Report He\u2019s Trump\u2019s Secret Negotiating Partner",
-    "description": "Iran\u2019s parliamentary speaker pushed back after a report by The Jerusalem Post identified him as the \u201ctop person\u201d Trump suggested his admin was engaging with.\nThe post Top Iranian Official Denies Report He\u2019s Trump\u2019s Secret Negotiating Partner first appeared on\u2026",
-    "link": "https://www.mediaite.com/media/tv/top-iranian-official-denies-report-hes-trumps-secret-negotiating-partner/",
-    "timestamp": "2026-03-23T17:07:43Z"
-  },
-  {
-    "title": "Dispatch From Cuba",
-    "description": "David Montgomery\n\n\n\nThe Nuestra Am\u00e9rica Convoy delivers humanitarian aid as US sanctions deepen a humanitarian crisis.\r\n\n\r\n\n\nThe post Dispatch From Cuba appeared first on The Nation.",
-    "link": "https://www.thenation.com/article/world/cuba-convoy-humanitarian-aid-us-sanctions-blockade-crisis/",
-    "timestamp": "2026-03-23T17:07:18Z"
-  },
-  {
-    "title": "Democrats Have Nothing To Offer But Fear And Misery",
-    "description": "Sowing chaos and fear, Democrats try to make people feel that they're suffering during a Trump presidency as a strategy.",
-    "link": "https://thefederalist.com/2026/03/23/democrats-have-nothing-to-offer-but-fear-and-misery/",
-    "timestamp": "2026-03-23T17:03:48Z"
-  },
-  {
-    "title": "YouTube, Netflix Star Ms. Rachel Fighting to Close ICE Facility in Texas: 'I Am Political\u2019",
-    "description": "YouTube and Netflix children's content creator Ms. Rachel is temporarily moving on from supporting the cause of Hamas-led Palestine and is now taking aim at President Donald Trump and Immigration and Customs Enforcement (ICE).\nThe post YouTube, Netflix Star M\u2026",
-    "link": "https://www.breitbart.com/entertainment/2026/03/23/youtube-netflix-star-ms-rachel-fighting-to-close-ice-facility-in-texas-i-am-political/",
-    "timestamp": "2026-03-23T17:03:16Z"
-  },
-  {
-    "title": "Trump sued by company co-owned by his own nominee for ambassador to Hungary",
-    "description": "Last October, President Donald Trump nominated nursing home owner Benjamin Landa as his next ambassador to Hungary, a key position that would place him in a country with a vigorous conservative movement. Trump has endorsed the country\u2019s prime minister, Viktor\u2026",
-    "link": "https://www.rawstory.com/trump-hungary/",
-    "timestamp": "2026-03-23T17:01:31Z"
-  },
-  {
-    "title": "WATCH LIVE: Trump joins Memphis Safe Task Force roundtable, initiative aimed at combating crime",
-    "description": "President Donald Trump is expected to highlight efforts to combat crime in the Tennessee city, where he deployed National Guard troops last fall.",
-    "link": "https://www.pbs.org/newshour/politics/watch-live-trump-joins-memphis-safe-task-force-roundtable-initiative-aimed-at-combating-crime",
-    "timestamp": "2026-03-23T17:00:09Z"
-  },
-  {
-    "title": "Charlie Kirk mentor dies in freak pickleball accident",
-    "description": "'Played a pivotal role in shaping cheerleading as it exists today and in building a community that has impacted generations of athletes, coaches, and teams'",
-    "link": "https://www.wnd.com/2026/03/charlie-kirk-mentor-dies-freak-pickleball-accident/",
-    "timestamp": "2026-03-23T17:00:08Z"
-  },
-  {
-    "title": "Don Lemon is ready to stand up for press freedoms. Are the rest of us?",
-    "description": "This article was originally published in the Student Press Report, a national news desk covering student media and journalism education in higher ed.\u00a0 Former CNN anchor and independent journalist Don [\u2026]\nThe post Don Lemon is ready to stand up for press freed\u2026",
-    "link": "https://www.poynter.org/ethics-trust/2026/don-lemon-cnn-press-freedom/",
-    "timestamp": "2026-03-23T16:59:34Z"
-  },
-  {
-    "title": "Air Canada passenger says pilot 'did the best thing he could,' describes deadly impact",
-    "description": "Passenger Jack Cabot says the Air Canada pilot 'did the best thing he could' before the deadly collision with a fire truck on the runway of LaGuardia Airport.",
-    "link": "https://www.foxnews.com/us/air-canada-passenger-says-pilot-did-the-best-thing-he-could-describes-deadly-impact",
-    "timestamp": "2026-03-23T16:59:25Z"
-  },
-  {
-    "title": "Israel thought it could spur rebellion inside Iran. That hasn\u2019t happened.",
-    "description": "Over the past year, as the prospect of Israeli military action against Iran became more likely, Barnea reversed Mossad\u2019s approach, devoting the agency\u2019s resources to plans that could lead to toppling the government in Tehran in the event of a war.",
-    "link": "https://indianexpress.com/article/world/israel-thought-it-could-spur-rebellion-inside-iran-that-hasnt-happened-10597258/",
-    "timestamp": "2026-03-23T16:58:36Z"
-  },
-  {
-    "title": "'There Is No Negotiatios s Insane Mueller Post': Iran Official Accuses Trump Of Lying About Talks",
-    "description": "Iranian officials reportedly contradicted President Donald Trump after he claimed that he had fruitful talks with the regime to postpone his 48-hour deadline on bombing power plants.\n\n\n\u201cVERY GOOD AND PRODUCTIVE CONVERSATIONS REGARDING A COMPLETE AND TOTAL RES\u2026",
-    "link": "https://crooksandliars.com/2026/03/there-no-negotiation-iran-official-accuses",
-    "timestamp": "2026-03-23T16:56:51Z"
-  },
-  {
-    "title": "PHOTOS -- 'These Monuments Matter': White House Installs Revived Christopher Columbus Statue Leftists Destroyed in 2020",
-    "description": "A statue of Christopher Columbus has been erected on the WH grounds after leftists tore one down in Baltimore in 2020.\nThe post PHOTOS \u2014 \u2018These Monuments Matter\u2019: White House Installs Revived Christopher Columbus Statue Leftists Destroyed in 2020 appeared fir\u2026",
-    "link": "https://www.breitbart.com/politics/2026/03/23/photos-these-monuments-matter-white-house-installs-revived-christopher-columbus-statue-leftists-destroyed-2020/",
-    "timestamp": "2026-03-23T16:56:49Z"
-  },
-  {
-    "title": "Swalwell drops lawsuit against FHFA director over using private information to attack opponents as California governor bid heats up",
-    "description": "Eric Swalwell drops suit alleging FHFA's Pulte used private information to hurt President Donald Trump\u2019s critics, leaking details about Swalwell's family home.",
-    "link": "https://www.cnbc.com/2026/03/23/swalwell-mortgage-fraud-lawsuit-fhfa-pultecalifornia-governor.html",
-    "timestamp": "2026-03-23T16:56:45Z"
-  },
-  {
-    "title": "How the words that Iran and America use about each other paved the way for conflict",
-    "description": "Rhetoric on both sides has gone from criticising the behaviour of their adversary to labeling its character as fundamentally \u2018evil\u2019.",
-    "link": "https://theconversation.com/how-the-words-that-iran-and-america-use-about-each-other-paved-the-way-for-conflict-279015",
-    "timestamp": "2026-03-23T16:56:34Z"
-  },
-  {
-    "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post (Yun Li/CNBC)",
-    "description": "Yun Li / CNBC:\nVolume in stock and oil futures surged minutes before Trump's market-turning post \u2026 S&P 500 futures and oil futures flashed an unusual burst of activity early Monday minutes before a market-moving social media post from President Donald Trump.\u00a0\u2026",
-    "link": "https://www.memeorandum.com/260323/p72",
-    "timestamp": "2026-03-23T16:55:01Z"
-  },
-  {
-    "title": "The Costs of Trump's Unnecessary, Illegal War on Iran Keep Mounting",
-    "description": "The costs associated with any war\u2014losses of lives, treasure, and security\u2014are to be expected. And so it is with the US-Israel war on Iran. It was unnecessary. It has been massive. And it has been waged without any clear objective or strategic purpose. Though \u2026",
-    "link": "https://www.commondreams.org/opinion/cost-of-war-with-iran",
-    "timestamp": "2026-03-23T16:54:19Z"
-  },
-  {
-    "title": "It Could\u2019ve Been Worse\u2014but France\u2019s Local Elections Are a Warning to the Left",
-    "description": "Cole Stangler\n\n\n\nThe French left managed to hold on to key cities, but the far right and mainstream right also won key victories\u2014and the intra-left bickering shows no signs of subsiding.\r\n\n\r\n\n\nThe post It Could\u2019ve Been Worse\u2014but France\u2019s Local Elections Are a\u2026",
-    "link": "https://www.thenation.com/article/world/french-municipal-election-results/",
-    "timestamp": "2026-03-23T16:53:25Z"
-  },
-  {
-    "title": "Trump Asks ICE Agents for 'NO MASKS' at Airports",
-    "description": "President Donald Trump on Monday asked Immigration and Customs Enforcement (ICE) agents to forgo wearing masks while addressing the \"Democrat caused mess\" at U.S. airports.\nThe post Trump Asks ICE Agents for \u2018NO MASKS\u2019 at Airports appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2026/03/23/trump-asks-ice-agents-for-no-masks-at-airports/",
-    "timestamp": "2026-03-23T16:52:32Z"
-  },
-  {
-    "title": "ICE Invades Airports Across the US",
-    "description": "Agents from ICE are being deployed to over a dozen airports around the country, including New York, Atlanta, and Chicago.",
-    "link": "https://www.wired.com/story/ice-invades-airports-across-the-us/",
-    "timestamp": "2026-03-23T16:52:09Z"
-  },
-  {
-    "title": "Why the damage to Qatar\u2019s gas infrastructure could push costs higher for years to come",
-    "description": "The plant is the largest of its kind in the world \u2013 and it suffered extensive damage.",
-    "link": "https://theconversation.com/why-the-damage-to-qatars-gas-infrastructure-could-push-costs-higher-for-years-to-come-278943",
-    "timestamp": "2026-03-23T16:52:07Z"
-  },
-  {
-    "title": "Indivisible 'No Kings' Training Call: Anti-Trump Group Not Doing Violence \u2018At This Point\u2019 \u2013 \u2018Maybe Later\u2019",
-    "description": "Indivisible, the leading anti-Donald Trump group attempting to sabotage his America First agenda, has, to date, claimed to be \u201cnon-violent,\u201d but a recent planning call indicated that may not last forever. \u201cBack up and think about what your objectives are for \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4371864/posts",
-    "timestamp": "2026-03-23T16:47:33Z"
-  },
-  {
-    "title": "Trump proposes 'joint control' of Strait of Hormuz as he stunningly reveals he has no idea who's in charge of Iran",
-    "description": "President Donald Trump floated joint control of the Strait of Hormuz and suggested he didn't know who was currently leading Iran when responding to a reporter on Monday morning. Trump spoke to journalists on the tarmac of Palm Beach International Airport as h\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4371863/posts",
-    "timestamp": "2026-03-23T16:46:46Z"
-  },
-  {
-    "title": "No, Mark. Not Everyone Who Disagrees With You Is A \u2018Traitor\u2019",
-    "description": "Mark Levin has repeatedly and baselessly accused anyone opposed to the Iran War of being traitors to their country.",
-    "link": "https://dailycaller.com/2026/03/23/mark-levin-traitor-fifth-column-rhetoric-conspiracy-theories-iran-war-tucker-carlson/",
-    "timestamp": "2026-03-23T16:43:51Z"
-  },
-  {
-    "title": "US attacks on Cuban medical missions risk damaging healthcare for poor people in developing countries",
-    "description": "The US is determined to starve Cuba of the revenues it raises from exporting healthcare workers.",
-    "link": "https://theconversation.com/us-attacks-on-cuban-medical-missions-risk-damaging-healthcare-for-poor-people-in-developing-countries-278748",
-    "timestamp": "2026-03-23T16:41:03Z"
-  },
-  {
-    "title": "Trump Poised to Skip CPAC For First Time in a Decade (Nik Popli/Time)",
-    "description": "Nik Popli / Time:\nTrump Poised to Skip CPAC For First Time in a Decade\u00a0 \u2014\u00a0 President Donald Trump is poised to skip the Conservative Political Action Conference this week, breaking with an annual tradition that has helped define his political rise and cement \u2026",
-    "link": "https://www.memeorandum.com/260323/p67",
-    "timestamp": "2026-03-23T16:40:00Z"
-  },
-  {
-    "title": "Former Biden spox complains easy Trump press access influences 'giddy' reporters",
-    "description": "Former Biden press secretary Jen Psaki gave drawbacks to reporters' easy access to President Donald Trump during her recent \"Pod Save America\" appearance.",
-    "link": "https://www.foxnews.com/media/former-biden-spox-complains-easy-trump-press-access-influences-giddy-reporters",
-    "timestamp": "2026-03-23T16:38:45Z"
   }
 ]
