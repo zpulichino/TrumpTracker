@@ -1,5 +1,437 @@
 [
   {
+    "title": "Trump names tech titans to science advisory council",
+    "description": "President Donald Trump has today named some of the biggest names in US technology to his Council of Advisors on Science and Technology, assembling a roster that includes Meta founder Mark Zuckerberg and Google co-founder Sergey Brin.",
+    "link": "https://www.rte.ie/news/business/2026/0325/1565176-science-advisory-council/",
+    "timestamp": "2026-03-25T14:53:04Z"
+  },
+  {
+    "title": "Man who ordered ballots without consent found guilty of fraud and identity theft",
+    "description": "A jury in Wisconsin has found a man guilty of election fraud and identity theft for requesting the ballots of Republican state Assembly Speaker Robin Vos and Democratic Racine Mayor Cory Mason without their consent",
+    "link": "https://abcnews.com/US/wireStory/wisconsin-man-ordered-ballots-consent-found-guilty-fraud-131398312",
+    "timestamp": "2026-03-25T14:53:03Z"
+  },
+  {
+    "title": "Mark Zuckerberg, Jensen Huang and Sergey Brin join Trump's tech advisory panel",
+    "description": "The leaders of several major tech companies will offer the White House their opinions on tech and science policy as part of an advisory council. Mark Zuckerberg, Jensen Huang, Michael Dell and Larry Ellison \u2014 the CEOs of Meta, NVIDIA, Dell and Oracle, respect\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=181101486",
+    "timestamp": "2026-03-25T14:53:03Z"
+  },
+  {
+    "title": "Ex-Google chief Matt Brittin appointed new BBC director-general",
+    "description": "The BBC has appointed former Google executive Matt Brittin as its new director-general, a move that has raised eyebrows due to his lack of TV experience.\n\nRead More: https://punchng.com/ex-google-chief-matt-brittin-appointed-new-bbc-director-general/",
+    "link": "https://punchng.com/ex-google-chief-matt-brittin-appointed-new-bbc-director-general/",
+    "timestamp": "2026-03-25T14:51:43Z"
+  },
+  {
+    "title": "'Yummy' election result in Trump's backyard has Democrats licking chops: data guru",
+    "description": "Democrats are licking their chops for November's midterm elections, according to CNN's Harry Enten, after flipping a Republican seat in the Florida statehouse district that includes President Donald Trump\u2019s Mar-a-Lago resort.Democrat Emily Gregory won a speci\u2026",
+    "link": "https://www.rawstory.com/democrats-outperform-2024-election-2676617497/",
+    "timestamp": "2026-03-25T14:50:49Z"
+  },
+  {
+    "title": "The Tehran trap: Iran has torched Trump's TACO playbook",
+    "description": "Donald Trump's strategy of escalating and then retreating has failed against Iran. Iran has absorbed initial shocks and escalated on its own terms. This has made it difficult for the US president to end the conflict unilaterally. Negotiations are now unavoida\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/the-tehran-trap-iran-has-torched-trumps-taco-playbook/articleshow/129804753.cms",
+    "timestamp": "2026-03-25T14:50:21Z"
+  },
+  {
+    "title": "DHS deal in limbo as Democrats demand tougher ICE crackdown despite GOP compromise",
+    "description": "Senate Democrats rejected a Republican framework to reopen DHS as the shutdown entered its 39th day, saying the offer still lacks the ICE reforms they demand.",
+    "link": "https://www.foxnews.com/politics/dhs-deal-limbo-democrats-demand-tougher-ice-crackdown-despite-gop-compromise",
+    "timestamp": "2026-03-25T14:45:35Z"
+  },
+  {
+    "title": "Orissa High Court Typist & DEO recruitment admit card 2026: Check steps to download hall tickets",
+    "description": "The Orissa High Court has released admit cards for shortlisted candidates appearing in the Preliminary Examination for Junior Grade Typist and Data Entry Operator posts under Advertisement No. 01/2026. The exam will be held on April 5, 2026, in Cuttack. Candi\u2026",
+    "link": "https://timesofindia.indiatimes.com/education/news/orissa-high-court-typist-deo-recruitment-admit-card-2026-check-steps-to-download-hall-tickets/articleshow/129804442.cms",
+    "timestamp": "2026-03-25T14:44:21Z"
+  },
+  {
+    "title": "AOC Shreds Republicans\u2019 ICE Argument In Just 1 Simple Takedown",
+    "description": "The Democrat offered a brief yet blunt analysis of her GOP colleagues\u2019 claims after federal immigration agents were deployed to airports nationwide.",
+    "link": "https://www.huffpost.com/entry/aoc-republicans-ice-masks-airports-tsa_n_69c3b47ae4b018d43a595ea2",
+    "timestamp": "2026-03-25T14:42:55Z"
+  },
+  {
+    "title": "Vince Vaughn blasts late-night hosts Jimmy Kimmel and Stephen Colbert for being too political: \u2018People want authenticity\u2019",
+    "description": "The \"Wedding Crashers\" actor accused late-night shows of being \"agenda-based.\u201d",
+    "link": "https://pagesix.com/2026/03/25/entertainment/vince-vaughn-blasts-late-night-hosts-for-being-too-political/",
+    "timestamp": "2026-03-25T14:42:50Z"
+  },
+  {
+    "title": "\u2018Massive shifts\u2019: CNN\u2019s Harry Enten reveals what Democrats\u2019 stunning Mar-A-Lago flip means for midterm elections",
+    "description": "'What is happening right now in Mar-a-Lago is unlikely to stay at Mar-a-Lago. It is likely to expand nationwide'",
+    "link": "https://www.wnd.com/2026/03/massive-shifts-cnns-harry-enten-reveals-what-democrats/",
+    "timestamp": "2026-03-25T14:42:32Z"
+  },
+  {
+    "title": "Bondi Accused of Accidentally Revealing \u2018Damning\u2019 Evidence in Trump Case",
+    "description": "Pam Bondi\u2019s Department of Justice has been accused of giving Congress a memo containing \u201cdamning evidence\u201d that Donald Trump kept sensitive secrets to...",
+    "link": "https://www.thedailybeast.com/bondi-accused-by-jamie-raskin-of-accidentally-revealing-damning-evidence-in-donald-trump-jack-smith-case/",
+    "timestamp": "2026-03-25T14:42:13Z"
+  },
+  {
+    "title": "Left-wing influencer downplays Cuba blackouts, worsening shortages: \u2018People are partying\u2019",
+    "description": "Progressive streamer Hasan Piker is contending that Cubans are partying despite rolling blackouts, downplaying the energy crisis during his recent trip to the communist island.",
+    "link": "https://www.foxnews.com/politics/progressive-streamer-backing-mamdani-says-cubans-partying-f-streets-amid-energy-crisis",
+    "timestamp": "2026-03-25T14:42:04Z"
+  },
+  {
+    "title": "Donald Trump\u2019s \u2018new\u2019 15-point plan is the biggest sign yet that Washington fears it is losing this war",
+    "description": "Donald Trump\u2019s revival of a \u2018roadmap\u2019 to peace dismissed by Iran in 2025 suggests he is looking for a way out of an increasingly unwinnable war.",
+    "link": "https://theconversation.com/donald-trumps-new-15-point-plan-is-the-biggest-sign-yet-that-washington-fears-it-is-losing-this-war-279001",
+    "timestamp": "2026-03-25T14:41:57Z"
+  },
+  {
+    "title": "Missiles overhead, silence below: Israel\u2019s home front holds firm",
+    "description": "Censorship and unity in the face of the Iranian threat combine to stifle dissent as Israel's war with Iran drags on.",
+    "link": "https://www.aljazeera.com/news/2026/3/25/missiles-overhead-silence-below-israels-home-front-holds-firm",
+    "timestamp": "2026-03-25T14:41:47Z"
+  },
+  {
+    "title": "Sky News: Trump\u2019s \u201cfavorite field marshal\u201d from Pakistan who has taken on a mediator role between the US and Iran \u2013 Who is Asim Munir",
+    "description": "Pakistan maintains direct contact with both Washington and Tehran, and has been described as Iran\u2019s least hostile neighbor\nThe post Sky News: Trump\u2019s \u201cfavorite field marshal\u201d from Pakistan who has taken on a mediator role between the US and Iran \u2013 Who is Asim\u2026",
+    "link": "https://en.protothema.gr/2026/03/25/sky-news-trumps-favorite-field-marshal-from-pakistan-who-has-taken-on-a-mediator-role-between-the-us-and-iran-who-is-asim-munir/",
+    "timestamp": "2026-03-25T14:41:34Z"
+  },
+  {
+    "title": "Anthropic\u2019s case against the Pentagon could open space for AI regulation",
+    "description": "A California judge says US DoD may be 'attempting to cripple Anthropic' for pushing for restrictions on AI weapons.",
+    "link": "https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation",
+    "timestamp": "2026-03-25T14:41:16Z"
+  },
+  {
+    "title": "Trump Accused of \u2018Giving His Mates Inside Information\u2019 to Make Big Bets on Market in Fiery Speech from British Lawmaker",
+    "description": "A British lawmaker accused President Trump of insider trading in light of unusual market activity before his announcement that Iran was engaged in peace talks.\nThe post Trump Accused of \u2018Giving His Mates Inside Information\u2019 to Make Big Bets on Market in Fiery\u2026",
+    "link": "https://www.mediaite.com/politics/trump-accused-of-giving-his-mates-inside-information-to-make-big-bets-on-market-in-fiery-speech-from-british-lawmaker/",
+    "timestamp": "2026-03-25T14:40:56Z"
+  },
+  {
+    "title": "Illinois Gov. Priztker admits 'real failures' as slain Chicago student's hometown pays tribute in lights",
+    "description": "Illinois Gov. JB Pritzker admits 'real failures' in immigration after Sheridan Gorman's alleged murder by an illegal immigrant released under Biden.",
+    "link": "https://www.foxnews.com/us/illinois-gov-priztker-admits-real-failures-slain-chicago-students-hometown-pays-tribute-lights",
+    "timestamp": "2026-03-25T14:38:57Z"
+  },
+  {
+    "title": "Bipartisan Senate bill to cap insulin for Americans at $35 has new momentum",
+    "description": "Senators are pushing the bipartisan INSULIN Act of 2026, which would cap insulin costs at $35 a month for insured and uninsured Americans starting 2027.",
+    "link": "https://www.foxnews.com/politics/bipartisan-senate-bill-cap-insulin-americans-35-has-new-momentum",
+    "timestamp": "2026-03-25T14:38:34Z"
+  },
+  {
+    "title": "Trump names Zuckerberg, Brin, Huang to top science council",
+    "description": "Donald Trump appoints Mark Zuckerberg, Sergey Brin, and Jensen Huang to his President\u2019s Council of Advisors on Science and Technology (PCAST).\n\nRead More: https://punchng.com/trump-names-zuckerberg-brin-huang-to-top-science-council/",
+    "link": "https://punchng.com/trump-names-zuckerberg-brin-huang-to-top-science-council/",
+    "timestamp": "2026-03-25T14:38:08Z"
+  },
+  {
+    "title": "UNHINGED: Former Minnesota Governor and WWE Fighter Jesse Ventura Goes Full Conspiracy Theorist \u2014 Implies President Trump\u2019s Assassination Attempt Was \u2018FAKE\u2019",
+    "description": "Former Minnesota Governor and ex-professional wrestler Jesse Ventura is now openly suggesting that President Donald Trump somehow faked the assassination attempt that nearly took his life in Butler, Pennsylvania just so he could look like a hero. In a disgust\u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4372129/posts",
+    "timestamp": "2026-03-25T14:35:22Z"
+  },
+  {
+    "title": "Trump Creates Tech Advisers Council With Worst People You Know",
+    "description": "Donald Trump announced his \u201cPresident\u2019s Council of Advisors on Science and Technology\u201d on Wednesday, in what can only be described as a nightmare blunt rotation. The group, chaired by David Sacks and Michael Kratsios, consists of the following individuals:<ul\u2026",
+    "link": "https://newrepublic.com/post/208162/trump-science-tech-advisors-council",
+    "timestamp": "2026-03-25T14:35:12Z"
+  },
+  {
+    "title": "Mikaela Shiffrin wins record-equalling sixth Grand Crystal Globe after dominating Milano Cortina Winter Olympics 2026",
+    "description": "Olympic champion Mikaela Shiffrin ended the 2025-26 Alpine Skiing World Cup season on a historic note. The American star secured her sixth overall Crystal Globe title after finishing 11th in the women\u2019s giant slalom at the World Cup Finals in Lillehammer. Her\u2026",
+    "link": "https://timesofindia.indiatimes.com/sports/international-sports/mikaela-shiffrin-wins-record-equalling-sixth-grand-crystal-globe-after-dominating-milano-cortina-winter-olympics-2026/articleshow/129804435.cms",
+    "timestamp": "2026-03-25T14:34:55Z"
+  },
+  {
+    "title": "Gov. Gavin Newsom trashes Elon Musk as \u2018one of the great disappointments\u2019",
+    "description": "California's top politician believes the man who may take humanity to Mars is \"one of the great disappointments\" of our time.",
+    "link": "https://nypost.com/2026/03/25/us-news/gavin-newsom-trashes-elon-musk-with-brutal-five-word-putdown/",
+    "timestamp": "2026-03-25T14:32:58Z"
+  },
+  {
+    "title": "Matt Brittin: BBC\u2019s new director general appointed at an existential moment for the broadcaster",
+    "description": "The BBC\u2019s royal charter is renewed once a decade to make sure the broadcaster keeps up to date with political and technological changes.",
+    "link": "https://theconversation.com/matt-brittin-bbcs-new-director-general-appointed-at-an-existential-moment-for-the-broadcaster-278453",
+    "timestamp": "2026-03-25T14:32:47Z"
+  },
+  {
+    "title": "UPI in 2026 isn\u2019t just scan and pay: 4 surprising new features you should know",
+    "description": "UPI is more than just scanning and paying. New features like UPI Lite allow small payments without a PIN. Tap & Pay enables contactless transactions. Credit on UPI offers a financial buffer. UPI International works abroad in select countries. These additions \u2026",
+    "link": "https://timesofindia.indiatimes.com/etimes/trending/upi-in-2026-isnt-just-scan-and-pay-4-surprising-new-features-you-should-know/articleshow/129804158.cms",
+    "timestamp": "2026-03-25T14:31:36Z"
+  },
+  {
+    "title": "Vance Anti-Fraud Effort Adds Major Enforcer",
+    "description": "The Senate confirmed\u00a0an experienced\u00a0federal prosecutor, Colin McDonald, Tuesday afternoon\u00a0to\u00a0act as the Justice Departments\u2019 anti-fraud division lead. In a\u00a0party line\u00a0vote,\u00a0McDonald was confirmed\u00a052-47\u00a0to be the first Assistant... Read More\nThe post Vance Ant\u2026",
+    "link": "https://www.dailysignal.com/2026/03/25/vance-anti-fraud-effort-adds-major-enforcer/",
+    "timestamp": "2026-03-25T14:30:37Z"
+  },
+  {
+    "title": "Two obituaries of Robert Trivers",
+    "description": "Although I did call attention to the death of Robert Trivers, age 83, on March 12, and I knew him slightly, I did not have the chops to summarize his many contributions, nor did I know him that well (we overlapped at Harvard). Fortunately, Steve Pinker has pr\u2026",
+    "link": "https://whyevolutionistrue.com/2026/03/25/two-obituaries-of-robert-trivers/",
+    "timestamp": "2026-03-25T14:30:37Z"
+  },
+  {
+    "title": "Soros DA Again Threatens To Put Cuffs On ICE Agents",
+    "description": "Philadelphia District Attorney Larry Krasner threatened to arrest federal immigration enforcement agents during a Tuesday press conference.",
+    "link": "https://dailycaller.com/2026/03/25/larry-krasner-ice-agents-arrest-immigration-enforcement/",
+    "timestamp": "2026-03-25T14:30:26Z"
+  },
+  {
+    "title": "Vanessa, Kai Trump take in Tiger Woods' return to golf at TGL finals",
+    "description": "Tiger Woods returned to competitive golf at the TGL Finals, joined by Vanessa Trump and her daughter, but his Jupiter Links team fell to Los Angeles Golf Club in a 9-2 loss.",
+    "link": "https://www.foxnews.com/sports/vanessa-kai-trump-take-tiger-woods-return-golf-tgl-finals",
+    "timestamp": "2026-03-25T14:30:01Z"
+  },
+  {
+    "title": "Trump gets gut punch as Iran knocks back his plan to end\u00a0war: report",
+    "description": "President Donald Trump was issued a stern rejection Wednesday after Iranian officials knocked back his administration\u2019s proposed plan to bring about an end to the war he initiated last month, according to\r\n Axios reporter Barak Ravid.The New York Times report\u2026",
+    "link": "https://www.rawstory.com/iran-war-2676617765/",
+    "timestamp": "2026-03-25T14:29:25Z"
+  },
+  {
+    "title": "Bill O\u2019Reilly Brutally Dissects How Nancy Pelosi Is Solely Motivated By Power",
+    "description": "Bill O\u2019Reilly said it's easy to see the sole motivation driving former Democratic Speaker of the House Nancy Pelosi: power.",
+    "link": "https://dailycaller.com/2026/03/25/bill-oreilly-brutally-dissects-how-nancy-pelosi-is-solely-motivated-by-power/",
+    "timestamp": "2026-03-25T14:29:18Z"
+  },
+  {
+    "title": "Florida Democrat flips seat in special election in district that includes Trump's Mar-a-Lago",
+    "description": "Democrat Emily Gregory won a Florida special election on Tuesday, flipping a state legislative district that is home to Mar-a-Lago, the Palm Beach estate that President Donald Trump counts as his residence. The president had endorsed Gregory's rival, Jon Mapl\u2026",
+    "link": "https://www.pbs.org/newshour/politics/florida-democrat-flips-seat-in-special-election-in-district-that-includes-trumps-mar-a-lago",
+    "timestamp": "2026-03-25T14:27:53Z"
+  },
+  {
+    "title": "Italy: Middle East crisis pushes the Meloni government away from the US",
+    "description": "Italy\u2019s stance on the Middle East conflict reveals a tendency to tread cautiously to protect both its own and shared European interests while distancing itself from the United States.",
+    "link": "https://theconversation.com/italy-middle-east-crisis-pushes-the-meloni-government-away-from-the-us-274314",
+    "timestamp": "2026-03-25T14:27:04Z"
+  },
+  {
+    "title": "President Trump Names Meta, Nvidia CEOs to White House Tech and Science Council",
+    "description": "Mark Zuckerberg, Jensen Huang, and other tech leaders will advise President Trump on emerging technology policy.",
+    "link": "https://decrypt.co/362313/trump-names-meta-nvidia-ceos-white-house-tech-science-council",
+    "timestamp": "2026-03-25T14:27:01Z"
+  },
+  {
+    "title": "Tiger Woods packs on PDA with Vanessa Trump, bonds with her daughters during golf match",
+    "description": "News broke last year that Donald Trump Jr.'s ex-wife is in a relationship with Woods, with sources saying they're \"wedding bells serious.\"",
+    "link": "https://pagesix.com/2026/03/25/entertainment/tiger-woods-packs-on-pda-with-vanessa-trump-bonds-with-her-daughters-during-golf-match/",
+    "timestamp": "2026-03-25T14:26:03Z"
+  },
+  {
+    "title": "Investigators Believed Trump Hoarded Top Secret Gov\u2019t Files for Personal Financial Gain: Report",
+    "description": "Evidence gathered by Smith\u2019s team found Trump took top-secret materials \u201cpertinent to his business interests\u201d when he left the White House in January 2021.\nThe post Investigators Believed Trump Hoarded Top Secret Gov\u2019t Files for Personal Financial Gain: Repor\u2026",
+    "link": "https://www.mediaite.com/media/news/investigators-believed-trump-hoarded-top-secret-govt-files-for-personal-financial-gain-report/",
+    "timestamp": "2026-03-25T14:25:39Z"
+  },
+  {
+    "title": "Imperial Decline in the Straits of Hormuz: The Iran War as America\u2019s Very Own Suez Crisis",
+    "description": "In the first chapter of his 1874 novel, The Gilded Age, Mark Twain offered a telling observation about the connection between past and present: \u201cHistory never repeats itself, but the\u2026 present often seems to be constructed out of the broken fragments of antiqu\u2026",
+    "link": "https://www.fairobserver.com/world-news/middle-east-news/imperial-decline-in-the-straits-of-hormuz-the-iran-war-as-americas-very-own-suez-crisis/",
+    "timestamp": "2026-03-25T14:25:27Z"
+  },
+  {
+    "title": "Stephen Colbert Snags Shocking New Gig Ahead of CBS Exit \u2014 And It\u2019s a Tolkien Superfan\u2019s Dream",
+    "description": "Colbert, a self-professed Lord of the Rings devotee, framed the project as a passion-driven expansion of the source material.\nThe post Stephen Colbert Snags Shocking New Gig Ahead of CBS Exit \u2014 And It\u2019s a Tolkien Superfan\u2019s Dream first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/news/stephen-colbert-snags-shock-new-gig-ahead-of-cbs-exit-and-its-a-tolkien-superfans-dream/",
+    "timestamp": "2026-03-25T14:24:04Z"
+  },
+  {
+    "title": "Jack Smith memo suggests Trump took classified documents only 6 people could access, Raskin says",
+    "description": "The Justice Department released documents to Congress that included \"damning evidence\" about President Donald Trump's procurement of highly sensitive documents, including some related to his business interests, when he left office after his first term, Rep.",
+    "link": "https://www.nbcnews.com/politics/trump-administration/jack-smith-memo-trump-classified-documents-cannon-congress-doj-rcna265060",
+    "timestamp": "2026-03-25T14:23:29Z"
+  },
+  {
+    "title": "Ohio Considers Renaming Wildlife Preserve \u2018Trump Wildlife Preserve\u2019",
+    "description": "A wildlife preserve in Ohio could be the latest government-run facility to bear the president\u2019s name, but not in the way one might expect. The... Read More\nThe post Ohio Considers Renaming Wildlife Preserve \u2018Trump Wildlife Preserve\u2019 appeared first on The Dail\u2026",
+    "link": "https://www.dailysignal.com/2026/03/25/ohio-considers-renaming-wildlife-preserve-trump-wildlife-preserve/",
+    "timestamp": "2026-03-25T14:23:01Z"
+  },
+  {
+    "title": "Kash Patel\u2019s Country Singer Girlfriend Lays Out Case That Tucker Carlson, Candace Owens, and Others Are Linked to Foreign Influence Operation",
+    "description": "Kash Patel's girlfriend, Alexis Wilkins, laid out the case that she is the target of a foreign influence operation that involves a number of major MAGA figures.\nThe post Kash Patel\u2019s Country Singer Girlfriend Lays Out Case That Tucker Carlson, Candace Owens, \u2026",
+    "link": "https://www.mediaite.com/media/news/kash-patels-country-singer-girlfriend-lays-out-case-that-tucker-carlson-candace-owens-and-others-are-linked-to-foreign-influence-operation/",
+    "timestamp": "2026-03-25T14:22:58Z"
+  },
+  {
+    "title": "Why Casey Means\u2019 surgeon general nomination is in limbo",
+    "description": "She has faced scrutiny for her lack of experience and potential conflicts.",
+    "link": "https://www.twincities.com/2026/03/25/casey-means-surgeon-general-nomination-limbo/",
+    "timestamp": "2026-03-25T14:22:44Z"
+  },
+  {
+    "title": "Iran war \u2018much worse\u2019 than Iraq \u2013 Spanish PM",
+    "description": "The US-Israeli war on Iran will have a \u201cbroader and deeper impact\u201d than the 2003 US-led invasion of Iraq, Spanish PM Pedro Sanchez has said Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/636167-iran-worse-than-iraq-sanchez/",
+    "timestamp": "2026-03-25T14:21:10Z"
+  },
+  {
+    "title": "Chevron Warns California Risks Fuel Crisis Unless Iran War Eases",
+    "description": "Chevron Corp. is warning that California is careening toward an energy crisis because of the Iran war and that the company may quit refining oil in the state unless officials roll back taxes and regulations. California, the most populous US \u2026",
+    "link": "https://www.insurancejournal.com/news/west/2026/03/25/863370.htm",
+    "timestamp": "2026-03-25T14:20:43Z"
+  },
+  {
+    "title": "US current account deficit contracts sharply in the fourth quarter",
+    "description": "The Commerce Department's Bureau of Economic Analysis said on Wednesday the current account deficit, which measures the flow of goods, services \u200cand investments into \u2060and \u2060out of the country, contracted by $48.4 billion, or 20.2%, to $190.7 billion last quart\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/us-current-account-deficit-contracts-sharply-in-the-fourth-quarter/articleshow/129804023.cms",
+    "timestamp": "2026-03-25T14:19:24Z"
+  },
+  {
+    "title": "The SECRET Plan to Impeach Trump & JD Vance \u2014 Tulsi MUST Release the Evidence!",
+    "description": "Stephen Gardner and lawyer Peter Ticktin https://x.com/PeterTicktin , long time friend of President Donald Trump and lawyer to Tina Peters and Patrick Byrne on election integrity. The voter rolls are dirty and the machines have chinese phone parts to affect U\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4372126/posts",
+    "timestamp": "2026-03-25T14:19:21Z"
+  },
+  {
+    "title": "Mockery abounds as ex-Trump Cabinet member stuck in 3-hour TSA line: 'Warms my heart'",
+    "description": "As Transportation Security Administration lines extend to hours at major U.S. airports across the country amid a wave of walkouts and resignations from the Department of Homeland Security funding shutdown, one familiar figure was seen among the crowds endurin\u2026",
+    "link": "https://www.rawstory.com/bill-barr-2676617422/",
+    "timestamp": "2026-03-25T14:17:51Z"
+  },
+  {
+    "title": "Trump Is Getting His Iran News Through Disturbing Daily Video Montage",
+    "description": "Every day for the last 25 days, President Donald Trump has sat comfortably in his office and watched a glorified highlight reel of his destruction in Iran.The daily video compilation is about two minutes long and shows the largest and most pulverizing strikes\u2026",
+    "link": "https://newrepublic.com/post/208161/trump-iran-news-daily-video-montage",
+    "timestamp": "2026-03-25T14:17:04Z"
+  },
+  {
+    "title": "New York Times columnist tells liberal readers Trump's war with Iran is 'going better than you think'",
+    "description": "New York Times columnist Bret Stephens praised President Donald Trump's successes in his war against Iran, telling the paper's liberal readers it's \"going better than you think.\"",
+    "link": "https://www.foxnews.com/media/new-york-times-columnist-tells-liberal-readers-trumps-war-iran-going-better-than-you-think",
+    "timestamp": "2026-03-25T14:16:09Z"
+  },
+  {
+    "title": "Vince Vaughn slams late night hosts for pushing political \u2018agenda\u2019 on audiences",
+    "description": "\u2018Wedding Crashers\u2019 star says late night shows have \u2018stopped being funny\u2019",
+    "link": "https://www.the-independent.com/arts-entertainment/tv/news/vince-vaughn-theo-von-late-night-politics-b2945361.html",
+    "timestamp": "2026-03-25T14:16:07Z"
+  },
+  {
+    "title": "Why Casey Means' surgeon general nomination is in limbo",
+    "description": "Wellness influencer Dr. Casey Means' nomination to become U.S. surgeon general is stalled a month after senators grilled her on vaccines during a tense confirmation hearing.",
+    "link": "https://www.click2houston.com/health/2026/03/25/why-casey-means-surgeon-general-nomination-is-in-limbo/",
+    "timestamp": "2026-03-25T14:14:59Z"
+  },
+  {
+    "title": "Consent degree marks final defeat of \u2018Orwellian\u2019 Biden \u2018censorship regime\u2019",
+    "description": "Court decision found Democrat's administration 'unlawfully pressured, coerced, induced, and encouraged major social media platforms to censor'",
+    "link": "https://www.wnd.com/2026/03/consent-degree-marks-final-defeat-orwellian-biden-censorship/",
+    "timestamp": "2026-03-25T14:14:39Z"
+  },
+  {
+    "title": "BBC announces former Google executive Matt Brittin as new director-general",
+    "description": "Matt Brittin has been on a \u2018mini gap year\u2019 since leaving Google in 2025",
+    "link": "https://www.the-independent.com/arts-entertainment/tv/news/bbc-director-general-new-matt-brittin-google-b2945405.html",
+    "timestamp": "2026-03-25T14:10:34Z"
+  },
+  {
+    "title": "North Korea holds lavish welcome for Belarus president",
+    "description": "A grand welcome in Pyongyang united North Korea's Kim Jong Un and Belarus' Alexander Lukashenko. The meeting comes as both leaders face continued criticism from the West, particularly for their close ties to Russia.",
+    "link": "https://www.dw.com/en/north-korea-holds-lavish-welcome-for-belarus-president/a-76526613",
+    "timestamp": "2026-03-25T14:09:00Z"
+  },
+  {
+    "title": "Bitcoin rally hits wall as Iran clowns US talks",
+    "description": "Geopolitical tensions and uncertainty are impacting market stability, affecting Bitcoin's momentum and broader economic outlook.\nThe post Bitcoin rally hits wall as Iran clowns US talks appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/bitcoin-rally-hits-wall-iran-ceasefire/",
+    "timestamp": "2026-03-25T14:08:29Z"
+  },
+  {
+    "title": "Doctor Who Fan Matt Brittin Named BBC's New Director-General",
+    "description": "At this point, covering the BBC and Showrunner Russell T. Davies's Doctor Who is a media battle being fought on two fronts. On one level, we're looking at what the upcoming 2026 Christmas Special could possibly offer regarding the big Billie Piper/Sixteenth D\u2026",
+    "link": "https://bleedingcool.com/tv/doctor-who-fan-matt-brittin-named-bbcs-new-director-general/",
+    "timestamp": "2026-03-25T14:08:06Z"
+  },
+  {
+    "title": "Watch Live: Hearing on the Dangers of the Democrat Shutdown of DHS",
+    "description": "The House Homeland Security Committee holds a hearing on the dangers presented by the Democrats defunding the Department of Homeland Security (DHS) on Wednesday, March 25.\nThe post Watch Live: Hearing on the Dangers of the Democrat Shutdown of DHS appeared fi\u2026",
+    "link": "https://www.breitbart.com/politics/2026/03/25/watch-live-hearing-on-the-dangers-of-the-democrat-shutdown-of-dhs/",
+    "timestamp": "2026-03-25T14:07:54Z"
+  },
+  {
+    "title": "Bombshell Jack Smith Report Reveals Why Trump Hoarded Classified Docs",
+    "description": "When the FBI raided Donald Trump\u2019s Mar-a-Lago resort in 2022 and found that the former president had stolen hundreds of classified documents from the White House, stashing them in the club\u2019s closets and showers, one question stood out: Why? Was Trump coordina\u2026",
+    "link": "https://newrepublic.com/post/208160/jack-smith-report-trump-classified-documents-money",
+    "timestamp": "2026-03-25T14:07:25Z"
+  },
+  {
+    "title": "CNN\u2019s Kaitlan Collins Torpedoes Trump \u2018We\u2019ve Won\u2019 Claim With One Big Question",
+    "description": "CNN anchor\u00a0Kaitlan Collins torpedoed\u00a0President\u00a0Donald Trump's insistence that \"we've won\" the war in Iran by asking one simple but stubborn rhetorical question.\nThe post CNN\u2019s Kaitlan Collins Torpedoes Trump \u2018We\u2019ve Won\u2019 Claim With One Big Question first appea\u2026",
+    "link": "https://www.mediaite.com/media/tv/cnns-kaitlan-collins-torpedoes-trump-weve-won-claim-with-one-big-question/",
+    "timestamp": "2026-03-25T14:07:23Z"
+  },
+  {
+    "title": "Should talk to Opposition in country instead of Trump: Sanjay Raut jibes at PM Modi",
+    "description": "The UBT Sena MP said that instead of engaging with former US President Donald Trump on global issues like the Middle East crisis, Modi should be speaking to the Opposition in India, claiming it would yield better suggestions. He also remarked that Trump appea\u2026",
+    "link": "https://economictimes.indiatimes.com/news/politics-and-nation/should-talk-to-opposition-in-country-instead-of-trump-sanjay-raut-jibes-at-pm-modi/articleshow/129803728.cms",
+    "timestamp": "2026-03-25T14:06:49Z"
+  },
+  {
+    "title": "Iran receives US 15-point plan to end Mideast war",
+    "description": "The US has reportedly sent a 15-point plan to Iran via Pakistan to end the Mideast war, raising hopes for a diplomatic solution amid ongoing conflict.\n\nRead More: https://punchng.com/iran-receives-us-15-point-plan-to-end-mideast-war/",
+    "link": "https://punchng.com/iran-receives-us-15-point-plan-to-end-mideast-war/",
+    "timestamp": "2026-03-25T14:06:45Z"
+  },
+  {
+    "title": "Iran fires at US carrier as backchannel diplomacy aims to end war",
+    "description": "Iran fires at US carrier as backchannel diplomacy aims to end wartimesofmalta.com",
+    "link": "https://timesofmalta.com/article/iran-fires-us-carrier-backchannel-diplomacy-aims-end-war.1126007",
+    "timestamp": "2026-03-25T14:05:30Z"
+  },
+  {
+    "title": "Trump in 'cocoon of ignorance' as aides intentionally shield him from Iran reality: report",
+    "description": "President Donald Trump is reportedly shielded from some of the negative impacts of his war in Iran, which critics say has ensconced him in a \"cocoon of ignorance.\"U.S. military officials compiled short video updates to show the 79-year-old president that focu\u2026",
+    "link": "https://www.rawstory.com/trump-2676617111/",
+    "timestamp": "2026-03-25T14:04:11Z"
+  },
+  {
+    "title": "Gloria Steinem on Her New Memoir, An Unexpected Life: \u201cNot Sure I Saw Any of It Coming\u201d",
+    "description": "In an exclusive cover preview, the feminist icon reflects on reproductive rights, Donald Trump, and her remarkable life of advocacy.",
+    "link": "https://www.vanityfair.com/culture/story/gloria-steinem-an-unexpected-life-memoir-book-exclusive-interview",
+    "timestamp": "2026-03-25T14:00:00Z"
+  },
+  {
+    "title": "Abramorama Acquires \u2018Ask E. Jean,\u2019 Documentary About Trump Accuser and Journalist E. Jean Carroll (EXCLUSIVE)",
+    "description": "Abramorama has acquired U.S. theatrical rights to \u201cAsk E. Jean,\u201d a documentary about advice columnist and gonzo journalist E. Jean Carroll, better known for successful court battles against Donald Trump. The film premiered at the 2025 Telluride Film Festival,\u2026",
+    "link": "https://variety.com/2026/film/news/ask-e-jean-carroll-documentary-trump-accuser-1236698807/",
+    "timestamp": "2026-03-25T14:00:00Z"
+  },
+  {
+    "title": "Embarrassing Pivot: US Considers Dropping Iran Oil Sanctions Amid War",
+    "description": "Forced into a humiliating U-turn amid a potential global economic meltdown, the Trump administration announced today that it may remove sanctions on Iranian oil already at sea.\u00a0 Treasury Secretary Scott Bessent told Fox News that the move to free up 140 milli\u2026",
+    "link": "https://www.activistpost.com/embarrassing-pivot-us-considers-dropping-iran-oil-sanctions-amid-war/",
+    "timestamp": "2026-03-25T14:00:00Z"
+  },
+  {
+    "title": "Former SEC chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
+    "description": "\"Any move like that in advance of any announcement, the regulators are going to look at,\" said Clayton, former SEC chair.",
+    "link": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html",
+    "timestamp": "2026-03-25T13:59:28Z"
+  },
+  {
+    "title": "Durbin Blasts Ted Cruz For Beating A Dead Horse",
+    "description": "Democratic Sen. Dick Durbin blasted Ted Cruz' moronic subcommittee hearing about the 2020 election for refusing the testimony of Jack Smith, who is at the center of Republican Arctic Frost smears and lies.\nThe Supreme Court neutered Jack Smith's investigation\u2026",
+    "link": "https://crooksandliars.com/2026/03/dick-durbin-castigates-ted-cruz-sham",
+    "timestamp": "2026-03-25T13:56:45Z"
+  },
+  {
+    "title": "Ex Google executive Matt Brittin announced as BBC DG",
+    "description": "Former Google boss Matt Brittin is to replace Tim Davie as the Director General of the BBC, it has been announced.",
+    "link": "https://www.rte.ie/news/2026/0325/1565162-bbc-director-general/",
+    "timestamp": "2026-03-25T13:56:21Z"
+  },
+  {
+    "title": "BBC says former Google executive will be its new director-general",
+    "description": "Former Google executive Matt Brittin has been announced as the new director-general of the BBC. The appointment comes as the U.K.\u2019s national broadcaster faces an uncertain future and a $10 billion lawsuit from President Donald Trump. Brittin\u2019s predecessor Tim\u2026",
+    "link": "https://apnews.com/article/bbc-new-director-b455487b304f1177745d18bba42cd2a0",
+    "timestamp": "2026-03-25T13:53:33Z"
+  },
+  {
     "title": "BBC confirms former Google exec Matt Brittin as new director-general",
     "description": "UK public broadcaster the BBC has confirmed its new director-general will be former Google executive Matt Brittin, who will take over the role on May 18. Brittin served as president of EMEA business an...",
     "link": "https://www.c21media.net/news/bbc-confirms-former-google-exec-matt-brittin-as-new-director-general/",
@@ -112,413 +544,5 @@
     "description": "President Donald Trump is set to appoint top tech executives to a new council. Meta CEO Mark Zuckerberg, Oracle Chairman Larry Ellison, and Nvidia CEO Jensen Huang are among those named. The council will advise on artificial intelligence policy. This move com\u2026",
     "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-president-donald-trump-names-jensen-huang-mark-zuckerberg-to-13-member-tech-council/articleshow/129802952.cms",
     "timestamp": "2026-03-25T13:29:57Z"
-  },
-  {
-    "title": "Bill O\u2019Reilly Declares Trump Won\u2019t \u2018Be Able\u2019 to Oust Iranian Regime: \u2018We\u2019ll Make a Deal\u2019",
-    "description": "Bill O'Reilly told NewsNation's Leland Vittert that the Trump administration wouldn't be able to oust the Iranian regime this week.\nThe post Bill O\u2019Reilly Declares Trump Won\u2019t \u2018Be Able\u2019 to Oust Iranian Regime: \u2018We\u2019ll Make a Deal\u2019 first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/tv/bill-oreilly-declares-trump-wont-be-able-to-oust-iranian-regime-well-make-a-deal/",
-    "timestamp": "2026-03-25T13:29:57Z"
-  },
-  {
-    "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-    "description": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-    "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-    "timestamp": "2026-03-25T13:28:50Z"
-  },
-  {
-    "title": "'Liar!': Iranian media mock talks announced by Trump",
-    "description": "Iranian newspapers ridiculed Donald Trump's claims of ongoing diplomatic discussions to end the war, publishing cartoons of the US president as Pinocchio. Authorities denied any negotiations, accusing Trump of lying to calm markets and push down oil prices. T\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/liar-iranian-media-mock-talks-announced-by-trump/articleshow/129802963.cms",
-    "timestamp": "2026-03-25T13:28:41Z"
-  },
-  {
-    "title": "Democrat Dismisses Trump After Winning His District",
-    "description": "Democrats have successfully flipped a Florida state house seat blue in the same district where President Trump\u2019s sprawling Mar-a-Lago estate lies.First-time candidate Emily Gregory defeated Trump-backed Jon Maples\u2014a former council member and self-described \u201cc\u2026",
-    "link": "https://newrepublic.com/post/208159/democrat-emily-gregory-win-trump-florida-district-87-mar-a-lago",
-    "timestamp": "2026-03-25T13:26:58Z"
-  },
-  {
-    "title": "Watch Interior Secretary Burgum address oil industry as Trump hints at negotiated end to Iran war",
-    "description": "Investors will be looking for updates from Burgum, who also chairs Trump's energy dominance council, on the state of the U.S. war against Iran",
-    "link": "https://www.cnbc.com/2026/03/25/burgum-iran-war-oil-price-trump.html",
-    "timestamp": "2026-03-25T13:24:38Z"
-  },
-  {
-    "title": "Bitcoin rebounds during Iran war, but safe haven role unproven",
-    "description": "Bitcoin has outperformed gold since the Iran conflict began, but its price action still tracks liquidity and risk sentiment more than safe haven demand.",
-    "link": "https://cointelegraph.com/features/bitcoin-iran-war-behaves-like-risk-asset",
-    "timestamp": "2026-03-25T13:24:32Z"
-  },
-  {
-    "title": "\u2018Phenomenal results\u2019: Trump endorses \u2018true friend, fighter\u2019 who represents \u2018Christian government\u2019 in Europe",
-    "description": "'We are kind of a special island of difference in a liberal ocean'",
-    "link": "https://www.wnd.com/2026/03/phenomenal-results-trump-endorses-true-friend-fighter-who/",
-    "timestamp": "2026-03-25T13:23:15Z"
-  },
-  {
-    "title": "Ghana president criticizes US over history \u2018erasure\u2019",
-    "description": "Ghana\u2019s president has said US policies are \u201cnormalizing erasure\u201d of black history, as he pushes at the UN for slavery to be recognized as a crime against humanity",
-    "link": "https://www.rt.com/africa/636161-ghana-president-criticizes-us-black-history-erasure/",
-    "timestamp": "2026-03-25T13:22:15Z"
-  },
-  {
-    "title": "UPSC Key: Strategic Autonomy, Passive Euthanasia and Custodial Deaths",
-    "description": "Why is Scheduled Caste status for Hindus, Sikhs, and Buddhists relevant to the UPSC exam? What is the significance of topics such as the women in the Indian Armed Forces, cervical cancer, and plea bargaining on both the preliminary and main exams? You can lea\u2026",
-    "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-strategic-autonomy-passive-euthanasia-and-custodial-deaths-10601021/",
-    "timestamp": "2026-03-25T13:21:49Z"
-  },
-  {
-    "title": "SEE IT: Travelers sound off as ICE agents deployed to airports as shutdown drags past 40 days",
-    "description": "Travelers are divided over Trump's plan to deploy ICE agents to airports as the DHS shutdown leaves TSA workers unpaid and increasingly short-staffed.",
-    "link": "https://www.foxnews.com/politics/see-it-travelers-sound-off-ice-agents-deployed-airports-shutdown-drags-past-40-days",
-    "timestamp": "2026-03-25T13:21:28Z"
-  },
-  {
-    "title": "Trump Throws Stephen Miller Under the Bus in Surprise Show of Panic (Greg Sargent/New Republic)",
-    "description": "Greg Sargent / New Republic:\nTrump Throws Stephen Miller Under the Bus in Surprise Show of Panic \u2026 Has Donald Trump finally figured out that Stephen Miller's fascist cruelties have become a niggling political liability for him?\u00a0 Well, maybe.\u00a0 A striking repor\u2026",
-    "link": "https://www.memeorandum.com/260325/p32",
-    "timestamp": "2026-03-25T13:20:00Z"
-  },
-  {
-    "title": "Lawrence O'Donnell Scolds 'Spoiled Child' Trump Over This Bold Iran War Claim",
-    "description": "The MS NOW host knocked the president for \"desperately\" trying to end the war he started in the Middle East.",
-    "link": "https://www.huffpost.com/entry/lawrence-odonnell-trump-iran-war_n_69c3b703e4b0e447525b09ad",
-    "timestamp": "2026-03-25T13:19:04Z"
-  },
-  {
-    "title": "Trump Gets Daily Video War Briefings of \u2018Stuff Blowing Up\u2019 \u2014 Say Trump Insiders to NBC",
-    "description": "President Donald Trump gets a daily two-minute video briefing of \"stuff blowing up,\" according to Trumpworld sources who made the revelation to NBC News.\nThe post Trump Gets Daily Video War Briefings of \u2018Stuff Blowing Up\u2019 \u2014 Say Trump Insiders to NBC first app\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-gets-daily-video-war-briefings-of-stuff-blowing-up-say-trump-insiders-to-nbc/",
-    "timestamp": "2026-03-25T13:15:02Z"
-  },
-  {
-    "title": "Trump to name Zuckerberg, Ellison, Huang to tech panel, WSJ reports",
-    "description": "March 25 : U.S. President Donald Trump plans to appoint Meta Platforms CEO Mark Zuckerberg, Oracle Executive Chairman Larry Ellison and Nvidia CEO Jensen Huang to a panel that weighs in on AI policy and other issues, WSJ reported on Wednesday",
-    "link": "https://www.channelnewsasia.com/business/trump-name-zuckerberg-ellison-huang-tech-panel-wsj-reports-6016376",
-    "timestamp": "2026-03-25T13:12:05Z"
-  },
-  {
-    "title": "Who is Emily Gregory? Democrat who flipped Trump\u2019s Mar-a-Lago district in Florida",
-    "description": "So, who is Emily Gregory, and how did she win in Trump\u2019s backyard? In a surprising result, Democrat Emily Gregory won a special election in Florida\u2019s House District 87, flipping a seat long held by Republicans. The district notably includes Mar-a-Lago, the pr\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4372113/posts",
-    "timestamp": "2026-03-25T13:11:36Z"
-  },
-  {
-    "title": "Majority of Americans View US Strikes on Iran as Excessive - Poll",
-    "description": "WASHINGTON (Sputnik) - Most Americans believe the US military action against Iran has been excessive, with many voicing growing concern over rising gas prices, according to an AP-NORC poll.",
-    "link": "https://sputnikglobe.com/20260325/majority-of-americans-view-us-strikes-on-iran-as-excessive---poll-1123893129.html",
-    "timestamp": "2026-03-25T13:08:41Z"
-  },
-  {
-    "title": "Tiger Woods, Vanessa Trump share embrace before golfer\u2019s anticipated TGL return",
-    "description": "Vanessa Trump had a front-row seat to the action as she watched boyfriend Tiger Woods\u2019 long-awaited golf return in the TGL Finals in Palm Beach on Tuesday.",
-    "link": "https://nypost.com/2026/03/25/sports/tiger-woods-vanessa-trump-share-embrace-before-golfers-tgl-return/",
-    "timestamp": "2026-03-25T13:06:56Z"
-  },
-  {
-    "title": "WWE legend makes shocking claim about Donald Trump assassination attempt",
-    "description": "Former Minnesota governor and WWE superstar Jesse Ventura believes that President Donald Trump faked the assassination attempt he faced in the summer of 2024.Conspiracy theories about the failed attempt on then-candidate Trump's life in Butler, Pennsylvania a\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4372111/posts",
-    "timestamp": "2026-03-25T13:06:41Z"
-  },
-  {
-    "title": "Iran won't accept U.S. effort at ceasefire in war, state media reports",
-    "description": "President Donald Trump has claimed the United States and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war.",
-    "link": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
-    "timestamp": "2026-03-25T13:04:51Z"
-  },
-  {
-    "title": "No Greenland bounce for Danish premier as snap election backfires",
-    "description": "Mette Frederiksen drew praise for facing down Donald Trump over Greenland but failed to benefit on election day",
-    "link": "https://www.irishtimes.com/world/europe/2026/03/25/no-greenland-bounce-for-danish-premier-as-snap-election-backfires/",
-    "timestamp": "2026-03-25T13:04:43Z"
-  },
-  {
-    "title": "US, Israel Preparing for Another 2-3 Weeks of Conflict With Iran - Reports",
-    "description": "WASHINGTON (Sputnik) - The United States and Israel believe that the armed conflict with Iran could continue for another two to three weeks, even if formal negotiations between the parties begin, news portal reported on Wednesday, citing unnamed US and Israel\u2026",
-    "link": "https://sputnikglobe.com/20260325/us-israel-preparing-for-another-2-3-weeks-of-conflict-with-iran---reports-1123892975.html",
-    "timestamp": "2026-03-25T13:04:08Z"
-  },
-  {
-    "title": "So is this World War III? The term doesn\u2019t mean anything, and that\u2019s a problem",
-    "description": "If you're anxious about global conflict, you're not alone. But war is so different now we almost can't see it",
-    "link": "https://www.salon.com/2026/03/25/so-is-this-world-war-iii-the-term-doesnt-mean-anything-and-thats-a-problem/",
-    "timestamp": "2026-03-25T13:00:59Z"
-  },
-  {
-    "title": "Iran Reportedly Makes Absurd Ceasefire Demands, Calls for Reparations and Closure of U.S. Bases",
-    "description": "WSJ: \"A U.S. official called the demands ridiculous and unrealistic.\"\nThe post Iran Reportedly Makes Absurd Ceasefire Demands, Calls for Reparations and Closure of U.S. Bases first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-    "link": "https://legalinsurrection.com/2026/03/iran-reportedly-makes-absurd-ceasefire-demands-calls-for-reparations-and-closure-of-u-s-bases/",
-    "timestamp": "2026-03-25T13:00:21Z"
-  },
-  {
-    "title": "Underground Railroad Museum Sues Trump Administration for Canceling Grant",
-    "description": "The Trump administration began in its earliest days to try to erase what it calls DEI (diversity, equity, and inclusion), which, in practice, means eliminating federal grants that acknowledge the existence of race, ethnicity, or gender, except for straight wh\u2026",
-    "link": "https://dianeravitch.net/2026/03/25/underground-railroad-museum-sues-trump-administration-for-canceling-grant/",
-    "timestamp": "2026-03-25T13:00:00Z"
-  },
-  {
-    "title": "Mike Johnson wasn't caught on 'hot mic' saying it'd be 'huge' for GOP if SAVE America Act lowered voter turnout",
-    "description": "Footage recirculating online in March 2026 authentically shows House Speaker Mike Johnson being caught on a \"hot mic\" saying it would be \"huge\" for the Republican Party if the SAVE America Act decreased voter turnout to between 12 and 18%.",
-    "link": "https://www.snopes.com//fact-check/johnson-hot-mic-save-america-act/",
-    "timestamp": "2026-03-25T13:00:00Z"
-  },
-  {
-    "title": "I See That Big Wooden Horse Moving Across The Sea",
-    "description": "Trumpers are obviously noot good faith negotiators, and Iran can see US deployment actions.\nDUBAI, United Arab Emirates (AP) \u2014 The United States sent a 15-point plan to Iran for a possible ceasefire, an official said, even as it began to move paratroopers to \u2026",
-    "link": "https://www.eschatonblog.com/2026/03/i-see-that-big-wooden-horse-moving.html",
-    "timestamp": "2026-03-25T13:00:00Z"
-  },
-  {
-    "title": "How the FCC Could Quietly Smother Network TV \u2014 Without Ever \u2018Banning\u2019 Free Speech",
-    "description": "Commissioner Brendan Carr is ushering broadcast news and late night entertainment into a terrifying era under Trump. What's at risk? Analysis.",
-    "link": "https://www.indiewire.com/features/commentary/fcc-network-tv-free-speech-1235180693/",
-    "timestamp": "2026-03-25T13:00:00Z"
-  },
-  {
-    "title": "India aims to cut emissions intensity by 47% by 2035 from 2005 levels",
-    "description": "India has committed to a significant 47% reduction in emissions intensity by 2035, a key climate pledge under the Paris Agreement. The nation also aims to boost clean power capacity to 60% within a decade. Despite rising absolute emissions due to economic gro\u2026",
-    "link": "https://economictimes.indiatimes.com/industry/renewables/india-aims-to-cut-emissions-intensity-by-47-by-2035-from-2005-levels/articleshow/129802256.cms",
-    "timestamp": "2026-03-25T12:56:30Z"
-  },
-  {
-    "title": "Israeli Ambassador Ends Press Conference After Being Asked About Israel\u2019s Secret Nukes: \u2018Everyone Knows That Israel Is a Nuclear Power\u2019",
-    "description": "Israel's Ambassador to the United Nations, Danny Danon, abruptly ended a press conference after being asked a question about Israel's secretive nuclear program.\nThe post Israeli Ambassador Ends Press Conference After Being Asked About Israel\u2019s Secret Nukes: \u2018\u2026",
-    "link": "https://www.mediaite.com/media/news/israeli-ambassador-ends-press-conference-after-being-asked-about-israels-secret-nukes-everyone-knows-that-israel-is-a-nuclear-power/",
-    "timestamp": "2026-03-25T12:47:15Z"
-  },
-  {
-    "title": "When a narcissist goes to war",
-    "description": "President Donald Trump's actions regarding Iran and domestic issues show a striking absence of planning.  His administration appears surprised by reactions, failing to anticipate consequences.  This approach, driven by a narcissistic worldview, leaves opponen\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/when-a-narcissist-goes-to-war/articleshow/129801978.cms",
-    "timestamp": "2026-03-25T12:44:17Z"
-  },
-  {
-    "title": "Democrat captures Florida House seat in Trump\u2019s Mar-a-Lago district",
-    "description": "Emily Gregory's victory in the previously GOP-held district is the latest Democratic upset before November midterms.",
-    "link": "https://www.aljazeera.com/news/2026/3/25/democrat-captures-florida-house-seat-in-trumps-mar-a-lago-district",
-    "timestamp": "2026-03-25T12:43:56Z"
-  },
-  {
-    "title": "Hope for Iran off ramp sends oil prices lower as global stocks rise",
-    "description": "Hope for Iran off ramp sends oil prices lower as global stocks risebostonherald.com",
-    "link": "https://www.bostonherald.com/2026/03/25/wall-street-oil-prices-iran/",
-    "timestamp": "2026-03-25T12:43:35Z"
-  },
-  {
-    "title": "Iran War Hits Taliban as Afghan Refugees Return, Shipments Stall in Strait of Hormuz",
-    "description": "Afghanistan's ruling Taliban terrorist government is struggling with an influx of returning Afghan refugees fleeing the ongoing war in Iran and detentions in critical agricultural and raw material shipments in the Strait of Hormuz, reports this week indicate.\u2026",
-    "link": "https://www.breitbart.com/middle-east/2026/03/25/iran-war-hits-taliban-as-afghan-refugees-return-shipments-stall-in-strait-of-hormuz/",
-    "timestamp": "2026-03-25T12:40:34Z"
-  },
-  {
-    "title": "Iran\u2019s Potential Peace Negotiator Known for Strongman Approach",
-    "description": "As US President Donald Trump doubles down on his claim that he\u2019s negotiating with Iran to end the war in the Persian Gulf, a conservative politician of the Islamic Republic has emerged as his most likely counterpart.",
-    "link": "https://financialpost.com/pmn/business-pmn/irans-potential-peace-negotiator-known-for-strongman-approach",
-    "timestamp": "2026-03-25T12:34:41Z"
-  },
-  {
-    "title": "Americans are getting $350 more back on taxes \u2014 are you claiming what's yours?",
-    "description": "Tax Refund 2026 Average Amount Increase shows Americans receiving about $3,623, roughly $350 higher than last year, according to the Internal Revenue Service. This rise answers how much tax refund you could get in 2026, though still below $4,000 expectations.\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/americans-are-getting-350-more-back-on-taxes-are-you-claiming-whats-yours/articleshow/129800085.cms",
-    "timestamp": "2026-03-25T12:33:08Z"
-  },
-  {
-    "title": "Jimmy Kimmel Freaks over Trump\u2019s Response to Robert Mueller's Death: 'Petty Little Bitch'",
-    "description": "Left-wing television host Jimmy Kimmel attacked President Donald Trump over his response to the death Robert Mueller, a former FBI director and Special Counsel for an infamous and drawn-out\u00a0hoax targeting Trump.\nThe post Jimmy Kimmel Freaks over Trump\u2019s Respo\u2026",
-    "link": "https://www.breitbart.com/entertainment/2026/03/25/jimmy-kimmel-freaks-over-trumps-response-to-robert-muellers-death-petty-little-bitch/",
-    "timestamp": "2026-03-25T12:32:18Z"
-  },
-  {
-    "title": "Settlement Stops Government From Using Social Media As \u2018Speech Police\u2019",
-    "description": "'Biden officials at the highest levels of government tried to use Facebook, X, and YouTube as their speech police,' Sen. Eric Schmitt said.",
-    "link": "https://thefederalist.com/2026/03/25/settlement-stops-government-from-using-social-media-as-speech-police/",
-    "timestamp": "2026-03-25T12:30:56Z"
-  },
-  {
-    "title": "Iran",
-    "description": "Brian Stauffer\n\nTie.\nThe post Iran appeared first on The Nation.",
-    "link": "https://www.thenation.com/article/politics/iran/",
-    "timestamp": "2026-03-25T12:30:39Z"
-  },
-  {
-    "title": "Kentucky farm family rejects $26 million offer for 600 acres of land from unnamed AI data center suitor \u2014 declines 7x offer, wants to \u2018Stay and hold and feed a nation\u2019",
-    "description": "A family in Northern Kentucky received a $26 million offer for half their land \u2014 a price that's worth more than 7 times the going rate for the area. But despite the massive price, they still refused, saying that they \"fed a nation off of it.\"",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/kentucky-farm-family-rejects-usd26-million-offer-for-600-acres-of-land-from-unnamed-ai-data-center-suitor-declines-7x-offer-wants-to-stay-and-hold-and-feed-a-nation",
-    "timestamp": "2026-03-25T12:28:44Z"
-  },
-  {
-    "title": "Japan Today Spotlight #60 | Japan under pressure as Takaichi meets Trump",
-    "description": "Prime Minister Sanae Takaichi met U.S. President Donald Trump in Washington for her second summit, as tensions over Iran and the Strait of Hormuz raised questions about whether Japan will support U.S. efforts to secure the key oil shipping route. The meeting \u2026",
-    "link": "https://japantoday.com/category/spotlight/60-japan-under-pressure-as-takaichi-meets-trump",
-    "timestamp": "2026-03-25T12:26:14Z"
-  },
-  {
-    "title": "CNN Crew Busts Out Laughing Over Scott Jennings\u2019 Mysterious Trump \u2018Gift\u2019 Claim",
-    "description": "The CNN Newsnight crew busted out laughing at\u00a0Scott Jennings as he tried to explain\u00a0Trump's mysterious claim of a \"gift\" from an unidentified Iranian leader.\nThe post CNN Crew Busts Out Laughing Over Scott Jennings\u2019 Mysterious Trump \u2018Gift\u2019 Claim first appeare\u2026",
-    "link": "https://www.mediaite.com/media/tv/cnn-crew-busts-out-laughing-over-scott-jennings-mysterious-trump-gift-claim/",
-    "timestamp": "2026-03-25T12:25:32Z"
-  },
-  {
-    "title": "Joe Scarborough Takes NSFW Jab at \u2018Clown\u2019 Hegseth\u2019s Awkward Hand Gesture",
-    "description": "Rolling back the clip on Wednesday morning, Scarborough immediately seized on the innuendo, quoting back the Defense Secretary\u2019s words.\nThe post Joe Scarborough Takes NSFW Jab at \u2018Clown\u2019 Hegseth\u2019s Awkward Hand Gesture first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/tv/joe-scarborough-takes-nsfw-jab-at-clown-hegseths-awkward-hand-gesture/",
-    "timestamp": "2026-03-25T12:23:02Z"
-  },
-  {
-    "title": "He started a war, now he's paying the price: Trump's ratings crash to historic lows",
-    "description": "Donald Trump approval ratings: U.S. President Donald Trump is facing declining public support as economic strain and the Iran conflict weigh on voters, according to a Reuters/Ipsos poll. Approval stands at 36%, down from 40% a week earlier, marking his lowest\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/he-started-a-war-now-hes-paying-the-price-trumps-ratings-crash-to-historic-lows/articleshow/129801326.cms",
-    "timestamp": "2026-03-25T12:22:47Z"
-  },
-  {
-    "title": "Is Iran cashing in millions from Strait of Hormuz blockade?",
-    "description": "An Iranian lawmaker claims Tehran is quietly charging tankers up to $2 million for safe passage through the Strait of Hormuz. The move threatens to turn the key waterway into a high-stakes toll booth. Throughout history, well-connected people and entities hav\u2026",
-    "link": "https://www.dw.com/en/is-iran-cashing-in-millions-from-strait-of-hormuz-blockade/a-76503935",
-    "timestamp": "2026-03-25T12:20:00Z"
-  },
-  {
-    "title": "Iran war may further 'chill' an already frozen job market, economist says",
-    "description": "The war injects additional uncertainty for businesses, leading them to hit pause on hiring.",
-    "link": "https://www.cnbc.com/2026/03/25/iran-war-low-hire-low-fire-job-market.html",
-    "timestamp": "2026-03-25T12:15:01Z"
-  },
-  {
-    "title": "New DHS Head Markwayne Mullin Is \"Trump Loyalist, Anti-immigrant, Incompetent\": Rep. Delia Ramirez",
-    "description": "Markwayne Mullin was sworn in Tuesday as secretary of the Department of Homeland Security, replacing Kristi Noem, who was ousted earlier this month. Mullin has served as senator for Oklahoma since 2023 following a decade in the House of Representatives. He jo\u2026",
-    "link": "https://www.democracynow.org/2026/3/25/markwayne_mullin",
-    "timestamp": "2026-03-25T12:14:04Z"
-  },
-  {
-    "title": "No Life Is a Line Item: Gas Prices, Bombs, and Children in Iran",
-    "description": "When a bomb falls on a school, a hospital, or a home, no euphemism can soften the truth. Babies die in incubators. Teenage girls die in classrooms. Civilians experience violence not as a \u201cmilitary operation\u201d or a \u201cprecision strike,\u201d but as death delivered wit\u2026",
-    "link": "https://www.commondreams.org/opinion/no-life-is-line-item-iran-war",
-    "timestamp": "2026-03-25T12:14:04Z"
-  },
-  {
-    "title": "Means' surgeon general nomination is stalled as senators question her experience and vaccine stance | iNFOnews.ca",
-    "description": "NEW YORK (AP) \u2014 Wellness influencer Dr. Casey Means\u2019 nomination to be U.S. surgeon general is stalled a month after senators of both major political parties",
-    "link": "https://infonews.ca/news/7593335/means-surgeon-general-nomination-is-stalled-as-senators-question-her-experience-and-vaccine-stance/",
-    "timestamp": "2026-03-25T12:11:45Z"
-  },
-  {
-    "title": "War flashbacks: What happened after a U.S. warship hit an Iranian mine in 1988",
-    "description": "Iranian mine attacks in the Persian Gulf nearly 40 years ago crippled a U.S. Navy ship. Today, Iran's actions threaten vital oil shipments through the Strait of Hormuz. U.S. warships are considering escorting tankers, but face risks from mines and missiles. T\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/war-flashbacks-what-happened-after-a-u-s-warship-hit-an-iranian-mine-in-1988/articleshow/129800581.cms",
-    "timestamp": "2026-03-25T12:11:20Z"
-  },
-  {
-    "title": "Bombshell Jack Smith memo reveals Trump\u2019s classified docs 'motive': report",
-    "description": "While the felony charges\r\n against President Donald Trump regarding his alleged mishandling of classified documents were ultimately dismissed\r\n in 2024, newly released documents show that investigators had established a \u201cmotive\u201d behind Trump\u2019s actions \u2014 and o\u2026",
-    "link": "https://www.rawstory.com/msn/trump-2676616830/",
-    "timestamp": "2026-03-25T12:07:53Z"
-  },
-  {
-    "title": "U.S.-Iran negotiations, Meta trial verdict, OpenAI shuts Sora and more in Morning Squawk",
-    "description": "Here are five key things investors need to know to start the trading day.",
-    "link": "https://www.cnbc.com/2026/03/25/5-things-to-know-before-the-market-opens.html",
-    "timestamp": "2026-03-25T12:06:14Z"
-  },
-  {
-    "title": "Savannah Guthrie opens up on mother's disappearance and inside Trump's daily video briefing on Iran war: Morning Rundown",
-    "description": "In today\u2019s newsletter: Trump\u2019s daily Iran video briefing fuels concerns he\u2019s not getting a full picture on the war.",
-    "link": "https://www.nbcnews.com/news/us-news/savannah-guthrie-opens-mothers-disappearance-trumps-daily-video-briefi-rcna265043",
-    "timestamp": "2026-03-25T12:05:57Z"
-  },
-  {
-    "title": "Trump showed highly classified map to plane passengers on way to his golf club: Lawmaker",
-    "description": "House Democratic lawmakers have revealed previously undisclosed documents that indicate President Donald Trump shared a classified map with airline passengers in 2022, while he was out of office and jetting to his Bedminster, New Jersey golf property.Accordin\u2026",
-    "link": "https://www.rawstory.com/trump-classified-map/",
-    "timestamp": "2026-03-25T12:05:12Z"
-  },
-  {
-    "title": "Means' surgeon general nomination is stalled as senators question her experience and vaccine stance",
-    "description": "Wellness influencer Dr. Casey Means' nomination to become U.S. surgeon general is stalled a month after senators grilled her on vaccines during a tense confirmation hearing",
-    "link": "https://abcnews.com/Health/wireStory/means-surgeon-general-nomination-stalled-senators-question-experience-131391494",
-    "timestamp": "2026-03-25T12:03:37Z"
-  },
-  {
-    "title": "Did Democrats flip the Florida Mar-a-Lago district? #politics",
-    "description": "Democrats flipped a Florida House seat covering Mar a Lago Democrat Emily Gregory won a special election for a Florida state House district that includes President Donald Trump\u2019s Mar a Lago resort, flipping the seat from Republicans. Multiple projections and \u2026",
-    "link": "https://alltoc.com/politics/did-democrats-flip-the-florida-mar-a-lago-district",
-    "timestamp": "2026-03-25T12:03:07Z"
-  },
-  {
-    "title": "What caused airport security lines to worsen? #politics",
-    "description": "Why airports saw longer TSA lines during the DHS shutdown A string of reports describes worsening airport delays that have been tied to staffing shortages and the partial shutdown of the Department of Homeland Security (DHS). As DHS funding stalled, Transport\u2026",
-    "link": "https://alltoc.com/politics/what-caused-airport-security-lines-to-worsen",
-    "timestamp": "2026-03-25T12:03:07Z"
-  },
-  {
-    "title": "Asia Braces for Worst-Case Energy Scenarios as Iran War Drags On",
-    "description": "Governments across Asia are preparing for worst-case energy scenarios that could include a prolonged and severe disruption to supplies, even as the US draws up a plan to end the war in Iran.",
-    "link": "https://financialpost.com/pmn/business-pmn/asia-braces-for-worst-case-energy-scenarios-as-iran-war-drags-on",
-    "timestamp": "2026-03-25T11:58:44Z"
-  },
-  {
-    "title": "Democrat Wins Florida Election that Trump Voted in By Mail While Calling Mail-in Votes 'Mail-in Cheating'",
-    "description": "Republicans suffered a loss in an area closely associated with Donald Trump this week. On Tuesday (March 24), the Associated Press reported that Democrat Emily Gregory would emerge victorious in a special election for Florida House District 87, which is the d\u2026",
-    "link": "https://www.justjared.com/2026/03/25/democrat-wins-florida-election-that-trump-voted-in-by-mail-while-calling-mail-in-votes-mail-in-cheating/",
-    "timestamp": "2026-03-25T11:57:58Z"
-  },
-  {
-    "title": "U.S. actions in Iran are politically motivated, not the result of intelligence failures",
-    "description": "The Donald Trump administration has politicized intelligence on Iran and ignored various agencies in the lead-up to the war in Iran.",
-    "link": "https://theconversation.com/u-s-actions-in-iran-are-politically-motivated-not-the-result-of-intelligence-failures-278971",
-    "timestamp": "2026-03-25T11:56:52Z"
-  },
-  {
-    "title": "'We've set up the enemy': Trump biographer claims there's a sinister midterm plan in place",
-    "description": "Donald Trump has already built an excuse if the Republican Party gets a midterm election drubbing in November, according to his biographer. The president has seemingly cleared a path for a case against the Democratic Party performing well by trying to push th\u2026",
-    "link": "https://www.rawstory.com/trump-midterms-2676616700/",
-    "timestamp": "2026-03-25T11:56:27Z"
-  },
-  {
-    "title": "Hedge Fund Anaconda Builds \u2018Ignore Trump\u2019 Strategy in Oil Stocks",
-    "description": "Anaconda Invest SA, a boutique hedge fund focused on energy, says it\u2019s decided to disregard statements by US President Donald Trump about the Iran war, in an effort to avoid being distracted by an excess of signals.",
-    "link": "https://financialpost.com/pmn/business-pmn/hedge-fund-anaconda-builds-ignore-trump-strategy-in-oil-stocks",
-    "timestamp": "2026-03-25T11:53:33Z"
-  },
-  {
-    "title": "Most Americans say US military action against Iran has gone too far",
-    "description": "A recent survey has shown that a majority of Americans believe the military involvement in Iran has gone too far. Additionally, skyrocketing gas prices are causing widespread anxiety. While stopping Iran from developing nuclear weapons continues to be a vital\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-israel-iran-war-most-americans-say-us-military-action-against-iran-has-gone-too-far/articleshow/129800175.cms",
-    "timestamp": "2026-03-25T11:52:31Z"
-  },
-  {
-    "title": "Iran Demands Crew, Cargo Details to Send Ships Through Hormuz",
-    "description": "Vessels seeking to transit the Strait of Hormuz under Iranian protection are being asked to provide lists of crew and cargo, along with voyage details and bills of lading, in order to secure a green light from the Islamic Revolutionary \u2026",
-    "link": "https://www.insurancejournal.com/news/international/2026/03/25/863334.htm",
-    "timestamp": "2026-03-25T11:50:13Z"
-  },
-  {
-    "title": "No peace talks with Washington: Iran's envoy to Pakistan after Trump signalled peace overtures",
-    "description": "Iran and Israel deny any peace talks with the United States. This comes after US President Donald Trump suggested overtures were being made. Israel states its goal is to prevent Iran from acquiring nuclear capability. Iran blames America for the current war. \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/no-peace-talks-with-washington-irans-envoy-to-pakistan-after-trump-signalled-peace-overtures/articleshow/129800169.cms",
-    "timestamp": "2026-03-25T11:46:48Z"
-  },
-  {
-    "title": "US Stocks Today | US stock futures gain on Mideast ceasefire hopes",
-    "description": "U.S. stock index futures climbed on Wednesday after media reports that the U.S. was seeking a month-long ceasefire in its war with Iran allayed some investor fears around prolonged energy supply disruptions.",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-futures-gain-on-mideast-ceasefire-hopes/articleshow/129800325.cms",
-    "timestamp": "2026-03-25T11:46:32Z"
-  },
-  {
-    "title": "US-Iran mediation: What are each side\u2019s demands \u2013 and is a deal possible?",
-    "description": "Trump's envoys have sent a 15-point ceasefire plan to Iran via Pakistan. But Tehran has its own conditions.",
-    "link": "https://www.aljazeera.com/economy/2026/3/25/us-iran-mediation-what-are-each-sides-demands-and-is-a-deal-possible",
-    "timestamp": "2026-03-25T11:45:09Z"
-  },
-  {
-    "title": "Vince Vaughn Spells Out Exactly What He Hates About Late Night Shows Right Now",
-    "description": "\"It started feeling like I was in f**king a class I didn\u2019t want to take.\"",
-    "link": "https://www.huffpost.com/entry/vince-vaughn-late-night-hosts-trump_n_69c3b643e4b081f8eb13ac19",
-    "timestamp": "2026-03-25T11:45:05Z"
-  },
-  {
-    "title": "Indian bonds end nearly flat as oil swings drive caution",
-    "description": "Indian government bonds ended \u200blittle changed on Wednesday \u200bafter a choppy trading session, as crude prices hovered \u200bnear the $100-per-barrel mark despite falling more than 7% on reports of a possible U.S.-Iran ceasefire plan.",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-end-nearly-flat-as-oil-swings-drive-caution/articleshow/129800165.cms",
-    "timestamp": "2026-03-25T11:44:13Z"
   }
 ]
