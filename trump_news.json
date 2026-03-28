@@ -1,5 +1,107 @@
 [
   {
+    "title": "US Senate moves to end airport chaos over budget standoff",
+    "description": "The US Senate has moved to end a budget standoff that has forced thousands of airport security staff to work without pay and caused long delays at airports.",
+    "link": "https://www.rte.ie/news/us/2026/0327/1565467-us-budget-standoff/",
+    "timestamp": "2026-03-27T08:48:21Z"
+  },
+  {
+    "title": "To keep climate science alive, researchers are speaking in code",
+    "description": "Words considered \"woke\" are vanishing from National Science Foundation proposals. Grist tracked the changes.",
+    "link": "https://grist.org/language/climate-federal-research-grants-national-science-foundation/",
+    "timestamp": "2026-03-27T08:45:00Z"
+  },
+  {
+    "title": "US court suspends Pentagon sanctions against Anthropic",
+    "description": "The court's order to drop the Trump administration's \"supply chain risk\" tag for Anthropic will take effect in seven days. The judge said the designation was likely unlawful.",
+    "link": "https://www.dw.com/en/us-court-suspends-pentagon-sanctions-against-anthropic/a-76556322",
+    "timestamp": "2026-03-27T08:39:00Z"
+  },
+  {
+    "title": "Trump, EPA, Congress hope to save truckers billions with Diesel Liberation Act, new guidance",
+    "description": "The White House, EPA, and Congress on Friday all acted to end the \"ridiculous\" requirement for DEF sensors.",
+    "link": "https://www.overdriveonline.com/equipment/article/15820804/trump-epa-congress-hope-to-save-truckers-billions-with-diesel-liberation-act-new-guidance",
+    "timestamp": "2026-03-27T08:34:44Z"
+  },
+  {
+    "title": "California\u2019s fossil fuel phaseout has left it vulnerable to the Iran oil shock",
+    "description": "The Trump administration and major refiners are using the war to justify restarting oil production and weakening climate rules.",
+    "link": "https://grist.org/energy/trump-iran-california-oil-sable/",
+    "timestamp": "2026-03-27T08:30:00Z"
+  },
+  {
+    "title": "Trump Warns Iran To 'Get Serious' But Extends Strait Of Hormuz Deadline",
+    "description": "US President Donald Trump postponed threatened attacks on Iranian power plants for a second time, apparently giving Tehran 10 more days to open the Strait of Hormuz to shipping, and said talks on ending the war were going \"very well.\"",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-rferl04.htm",
+    "timestamp": "2026-03-27T08:26:41Z"
+  },
+  {
+    "title": "Qalibaf rejects Trump's ultimatum, says Iran set for 'historic victory'",
+    "description": "Iran's Parliament Speaker Mohammad Baqer Qalibaf has responded firmly to US President Donald Trump's recent threats, asserting that \"no one can issue ultimatums to Iran and Iranians.\"",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-presstv02.htm",
+    "timestamp": "2026-03-27T08:26:27Z"
+  },
+  {
+    "title": "U.S. envoy calls on Taiwan legislators to pass special defense budget",
+    "description": "The United States' de facto ambassador to Taiwan on Thursday urged lawmakers across party lines to pass a special defense budget to fund planned purchases of U.S. weapon systems for self-defense.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260326-cna01.htm",
+    "timestamp": "2026-03-27T08:26:23Z"
+  },
+  {
+    "title": "Trump Says Iran Should Take US Proposal More Seriously",
+    "description": "US President Donald Trump said on Thursday that Iran should take the US proposal more seriously, as there would be consequences if the deal was abandoned.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-sputnik02.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Trump extends pause on striking Iranian energy plants by 10 days",
+    "description": "U.S. President Donald Trump said Thursday he will pause planned strikes on Iranian energy facilities for 10 days, claiming that talks between the two sides are \"going very well.\"",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260327-pdo03.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Trump's envoy confirms White House sent 15-point plan to Iran via Pakistan",
+    "description": "U.S. President Donald Trump's envoy Steve Witkoff on Thursday confirmed that the White House has sent a 15-point plan to Tehran via Pakistan in an attempt to end the war with Iran.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260327-pdo02.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Aggressor-linked vessels forfeit right to 'innocent passage' in Strait of Hormuz, Tehran tells IMO",
+    "description": "Iran's permanent representative to the International Maritime Organization (IMO) Ali Mousavi says vessels not linked to aggressors can enjoy safe passage through the strategic Strait of Hormuz provided that they do not join or support anti-Iran aggression and\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-presstv09.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Trump Says Iran Operation Was 'Test' for NATO, Warns US Will Remember Alliance's Actions",
+    "description": "US President Donald Trump said on Thursday that the military operation against Iran served as a test for NATO and warned that Washington would remember the alliance's response.",
+    "link": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260326-sputnik01.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Trump claims Iran has allowed 10 oil vessels through Strait of Hormuz as \"present\"",
+    "description": "U.S. President Donald Trump claimed on Thursday that Iran has allowed 10 \"boats of oil\" through the Strait of Hormuz, including eight bearing Pakistani flags, touting this as a \"present\" to the United States amid reported U.S.-Iran \"indirect talks.\"",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260327-pdo01.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Houthi: Yemen ready with all options in solidarity with Iran",
+    "description": "Yemeni leader Abdul Malik al-Houthi has vowed that his country stands ready with all options and will use every means at its disposal to confront the ongoing unprovoked and reckless US-Israeli aggression against Iran.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-presstv04.htm",
+    "timestamp": "2026-03-27T08:26:22Z"
+  },
+  {
+    "title": "Bessent Says Hormuz Ships Insurance Program to Start Soon",
+    "description": "Treasury Secretary Scott Bessent said a US insurance program meant to boost shipping through the Strait of Hormuz will begin soon, a move that may help revive flows of much of the world\u2019s oil and gas supplies. Bessent\u2019s predictions, delivered \u2026",
+    "link": "https://www.insurancejournal.com/news/international/2026/03/27/863715.htm",
+    "timestamp": "2026-03-27T08:13:07Z"
+  },
+  {
+    "title": "How extensive is Russia\u2019s military aid to Iran?",
+    "description": "Russia has long exchanged weapons with Iran and is likely offering satellite support, but lacks the will to do much more",
+    "link": "https://www.aljazeera.com/news/2026/3/27/how-extensive-is-russias-military-aid-to-iran",
+    "timestamp": "2026-03-27T08:09:40Z"
+  },
+  {
     "title": "TSA officers lose homes, can't pay medical bills, can't afford Easter baskets for their children",
     "description": "TSA officers received their third paycheck of zero dollars as the DHS shutdown continues, with stories emerging of lost homes, unpaid medical bills and ruined credit.",
     "link": "https://www.foxnews.com/travel/tsa-officers-lose-homes-cant-pay-medical-bills-cant-afford-easter-baskets-children",
@@ -360,6 +462,18 @@
     "timestamp": "2026-03-27T06:00:01Z"
   },
   {
+    "title": "Gabbard moves to unlock secrets of Trump impeachment and 2016 Russia narrative",
+    "description": "Director of National Intelligence Tulsi Gabbard is set to declassify a top-secret document related to the 2019 impeachment of President Donald Trump, which was previously locked away by then-House Intelligence Chairman Adam Schiff. This action coincides with \u2026",
+    "link": "https://www.naturalnews.com/2026-03-27-gabbard-moves-to-unlock-secrets-trump-impeachment.html",
+    "timestamp": "2026-03-27T06:00:00Z"
+  },
+  {
+    "title": "Pentagon considers diverting Ukraine weapons to Middle East as Iran war drains stockpiles",
+    "description": "The U.S. is considering redirecting air defense interceptors and other munitions originally meant for Ukraine to the Middle East due to dwindling stockpiles from strikes against Iran. The Pentagon faces challenges managing simultaneous conflicts, with Ukraine\u2026",
+    "link": "https://www.naturalnews.com/2026-03-27-pentagon-considers-diverting-ukraine-weapons-middle-east.html",
+    "timestamp": "2026-03-27T06:00:00Z"
+  },
+  {
     "title": "Iran hardliners weigh nuclear bomb pursuit as regime mobilizes one million troops",
     "description": "Iran\u2019s new hardline leadership is openly debating pursuing nuclear weapons. The regime claims to have mobilized one million troops against a potential U.S. invasion. Iran has rejected a U.S.-backed ceasefire, making a diplomatic deal unlikely. President Trump\u2026",
     "link": "https://www.naturalnews.com/2026-03-27-iran-nuclear-regime-mobilizes-troops.html",
@@ -372,15 +486,9 @@
     "timestamp": "2026-03-27T06:00:00Z"
   },
   {
-    "title": "Gabbard moves to unlock secrets of Trump impeachment and 2016 Russia narrative",
-    "description": "Director of National Intelligence Tulsi Gabbard is set to declassify a top-secret document related to the 2019 impeachment of President Donald Trump, which was previously locked away by then-House Intelligence Chairman Adam Schiff. This action coincides with \u2026",
-    "link": "https://www.naturalnews.com/2026-03-27-gabbard-moves-to-unlock-secrets-trump-impeachment.html",
-    "timestamp": "2026-03-27T06:00:00Z"
-  },
-  {
-    "title": "Pentagon considers diverting Ukraine weapons to Middle East as Iran war drains stockpiles",
-    "description": "The U.S. is considering redirecting air defense interceptors and other munitions originally meant for Ukraine to the Middle East due to dwindling stockpiles from strikes against Iran. The Pentagon faces challenges managing simultaneous conflicts, with Ukraine\u2026",
-    "link": "https://www.naturalnews.com/2026-03-27-pentagon-considers-diverting-ukraine-weapons-middle-east.html",
+    "title": "My Vote Is Not a Hostage: Why I Will Never Again Give Consent to MAGA\u2019s Betrayal",
+    "description": "The Pathetic Plea of a Failed Cult With President Trump back in office and his party controlling Congress, the MAGA apparatus is scrambling for support among the very coalition it has spent the last year betraying. Operatives and media surrogates, once brimmi\u2026",
+    "link": "https://www.naturalnews.com/2026-03-27-my-vote-is-not-a-hostage.html",
     "timestamp": "2026-03-27T06:00:00Z"
   },
   {
@@ -402,9 +510,9 @@
     "timestamp": "2026-03-27T06:00:00Z"
   },
   {
-    "title": "My Vote Is Not a Hostage: Why I Will Never Again Give Consent to MAGA\u2019s Betrayal",
-    "description": "The Pathetic Plea of a Failed Cult With President Trump back in office and his party controlling Congress, the MAGA apparatus is scrambling for support among the very coalition it has spent the last year betraying. Operatives and media surrogates, once brimmi\u2026",
-    "link": "https://www.naturalnews.com/2026-03-27-my-vote-is-not-a-hostage.html",
+    "title": "Chevron warns California faces energy crisis amid Iran war, threatens to exit state over taxes and regulations",
+    "description": "Chevron warns that California is heading toward a severe fuel shortage due to disruptions from the Iran war, refinery closures and reliance on Asian imports (20% of refined fuels). The blockade of the Strait of Hormuz has worsened supply chain issues, risking\u2026",
+    "link": "https://www.naturalnews.com/2026-03-27-chevron-warns-california-energy-crisis-threatens-exit.html",
     "timestamp": "2026-03-27T06:00:00Z"
   },
   {
@@ -417,12 +525,6 @@
     "title": "America\u2019s Warriors Will Pay the Price: Why Trump\u2019s Iranian Invasion Plan Is a Suicide Mission",
     "description": "Introduction: A Warning From Reality I believe we are witnessing the prelude to a national catastrophe. As I write this in 2026, President Donald Trump, having won the 2024 election, is marching the United States toward a ground invasion of Iran. This isn\u2019t a\u2026",
     "link": "https://www.naturalnews.com/2026-03-27-americas-warriors-will-pay-trumps-iranian-invasion.html",
-    "timestamp": "2026-03-27T06:00:00Z"
-  },
-  {
-    "title": "Chevron warns California faces energy crisis amid Iran war, threatens to exit state over taxes and regulations",
-    "description": "Chevron warns that California is heading toward a severe fuel shortage due to disruptions from the Iran war, refinery closures and reliance on Asian imports (20% of refined fuels). The blockade of the Strait of Hormuz has worsened supply chain issues, risking\u2026",
-    "link": "https://www.naturalnews.com/2026-03-27-chevron-warns-california-energy-crisis-threatens-exit.html",
     "timestamp": "2026-03-27T06:00:00Z"
   },
   {
@@ -460,113 +562,5 @@
     "description": "China wishes to strengthen economic cooperation with the United States to avoid \"vicious competition\", commerce minister Wang Wentao told U.S. Trade Representative Jamieson Greer, according to a readout released on March 27.",
     "link": "https://www.hurriyetdailynews.com/china-says-hopes-to-boost-trade-cooperation-with-us-220372",
     "timestamp": "2026-03-27T05:41:52Z"
-  },
-  {
-    "title": "Trump Extends Energy-Attack Pause, Claims Iran Talks Ongoing",
-    "description": "President Donald Trump again pushed back his deadline for Iran to strike a deal with the US or face more attacks, saying talks with the country were going \u201cvery well.\u201d",
-    "link": "https://financialpost.com/pmn/business-pmn/trump-extends-energy-attack-pause-claims-iran-talks-ongoing",
-    "timestamp": "2026-03-27T05:40:46Z"
-  },
-  {
-    "title": "Tyler Perry shows up at Atlanta airport with cash for struggling TSA workers \u2014 but gets shut down",
-    "description": "So instead of handing out envelopes of cash, Perry spent time talking with agents, shaking hands and thanking them for sticking it out through the crisis.",
-    "link": "https://nypost.com/2026/03/27/us-news/tyler-perry-blocked-at-atlanta-airport-from-handing-cash-to-tsa-workers/",
-    "timestamp": "2026-03-27T05:36:58Z"
-  },
-  {
-    "title": "Trump faces backlash over comments against Gavin Newsom",
-    "description": "President Donald Trump faced online backlash after attacking California Gov. Gavin Newsom for disclosing he has dyslexia. Trump stated he didn't want \"a person with mental disability\" or \"a stupid person being president,\" characterizing dyslexia as a mental d\u2026",
-    "link": "https://www.rawstory.com/trump-ridiculed-as-he-says/",
-    "timestamp": "2026-03-27T05:35:02Z"
-  },
-  {
-    "title": "Trump hails PM Modi as leader who 'gets things done', says US-India ties will be stronger going forward",
-    "description": "US President Donald Trump lauded Prime Minister Narendra Modi as a leader who \"gets things done.\" Trump expressed confidence that the strong relationship between the United States and India will continue to grow even stronger in the future.",
-    "link": "https://economictimes.indiatimes.com/news/india/trump-hails-pm-modi-as-leader-who-gets-things-done-says-us-india-ties-will-be-stronger-going-forward/articleshow/129839080.cms",
-    "timestamp": "2026-03-27T05:34:43Z"
-  },
-  {
-    "title": "Trump calls \u2018NATO a paper tiger, did nothing for us in Iran war\u2019",
-    "description": "Trump NATO remarks spark debate as he calls alliance ineffective during Iran conflict, claiming US received little support despite global commitments.",
-    "link": "https://indianexpress.com/article/world/trump-calls-nato-a-paper-tiger-did-nothing-for-us-in-iran-war-10603769/",
-    "timestamp": "2026-03-27T05:34:26Z"
-  },
-  {
-    "title": "'It changed the way I look at life': Antonio Banderas opens up on life after heart attack",
-    "description": "Hollywood star Antonio Banderas has claimed his near-fatal heart attack is the best thing to have happened to him because of the changes he made to his life.",
-    "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/it-changed-the-way-i-look-at-life-antonio-banderas-opens-up-on-life-after-heart-attack/articleshow/129839400.cms",
-    "timestamp": "2026-03-27T05:31:09Z"
-  },
-  {
-    "title": "Nicolas Maduro lawyer pushes judge to throw out drug trafficking charge in fees row",
-    "description": "A US judge questioned yesterday whether the US can bar Venezuela from funding Nicolas Maduro\u2019s legal defence without violating his US constitutional rights, but stopped short of dismissing drug-\u00adtrafficking charges against the ousted Venezuelan president faci\u2026",
-    "link": "https://www.independent.ie/world-news/north-america/nicolas-maduro-lawyer-pushes-judge-to-throw-out-drug-trafficking-charge-in-fees-row/a1351884287.html",
-    "timestamp": "2026-03-27T05:30:00Z"
-  },
-  {
-    "title": "Letters: Government\u2019s response to fuel crisis offers more help to those who don\u2019t need it",
-    "description": "On Wednesday, the Economic and Social Research Institute (ESRI) warned that higher energy prices as a result of the war in the Middle East will push up inflation to an expected 3.2pc. Last year\u2019s rate was 2pc.",
-    "link": "https://www.independent.ie/opinion/letters/letters-governments-response-to-fuel-crisis-offers-more-help-to-those-who-dont-need-it/a100301668.html",
-    "timestamp": "2026-03-27T05:30:00Z"
-  },
-  {
-    "title": "The Irish Independent's View: Mixed signals from Trump and Washington are causing international chaos",
-    "description": "What Donald Trump first described as \u201ca little excursion\u201d in Iran is now becoming a \u201cdistraction\u201d, according to the US president.",
-    "link": "https://www.independent.ie/opinion/the-irish-independents-view-mixed-signals-from-trump-and-washington-are-causing-international-chaos/a744939565.html",
-    "timestamp": "2026-03-27T05:30:00Z"
-  },
-  {
-    "title": "Federal judge temporarily blocks the Pentagon from branding AI firm Anthropic a supply chain risk",
-    "description": "A federal judge has ruled in favor of artificial intelligence company Anthropic in temporarily blocking the Pentagon from labeling the company as a supply chain risk. U.S. District Judge Rita Lin on...",
-    "link": "https://www.thehour.com/business/article/federal-judge-temporarily-blocks-the-pentagon-22154481.php",
-    "timestamp": "2026-03-27T05:28:41Z"
-  },
-  {
-    "title": "TRICIA PRIDEMORE: I Partnered With President Trump On AI. We Need To Finish The Job",
-    "description": "America is at the beginning of a technological revolution that will define the next century. Artificial intelligence will shape our economy, our national",
-    "link": "https://dailycaller.com/2026/03/27/opinion-i-partnered-with-president-trump-on-ai-we-need-to-finish-the-job-tricia-pridemore/",
-    "timestamp": "2026-03-27T05:25:53Z"
-  },
-  {
-    "title": "Iran Guards say carried out attacks on Israel, US forces in Gulf",
-    "description": "Iran's Revolutionary Guards said on Friday they had carried out missile and drone strikes the previous day targeting sites in Israel and military facilities in the Gulf used by U.S. forces.",
-    "link": "https://www.hurriyetdailynews.com/iran-guards-say-carried-out-attacks-on-israel-us-forces-in-gulf-220368",
-    "timestamp": "2026-03-27T05:25:28Z"
-  },
-  {
-    "title": "TVK chief Vijay goes to DGP with plaint against Ponraj Vellaichamy",
-    "description": "Actor-politician Vijay, accompanied by K A Sengottaiyan, filed a complaint at the Tamil Nadu DGP's office against political commentator Ponraj. Vijay's petition alleges Ponraj has been making indecent and insulting remarks towards women, acting with impunity \u2026",
-    "link": "https://timesofindia.indiatimes.com/city/chennai/tvk-chief-vijay-goes-to-dgp-with-plaint-against-ponraj-vellaichamy/articleshow/129839289.cms",
-    "timestamp": "2026-03-27T05:24:23Z"
-  },
-  {
-    "title": "When will MPBSE release MP Board Class 12 result 2026? Here is what we know",
-    "description": "The Madhya Pradesh Board of Secondary Education (MPBSE) is expected to release the Class 12 results for 2026 soon, likely in the first or second week of May. Students can check their scores on official websites like mpresults.nic.in and mpbse.nic.in, as well \u2026",
-    "link": "https://timesofindia.indiatimes.com/education/news/when-will-mpbse-release-mp-board-class-12-result-2026-here-is-what-we-know/articleshow/129838585.cms",
-    "timestamp": "2026-03-27T05:23:57Z"
-  },
-  {
-    "title": "Stephen A. Smith goes scorched earth on progressives \u2014 tells them to \u2018shut the hell up\u2019 over voter ID laws",
-    "description": "Stephen A. Smith said Americans should support voter ID laws while criticizing both the progressive left and political leaders, including President Donald Trump and California Gov. Gavin Newsom, during his broadcast of \u201cStraight Shooter\u201d on SiriusXM Wednesday\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4372392/posts",
-    "timestamp": "2026-03-27T05:22:07Z"
-  },
-  {
-    "title": "Oil drops as Trump pauses Iran strikes",
-    "description": "Oil prices fell Friday after Donald Trump again pushed back a deadline for Iran to reopen the Strait of Hormuz, though most equities also dropped as traders shrugged at the news following a series of conflicting messaging from the White House.",
-    "link": "https://www.hurriyetdailynews.com/oil-drops-as-trump-pauses-iran-strikes-220367",
-    "timestamp": "2026-03-27T05:18:51Z"
-  },
-  {
-    "title": "AP High Court recruitment 2026: 300 vacancies announced across multiple roles, applications begin on 30 March",
-    "description": "The High Court of Andhra Pradesh has announced online applications for 300 administrative, technical, and support roles, with the process opening on March 30, 2026, and closing on April 19, 2026. This recruitment drive, under the AP High Court Service Rules, \u2026",
-    "link": "https://timesofindia.indiatimes.com/education/news/ap-high-court-recruitment-2026-300-vacancies-announced-across-multiple-roles-applications-begin-on-30-march/articleshow/129839234.cms",
-    "timestamp": "2026-03-27T05:18:34Z"
-  },
-  {
-    "title": "\u2018Screams, confusion\u2026 it all happened in seconds\u2019: Eyewitness recounts Indore techie\u2019s killing after Airbnb penthouse row",
-    "description": "A disagreement about rooftop gatherings within a local community took a devastating turn when the property owner reportedly drove his vehicle into a crowd of neighbors. What started as a passionate discussion surrounding power outages and a confrontation invo\u2026",
-    "link": "https://timesofindia.indiatimes.com/city/indore/screams-confusion-it-all-happened-in-seconds/articleshow/129839043.cms",
-    "timestamp": "2026-03-27T05:16:24Z"
   }
 ]
