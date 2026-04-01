@@ -1,5 +1,395 @@
 [
   {
+    "title": "EXCLUSIVE: Trump To Crack Down On Mail-In Voting With New Executive Order",
+    "description": "President Donald Trump is expected to sign an executive order Tuesday cracking down on mail-in voting across the country, the Daily Caller learned first.",
+    "link": "https://dailycaller.com/2026/03/31/trump-mail-in-voting-executive-order-save-america-act-midterms/",
+    "timestamp": "2026-03-31T20:00:19Z"
+  },
+  {
+    "title": "Report: FDA Set to Unban RFK Jr.\u2019s Favorite Peptides",
+    "description": "More than a dozen peptides are expected to be removed from a list that bans compounding pharmacies from producing them.",
+    "link": "https://gizmodo.com/report-fda-set-to-unban-rfk-jr-s-favorite-peptides-2000740335",
+    "timestamp": "2026-03-31T20:00:00Z"
+  },
+  {
+    "title": "Will Trump Force Congress Back to Washington to Reopen DHS?",
+    "description": "Congress is still out of session despite the Department of Homeland Security (DHS) being shut down without funding, and members are not scheduled to come... Read More\nThe post Will Trump Force Congress Back to Washington to Reopen DHS? appeared first on The D\u2026",
+    "link": "https://www.dailysignal.com/2026/03/31/will-trump-force-congress-back-to-washington-to-reopen-dhs/",
+    "timestamp": "2026-03-31T20:00:00Z"
+  },
+  {
+    "title": "Good News! One Judge Stops Construction on Trump\u2019s Hideous Ballroom; Another Overturns Trump Order to Stop Funding PBS-NPR!",
+    "description": "This afternoon, a federal judge in Washington, D.C., stopped work on Trump\u2019s ballroom, saying it needs Congressional approval. Federal Judge Richard Leon ruled against the ballroom, saying Trump\u2019s lawyers made \u201cbrazen\u201d claims. Among them, that completing the \u2026",
+    "link": "https://dianeravitch.net/2026/03/31/good-news-one-judge-stops-construction-on-trumps-hideous-ballroom-another-orders-restoration-of-funding-for-pbs-npr/",
+    "timestamp": "2026-03-31T20:00:00Z"
+  },
+  {
+    "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
+    "description": "The nuclear threat in the Middle East is growing due to the Iran war, and not just because nuclear sites in Iran and Israel are being attacked. Other countries may decide they're safer with a nuclear weapon too.",
+    "link": "https://www.dw.com/en/iran-war-nuclear-weapons-race-saudi-arabia-turkey-united-arab-emirates-egypt/a-76613406",
+    "timestamp": "2026-03-31T20:00:00Z"
+  },
+  {
+    "title": "Could this finally be the year for Texas Democrats?",
+    "description": "It\u2019s been more than thirty years since a Democrat won state-wide in Texas. But some think a voter backlash against President Trump\u2019s policies could end that drought and that Democratic nominee for Senate James Talarico, could defeat either of his two Republic\u2026",
+    "link": "https://www.wbur.org/onpoint/2026/03/31/texas-democrats-midterm-election",
+    "timestamp": "2026-03-31T20:00:00Z"
+  },
+  {
+    "title": "Judge orders pause to Trump's ballroom construction",
+    "description": "A US judge has ordered a halt to construction of a massive ballroom launched by President Donald Trump after the tearing down of the historic East Wing at the White House.",
+    "link": "https://www.rte.ie/news/us/2026/0331/1566170-white-house/",
+    "timestamp": "2026-03-31T19:59:42Z"
+  },
+  {
+    "title": "Judge orders pause in Trump's ballroom construction",
+    "description": "A US judge has ordered a halt to construction of a massive ballroom launched by President Donald Trump after the tearing down of the historic East Wing at the White House.",
+    "link": "https://www.rte.ie/news/world/2026/0331/1566170-white-house/",
+    "timestamp": "2026-03-31T19:59:42Z"
+  },
+  {
+    "title": "Bitcoin hits $68K but BTC futures, macro data show traders remain bearish",
+    "description": "Bitcoin rallied to $68,000 as markets responded positively to the prospect of the US and Israel-Iran war ending, but data shows futures traders are not convinced.",
+    "link": "https://cointelegraph.com/markets/bitcoin-hits-68k-but-btc-futures-macro-data-show-traders-remain-bearish",
+    "timestamp": "2026-03-31T19:59:25Z"
+  },
+  {
+    "title": "Judge orders Trump administration to halt White House ballroom construction unless Congress OKs it",
+    "description": "A federal judge on Tuesday ordered the Trump administration to suspend its construction of a $400 million ballroom where it demolished the East Wing of the White House, barring construction work from proceeding without congressional approval. U.S. District Ju\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4373061/posts",
+    "timestamp": "2026-03-31T19:56:44Z"
+  },
+  {
+    "title": "U.S.-style birthright citizenship is uncommon around the world",
+    "description": "32 other countries around the world\u00a0have birthright citizenship laws that are substantially similar to the U.S.\u00a0Another 50 or so countries have more limited variations of birthright citizenship.",
+    "link": "http://www.pewresearch.org/short-reads/2026/03/31/us-style-birthright-citizenship-is-uncommon-around-the-world/",
+    "timestamp": "2026-03-31T19:56:41Z"
+  },
+  {
+    "title": "About 9% of U.S. births in 2023 were to unauthorized or temporary legal immigrant mothers",
+    "description": "Generally, the trends in births to unauthorized immigrants follow the growth and decline of the unauthorized immigrant population.",
+    "link": "http://www.pewresearch.org/short-reads/2026/03/31/about-9-of-us-births-in-2023-were-to-unauthorized-or-temporary-legal-immigrant-mothers/",
+    "timestamp": "2026-03-31T19:56:05Z"
+  },
+  {
+    "title": "Judge halts construction on Trump's White House ballroom (Washington Post)",
+    "description": "Washington Post:\nJudge halts construction on Trump's White House ballroom\u00a0 \u2014\u00a0 The planned $400 million project has been a priority for the president.\u00a0 \u2014\u00a0 A federal judge ordered a halt to construction of President Donald Trump's White House ballroom, ruling t\u2026",
+    "link": "https://www.memeorandum.com/260331/p107",
+    "timestamp": "2026-03-31T19:55:01Z"
+  },
+  {
+    "title": "Citing First Amendment, federal judge blocks Trump order to end funding for NPR and PBS",
+    "description": "Citing the First Amendment, a federal judge on Tuesday agreed to permanently block the Trump administration from implementing a presidential directive to end federal funding for National Public Radio and the Public Broadcasting Service, two media entities tha\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4373060/posts",
+    "timestamp": "2026-03-31T19:54:43Z"
+  },
+  {
+    "title": "Trump's White House ballroom construction must halt unless Congress OKs it, judge orders",
+    "description": "\"The President of the United States is the steward of the White House for future generations of First Families. He is not, however, the owner!\" the judge wrote.",
+    "link": "https://www.pbs.org/newshour/politics/trump-administration-must-halt-white-house-ballroom-construction-unless-congress-oks-it-judge-orders",
+    "timestamp": "2026-03-31T19:54:22Z"
+  },
+  {
+    "title": "\u2018You\u2019re a Grifter and a Fraud\u2019: Trump Alum Dan Bongino BRAWLS With Thomas Massie",
+    "description": "Former deputy director of the FBI Dan Bongino unleashed on Rep. Thomas Massie (R-KY) on Tuesday, precipitating a brawl between the two online.\nThe post \u2018You\u2019re a Grifter and a Fraud\u2019: Trump Alum Dan Bongino BRAWLS With Thomas Massie first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/news/youre-a-grifter-and-a-fraud-trump-alum-dan-bongino-brawls-with-thomas-massie/",
+    "timestamp": "2026-03-31T19:53:32Z"
+  },
+  {
+    "title": "Peer-Reviewed Health Study Warns of Trump's 'Silent But Deadly Assault' on Health of Americans",
+    "description": "The so-called \"Make America Healthy Again\" movement encapsulated a key campaign promise ahead of President Donald Trump's second term in office, with Trump telling one Pennsylvania crowd in 2024, \"We\u2019re going to get toxic chemicals out of our environment, and\u2026",
+    "link": "https://www.commondreams.org/news/maha-health",
+    "timestamp": "2026-03-31T19:53:01Z"
+  },
+  {
+    "title": "Iran sets 24-hour deadline on missile threat. Here's what you should know this morning",
+    "description": "US companies including Microsoft, Google and Apple could be targeted, while Donald Trump urges the world to buy American fuel.",
+    "link": "https://www.abc.net.au/news/2026-04-01/iran-israel-war-daily-news-briefing/106502926",
+    "timestamp": "2026-03-31T19:52:59Z"
+  },
+  {
+    "title": "Trump Order to End Funding for PBS, NPR Blocked in Free Speech Win",
+    "description": "The executive order violated the First Amendment by discriminating and retaliating against the broadcasters, the court said.",
+    "link": "http://www.hollywoodreporter.com/business/business-news/judge-blocks-trump-order-to-end-funding-for-pbs-npr-1236553044/",
+    "timestamp": "2026-03-31T19:51:59Z"
+  },
+  {
+    "title": "Judge Blocks Trump White House Ballroom Project Without Congress Approval",
+    "description": "President Donald Trump isn\u2019t getting his massively expensive ballroom just yet. U.S. District Judge Richard Leon blocked the 79-year-old President of the United States from starting construction on his estimated $400 million ballroom expansion in the White Ho\u2026",
+    "link": "https://www.justjared.com/2026/03/31/donald-trump-white-house-ballroom-blocked-judge/",
+    "timestamp": "2026-03-31T19:50:52Z"
+  },
+  {
+    "title": "Trump Rages After Judge Blocks White House Ballroom Construction",
+    "description": "Judge Richard Leon blocked construction on Donald Trump's White House ballroom project, writing that Congress must authorize it first.",
+    "link": "http://www.rollingstone.com/politics/politics-news/trump-rages-judge-blocks-white-house-ballroom-1235539753/",
+    "timestamp": "2026-03-31T19:49:22Z"
+  },
+  {
+    "title": "Iran moderates pushing Trump deal risk being \u2018eliminated\u2019 as regime fractures deepen",
+    "description": "Pete Hegseth says Iran should make a deal to end the war, as Secretary of State Marco Rubio cites internal fractures in the new Iranian regime.",
+    "link": "https://www.foxnews.com/world/iran-moderates-pushing-trump-deal-risk-eliminated-regime-fractures-deepen",
+    "timestamp": "2026-03-31T19:47:37Z"
+  },
+  {
+    "title": "Federal Judge Blocks Trump's Efforts to End Funding for PBS, NPR",
+    "description": "It was back in May 2025 when Donald Trump signed an executive order that essentially killed the Corporation for Public Broadcasting (CPB), and shut down federal funding to National Public Radio (NPR) and the Public Broadcasting Service (PBS). Shortly after, t\u2026",
+    "link": "https://bleedingcool.com/tv/federal-judge-blocks-trumps-efforts-to-end-funding-for-pbs-npr/",
+    "timestamp": "2026-03-31T19:47:08Z"
+  },
+  {
+    "title": "Highs and Lows of Trump\u2019s AI-Slop Presidential Library",
+    "description": "Design plans for the Donald J. Trump Presidential Library just dropped. A video shows the Miami skyscraper featuring two gold Trump statues, replicas of Trump\u2019s dumbest White House additions, and lots of AI slop. Here are the highs and lows.",
+    "link": "http://nymag.com/intelligencer/article/trump-presidential-library-miami-highs-lows.html",
+    "timestamp": "2026-03-31T19:45:46Z"
+  },
+  {
+    "title": "Federal judge blocks Trump executive order to cease funding for NPR and PBS, cites First Amendment",
+    "description": "A federal judge blocked Trump's executive order defunding PBS and NPR, ruling it unlawfully targeted viewpoints the president disapproved of.",
+    "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-executive-order-cease-funding-npr-pbs-cites-first-amendment",
+    "timestamp": "2026-03-31T19:44:47Z"
+  },
+  {
+    "title": "Charlie Kirk bullet doesn\u2019t match suspect\u2019s rifle \u2013 lawyers",
+    "description": "The bullet that killed Turning Point USA founder Charlie Kirk does not conclusively match suspect Tyler Robinson\u2019s gun, lawyers for Robinson have claimed",
+    "link": "https://www.rt.com/news/636880-charlie-kirk-bullet-atf/",
+    "timestamp": "2026-03-31T19:44:11Z"
+  },
+  {
+    "title": "What\u2019s behind Donald Trump\u2019s interest in Iran\u2019s Kharg Island?",
+    "description": "The US president is threatening to take over Iran's oil export hub or destroy it.",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/3/31/whats-behind-donald-trumps-interest-in-irans-kharg-island",
+    "timestamp": "2026-03-31T19:42:25Z"
+  },
+  {
+    "title": "What to expect in Arkansas' primary runoff elections",
+    "description": "Two Arkansas Republicans with competing visions on how best to implement President Donald Trump's agenda to overhaul elections and voting will vie for their party's nomination for the state's top elections job on Tuesday.",
+    "link": "https://www.pbs.org/newshour/politics/what-to-expect-in-arkansas-primary-runoff-elections",
+    "timestamp": "2026-03-31T19:42:22Z"
+  },
+  {
+    "title": "The \u201cMassive Human Consequences\u201d of Ending Birthright Citizenship",
+    "description": "On his first day back in office, President Donald Trump signed Executive Order 14160, denying birthright citizenship to the children of undocumented immigrants and other parents who are not permanent residents. On Wednesday, the Supreme Court will hear oral a\u2026",
+    "link": "https://www.motherjones.com/politics/2026/03/birthright-citizenship-supreme-court-consequences/",
+    "timestamp": "2026-03-31T19:41:37Z"
+  },
+  {
+    "title": "Hiring in the US drops to pandemic lows as job market under Trump stagnates",
+    "description": "Labour market stagnation mirrors a slowing private payroll growth, averaging just 18,000 monthly in recent months",
+    "link": "https://www.aljazeera.com/economy/2026/3/31/hiring-in-the-us-drops-to-pandemic-lows-as-job-market-under-trump-stagnates",
+    "timestamp": "2026-03-31T19:41:08Z"
+  },
+  {
+    "title": "The Gen Z Christian Revival That Wasn\u2019t",
+    "description": "Some pastors and politicians claim that a Christian revival is afoot among young Americans. Nationwide data tell a different story.",
+    "link": "https://www.theatlantic.com/culture/2026/03/christian-revival-generation-z/686612/",
+    "timestamp": "2026-03-31T19:40:00Z"
+  },
+  {
+    "title": "Sooo, It Looks Like Donald Trump Is Planning To Put A Giant Gold Statue Of Himself In His Presidential Library, And It's Giving Dictator",
+    "description": "I see about as many books in these plans as I expected.View Entire Post \u203a",
+    "link": "https://www.buzzfeed.com/meganeliscomb/trump-presidential-library-gold-statue",
+    "timestamp": "2026-03-31T19:39:26Z"
+  },
+  {
+    "title": "Judge permanently blocks Trump order to end funding for National Public Radio",
+    "description": "A U.S. federal judge on Tuesday agreed to permanently block the Trump administration from implementing a presidential directive to end federal funding for National Public Radio and the Public Broadcasting Service.",
+    "link": "https://www.cbc.ca/news/entertainment/trump-npr-funding-9.7148861",
+    "timestamp": "2026-03-31T19:39:25Z"
+  },
+  {
+    "title": "Stock Market Soars To Best Day In 10 Months As Trump Suggests Iran War Won\u2019t Last \u2018Much Longer\u2019",
+    "description": "Tuesday marked the indexes\u2019 strongest day of trading since May 12, 2025.",
+    "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/03/31/stock-market-soars-to-best-day-in-10-months-as-trump-suggests-iran-war-wont-last-much-longer/",
+    "timestamp": "2026-03-31T19:39:15Z"
+  },
+  {
+    "title": "Obama Judge Halts Trump Effort to End Parole for Hundreds of Thousands",
+    "description": "A federal judge with a record of ruling against President Donald Trump blocked his administration from terminating the parole of immigrants who entered the United... Read More\nThe post Obama Judge Halts Trump Effort to End Parole for Hundreds of Thousands app\u2026",
+    "link": "https://www.dailysignal.com/2026/03/31/obama-judge-halts-trump-effort-to-end-parole-for-hundreds-of-thousands/",
+    "timestamp": "2026-03-31T19:39:00Z"
+  },
+  {
+    "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against Enphase Energy, Inc. and Certain Officers \u2013 ENPH",
+    "description": "NEW YORK, March 31, 2026 (GLOBE NEWSWIRE) -- Pomerantz LLP announces that a class action lawsuit has been filed against Enphase Energy, Inc. (\u201cEnphase\u201d or the \u201cCompany\u201d) (NASDAQ: ENPH) and certain officers.\u202f\u202f The class action, filed in the United States Distr\u2026",
+    "link": "https://www.globenewswire.com/news-release/2026/03/31/3265964/1087/en/Pomerantz-Law-Firm-Announces-the-Filing-of-a-Class-Action-Against-Enphase-Energy-Inc-and-Certain-Officers-ENPH.html",
+    "timestamp": "2026-03-31T19:39:00Z"
+  },
+  {
+    "title": "JUST IN: Judge Orders Trump to Stop Building White House Ballroom",
+    "description": "A federal judge ordered President Donald Trump to halt building his much-publicized and much-criticized $400 million ballroom at the White House on Tuesday.\u00a0\nThe post JUST IN: Judge Orders Trump to Stop Building White House Ballroom first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/politics/just-in-judge-orders-trump-to-stop-building-white-house-ballroom/",
+    "timestamp": "2026-03-31T19:37:29Z"
+  },
+  {
+    "title": "MS NOW Anchor Confronts Jamine Crockett With Bad Polling Numbers for Democrats and Congress",
+    "description": "MS NOW's Chris Jansing asked Jasmine Crockett if her position is \"at risk\" after pulling out dipping polling numbers for Congress and both parties.\nThe post MS NOW Anchor Confronts Jamine Crockett With Bad Polling Numbers for Democrats and Congress first appe\u2026",
+    "link": "https://www.mediaite.com/media/tv/ms-now-anchor-confronts-jamine-crockett-with-bad-polling-numbers-for-democrats-and-congress/",
+    "timestamp": "2026-03-31T19:36:31Z"
+  },
+  {
+    "title": "Iran will be at World Cup' and play in US, FIFA's Infantino says",
+    "description": "FIFA president Gianni Infantino has confirmed Iran will play in the World Cup. Their group matches will be held in the United States as planned. This assurance comes despite the ongoing Middle East war. Iran's participation had been uncertain. The tournament \u2026",
+    "link": "https://economictimes.indiatimes.com/news/sports/iran-will-be-at-world-cup-and-play-in-us-fifas-infantino-says/articleshow/129935916.cms",
+    "timestamp": "2026-03-31T19:34:47Z"
+  },
+  {
+    "title": "Trump officials exempt drilling in the Gulf of Mexico from endangered species act, putting rare whale at risk",
+    "description": "The Trump administration has exempted oil and gas drilling in the Gulf of Mexico from the Endangered Species Act after U.S. Defence Secretary Pete Hegseth said environmentalists' lawsuits threatened to hobble domestic energy supplies as the U.S. wages war aga\u2026",
+    "link": "https://www.cbc.ca/news/world/endangered-species-god-squad-rice-s-whale-9.7148779",
+    "timestamp": "2026-03-31T19:33:19Z"
+  },
+  {
+    "title": "Judge Rules Against Trump\u2019s Order Ending Federal Funding for NPR and PBS",
+    "description": "US District Judge Randolph Moss said the order violated the First Amendment right to free speech.\nJudge Rules Against Trump\u2019s Order Ending Federal Funding for NPR and PBS\nEddie Fu",
+    "link": "https://consequence.net/2026/03/judge-rules-against-trumps-order-ending-federal-funding-for-npr-and-pbs/",
+    "timestamp": "2026-03-31T19:33:04Z"
+  },
+  {
+    "title": "D. John Sauer: Trump\u2019s top litigator faces uphill battle with birthright citizenship | CNN Politics",
+    "description": "Sauer has become Trump\u2019s favorite litigator after securing historic victories on issues such as presidential immunity and limiting the power of judges to block his policies nationwide.",
+    "link": "https://www.cnn.com/2026/03/31/politics/sauer-trump-lawyer-birthright",
+    "timestamp": "2026-03-31T19:31:25Z"
+  },
+  {
+    "title": "TikTok\u2019s rotten deal stinks even more after Meta and Google rulings",
+    "description": "Critics of social-media platforms are rejoicing over two rulings this week that aim to hold Meta and Google accountable for the harm they inflict on kids, yet the worst offender, TikTok, continues to operate unfettered.",
+    "link": "https://nypost.com/2026/03/31/opinion/tiktoks-rotten-deal-stinks-even-more-after-meta-google-rulings/",
+    "timestamp": "2026-03-31T19:31:01Z"
+  },
+  {
+    "title": "\u201cWe\u2019ve gotta get our priorities straight\u201d \u2013 A tale in two headlines",
+    "description": "Priority 1: I got mine. Airport cleared to be renamed for Trump as he unveils design for skyscraper library. Florida Gov. Ron DeSantis signed a bill allowing Palm Beach International Airport to be renamed the President Donald J. Trump International Airport. T\u2026",
+    "link": "https://www.lawyersgunsmoneyblog.com/2026/03/weve-gotta-get-our-priorities-straight-a-tale-in-two-headlines",
+    "timestamp": "2026-03-31T19:31:00Z"
+  },
+  {
+    "title": "Federal judge orders halt to White House ballroom construction (ABC News)",
+    "description": "ABC News:\nFederal judge orders halt to White House ballroom construction\u00a0 \u2014\u00a0 The judge said Trump can't build it without authorization from Congress.\u00a0 \u2014\u00a0 President Donald Trump holds a rendering of the proposed new East Wing of the White House as he speaks to\u2026",
+    "link": "https://www.memeorandum.com/260331/p103",
+    "timestamp": "2026-03-31T19:30:07Z"
+  },
+  {
+    "title": "Trump Begins Negotiating With Iranian Leadership Via Ouija Board",
+    "description": "WASHINGTON, D.C. \u2014 As hostilities in the Middle East extended into a second month, White House sources confirmed that President Donald Trump had officially begun negotiating with Iranian leadership via Ouija board.",
+    "link": "https://babylonbee.com/news/trump-begins-negotiating-with-iranian-leadership-via-ouija-board",
+    "timestamp": "2026-03-31T19:29:51Z"
+  },
+  {
+    "title": "Trump's White House ballroom project stopped dead in its tracks with new court block",
+    "description": "U.S. District Court Judge Richard J. Leon blocked President Donald Trump from further construction of his White House ballroom project.In a three-page order on Tuesday, Leon granted a preliminary injunction requested by the National Trust for Historic Preserv\u2026",
+    "link": "https://www.rawstory.com/trump-ballroom-preliminary-injunction/",
+    "timestamp": "2026-03-31T19:29:01Z"
+  },
+  {
+    "title": "Just like during Covid, conspiracy theorists are thriving amid the Middle East fuel crisis",
+    "description": "Conspiracy theorists are pushing the same ideas of attacks on civil liberties they did during the pandemic.",
+    "link": "https://www.thejournal.ie/conspiracy-theorists-are-exploiting-the-fuel-crisis-to-spread-fear-6999760-Mar2026/",
+    "timestamp": "2026-03-31T19:25:25Z"
+  },
+  {
+    "title": "Trump Ordered to Halt $400 Million White House Ballroom Until Congress Approves Construction",
+    "description": "\"No statute comes close to giving the President the authority he claims to have,\" U.S. District Judge Richard Leon says\nThe post Trump Ordered to Halt $400 Million White House Ballroom Until Congress Approves Construction appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/politics/trump-ordered-white-house-ballroom-construction-halt/",
+    "timestamp": "2026-03-31T19:24:34Z"
+  },
+  {
+    "title": "'The View' co-hosts claim Usha Vance is 'addicted to power' in on-air attack against second lady",
+    "description": "\"The View\" hosts Joy Behar and Sunny Hostin attacked Usha Vance on Tuesday and said the second lady was \"addicted to power,\" arguing her values should align with her husbands.",
+    "link": "https://www.foxnews.com/media/the-view-co-hosts-claim-usha-vance-addicted-power-on-air-attack-against-second-lady",
+    "timestamp": "2026-03-31T19:23:38Z"
+  },
+  {
+    "title": "Judge Orders Trump Administration To Halt White House Ballroom Construction",
+    "description": "\"The President of the United States is the steward of the White House for future generations of First Families. He is not, however, the owner!\u201d wrote U.S. District Judge Richard Leon.",
+    "link": "https://www.huffpost.com/entry/judge-orders-trump-administration-to-halt-white-house-ballroom-construction-unless-congress-oks-it_n_69cc1df6e4b039d10fc770c5",
+    "timestamp": "2026-03-31T19:23:00Z"
+  },
+  {
+    "title": "Lawrence O\u2019Donnell Mocks Trump for Admitting \u2018Smart People\u2019 Don\u2019t Like Him: \u2018When He\u2019s Right He\u2019s Right\u2019 | Video",
+    "description": "\"Now there are Trump voters who don't like him,\" the host adds, breaking down continued divisions in MAGA\nThe post Lawrence O\u2019Donnell Mocks Trump for Admitting \u2018Smart People\u2019 Don\u2019t Like Him: \u2018When He\u2019s Right He\u2019s Right\u2019 | Video appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/journalism/lawrence-odonnell-mocks-trump-smart-people-maga/",
+    "timestamp": "2026-03-31T19:22:45Z"
+  },
+  {
+    "title": "Helicopter Fly-By, White House Visits, and Music Gigs: Kid Rock\u2019s MAGA Moments",
+    "description": "The country-rock singer mentioned he was \u201cdigging\u201d Trump in 2016 and, in the past decade, has further aligned himself with MAGA",
+    "link": "http://www.rollingstone.com/music/music-features/kid-rock-maga-trump-timeline-1235537319/",
+    "timestamp": "2026-03-31T19:22:14Z"
+  },
+  {
+    "title": "Rachel Maddow Ridicules Trump for \u2018Inexplicably\u2019 Cutting Favors for Russia as They Help Iran | Video",
+    "description": "\"Trump's war on Iran has been one question mark after another about the most serious stuff in the world,\" the host adds\nThe post Rachel Maddow Ridicules Trump for \u2018Inexplicably\u2019 Cutting Favors for Russia as They Help Iran | Video appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/journalism/rachel-maddow-ridicules-trump-russia-cutting-favors/",
+    "timestamp": "2026-03-31T19:21:42Z"
+  },
+  {
+    "title": "Judge blocks Trump White House ballroom project for now",
+    "description": "A federal judge in Washington, D.C., on Tuesday blocked, for now, the construction of the new White House ballroom, which President Donald Trump has heavily touted. District Court Judge Richard Leon, in his order, enjoined Trump administration officials and t\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4373054/posts",
+    "timestamp": "2026-03-31T19:21:15Z"
+  },
+  {
+    "title": "Usha Vance\u2019s Brain Reboots After Question About MAGA Support",
+    "description": "Usha Vance was caught off guard by a question during a recent interview on NBC, which aimed to find out just how supportive she is of the \u201cMake America Great Again\u201d agenda of President Donald Trump and her husband, Vice President JD Vance. The interview, cond\u2026",
+    "link": "https://hiphopwired.com/3049958/osha-vance-paralyzed-by-question-of-support-for-maga/",
+    "timestamp": "2026-03-31T19:20:47Z"
+  },
+  {
+    "title": "On reopening the Strait of Hormuz, Trump tries to shift responsibility away from US",
+    "description": "As oil and gas prices soar amid Iran's stranglehold on the Strait of Hormuz, President Trump is now suggesting it's not the U.S.'s problem to solve.",
+    "link": "https://abcnews.com/Politics/reopening-strait-hormuz-trump-shift-responsibility-us/story?id=131579105",
+    "timestamp": "2026-03-31T19:20:34Z"
+  },
+  {
+    "title": "Federal judge temporarily blocks further demolition of the White House for Trump's ballroom",
+    "description": "A federal judge in Washington, D.C., has issued an order temporarily blocking the further demolition of the East Wing of the White House and the construction of President Donald Trump's expansive new ballroom.\u201cI have concluded that the National Trust is likel\u2026",
+    "link": "https://www.nbcnews.com/politics/trump-administration/federal-judge-temporarily-blocks-demolition-white-house-trumps-ballroo-rcna266095",
+    "timestamp": "2026-03-31T19:19:38Z"
+  },
+  {
+    "title": "Judge blocks Trump White House ballroom project for now",
+    "description": "The National Trust for Historic Preservation in the United States sued President Trump and the National Park Service over the White House ballroom project.",
+    "link": "https://www.cnbc.com/2026/03/31/trump-white-house-ballroom-judge.html",
+    "timestamp": "2026-03-31T19:18:56Z"
+  },
+  {
+    "title": "Federal judge orders halt to White House ballroom construction",
+    "description": "The judge said Trump can't build it without authorization from Congress.",
+    "link": "https://abcnews.com/Politics/federal-judge-orders-halt-white-house-ballroom-construction/story?id=131587116",
+    "timestamp": "2026-03-31T19:16:15Z"
+  },
+  {
+    "title": "Who is Tiger Woods' girlfriend? What to know after golfer's DUI arrest",
+    "description": "A charging affidavit reveals new Tiger Woods Florida arrest details. Woods dates Vanessa Trump, mother of Kai Trump, the president's granddaughter.",
+    "link": "https://www.palmbeachpost.com/story/news/local/2026/03/31/tiger-woods-arrested-florida-girlfriend-vanessa-trump/89398831007/",
+    "timestamp": "2026-03-31T19:15:24Z"
+  },
+  {
+    "title": "'This Is a Hiring Recession': Economists Raise Red Flags at Latest Gloomy Data in Trump Economy",
+    "description": "New data from the US Bureau of Labor Statistics released on Tuesday continued to show weakness in the American jobs market.The latest Job Openings and Labor Turnover Survey (JOLTS) shows that the number of new hires in February decreased to 4.8 million, which\u2026",
+    "link": "https://www.commondreams.org/news/trump-economy-hiring-rate",
+    "timestamp": "2026-03-31T19:15:11Z"
+  },
+  {
+    "title": "Casey Means May Be Too Kooky Even for Republicans",
+    "description": "Wellness influencer Casey Means has yet to advance in the Senate a month after her hearing as Republicans seem torn on her nomination as surgeon general.",
+    "link": "http://nymag.com/intelligencer/article/casey-meanss-surgeon-general-nomination-is-stalling-out.html",
+    "timestamp": "2026-03-31T19:13:10Z"
+  },
+  {
+    "title": "Judge Blocks Construction Of Donald Trump\u2019s White House Ballroom",
+    "description": "A federal judge has blocked Donald Trump from proceeding on his proposed ballroom without \u201cexpress authorization from Congress.\u201d U.S. District Judge Richard Leon prohibited \u201cany further demolition, site preparation work, landscape alteration, excavation, foun\u2026",
+    "link": "http://deadline.com/2026/03/trump-white-house-ballroom-blocked-1236770176/",
+    "timestamp": "2026-03-31T19:11:46Z"
+  },
+  {
+    "title": "Trump Reveals He Spoke to Tiger Woods After His DUI Arrest \u2014 Expresses Sympathy for Golf Legend: \u2018He Lives a Life of Pain\u2019",
+    "description": "President Donald Trump revealed he spoke to Tiger Woods following his rollover DUI crash and expressed sympathy for the golf legend who \"lives a life of pain.\"\nThe post Trump Reveals He Spoke to Tiger Woods After His DUI Arrest \u2014 Expresses Sympathy for Golf L\u2026",
+    "link": "https://www.mediaite.com/media/news/trump-reveals-he-spoke-to-tiger-woods-after-his-dui-arrest-expresses-sympathy-for-golf-legend-he-lives-a-life-of-pain/",
+    "timestamp": "2026-03-31T19:11:44Z"
+  },
+  {
     "title": "Citing First Amendment, federal judge blocks Trump order to end funding for NPR and PBS",
     "description": "Trump's NPR and PBS funding block ruling cites First Amendment protections as court halts executive order targeting public broadcasters over alleged bias.",
     "link": "https://indianexpress.com/article/world/us-news/us-judge-blocks-trump-npr-pbs-defunding-first-amendment-ruling-10612324/",
@@ -184,383 +574,5 @@
     "description": "Bryon Noem reportedly dressed up as a woman online and engaged with \"bimbofication\" models online.",
     "link": "https://www.huffpost.com/entry/kristi-noem-asking-for-privacy-after-its-revealed-her-husband-dresses-up-as-a-woman-online_n_69cc003be4b039d10fc749fb",
     "timestamp": "2026-03-31T18:42:40Z"
-  },
-  {
-    "title": "3 FBI agents fired after investigating Trump file class action suit alleging retribution campaign",
-    "description": "The three agents were fired last October and November in what they say was a \"retribution campaign\" targeting them for their work on the investigation into Trump.",
-    "link": "https://www.pbs.org/newshour/nation/3-fbi-agents-fired-after-investigating-trump-file-class-action-suit-alleging-retribution-campaign",
-    "timestamp": "2026-03-31T18:41:24Z"
-  },
-  {
-    "title": "Hillary Clinton 2028 comeback? What she just said has everyone talking",
-    "description": "Hillary Clinton addressed rumors of a 2028 presidential run, calling herself a \"plausible candidate\" but stating she is not planning to run. She expressed optimism about the Democratic party's \"good bench\" of potential candidates, citing a perceived decline i\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/hillary-clinton-2028-comeback-what-she-just-said-has-everyone-talking/articleshow/129934056.cms",
-    "timestamp": "2026-03-31T18:40:04Z"
-  },
-  {
-    "title": "Federal Judge Blocks Trump Executive Order Defunding NPR, PBS",
-    "description": "A federal judge on Tuesday ruled that President Donald Trump\u2019s executive order defunding NPR/PBS was \u201cunlawful and unenforceable,\u201d\u00a0blocking the order\u2019s implementation.",
-    "link": "https://www.thewrap.com/media-platforms/journalism/federal-judge-blocks-trump-executive-order-defunding-npr-pbs/",
-    "timestamp": "2026-03-31T18:38:42Z"
-  },
-  {
-    "title": "Amnesty warns of 'huge' human rights risks at 2026 World Cup",
-    "description": "LONDON, March 31 : Millions of fans heading to the 2026 World Cup face significant human rights risks, Amnesty International said, warning that the tournament is drifting far from the \"safe, free and inclusive\" event originally promised by world soccer's gove\u2026",
-    "link": "https://www.channelnewsasia.com/sport/amnesty-warns-huge-human-rights-risks-2026-world-cup-6029246",
-    "timestamp": "2026-03-31T18:38:10Z"
-  },
-  {
-    "title": "Dow soars as Trump suggests Iran war may end without reopening Strait of Hormuz",
-    "description": "Trump urged other countries to \"go to the Strait, and just TAKE IT.\"",
-    "link": "https://abcnews.com/Business/dow-soars-950-points-after-trump-suggests-us/story?id=131582284",
-    "timestamp": "2026-03-31T18:37:22Z"
-  },
-  {
-    "title": "A global jet fuel shortage is raising the cost of air travel",
-    "description": "American flyers still smarting from interminable airport security lines are about to get another shock",
-    "link": "https://www.nbcnews.com/business/travel/global-jet-fuel-shortage-raising-cost-air-travel-iran-war-rcna265990",
-    "timestamp": "2026-03-31T18:33:55Z"
-  },
-  {
-    "title": "\u2018I throw it out the [bleeping] window\u2019: Watch left-wing DoorDash driver vow to dump food ordered by Trump supporters",
-    "description": "Man later posts video reporting company that 'supports MAGA heavily' fired him",
-    "link": "https://www.wnd.com/2026/03/i-throw-it-bleeping-window-left-wing-doordash/",
-    "timestamp": "2026-03-31T18:33:32Z"
-  },
-  {
-    "title": "No Kings is taking back Americana",
-    "description": "\"I was hoping we were going to have a bigger crowd than this, especially with the nice weather and everything,\" Michael Maria told me. \"I'm a little disappointed because the last march, I think there were about 10 times as many people at this time of day.\" At\u2026",
-    "link": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana",
-    "timestamp": "2026-03-31T18:31:41Z"
-  },
-  {
-    "title": "Trump shares a look at his future presidential library. Here's what to know about it",
-    "description": "Trump posted the first architectural renderings of his future presidential library, planned for a prime plot of land donated by Miami Dade College.",
-    "link": "https://www.npr.org/2026/03/31/nx-s1-5768094/trump-presidential-library-renderings-miami",
-    "timestamp": "2026-03-31T18:29:45Z"
-  },
-  {
-    "title": "Trump\u2019s Executive Order To Restrict Federal Funding To NPR And PBS Violated Constitution, Judge Rules",
-    "description": "A federal judge blocked Donald Trump\u2019s executive order that prohibited federal agencies from providing funding to NPR and PBS. U.S. District Judge Randolph Moss, in a ruling issued on Tuesday, wrote that the president\u2019s executive order \u201csingles out two speake\u2026",
-    "link": "http://deadline.com/2026/03/trump-order-pbs-npr-judge-ruling-1236770124/",
-    "timestamp": "2026-03-31T18:28:52Z"
-  },
-  {
-    "title": "New Trump Rule Would Let Private Equity, Crypto \u2018Endanger Retirement Savings of Millions'",
-    "description": "US President Donald Trump's Labor Department on Monday unveiled a proposal that would welcome private equity and cryptocurrency investments into Americans' 401(k) plans, the culmination of an aggressive Wall Street lobbying push that could leave the retiremen\u2026",
-    "link": "https://www.commondreams.org/news/private-equity-401k-plans",
-    "timestamp": "2026-03-31T18:28:08Z"
-  },
-  {
-    "title": "Trump Admin Unlawfully Revoked Migrants\u2019 Legal Status Using Biden-Era App, Federal Judge Finds",
-    "description": "A federal judge has ruled that Trump's administration unlawfully revoked the legal status of migrants who used a Biden-era app to live temporarily in the U.S.\nThe post Trump Admin Unlawfully Revoked Migrants\u2019 Legal Status Using Biden-Era App, Federal Judge Fi\u2026",
-    "link": "https://www.mediaite.com/politics/trump/trump-admin-unlawfully-revoked-migrants-legal-status-using-biden-era-app-federal-judge-finds/",
-    "timestamp": "2026-03-31T18:26:11Z"
-  },
-  {
-    "title": "Judge blocks Trump order to end funding for NPR and PBS",
-    "description": "A federal judge has agreed to permanently block the Trump administration from implementing a presidential directive to end federal funding for National Public Radio and the Public Broadcasting Service.U.S. District Judge Randolph Moss in Washington ruled Tues\u2026",
-    "link": "https://apnews.com/article/trump-npr-pbs-funding-executive-order-fbd9500e5f7400deab84ead188c35694",
-    "timestamp": "2026-03-31T18:23:25Z"
-  },
-  {
-    "title": "Judge blocks Trump's executive order to end federal funding for PBS and NPR",
-    "description": "A federal judge agreed to permanently block the Trump administration from implementing a presidential directive to end federal funding for NPR and PBS.",
-    "link": "https://www.pbs.org/newshour/nation/judge-blocks-trumps-executive-order-to-end-federal-funding-for-pbs-and-npr",
-    "timestamp": "2026-03-31T18:21:56Z"
-  },
-  {
-    "title": "Judge blocks Trump order to end funding for National Public Radio and Public Broadcasting Service",
-    "description": "A federal judge has agreed to permanently block the Trump administration from implementing a presidential directive to end federal funding for National Public Radio and the Public Broadcasting Service.U.S. District Judge Randolph Moss in Washington ruled Tues\u2026",
-    "link": "https://www.seattlepi.com/entertainment/article/judge-blocks-trump-order-to-end-funding-for-22162473.php",
-    "timestamp": "2026-03-31T18:21:35Z"
-  },
-  {
-    "title": "Bruce Blakeman cuts into Hochul\u2019s lead in NY governor race: Siena poll",
-    "description": "Republican Bruce Blakeman is chipping away at Democratic incumbent Kathy Hochul\u2019s lead in the race for governor, a new independent poll reveals. Hochul\u2019s lead over Blakeman, the current Nassau County executive, plunged from 20 percentage points to 13 points a\u2026",
-    "link": "https://nypost.com/2026/03/31/us-news/bruce-blakeman-cuts-into-hochuls-lead-in-ny-governor-race-siena-poll/",
-    "timestamp": "2026-03-31T18:19:34Z"
-  },
-  {
-    "title": "Karoline Leavitt\u2019s \u2018Performative\u2019 Intro At Press Briefing Angers Observers",
-    "description": "Critics say the White House press secretary crossed the line in her greeting to journalists.",
-    "link": "https://www.huffpost.com/entry/karoline-leavitt-amen-team-prayer-christ-savior_n_69cbe7ece4b01f52788b0083",
-    "timestamp": "2026-03-31T18:15:54Z"
-  },
-  {
-    "title": "DEI-obsessed 'Captain Marvel' star puts away politics, embraces video games: 'What was I thinking?'",
-    "description": "Actress Brie Larson is wondering why she bothered with politics in the first place.Once outspoken about the Donald Trump administration \u2014 and known for condemning \u201cwhite dude[s]\u201d who criticized her films \u2014 Larson now appears to have found a different focus.'W\u2026",
-    "link": "https://www.theblaze.com/align/brie-larson-woke-super-mario",
-    "timestamp": "2026-03-31T18:15:00Z"
-  },
-  {
-    "title": "Trump attending opening night of 'Chicago' the musical at the Kennedy Center",
-    "description": "President Donald Trump drew mostly applause as he greeted the crowd on the opening night of the musical \u201cChicago\u201d at the Kennedy Center on Tuesday night.",
-    "link": "https://www.ksat.com/news/politics/2026/03/31/trump-attending-opening-night-of-chicago-the-musical-at-the-kennedy-center/",
-    "timestamp": "2026-03-31T18:14:39Z"
-  },
-  {
-    "title": "Government needs to keep some \u2018firepower\u2019 in reserve during energy crisis, says Taoiseach",
-    "description": "Shannon Airport \u2018is not used as a base for the Middle East war\u2019 by the US, Miche\u00e1l Martin says",
-    "link": "https://www.irishtimes.com/politics/2026/03/31/government-needs-to-keep-some-firepower-in-reserve-during-energy-crisis-says-taoiseach/",
-    "timestamp": "2026-03-31T18:12:19Z"
-  },
-  {
-    "title": "California\u2019s High Desert Is Rich With Natural and Artistic Beauty\u2014All Amplified by a Budding Art\u00a0Fair",
-    "description": "The High Desert Art Fair's fifth edition brought twenty exhibitors together at the Pioneertown Motel last weekend. Dealers reported brisk sales.",
-    "link": "https://www.artnews.com/art-news/market/california-high-desert-art-fair-1234779441/",
-    "timestamp": "2026-03-31T18:08:48Z"
-  },
-  {
-    "title": "US-Israel launch major attacks as Iranian authorities maintain defiance",
-    "description": "Bunker-buster bombs trigger massive secondary explosions at a mountainous area near Isfahan overnight.",
-    "link": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance",
-    "timestamp": "2026-03-31T18:07:51Z"
-  },
-  {
-    "title": "Hegseth allegedly tried to invest in defense fund ahead of Iran war",
-    "description": "A new report alleges Hegseth\u2019s broker attempted to investment in defense companies prior to Iran war.",
-    "link": "https://www.salon.com/2026/03/31/hegseth-allegedly-tried-to-invest-in-defense-fund-ahead-of-iran-war/",
-    "timestamp": "2026-03-31T18:04:28Z"
-  },
-  {
-    "title": "Did Kristi Noem & Corey Lewandowski Really Have an Affair Before She Was Fired From DHS?",
-    "description": "The now-former Secretary of Homeland Security and her top advisor have denied affair rumors for years, but it became a major topic of discussion right before Noem was removed from the DHS.",
-    "link": "https://hollywoodlife.com/2026/03/31/did-kristi-noem-corey-lewandowski-have-an-affair/",
-    "timestamp": "2026-03-31T18:04:17Z"
-  },
-  {
-    "title": "Will Senate confirm Dr. Casey Means fast? #health",
-    "description": "What\u2019s happening with the surgeon general nomination The White House is urging the Senate to move quickly on Dr. Casey Means\u2019 nomination to become the U.S. surgeon general, asking lawmakers to confirm her \u201cwithout further delay.\u201d The push comes amid signs of \u2026",
-    "link": "https://alltoc.com/health/will-senate-confirm-dr-casey-means-fast",
-    "timestamp": "2026-03-31T18:03:48Z"
-  },
-  {
-    "title": "Why did fired FBI agents sue over Trump firings? #politics",
-    "description": "Fired FBI agents sued over alleged political retaliation Three former FBI special agents who worked criminal cases involving President Donald Trump filed a class action lawsuit claiming they were unlawfully ousted as retaliation. The agents say the firings we\u2026",
-    "link": "https://alltoc.com/politics/why-did-fired-fbi-agents-sue-over-trump-firings",
-    "timestamp": "2026-03-31T18:03:07Z"
-  },
-  {
-    "title": "Middle Schooler Quizzes Scott Bessent On Financial Literacy And Trump Accounts",
-    "description": "A middle school girl asked Treasury Secretary Scott Bessent for tips on financial literacy during a roundtable discussion on Tuesday.",
-    "link": "https://dailycaller.com/2026/03/31/middle-schooler-scott-bessent-financial-literacy-trump-accounts/",
-    "timestamp": "2026-03-31T18:01:01Z"
-  },
-  {
-    "title": "Dem lawmaker sparks online firestorm after saying Iryna Zarutska mural doesn\u2019t align with city\u2019s values",
-    "description": "Rhode Island state Rep. David Morales faces backlash after claiming a mural honoring murdered Ukrainian Iryna Zarutska does not reflect Providence's values.",
-    "link": "https://www.foxnews.com/politics/dem-lawmaker-sparks-online-firestorm-after-saying-iryna-zarutska-mural-doesnt-align-citys-values",
-    "timestamp": "2026-03-31T18:00:50Z"
-  },
-  {
-    "title": "Petrol and diesel hikes: Government pushes the same old fix in a worsening climate crisis",
-    "description": "As prices rise at the pumps, the Government should be changing course on fossil fuel use to secure our future, but instead it\u2019s doubling down with subsidies.",
-    "link": "https://www.thejournal.ie/readme/iran-war-fossil-fuels-6999209-Mar2026/",
-    "timestamp": "2026-03-31T18:00:05Z"
-  },
-  {
-    "title": "Tiger Woods' DUI Arrest 'Raised Concerns' for 'Fuming' Girlfriend Vanessa Trump's Ex Donald Jr. \u2014 As She Gives Golf Icon 'Brutal Ultimatum'",
-    "description": "Tiger Woods' DUI arrest is said to have sparked concern from Donald Trump Jr.",
-    "link": "https://radaronline.com/p/tiger-woods-dui-arrest-concerns-vanessa-trump-ex-donald-trump-jr/",
-    "timestamp": "2026-03-31T18:00:00Z"
-  },
-  {
-    "title": "$150 Oil Could Tip World Economy Into Recession",
-    "description": "The world economy is heading for a \u201crare\u201d recession in the middle of this year as a prolonged war seems likely amid the prospect of US troops heading to the Middle East.\u00a0 Economists have warned that activity will fall in the middle of the year if oil prices s\u2026",
-    "link": "https://oilprice.com/Energy/Energy-General/150-Oil-Could-Tip-World-Economy-Into-Recession.html",
-    "timestamp": "2026-03-31T18:00:00Z"
-  },
-  {
-    "title": "How many times has the EU screwed itself over in the past year?",
-    "description": "From selling out to the US to admitting green-power failures to aiding the war on Iran, the EU is wearing out its knee pads at a record pace Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/636859-eu-screwed-itself-over/",
-    "timestamp": "2026-03-31T17:59:37Z"
-  },
-  {
-    "title": "Why is the US stock market up today? Dow Jones soars 900 points, Nasdaq spikes 3% in powerful rebound as S&P 500 turns green - Here's Top Gainers Today in US Stock Market",
-    "description": "Why is the US stock market up today? Dow surges 900+ points as S&P 500 and Nasdaq explode in massive rally. This US stock market rally today comes as easing Iran tensions, falling oil prices, and lower bond yields boost confidence. Investors are rushing back \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/why-is-the-us-stock-market-up-today-dow-jones-soars-900-points-nasdaq-spikes-3-in-powerful-rebound-as-sp-500-turns-green-heres-top-gainers-today-in-us-stock-market/articleshow/129933853.cms",
-    "timestamp": "2026-03-31T17:59:01Z"
-  },
-  {
-    "title": "Tiger Woods had 2 hydrocodone pills with him at time of rollover crash: Documents",
-    "description": "No one was injured in the Friday afternoon crash, authorities said.",
-    "link": "https://abcnews.com/US/tiger-woods-bloodshot-glassy-eyes-extremely-dilated-pupils/story?id=131569779",
-    "timestamp": "2026-03-31T17:58:19Z"
-  },
-  {
-    "title": "French far right goes after Trump, Big Oil amid spiraling energy crisis",
-    "description": "The National Rally is flogging its cost-of-living agenda ahead of next year's presidential election.",
-    "link": "https://www.politico.eu/article/france-far-right-national-rally-donald-trump-oil-energy-crisis/",
-    "timestamp": "2026-03-31T17:57:49Z"
-  },
-  {
-    "title": "Trump Presidential Library To Feature Solemn 'Reflecting Pool' Of Liberal Tears",
-    "description": "MIAMI, FL \u2014 As depicted in an exciting presentation of computer renderings of its breathtaking design, the proposed Donald J. Trump Presidential Library is set to feature a solemn &#34;reflecting pool&#34; filled with liberal tears.",
-    "link": "https://babylonbee.com/news/trump-presidential-library-to-feature-solemn-reflecting-pool-of-liberal-tears",
-    "timestamp": "2026-03-31T17:56:05Z"
-  },
-  {
-    "title": "Trump says Tiger Woods 'lives a life of pain' after DUI arrest as affidavit reveals pills found",
-    "description": "President Donald Trump says Tiger Woods \"lives a life of pain\" after the golfer's DUI arrest in Jupiter Island, adding that the golfer \"doesn\u2019t have an alcohol problem.\"",
-    "link": "https://www.foxnews.com/sports/trump-says-tiger-woods-lives-life-pain-dui-arrest-affidavit-reveals-pills-found",
-    "timestamp": "2026-03-31T17:54:29Z"
-  },
-  {
-    "title": "DeSantis signs bill to rename Palm Beach airport after Trump",
-    "description": "Florida Gov. Ron DeSantis signed a bill Monday allowing Palm Beach International Airport to be renamed the President Donald J. Trump International Airport.",
-    "link": "https://www.pbs.org/newshour/nation/desantis-signs-bill-to-rename-palm-beach-airport-after-trump",
-    "timestamp": "2026-03-31T17:53:30Z"
-  },
-  {
-    "title": "Ted Cruz Pens Scathing Letter to Trump FCC Chief For Greenlighting Unprecedented Media Merger",
-    "description": "Cruz, a close Trump ally, taking aim at Carr is particularly notable given Carr\u2019s close relationship to both President Donald Trump\nThe post Ted Cruz Pens Scathing Letter to Trump FCC Chief For Greenlighting Unprecedented Media Merger first appeared on Mediai\u2026",
-    "link": "https://www.mediaite.com/media/news/ted-cruz-pens-scathing-letter-to-trump-fcc-chief-for-greenlighting-unprecedented-media-merger/",
-    "timestamp": "2026-03-31T17:50:43Z"
-  },
-  {
-    "title": "ICE Barbie Kristi Noem Begs for Prayers as Husband Bryon's Sick Fetish Exposed",
-    "description": "ICE Barbie Kristi Noem Begs for Prayers as Husband Bryon's Sick Fetish Exposedthedailybeast.com",
-    "link": "https://www.thedailybeast.com/ice-barbie-kristi-noem-begs-for-prayers-as-husband-bryons-sick-fetish-exposed/",
-    "timestamp": "2026-03-31T17:48:58Z"
-  },
-  {
-    "title": "Trump attending opening night of 'Chicago' the musical at the Kennedy Center",
-    "description": "President Donald Trump is attending the opening night of the musical \u201cChicago\u201d at the Kennedy Center on Tuesday night",
-    "link": "https://abcnews.com/Entertainment/wireStory/trump-attending-opening-night-chicago-musical-kennedy-center-131582256",
-    "timestamp": "2026-03-31T17:47:32Z"
-  },
-  {
-    "title": "Profanity-fueled social media posts heat up Arkansas Republican runoff for secretary of state",
-    "description": "Arkansas' GOP secretary of state runoff features an outsider vs. establishment clash, with Norris and Kim Hammer both touting support for Trump.",
-    "link": "https://www.foxnews.com/politics/profanity-fueled-social-media-posts-heat-up-arkansas-republican-runoff-secretary-state",
-    "timestamp": "2026-03-31T17:45:47Z"
-  },
-  {
-    "title": "Joe Rogan Claims Trump Was 'Tricked' Into Attacking Iran \u2014 And Accuses Prez's Administration of Not Giving Him 'Complete Picture' of War",
-    "description": "Joe Rogan has now claimed the president has not received the 'full picture' of the war in Iran, and his team is to blame.",
-    "link": "https://radaronline.com/p/joe-rogan-claims-trump-tricked-into-attacking-iran-war/",
-    "timestamp": "2026-03-31T17:45:00Z"
-  },
-  {
-    "title": "Kid Rock Triggers Military Investigation After Helicopter Stunt at Home",
-    "description": "The United States Army has launched an official investigation after military helicopters were seen near Kid Rock\u2019s Tennessee home. \u201cThe Army is aware of a video circulating online that appears to show AH\u201164 Apache helicopters operating in the vicinity of a pr\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/kid-rock-triggers-investigation-after-helicopters-stunt/",
-    "timestamp": "2026-03-31T17:43:21Z"
-  },
-  {
-    "title": "Gulf allies privately make case to keep fighting until Iran is decisively defeated",
-    "description": "Saudi Arabia, the United Arab Emirates and other Gulf allies of the United States are urging President Donald Trump to keep prosecuting his war against Iran, saying the month of strikes has not weakened Tehran enough.",
-    "link": "https://www.pbs.org/newshour/world/gulf-allies-privately-make-case-to-keep-fighting-until-iran-is-decisively-defeated",
-    "timestamp": "2026-03-31T17:43:08Z"
-  },
-  {
-    "title": "Justice\u00a0for Steve Calk",
-    "description": "As his\u00a0father\u00a0sailed\u00a0before him,\u00a0and his son\u00a0marches\u00a0behind him, Stephen M. Calk, Sr. served America in uniform. He was a U.S.\u00a0Army helicopter pilot. Amid\u00a0a highly successful banking career,... Read More\nThe post Justice\u00a0for Steve Calk appeared first on The D\u2026",
-    "link": "https://www.dailysignal.com/2026/03/31/justice-for-steve-calk/",
-    "timestamp": "2026-03-31T17:38:58Z"
-  },
-  {
-    "title": "Trump's Endangered Species Committee exempts oil and gas drilling in the Gulf from rules",
-    "description": "Critics say the move could doom a rare whale species and harm other marine life. Nicknamed the \"God Squad\" by groups who say it can decide a species' fate, the committee comprises several Trump administration officials.",
-    "link": "https://www.pbs.org/newshour/science/trumps-endangered-species-committee-exempts-oil-and-gas-drilling-in-the-gulf-from-rules",
-    "timestamp": "2026-03-31T17:36:59Z"
-  },
-  {
-    "title": "Inside Tiger Woods\u2019 exclusive Florida community \u2014 where residents reel from golfer\u2019s DUI crash",
-    "description": "Woods\u00a0was arrested on suspicion of driving under the influence after he was involved in a terrifying car accident near his\u00a0Florida\u00a0home on March 27.",
-    "link": "https://www.realtor.com/news/sports/tiger-woods-jupiter-island-home-dui-crash-arrest/",
-    "timestamp": "2026-03-31T17:35:42Z"
-  },
-  {
-    "title": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
-    "description": "Iran says it will target Apple, Google, and Microsoft, among others.",
-    "link": "https://gizmodo.com/iran-threatens-to-attack-u-s-tech-companies-starting-april-1-2000740363",
-    "timestamp": "2026-03-31T17:35:24Z"
-  },
-  {
-    "title": "Trump is handcuffing his 'Stop the Steal' lawyer from seeing classified documents: report",
-    "description": "Donald Trump\u2019s obsession with proving that the 2020 presidential election was stolen from him apparently has some limits, the Wall Street Journal is reportingAccording to the Journal's report, the White House has been pursuing an elaborate investigation into \u2026",
-    "link": "https://www.rawstory.com/stop-the-steal-kurt-olson/",
-    "timestamp": "2026-03-31T17:33:26Z"
-  },
-  {
-    "title": "Dalai Lama Backs Pope Leo\u2019s Call for Peace Amid Growing Rift with Trump Admin",
-    "description": "The Dalai Lama on Tuesday joined Pope Leo XIV in his call for peace and criticism of the U.S. and Israel's war against Iran.\nThe post Dalai Lama Backs Pope Leo\u2019s Call for Peace Amid Growing Rift with Trump Admin first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/dalai-lama-backs-pope-leos-call-for-peace-amid-growing-rift-with-trump-admin/",
-    "timestamp": "2026-03-31T17:32:32Z"
-  },
-  {
-    "title": "The Promise of 'Woke 2' Is Fueling a Leftist Fever Dream",
-    "description": "Progressives are dreaming about a new political order that rights the wrongs of the Trump administration and the shortcomings of \u201cWoke 1.\u201d Does it have a shot?",
-    "link": "https://www.wired.com/story/the-promise-of-woke-2-is-fueling-a-leftist-fever-dream/",
-    "timestamp": "2026-03-31T17:32:20Z"
-  },
-  {
-    "title": "President Trump weighs in on Tiger Woods\u2019 \u2018life of pain,\u2019 DUI arrest",
-    "description": "President Donald J. Trump spoke to golf legend Tiger Woods since his DUI arrest and said he is \u201cdoing great,\u201d the New York Post reported on Tuesday, March 31. In an exclusive phone interview with the newspaper, Trump addressed the\u2026",
-    "link": "https://www.thebiglead.com/president-trump-weighs-in-on-tiger-woods-life-of-pain-dui-arrest/",
-    "timestamp": "2026-03-31T17:32:17Z"
-  },
-  {
-    "title": "Minnesota man who pocketed cash in kids\u2019 meal scheme gets prison time despite 'I'm sorry' apology",
-    "description": "A Minnesota man was sentenced to one year in prison for his role in the Feeding Our Future fraud scheme, which the DOJ claims stole millions from a child nutrition program.",
-    "link": "https://www.foxnews.com/politics/minnesota-man-who-pocketed-cash-kids-meal-scheme-gets-prison-time-despite-im-sorry-apology",
-    "timestamp": "2026-03-31T17:31:14Z"
-  },
-  {
-    "title": "Anarchists at the 2026 No Kings Rallies : Reports from around the Country",
-    "description": "Reports from anarchists who engaged with the March 28, 2026 No Kings rallies.",
-    "link": "https://crimethinc.com/2026/03/31/anarchists-at-the-2026-no-kings-rallies-reports-from-around-the-country",
-    "timestamp": "2026-03-31T17:30:51Z"
-  },
-  {
-    "title": "President Trump Has Unveiled Plans for $1 B. Presidential Library Skyscraper in\u00a0Miami",
-    "description": "President Donald Trump posted a short video to Truth Social unveiling a rendering of his planned Donald J. Trump Presidential Library in Miami.",
-    "link": "https://www.artnews.com/art-news/news/president-trump-plans-presidential-library-skyscraper-miami-1234779509/",
-    "timestamp": "2026-03-31T17:30:43Z"
-  },
-  {
-    "title": "Oil Prices Hit Multi-Year High Amid Persian Gulf Tensions",
-    "description": "Oil markets closed Friday, March 27, at their highest level in more than three years, as diplomatic maneuvers by U.S. President Donald Trump failed to calm persistent fears over the security of Middle Eastern supplies.",
-    "link": "https://www.shtfplan.com/headline-news/oil-prices-hit-multi-year-high-amid-persian-gulf-tensions",
-    "timestamp": "2026-03-31T17:30:21Z"
-  },
-  {
-    "title": "Sen. John Fetterman bashes US media, says press is helping Iran with \u2018selective coverage\u2019 of Operation Epic Fury",
-    "description": "\"The media\u2019s selective coverage rewards and reinforces Iran\u2019s strategy,\" the Pennsylvania Democrat said.",
-    "link": "https://nypost.com/2026/03/31/us-news/sen-john-fetterman-bashes-us-media-says-press-is-helping-iran-with-selective-coverage-of-operation-epic-fury/",
-    "timestamp": "2026-03-31T17:27:36Z"
-  },
-  {
-    "title": "Trump is not just sinking in the Gulf (Edward Luce/Financial Times)",
-    "description": "Edward Luce / Financial Times:\nTrump is not just sinking in the Gulf\u00a0 \u2014\u00a0 As his poll numbers tank, the president's trade and immigration agendas are encountering judicial resistance too\u00a0 \u2014\u00a0 \u201cHow many of you would like to see impeachment hearings [of Donald Tr\u2026",
-    "link": "https://www.memeorandum.com/260331/p89",
-    "timestamp": "2026-03-31T17:25:01Z"
-  },
-  {
-    "title": "More key US allies block military flights as Iran war rift widens with Trump",
-    "description": "President Donald Trump blasted France, Spain, Italy, and the U.K. on Truth Social, criticizing their refusal to support U.S. military operations tied to the war with Iran.",
-    "link": "https://www.foxnews.com/world/more-key-us-allies-block-military-flights-iran-war-rift-widens-trump",
-    "timestamp": "2026-03-31T17:24:54Z"
-  },
-  {
-    "title": "Left-Winger Says He\u2019ll Destroy Food Ordered By Trump Supporters, Whines When DoorDash Drops Him",
-    "description": "A left-wing delivery driver complained about being dumped by DoorDash after posting a video saying he would toss orders from Trump supporters \u201cout the window.\u201d",
-    "link": "https://dailycaller.com/2026/03/31/left-winger-says-hell-destroy-food-ordered-by-trump-supporters-whines-when-doordash-drops-him/",
-    "timestamp": "2026-03-31T17:24:03Z"
-  },
-  {
-    "title": "Oh Look MORE Evidence Corroborates A Epstein/Trump Child-Accuser's Story",
-    "description": "And more on Epstein's enablers from Spago to Africa.",
-    "link": "https://www.wonkette.com/p/oh-look-more-evidence-corroborates",
-    "timestamp": "2026-03-31T17:23:30Z"
-  },
-  {
-    "title": "Trump\u2019s threat against Iran desalination plants would be a war crime, legal experts say",
-    "description": "WASHINGTON \u2013 On Monday, President Donald Trump threatened to destroy all desalination plants in Iran. Strikes on water infrastructure relied on by civilians would violate international law, legal experts say. Unless a plant supplies water only to a military b\u2026",
-    "link": "https://smallwarsjournal.com/2026/03/31/trump-iran-water-desalination-war-crime/",
-    "timestamp": "2026-03-31T17:22:46Z"
   }
 ]
