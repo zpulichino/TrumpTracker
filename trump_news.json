@@ -1,5 +1,479 @@
 [
   {
+    "title": "EXCLUSIVE: Border Officials Slap Cuffs On Five Fugitives",
+    "description": "Customs and Border Protection agents along the southern border arrested five people wanted on serious felony charges abroad and in the U.S. in less than a week.",
+    "link": "https://dailycaller.com/2026/04/08/cbp-arrests-five-fugitives/",
+    "timestamp": "2026-04-08T14:24:18Z"
+  },
+  {
+    "title": "A New Geopolitical Reality Is Here",
+    "description": "America\u2019s adversaries are uniting as its own coalition falls apart.",
+    "link": "https://www.theatlantic.com/international/2026/04/iran-war-russia-china/686714/",
+    "timestamp": "2026-04-08T14:24:00Z"
+  },
+  {
+    "title": "Evangelical leaders rally for Trump and Israel as Operation Epic Fury reshapes the region",
+    "description": "Evangelical leaders say support for Israel has remained strong during Operation Epic Fury, the joint U.S.-Israel military campaign against Iran, as a new ceasefire takes hold.",
+    "link": "https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region",
+    "timestamp": "2026-04-08T14:23:43Z"
+  },
+  {
+    "title": "Trump Is Already Trying to Spin His Huge Iran Surrender as a Win",
+    "description": "Iran called Donald Trump\u2019s bluff. After spending days threatening to completely annihilate Iran, the U.S. president is suddenly open to giving them a lot of money.In a semi-incoherent post on Truth Social Tuesday evening, Trump called for a two-week ceasefire\u2026",
+    "link": "https://newrepublic.com/post/208763/donald-trump-try-spin-iran-surrender-strait-toll",
+    "timestamp": "2026-04-08T14:23:16Z"
+  },
+  {
+    "title": "Hegseth Says Trump Showed \u2018Mercy\u2019 With Ceasefire In \u2018Devastating\u2019 Defeat Of Iran",
+    "description": "Secretary of War Pete Hegseth said Iran \u201chad enough\u201d as he described how the United States inflicted a \u201cdevastating military defeat\u201d on the Islamic theocracy.",
+    "link": "https://dailycaller.com/2026/04/08/hegseth-says-trump-showed-mercy-with-ceasefire-in-devastating-defeat-of-iran/",
+    "timestamp": "2026-04-08T14:20:11Z"
+  },
+  {
+    "title": "April 7, 2026 \u2014 At 5:06 this morning, President Donald J. Trump posted on social media ... (Heather Cox Richardson/Letters ...)",
+    "description": "Heather Cox Richardson / Letters from an American:\nApril 7, 2026\u00a0 \u2014\u00a0 At 5:06 this morning, President Donald J. Trump posted on social media: \u201cA whole civilization will die tonight, never to be brought back again.\u00a0 I don't want that to happen, but it probably \u2026",
+    "link": "https://www.memeorandum.com/260408/p32",
+    "timestamp": "2026-04-08T14:20:00Z"
+  },
+  {
+    "title": "The 25th Amendment Isn't Coming to Save Us (Dan Pfeiffer/The Message Box)",
+    "description": "Dan Pfeiffer / The Message Box:\nThe 25th Amendment Isn't Coming to Save Us\u00a0 \u2014\u00a0 Trump's deranged behavior has some Democrats selling a fantasy to voters \u2026 Donald Trump has never seemed particularly stable.\u00a0 He's always demonstrated a fleeting grasp on reality \u2026",
+    "link": "https://www.memeorandum.com/260408/p31",
+    "timestamp": "2026-04-08T14:20:00Z"
+  },
+  {
+    "title": "Zcash leads US\u2013Iran ceasefire rally with 30% gains: ZEC price bull trap?",
+    "description": "ZEC's latest rebound resembled bounces witnessed during the 2021 bear market, raising the odds of a 40% correction in the coming weeks.",
+    "link": "https://cointelegraph.com/markets/zcash-us-iran-ceasefire-rally-30percent-gain-zec-price-bull-trap",
+    "timestamp": "2026-04-08T14:19:35Z"
+  },
+  {
+    "title": "Exclusive \u2014 Rep. Burgess Owens Endorses Ken Paxton for Senate in Texas",
+    "description": "Momentum continues to build for Texas Attorney General Ken Paxton\u2019s campaign to unseat longtime Sen. John Cornyn (R-TX) as Rep. Burgess Owens (R-UT) has now endorsed Paxton, Breitbart News can exclusively reveal.\nThe post Exclusive \u2014 Rep. Burgess Owens Endors\u2026",
+    "link": "https://www.breitbart.com/politics/2026/04/08/exclusive-rep-burgess-owens-endorses-ken-paxton-for-senate-in-texas/",
+    "timestamp": "2026-04-08T14:15:41Z"
+  },
+  {
+    "title": "'Lock Yourself Up!': Jimmy Kimmel Uses 'TACO' Trump's Words Against Him After Iran Backdown",
+    "description": "The late night host hit the president with a damning reminder over how he defines a \"war crime.\"",
+    "link": "https://www.huffpost.com/entry/jimmy-kimmel-trump-iran-threat-whole-civilization-will-die_n_69d641bce4b069b1caa51359",
+    "timestamp": "2026-04-08T14:15:24Z"
+  },
+  {
+    "title": "No, Trump is not committing war crimes in Iran (Michael Rubin/Washington Examiner)",
+    "description": "Michael Rubin / Washington Examiner:\nNo, Trump is not committing war crimes in Iran\u00a0 \u2014\u00a0 One hundred legal scholars signed a letter arguing that President Donald Trump's threat to target Iranian power plants and bridges could amount to war crimes if carried ou\u2026",
+    "link": "https://www.memeorandum.com/260408/p30",
+    "timestamp": "2026-04-08T14:15:00Z"
+  },
+  {
+    "title": "White House study bolsters crypto's stance in stablecoin yield fight against bankers",
+    "description": "White House economists said banning rewards wouldn't significantly boost banks' financial health, amplifying the crypto industry view in the Clarity Act debate.",
+    "link": "https://www.coindesk.com/policy/2026/04/08/white-house-study-bolsters-crypto-s-stance-in-stablecoin-yield-fight-against-bankers",
+    "timestamp": "2026-04-08T14:14:51Z"
+  },
+  {
+    "title": "5 US House races shift toward Democrats: Cook Political Report",
+    "description": "Five House districts shift toward Democrats in new Cook Political Report analysis as the GOP and Democrats vie for control of the House during midterms.",
+    "link": "https://www.foxnews.com/politics/5-us-house-races-shift-toward-democrats-cook-political-report",
+    "timestamp": "2026-04-08T14:11:51Z"
+  },
+  {
+    "title": "\u2018Sounds fishy/illegal\u2019: Mamdani to prioritize city resources for \u2018black and brown\u2019 people, feds to \u2018review\u2019",
+    "description": "'New York City's affordability crisis and its history of racial inequity are bound together'",
+    "link": "https://www.wnd.com/2026/04/sounds-fishy-illegal-mamdani-prioritize-city-resources-black/",
+    "timestamp": "2026-04-08T14:07:29Z"
+  },
+  {
+    "title": "Bombers made 18 round-trip flights from the US to strike Iran, each spending more than 30 hours in the air",
+    "description": "All three US Air Force bombers, including B-1s, B-2s, and B-52s, were involved in Operation Epic Fury.",
+    "link": "https://www.businessinsider.com/us-bombers-made-long-round-trip-flights-strike-iran-2026-4",
+    "timestamp": "2026-04-08T14:05:11Z"
+  },
+  {
+    "title": "A Landslide in Wisconsin Will Make It Much Harder for MAGA to Steal Elections",
+    "description": "Tuesday\u2019s Wisconsin Supreme Court election received far less attention than a similar contest a year ago, when Elon Musk spent $25 million trying to flip the balance of power on the court. Back then, the world\u2019s richest man\u2014who, at the time, was also a key Wh\u2026",
+    "link": "https://www.motherjones.com/politics/2026/04/wisconsin-supreme-court-election-chris-taylor-musk-trump/",
+    "timestamp": "2026-04-08T14:03:39Z"
+  },
+  {
+    "title": "The 4 wildest post-ceasefire market moves as investors breathe a sigh of relief",
+    "description": "President Trump announced a ceasefire deal with Iran on Tuesday, sparking a series of wild moves in oil, stocks, and bonds.",
+    "link": "https://www.businessinsider.com/stock-market-today-iran-ceasefire-oil-prices-sp500-rally-2026-4",
+    "timestamp": "2026-04-08T14:03:19Z"
+  },
+  {
+    "title": "Bitcoin recovers as US and Iran Agree a Ceasefire Deal",
+    "description": "Key takeaways BTC is up 4% and is now trading above $71k. The rally could push Bitcoin\u2019s price above $76k for the first time since March 16. Bitcoin and crypto market surge following U.S.-Iran ceasefire announcement Bitcoin (BTC), Ethereum (ETH), and the broa\u2026",
+    "link": "https://coinjournal.net/news/bitcoin-recovers-as-us-and-iran-agree-a-ceasefire-deal/",
+    "timestamp": "2026-04-08T14:01:33Z"
+  },
+  {
+    "title": "Iran Wants Sovereignty Over The Strait Of Hormuz",
+    "description": "Iran has listed a new condition before ending the war with the United States. Tehran is seeking full sovereignty over the Strait of Hormuz. This has not been on Iran\u2019s list prior to yesterday, and Donald Trump, the U.S. president, has told other ruling classe\u2026",
+    "link": "https://www.activistpost.com/iran-wants-sovereignty-over-the-strait-of-hormuz/",
+    "timestamp": "2026-04-08T14:00:00Z"
+  },
+  {
+    "title": "Is the Trump Regime Planning to Restore a Military Draft?",
+    "description": "Jim Bourg, a writer for Reuters for many years., now writes a blog on Substack called Public Impact News. This is a story that I found ominous. Is Trump planning to revive the military draft? Will he begin drafting young men to fight in Iran? Why? In recent y\u2026",
+    "link": "https://dianeravitch.net/2026/04/08/is-the-trump-regime-planning-to-restore-a-military-draft/",
+    "timestamp": "2026-04-08T14:00:00Z"
+  },
+  {
+    "title": "Fox\u2019s General Jack Keane Pours Cold Water on Ceasefire Deal: Iran\u2019s \u2018Very Much in Control\u2019",
+    "description": "Retired Army General Jack Keane dumped cold water all over PresidentTrump's ceasefire deal with Iran, arguing the country is purposefully delaying negotiations.\nThe post Fox\u2019s General Jack Keane Pours Cold Water on Ceasefire Deal: Iran\u2019s \u2018Very Much in Control\u2026",
+    "link": "https://www.mediaite.com/media/tv/foxs-general-jack-keane-pours-cold-water-on-ceasefire-deal-irans-very-much-in-control/",
+    "timestamp": "2026-04-08T13:57:50Z"
+  },
+  {
+    "title": "A U.S.-Iran Ceasefire Is Here, but Trump\u2019s Stone Age Mentality Endures",
+    "description": "A temporary truce can\u2019t erase the chaos of a war that the White House started and never fully understood, Ishaan Tharoor writes.",
+    "link": "https://www.newyorker.com/news/the-lede/a-us-iran-ceasefire-is-here-but-trumps-stone-age-mentality-endures",
+    "timestamp": "2026-04-08T13:57:48Z"
+  },
+  {
+    "title": "Bitcoin Surged Overnight After Iran Ceasefire\u2014This New 'AfterDark' ETF Would've Caught the Move",
+    "description": "Investors gained access to an ETF that\u2019s designed to avoid the U.S. trading session, offering exposure to Bitcoin while Wall Street sleeps.",
+    "link": "https://decrypt.co/363636/bitcoin-surged-overnight-iran-ceasefire-afterdark-etf-wouldve-caught-move",
+    "timestamp": "2026-04-08T13:57:38Z"
+  },
+  {
+    "title": "Stocks roar higher on U.S.-Iran ceasefire news, but plenty of questions remain",
+    "description": "Stocks roared higher after President Trump announced a two-week ceasefire with Iran. Oil prices fell sharply and gas prices are expected to follow.",
+    "link": "https://www.nbcnews.com/business/markets/iran-war-ceasefire-oil-prices-stocks-trump-rcna267229",
+    "timestamp": "2026-04-08T13:56:16Z"
+  },
+  {
+    "title": "Tara Palmeri Tells CNN Her \u2018Core MAGA\u2019 Family Spent Weekend Trashing Trump Over War, Inflation",
+    "description": "Tara Palmeri told CNN anchor Abby Phillip that her \"core MAGA\" family spent Easter weekend trashing Trump over things like the war in Iran and inflation.\nThe post Tara Palmeri Tells CNN Her \u2018Core MAGA\u2019 Family Spent Weekend Trashing Trump Over War, Inflation f\u2026",
+    "link": "https://www.mediaite.com/media/tv/tara-palmeri-tells-cnn-her-core-maga-family-spent-weekend-trashing-trump-over-war-inflation/",
+    "timestamp": "2026-04-08T13:53:44Z"
+  },
+  {
+    "title": "Democrats just locked down control of one of the most important courts in America",
+    "description": "Wisconsin voters effectively gave Democrats a supermajority on one of the most important state supreme courts in the country on Tuesday. The result was a blowout. Justice-elect Chris Taylor defeated Judge Maria Lazar by a twenty-point margin. Although Wiscons\u2026",
+    "link": "https://www.vox.com/politics/485133/wisconsin-supreme-court-democratic-blowout",
+    "timestamp": "2026-04-08T13:51:31Z"
+  },
+  {
+    "title": "'Low IQ Person': Trump Lashes Out At Tucker Carlson Over Military Warning",
+    "description": "Donald J. Trump on Tuesday denied Tucker Carlson\u2019s bombastic reporting that he was considering nuclear war on Iran, blasting the controversial commentator in a phone call with the New York Post like a man swatting away an annoying fly at the golf course, even\u2026",
+    "link": "https://crooksandliars.com/2026/04/low-iq-person-trump-lashes-out-tucker",
+    "timestamp": "2026-04-08T13:51:21Z"
+  },
+  {
+    "title": "\u2018Stone Age\u2019 to \u2018Golden Age\u2019: How the final hours before the truce unfolded",
+    "description": "Frantic diplomacy collides with 'genocidal' threats in lead-up to announcement of two-week ceasefire between US, Iran.",
+    "link": "https://www.aljazeera.com/news/2026/4/8/stone-age-to-golden-age-how-the-final-hours-before-the-truce-unfolded",
+    "timestamp": "2026-04-08T13:51:04Z"
+  },
+  {
+    "title": "Trump is expected to meet with Rutte as he muses about pulling out of NATO",
+    "description": "President Donald Trump has suggested the U.S. may consider leaving the trans-Atlantic alliance after NATO member countries ignored his call to help reopen the Strait of Hormuz, a vital shipping waterway, as Iran effectively shut it and sent gas prices soaring.",
+    "link": "https://www.pbs.org/newshour/world/trump-is-expected-to-meet-with-rutte-as-he-muses-about-pulling-out-of-nato",
+    "timestamp": "2026-04-08T13:50:46Z"
+  },
+  {
+    "title": "Fox\u2019s John Roberts Openly Questions \u2018More Hardline\u2019 Regime Left in Iran After Ceasefire",
+    "description": "Roberts questioned what the peace proposal meant for \u201cfreedom\u201d in Iran as he warned the campaign had left a \u201cmore hardline\u201d regime in charge.\nThe post Fox\u2019s John Roberts Openly Questions \u2018More Hardline\u2019 Regime Left in Iran After Ceasefire first appeared on Me\u2026",
+    "link": "https://www.mediaite.com/media/tv/foxs-john-roberts-openly-questions-more-hardline-regime-left-in-iran-after-ceasefire/",
+    "timestamp": "2026-04-08T13:45:23Z"
+  },
+  {
+    "title": "Networks running scared from Trump at the White House Correspondents Association dinner",
+    "description": "With Donald Trump attending the White House Correspondents Association dinner for the first time as president this month, news networks are fretting about putting their talent in the line of fire, we hear.",
+    "link": "https://pagesix.com/2026/04/08/hollywood/networks-running-scared-from-trump-at-the-white-house-correspondents-association-dinner/",
+    "timestamp": "2026-04-08T13:45:00Z"
+  },
+  {
+    "title": "Trump's Iran war: A reckless gamble taking the US from 'America First' to 'America Alone'",
+    "description": "From apocalyptic threats to the now fragile truce, Trump\u2019s Iran war exposes his erratic leadership and a deeply uneasy US electorate, writes Larry Donnelly.",
+    "link": "https://www.thejournal.ie/readme/trump-iran-ceasefire-7006556-Apr2026/",
+    "timestamp": "2026-04-08T13:42:57Z"
+  },
+  {
+    "title": "Warning of European flight disruption if Hormuz not fully reopened; US claims total military victory and says Iran \u2018begged for ceasefire\u2019",
+    "description": "{\n \"themeId\": \"lct_64772ae4d1d7dec0c5b716ac\",\n \"clientId\": \"64772ae4d1d7dec0c5b716af\",\n \"liveblogId\": \"69a2ae3f1c39bcc5812537fb\"\n}",
+    "link": "https://www.independent.ie/world-news/north-america/warning-of-european-flight-disruption-if-hormuz-not-fully-reopened-us-claims-total-military-victory-and-says-iran-begged-for-ceasefire/a389627239.html",
+    "timestamp": "2026-04-08T13:41:01Z"
+  },
+  {
+    "title": "Donald Trump Jr. says \u2018the biggest names\u2019 think Europe is a \u2018disaster\u2019 that needs to be fixed",
+    "description": "\u201cThe biggest players, the biggest names in banking and finance, in tech and AI across the board\u201d hold the same views, the president's oldest son said.",
+    "link": "https://fortune.com/2026/04/08/donald-trump-jr-says-the-biggest-names-think-europe-is-a-disaster-that-needs-to-be-fixed/",
+    "timestamp": "2026-04-08T13:37:36Z"
+  },
+  {
+    "title": "After Iran ceasefire, is Trump turning to Greenland again? His remarks spark fresh buzz",
+    "description": "Trump Greenland move 2026: After Iran ceasefire, is President Donald Trump shifting focus to Greenland again? Fresh remarks spark global geopolitical buzz. After the Iran ceasefire, Donald Trump reignites the Greenland debate. No official policy shift yet. Bu\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/after-iran-ceasefire-is-trump-turning-to-greenland-again-his-remarks-spark-fresh-buzz/articleshow/130112310.cms",
+    "timestamp": "2026-04-08T13:35:17Z"
+  },
+  {
+    "title": "Defeat from the jaws of victory: Israel reacts to Trump\u2019s Iran ceasefire",
+    "description": "Israel's confrontation with its regional nemesis leaves Iran both standing and strategically stronger, analysts say.",
+    "link": "https://www.aljazeera.com/news/2026/4/8/defeat-from-the-jaws-of-victory-israel-reacts-to-trumps-iran-ceasefire",
+    "timestamp": "2026-04-08T13:34:36Z"
+  },
+  {
+    "title": "GOP Wins Race to Replace MTG\u2014But District Shifts Double-Digits Toward Dems",
+    "description": "Clayton Fuller won a Georgia special election to replace retired Republican Rep. Marjorie Taylor Greene on Tuesday night, growing the House Republican majority by one.... Read More\nThe post GOP Wins Race to Replace MTG\u2014But District Shifts Double-Digits Toward\u2026",
+    "link": "https://www.dailysignal.com/2026/04/08/gop-wins-race-to-replace-mtg-but-district-shifts-double-digits-toward-dems/",
+    "timestamp": "2026-04-08T13:33:03Z"
+  },
+  {
+    "title": "Hours Into Iran War Ceasefire, Hegseth Still Threatening Commando Raid to Seize Uranium",
+    "description": "Pete Hegseth, the U.S. Secretary of Defense, said the U.S. would \"reserve the opportunity\" to take Iran's enriched uranium by force.",
+    "link": "https://www.jezebel.com/iran-war-ceasefire-pete-hegseth-press-conference-quotes-enriched-uranium-commando-raid-boots-on-the-ground",
+    "timestamp": "2026-04-08T13:31:20Z"
+  },
+  {
+    "title": "What is the US-Iran peace deal & what it means for India?",
+    "description": "US President Donald Trump announced the ceasefire on Tuesday after more than a month after intense hostilities broke out, leading to Iran\u2019s blockade of the Strait of Hormuz",
+    "link": "https://www.thehindubusinessline.com/blexplainer/what-is-the-us-iran-peace-deal-what-it-means-for-india/article70838386.ece",
+    "timestamp": "2026-04-08T13:29:31Z"
+  },
+  {
+    "title": "Will ceasefire in Iran lead to end of war?",
+    "description": "\u2018Fundamental disagreements persist\u2019 between the US and Iran and, if unresolved, could result in the same \u2018impasse\u2019 as before conflict began",
+    "link": "https://theweek.com/politics/will-ceasefire-in-iran-lead-to-the-end-of-war",
+    "timestamp": "2026-04-08T13:29:26Z"
+  },
+  {
+    "title": "Ro Khanna Credits 3 Conservative Voices For Helping Push Trump Into Iran Ceasefire",
+    "description": "President Donald Trump on Tuesday wrote ahead of his deadline for Iran to open the Strait of Hormuz, \"A whole civilization will die tonight.\"",
+    "link": "https://www.huffpost.com/entry/ro-khanna-credits-tucker-carlson-and-marjorie-taylor-greene-with-pushing-trumps-ceasefire_n_69d62741e4b069b1caa50105",
+    "timestamp": "2026-04-08T13:29:02Z"
+  },
+  {
+    "title": "Republicans: See No Evil, Enable All Of It",
+    "description": "Donald Trump threatened Iranian genocide in a deranged social media post on Tuesday. Making matter worse, we have an unqualified, war-crimes advocate with a drinking problem in charge of the military.\nIf ever there was a need for Congress to step in and do it\u2026",
+    "link": "https://crooksandliars.com/2026/04/republicans-are-complicit-trump-s-war",
+    "timestamp": "2026-04-08T13:28:29Z"
+  },
+  {
+    "title": "Ceasefire",
+    "description": "Oil prices dropped after President Donald Trump announced a temporary ceasefire with Iran and new talks.",
+    "link": "https://reason.com/2026/04/08/ceasefire/",
+    "timestamp": "2026-04-08T13:27:59Z"
+  },
+  {
+    "title": "Trump, Rubio face NATO chief as US moves to 'reexamine' alliance after Iran clash",
+    "description": "President Donald Trump to meet NATO Secretary-General Mark Rutte at the White House as transatlantic tensions escalate over the U.S. military operation in Iran.",
+    "link": "https://www.foxnews.com/politics/trump-rubio-face-nato-chief-us-moves-reexamine-alliance-after-iran-clash",
+    "timestamp": "2026-04-08T13:25:04Z"
+  },
+  {
+    "title": "Iran has shown the world how to defeat Trump",
+    "description": "Friends,Last night, 90 minutes before Trump said he\u2019d cause the death of a \u201cwhole civilization\u201d if Iran didn\u2019t open the Strait of Hormuz, an Iranian official said the shipping channel would be reopened for two weeks if the United States stopped bombing Iran. \u2026",
+    "link": "https://www.rawstory.com/iran-war-backdown/",
+    "timestamp": "2026-04-08T13:24:25Z"
+  },
+  {
+    "title": "Dems Don\u2019t Want to See USMCA Fall, But They\u2019re Pushing for an\u00a0Overhaul",
+    "description": "Walking away from the six-year-old deal would be as much a disaster as allowing it to continue without improvements, members of the House of Representatives said during a Tuesday webinar.",
+    "link": "http://wwd.com/sourcing-journal/trade/usmca-rethink-trade-agreements-congress-renegotiation-tariffs-1238892889/",
+    "timestamp": "2026-04-08T13:24:17Z"
+  },
+  {
+    "title": "CNN Anchor Shoots Scott Jennings Down on Trump and War: \u2018How Many Times Do We Need to Pull the Receipts?\u2019",
+    "description": "Abby Phillip shot down conservative analyst Scott Jennings in a brawl over Trump\u2019s war rhetoric by dropping a reference to \"pulling the receipts\" on him.\nThe post CNN Anchor Shoots Scott Jennings Down on Trump and War: \u2018How Many Times Do We Need to Pull the R\u2026",
+    "link": "https://www.mediaite.com/media/news/cnn-anchor-shoots-scott-jennings-down-on-trump-and-war-how-many-times-do-we-need-to-pull-the-receipts/",
+    "timestamp": "2026-04-08T13:23:27Z"
+  },
+  {
+    "title": "Cracks Emerge in Iran Ceasefire as Trump Still Claims Total Victory",
+    "description": "At the eleventh hour Tuesday night, Donald Trump announced a two-week ceasefire in his war on Iran, saying that Iran\u2019s proposed 10-point plan was a \u201cworkable basis\u201d for negotiations and claiming victory. But already cracks are forming.Israeli Prime Minister B\u2026",
+    "link": "https://newrepublic.com/post/208760/cracks-emerge-trump-iran-ceasefire-deal",
+    "timestamp": "2026-04-08T13:23:18Z"
+  },
+  {
+    "title": "ONE SHEET: Cease Fire Narrative Wars, OpenAI\u2019s TBPN Era, and WHCD Guest Wars",
+    "description": "In today's ONE SHEET: Trump's ceasefire deal with Iran stops the war, but starts a narrative battle, and WHCD attendees fight over guests to parade!\nThe post ONE SHEET: Cease Fire Narrative Wars, OpenAI\u2019s TBPN Era, and WHCD Guest Wars first appeared on Mediai\u2026",
+    "link": "https://www.mediaite.com/media/news/one-sheet-cease-fire-narrative-wars-openais-tbpn-era-and-whcd-guest-wars/",
+    "timestamp": "2026-04-08T13:19:45Z"
+  },
+  {
+    "title": "Acting Trump AG Erupts At Media\u2019s \u2018Weaponization\u2019 Double Standards: \u2018He Wants Justice\u2019",
+    "description": "Acting Attorney General Todd Blanche erupted at reporters during a Tuesday press conference, accusing them of \u201ccompletely false\u201d reporting.",
+    "link": "https://dailycaller.com/2026/04/08/acting-trump-ag-erupts-at-medias-weaponization-double-standards-he-wants-justice/",
+    "timestamp": "2026-04-08T13:17:35Z"
+  },
+  {
+    "title": "North Korea fires fresh ballistic missiles as war of words with Seoul intensifies",
+    "description": "North Korea launched several short-range ballistic missiles on Wednesday. This marks the second such launch in two days. Tensions with South Korea are rising sharply. A senior North Korean official also issued strong insults towards Seoul. South Korea remains\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/north-korea-fires-ballistic-missiles-trump-iran-ceasefire-announcement-global-tensions-kim-jong-un-missile-test/articleshow/130115094.cms",
+    "timestamp": "2026-04-08T13:16:37Z"
+  },
+  {
+    "title": "The Iran War Is a Boon for the BRICS",
+    "description": "More than a month into the US-Israeli war against Iran, the broader strategic implications are coming into sharper focus. While the two-week ceasefire has provided Donald Trump with a possible off-ramp, China, India, and other powers suddenly find themselves \u2026",
+    "link": "https://www.project-syndicate.org/commentary/iran-war-boon-for-the-brics-especially-china-india-by-jim-o-neill-2026-04",
+    "timestamp": "2026-04-08T13:16:36Z"
+  },
+  {
+    "title": "Officials scramble to find 'positive' news to 'soothe' Trump after Iran reversal: report",
+    "description": "Trump administration officials are scrambling to find \u201cpositive\u201d media coverage of President Donald Trump regarding his decision to accept a tentative ceasefire agreement with Iran, with one senior official fearing the president\u2019s hatred of \u201cbeing humiliated\u201d\u2026",
+    "link": "https://www.rawstory.com/trump-iran-2676679156/",
+    "timestamp": "2026-04-08T13:16:12Z"
+  },
+  {
+    "title": "New AI too dangerous for public release \u2013 Anthropic",
+    "description": "Anthropic says its new Mythos Preview AI model is too powerful for public use, launching Project Glasswing with major tech partners and consulting the US government",
+    "link": "https://www.rt.com/business/637689-ai-dangerous-public-release-anthropic/",
+    "timestamp": "2026-04-08T13:11:51Z"
+  },
+  {
+    "title": "Is Strait of Hormuz open now, and will it be free or $2 million transit fee be charged per ship? Strait of Hormuz recent shipping activity, ceasefire terms",
+    "description": "Is Strait of Hormuz open now, and will it be free or $2 million transit fee be charged per ship? Vessel movement has resumed after a ceasefire between the United States and Iran. Ships are crossing again while talks continue on a possible $2 million transit f\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/is-strait-of-hormuz-open-now-and-will-it-be-free-or-2-million-transit-fee-be-charged-per-ship-strait-of-hormuz-recent-shipping-activity-ceasefire-terms/articleshow/130114267.cms",
+    "timestamp": "2026-04-08T13:11:43Z"
+  },
+  {
+    "title": "World Bank slashes 2026 Middle East growth forecast after energy sector turmoil",
+    "description": "The World Bank has significantly lowered its 2026 growth projections for Middle Eastern economies. This comes as a direct result of the ongoing conflict between the US and Iran. The closure of the Strait of Hormuz and damage to infrastructure have disrupted m\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/world-bank-slashes-2026-middle-east-growth-forecast-after-energy-sector-turmoil/articleshow/130114975.cms",
+    "timestamp": "2026-04-08T13:10:25Z"
+  },
+  {
+    "title": "Reporter for Right-Wing Outlet Presses Hegseth on Trump\u2019s Iran Threat: \u2018Was the President Prepared to Wipe Out Iran Entirely?\u2019",
+    "description": "Pete Hegseth insisted that President Trump was not bluffing when he threatened to \"entirely\" wipe out Iran before granting a two-week extension to the country.\nThe post Reporter for Right-Wing Outlet Presses Hegseth on Trump\u2019s Iran Threat: \u2018Was the President \u2026",
+    "link": "https://www.mediaite.com/media/news/reporter-for-right-wing-outlet-presses-hegseth-on-trumps-iran-threat-was-the-president-prepared-to-wipe-out-iran-entirely/",
+    "timestamp": "2026-04-08T13:09:51Z"
+  },
+  {
+    "title": "Trump: U.S. Will Work with Iran to Remove Enriched Uranium, Charge Tolls on Strait of Hormuz",
+    "description": "President Donald Trump announced Wednesday morning the United States will work with Iran to remove enriched uranium from the destroyed sites bombed in Operation Midnight Hammer last June.\nThe post Trump: U.S. Will Work with Iran to Remove Enriched Uranium, Ch\u2026",
+    "link": "https://www.breitbart.com/politics/2026/04/08/trump-u-s-will-work-with-iran-to-remove-enriched-uranium-charge-tolls-on-strait-of-hormuz/",
+    "timestamp": "2026-04-08T13:05:24Z"
+  },
+  {
+    "title": "Hegseth: \u2018Operation Epic Fury was a Historic, Overwhelming Victory on the Battlefield\u2019",
+    "description": "\"The world\u2019s leading state sponsor of terrorism proved utterly incapable of defending itself, its people, or its territory. We unleashed just a fraction of our strength, and Iran suffered total military defeat.\"\nThe post Hegseth: \u2018Operation Epic Fury was a Hi\u2026",
+    "link": "https://legalinsurrection.com/2026/04/hegseth-operation-epic-fury-was-a-historic-overwhelming-victory-on-the-battlefield/",
+    "timestamp": "2026-04-08T13:00:58Z"
+  },
+  {
+    "title": "The Boys Season-Premiere Recap: Dead Men Walking",
+    "description": "Homelander has gone full Trump with \u201cfreedom camps\u201d and the childish urge to punish anyone who makes fun of him.",
+    "link": "http://www.vulture.com/article/the-boys-recap-season-5-episode-1-fifteen-inches-of-sheer-dynamite.html",
+    "timestamp": "2026-04-08T13:00:23Z"
+  },
+  {
+    "title": "Trump wants to jail reporters over leaks from own administration",
+    "description": "The president says journalists could face imprisonment for reporting on war rescue operations",
+    "link": "https://www.salon.com/2026/04/08/trump-wants-to-jail-reporters-over-leaks-from-own-administration/",
+    "timestamp": "2026-04-08T13:00:11Z"
+  },
+  {
+    "title": "Spanish PM Says Ceasefires 'Always Good News,' But Trump Deserves No Praise",
+    "description": "Spanish Prime Minister Pedro S\u00e1nchez on Wednesday welcomed news of a two-week ceasefire in Iran as a step back from the brink of catastrophe, but said the war's aggressors\u2014the US and Israel\u2014deserved no praise for the temporary reprieve.\"Ceasefires are always \u2026",
+    "link": "https://www.commondreams.org/news/spain-iran-ceasefire",
+    "timestamp": "2026-04-08T13:00:01Z"
+  },
+  {
+    "title": "Did Trump say Kurdish groups kept guns from US meant for Iranian protesters?",
+    "description": "Multiple Kurdish groups that oppose Iran reportedly denied receiving any weapons from the United States.",
+    "link": "https://www.snopes.com//news/2026/04/08/trump-us-iran-kurds-guns/",
+    "timestamp": "2026-04-08T13:00:00Z"
+  },
+  {
+    "title": "Pete Hegseth claims 'Iran begged for this ceasefire' and says Trump has 'achieved victory with a capital V (DM might change title)",
+    "description": "US secretary of defence Pete Hegseth claimed today that Iran begged for Donald Trump's 11th-hour ceasefire. Last night, just a few hours before Trump's deadline for Iran to agree to reopen the Strait of Hormuz, the US president said via Truth Social that he h\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4374102/posts",
+    "timestamp": "2026-04-08T12:57:46Z"
+  },
+  {
+    "title": "\u2018A big day!\u2019 Trump makes bold prediction after Iran ceasefire agreement",
+    "description": "'Iran wants it to happen, they've had enough! Likewise, so has everyone else!'",
+    "link": "https://www.wnd.com/2026/04/big-day-trump-makes-bold-prediction-after-iran/",
+    "timestamp": "2026-04-08T12:56:34Z"
+  },
+  {
+    "title": "'Iran won' after they 'rope-a-doped' Trump: MS NOW analyst",
+    "description": "According to the panel on MS NOW\u2019s \u201cMorning Joe,\u201d if Donald Trump\u2019s ceasefire agreement with Iran holds, the US still came out as a loser after the US launched the unprovoked war.According to \u201cMorning Joe\u201d regular Mike Barnicle, there should be no doubt that \u2026",
+    "link": "https://www.rawstory.com/trump-rope-a-dope/",
+    "timestamp": "2026-04-08T12:55:11Z"
+  },
+  {
+    "title": "The new Trump trades: how investors are navigating Iran shocks",
+    "description": "LONDON, April 8 : Investors are piecing together a new \"Trump trade\" playbook for navigating market uncertainty, ranging from whether a U.S.-Iran ceasefire will hold to oil prices staying high for longer.With global inflation and interest rates increasingly t\u2026",
+    "link": "https://www.channelnewsasia.com/business/new-trump-trades-how-investors-are-navigating-iran-shocks-6044141",
+    "timestamp": "2026-04-08T12:55:05Z"
+  },
+  {
+    "title": "'Political disaster': Israeli leaders lash out over ceasefire, split on who\u2019s to blame",
+    "description": "Opposition leader Yair Lapid sharply criticized on Wednesday the ceasefire with Iran announced earlier in the day, calling it a failure of political and strategic leadership and warning of long-term consequences for Israel\u2019s security. \u201cThere has never been su\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4374101/posts",
+    "timestamp": "2026-04-08T12:54:06Z"
+  },
+  {
+    "title": "\u2018Joint Venture\u2019: Trump Reveals Plans to Partner With Iran to Manage Strait of Hormuz to Jon Karl",
+    "description": "Despite floating the prospect of economic coordination in Hormuz, Trump drew a firm line on Iran\u2019s nuclear program.\nThe post \u2018Joint Venture\u2019: Trump Reveals Plans to Partner With Iran to Manage Strait of Hormuz to Jon Karl first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/tv/joint-venture-trump-reveals-plans-to-partner-with-iran-to-manage-strait-of-hormuz-to-jon-karl/",
+    "timestamp": "2026-04-08T12:51:17Z"
+  },
+  {
+    "title": "Waging a Culture War With Comedic Mediocrity",
+    "description": "Ben Schwartz\n\n\n\nThe Ellison family, poised to continue dominating the media landscape with its Warner deal, signs on an infomercial-grade comic to replace Stephen Colbert.\r\n\n\r\n\n\nThe post Waging a Culture War With Comedic Mediocrity appeared first on The Natio\u2026",
+    "link": "https://www.thenation.com/article/culture/ellison-family-skydance-cbs-byron-allen/",
+    "timestamp": "2026-04-08T12:49:37Z"
+  },
+  {
+    "title": "Gen Jack Keane 'skeptical' that Iran ceasefire will hold, warns Tehran will 'delay and obfuscate'",
+    "description": "Gen. Jack Keane says he is skeptical about the Iran ceasefire, warning Tehran has a track record of using negotiations to buy time and delay deals.",
+    "link": "https://www.foxnews.com/media/gen-jack-keane-skeptical-iran-ceasefire-hold-warns-tehran-delay-obfuscate",
+    "timestamp": "2026-04-08T12:49:08Z"
+  },
+  {
+    "title": "Exploiting Useful Enemies: Ukraine in Hungary\u2019s Elections",
+    "description": "The problem with demagogues is that they invariably fall into infantile practices. The politics of the playground is the politics of hate, violence and betrayal. It\u2019s the politics of finding the useful enemy and bullying the theme till it\u2019s raw. \u2026\nThe post Ex\u2026",
+    "link": "https://www.globalresearch.ca/ukraine-hungary-elections/5921693",
+    "timestamp": "2026-04-08T12:48:01Z"
+  },
+  {
+    "title": "Iran wants to impose $1 million tolls for passage through the Strait of Hormuz for as long as the negotiations last",
+    "description": "The revelation was made by an anonymous regional official to the Associated Press \u2013 Iran may open the Strait of Hormuz on Thursday or Friday\nThe post Iran wants to impose $1 million tolls for passage through the Strait of Hormuz for as long as the negotiation\u2026",
+    "link": "https://en.protothema.gr/2026/04/08/iran-wants-to-impose-1-million-tolls-for-passage-through-the-strait-of-hormuz-for-as-long-as-the-negotiations-last/",
+    "timestamp": "2026-04-08T12:47:00Z"
+  },
+  {
+    "title": "India Becoming a Key Hub in the Global Fentanyl Supply Chain",
+    "description": "In recent years, the global fentanyl crisis has continued to evolve in troubling and increasingly complex ways, raising difficult and often uncomfortable questions about the geography of illicit supply chains. \nWhile much of the international debate has tradi\u2026",
+    "link": "https://www.globalresearch.ca/india-key-hub-global-fentanyl-supply-chain/5921695",
+    "timestamp": "2026-04-08T12:46:59Z"
+  },
+  {
+    "title": "Shipping far from normalcy after Hormuz truce",
+    "description": "Hormuz truce offers temporary relief, but nearly 800 ships remain stranded, highlighting ongoing uncertainties in maritime operations.",
+    "link": "https://www.thehindubusinessline.com/economy/logistics/relief-after-hormuz-truce-yet-shipping-remains-far-from-normalcy/article70838310.ece",
+    "timestamp": "2026-04-08T12:46:29Z"
+  },
+  {
+    "title": "Trump's Ceasefire Leaves Unanswered Questions About What Was Gained (Jonathan Tamari/Bloomberg)",
+    "description": "Jonathan Tamari / Bloomberg:\nTrump's Ceasefire Leaves Unanswered Questions About What Was Gained\u00a0 \u2014\u00a0 Markets rallied, but it's unclear what the US won from the bombardment \u2026 War, What Is it Good for?\u00a0 \u2014\u00a0 The big question this morning is what Donald Trump gain\u2026",
+    "link": "https://www.memeorandum.com/260408/p15",
+    "timestamp": "2026-04-08T12:45:01Z"
+  },
+  {
+    "title": "Trump Targets Top Medical Schools as Next Higher Ed Battleground (Liam Knox/Bloomberg)",
+    "description": "Liam Knox / Bloomberg:\nTrump Targets Top Medical Schools as Next Higher Ed Battleground\u00a0 \u2014\u00a0 President Donald Trump's administration has opened a new front in its campaign to reshape US colleges, homing in on racial diversity at some of the top medical schools\u2026",
+    "link": "https://www.memeorandum.com/260408/p17",
+    "timestamp": "2026-04-08T12:45:01Z"
+  },
+  {
+    "title": "Ceasefire pushes oil prices below $95, with Brent moving toward $90",
+    "description": "The US\u2013Iran de-escalation and the reopening of the Strait of Hormuz sharply drive prices down, reducing fears of a new energy crisis\nThe post Ceasefire pushes oil prices below $95, with Brent moving toward $90 appeared first on ProtoThema English.",
+    "link": "https://en.protothema.gr/2026/04/08/ceasefire-pushes-oil-prices-below-95-with-brent-moving-toward-90/",
+    "timestamp": "2026-04-08T12:45:00Z"
+  },
+  {
+    "title": "ICE in Hell\u2019s Kitchen: Why \u2018Daredevil: Born Again\u2019 Can Go Where \u2018The Pitt\u2019s ICE Episode Couldn\u2019t",
+    "description": "The Pitt depicts the frustrating reality; Daredevil: Born Again is the dreamworld version, and as such it's where dreams of justice can come true.",
+    "link": "https://decider.com/2026/04/08/ice-idaredevil-born-again-the-pitt/",
+    "timestamp": "2026-04-08T12:45:00Z"
+  },
+  {
     "title": "Pete Hegseth Brags Iran Was \u2018Blowing Ammo Into Fantasy Land\u2019 as Trump Chose \u2018Mercy\u2019 Instead of Annihilation",
     "description": "Secretary of Defense Pete Hegseth declared Iran's military is decimated and the United States has achieved \"every single objective\" in Operation Epic Fury.\nThe post Pete Hegseth Brags Iran Was \u2018Blowing Ammo Into Fantasy Land\u2019 as Trump Chose \u2018Mercy\u2019 Instead of\u2026",
     "link": "https://www.mediaite.com/media/news/pete-hegseth-brags-iran-was-blowing-ammo-into-fantasy-land-as-trump-chose-mercy-instead-of-annihilation/",
@@ -82,491 +556,5 @@
     "description": "A White House report finds banning stablecoin yield would barely boost bank lending but could cost users $800 million annually, as debate over crypto regulation intensifies.",
     "link": "https://cointelegraph.com/news/white-house-stablecoin-yield-ban-little-impact-bank-lending",
     "timestamp": "2026-04-08T12:29:20Z"
-  },
-  {
-    "title": "Trump warns of 50% tariffs on nations supplying weapons to Iran",
-    "description": "United States President Donald Trump has issued a stern warning. Any nation supplying military weapons to Iran will face an immediate 50 percent tariff on all goods sold to America. This move comes as Trump's administration is also reportedly discussing tarif\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-warns-of-50-tariffs-on-nations-supplying-weapons-to-iran/articleshow/130113789.cms",
-    "timestamp": "2026-04-08T12:28:30Z"
-  },
-  {
-    "title": "Germany accuses JD Vance of hypocrisy over claim that EU meddled in Hungary\u2019s election",
-    "description": "Government spokesperson remarks that the U.S. vice president may himself be guilty of interfering in the vote.",
-    "link": "https://www.politico.eu/article/germany-rebuke-jd-vance-claim-eu-interferes-hungary-election/",
-    "timestamp": "2026-04-08T12:25:40Z"
-  },
-  {
-    "title": "Stephen Colbert Makes A Monster Out Of Trump's Absolutely 'Chilling' Iran Threat",
-    "description": "The \"Late Show\" host made a key observation about the president's promise to deliver the \"civilization-ending blow.\"",
-    "link": "https://www.huffpost.com/entry/stephen-colbert-trump-iran-threat-whole-civilization-die-tonight_n_69d6316ce4b0ae5bb24778de",
-    "timestamp": "2026-04-08T12:25:16Z"
-  },
-  {
-    "title": "Trump Braces for Humiliating Revelations as Major Split on Iran Leaks",
-    "description": "Top members of President Donald Trump\u2019s cabinet were at each other\u2019s throats over war with Iran right up until the moment the president hit the big red...",
-    "link": "https://www.thedailybeast.com/president-donald-trump-braces-for-humiliating-revelations-as-major-split-on-iran-leaks/",
-    "timestamp": "2026-04-08T12:24:52Z"
-  },
-  {
-    "title": "Editorial: War anxiety in a shifting world order",
-    "description": "As geopolitical tensions disrupt energy, economics and security, individuals are confronting a new reality in which global conflict directly threatens everyday life",
-    "link": "https://timesofmalta.com/article/editorial-war-anxiety-shifting-world-order.1126580",
-    "timestamp": "2026-04-08T12:23:25Z"
-  },
-  {
-    "title": "Reza Pahlavi Addressing Iran's Military: Call to Action",
-    "description": "\"You are the heirs of this land's patriotic and honorable commanders \u2014 from Aryobarzan, Bahram Chobin, and Surena, to Babak Khorramdin, Yaqub Laith, and Maziar, to Jahanbani, Khosrowdad, and Rahimi. How can you remain silent and inactive in the face of foreig\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4374096/posts",
-    "timestamp": "2026-04-08T12:22:52Z"
-  },
-  {
-    "title": "Philadelphia\u2019s 40-year history of protecting undocumented immigrants began with churches hiding refugees from El Salvador",
-    "description": "A historian explores how religious congregations, activists and city officials have supported undocumented immigrants in Philadelphia over the past 40 years.",
-    "link": "https://theconversation.com/philadelphias-40-year-history-of-protecting-undocumented-immigrants-began-with-churches-hiding-refugees-from-el-salvador-278756",
-    "timestamp": "2026-04-08T12:22:33Z"
-  },
-  {
-    "title": "Iran ceasefire, Delta earnings, the Navy's retail woes and more in Morning Squawk",
-    "description": "Here are five key things investors need to know to start the trading day.",
-    "link": "https://www.cnbc.com/2026/04/08/5-things-to-know-before-the-market-opens.html",
-    "timestamp": "2026-04-08T12:22:13Z"
-  },
-  {
-    "title": "Hegseth declares 'decisive military victory' over Iran",
-    "description": "",
-    "link": "https://www.foxnews.com/politics/hegseth-declares-decisive-military-victory-iran",
-    "timestamp": "2026-04-08T12:18:56Z"
-  },
-  {
-    "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures surge as Iran ceasefire drives oil prices lower",
-    "description": "Dow Jones Today | US Stock Market Live Updates: U.S. stock futures surged after a two-week ceasefire between the U.S. and Iran eased geopolitical tensions, sending oil prices sharply lower. Global markets rallied, while energy stocks fell and travel shares ju\u2026",
-    "link": "https://m.economictimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-ceasefire-peace-talks-brent-crude-oil-stock-price-news/liveblog/130113532.cms",
-    "timestamp": "2026-04-08T12:17:59Z"
-  },
-  {
-    "title": "Iran wants to impose $1 million transit fees for passing through Hormuz for as long as negotiations last",
-    "description": "The revelation was made by an anonymous regional official to the Associated Press \u2013 Iran will use the revenues for post-conflict reconstruction\nThe post Iran wants to impose $1 million transit fees for passing through Hormuz for as long as negotiations last a\u2026",
-    "link": "https://en.protothema.gr/2026/04/08/iran-wants-to-impose-1-million-transit-fees-for-passing-through-hormuz-for-as-long-as-negotiations-last/",
-    "timestamp": "2026-04-08T12:15:00Z"
-  },
-  {
-    "title": "WTI, Brent crude oil, and natural gas price crash today: What\u2019s happening with oil and gas prices as crude plunges 18% and gas slips 5% in a day\u2014and how the Strait of Hormuz reopening could send gasoline sharply lower next?",
-    "description": "WTI, Brent crude oil, and natural gas price crash today: Oil and gas prices plunge sharply as WTI drops 17% to $93.45 today. Brent crude falls over 15%, now trading near $92.55 per barrel. Natural gas slips 4.7%, settling around $2.73 amid easing supply fears\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/wti-brent-crude-oil-and-natural-gas-price-crash-today-whats-happening-with-oil-and-gas-prices-as-crude-plunges-18-and-gas-slips-5-in-a-dayand-how-the-strait-of-hormuz-reopening-could-send-gasoline-sharply-lower-next/articleshow/130113003.cms",
-    "timestamp": "2026-04-08T12:14:05Z"
-  },
-  {
-    "title": "Trump Hails 'Golden Age of the Middle East', Suggests U.S. Can Make 'Big Money' at Strait of Hormuz",
-    "description": "The U.S. will be \"hangin' around\" in the Strait of Hormuz to \"make sure that everything goes well\", President Donald Trump said on Wednesday.\nThe post Trump Hails \u2018Golden Age of the Middle East\u2019, Suggests U.S. Can Make \u2018Big Money\u2019 at Strait of Hormuz appeared\u2026",
-    "link": "https://www.breitbart.com/europe/2026/04/08/trump-hails-golden-age-of-the-middle-east-with-big-money-to-be-made/",
-    "timestamp": "2026-04-08T12:13:28Z"
-  },
-  {
-    "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'",
-    "description": "President Donald Trump says the U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran\".",
-    "link": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
-    "timestamp": "2026-04-08T12:11:34Z"
-  },
-  {
-    "title": "India's 10-year bond yield slumps most in four years on Iran truce, RBI policy",
-    "description": "Indian \u200bbonds rallied on Wednesday, with \u200bthe benchmark yield posting its biggest fall in four years, \u200bas oil prices slumped following a two-week truce between the U.S. and Iran, while the central bank kept its policy rate unchanged.",
-    "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-slumps-most-in-four-years-on-iran-truce-rbi-policy/articleshow/130113290.cms",
-    "timestamp": "2026-04-08T12:10:52Z"
-  },
-  {
-    "title": "Sam Stein Slams Trump Critics for Piling on Prez With \u2018TACO\u2019 Comments: \u2018Not About Chickening Out\u2019",
-    "description": "Stein countered that the recent situation was \u201cnot about chickening out\u201d as he warned that Trump\u2019s \u201cbrinkmanship\u201d was not \u201ccost-free.\u201d\nThe post Sam Stein Slams Trump Critics for Piling on Prez With \u2018TACO\u2019 Comments: \u2018Not About Chickening Out\u2019 first appeared on\u2026",
-    "link": "https://www.mediaite.com/media/tv/sam-stein-slams-trump-critics-for-piling-on-prez-with-taco-comments-not-about-chickening-out/",
-    "timestamp": "2026-04-08T12:07:35Z"
-  },
-  {
-    "title": "The Shocking Truth About This President That We\u2019ve Been Sitting on for Months Is Now Available for Preorder",
-    "description": "\u201cIn a series of Situation Room meetings, President Trump weighed his instincts [about going to war with Iran] against the deep concerns of his vice president and a pessimistic intelligence assessment. Here\u2019s the inside story of how he made the fateful decisio\u2026",
-    "link": "https://www.mcsweeneys.net/articles/the-shocking-truth-about-this-president-that-weve-been-sitting-on-for-months-is-now-available-for-preorder",
-    "timestamp": "2026-04-08T12:05:00Z"
-  },
-  {
-    "title": "How did the two-week Iran ceasefire unfold? #politics",
-    "description": "11th hour deal led to suspended attacks President Donald Trump announced a two week ceasefire in the U.S. Iran conflict after threatening intensified military action, including warnings about striking Iranian infrastructure. The ceasefire agreement was tied t\u2026",
-    "link": "https://alltoc.com/politics/how-did-the-two-week-iran-ceasefire-unfold",
-    "timestamp": "2026-04-08T12:04:13Z"
-  },
-  {
-    "title": "Trump meets NATO chief as Iran war strains alliance",
-    "description": "President Donald Trump meets with NATO chief Mark Rutte at the White House. Tensions are high over the Iran war and Trump's threats to leave NATO. European nations are hesitant to join operations in the Strait of Hormuz. Rutte aims to ease criticism and boost\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-meets-nato-chief-as-iran-war-strains-alliance/articleshow/130110622.cms",
-    "timestamp": "2026-04-08T12:03:33Z"
-  },
-  {
-    "title": "Trump Says US Will Work With Iran to \u2018Dig Up\u2019 Uranium Buried During Operation Midnight Hammer",
-    "description": "President Donald Trump announced that the United States would \"work closely with Iran\" to \"dig up\" and remove \"Nuclear Dust\" amid their ongoing ceasefire.\nThe post Trump Says US Will Work With Iran to \u2018Dig Up\u2019 Uranium Buried During Operation Midnight Hammer f\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-says-us-will-work-with-iran-to-dig-up-uranium-buried-during-operation-midnight-hammer/",
-    "timestamp": "2026-04-08T12:02:13Z"
-  },
-  {
-    "title": "Dealers say NY Dems\u2019 push to tax precious metals is fool\u2019s gold",
-    "description": "Geoffrey Demis, co-owner of Ferris Coin & Jewelry near Albany, displays a gold coin and bar in his shop a few miles from the state Capitol.\n \n\nAmong the various tax proposals in Albany is one that would repeal a decades-old sales-tax exemption for purchases o\u2026",
-    "link": "https://gothamist.com/news/dealers-say-ny-dems-push-to-tax-precious-metals-is-fools-gold",
-    "timestamp": "2026-04-08T12:01:07Z"
-  },
-  {
-    "title": "Bitcoin Rallies Above $71K \u2014But Analysts Warn The Peace Is Only Temporary",
-    "description": "Bitcoin climbed back above $71,000 after news of a conditional U.S.\u2013Iran ceasefire tied to reopening the Strait of Hormuz. Bitcoin Bounces Back\u2026 For Now According to today\u2019s QCP Market Colour, after the announcement of the ceasefire risk assets rallied, equit\u2026",
-    "link": "http://www.newsbtc.com/bitcoin-news/bitcoin-rallies-above-71k-but-analysts-warn-the-peace-is-only-temporary/",
-    "timestamp": "2026-04-08T12:00:49Z"
-  },
-  {
-    "title": "US-Iran Cease-Fire Falters Amid Accusations Of Violations",
-    "description": "The temporary truce between the United States and Iran wobbled less than a day after being agreed as Israel launched massive attacks on Iranian proxies in Lebanon, while Tehran launched strikes at oil centers in several Persian Gulf countries after claiming i\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-rferl04.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Three Things To Watch As The US-Iran Cease-Fire Takes Hold",
-    "description": "The United States and Iran have agreed to a two-week cease-fire, brokered by Pakistan, premised on Iran reopening the Strait of Hormuz.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-rferl02.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Israel backs Trump's 2-week pause on Iran strikes",
-    "description": "The office of Prime Minister Benjamin Netanyahu said Wednesday that Israel supports US President Donald Trump's decision to suspend military strikes against Iran for two weeks.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac05.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Strait of Hormuz is Iran's 'nuclear weapon' that forced US retreat: Russia's Medvedev",
-    "description": "Russia's former president, Dmitry Medvedev, says Iran's undisputed command over the Strait of Hormuz has become its true \"tested nuclear weapon\" that forced the United States to retreat.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-presstv09.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Erdogan, Trump discuss Iran ceasefire, regional developments in phone call",
-    "description": "Turkish President Recep Tayyip Erdogan on Wednesday held a phone call with US President Donald Trump to discuss the recently announced ceasefire with Iran and broader regional developments, Anadolu Agency reported citing T\u00fcrkiye's Communications Directorate.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "UK calls for 'urgent end' to fighting in Lebanon amid US-Iran ceasefire",
-    "description": "UK Foreign Secretary Yvette Cooper on Wednesday called for an end to fighting in Lebanon as she welcomed a temporary ceasefire agreement between the US and Iran, according to Anadolu Agency.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260408-azertac02.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "How Pakistan Bolstered Its Diplomatic Image By Brokering A Cease-Fire",
-    "description": "Pakistan appears to have achieved a significant diplomatic breakthrough by playing a proactive role in brokering a 14-day cease-fire and setting the stage for the US-Iran talks in Islamabad on April 10.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260408-rferl01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Trump aides called Netanyahu's regime change plan in Iran 'farcical': Report",
-    "description": "Top US officials told President Donald Trump that Israeli prime minister Benjamin Netanyahu's \"regime change\" plan in Iran was \"farcical\", the New York Times reports.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-presstv12.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Trump announces 2-week ceasefire with Iran",
-    "description": "US President Donald Trump announced Tuesday a two-week suspension of military action against Iran following discussions with Pakistani leaders.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac08.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Iran confirms talks with US to begin in Pakistan's capital on Friday amid pause in hostilities",
-    "description": "Iran's Supreme National Security Council announced in the early hours of Wednesday that negotiations with US representatives will begin in Islamabad on Friday and will be concluded, lasting up to 15 days under Pakistan's mediation, confirming a limited pause \u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac09.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Iran, U.S. agree to 2-week ceasefire, negotiations to be held in Pakistan",
-    "description": "Iran and the United States have agreed to a 2-week ceasefire less than two hours before the deadline set by U.S. President Donald Trump, and will hold negotiations in Pakistan.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-pdo01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Pope Leo calls Trump's threat against Iran 'truly unacceptable'",
-    "description": "Pope Leo said on Tuesday that threats against the population of Iran are \"unacceptable,\" in an unusual appeal hours \u200cafter U.S. President Donald Trump said \"a whole civilization will die tonight\" in a social media post that shocked world leaders, according to\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac11.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Leaders Praise Troops Who Rescued Downed Airmen in Iran",
-    "description": "Enemy forces in Iran downed two airmen in an F-15E Strike Eagle fighter jet, flying in support of Operation Epic Fury, April 3; both service members were successfully rescued in just under 48 hours from when the mission to save them began.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260408-dodnews02.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Trump meets NATO chief as Iran war strains alliance",
-    "description": "President Donald Trump welcomes NATO chief Mark Rutte to the White House on Wednesday, as the war with Iran has pushed U.S. relations with other members of the military alliance to a crisis point, according to Reuters.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260408-azertac01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "In Russia, Putin Sees Something Not Seen In Years: A Notable Drop In Approval Ratings",
-    "description": "Russian President Vladimir Putin is not as popular as he used to be. In recent weeks, a series of public opinion surveys -- including two conducted by state-linked pollsters -- have registered a decline in support for Putin. FOM, whose main customer is the Pr\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260408-rferl01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Mediator Pakistan confirms US-Iran ceasefire violated as Israel ravages Lebanon",
-    "description": "Pakistani Prime Minister Shahbaz Sharif has confirmed that the terms of a recent ceasefire between Iran and the United States have been violated, with the Israeli regime continuing to attack Lebanon.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260408-presstv03.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "US-Israeli aggression on Iran: What happened on 40th day of the imposed war",
-    "description": "Forty days into the US-Israeli war on Iran, Tehran forced Washington to accept its terms and agree to a ceasefire, marking a historic victory for the Islamic Republic as the US pivoted to diplomacy after failing to achieve any of its war objectives.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-presstv03.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Trump promises Golden Age for Middle East",
-    "description": "U.S. President Donald Trump said Iran is ready to pursue peace and signaled that the United States could assist with stabilizing shipping traffic in the Strait of Hormuz, according to a post on his Truth Social platform.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac07.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Iran President Says Truce Reached With US Takes Into Account Principles Outlined by Tehran",
-    "description": "The truce reached with United States takes into account principles outlined by Tehran, Iranian President Masoud Pezeshkian said on Wednesday.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-sputnik01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Saudi Arabia Welcomes US-Iran Ceasefire Agreement",
-    "description": "The Ministry of Foreign Affairs expressed the Kingdom of Saudi Arabia's welcome of the announcement by President Donald Trump of the United States and Prime Minister Muhammad Shehbaz Sharif of Pakistan regarding a ceasefire agreement between the United States\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260408-spa02.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Northern Sea Route Will Be of Particular Importance in Current Global Situation - Lavrov",
-    "description": "The use of the Northern Sea Route in the current international situation will be of particular importance, and its reliability will increase, Russian Foreign Minister Sergei Lavrov said on Wednesday.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260408-sputnik02.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "President Pezeshkian: Iranians will continue to stand together after ceasefire",
-    "description": "President Masoud Pezeshkian has reaffirmed Iran's unity following the ceasefire agreement with the US, emphasizing that it is a direct result of the sacrifices made by martyred Leader Ayatollah Seyyed Ali Khamenei, and the unwavering participation of the Iran\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-presstv13.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "China welcomes US-Iran ceasefire, says it also made 'efforts' to halt fighting",
-    "description": "China on Wednesday welcomed the US-Iran ceasefire, saying that Beijing also made \"efforts\" to halt the fighting, according to Anadolu Agency.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac04.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Joey Hood: What Did The US, Iran Learn From Five Weeks Of War?",
-    "description": "Veteran ambassador Joey Hood, a career diplomat who has served with a focus on the Middle East under multiple US administrations, says the United States and Iran have each drawn stark lessons from the violent new chapter in decades of hostility.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-rferl03.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Trump Says He Believes China Pushed Iran To Cease-Fire Deal",
-    "description": "US President Donald Trump said he thinks China was involved in getting Iran to negotiate a two-week cease-fire that was announced late on April 7.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-rferl08.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Iran VP: Victory in 40-day war fruit of 'Khamenei school of thought'",
-    "description": "Vice President Mohammad Reza Aref has stated that Iran's victory in the 40-day war against the \"front of evil\" is the fruit of the formation of the \"Khamenei school of thought.\"",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-presstv15.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "In Separate Calls, Macron Tells Trump, Pezeshkian Cease-Fire Must Include Lebanon",
-    "description": "French President Emmanuel Macron said he spoke separately with Iranian President Massud Pezeshkian and US leader Donald Trump, telling them both that \"their decision to accept a cease-fire was the best one possible.\"",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260408-rferl01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Trump signals cooperation with Iran after 'regime change'",
-    "description": "US President Donald Trump on Wednesday said that the US will engage with Iran following what he described as a \"very productive Regime Change,\" signaling a dramatic shift toward cooperation even as major disputes endure, according to Anadolu Agency.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac02.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Heavy Israeli Strikes On Lebanon Add Uncertainty Hours After US-Iran Cease-Fire Deal",
-    "description": "Lebanese officials say dozens of people have been killed in the heaviest Israeli strikes on the country since the war in Iran broke out five weeks ago.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-rferl06.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Pakistani premier announces immediate ceasefire between US, Iran; plans Islamabad talks",
-    "description": "Pakistani Prime Minister Shehbaz Sharif has announced that the US and Iran, along with their allies, have agreed to an immediate ceasefire across all conflict zones, including Lebanon, Anadolu Agency reported.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260408-azertac10.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Epic Fury Quelled for Now, Objectives Accomplished, U.S. Forces Remain Ready",
-    "description": "In fewer than 40 days, unrelenting military action by America's joint force has helped accomplish all the goals President Donald J. Trump set for Operation Epic Fury.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260408-dodnews01.htm",
-    "timestamp": "2026-04-08T12:00:00Z"
-  },
-  {
-    "title": "Middle East conflict: this ceasefire may have made Iran stronger",
-    "description": "Both sides are claiming success, but it may be Tehran that benefits more from the deal.",
-    "link": "https://theconversation.com/middle-east-conflict-this-ceasefire-may-have-made-iran-stronger-280164",
-    "timestamp": "2026-04-08T11:53:13Z"
-  },
-  {
-    "title": "Small Wisconsin Town Rebukes Trump-Backed Project In Stunning Vote \u2014 With Famous Comedian\u2019s Support",
-    "description": "Voters in a Wisconsin city of 12,000 overwhelmingly backed a novel ballot measure Tuesday to crack down on artificial intelligence data centers.",
-    "link": "https://dailycaller.com/2026/04/08/port-washington-wisconsin-data-center-vote-trump-charlie-berens/",
-    "timestamp": "2026-04-08T11:52:33Z"
-  },
-  {
-    "title": "Donald Trump announced a \u2018ceasefire\u2019 with Iran after threatening total annihilation",
-    "description": "It\u2019s been difficult to write about any of this political crap in recent months because I am incandescent with rage at every single person who enabled Donald Trump. I have violent contempt for every single person who argued that Kamala Harris and Donald Trump \u2026",
-    "link": "https://www.celebitchy.com/970916/donald_trump_announced_a_ceasefire_with_iran_after_threatening_total_annihilation/",
-    "timestamp": "2026-04-08T11:45:42Z"
-  },
-  {
-    "title": "Vance warns Iran will 'find out' Trump is 'not one to mess around' if ceasefire deal falls apart",
-    "description": "Vice President JD Vance says the Iran ceasefire is fragile but could hold if Tehran negotiates in good faith, warning the U.S. won't hesitate to act.",
-    "link": "https://www.foxnews.com/politics/vance-warns-iran-find-out-trump-not-one-mess-around-ceasefire-deal-falls-apart",
-    "timestamp": "2026-04-08T11:42:14Z"
-  },
-  {
-    "title": "Trump unveils plan to work hand-in-hand with Iran on 'nuclear dust' recovery mission",
-    "description": "President Donald Trump revealed Wednesday that his administration would be working alongside Iran to \u201cdig up and remove\u201d enriched uranium as part of the two-week ceasefire agreement that was tentatively agreed to on Tuesday, and spoke optimistically about a p\u2026",
-    "link": "https://www.rawstory.com/trump-iran-2676678579/",
-    "timestamp": "2026-04-08T11:41:42Z"
-  },
-  {
-    "title": "Woo Hoo! WI Voters Elect Another Liberal Justice To Supreme Court",
-    "description": "Here's some good news! Liberals expanded their majority on Wisconsin\u2019s top court yesterday, aiding Democrats to curb GOP abuses in a swing state that is home to some of the nation\u2019s closest elections and most contentious ideological battles.\nVoters put Chris \u2026",
-    "link": "https://crooksandliars.com/2026/04/woo-hoo-wi-voters-elect-another-liberal",
-    "timestamp": "2026-04-08T11:39:20Z"
-  },
-  {
-    "title": "Trump's Iran War Is Transforming the Psychological Meaning of Fossil Fuels",
-    "description": "I think we can assess one outcome of this stupid war already: Both the emotional valence and the structural understanding of different energy sources has shifted, and for good. Meaning takes a very long time to erode, but when it does the switch can come quic\u2026",
-    "link": "https://billmckibben.substack.com/p/oil-and-gasperil-and-poverty-solar",
-    "timestamp": "2026-04-08T11:39:02Z"
-  },
-  {
-    "title": "TACO to the rescue",
-    "description": "President Donald Trump backed off his ultimatum and agreed to a two-week ceasefire with Iran. Investors celebrated the return of the TACO trade.",
-    "link": "https://www.businessinsider.com/taco-trade-trump-iran-ceasefire-investors-celebrate-stock-market-2026-4",
-    "timestamp": "2026-04-08T11:37:55Z"
-  },
-  {
-    "title": "Trump is expected to meet NATO leader Rutte as he muses about pulling out of the military alliance",
-    "description": "NATO Secretary-General Mark Rutte is expected to meet with President Donald Trump to try to smooth over the president\u2019s anger with the military alliance over the Iran war",
-    "link": "https://abcnews.com/US/wireStory/trump-expected-meet-nato-leader-rutte-muses-pulling-131830331",
-    "timestamp": "2026-04-08T11:36:47Z"
-  },
-  {
-    "title": "US stock index futures climb over 2% on relief from US-Iran ceasefire",
-    "description": "Wall Street stock index futures rose more than 2% \u200bacross the board on Wednesday after the U.S. and Iran agreed to a two-week ceasefire, sending crude prices lower on expectations that energy supplies through the Strait of Hormuz could resume.",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-index-futures-climb-over-2-on-relief-from-us-iran-ceasefire/articleshow/130112169.cms",
-    "timestamp": "2026-04-08T11:35:40Z"
-  },
-  {
-    "title": "Trump claims 'regime change' in Iran, vows no uranium enrichment, says many of 15 peace points already agreed",
-    "description": "Following a ceasefire, President Donald Trump declared Iran has experienced regime change. The United States will now collaborate with Iran on denuclearization efforts. Uranium enrichment will cease. Washington will also discuss tariff and sanctions relief wi\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-claims-regime-change-in-iran-vows-no-uranium-enrichment-says-many-of-15-peace-points-already-agreed/articleshow/130112038.cms",
-    "timestamp": "2026-04-08T11:32:02Z"
-  },
-  {
-    "title": "Live updates: Attacks resume in Iran and Gulf Arab countries, throwing ceasefire deal into question (Associated Press)",
-    "description": "Associated Press:\nLive updates: Attacks resume in Iran and Gulf Arab countries, throwing ceasefire deal into question\u00a0 \u2014\u00a0 President Donald Trump said late Tuesday he's pulling back on his threats to launch devastating strikes on Iran (AP Production: Marissa D\u2026",
-    "link": "https://www.memeorandum.com/260408/p9",
-    "timestamp": "2026-04-08T11:30:01Z"
-  },
-  {
-    "title": "The Trump Administration\u2019s Latest Target: This Woolly American Icon",
-    "description": "This story was originally published by\u00a0Inside Climate News\u00a0and\u00a0is reproduced here as part of the\u00a0Climate Desk\u00a0collaboration. The American buffalo\u2014those ornery, hairy prairie beasts that reign as the official mammal of the United States\u2014have joined wind turbin\u2026",
-    "link": "https://www.motherjones.com/politics/2026/04/trump-administration-doug-burgum-interior-american-bison-buffalo-ban-blm-grazing/",
-    "timestamp": "2026-04-08T11:30:00Z"
-  },
-  {
-    "title": "Trump\u2019s Iran War Is Tearing Apart His Catholic\u2013Evangelical Coalition",
-    "description": "Last week, in a prime-time speech that was confused and discursive even by his own standards, President Donald Trump attempted to justify the current war in Iran. US attacks, he assured the American public, were \u201can investment in your children and your grandc\u2026",
-    "link": "https://www.motherjones.com/politics/2026/04/trumps-iran-war-is-tearing-apart-his-catholic-evangelical-coalition/",
-    "timestamp": "2026-04-08T11:30:00Z"
-  },
-  {
-    "title": "Stephen Colbert Has a Hilarious Reaction to Donald Trump\u2019s \u2018Chilling\u2019 Threat to Iran",
-    "description": "Veteran talk show host Stephen Colbert had a hilarious reaction to President Donald Trump\u2019s controversial message to Iran ahead of the two-week ceasefire, where the President warned about wiping out a \u201cwhole civilization,\u201d drawing the ire of his critics. As m\u2026",
-    "link": "https://www.comingsoon.net/tv/news/2117586-stephen-colbert-donald-trump-threat-message-iran-war",
-    "timestamp": "2026-04-08T11:29:10Z"
-  },
-  {
-    "title": "Canada and Mexico must work together to help Cuba survive its dire humanitarian crisis",
-    "description": "Collaborating on providing aid to Cuba in its time of need could serve as a strong foundation for improving Canadian-Mexican relations.",
-    "link": "https://theconversation.com/canada-and-mexico-must-work-together-to-help-cuba-survive-its-dire-humanitarian-crisis-279542",
-    "timestamp": "2026-04-08T11:27:11Z"
-  },
-  {
-    "title": "Trump lands himself in the 'worst situation' possible \u2014 and he can't recover: biographer",
-    "description": "Donald Trump could be approaching the \"beginning of the end\" for his presidency, according to a political biographer. Michael Wolff, who worked closely with the Trump team during his first term in the Oval Office, believes the Iran war could be the end of the\u2026",
-    "link": "https://www.rawstory.com/trump-lands-himself-in-worst-situation-possible-that-he-cannot-recover-from-biographer/",
-    "timestamp": "2026-04-08T11:24:56Z"
-  },
-  {
-    "title": "Mid-Air Birth Flies Home How Stupid Birthright Citizenship Is",
-    "description": "The extreme manipulation of the Fourteenth Amendment's Citizenship Clause must end now if the republic is to survive.",
-    "link": "https://thefederalist.com/2026/04/08/mid-air-birth-flies-home-how-stupid-birthright-citizenship-is/",
-    "timestamp": "2026-04-08T11:24:50Z"
-  },
-  {
-    "title": "DOI Plans to Merge BSEE, BOEM",
-    "description": "The U.S. Department of the Interior announced the start of a phased plan to establish the Marine Minerals Administration.",
-    "link": "https://www.rigzone.com/news/doi_plans_to_merge_bsee_boem-08-apr-2026-183402-article/",
-    "timestamp": "2026-04-08T11:23:28Z"
-  },
-  {
-    "title": "Israel Says Iran Ceasefire Agreement Does Not Apply to Lebanon",
-    "description": "After President Donald Trump and Iran announced a two-week ceasefire, Israeli Prime Minister Benjamin Netanyahu praised Trump and agreed to stop the bombing in Iran, but did not agree to stop operations against Iran\u2019s proxy militia Hezbollah in Lebanon. NBC\u2019s\u2026",
-    "link": "https://www.today.com/video/iran-war-ceasefire-begins-but-israel-says-lebanon-not-included-260883525658",
-    "timestamp": "2026-04-08T11:19:21Z"
-  },
-  {
-    "title": "What are the rules of war?",
-    "description": "Strict protocols governing violations of international humanitarian law are not always enforceable \u2013 or enforced",
-    "link": "https://theweek.com/world-news/the-rules-of-war",
-    "timestamp": "2026-04-08T11:18:36Z"
-  },
-  {
-    "title": "US and Iran Both Claim Victory After 2-Week Ceasefire Agreement",
-    "description": "President Donald Trump announced on Tuesday that \u201csubject to the complete, immediate and safe reopening of the Strait of Hormuz\u201d he would agree to \u201csuspend the bombing and attack of Iran for a period of two weeks.\u201d He also labeled the agreement a \u201cdouble-side\u2026",
-    "link": "https://www.today.com/video/us-and-iran-agree-to-a-ceasefire-paving-the-way-for-negotiations-260883013925",
-    "timestamp": "2026-04-08T11:16:11Z"
-  },
-  {
-    "title": "Iran ceasefire: trust will be vital but it\u2019s in short supply right now",
-    "description": "Iran feels that the US has repeatedly betrayed its trust in the diplomatic process.",
-    "link": "https://theconversation.com/iran-ceasefire-trust-will-be-vital-but-its-in-short-supply-right-now-280056",
-    "timestamp": "2026-04-08T11:15:58Z"
-  },
-  {
-    "title": "\u2018I Am Sick of This Sh*t!\u2019 Megyn Kelly Unleashes on Trump Over His \u2018Completely Irresponsible and Disgusting\u2019 Social Media Posts",
-    "description": "Megyn Kelly tore into President Trump's \"completely irresponsible and disgusting\" social media posts \"threatening a bunch of war crimes\" against Iran.\nThe post \u2018I Am Sick of This Sh*t!\u2019 Megyn Kelly Unleashes on Trump Over His \u2018Completely Irresponsible and Dis\u2026",
-    "link": "https://www.mediaite.com/media/podcasts/i-am-sick-of-this-sht-megyn-kelly-unleashes-on-trump-over-his-completely-irresponsible-and-disgusting-social-media-posts/",
-    "timestamp": "2026-04-08T11:14:31Z"
-  },
-  {
-    "title": "Why are US stock market futures up today, and will Dow Jones, S&P 500 and Nasdaq climb new milestones to make history? Wall Street futures, US stocks to watch out for, analysts insights, market outlook, what should investors do now",
-    "description": "Why are US stock market futures up today, and will Dow Jones, S&P 500 and Nasdaq climb new milestones to make history? U.S. futures surged after a US-Iran ceasefire eased oil supply fears. Crude prices fell and travel stocks gained while energy shares dropped\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/why-are-us-stock-market-futures-up-today-and-will-dow-jones-sp-500-and-nasdaq-climb-new-milestones-to-make-history-wall-street-futures-us-stocks-to-watch-out-for-analysts-insights-market-outlook-what-should-investors-do-now/articleshow/130111320.cms",
-    "timestamp": "2026-04-08T11:13:23Z"
-  },
-  {
-    "title": "GOP in freefall as Dems pull out 'landslide victory': 'We screwed up another race'",
-    "description": "Democrats had another strong electoral showing Tuesday night in the battleground states of Wisconsin and Georgia in what Politico described\r\n as \u201cone of their best election nights since President Donald Trump returned to the White House\u201d \u2013 a showing that spar\u2026",
-    "link": "https://www.rawstory.com/midterm-elections-2676678380/",
-    "timestamp": "2026-04-08T11:12:03Z"
-  },
-  {
-    "title": "LaGuardia Airport TSA Lines Shorten to Under 15 Minutes as Staffing Stabilizes Post-Shutdown Chaos",
-    "description": "NEW YORK \u2014 Travelers at LaGuardia Airport faced relatively manageable security wait times Wednesday as TSA staffing levels continued to recover from a recent federal funding lapse that triggered some of the longest lines in the airport's history earlier this \u2026",
-    "link": "https://www.ibtimes.com.au/laguardia-airport-tsa-lines-shorten-under-15-minutes-staffing-stabilizes-post-shutdown-chaos-1865796",
-    "timestamp": "2026-04-08T11:11:18Z"
-  },
-  {
-    "title": "Energy crisis will last for months \u2013 Kremlin envoy",
-    "description": "Energy markets will take months to stabilize even if the Strait of Hormuz reopens, Kirill Dmitriev warns as airlines confirm a long recovery Read Full Article at RT.com",
-    "link": "https://www.rt.com/russia/637705-dmitriev-long-energy-crisis/",
-    "timestamp": "2026-04-08T11:05:26Z"
   }
 ]
