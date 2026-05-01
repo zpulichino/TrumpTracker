@@ -1,5 +1,443 @@
 [
   {
+    "title": "US Congress votes to end record government shutdown",
+    "description": "<![CDATA[ US Congress approved funding for most of the Department of Homeland Security, ending a 75-day partial shutdown. ]]>",
+    "link": "https://www.channelnewsasia.com/world/us-congress-government-shutdown-vote-immigration-6093221",
+    "timestamp": "2026-04-30T19:49:00Z"
+  },
+  {
+    "title": "Insiders reveal Trump's real obsession \u2014 and it isn't the economy",
+    "description": "President Donald Trump has set his sights on becoming one of history's \"great men\" \u2014 yet he still has concerns that his efforts could be ruined, according to a new report from The Atlantic. And although the president has said he's not as concerned about \"lega\u2026",
+    "link": "https://www.rawstory.com/donald-trump-legacy-2676836779/",
+    "timestamp": "2026-04-30T19:47:26Z"
+  },
+  {
+    "title": "Admin Uses Records Policy to Jail Scientist While Being Sued for Records Abuses",
+    "description": "The records charges are a thin veil for the administration\u2019s continued attacks on public health, one commentator said.",
+    "link": "https://truthout.org/articles/admin-uses-records-policy-to-jail-scientist-while-being-sued-for-records-abuses/",
+    "timestamp": "2026-04-30T19:46:30Z"
+  },
+  {
+    "title": "Trump says he is OK with Iran playing in FIFA World Cup",
+    "description": "April 30 : U.S. President Donald Trump on Thursday told reporters that \"I'm OK\" with Iran playing in the FIFA soccer World Cup, which will be held in North America in June and July.The comments come after FIFA President Gianni Infantino on Thursday said Iran \u2026",
+    "link": "https://www.channelnewsasia.com/sport/trump-says-he-ok-iran-playing-in-fifa-world-cup-6093286",
+    "timestamp": "2026-04-30T19:45:53Z"
+  },
+  {
+    "title": "Trump\u2019s Budget Plunders Birth Control and Reproductive Health Programs\u2014With Open Derision for Americans Who Need Them",
+    "description": "Title X is the federal program that funds family planning and reproductive health services nationwide\u2014and under President Donald Trump\u2019s proposed budget for 2027, it would be effectively eliminated, reshaping access to care for women across the country.\nWhat \u2026",
+    "link": "https://msmagazine.com/2026/04/30/trump-fy-2027-budget-fiscal-year-title-x-planned-parenthood-birth-control-contraception-family-planning/",
+    "timestamp": "2026-04-30T19:45:02Z"
+  },
+  {
+    "title": "First direct US flight in seven years lands in Venezuela",
+    "description": "The first direct flight between the United States and Venezuela in seven years landed Thursday in Caracas, a new sign of a thaw after Washington deposed leftist leader Nicolas Maduro.\nThe post First direct US flight in seven years lands in Venezuela appeared \u2026",
+    "link": "https://www.vanguardngr.com/2026/04/first-direct-us-flight-in-seven-years-lands-in-venezuela/",
+    "timestamp": "2026-04-30T19:44:56Z"
+  },
+  {
+    "title": "Meet the acid-tongued pageant queen ready to replace Karoline Leavitt... as Trump insiders give unfiltered verdict on her press secretary abilities",
+    "description": "As White House Press Secretary Karoline Leavitt prepares for maternity leave in mid-May, her deputy Anna Kelly is emerging as a hot favorite stand-in - but not everyone in the West Wing is sold.",
+    "link": "https://www.dailymail.com/news/article-15742737/anna-kelly-pageant-queen-Karoline-Leavitt.html",
+    "timestamp": "2026-04-30T19:44:21Z"
+  },
+  {
+    "title": "Fact check: Prominent Republicans make false claims about gas prices",
+    "description": "Republicans face political risk from the spike in gasoline prices caused by the war President Donald Trump launched against Iran. Over the last two days, prominent Republicans have made a series of false claims about gas prices.",
+    "link": "https://www.cnn.com/2026/04/30/politics/fact-check-republicans-gas-prices",
+    "timestamp": "2026-04-30T19:43:48Z"
+  },
+  {
+    "title": "Trump says \u2018OK\u2019 with Iran playing in US at World Cup",
+    "description": "US President Donald Trump said he was \"OK\" with Iran playing their World Cup games in the United States, after FIFA chief Gianni Infantino reiterated that the team would do so despite the Middle East war.\nThe post Trump says \u2018OK\u2019 with Iran playing in US at Wo\u2026",
+    "link": "https://www.vanguardngr.com/2026/04/trump-says-ok-with-iran-playing-in-us-at-world-cup/",
+    "timestamp": "2026-04-30T19:41:48Z"
+  },
+  {
+    "title": "Infantino confirms Iran will play World Cup games in US",
+    "description": "FIFA President Gianni Infantino reiterated that Iran will play their World Cup games in the United States as scheduled as football's power-brokers met in Vancouver on Thursday.\"And of course, Iran will play (in) the United States of America.\"",
+    "link": "https://sports.yahoo.com/articles/infantino-confirms-iran-play-world-194101447.html",
+    "timestamp": "2026-04-30T19:41:01Z"
+  },
+  {
+    "title": "California high-speed rail costs soar to $231 billion",
+    "description": "Calls are growing to scrap the high-speed rail project as costs balloon by 700% and federal funding is withdrawn under the Trump administration.",
+    "link": "https://www.foxla.com/news/california-high-speed-rail-cost-soars-231-billion",
+    "timestamp": "2026-04-30T19:40:36Z"
+  },
+  {
+    "title": "Oil Settles Lower After Surge",
+    "description": "Brent retreated from a four-year high as algorithmic trading and thin volumes drove volatility.",
+    "link": "https://www.rigzone.com/news/wire/oil_settles_lower_after_surge-30-apr-2026-183582-article/",
+    "timestamp": "2026-04-30T19:40:29Z"
+  },
+  {
+    "title": "Trump Administration \u2018Ending the Weaponization\u2019 Against Gun Owners in 34 Rules",
+    "description": "The Trump administration is proposing almost three dozen new rules to scale back gun regulations that proliferated during the Biden administration. The 34 rules placed in the Federal Register on Wednesday included reversing a 2024 Biden administration rule th\u2026",
+    "link": "https://www.dailysignal.com/2026/04/30/trump-gun-owners-in-34-rules/",
+    "timestamp": "2026-04-30T19:40:00Z"
+  },
+  {
+    "title": "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
+    "description": "Ruling weakening Voting Rights Act opens door to more states redrawing maps, diluting voting power of minority groups.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling",
+    "timestamp": "2026-04-30T19:39:26Z"
+  },
+  {
+    "title": "Melania lets go of Trump\u2019s hand in public\u2026 he doesn\u2019t hold back and reacts: it\u2019s all caught on camera",
+    "description": "On April 28 of this year, a gala banquet was held at the White House for the visit of King Charles III and Camilla, but this event has gone viral after Melania Trump\u2019s snub toward her husband, Donald Trump. Upon entering the hall, the First Lady quickly let g\u2026",
+    "link": "https://www.upsocl.com/melania-lets-go-of-trumps-hand-in-public-he-doesnt-hold-back-and-reacts-its-all-caught-on-camera/",
+    "timestamp": "2026-04-30T19:37:13Z"
+  },
+  {
+    "title": "GOP advances another ICE 'blank check' as millions lose food stamps",
+    "description": "House Republicans on Wednesday passed a budget resolution that sets the stage for GOP lawmakers to draft and approve more funding for immigration enforcement without any support from Democrats, who condemned the proposal as another \u201cblank check\u201d for rogue age\u2026",
+    "link": "https://www.rawstory.com/gop-advances-another-ice-blank-check-as-millions-lose-food-stamps/",
+    "timestamp": "2026-04-30T19:37:02Z"
+  },
+  {
+    "title": "Canada Says Barring Iran From FIFA Congress \u2018Unintentional\u2019",
+    "description": "Gianni Infantino said Thursday the team would play at the World Cup.",
+    "link": "https://frontofficesports.com/fifa-world-cup-canada-iran/",
+    "timestamp": "2026-04-30T19:36:40Z"
+  },
+  {
+    "title": "Melania's flashy Meta glasses next to Queen Camilla forces White House into U-turn after banning ALL 'wearable tech'",
+    "description": "First Lady Melania Trump dazzled White House guests when trying on Meta's glasses at the White House while alongside Queen Camilla on Tuesday.",
+    "link": "https://www.dailymail.com/news/article-15775867/Melania-flashy-Meta-glasses-tech.html",
+    "timestamp": "2026-04-30T19:34:19Z"
+  },
+  {
+    "title": "Iran War Nears 60-Day War Powers Deadline",
+    "description": "But U.S. Defense Secretary Pete Hegseth argues that the cease-fire has paused the clock.",
+    "link": "http://foreignpolicy.com/2026/04/30/hegseth-senate-testimony-iran-war-60-days-war-powers-resolution/",
+    "timestamp": "2026-04-30T19:34:19Z"
+  },
+  {
+    "title": "Scott Jennings Criticizes Trump\u2019s DOJ Case Against James Comey: \u2018It\u2019s Not A Crime To Be A Weirdo\u2019",
+    "description": "\u201cI mean, I think Jim Comey has become a silly weirdo with these posts, and the way he acts, he\u2019s become hyperpartisan,\u201d Scott Jennings said.",
+    "link": "https://www.huffpost.com/entry/scott-jennings-james-comey-goofball-weirdo-jail_n_69f3a022e4b0db8899bbd83c",
+    "timestamp": "2026-04-30T19:33:42Z"
+  },
+  {
+    "title": "Live: Iran threatens 'long and painful strikes' if US renews attacks",
+    "description": "Supreme Leader Mojtaba Khamenei says Tehran will eliminate \"the enemies' abuses of the waterway\" under new management of the Strait of Hormuz. Follow live.",
+    "link": "https://www.abc.net.au/news/2026-05-01/iran-war-live-updates-may-1/106626914",
+    "timestamp": "2026-04-30T19:30:06Z"
+  },
+  {
+    "title": "Gas Prices Have Jumped 46 Percent Since Start of Iran War",
+    "description": "Trump admitted high prices will remain for \u201ca little while,\u201d but his administration says they could last beyond 2027.",
+    "link": "https://truthout.org/articles/gas-prices-have-jumped-46-percent-since-start-of-iran-war/",
+    "timestamp": "2026-04-30T19:29:48Z"
+  },
+  {
+    "title": "Donald Trump's Brutal Dig at Prince Harry Made During King Charles' Trip to Washington Revealed",
+    "description": "Donald Trump made a brutal dig about Prince Harry to his father King Charles during the veteran monarch\u2019s trip to Washington, according to new claims.",
+    "link": "https://radaronline.com/p/donald-trump-dig-prince-harry-made-to-king-charles-trip-revealed/",
+    "timestamp": "2026-04-30T19:28:14Z"
+  },
+  {
+    "title": "Gifts exchanged between Trump and King Charles during visit including Melania's message to Kate and William",
+    "description": "The King and Queen and said their farewells to Donald Trump and first lady Melania following their four-day state visit",
+    "link": "https://www.ladbible.com/news/us-news/king-charles-donald-trump-melania-message-kate-william-339367-20260430",
+    "timestamp": "2026-04-30T19:27:25Z"
+  },
+  {
+    "title": "Wyden to Force Declassification of Secret Court Opinion on FISA \u201cSerious Abuses\u201d",
+    "description": "On Thursday, Sen. Ron Wyden (D-OR) proposed a short-term extension of FISA in exchange for declassifying a major opinion from the top government surveillance court, which revealed continuing violations of the controversial authority. Wyden\u2019s proposal follows \u2026",
+    "link": "https://www.commondreams.org/newswire/wyden-to-force-declassification-of-secret-court-opinion-on-fisa-serious-abuses",
+    "timestamp": "2026-04-30T19:25:15Z"
+  },
+  {
+    "title": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+    "description": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+    "link": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html",
+    "timestamp": "2026-04-30T19:25:06Z"
+  },
+  {
+    "title": "Trump says ABC \"better\" fire Jimmy Kimmel soon, after Kimmel said \"Donald and Melania lately have seemed closer than ever\" on Wednesday; Disney hasn't commented (Brian Stelter/CNN)",
+    "description": "Brian Stelter / CNN:\nTrump says ABC \u201cbetter\u201d fire Jimmy Kimmel soon, after Kimmel said \u201cDonald and Melania lately have seemed closer than ever\u201d on Wednesday; Disney hasn't commented\u00a0 \u2014\u00a0 People in entertainment Donald Trump Federal agencies TV shows\u00a0 \u2014\u00a0 Presid\u2026",
+    "link": "https://mediagazer.com/260430/p16#a260430p16",
+    "timestamp": "2026-04-30T19:25:01Z"
+  },
+  {
+    "title": "Visibly Declining Trump Demands Candidates Prove Mental Wellness",
+    "description": "Now that he\u2019s no longer eligible for the office, Donald Trump\u2014a 79-year-old who routinely falls asleep in critical meetings\u2014believes it\u2019s pertinent for all future presidential candidates to undergo a cognitive examination.\u201cAnybody running for President or Vic\u2026",
+    "link": "https://newrepublic.com/post/209812/visibly-declining-trump-demands-candidates-prove-mental-wellness",
+    "timestamp": "2026-04-30T19:23:48Z"
+  },
+  {
+    "title": "White House releases dozens of behind-the-scenes photos of King Charles III and Queen Camilla\u2019s state visit",
+    "description": "President Trump welcomed the royals to the White House for events on April 27-28, 2026.",
+    "link": "https://nypost.com/2026/04/30/us-news/white-house-releases-dozens-of-behind-the-scenes-photos-of-king-charles-iii-and-queen-camillas-state-visit/",
+    "timestamp": "2026-04-30T19:22:39Z"
+  },
+  {
+    "title": "Senate bans its own members and staff from betting in prediction markets",
+    "description": "The Senate has approved a bipartisan resolution to prevent its members from using prediction markets",
+    "link": "https://abcnews.com/Business/wireStory/senate-bans-members-staff-betting-prediction-markets-132546632",
+    "timestamp": "2026-04-30T19:22:15Z"
+  },
+  {
+    "title": "Oil Hits Four Year High As Iran Negotiations Continue",
+    "description": "Brent crude hit $126 per barrel on Thursday.",
+    "link": "https://dailycaller.com/2026/04/30/oil-four-year-high-iran-negotiations/",
+    "timestamp": "2026-04-30T19:21:44Z"
+  },
+  {
+    "title": "US Congress votes to end record government shutdown",
+    "description": "The US Congress on Thursday approved funding for most of the Department of Homeland Security (DHS), ending a record-breaking partial government shutdown that has disrupted critical agencies for more than two months.",
+    "link": "https://www.vanguardngr.com/2026/04/us-congress-votes-to-end-record-government-shutdown/",
+    "timestamp": "2026-04-30T19:20:35Z"
+  },
+  {
+    "title": "Trump: 'Iran wants to make a deal badly, but nobody knows who their leaders are'",
+    "description": "US President Donald Trump commented on the ongoing talks with Iran, noting that \"nobody knows what the talks are except myself and a couple of other people. They want to make a deal badly.\"He added that \"we have a problem because nobody knows for sure who the\u2026",
+    "link": "https://www.israelnationalnews.com/flashes/684495",
+    "timestamp": "2026-04-30T19:20:34Z"
+  },
+  {
+    "title": "Booker: Dems 'Will Unravel' Media Mergers that 'Corrupt' Trump Admin Approved",
+    "description": "Thursday on MS NOW's \"Morning Joe,\"\u00a0Sen. Cory Booker (D-NJ) said Democrats will \"unravel\" media mergers the Trump administration approved.\nThe post Booker: Dems \u2018Will Unravel\u2019 Media Mergers that \u2018Corrupt\u2019 Trump Admin Approved appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/clips/2026/04/30/booker-dems-will-unravel-media-mergers-that-corrupt-trump-admin-approved/",
+    "timestamp": "2026-04-30T19:20:19Z"
+  },
+  {
+    "title": "It\u2019s\u00a0Time for Democrats to Dial Down the Violent Talk",
+    "description": "We all know what needs to happen for the nation to dial down the temperature of our political discourse\u2014Democrats need to chill. Sadly,\u00a0that\u2019s\u00a0unlikely to happen any time soon.\u00a0 Why would it? Before Saturday night\u2019s\u00a0foiled\u00a0attack at the White House Correspond\u2026",
+    "link": "https://www.dailysignal.com/2026/04/30/democrats-dial-violent-talk/",
+    "timestamp": "2026-04-30T19:20:00Z"
+  },
+  {
+    "title": "Oil prices hit wartime high as Iran vows to keep control of Hormuz strait",
+    "description": "New supreme leader says Iranians will defend their nuclear capabilities as a \u2018national asset\u2019",
+    "link": "https://www.irishtimes.com/world/middle-east/2026/04/30/oil-prices-hit-wartime-high-as-iran-vows-to-keep-control-of-hormuz-strait/",
+    "timestamp": "2026-04-30T19:19:36Z"
+  },
+  {
+    "title": "After warnings that funding could \u2018run out\u2019 for TSA workers, House approves bill to fund DHS, leaves out ICE",
+    "description": "DHS has been without routine funds since Feb. 14, causing hardship for workers, though much of Trump\u2019s immigration agenda that is\u00a0central to the dispute\u00a0is being funded separately.",
+    "link": "https://fortune.com/2026/04/30/house-passes-dhs-funding-bill-ice-tsa-workers/",
+    "timestamp": "2026-04-30T19:18:17Z"
+  },
+  {
+    "title": "Trump Announces He\u2019s Lifting Tariffs on the UK While Gushing About King Charles",
+    "description": "President Donald Trump published a Truth Social announcing he was taking action to promote trade between the United States and the United Kingdom.\nThe post Trump Announces He\u2019s Lifting Tariffs on the UK While Gushing About King Charles first appeared on Media\u2026",
+    "link": "https://www.mediaite.com/media/news/trump-announces-hes-lifting-tariffs-on-the-uk-while-gushing-about-king-charles/",
+    "timestamp": "2026-04-30T19:17:42Z"
+  },
+  {
+    "title": "ICE Agent Who Killed Renee Good Is Back On The Job As Investigation Stalls: Report",
+    "description": "The news is the latest example of the Trump administration failing to investigate shootings by immigration agents.",
+    "link": "https://www.huffpost.com/entry/jonathan-ross-back-to-work-renee-good-killer-moved_n_69f3a25be4b0db8899bbd947",
+    "timestamp": "2026-04-30T19:16:35Z"
+  },
+  {
+    "title": "Trump-Endorsed Steve Hilton Unveils Plan to Bring Production Back to California as Governor",
+    "description": "California's leading Republican gubernatorial candidate will support an up to 60% film tax credit rate for productions shooting in the state\nThe post Trump-Endorsed Steve Hilton Unveils Plan to Bring Production Back to California as Governor appeared first on\u2026",
+    "link": "https://www.thewrap.com/media-platforms/politics/steve-hilton-california-film-production-plan-trump-endorsement/",
+    "timestamp": "2026-04-30T19:16:31Z"
+  },
+  {
+    "title": "Jimmy Kimmel Torches Trump For \u2018Cosplaying Fat John Wick\u2019 In AI Iran Threat Post",
+    "description": "\u201cIs this supposed to scare them?\u201d the late-night host taunted.",
+    "link": "https://www.huffpost.com/entry/jimmy-kimmel-trump-fat-john-wick-ai-iran-threat-post_n_69f37e63e4b0db8899bba4c4",
+    "timestamp": "2026-04-30T19:16:10Z"
+  },
+  {
+    "title": "Trump says he's lifting certain tariffs on Scotch whisky after royal visit",
+    "description": "President Donald Trump says he's removing certain tariffs on Scotch whisky after this week\u2019s White House visit by King Charles III and Queen Camilla of the United Kingdom",
+    "link": "https://abcnews.com/Business/wireStory/trump-lifting-tariffs-scotch-whisky-after-royal-visit-132547076",
+    "timestamp": "2026-04-30T19:15:41Z"
+  },
+  {
+    "title": "US sanctions DR Congo ex-leader Kabila over rebel ties",
+    "description": "The United States on Thursday slapped sanctions on the Democratic Republic of Congo's long-serving former president Joseph Kabila, backing allegations he has assisted Rwandan-linked rebels who have seized vast parts of his country.\nThe post US sanctions DR Co\u2026",
+    "link": "https://www.vanguardngr.com/2026/04/us-sanctions-dr-congo-ex-leader-kabila-over-rebel-ties/",
+    "timestamp": "2026-04-30T19:15:03Z"
+  },
+  {
+    "title": "Tucker Carlson Has Message For Neocons Wanting To Silence Americans Who Call Out Iran War",
+    "description": "Daily Caller News Foundation co-founder Tucker Carlson sent a message Thursday to neocons attempting to silence Americans who oppose the Iran war.",
+    "link": "https://dailycaller.com/2026/04/30/tucker-carlson-neocons-iran-war/",
+    "timestamp": "2026-04-30T19:14:52Z"
+  },
+  {
+    "title": "Trump Says He's Removing Certain Tariffs On Scotch Whisky After Royal Visit",
+    "description": "\u201cThe King and Queen got me to do something that nobody else was able to do, without hardly even asking!\u201d Trump posted on social media.",
+    "link": "https://www.huffpost.com/entry/trump-listing-certain-tariffs-scotch-whisky-king-charlesroyal-visit_n_69f3a562e4b0510ddb7bdd7e",
+    "timestamp": "2026-04-30T19:12:00Z"
+  },
+  {
+    "title": "Congress extends controversial spy law for 45 days after Senate rejects House bill",
+    "description": "The House approved a Senate-passed 45-day extension of FISA Section 702 punting a long-term solution to the controversial spying program until Congress returns in May.",
+    "link": "https://www.foxnews.com/politics/congress-extends-controversial-spy-law-45-days-after-senate-rejects-house-bill",
+    "timestamp": "2026-04-30T19:11:49Z"
+  },
+  {
+    "title": "Democrats fail to shatter Republicans' resolve on eve of crucial Iran deadline",
+    "description": "Senate Republicans reject Democrats' sixth attempt to limit President Donald Trump's authority in Iran as a critical 60-day war powers deadline arrives on Friday.",
+    "link": "https://www.foxnews.com/politics/democrats-fail-shatter-republicans-resolve-eve-crucial-iran-deadline",
+    "timestamp": "2026-04-30T19:11:25Z"
+  },
+  {
+    "title": "Trump says he's lifting certain tariffs on Scotch whisky after royal visit",
+    "description": "President Donald Trump says he's removing certain tariffs on Scotch whisky after this week\u2019s White House visit by King Charles III and Queen Camilla of the United Kingdom. Trump posted on social media Thursday that the royal couple got him to do \"something th\u2026",
+    "link": "https://www.seattlepi.com/business/article/trump-says-he-s-listing-certain-tariffs-on-scotch-22234871.php",
+    "timestamp": "2026-04-30T19:08:10Z"
+  },
+  {
+    "title": "All the things foreign leaders have offered to name after Donald Trump",
+    "description": "The Trump family name has opened many eponymous doors for the president and his ilk.",
+    "link": "https://theweek.com/politics/trump-named-places-israel-heights-fort-golf-syria-poland",
+    "timestamp": "2026-04-30T19:06:10Z"
+  },
+  {
+    "title": "Piers Morgan Uncensored 2026.04.30 WEB H264-onX",
+    "description": "Season , Episode \u2013 \"Netanyahu CONNED Trump!\" Dave Smith Slams US-Iran War & Israel Ties | Feat. Bill O'Reilly\"The State Visit of King Charles III to the United States has been hailed as a major diplomatic win but it may also be serving as a timely distraction\u2026",
+    "link": "https://post.rlsbb.to/piers-morgan-uncensored-2026-04-30-web-h264-onx/",
+    "timestamp": "2026-04-30T19:06:09Z"
+  },
+  {
+    "title": "Ted Cruz Defends Jimmy Kimmel's Melania Trump 'Widow' Joke from FCC: Government Can't Be 'Speech Police'",
+    "description": "Sen. Ted Cruz (R-TX) has placed himself at odds with the Trump administration in the name of free speech, voicing his negative opinion on the Federal Communications Commission's (FCC) investigation into Disney and ABC after late-night host Jimmy Kimmel made a\u2026",
+    "link": "https://www.breitbart.com/the-media/2026/04/30/ted-cruz-defends-jimmy-kimmels-melania-trump-widow-joke-from-fcc-government-cant-be-speech-police/",
+    "timestamp": "2026-04-30T19:05:32Z"
+  },
+  {
+    "title": "US sanctions DR Congo ex-leader Kabila over rebel ties",
+    "description": "The United States on Thursday slapped sanctions on the Democratic Republic of Congo\u2019s long-serving former president Joseph Kabila, backing allegations he has assisted Rwandan-linked rebels who have seized vast parts of his country.\u00a0 It is the latest action by\u2026",
+    "link": "https://www.digitaljournal.com/world/us-sanctions-dr-congo-ex-leader-kabila-over-rebel-ties/article",
+    "timestamp": "2026-04-30T19:03:23Z"
+  },
+  {
+    "title": "Man accused of attempting to storm Trump dinner to remain in jail",
+    "description": "Cole Tomas Allen, 31, appears briefly in court, days after he allegedly attempted to storm the White House Correspondents' Association dinner armed with guns and knives.",
+    "link": "https://www.abc.net.au/news/2026-05-01/correspondents-dinner-alleged-shooter-cole-tomas-allen/106628870",
+    "timestamp": "2026-04-30T19:02:36Z"
+  },
+  {
+    "title": "\u2018You Said That? To the QUEEN?!\u2019 Fox\u2019s Jesse Watters Admits to Making Gun Violence Joke to Queen Camilla",
+    "description": "Fox News hosts Jesse Watters and Greg Gutfeld shared some eyebrow-raising comments about the state dinner with the British royal couple.\nThe post \u2018You Said That? To the QUEEN?!\u2019 Fox\u2019s Jesse Watters Admits to Making Gun Violence Joke to Queen Camilla first app\u2026",
+    "link": "https://www.mediaite.com/media/tv/you-said-that-to-the-queen-foxs-jesse-watters-admits-to-making-gun-violence-joke-to-queen-camilla/",
+    "timestamp": "2026-04-30T19:01:57Z"
+  },
+  {
+    "title": "US: Trump signs DHS funding bill, ending partial shutdown",
+    "description": "The legislation ends a partial government shutdown and restores funding to key government agencies. But Republicans are unhappy that ICE and Border Patrol have been excluded. US President Donald Trump signed a bill to fund Department of Homeland Security (DHS\u2026",
+    "link": "https://www.dw.com/en/us-trump-signs-dhs-funding-bill-ending-partial-shutdown/a-77005913",
+    "timestamp": "2026-04-30T19:01:00Z"
+  },
+  {
+    "title": "US: House passes DHS funding bill to end partial shutdown",
+    "description": "Once signed into law, the legislation will end a partial department shutdown and restore funding to key agencies. But Republicans are unhappy that ICE and Border Patrol have been excluded.",
+    "link": "https://www.dw.com/en/us-house-passes-dhs-funding-bill-to-end-partial-shutdown/a-77005913",
+    "timestamp": "2026-04-30T19:01:00Z"
+  },
+  {
+    "title": "Trump Nominates Fox News Contributor For Surgeon General After Wellness Influencer Stalls",
+    "description": "Dr. Nicole Saphier is the president's new pick after the nomination of Dr. Casey Means, a wellness influencer with an inactive medical license, languished.",
+    "link": "https://www.huffpost.com/entry/trump-surgeon-general-nicole-saphier_n_69f38ef2e4b02d8fdb5e8c97",
+    "timestamp": "2026-04-30T19:00:26Z"
+  },
+  {
+    "title": "\u2018Magic Crystals and Tree Power!\u2019 Erick Erickson Dances on the Grave of Trump Nominee Who \u2018Bragged About Witchcraft\u2019",
+    "description": "Erick Erickson danced on the grave of Casey Means's nomination to serve as surgeon general after President Donald Trump pulled it on Thursday.\nThe post \u2018Magic Crystals and Tree Power!\u2019 Erick Erickson Dances on the Grave of Trump Nominee Who \u2018Bragged About Wit\u2026",
+    "link": "https://www.mediaite.com/media/news/magic-crystals-and-tree-power-erick-erickson-dances-on-the-grave-of-trump-nominee-who-bragged-about-witchcraft/",
+    "timestamp": "2026-04-30T19:00:13Z"
+  },
+  {
+    "title": "AI Is Supercharging the Surveillance State",
+    "description": "Warrants are at the center of the debate over government spying, and for good reason. But artificial intelligence is redefining the contours of that debate.\nThe post AI Is Supercharging the Surveillance State appeared first on The American Prospect.",
+    "link": "http://prospect.org/2026/04/30/ai-supercharging-surveillance-state-congress-fisa-section-702/",
+    "timestamp": "2026-04-30T19:00:00Z"
+  },
+  {
+    "title": "Casey Means Is Officially Too Kooky for Republicans",
+    "description": "President Trump has pulled the plug on the wellness influencer\u2019s stalled surgeon general nomination and chosen Dr. Nicole Saphier to replace her.",
+    "link": "http://nymag.com/intelligencer/article/trump-pulls-casey-means-surgeon-general-nomination.html",
+    "timestamp": "2026-04-30T18:58:50Z"
+  },
+  {
+    "title": "Dem Senator and Hegseth Duke It Out After She Asks If He\u2019d \u2018Seize\u2019 Midterm Ballots: \u2018Get Over It!\u2019",
+    "description": "Elissa Slotkin and Pete Hegseth duked it out at a hearing after Slotkin asked Hegseth whether he'd seize midterm ballots for President Donald Trump.\nThe post Dem Senator and Hegseth Duke It Out After She Asks If He\u2019d \u2018Seize\u2019 Midterm Ballots: \u2018Get Over It!\u2019 fi\u2026",
+    "link": "https://www.mediaite.com/media/tv/dem-senator-and-hegseth-duke-it-out-after-she-asks-if-hed-seize-midterm-ballots-get-over-it/",
+    "timestamp": "2026-04-30T18:56:28Z"
+  },
+  {
+    "title": "Congress finally funds DHS, but NOT ICE or Border Patrol",
+    "description": "Democrats forced 75-day shutdown in their fight against Trump's law enforcement plans",
+    "link": "https://www.wnd.com/2026/04/congress-finally-funds-dhs-not-ice-border-patrol/",
+    "timestamp": "2026-04-30T18:56:11Z"
+  },
+  {
+    "title": "Trump Boasts About Cognitive Exam Scores: \u2018ACED IT ALL THREE TIMES\u2019",
+    "description": "President\u00a0Donald Trump\u00a0boasted about his repeat \"Cognitive Examination\" scores, claiming he \"ACED IT ALL TRHEE TIMES!\" in a new Truth Social post.\nThe post Trump Boasts About Cognitive Exam Scores: \u2018ACED IT ALL THREE TIMES\u2019 first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/politics/trump-boasts-about-cognitive-exam-scores-aced-it-all-three-times/",
+    "timestamp": "2026-04-30T18:51:28Z"
+  },
+  {
+    "title": "Carney says there is 'one negotiator for Canada' after Conservative MPs descend on Washington",
+    "description": "Prime Minister Mark Carney suggested Thursday that those travelling to Washington who are not part of his government to discuss Canada-U.S. trade often return home not having learned \"anything new.\"",
+    "link": "https://nationalpost.com/news/politics/carney-says-there-is-one-negotiator-for-canada-after-conservative-mps-descend-on-washington",
+    "timestamp": "2026-04-30T18:51:19Z"
+  },
+  {
+    "title": "Mark Kelly Grills Hegseth On His \u2018No Quarter No Mercy\u2019 War Declaration: \u2018So You\u2019re Not Clarifying\u2019",
+    "description": "Mark Kelly grilled Defense Secretary Pete Hegseth on his declaration that there would be \"no quarter\" and \"no mercy\" for the enemy in the ongoing Iran conflict.\nThe post Mark Kelly Grills Hegseth On His \u2018No Quarter No Mercy\u2019 War Declaration: \u2018So You\u2019re Not Cl\u2026",
+    "link": "https://www.mediaite.com/politics/mark-kelly-grills-hegseth-on-his-no-quarter-no-mercy-war-declaration-so-youre-not-clarifying/",
+    "timestamp": "2026-04-30T18:50:44Z"
+  },
+  {
+    "title": "Who Is Trump\u2019s New Pick For Surgeon General?",
+    "description": "President Donald Trump nominated a new surgeon general on Thursday after announcing that his former nomination was withdrawn.",
+    "link": "https://dailycaller.com/2026/04/30/trumps-new-surgeon-general-casey-means-nicole-saphier/",
+    "timestamp": "2026-04-30T18:49:52Z"
+  },
+  {
+    "title": "FCC claims its review of ABC licenses has nothing to do with Jimmy Kimmel and is all about DEI",
+    "description": "ABC has been under pressure after Kimmel joked that Melania Trump had the glow of an \u2018expectant widow\u2019 days before a gunman attempted to storm the White House Correspondents\u2019 Dinner",
+    "link": "https://www.the-independent.com/arts-entertainment/tv/news/fcc-jimmy-kimmel-abc-licenses-dei-b2968383.html",
+    "timestamp": "2026-04-30T18:47:50Z"
+  },
+  {
+    "title": "New Florida Redistricting Map Could Deliver 4 New House Seats to GOP in Midterms",
+    "description": "Polls show that a majority of Floridians don\u2019t support the redistricting effort led by Gov. Ron DeSantis.",
+    "link": "https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/",
+    "timestamp": "2026-04-30T18:46:33Z"
+  },
+  {
+    "title": "'He Hates Trump': Marjorie Taylor Greene Claims MAGA Congressman Mocked Trump 'Constantly' Behind His Back",
+    "description": "Marjorie Taylor Green alleged that New York Rep. Mike Lawler relentlessly mocked Trump until he reclaimed the White House in 2024.",
+    "link": "https://radaronline.com/p/marjorie-taylor-greene-claims-congressman-mike-lawler-mocked-trump/",
+    "timestamp": "2026-04-30T18:45:00Z"
+  },
+  {
+    "title": "Cher to headline Richmond Forum speaker series",
+    "description": "Cher will open the Richmond Forum, followed by talks from Justin Trudeau, Laurie Santos, Sal Khan and Dambisa Moyo.",
+    "link": "https://richmond.com/news/local/government-politics/article_0b3c93f1-99c7-4558-b1a8-29bf4a5bbc9c.html",
+    "timestamp": "2026-04-30T18:45:00Z"
+  },
+  {
+    "title": "WSJ : DeSantis' New Fla. Maps Could Backfire on GOP",
+    "description": "Florida's governor is trying to bank more GOP House seats, but the Wall Street Journal 's editorial board thinks he may be overplaying his hand. In its latest opinion piece about the \"gerrymander gamble\" in the Sunshine State, the board argues that Ron DeSant\u2026",
+    "link": "https://www.newser.com/story/388317/wsj-desantis-new-fla-maps-could-backfire-on-gop.html",
+    "timestamp": "2026-04-30T18:45:00Z"
+  },
+  {
+    "title": "Georgia Gubernatorial Hopeful Pressed on Illegal Alien Labor",
+    "description": "Rick Jackson, the Republican frontrunner in Georgia\u2019s gubernatorial race, was pressed by his primary opponents this week on his history of hiring illegal alien labor. \u201cYou claim to be tough on illegal deportation, but you\u2019ve got illegals working in your backy\u2026",
+    "link": "https://www.dailysignal.com/2026/04/30/georgia-gubernatorial-hopeful-pressed-on-illegal-alien-labor/",
+    "timestamp": "2026-04-30T18:44:27Z"
+  },
+  {
+    "title": "\u2018This is the new Ohio\u2019: Why everyone\u2019s watching the Nevada governor\u2019s race",
+    "description": "LAS VEGAS \u2014 Nevada Gov. Joe Lombardo is trying to run a reelection campaign befitting the neon-drenched, sagebrush-pocked desert he has for five decades called home. President Donald Trump is making that hard. The Republican governor started the year with a s\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4377069/posts",
+    "timestamp": "2026-04-30T18:41:14Z"
+  },
+  {
     "title": "Trump Family-Backed Drone Firm Signs Weapons Deal With US (Annie Massa/Bloomberg)",
     "description": "Annie Massa / Bloomberg:\nTrump Family-Backed Drone Firm Signs Weapons Deal With US\u00a0 \u2014\u00a0 The US Air Force agreed to buy an undisclosed number of interceptor drones from a company backed by President Donald Trump's sons, according to the firm, deepening the mili\u2026",
     "link": "https://www.memeorandum.com/260430/p78",
@@ -124,455 +562,5 @@
     "description": "Who is Sharaa\u2019s investment campaign really for?",
     "link": "http://foreignpolicy.com/2026/04/30/syria-reconstruction-sharaa-trump-barrack-damascus-gulf-saudi-arabia/",
     "timestamp": "2026-04-30T18:22:09Z"
-  },
-  {
-    "title": "Trump Taps Fox News Contributor Dr. Nicole Saphier as Surgeon General Nominee",
-    "description": "\u201cShe is also an INCREDIBLE COMMUNICATOR,\" the president writes on Truth Social\nThe post Trump Taps Fox News Contributor Dr. Nicole Saphier as Surgeon General Nominee appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/media-platforms/politics/trump-taps-nicole-saphier-surgeon-general/",
-    "timestamp": "2026-04-30T18:19:56Z"
-  },
-  {
-    "title": "Releasing Full 2024 Election Autopsy Would Be \u201cNavel Gazing,\u201d DNC Chair Says",
-    "description": "Reporting earlier this year found that the autopsy says that Gaza played a major role in Kamala Harris\u2019s defeat.",
-    "link": "https://truthout.org/articles/releasing-full-2024-election-autopsy-would-be-navel-gazing-dnc-chair-says/",
-    "timestamp": "2026-04-30T18:19:47Z"
-  },
-  {
-    "title": "Trump favorite's sudden demotion fuels White House gossip mill",
-    "description": "A top aide of Donald Trump has been mysteriously demoted after a meteoric rise through the administration\u2019s ranks.Josh Gruenbaum, 40, will now only work for Trump\u2019s Board of Peace, according to a report by Politico.White House spokesperson Anna Kelly told the\u2026",
-    "link": "https://www.rawstory.com/josh-gruenbaum/",
-    "timestamp": "2026-04-30T18:17:02Z"
-  },
-  {
-    "title": "Trump praises Gov. Jeff Landry\u2019s plan to postpone Louisiana\u2019s Congressional elections",
-    "description": "President Donald Trump on Thursday voiced support for Gov. Jeff Landry\u2019s plan to push back elections for Congress in the wake of a Supreme Court decision that found the state\u2019s voting map unconstitutional.",
-    "link": "https://www.theadvocate.com/baton_rouge/news/politics/elections/trump-jeff-landry-callais-redistricting-louisiana/article_c3277bcc-b587-5d54-b6b5-b2bc197b2247.html",
-    "timestamp": "2026-04-30T18:17:00Z"
-  },
-  {
-    "title": "CNN\u2019s Harry Enten Finds Trump\u2019s GOP Is Making \u2018Generational Gains\u2019 With Black Americans",
-    "description": "Harry Enten reported Thursday that President Donald Trump's Republican Party was making solid gains with Black Americans not seen in a generation.\nThe post CNN\u2019s Harry Enten Finds Trump\u2019s GOP Is Making \u2018Generational Gains\u2019 With Black Americans first appeared \u2026",
-    "link": "https://www.mediaite.com/politics/cnns-harry-enten-finds-trumps-gop-is-holding-onto-generational-gains-with-black-americans/",
-    "timestamp": "2026-04-30T18:15:33Z"
-  },
-  {
-    "title": "Who are Dr Nicole B. Saphier and Dr Casey Means, and how are they linked with President Donald Trump? Trump nominates new surgeon general after stalled pick",
-    "description": "Who are Dr Nicole B. Saphier and Dr Casey Means, and how are they linked with President Donald Trump? The US surgeon general nomination changed after President Donald Trump selected Dr Nicole B. Saphier and withdrew Dr Casey Means. The move follows delays on \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/who-are-dr-nicole-b-saphier-and-dr-casey-means-and-how-are-they-linked-with-president-donald-trump-trump-nominates-new-surgeon-general-after-stalled-pick/articleshow/130647072.cms",
-    "timestamp": "2026-04-30T18:14:39Z"
-  },
-  {
-    "title": "White House correspondents' shooting latest: Pirro says suspect fired shotgun",
-    "description": "Cole Allen,\u00a0the suspect in\u00a0the White House Correspondents' Association Dinner\u00a0shooting, conceded to remain detained.",
-    "link": "https://abcnews.com/US/white-house-correspondents-suspect-cole-allen-stay-custody/story?id=132530945",
-    "timestamp": "2026-04-30T18:13:55Z"
-  },
-  {
-    "title": "Biden DOJ used abortion group 'dossiers' to monitor, prosecute Christians, Trump task force report alleges",
-    "description": "Trump administration accuses Biden Justice Department team of working with abortion groups to create dossiers on pro-life Christian activists' families.",
-    "link": "https://www.foxnews.com/politics/biden-doj-used-abortion-group-dossiers-monitor-prosecute-christians-trump-task-force-report-alleges",
-    "timestamp": "2026-04-30T18:13:29Z"
-  },
-  {
-    "title": "Trump claims he's served 3 terms while bragging he 'aced' cognitive tests",
-    "description": "President Donald Trump announced on Thursday that he has served three terms as president and bragged about passing his cognitive exams \u2014 something he thinks all presidential or vice presidential candidates should be \"forced\" to do. The boast about his mental \u2026",
-    "link": "https://www.rawstory.com/donald-trump-cognitive-test/",
-    "timestamp": "2026-04-30T18:13:03Z"
-  },
-  {
-    "title": "Iran's supreme leader defies US blockade as oil prices soar",
-    "description": "Iran's supreme leader declared Thursday that the United States had suffered a shameful defeat, defiantly rejecting a warning from President Donald Trump that an economically punishing U.S. naval blockade could be enforced for months to come.",
-    "link": "https://www.hurriyetdailynews.com/irans-supreme-leader-defies-us-blockade-as-oil-prices-soar-221675",
-    "timestamp": "2026-04-30T18:12:38Z"
-  },
-  {
-    "title": "Trump Pentagon Chief Hegseth Lashes Out at Hearing in New \u2018Pharisees\u2019 Rant",
-    "description": "Pete Hegseth lashed out at Democrats in a new rant referencing his comparison of Trump opponents to the \"Pharisees,\" Biblical opponents of Jesus.\nThe post Trump Pentagon Chief Hegseth Lashes Out at Hearing in New \u2018Pharisees\u2019 Rant first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/trump-pentagon-chief-hegseth-lashes-out-at-hearing-in-new-pharisees-rant/",
-    "timestamp": "2026-04-30T18:10:59Z"
-  },
-  {
-    "title": "Trump withdraws wellness influencer and MAHA activist Casey Means as surgeon general nominee",
-    "description": "On Thursday the president announced he is nominating Nicole Saphier, a radiologist and Fox News contributor, as the nation\u2019s top doctor",
-    "link": "https://www.scientificamerican.com/article/trump-withdraws-wellness-influencer-and-maha-activist-casey-means-as-surgeon-general-nominee/",
-    "timestamp": "2026-04-30T18:10:00Z"
-  },
-  {
-    "title": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
-    "description": "Russian president wants pause in conflict to mark \u2018victory day\u2019 but Zelenskiy is pushing for longer break",
-    "link": "https://www.irishtimes.com/world/europe/2026/04/30/ukraine-expands-oil-strikes-on-russia-as-putin-proposes-brief-ceasefire/",
-    "timestamp": "2026-04-30T18:09:20Z"
-  },
-  {
-    "title": "\u2018Everything Depends on Our Attitudes\u2019",
-    "description": "Belgian Defense Minister Theo Francken on Hegseth, Hormuz, and NATO\u2019s future.",
-    "link": "http://foreignpolicy.com/2026/04/30/francken-belgium-iran-war-hegseth-trump-hormuz-nato/",
-    "timestamp": "2026-04-30T18:09:01Z"
-  },
-  {
-    "title": "Exclusive: Rep. Abe Hamadeh Introduces Resolution Condemning Multiple Trump Assassination Attempts, Recognizing DHS Mission",
-    "description": "A new House resolution introduced this week seeks to formally denounce recent and prior attempts on President Donald J. Trump\u2019s life while emphasizing the responsibilities of federal law enforcement and homeland security agencies amid ongoing threat concerns.\u2026",
-    "link": "https://www.breitbart.com/politics/2026/04/30/exclusive-rep-abe-hamadeh-introduces-resolution-condemning-multiple-trump-assassination-attempts-recognizing-dhs-mission/",
-    "timestamp": "2026-04-30T18:08:38Z"
-  },
-  {
-    "title": "New footage shows only one source of gunfire at correspondents' dinner\u2014and it's not the suspect",
-    "description": "Newly reviewed surveillance footage from the White House correspondents' dinner shows a Secret Service agent firing multiple shots at a fleeing suspect into a crowded hallway. The video offers no clear visual evidence that the alleged gunman ever fired his we\u2026",
-    "link": "https://boingboing.net/2026/04/30/new-footage-shows-only-one-source-of-gunfire-at-correspondents-dinner-and-its-not-the-suspect.html",
-    "timestamp": "2026-04-30T18:07:31Z"
-  },
-  {
-    "title": "King Charles set to return home with a quiet sense of mission accomplished",
-    "description": "LONDON \u2014 As King Charles III closed out his four-day state visit to the U.S. on Thursday, President Donald Trump issued a three-word assessment of the monarch.\u201cThe greatest king,\u201d Trump said after he and first lady Melania Trump said goodbye to Charles and Qu\u2026",
-    "link": "https://www.nbcnews.com/world/europe/king-charles-trump-set-return-mission-accomplished-rcna342865",
-    "timestamp": "2026-04-30T18:07:17Z"
-  },
-  {
-    "title": "Infantino: Iran will play World Cup games in the USA",
-    "description": "Iran will play their World Cup matches in the United States this summer, FIFA president Gianni Infantino has insisted.",
-    "link": "https://www.rte.ie/sport/soccer/2026/0430/1571153-infantino-iran-will-play-world-cup-games-in-the-usa/",
-    "timestamp": "2026-04-30T18:06:21Z"
-  },
-  {
-    "title": "'It's nuts': Joe Rogan blames Trump if 'Iran nukes New York City'",
-    "description": "Podcaster Joe Rogan expressed the view that President Donald Trump's war with Iran would be to blame if a nuclear weapon were used on New York City.During a discussion with comedian Ari Shaffir on Thursday, Rogan lamented Israel's bombardment of Gaza followin\u2026",
-    "link": "https://www.rawstory.com/joe-rogan-trump-iran/",
-    "timestamp": "2026-04-30T18:05:00Z"
-  },
-  {
-    "title": "Why did Trump drop Casey Means nomination? #health",
-    "description": "Trump withdraws Casey Means, nominates Nicole Saphier President Donald Trump ended months of speculation about the next U.S. surgeon general by withdrawing Dr. Casey Means\u2019s nomination and selecting Dr. Nicole B. Saphier instead. The key reported factor behin\u2026",
-    "link": "https://alltoc.com/health/why-did-trump-drop-casey-means-nomination",
-    "timestamp": "2026-04-30T18:04:44Z"
-  },
-  {
-    "title": "Why did Trump replace Surgeon General Casey Means? #politics",
-    "description": "Trump withdraws Casey Means and names Nicole Saphier instead President Donald Trump pulled back Dr. Casey Means\u2019s nomination for surgeon general, and simultaneously announced a replacement. The stories explain that Means\u2019s nomination stalled in part because s\u2026",
-    "link": "https://alltoc.com/politics/why-did-trump-replace-surgeon-general-casey-means",
-    "timestamp": "2026-04-30T18:03:11Z"
-  },
-  {
-    "title": "Man accused in Trump assassination attempt agrees to remain in custody",
-    "description": "Cole Allen, accused of planning an attack on President Trump and officials, will remain in custody. Prosecutors allege Allen traveled to Washington with weapons to target the White House Correspondents' Dinner. The defense questions the evidence and notes All\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/man-accused-in-trump-assassination-attempt-agrees-to-remain-in-custody/articleshow/130647121.cms",
-    "timestamp": "2026-04-30T18:02:49Z"
-  },
-  {
-    "title": "\u2018Viewpoint-based discrimination\u2019: DOJ confirms Biden administration had IRS attack Christians",
-    "description": "Democrat's agenda denied tax-exempt status for a group because its Bible teachings were too close to Republican views",
-    "link": "https://www.wnd.com/2026/04/viewpoint-based-discrimination-doj-confirms-biden-administration-had/",
-    "timestamp": "2026-04-30T18:01:31Z"
-  },
-  {
-    "title": "Graham Platner Has Won the Battle. Can He Win the War?",
-    "description": "Chatting with New York\u2019s Rebecca Traister about Graham Platner\u2019s victory in the Maine Democratic primary and the next phase in this blockbuster Senate race.",
-    "link": "http://nymag.com/intelligencer/article/janet-mills-graham-platner-maine-primary.html",
-    "timestamp": "2026-04-30T18:01:11Z"
-  },
-  {
-    "title": "Despite Defeat of Pesticide Liability Shield, House Farm Bill Still 'Has Industry Fingerprints All Over It'",
-    "description": "The diverse coalition opposed to a legislative \"liability shield\" for the pesticide industry celebrated on Thursday after the US House of Representatives stripped it out of the Farm, Food, and National Security Act of 2026\u2014though progressive voices still soun\u2026",
-    "link": "https://www.commondreams.org/news/pesticide-liability-shield",
-    "timestamp": "2026-04-30T18:00:51Z"
-  },
-  {
-    "title": "What now for Rahm, DeChambeau and LIV's biggest names?",
-    "description": "Star names including Jon Rahm and Bryson DeChambeau face an uncertain future on the LIV tour, writes Iain Carter.",
-    "link": "https://www.bbc.com/sport/golf/articles/c936y6y5rx4o",
-    "timestamp": "2026-04-30T18:00:44Z"
-  },
-  {
-    "title": "EXCLUSIVE: King Charles Assassination Plot \u2014\u00a0Radar Reveals Terrifying Plan to Hack Protection Drones and Turn Them on Monarch During US State Visit",
-    "description": "King Charles is at the center of heightened security fears during his US state visit after Trump's assassination attempt.",
-    "link": "https://radaronline.com/p/king-charles-assassination-plot-security-drone-threat-us-visit-trump/",
-    "timestamp": "2026-04-30T17:59:25Z"
-  },
-  {
-    "title": "Who is Ahmad Vahidi? The man reportedly calling the shots in Iran and worrying Trump's team",
-    "description": "As Iran's leadership undergoes significant shifts amidst a U.S.-Israeli war, Brigadier General Ahmad Vahidi is emerging as a powerful figure within the IRGC. His rise, marked by a history of covert operations and international sanctions, positions him as a ke\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/who-is-ahmad-vahidi-the-man-reportedly-calling-the-shots-in-iran-and-worrying-trumps-team/articleshow/130637591.cms",
-    "timestamp": "2026-04-30T17:59:06Z"
-  },
-  {
-    "title": "\u201cTDS\u201d \u2013 A Parody of \u201cBe Our Guest\u201d from Beauty and the Beast (1991)",
-    "description": "0:00Ladies and gentlemen, please welcome the 47th President of the United States, 0:055 seconds: President Donald J. Trump, accompanied by First Lady Mrs. Melania Trump. 0:1919 seconds: I got Trump arrangement syndrome. I hate the mother. T D S TDS. Democrats\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4377066/posts",
-    "timestamp": "2026-04-30T17:58:39Z"
-  },
-  {
-    "title": "Trump Pulls Surgeon General Nomination for Casey Means \u2014 Names Nicole Saphier in Her Place",
-    "description": "President Donald Trump on Thursday pulled his surgeon general nomination for Casey Means. In her place, he nominated Nicole Saphier.\nThe post Trump Pulls Surgeon General Nomination for Casey Means \u2014 Names Nicole Saphier in Her Place first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/politics/trump-pulls-surgeon-general-nomination-for-casey-means-names-nicole-saphier-in-her-place/",
-    "timestamp": "2026-04-30T17:56:56Z"
-  },
-  {
-    "title": "House Republicans narrowly approve blueprint to fund ICE, CBP",
-    "description": "After drama and delay, House Republicans narrowly approved a blueprint for legislation to fund immigration enforcement agencies.",
-    "link": "https://abcnews.com/Politics/house-republicans-narrowly-approve-blueprint-fund-ice-cbp/story?id=132534420",
-    "timestamp": "2026-04-30T17:56:55Z"
-  },
-  {
-    "title": "Dollar Wraps Worst Month Since June as Haven Trade Unwinds",
-    "description": "The US dollar is heading for its worst monthly slump since June as the promise of peace talks to end the Iran war led traders to unravel bets on the haven currency.",
-    "link": "https://financialpost.com/pmn/business-pmn/dollar-wraps-worst-month-since-june-as-haven-trade-unwinds",
-    "timestamp": "2026-04-30T17:56:39Z"
-  },
-  {
-    "title": "Trump taps Nicole Saphier for surgeon general after pulling Casey Means nomination",
-    "description": "Means' nomination had stalled in the Senate over concerns about her controversial stances on vaccines, birth control, pesticides and psychedelics.",
-    "link": "https://www.cnbc.com/2026/04/30/trump-taps-nicole-saphier-for-surgeon-general-after-pulling-casey-means.html",
-    "timestamp": "2026-04-30T17:54:30Z"
-  },
-  {
-    "title": "Germany faces a fresh Trump threat to cut US troop numbers. The Europeans are used to it",
-    "description": "U.S. President Donald Trump has renewed an old threat that Washington could reduce its military presence in Germany. The country is a key NATO ally and the European Union\u2019s largest economy. Trump\u2019s threat was issued in a social media post on Wednesday. It cam\u2026",
-    "link": "https://www.seattlepi.com/news/world/article/new-bluster-from-trump-germany-faces-new-22234030.php",
-    "timestamp": "2026-04-30T17:52:25Z"
-  },
-  {
-    "title": "USD Dollar crashes against Yen: Why is Japan currency witnessing historic rise?",
-    "description": "US dollar index was down 0.70 per cent at 98.17, on track to snap two straight sessions of gains.",
-    "link": "https://economictimes.indiatimes.com/news/international/us/usd-dollar-crashes-against-yen-why-is-japan-currency-witnessing-historic-rise/articleshow/130646032.cms",
-    "timestamp": "2026-04-30T17:46:13Z"
-  },
-  {
-    "title": "House approves bill to fund Homeland Security and end the record shutdown",
-    "description": "After weeks of delay, the House voted Thursday to fund much of the Department of Homeland Security, but not its immigration enforcement operations, and sent the bipartisan package to President Donald Trump to sign, ending the longest agency shutdown in histor\u2026",
-    "link": "https://www.pbs.org/newshour/politics/house-approves-bill-to-fund-homeland-security-and-end-the-record-shutdown",
-    "timestamp": "2026-04-30T17:46:12Z"
-  },
-  {
-    "title": "US falls to \u2018historic low\u2019 in press freedom tracker: RSF",
-    "description": "Reporters Without Borders warns of 'press freedom crisis' in US amid media consolidation, Trump policies.",
-    "link": "https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf",
-    "timestamp": "2026-04-30T17:41:31Z"
-  },
-  {
-    "title": "Trump Announces Fox News Contributor Dr. Nicole Saphier As New Surgeon General Nominee",
-    "description": "Radiologist and Fox News opinion contributor Dr. Nicole Saphier will be nominated by Donald Trump for surgeon general, putting an end to speculation over whether the president\u2019s previous pick, Dr. Casey Means, could get Senate confirmation. Saphier, director \u2026",
-    "link": "http://deadline.com/2026/04/nicole-saphier-surgeon-general-donald-trump-1236877210/",
-    "timestamp": "2026-04-30T17:41:14Z"
-  },
-  {
-    "title": "\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dc4\u0db1\u0dca \u0dc0\u0dd6 \u0db4\u0dc3\u0dd4\u0db6\u0dd2\u0db8\u0d9a UFO \u0dbb\u0dc4\u0dc3\u0dca \u0d91\u0dc5\u0dd2\u0d9a\u0dbb\u0db1 \u0db6\u0dc0\u0da7 \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0d9a\u0dca",
-    "description": "A series of mysterious events surrounding a group of recently disappeared scientists and the conspiracy theories woven around them have now drawn the intense attention of the American government and the Federal Bureau of Investigation (FBI). Especially after \u2026",
-    "link": "https://english.gossiplankanews.com/2026/04/ufo.html",
-    "timestamp": "2026-04-30T17:40:35Z"
-  },
-  {
-    "title": "US House votes to end government shutdown over immigration operations",
-    "description": "The bill, already passed in the US Senate, now moves to the desk of President Donald Trump who is expected to swiftly sign the legislation.",
-    "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o",
-    "timestamp": "2026-04-30T17:40:17Z"
-  },
-  {
-    "title": "Should the federal government save Spirit Airlines?",
-    "description": "Trump is considering a bailout for the troubled airline",
-    "link": "https://theweek.com/business/spirit-airlines-trump-bailout",
-    "timestamp": "2026-04-30T17:40:14Z"
-  },
-  {
-    "title": "It'll Be Huge! Trump Awkwardly Bragged His White House 'Ballroom Is Going to Be Bigger' Than Windsor Castle Banquet Hall During UK State Visit",
-    "description": "Donald Trump boasted his planned White House grand ballroom will dwarf Windsor Castle\u2019s banquet hall.",
-    "link": "https://radaronline.com/p/trump-bragged-white-house-ballroom-bigger-windsor-castle-banquet-hall/",
-    "timestamp": "2026-04-30T17:38:17Z"
-  },
-  {
-    "title": "\u2018Tucker Carlson Is a Moron\u2019: House Republican Shreds Fox Alum for \u2018Blaming Jews for Open Borders\u2019",
-    "description": "Rep. Mike Lawler (R-NY) shredded former Fox News host Tucker Carlson after Carlson suggested pro-Israel Republicans are in favor of open border policies.\nThe post \u2018Tucker Carlson Is a Moron\u2019: House Republican Shreds Fox Alum for \u2018Blaming Jews for Open Borders\u2026",
-    "link": "https://www.mediaite.com/media/news/tucker-carlson-is-a-moron-house-republican-shreds-fox-alum-for-blaming-jews-for-open-borders/",
-    "timestamp": "2026-04-30T17:36:48Z"
-  },
-  {
-    "title": "Stars Reveal If They Support or Oppose Spencer Pratt\u2019s L.A. Mayoral Race",
-    "description": "Spencer Pratt is saying goodbye to reality TV and hello to politics. Exactly one year after a wildfire burned down his family\u2019s home in Pacific Palisades, California, Pratt announced that he was running for mayor of Los Angeles. \u201cThe system in Los Angeles isn\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/stars-reveal-if-theyd-vote-spencer-pratt-for-la-mayor/",
-    "timestamp": "2026-04-30T17:36:11Z"
-  },
-  {
-    "title": "Maine Gov. Janet Mills Suspends Senate Campaign, Handing Democrat Nomination to Graham 'Nazi Tattoo' Platner",
-    "description": "Maine's Democrat Gov. Janet Mills, 78, has suspended her Senate campaign, which she hoped would unseat 5-term incumbent\u00a0Sen. Susan Collins (R-ME).\nThe post Maine Gov. Janet Mills Suspends Senate Campaign, Handing Democrat Nomination to Graham \u2018Nazi Tattoo\u2019 Pl\u2026",
-    "link": "https://www.breitbart.com/politics/2026/04/30/maine-democrat-gov-janet-mills-suspends-senate-campaign/",
-    "timestamp": "2026-04-30T17:34:31Z"
-  },
-  {
-    "title": "First direct US-Venezuela flight in years arrives in Caracas",
-    "description": "The first direct flight between the United States and Venezuela in seven years landed Thursday in Caracas, a new sign of a thaw after Washington deposed leftist leader Nicolas Maduro. The American Airlines flight took off at 10:26 am (1426 GMT) from Miami en \u2026",
-    "link": "https://www.digitaljournal.com/world/first-direct-us-venezuela-flight-in-years-arrives-in-caracas/article",
-    "timestamp": "2026-04-30T17:33:25Z"
-  },
-  {
-    "title": "Trump pulls Casey Means\u2019 stalled surgeon general nomination and says he\u2019ll put forth Nicole Saphier",
-    "description": "President Donald Trump says he\u2019s nominating Fox News Channel contributor Nicole Saphier for surgeon general after Casey Means\u2019 path forward stalled in the Senate over questions about her experience and her stance on vaccines. In a social media post Thursday, \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4377063/posts",
-    "timestamp": "2026-04-30T17:32:17Z"
-  },
-  {
-    "title": "Mike Johnson Claims US \u2018Not at War\u2019 With Iran Ahead of Key Deadline",
-    "description": "House Speaker Mike Johnson claimed on Thursday that the United States is not at war with Iran, the day before a deadline to involve Congress in foreign military action.\nThe post Mike Johnson Claims US \u2018Not at War\u2019 With Iran Ahead of Key Deadline first appeare\u2026",
-    "link": "https://www.mediaite.com/media/news/mike-johnson-claims-us-not-at-war-with-iran-ahead-of-key-deadline/",
-    "timestamp": "2026-04-30T17:32:04Z"
-  },
-  {
-    "title": "A Bid To Limit Trump\u2019s War Power Against Cuba Has Failed",
-    "description": "The United States Senate has failed to limit Donald Trump in his bid to attack Cuba. The US president has repeatedly hinted that regime change, using military force, is needed in the island nation.",
-    "link": "https://www.shtfplan.com/war/a-bid-to-limit-trumps-war-power-against-cuba-has-failed",
-    "timestamp": "2026-04-30T17:30:59Z"
-  },
-  {
-    "title": "Trump was 'one door away' from danger, GOP lawmakers says as he demands Secret Service explanation",
-    "description": "Rep. Gimenez raises concerns about Secret Service security failures at the WHCA dinner, comparing lapses to the 2024 Butler assassination attempt.",
-    "link": "https://www.foxnews.com/politics/trump-one-door-away-danger-gop-lawmakers-says-demands-secret-service-explanation",
-    "timestamp": "2026-04-30T17:29:45Z"
-  },
-  {
-    "title": "Trump Calls on Senate Republicans to Lift the Filibuster: 'Do Not Be Stupid'",
-    "description": "President Donald Trump called on Senate Republicans to lift the filibuster on Thursday so they can pass the Save America Act, which would require proof of citizenship to register to vote.\nThe post Trump Calls on Senate Republicans to Lift the Filibuster: \u2018Do \u2026",
-    "link": "https://www.breitbart.com/politics/2026/04/30/trump-calls-on-senate-republicans-to-lift-the-filibuster-do-not-be-stupid/",
-    "timestamp": "2026-04-30T17:27:56Z"
-  },
-  {
-    "title": "Iran threatens painful response if US renews attacks",
-    "description": "By Humeyra Pamuk and Tala Ramadan WASHINGTON/DUBAI, April 30 (Reuters) - Iran said on Thursday it would respond with \"long and painful strikes\" on U.S...",
-    "link": "https://www.yahoo.com/news/articles/us-seeks-international-help-reopen-103203927.html",
-    "timestamp": "2026-04-30T17:26:36Z"
-  },
-  {
-    "title": "Trump Nominates New Surgeon General, Slams Senator Who Killed Casey Means\u2019 Nomination",
-    "description": "President Donald Trump announced Thursday that he is withdrawing his surgeon general nomination for the second time. Trump announced the nomination of Dr.\u00a0Nicole\u00a0B. Saphier,\u00a0a\u00a0radiologist and director of breast imaging at Memorial Sloan Kettering Monmouth, re\u2026",
-    "link": "https://www.dailysignal.com/2026/04/30/trump-surgeon-general-casey-means/",
-    "timestamp": "2026-04-30T17:25:13Z"
-  },
-  {
-    "title": "House Approves Bill To Fund DHS And End The Record Shutdown",
-    "description": "It's been the longest agency shutdown in history.",
-    "link": "https://www.huffpost.com/entry/dhs-funding-congress_n_69f38fe5e4b02d8fdb5e92db",
-    "timestamp": "2026-04-30T17:24:52Z"
-  },
-  {
-    "title": "Trump nominates radiologist Dr. Nicole Saphier as surgeon general",
-    "description": "President Donald Trump said on Thursday that he is nominating Dr. Nicole Saphier to be the next surgeon general.",
-    "link": "https://abcnews.com/Politics/trump-nominates-radiologist-dr-nicole-saphier-surgeon-general/story?id=132541264",
-    "timestamp": "2026-04-30T17:24:23Z"
-  },
-  {
-    "title": "Von der Leyen under fire over \u2018double standards\u2019 (PHOTOS/VIDEO)",
-    "description": "EU Commission President Ursula von der Leyen has faced criticism from MEPs over inconsistency in foreign policy and rising energy costs Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/639299-eu-slams-von-der-leyen/",
-    "timestamp": "2026-04-30T17:23:45Z"
-  },
-  {
-    "title": "'It better be soon!!!': Donald Trump has (again) called for ABC to fire Jimmy Kimmel",
-    "description": "It comes a day after the US Federal Communications Commission ordered an early review of ABC\u2019s broadcasting licence.",
-    "link": "https://www.thejournal.ie/donald-trump-again-asks-abc-to-fire-jimmy-kimmel-7028258-Apr2026/",
-    "timestamp": "2026-04-30T17:22:47Z"
-  },
-  {
-    "title": "Trump order aims to help more people get retirement savings plans in time for new federal match",
-    "description": "An order coming from President Donald Trump calls for a new government website where people in the United States can find and compare private-sector retirement savings accounts",
-    "link": "https://abcnews.com/Business/wireStory/trump-order-aims-people-retirement-savings-plans-time-132540484",
-    "timestamp": "2026-04-30T17:22:12Z"
-  },
-  {
-    "title": "Gerrymandering is unpopular with Florida voters \u2013 my recent survey shows why DeSantis pushed it through anyway",
-    "description": "Florida voters don\u2019t like Gov. DeSantis\u2019 redistricting plans, but it doesn\u2019t tend to be a vote-determining issue.",
-    "link": "https://theconversation.com/gerrymandering-is-unpopular-with-florida-voters-my-recent-survey-shows-why-desantis-pushed-it-through-anyway-281792",
-    "timestamp": "2026-04-30T17:21:44Z"
-  },
-  {
-    "title": "Ex-WashU professor surprised when Trump fired National Science Foundation board",
-    "description": "Roger Beachy, a renowned biologist and professor emeritus at WashU, was fired along with every member of the National Science Board on Friday.",
-    "link": "https://www.stltoday.com/news/local/education/article_aa613a87-a6a3-4d70-af3d-9e2fb901efa5.html",
-    "timestamp": "2026-04-30T17:21:00Z"
-  },
-  {
-    "title": "Trump slams Germany\u2019s Merz again as rift over Iran war widens",
-    "description": "Berlin says 'prepared' for fewer US troops, as Trump says German chancellor should focus on European affairs, not Iran.",
-    "link": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens",
-    "timestamp": "2026-04-30T17:19:58Z"
-  },
-  {
-    "title": "GOP Finally on Same Page for New Not-So-Big Beautiful Bill",
-    "description": "Republicans are finally on the same page for their new Not-So-Big Beautiful Bill. The GOP can now stuff ICE full of money and possibly even end the DHS shutdown. Next, they want a third party-line bill full of conservative goodies.",
-    "link": "http://nymag.com/intelligencer/article/gop-finally-on-same-page-for-new-not-so-big-beautiful-bill.html",
-    "timestamp": "2026-04-30T17:19:32Z"
-  },
-  {
-    "title": "Trump may pull US troops from Germany over row with Merz, but threat carries less weight",
-    "description": "Security relationship is not as one-sided as in the past",
-    "link": "https://www.irishtimes.comhttps://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
-    "timestamp": "2026-04-30T17:17:44Z"
-  },
-  {
-    "title": "House approves bill to fund the Department of Homeland Security and end the record shutdown",
-    "description": "The House has voted to fund much of the Department of Homeland Security and bring an end to the longest agency shutdown in history. The bipartisan package had already passed the Senate and its now goes to President Donald Trump.\u2026",
-    "link": "https://apnews.com/article/homeland-security-shutdown-funding-trump-republicans-d377a15c40ad0f430983b6d918b24bb6",
-    "timestamp": "2026-04-30T17:16:00Z"
-  },
-  {
-    "title": "Trump renews call for Netanyahu pardon \u2013 Axios",
-    "description": "US President Donald Trump has urged Israeli President Isaac Herzog to pardon Prime Minister Benjamin Netanyahu, who is facing corruption charges, citing the ongoing conflict with Iran",
-    "link": "https://www.rt.com/news/639310-trump-renews-call-for-netanyahu-pardon-axios/",
-    "timestamp": "2026-04-30T17:15:48Z"
-  },
-  {
-    "title": "House passes Senate DHS funding bill after Johnson reverses course on 76-day shutdown standoff",
-    "description": "Congress moved to end the record-breaking DHS shutdown as Mike Johnson brought the Senate spending bill to a vote amid paycheck deadline warnings.",
-    "link": "https://www.foxnews.com/politics/house-passes-senate-dhs-funding-bill-after-johnson-reverses-course-76-day-shutdown-standoff",
-    "timestamp": "2026-04-30T17:15:28Z"
-  },
-  {
-    "title": "Trump announces Dr Nicole Saphier as new surgeon general pick after pulling Casey Means' nomination",
-    "description": "President Donald Trump announced on Thursday that he was nominating\u00a0Dr Nicole B Saphier as his pick for surgeon general.",
-    "link": "https://www.dailymail.com/health/article-15780173/Trump-announces-Dr-Nicole-Saphier-surgeon-general-nominee.html",
-    "timestamp": "2026-04-30T17:15:21Z"
-  },
-  {
-    "title": "Trump taps Nicole Saphier for surgeon general, dropping Casey Means' nomination",
-    "description": "Trump taps Nicole Saphier for surgeon general, dropping Casey Means' nominationfoxnews.com",
-    "link": "https://www.foxnews.com/health/trump-taps-nicole-saphier-surgeon-general-dropping-casey-means-nomination",
-    "timestamp": "2026-04-30T17:14:49Z"
-  },
-  {
-    "title": "House GOP concedes in DHS funding fight, reopening TSA but blocking ICE funds | CNN Politics",
-    "description": "Congress voted to reopen key parts of the Department of Homeland Security \u2014 including the Transportation Security Administration \u2014 Thursday after weeks of GOP infighting that prolonged a record shutdown of the critical agency.",
-    "link": "https://www.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote",
-    "timestamp": "2026-04-30T17:13:51Z"
-  },
-  {
-    "title": "Trump Nominates Fox News Contributor as Next Surgeon General",
-    "description": "President Donald Trump announced a new surgeon general nominee Thursday, and unsurprisingly, it appears to be someone that he\u2019s seen make frequent appearances on Fox News. In a post on Truth Social, the president announced that he had named Dr. Nicole B. Saph\u2026",
-    "link": "https://newrepublic.com/post/209804/trump-nominates-fox-news-contributor-surgeon-general-nicole-saphier",
-    "timestamp": "2026-04-30T17:13:20Z"
-  },
-  {
-    "title": "Trump Rages Against \u2018Very Disloyal\u2019 GOP Senator For Dissing His Surgeon General Pick: Vote Him \u2018OUT OF OFFICE\u2019",
-    "description": "President Donald Trump raged against Sen. Bill Cassidy (R-LA) Thursday for helping to stall Trump's nomination for U.S. Surgeon General.\nThe post Trump Rages Against \u2018Very Disloyal\u2019 GOP Senator For Dissing His Surgeon General Pick: Vote Him \u2018OUT OF OFFICE\u2019 fi\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-rages-against-very-disloyal-gop-senator-for-dissing-his-surgeon-general-pick-vote-him-out-of-office/",
-    "timestamp": "2026-04-30T17:13:12Z"
-  },
-  {
-    "title": "AOC suggests America may have already elected a gay president",
-    "description": "At age 29, New Yorkers elected her to be the youngest member of Congress in 2018. Now, as she ramps up her reelection campaign at the wise old age of 36, Rep. Alexandria Ocasio-Cortez isn\u2019t shying away from controversial, \u201cgotcha\u201d questions from the likes of \u2026",
-    "link": "https://www.advocate.com/politics/national/aoc-gay-president-tmz",
-    "timestamp": "2026-04-30T17:11:38Z"
-  },
-  {
-    "title": "Donald Trump Repeats Demand That ABC Fire Jimmy Kimmel: \u2018Better Be Soon!\u2019",
-    "description": "Reading Time: 2 minutesDonald Trump is once again demanding that ABC fire Jimmy Kimmel.\nDonald Trump Repeats Demand That ABC Fire Jimmy Kimmel: \u2018Better Be Soon!\u2019 was originally published on The Hollywood Gossip.",
-    "link": "http://www.thehollywoodgossip.com/2026/04/donald-trump-repeats-demand-that-abc-fire-jimmy-kimmel-better-be-soon/",
-    "timestamp": "2026-04-30T17:09:02Z"
-  },
-  {
-    "title": "Trump pulls nomination for stalled surgeon general nominee Means",
-    "description": "Senators of both parties grilled Means her on vaccine stance and other health topics.",
-    "link": "https://www.twincities.com/2026/04/30/trump-surgeon-general-nominee-pulled/",
-    "timestamp": "2026-04-30T17:07:43Z"
-  },
-  {
-    "title": "Trump pulls nomination for stalled surgeon general nominee Means and says he'll put forth Saphier",
-    "description": "President Donald Trump says he's nominating Fox News Channel contributor Dr. Nicole Saphier for surgeon general after Casey Means\u2019 path forward stalled in the Senate over questions about her experience and her stance on vaccines. In a social media post Thursd\u2026",
-    "link": "https://www.seattlepi.com/news/article/trump-pulls-nomination-for-stalled-surgeon-22234661.php",
-    "timestamp": "2026-04-30T17:07:10Z"
   }
 ]
