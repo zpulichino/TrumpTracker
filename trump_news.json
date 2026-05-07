@@ -1,5 +1,509 @@
 [
   {
+    "title": "Gas Prices Top $4.50 a Gallon for First Time Since 2022",
+    "description": "The average is $1.12 more than drivers were paying a year ago.\nThe post Gas Prices Top $4.50 a Gallon for First Time Since 2022 appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/economy/2026/05/06/gas-prices-hit-450/",
+    "timestamp": "2026-05-06T17:16:49Z"
+  },
+  {
+    "title": "USS George H.W. Bush enforces US naval blockade, redirects 52 vessels in Hormuz",
+    "description": "The naval blockade's enforcement could exacerbate regional tensions, disrupt global oil markets, and hinder diplomatic resolutions.\nThe post USS George H.W. Bush enforces US naval blockade, redirects 52 vessels in Hormuz appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/uss-george-hw-bush-enforces-us-naval-blockade-redirects-52-vessels-in-hormuz/",
+    "timestamp": "2026-05-06T17:16:21Z"
+  },
+  {
+    "title": "Exclusive \u2014 Ambassador Monica Crowley on Trump Diplomacy: World Leaders \u2018Appreciate a Strong President\u2019",
+    "description": "Ahead of President Donald Trump\u2019s planned meeting with Chinese President Xi Jinping later this month, Ambassador Monica Crowley said Wednesday that foreign leaders value Trump\u2019s direct approach to diplomacy and understand clearly where the United States stand\u2026",
+    "link": "https://www.breitbart.com/politics/2026/05/06/exclusive-ambassador-monica-crowley-on-trump-diplomacy-world-leaders-appreciate-a-strong-president/",
+    "timestamp": "2026-05-06T17:16:02Z"
+  },
+  {
+    "title": "FAA contractor charged for allegedly threatening to \u2018kill you \u2014 Donald John Trump\u2019",
+    "description": "A Federal Aviation Administration mechanical engineering contractor finds himself at risk of significant jail time over an email he allegedly sent the White House, according to a press release from the U.S. Attorney\u2019s Office for the District of New Hampshire.\u2026",
+    "link": "https://www.theblaze.com/news/faa-contractor-charged-for-allegedly-threatening-to-kill-you-donald-john-trump",
+    "timestamp": "2026-05-06T17:15:00Z"
+  },
+  {
+    "title": "CMA CGM Ship Struck by Projectile in Hormuz; US Halts \u2018Project\u00a0Freedom\u2019",
+    "description": "A CMA CGM vessel was attacked in the Strait of Hormuz hours after President Donald Trump suspended the U.S. naval escort program \"Project Freedom.\"",
+    "link": "http://wwd.com/sourcing-journal/logistics/cma-cgm-project-freedom-president-donald-trump-strait-of-hormuz-iran-war-naval-blockade-1238944763/",
+    "timestamp": "2026-05-06T17:12:15Z"
+  },
+  {
+    "title": "Eric Trump Brutally Trolled by Gavin Newsom After The Don's Son Bragged About Prez's Latest Business Move",
+    "description": "Gavin Newsom mocked Eric Trump after he hyped his dad Donald Trump's airport renaming amid rising gas prices.",
+    "link": "https://radaronline.com/p/eric-trump-trolled-gavin-newsom-bragged-president-business-move-airport/",
+    "timestamp": "2026-05-06T17:10:00Z"
+  },
+  {
+    "title": "Researchers expose algorithm skew that boosted Trump in 2024",
+    "description": "A comprehensive study\r\n released on Wednesday has revealed that the popular social media app TikTok may have helped tilt the 2024 election in President Donald Trump\u2019s favor, The Guardian reported\r\n.\u201cIn an environment where margins are thin, systematic differe\u2026",
+    "link": "https://www.rawstory.com/trump-2676859361/",
+    "timestamp": "2026-05-06T17:09:25Z"
+  },
+  {
+    "title": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
+    "description": "The Democratic lawmaker has been a negotiator for the Clarity Act, and one of the final sticking points is the crypto constraint on officials, including the president.",
+    "link": "https://www.coindesk.com/policy/2026/05/06/crypto-bill-won-t-move-without-a-ban-on-officials-industry-ties-says-u-s-senator-gillibrand",
+    "timestamp": "2026-05-06T17:08:15Z"
+  },
+  {
+    "title": "Trump issues ultimatum for Iran to accept deal or face more bombing",
+    "description": "President Donald Trump issued an ultimatum Wednesday for Iran to accept a deal to end the war or face intense renewed U.S. bombing, the latest in a series of abrupt policy shifts.",
+    "link": "https://www.hurriyetdailynews.com/trump-issues-ultimatum-for-iran-to-accept-deal-or-face-more-bombing-221890",
+    "timestamp": "2026-05-06T17:07:38Z"
+  },
+  {
+    "title": "Netanyahu: 'Full coordination with the US, we were not surprised by Trump'",
+    "description": "Prime Minister Benjamin Netanyahu made a statement at the opening of the political-security cabinet. \"I'm talking with President Trump almost on a daily basis, prepared for any scenario.\"",
+    "link": "https://www.israelnationalnews.com/news/426668",
+    "timestamp": "2026-05-06T17:07:20Z"
+  },
+  {
+    "title": "Exclusive \u2014 Ambassador Monica Crowley: UFC Fight on Trump\u2019s Birthday Will Be \u2018The Most Extraordinary Thing\u2019",
+    "description": "Ambassador Monica Crowley said Wednesday that preparations are already underway for the planned UFC \u2018Freedom 250\u2019 event at the White House on June 14, describing the South Lawn setup and Flag Day fight as an extraordinary spectacle that will coincide with Pre\u2026",
+    "link": "https://www.breitbart.com/politics/2026/05/06/exclusive-ambassador-monica-crowley-ufc-fight-on-trumps-birthday-will-be-the-most-extraordinary-thing/",
+    "timestamp": "2026-05-06T17:05:17Z"
+  },
+  {
+    "title": "A Year After the War: Kashmir\u2019s Border Civilians Sit Between Shelled Roofs and Self-Made Bunkers",
+    "description": "\u201cWe can rely on bunkers, but not on ceasefires.\u201d",
+    "link": "https://thediplomat.com/2026/05/a-year-after-the-war-kashmirs-border-civilians-sit-between-shelled-roofs-and-self-made-bunkers/",
+    "timestamp": "2026-05-06T17:05:00Z"
+  },
+  {
+    "title": "Donald Trump woos military mothers with shiny grin next to 'incredible mom' Melania during Mother's Day tribute",
+    "description": "President Donald Trump and First Lady Melania Trump appeared together at the White House on Wednesday to honor military mothers.",
+    "link": "https://www.dailymail.com/news/article-15795735/Donald-Trump-woos-military-mothers-shiny-grin-incredible-mom-Melania-Mothers-Day-tribute.html",
+    "timestamp": "2026-05-06T17:02:23Z"
+  },
+  {
+    "title": "US Border Wall Construction Damages 1,000-Year-Old Indigenous Land Art in\u00a0Arizona",
+    "description": "Construction of a US border wall destroyed part of a 1,000-year-old indigenous Land art work in Arizona.",
+    "link": "https://www.artnews.com/art-news/news/border-wall-damages-indigenous-land-art-1234784316/",
+    "timestamp": "2026-05-06T17:02:17Z"
+  },
+  {
+    "title": "Pope directly calls out The Don's lies... Four times!",
+    "description": "[OK, NOW the pope and Trump are feuding?!]",
+    "link": "https://greydanus.substack.com/p/pope-leo-actually-calls-out-trumps",
+    "timestamp": "2026-05-06T17:00:13Z"
+  },
+  {
+    "title": "Tracker alerts to 'apocalypse' by monitoring private jets...",
+    "description": "A developer has created a system that tracks private jets and military aircraft in an attempt to predict the \u201capocalypse.\u201d",
+    "link": "https://san.com/cc/is-the-apocalypse-now-one-man-is-tracking-flights-by-the-rich-to-find-out/",
+    "timestamp": "2026-05-06T17:00:13Z"
+  },
+  {
+    "title": "California\u2019s Climate Overreach",
+    "description": "\u201cThe Affordable Insurance and Recovery Act\u00a0(SB 982) would impose liability on fossil fuel companies for \u2018climate-attributable damages,\u2019 expected to be assessed in billions of dollars. It would empower California\u2019s attorney general to sue the state\u2019s oil compa\u2026",
+    "link": "https://wattsupwiththat.com/2026/05/06/californias-climate-overreach/",
+    "timestamp": "2026-05-06T17:00:00Z"
+  },
+  {
+    "title": "Trump Turns to Courts to Shield Big Oil from Climate Lawsuits",
+    "description": "Donald Trump has denied, downplayed, or sought to reverse action on climate change through a combination of public rhetoric, the appointment of skeptics to key positions, and the dismantling of environmental regulations. As of 2026, his actions have included \u2026",
+    "link": "https://oilprice.com/Energy/Energy-General/Trump-Turns-to-Courts-to-Shield-Big-Oil-from-Climate-Lawsuits.html",
+    "timestamp": "2026-05-06T17:00:00Z"
+  },
+  {
+    "title": "GOP Governor Candidate 'Very Proud' Of Affiliation With Far-Right Militia",
+    "description": "A former member of the Oath Keepers testified the group wanted \"armed revolution\" during the Jan. 6, 2021, Capitol attack.",
+    "link": "https://www.huffpost.com/entry/gop-governor-candidate-very-proud-of-affiliation-with-far-right-militia_n_69fb505ae4b0bd66244e7a85",
+    "timestamp": "2026-05-06T16:52:14Z"
+  },
+  {
+    "title": "Trump issues ultimatum for Iran to accept deal or face more bombing",
+    "description": "While Iran considers a US proposal to end the conflict, US President Donald Trump warned \u201cif they don\u2019t agree, the bombing starts, and it will be, sadly, at a much higher level and intensity than it was before.\u201d",
+    "link": "https://www.channelnewsasia.com/world/trump-iran-deal-ceasefire-bomb-war-6104651",
+    "timestamp": "2026-05-06T16:52:00Z"
+  },
+  {
+    "title": "CNN founder Ted Turner, a brash and outspoken television pioneer, dies at age 87",
+    "description": "CNN founder Ted Turner has died at age 87. His company Turner Enterprises says the television pioneer died Wednesday. Turner transformed an obscure Atlanta television station into the first satellite-based \u201csuperstation\u201d and founded Cable News Network, the fi\u2026",
+    "link": "https://www.seattlepi.com/entertainment/article/cnn-founder-ted-turner-a-brash-and-outspoken-22244912.php",
+    "timestamp": "2026-05-06T16:51:42Z"
+  },
+  {
+    "title": "Exclusive: First Lady Melania Trump Honors American Military Moms as 'the Soul of Our Nation' in Address",
+    "description": "First Lady Melania Trump championed the mothers of children in the United States Armed Forces ahead of Mother's Day this weekend, calling them \"the soul of our nation\" in an address to American military mothers in the East Room at the White House on Wednesday\u2026",
+    "link": "https://www.breitbart.com/politics/2026/05/06/exclusive-first-lady-melania-trump-honors-american-military-moms-as-the-soul-of-our-nation-in-address/",
+    "timestamp": "2026-05-06T16:50:40Z"
+  },
+  {
+    "title": "Trump Claims Ted Turner Was \u2018Devastated\u2019 CNN Became \u2018Woke,\u2019 President Hopes Ellisons Can \u2018Bring It Back to Its Former Credibility\u2019",
+    "description": "President Donald Trump asserted that CNN founder Ted Turner was \u201cpersonally devastated\u201d after selling the news network because the new owners \u201cdestroyed\u201d it because it became \u201cwoke\u201d \u2014 although there\u2019s is no evidence of Turner having lamented CNN\u2019s coverage as\u2026",
+    "link": "https://variety.com/2026/tv/news/trump-ted-turner-devastated-cnn-woke-ellisons-1236739526/",
+    "timestamp": "2026-05-06T16:49:47Z"
+  },
+  {
+    "title": "Marco Rubio heads to the Vatican as 2028 presidential buzz ramps up",
+    "description": "Secretary of State Marco Rubio is a frontrunner to succeed President Donald Trump in 2028, though Vice President JD Vance is also seen as a potential heir.",
+    "link": "https://www.cnbc.com/2026/05/06/marco-rubio-vatican-2028-election-trump.html",
+    "timestamp": "2026-05-06T16:49:39Z"
+  },
+  {
+    "title": "Ex-Biden official rips into Gavin Newsom allies\u2019 governor candidate",
+    "description": "\"I do not trust Xavier Becerra to stand up to Trump.\"",
+    "link": "https://nypost.com/2026/05/06/us-news/ex-biden-aide-rips-into-california-governor-candidate-xavier-becerra/",
+    "timestamp": "2026-05-06T16:48:25Z"
+  },
+  {
+    "title": "Republicans Want Billion Taxpayer Bucks For Bunker Baby's Ballroom Boondoggle",
+    "description": "Please, bunker baby, a billion to quit busting our balls!",
+    "link": "https://www.wonkette.com/p/republicans-want-billion-taxpayer",
+    "timestamp": "2026-05-06T16:48:11Z"
+  },
+  {
+    "title": "Analysis: Why Trump wants to end the war with Iran \u201chere and now\u201d, the Chinese factor behind the pressure for a deal",
+    "description": "The visit to Beijing on May 14 and 15, the Strait of Hormuz, and the fear that the US President will appear weakened before Chinese President Xi Jinping\nThe post Analysis: Why Trump wants to end the war with Iran \u201chere and now\u201d, the Chinese factor behind the \u2026",
+    "link": "https://en.protothema.gr/2026/05/06/analysis-why-trump-wants-to-end-the-war-with-iran-here-and-now-the-chinese-factor-behind-the-pressure-for-a-deal/",
+    "timestamp": "2026-05-06T16:46:18Z"
+  },
+  {
+    "title": "Georgia Senate candidate Derek Dooley says trans athlete participation undermines gains in women\u2019s sports",
+    "description": "Former college football coach Derek Dooley made his stance on transgender athletes' participation in women's and girls' sports clear in an interview with Fox News Digital.",
+    "link": "https://www.foxnews.com/outkick-sports/georgia-senate-candidate-derek-dooley-says-trans-athlete-participation-undermines-gains-womens-sports",
+    "timestamp": "2026-05-06T16:46:07Z"
+  },
+  {
+    "title": "Iran demands respect at World Cup after Rubio vows IRGC connections won't be allowed",
+    "description": "Iranian FA chief Mehdi Taj demands the U.S. respect Iran's military institutions ahead of 2026 World Cup games scheduled in California and Seattle.",
+    "link": "https://www.foxnews.com/sports/iran-demands-respect-world-cup-after-rubio-vows-irgc-connections-wont-allowed",
+    "timestamp": "2026-05-06T16:44:59Z"
+  },
+  {
+    "title": "ROOKE: Voters Taught GOP Leadership Valuable Lesson With \u2018Revenge And Retribution\u2019 Dish That Could Repeat On Them",
+    "description": "It's not often that all eyes are watching state legislature races, but Tuesday night had the nation singularly focused on Indiana.",
+    "link": "https://dailycaller.com/2026/05/06/rooke-indiana-republican-primary-redistricting-trump/",
+    "timestamp": "2026-05-06T16:44:29Z"
+  },
+  {
+    "title": "Federal judge baffled by Supreme Court order targeting trans Americans\u2019 passports",
+    "description": "A circuit court judge has asked the U.S. \r\nSupreme Court\r\n to clarify how a recent emergency order impacts transgender\r\n residents suing the State Department for not allowing their passports to display gender markers aligned with their identity.",
+    "link": "https://www.advocate.com/politics/national/supreme-court-transgender-passports-confusion",
+    "timestamp": "2026-05-06T16:42:50Z"
+  },
+  {
+    "title": "DHS Tried to Reveal the Identity of a Canadian Who Dared to Post About Trump and ICE",
+    "description": "Since 2007, Jezebel has been the Internet's most treasured source for everything celebrities, sex, and politics...with teeth.",
+    "link": "https://www.jezebel.com/dhs-investigation-identity-online-users-canadian-subpoena-google-data-privacy-lawsuit-aclu",
+    "timestamp": "2026-05-06T16:42:05Z"
+  },
+  {
+    "title": "MS NOW Host Rejects Trump '3D Chess' Myth: 'He's Just Doing Some Dumb S**t On His Phone'",
+    "description": "Nicolle Wallace pushed back against the suggestion that the president's White House ballroom project has strategic motivations behind it.",
+    "link": "https://www.huffpost.com/entry/ms-now-host-rejects-trump-3d-chess-myth-hes-just-doing-some-dumb-st-on-his-phone_n_69fb18bde4b016ec076c8c41",
+    "timestamp": "2026-05-06T16:41:29Z"
+  },
+  {
+    "title": "Pope Leo points to Church opposition to nukes after Trump falsely claimed he said \u2018Iran can have a nuclear weapon\u2019",
+    "description": "Pope Leo XIV pointed out May 5 that the Catholic Church has long opposed nuclear arms after President Donald Trump falsely claimed the Pontiff had made a \u201cstatement\u201d saying \u201cIran can have a nuclear weapon.\u201dTrump reiterated the accusation against the Pope for \u2026",
+    "link": "https://freerepublic.com/focus/f-religion/4377966/posts",
+    "timestamp": "2026-05-06T16:41:00Z"
+  },
+  {
+    "title": "Republicans unveil proposed congressional map that carves up Tennessee's lone Democratic district",
+    "description": "Republican legislative leaders in Tennessee on Wednesday released a congressional map proposal they are hoping to put in place before the midterm elections that would eliminate the state's only Democratic-controlled district",
+    "link": "https://www.nbcnews.com/politics/2026-election/republicans-unveil-congressional-carves-tennessee-democratic-district-rcna343873",
+    "timestamp": "2026-05-06T16:38:56Z"
+  },
+  {
+    "title": "Sebastian Gorka Says Anyone Who Thinks Iran Conflict Was Unjustified Is \u2018Testicularly Challenged\u2019",
+    "description": "\"You are testicularly challenged,\" Dr. Sebastian Gorka said to a DCNF reporter.",
+    "link": "https://dailycaller.com/2026/05/06/sebastian-gorka-iran-war-testicularly-challenged/",
+    "timestamp": "2026-05-06T16:35:28Z"
+  },
+  {
+    "title": "Iran reviews US proposal as Trump says war could 'be at an end'",
+    "description": "Iran reviews a new peace-deal proposal from the US, which President Donald Trump says could end the war, but an Iranian official describes it as an \"American wish list\".",
+    "link": "https://www.abc.net.au/news/2026-05-07/iran-reviews-us-proposal-as-trump-says-war-could-be-at-an-end-/106650942",
+    "timestamp": "2026-05-06T16:34:26Z"
+  },
+  {
+    "title": "Donald Trump Pushes Anti-Trans Logic & Iran War Propaganda On Kids, Social Media Is Disgusted",
+    "description": "Donald Trump left many folks on social media stunned after bringing up topics like trans individuals, his dumb war with Iran, and even taking a jab at former president Barack Obama in front of children in the Oval Office.",
+    "link": "https://hiphopwired.com/3053401/donald-trump-trans-iran-remarks-children-oval-office-vidoe-reactions/",
+    "timestamp": "2026-05-06T16:32:37Z"
+  },
+  {
+    "title": "\u2018He\u2019s Not Cool!\u2019 Sunny Hostin Rages Over Marco Rubio\u2019s 90s Hip-Hop Reference at Laugh-Filled Presser",
+    "description": "The View's Sunny Hostin was not impressed with Secretary of State Marco Rubio's Cypress Hill shoutout at a press conference this week about the Iran war.\nThe post \u2018He\u2019s Not Cool!\u2019 Sunny Hostin Rages Over Marco Rubio\u2019s 90s Hip-Hop Reference at Laugh-Filled Pre\u2026",
+    "link": "https://www.mediaite.com/media/tv/hes-not-cool-sunny-hostin-rages-over-marco-rubios-90s-hip-hop-reference-at-laugh-filled-presser/",
+    "timestamp": "2026-05-06T16:31:29Z"
+  },
+  {
+    "title": "Canadian rebound: Why the EU cares about Mark Carney",
+    "description": "Canada brings minerals, energy and rhetoric as Brussels chases post-American relevance without a clear strategy of its own Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/639518-canada-eu-delusions-grandeur/",
+    "timestamp": "2026-05-06T16:27:54Z"
+  },
+  {
+    "title": "Trump requests E Jean Carroll $83M judgment stay for pending Supreme Court action on presidential immunity",
+    "description": "President Trump's legal team requests a stay of the $83.3 million E. Jean Carroll defamation judgment pending Supreme Court review of immunity claims.",
+    "link": "https://www.foxnews.com/politics/trump-requests-e-jean-carroll-83m-judgment-stay-pending-supreme-court-action-presidential-immunity",
+    "timestamp": "2026-05-06T16:26:25Z"
+  },
+  {
+    "title": "NYT sued for discrimination against white male",
+    "description": "The US Equal Employment Opportunity Commission has sued the New York Times, alleging race and sex discrimination Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/639516-nyt-federal-lawsuit-dei/",
+    "timestamp": "2026-05-06T16:26:19Z"
+  },
+  {
+    "title": "Perez Hilton heaps praise on Ivanka Trump, takes swipe at Kardashians during appearance on Tomi Lahren's show",
+    "description": "Perez Hilton says he prays his daughters grow up to be like Ivanka Trump, heaping praise on the Trump family during a Tomi Lahren podcast appearance.",
+    "link": "https://www.foxnews.com/outkick-culture/perez-hilton-heaps-praise-ivanka-trump-takes-swipe-kardashians-appearance-tomi-lahrens-show",
+    "timestamp": "2026-05-06T16:25:44Z"
+  },
+  {
+    "title": "Jake Tapper on Trump CNN poll claim: \u2018Nope\u2019",
+    "description": "CNN anchor Jake Tapper on Tuesday said \u201cnope\u201d to President Trump\u2019s claim that the outlet reported his approval rating among Republicans was at 100 percent...",
+    "link": "https://thehill.com/media/5866013-jake-tapper-on-trump-cnn-poll-claim-nope/",
+    "timestamp": "2026-05-06T16:24:16Z"
+  },
+  {
+    "title": "GOP Voters Don\u2019t Want Mike Pence\u2019s Republican Party",
+    "description": "Framing the Indiana primary victories as 'retribution' from President Trump is all wrong. Voters side with Trump when he sides with us.",
+    "link": "https://thefederalist.com/2026/05/06/gop-voters-dont-want-mike-pences-republican-party/",
+    "timestamp": "2026-05-06T16:21:45Z"
+  },
+  {
+    "title": "Pulitzer Prize Winner Didn\u2019t Realize White Racism Existed Until Black Guy Called Her Kid \u2018White B*tch\u2019 At Playground",
+    "description": "The New York Times' Masha Gessen won the 2026 Pulitzer Prize in opinion writing Monday for a collection of essays, most of which critique Donald Trump.",
+    "link": "https://dailycaller.com/2026/05/06/masha-gessen-pulitzer-prize-new-york-times-racism-nonbinary-transgender-child-playground-black-man/",
+    "timestamp": "2026-05-06T16:21:38Z"
+  },
+  {
+    "title": "Ted Turner, liberal billionaire CNN founder, dies at age 87",
+    "description": "Trump calls him 'one of the Greats of All Time'",
+    "link": "https://www.wnd.com/2026/05/ted-turner-liberal-billionaire-cnn-founder-dies-age/",
+    "timestamp": "2026-05-06T16:19:01Z"
+  },
+  {
+    "title": "SEC Unveils Plan to Let Companies Move to Semiannual Reports",
+    "description": "Under the proposal, companies that elect to file semiannual reports would file one such report and one annual report for each fiscal year in lieu of three...",
+    "link": "https://www.wealthmanagement.com/regulation-compliance/sec-unveils-plan-to-let-companies-move-to-semiannual-reports",
+    "timestamp": "2026-05-06T16:14:18Z"
+  },
+  {
+    "title": "Katie Porter\u2019s attempt to brush off viral outburst backfires as critics torch \u2018worst political ad\u2019",
+    "description": "Katie Porter addresses her on-camera outbursts in a new campaign ad as she seeks to succeed Gov. Gavin Newsom in California's governor's race.",
+    "link": "https://www.foxnews.com/politics/katie-porters-attempt-brush-off-viral-outburst-backfires-critics-torch-worst-political-ad",
+    "timestamp": "2026-05-06T16:13:31Z"
+  },
+  {
+    "title": "DOJ Swoops in to Save MAGA Representative From Criminal Probe",
+    "description": "The Department of Justice has dropped thousands of criminal cases in order to aid and abet Donald Trump\u2019s agenda\u2014and now it seems to be on the verge of assisting some of the president\u2019s allies.The DOJ seems to be preparing to end a nearly two-year probe into \u2026",
+    "link": "https://newrepublic.com/post/210022/department-justice-maga-representative-andy-ogles-criminal-probe",
+    "timestamp": "2026-05-06T16:13:17Z"
+  },
+  {
+    "title": "Donald Trump Pays Tribute To Ted Turner While Lamenting \u201cWoke\u201d CNN",
+    "description": "Donald Trump paid tribute to media titan Ted Turner, who died on Wednesday at age 87, while bashing the network he created, CNN. In a Truth Social post, Trump wrote, \u201cTed Turner, one of the Greats of All Time, just died. He founded CNN, sold it, and was perso\u2026",
+    "link": "http://deadline.com/2026/05/trump-ted-turner-cnn-1236882977/",
+    "timestamp": "2026-05-06T16:12:23Z"
+  },
+  {
+    "title": "Trump Official Drops Odd Boast About Economy: \u2018Credit Card Spending Is Through the Roof!\u2019",
+    "description": "National Economic Council director Kevin Hassett tried to paint a rosy picture of the economy on Wednesday as he proclaimed that credit card spending is going \"through the roof,\" while consumers spend more on gas and \"everything else too.\"\nThe post Trump Offi\u2026",
+    "link": "https://www.mediaite.com/media/news/trump-official-drops-odd-boast-about-economy-credit-card-spending-is-through-the-roof/",
+    "timestamp": "2026-05-06T16:11:58Z"
+  },
+  {
+    "title": "Former MLB Star Noah Syndergaard on Trump: 'He's Just Such a Patriotic Guy,' a 'Joy to Be Around'",
+    "description": "Former MLB star\u00a0Noah Syndergaard praised President Donald Trump and questioned critics of the commander-in-chief.\nThe post Former MLB Star Noah Syndergaard on Trump: \u2018He\u2019s Just Such a Patriotic Guy,\u2019 a \u2018Joy to Be Around\u2019 appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/pre-viral/2026/05/06/former-mlb-star-noah-syndergaard-trump-hes-such-patriotic-guy-joy-be-around/",
+    "timestamp": "2026-05-06T16:07:29Z"
+  },
+  {
+    "title": "GOP majority whip astonishes with over-the-top praise for Trump",
+    "description": "Republican House Majority Whip Tom Emmer (R-MN) astonished critics with his over-the-top praise of President Donald Trump in the wake of Tuesday's primary elections.The 79-year-old president extracted his revenge when at least five incumbent GOP state legisla\u2026",
+    "link": "https://www.rawstory.com/tom-emmer-trump-2676858684/",
+    "timestamp": "2026-05-06T16:03:45Z"
+  },
+  {
+    "title": "Iran's top negotiator says US aiming to force Tehran's 'surrender'",
+    "description": "Iran's top negotiator Mohammad Bagher Ghalibaf said Wednesday that Washington was seeking Tehran's surrender through various means, including a naval blockade. \"The enemy, in its new design, is seeking, through a naval blockade, economic pressure and media ma\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/irans-top-negotiator-says-us-aiming-to-force-tehrans-surrender/articleshow/130862379.cms",
+    "timestamp": "2026-05-06T16:01:25Z"
+  },
+  {
+    "title": "\u2018That alone should win us the midterms\u2019: Trump wants voters to ignore higher costs, giant pharma profits and focus on drug prices",
+    "description": "White House economists estimate deals with pharma companies to drop some prescription drug prices could save $529 billion over the next 10 years.",
+    "link": "https://fortune.com/2026/05/06/that-alone-should-win-us-the-midterms-trump-wants-voters-to-ignore-higher-costs-giant-pharma-profits-and-focus-on-drug-prices/",
+    "timestamp": "2026-05-06T16:01:17Z"
+  },
+  {
+    "title": "Trump Says His Ballroom Only Costs More Because It\u2019s More Awesome",
+    "description": "President Trump is defending the higher cost of his planned White House ballroom amid reports that Congress is seeking $1 billion toward the project. He says it\u2019s twice as expensive because it\u2019s twice as awesome.",
+    "link": "http://nymag.com/intelligencer/article/trump-says-ballroom-now-costs-more-because-its-more-awesome.html",
+    "timestamp": "2026-05-06T16:01:05Z"
+  },
+  {
+    "title": "Pope Leo XIV Responds After Trump Claims He\u2019s \u2018Endangering\u2019 Catholics",
+    "description": "Pope Leo XIV appeared to address President Donald Trump\u2019s recent claim that he\u2019s \u201cendangering a lot of Catholics\u201d as their feud continues. \u201cThe mission of the Church is to proclaim the Gospel, to preach peace,\u201d Leo, 70, said while speaking in Castel Gandolfo,\u2026",
+    "link": "https://www.usmagazine.com/celebrity-news/news/pope-leo-reacts-to-trumps-claim-hes-endangering-catholics/",
+    "timestamp": "2026-05-06T16:00:36Z"
+  },
+  {
+    "title": "Today's news and jokes",
+    "description": "Btw you get to hoop with this awesome item while you enjoy a float! Video proof of ballin\u2019 @TargetCenterMN pic.twitter.com/vAVkuxxVT3\r\n\u2014 Jeff M\u00fcnneke (@MinnesotaMunn) February 21, 2026 \n\n\n\n\n\n\n\n\n\n\n\n\nNew details have been released about Palm Beach International\u2026",
+    "link": "https://www.superpunch.net/2026/05/todays-news-and-jokes_01458944152.html",
+    "timestamp": "2026-05-06T16:00:00Z"
+  },
+  {
+    "title": "Vivek Ramaswamy: The Indian who dared MAGA and still survived",
+    "description": "Vivek Ramaswamy has won the Ohio Republican primary. He is an Indian-origin American-born politician. Ramaswamy has repeatedly clashed with the MAGA movement. He managed to ride the MAGA wave despite provoking its base. His victory shows a complex relationshi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/vivek-ramaswamy-the-indian-who-dared-maga-and-still-survived/articleshow/130862276.cms",
+    "timestamp": "2026-05-06T15:58:13Z"
+  },
+  {
+    "title": "Trump accuses Pope of comforting Iran: \u2018I think he\u2019s endangering a lot of Catholics and a lot of people\u2019",
+    "description": "The pope, however, has not said Iran should obtain nuclear weapons.",
+    "link": "https://fortune.com/2026/05/06/trump-accuses-pope-of-comforting-iran-i-think-hes-endangering-a-lot-of-catholics-and-a-lot-of-people/",
+    "timestamp": "2026-05-06T15:56:05Z"
+  },
+  {
+    "title": "WTI crude oil price sharp fall today reason: Why are oil prices suddenly falling today? Here are the main reasons behind the massive crude oil price and Brent oil crash",
+    "description": "WTI crude oil price crash today is shaking global commodity markets. Oil prices suddenly collapsed as traders rushed to remove geopolitical risk premiums from crude futures. WTI crude fell below key resistance levels. Brent crude oil also crashed more than 7%\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/wti-crude-oil-price-sharp-fall-today-reason-why-are-oil-prices-suddenly-falling-today-here-are-the-main-reasons-behind-the-massive-crude-oil-price-and-brent-oil-crash/articleshow/130861815.cms",
+    "timestamp": "2026-05-06T15:55:37Z"
+  },
+  {
+    "title": "The 5 at 5: Wednesday",
+    "description": "Five minutes, five stories, five o\u2019clock\u2026",
+    "link": "https://www.thejournal.ie/5-at-5-wednesday-204-7032373-May2026/",
+    "timestamp": "2026-05-06T15:55:05Z"
+  },
+  {
+    "title": "Fact check: No, Trump doesn\u2019t have a 100% approval rating among Republicans | CNN Politics",
+    "description": "President Donald Trump keeps touting a poll that was discussed on CNN in March. On Tuesday, though, Trump wrongly described that poll in three different ways.",
+    "link": "https://www.cnn.com/2026/05/06/politics/fact-check-trump-approval-rating",
+    "timestamp": "2026-05-06T15:55:03Z"
+  },
+  {
+    "title": "Ben Ferguson Accuses Democrats Of 'Victim Shaming' Trump",
+    "description": "This has to be one of the more disgusting things to come out of this wingnut's mouth. Sorry Ben, but pointing out the hateful rhetoric that Trump spews day after day isn't \"victim shaming.\"\nRight wing radio host Ben Ferguson made an appearance on this Tuesday\u2026",
+    "link": "https://crooksandliars.com/2026/05/ben-ferguson-accuses-dems-victim-shaming",
+    "timestamp": "2026-05-06T15:53:14Z"
+  },
+  {
+    "title": "Campus antisemitism really was that bad, and it peaked in 2024, ADL says",
+    "description": "The number of antisemitic incidents in the United States tallied by the Anti-Defamation League declined sharply in 2025 \u2014 the first drop in five years.",
+    "link": "https://fortune.com/2026/05/06/campus-antisemitism-really-was-that-bad-and-it-peaked-in-2024-adl-says/",
+    "timestamp": "2026-05-06T15:51:54Z"
+  },
+  {
+    "title": "Trump Warns Strikes to Resume at \u2018Higher Level Than Before\u2019 if Iran Rejects 14-Point Deal",
+    "description": "Amid infighting, Tehran sends mixed signals.\nThe post Trump Warns Strikes to Resume at \u2018Higher Level Than Before\u2019 if Iran Rejects 14-Point Deal first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+    "link": "https://legalinsurrection.com/2026/05/trump-warns-strikes-to-resume-at-higher-level-than-before-if-iran-rejects-14-point-deal/",
+    "timestamp": "2026-05-06T15:50:15Z"
+  },
+  {
+    "title": "Michigan Democrats keep control of state Senate in election win that offers clues about midterms",
+    "description": "Democrat Chedrick Greene won a special election in Michigan on Tuesday, securing his party's control of the state Senate through the remainder of Gov. Gretchen Whitmer's term.",
+    "link": "https://www.pbs.org/newshour/politics/michigan-democrats-keep-control-of-state-senate-in-election-win-that-offers-clues-about-midterms",
+    "timestamp": "2026-05-06T15:47:40Z"
+  },
+  {
+    "title": "\u2018Morning Joe\u2019 Slams Trump and Vance as \u2018Out of Touch\u2019 After Multiple Broken Promises | Video",
+    "description": "\"It's hard to imagine this Republican Party being any more disconnected from voters,\" host Joe Scarborough says, while further calling the VP \"not a serious person\"\nThe post \u2018Morning Joe\u2019 Slams Trump and Vance as \u2018Out of Touch\u2019 After Multiple Broken Promises \u2026",
+    "link": "https://www.thewrap.com/media-platforms/politics/morning-joe-trump-white-house-ballroom-jd-vance-iran-war-blip/",
+    "timestamp": "2026-05-06T15:47:07Z"
+  },
+  {
+    "title": "Iran bets on new maritime system for ships transiting Strait of Hormuz",
+    "description": "Strait of Hormuz rules tightened as Iran mandates transit permits and email clearance system amid escalating tensions with the US and Trump\u2019s warning.",
+    "link": "https://indianexpress.com/article/world/iran-strait-of-hormuz-new-transit-permit-rules-trump-bombing-warning-10676384/",
+    "timestamp": "2026-05-06T15:42:39Z"
+  },
+  {
+    "title": "Ex-Trump Aide Spots How Trouble Is Brewing For White House: \u2018They See The Writing On The Wall\u2019",
+    "description": "Sarah Matthews argued that it \u201cmakes sense\u201d for White House lawyers to gear up for an unwanted outcome ahead of November\u2019s elections.",
+    "link": "https://www.huffpost.com/entry/trump-aide-sarah-matthews-republicans-white-house-2026-midterms_n_69fb3266e4b016ec076c9e49",
+    "timestamp": "2026-05-06T15:42:10Z"
+  },
+  {
+    "title": "Moroccan Reacts To Nick Cannon Letting Him Date But Not Twin Sister Monroe, Social Media Slams Unserious Seed-Spreader\u2019s Double Standard",
+    "description": "Nick Cannon\u2019s son Moroccan entered the chat after social media slammed the hypocritical host for \u201cencouraging\u201d the 15-year-old to date, but not his twin sister, Monroe. As BOSSIP previously reported, Nick admitted the dating double standard in a recent interv\u2026",
+    "link": "https://bossip.com/4559750/moroccan-reacts-nick-cannon-dating-double-standard-monroe/",
+    "timestamp": "2026-05-06T15:40:28Z"
+  },
+  {
+    "title": "Morrocan Reacts To Nick Cannon Letting Him Date But Not Twin Sister Monroe, Social Media Slams Unserious Seed-Spreader\u2019s Double Standard",
+    "description": "Nick Cannon\u2019s son Morrocan entered the chat after social media slammed the hypocritical host for \u201cencouraging\u201d the 15-year-old to date, but not his twin sister, Monroe. As BOSSIP previously reported, Nick admitted the dating double standard in a recent interv\u2026",
+    "link": "https://bossip.com/4559750/morrocan-reacts-nick-cannon-dating-double-standard-monroe/",
+    "timestamp": "2026-05-06T15:40:28Z"
+  },
+  {
+    "title": "Spirit Airlines and the Government\u2019s Antitrust Follies",
+    "description": "Ronald Reagan had a saying about how government works: \u201cIf it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.\u201d His point was that bureaucrats love to \u201csolve\u201d problems, which inevitably creates new problems that they then \u2026",
+    "link": "https://www.dailysignal.com/2026/05/06/spirit-airlines/",
+    "timestamp": "2026-05-06T15:40:09Z"
+  },
+  {
+    "title": "Ted Turner, CNN founder, former Braves owner, and creator of the 24-hour news cycle, is dead at 87",
+    "description": "Turner once joked, \"If only I had a little humility, I\u2019d be perfect.\u201d",
+    "link": "https://fortune.com/2026/05/06/ted-turner-cnn-dead-87/",
+    "timestamp": "2026-05-06T15:39:56Z"
+  },
+  {
+    "title": "CNN legend Christiane Amanpour 'eviscerates' her future boss in scathing new takedown",
+    "description": "Renowned CNN reporter Christiane Amanpour took a swipe at Paramount Skydance CEO David Ellison for the chaos at CBS News under his leadership \u2014 in anticipation of him moving to control CNN as well.According to The Daily Beast, \"The veteran chief international\u2026",
+    "link": "https://www.rawstory.com/christine-amanpour/",
+    "timestamp": "2026-05-06T15:39:47Z"
+  },
+  {
+    "title": "\u2018I Dont Give a Sh*t\u2019: UFC CEO Dana White Doesn\u2019t Care if His Friendship With Trump Has Cost Him Money",
+    "description": "UFC CEO Dana White declared he doesn't \"give a s**t\" if his friendship with Trump has lost him business as he teased the upcoming fight card at the White House.\nThe post \u2018I Dont Give a Sh*t\u2019: UFC CEO Dana White Doesn\u2019t Care if His Friendship With Trump Has Co\u2026",
+    "link": "https://www.mediaite.com/media/podcasts/i-dont-give-a-sht-ufc-ceo-dana-white-doesnt-care-if-his-friendship-with-trump-has-cost-him-money/",
+    "timestamp": "2026-05-06T15:38:12Z"
+  },
+  {
+    "title": "Obama laughs as he hints Colbert could perform better than Trump as president, says 'bar has changed'",
+    "description": "Barack Obama took multiple veiled digs at President Trump during a Stephen Colbert interview, suggesting the late-night host could perform better than him.",
+    "link": "https://www.foxnews.com/media/obama-laughs-he-hints-colbert-could-perform-better-than-trump-president-says-bar-has-changed",
+    "timestamp": "2026-05-06T15:38:08Z"
+  },
+  {
+    "title": "Bitcoin price rejects at $83K as Trump calls Iran deal 'big assumption'",
+    "description": "Bitcoin price action failed to revisit the $83,000 mark after US-Iran war tensions took over to steer the crypto market mood.",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-rejects-83k-trump-calls-iran-deal-big-assumption",
+    "timestamp": "2026-05-06T15:37:38Z"
+  },
+  {
+    "title": "Carney says 'challenges' face auto sector after Honda pulls out of EV plant in Ontario",
+    "description": "The plant in Alliston, Ont., was supposed to become operational in 2028 and would have produced up to 240,000 EVs annually",
+    "link": "https://nationalpost.com/news/carney-says-challenges-face-auto-sector-after-honda-pulls-out-of-ev-plant-in-ontario",
+    "timestamp": "2026-05-06T15:36:54Z"
+  },
+  {
+    "title": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+    "description": "Beijing is not an official mediator in the Iran war, but all parties \u2014 including Washington and Tehran \u2014 say it has played an important role in efforts to de-escalate the conflict.",
+    "link": "https://www.pbs.org/newshour/world/china-is-stepping-up-its-iran-war-diplomacy-ahead-of-trumps-summit-with-xi",
+    "timestamp": "2026-05-06T15:36:37Z"
+  },
+  {
+    "title": "Trump Insists Ballroom\u2019s Skyrocketing Cost Is No Big Deal",
+    "description": "President Donald Trump dismissed claims Wednesday that the White House ballroom has suffered cost overrun after its price tag skyrocketed from $400 million in private donations to $1 billion sourced from American taxpayers.\u00a0Trump claimed that there was no cos\u2026",
+    "link": "https://newrepublic.com/post/210016/donald-trump-insists-ballroom-cost-no-big-deal",
+    "timestamp": "2026-05-06T15:35:36Z"
+  },
+  {
+    "title": "Trump asks judges to pause E. Jean Carroll ruling so he can appeal case to SCOTUS",
+    "description": "President Trump has asked a court to pause its ruling rejecting his challenge to E. Jean Carroll's defamation suit so he can appeal the case to the Supreme Court.",
+    "link": "https://abcnews.com/US/trump-asks-judges-pause-jean-carroll-ruling-appeal/story?id=132711592",
+    "timestamp": "2026-05-06T15:33:33Z"
+  },
+  {
+    "title": "Why the Strait of Hormuz will take a long time to reboot",
+    "description": "Ships in the Strait of Hormuz might be the only things that aren\u2019t moving",
+    "link": "https://www.nbcnews.com/world/iran/strait-hormuz-will-take-long-time-reboot-rcna343817",
+    "timestamp": "2026-05-06T15:32:07Z"
+  },
+  {
     "title": "Tankers Stranded Once Again As Trump Calls Off 'Project Freedom'",
     "description": "Cargo vessels and tanker owners, who hoped for a U.S. escort out of the Strait of Hormuz earlier this week, are back scrambling to find feasible solutions to passing the critical trade chokepoint after U.S. President Donald Trump called off the 'Project Freed\u2026",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Tankers-Stranded-Once-Again-As-Trump-Calls-Off-Project-Freedom.html",
@@ -16,545 +520,5 @@
     "description": "Only 17 percent of voters nationwide give Chuck Schumer a positive approval rating.",
     "link": "https://truthout.org/articles/progressive-dem-candidates-are-using-their-opposition-to-schumer-to-pitch-voters/",
     "timestamp": "2026-05-06T15:28:13Z"
-  },
-  {
-    "title": "US stock market today: Why are Dow Jones, S&P 500, and Nasdaq surging as AMD stock explodes and oil prices crash on Iran peace hopes?",
-    "description": "US stock market today: Dow Jones jumps 650 points, Nasdaq surges as AMD stock explodes 19%, oil crashes, and AI optimism reshapes Wall Street. Chipmakers and geopolitics collide on a volatile Wednesday morning as the market is betting heavily that a ceasefire\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-are-dow-jones-sp-500-and-nasdaq-surging-as-amd-stock-explodes-and-oil-prices-crash-on-iran-peace-hopes/articleshow/130861123.cms",
-    "timestamp": "2026-05-06T15:24:24Z"
-  },
-  {
-    "title": "GOP Ballroom and ICE Bill Would Add $72 Billion To Deficit",
-    "description": "The price tag jumps to $94 billion if you include interest, a nonpartisan watchdog says.",
-    "link": "https://www.huffpost.com/entry/gop-ballroom-ice-72-billion-deficit_n_69fb534ae4b01c0d1112f7df",
-    "timestamp": "2026-05-06T15:23:53Z"
-  },
-  {
-    "title": "David Letterman Delights in Calling CBS Leadership \u2018Lying Weasels\u2019",
-    "description": "David Letterman has hard feelings about CBS canceling Stephen Colbert\u2019s \u2018The Late Show.\u2019 \u2018If there\u2019s outrage to be directed at management, either real or imagined, I\u2019m all in.\u2019",
-    "link": "http://www.vulture.com/article/david-letterman-stephen-colbert-late-show-end.html",
-    "timestamp": "2026-05-06T15:22:51Z"
-  },
-  {
-    "title": "CNN Founder Ted Turner Dead: Media Mogul Was 87",
-    "description": "CNN founder Ted Turner died on Wednesday, May 6. He was 87. \u201cTed was an intensely involved and committed leader, intrepid, fearless and always willing to back a hunch and trust his own judgement,\u201d CNN Worldwide chairman and CEO Mark Thompson said in a stateme\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/ted-turner-dead-cnn-founder-and-media-mogul-was-87/",
-    "timestamp": "2026-05-06T15:21:10Z"
-  },
-  {
-    "title": "Ted Turner, Media Pioneer, CNN Founder, Former Atlanta Braves and Hawks Owner, Dies at 87",
-    "description": "Ted Turner, the bombastic television pioneer credited with creating the 24-hour news cycle and launched CNN in 1980, owned the Atlanta Braves and The Hawks, who flexed his influence among the global elite and donated\u00a0a $1 billion to United Nations charities, \u2026",
-    "link": "https://www.breitbart.com/entertainment/2026/05/06/ted-turner-media-pioneer-cnn-founder-former-atlanta-braves-and-hawks-owner-dies-at-87/",
-    "timestamp": "2026-05-06T15:20:27Z"
-  },
-  {
-    "title": "Mapping Hormuz: RT\u2019s Rick Sanchez on strategic edge (VIDEO)",
-    "description": "Iran retains a strategic advantage and control of the Strait of Hormuz despite US claims of restored shipping, RT\u2019s Rick Sanchez has said Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/639513-iran-retains-strategic-edge-hormuz/",
-    "timestamp": "2026-05-06T15:20:15Z"
-  },
-  {
-    "title": "Howard Lutnick faces intense closed-door grilling over Epstein ties as he fights to stay in Trump's good graces",
-    "description": "President Donald Trump's Commerce Secretary Howard Lutnick has arrived on Capitol Hill for a closed-door\u00a0transcribed interview regarding his ties to Jeffrey Epstein.",
-    "link": "https://www.dailymail.com/news/article-15795245/Howard-Lutnick-grilling-Epstein-ties-Trump.html",
-    "timestamp": "2026-05-06T15:19:28Z"
-  },
-  {
-    "title": "Trump tentatively making peace with Iran, but potential future strikes remain as leverage",
-    "description": "Trump hails tentative Iran peace deal but says in-person truce signing is \"too far,\" threatening renewed bombing if Tehran rejects the agreement.",
-    "link": "https://www.foxnews.com/politics/trump-tentatively-making-peace-iran-potential-future-strikes-remain-leverage",
-    "timestamp": "2026-05-06T15:19:24Z"
-  },
-  {
-    "title": "CNN\u2019s Abby Phillip Bombards Trump With Video Receipts on $1 Billion Ballroom: \u2018What in the Bait-and-Switch?\u2019",
-    "description": "Abby Phillip hit Trump with a barrage of clips calling out the $1 billion taxpayer pricetag for the ballroom that Trump promised would cost Americans nothing.\nThe post CNN\u2019s Abby Phillip Bombards Trump With Video Receipts on $1 Billion Ballroom: \u2018What in the \u2026",
-    "link": "https://www.mediaite.com/media/news/cnns-abby-phillip-bombards-trump-with-video-receipts-on-1-billion-ballroom-what-in-the-bait-and-switch/",
-    "timestamp": "2026-05-06T15:19:20Z"
-  },
-  {
-    "title": "What does America want?",
-    "description": "By Golu Thapa Magar The American people as such are not bad at all. In fact they are considered one of the friendliest people in any part of the world but the same cannot be said about the American government. At least when individuals like present President \u2026",
-    "link": "https://peoplesreview.com.np/2026/05/06/what-does-america-want/",
-    "timestamp": "2026-05-06T15:19:00Z"
-  },
-  {
-    "title": "\u2018F the White House\u2019: Disturbing details emerge as suspect in Secret Service shooting near White House identified",
-    "description": "Paul Mauro: 'Secret Service shoots a guy near the White House and nothing to see here? After what's happened recently? Something's off'",
-    "link": "https://www.wnd.com/2026/05/f-white-house-disturbing-details-emerge-as-suspect/",
-    "timestamp": "2026-05-06T15:17:39Z"
-  },
-  {
-    "title": "Trump set to lift US sanctions on Iran, free billions and unlock uranium enrichment in unexpected Obama-style peace proposal",
-    "description": "Donald Trump is on the verge of securing a sweeping peace deal with Iran that would lift US sanctions, free billions in frozen assets and open a path to uranium enrichment, mirroring the Barack Obama pact he spent years trashing. If signed, a 30-day window wo\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4377956/posts",
-    "timestamp": "2026-05-06T15:17:38Z"
-  },
-  {
-    "title": "Trump to confront Xi over Iran oil purchases amid US-China tensions",
-    "description": "Heightened US-China tensions over Iran oil purchases could destabilize global oil markets and complicate US-Iran nuclear negotiations.\nThe post Trump to confront Xi over Iran oil purchases amid US-China tensions appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/trump-to-confront-xi-over-iran-oil-purchases-amid-us-china-tensions/",
-    "timestamp": "2026-05-06T15:16:10Z"
-  },
-  {
-    "title": "Trump mourns death of Ted Turner and reveals heartbreak of how 'woke' new owners destroyed embattled CNN",
-    "description": "Donald Trump penned a heartfelt post for CNN founder Ted Turner after the billionaire media mogul passed away at 87.",
-    "link": "https://www.dailymail.com/news/article-15795603/Trump-mourns-death-Ted-Turner-reveals-heartbreak-woke-new-owners-destroyed-embattled-CNN.html",
-    "timestamp": "2026-05-06T15:14:27Z"
-  },
-  {
-    "title": "Trump's flood of insanity distracts from who's really pulling his strings",
-    "description": "I\u2019m old enough to have been politically cognizant, admittedly less so for a couple of the earliest, of 13 presidents (14 if you count one of them twice). Through all of those decades and all of those administrations nothing comes close to the way the current \u2026",
-    "link": "https://www.rawstory.com/trump-2676858634/",
-    "timestamp": "2026-05-06T15:14:07Z"
-  },
-  {
-    "title": "\u2018One of the Greats\u2019: Trump Eulogizes Ted Turner by Claiming He Was \u2018Devastated\u2019 That CNN \u2018Became Woke\u2019",
-    "description": "Trump responded to CNN founder Ted Turner's death with a statement trashing the network and memorializing \"one of the Greats of Broadcast History.\"\nThe post \u2018One of the Greats\u2019: Trump Eulogizes Ted Turner by Claiming He Was \u2018Devastated\u2019 That CNN \u2018Became Woke\u2019\u2026",
-    "link": "https://www.mediaite.com/media/tv/one-of-the-greats-trump-eulogizes-ted-turner-by-claiming-he-was-devastated-that-cnn-became-woke/",
-    "timestamp": "2026-05-06T15:10:03Z"
-  },
-  {
-    "title": "Spirit Airlines Shuts Down After 34 Years, Blames Higher Oil Prices",
-    "description": "Spirit Airlines, an impish upstart that shook the industry with its irreverent ads and deep discount fares, announced this week that it has gone out of business after 34 years. The ultralow cost airline that once operated hundreds of daily \u2026",
-    "link": "https://www.insurancejournal.com/news/southeast/2026/05/06/868758.htm",
-    "timestamp": "2026-05-06T15:06:40Z"
-  },
-  {
-    "title": "G7 decries 'economic coercion' in swipe at China",
-    "description": "The trade ministers of the Group of Seven leading industrialised nations criticised Wednesday \"economic coercion\" by placing arbitrary restrictions on exports, particularly critical minerals, in a clear swipe at China. \"We express our grave concerns regarding\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/g7-decries-economic-coercion-in-swipe-at-china/articleshow/130861058.cms",
-    "timestamp": "2026-05-06T15:05:30Z"
-  },
-  {
-    "title": "US \u2018locked and loaded\u2019 for \u2018much higher\u2019 strikes if Iran talks fail as Trump pauses Hormuz ops",
-    "description": "Despite over ten attacks on U.S. forces and nine on commercial ships since April 7, officials say the Iran ceasefire remains intact for now.",
-    "link": "https://www.foxnews.com/politics/us-locked-loaded-much-higher-strikes-iran-talks-fail-trump-pauses-hormuz-ops",
-    "timestamp": "2026-05-06T15:05:26Z"
-  },
-  {
-    "title": "The United States\u2019 Korea Strategy Is Working Against Itself",
-    "description": "By pulling Seoul into its rivalry with Beijing, Washington is undermining the alliance\u2019s core mission.",
-    "link": "http://foreignpolicy.com/2026/05/06/china-us-south-korea-alliance-military-diplomacy/",
-    "timestamp": "2026-05-06T15:05:14Z"
-  },
-  {
-    "title": "Trump: \u2018Project Freedom\u2019 On Hold Amid Iran Talks",
-    "description": "President Donald Trump says he is putting on pause his \u201cProject Freedom\u201d operation to restore commerce in the Strait of Hormuz, instead seeking to finalize a deal with Iranian officials for longer term stability in the global shipping lane. Citing as his moti\u2026",
-    "link": "https://www.dailysignal.com/2026/05/06/project-freedom-trump-iran-talks/",
-    "timestamp": "2026-05-06T15:05:00Z"
-  },
-  {
-    "title": "Watch Live: \u2018Celebrating American Greatness'\u00a0Breitbart News Speaks with Ambassador Monica Crowley",
-    "description": "Breitbart News hosts a policy event with Ambassador Monica Crowley, focusing on her work leading the historic\u00a0Freedom 250\u00a0semiquincentennial celebration, on Wednesday, May 6.\nThe post Watch Live: \u2018Celebrating American Greatness\u2019\u00a0Breitbart News Speaks with Amb\u2026",
-    "link": "https://www.breitbart.com/politics/2026/05/06/watch-live-celebrating-american-greatness-breitbart-news-speaks-with-ambassador-monica-crowley/",
-    "timestamp": "2026-05-06T15:04:51Z"
-  },
-  {
-    "title": "China has played a key role in the Iran war \u2013 and will continue to do so",
-    "description": "Due to its position of influence over Iran, China will be a leading factor in whether the war ends or spills back into open conflict.",
-    "link": "https://theconversation.com/china-has-played-a-key-role-in-the-iran-war-and-will-continue-to-do-so-281781",
-    "timestamp": "2026-05-06T15:04:35Z"
-  },
-  {
-    "title": "Oil Prices Plunge Below $100 as US-Iran Ceasefire Hopes Trigger Sharp Sell-Off",
-    "description": "NEW YORK \u2014 World oil prices tumbled sharply Wednesday, with benchmark crude falling more than 10% in early trading as markets bet on a potential diplomatic breakthrough between the United States and Iran that could end weeks of conflict and restore flows thro\u2026",
-    "link": "https://www.ibtimes.com.au/oil-prices-plunge-below-100-us-iran-ceasefire-hopes-trigger-sharp-sell-off-1868322",
-    "timestamp": "2026-05-06T15:03:53Z"
-  },
-  {
-    "title": "Tom Emmer Says Trump Has Become So Strong He Is No Longer Donald Trump, But an \u2018Icon of the Ages\u2019",
-    "description": "House Majority Whip Tom Emmer (R-MN) claimed President Donald Trump had transitioned from being just Trump into becoming a superman-like \"icon of the ages.\"\nThe post Tom Emmer Says Trump Has Become So Strong He Is No Longer Donald Trump, But an \u2018Icon of the A\u2026",
-    "link": "https://www.mediaite.com/media/tv/tom-emmer-says-trump-has-become-so-strong-he-is-no-longer-donald-trump-but-an-icon-of-the-ages/",
-    "timestamp": "2026-05-06T15:03:12Z"
-  },
-  {
-    "title": "The FBI's most shocking secrets hidden in 'burn bag' room revealed by Kash Patel",
-    "description": "FBI Director Kash Patel is hinting that the government's most closely guarded secrets could soon see the light of day - including a secrets hidden in 'burn bags.'",
-    "link": "https://www.dailymail.com/news/article-15795357/The-FBI-hidden-burn-bag-room-Kash-Patel.html",
-    "timestamp": "2026-05-06T15:03:07Z"
-  },
-  {
-    "title": "US pastors briefed to brace congregations for UFO revelations \u2013 religious leader",
-    "description": "US pastors allegedly told by the government to brace the public for UFO revelations, Perry Stone claims Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/639525-us-intelligence-brief-pastors-aliens/",
-    "timestamp": "2026-05-06T15:02:55Z"
-  },
-  {
-    "title": "Emerging Stocks Hit Record, Currencies Rise on Peace Deal Hopes",
-    "description": "Emerging-market stocks rallied to an all-time high and a currency index returned to pre-war levels as traders grew optimistic that the US and Iran are moving closer to a peace deal.",
-    "link": "https://financialpost.com/pmn/business-pmn/emerging-stocks-hit-record-currencies-rise-on-peace-deal-hopes",
-    "timestamp": "2026-05-06T15:01:40Z"
-  },
-  {
-    "title": "Trump: A deal to end the war with Iran may be reached before my trip to China next week",
-    "description": "US President Donald Trump stated that A deal to end the war with Iran may be reached before he travels to China next week. \"I think it has a very good chance of being finished, and if it doesn't get finished, we're going to have to go back and bomb them,\" the\u2026",
-    "link": "https://www.israelnationalnews.com/flashes/684910",
-    "timestamp": "2026-05-06T15:00:49Z"
-  },
-  {
-    "title": "Banking lobby attempts to kill Clarity Act\u2019s stablecoin progress as markup is scheduled for next week",
-    "description": "US banks are mounting an aggressive lobbying effort to stall the CLARITY Act, even as key US lawmakers signal a fast-tracked timeline to put the bill on the president\u2019s desk before July 4. The legislative clash centers on the Digital Asset Market Clarity Act,\u2026",
-    "link": "https://cryptoslate.com/banking-lobby-attempts-to-kill-clarity-act-stablecoin-progress-as-markup-is-scheduled-for-next-week/",
-    "timestamp": "2026-05-06T15:00:07Z"
-  },
-  {
-    "title": "Trump Puts \u201cProject Freedom\u201d On Hold",
-    "description": "United States President Donald Trump has temporarily put \"Project Freedom\" on hold, pausing military escorts in the Strait of Hormuz. He said that the blockade of Iranian ports will \u201cremain in full force and effect\u201d\u00a0until a final agreement with Tehran is reac\u2026",
-    "link": "https://www.shtfplan.com/headline-news/trump-puts-project-freedom-on-hold",
-    "timestamp": "2026-05-06T15:00:01Z"
-  },
-  {
-    "title": "Trump didn't call various public figures 'offenders of Jesus,' despite claims",
-    "description": "U.S. President Donald Trump called a series of notable people \u2014 including celebrities, royals and religious figures \u2014 \"offenders of Jesus\" in April and May 2026.",
-    "link": "https://www.snopes.com//fact-check/trump-offenders-jesus/",
-    "timestamp": "2026-05-06T15:00:00Z"
-  },
-  {
-    "title": "Why Is the Department of Justice Prosecuting a Leading Civil Rights Group?",
-    "description": "The Department of Justice indicted the Southern Poverty Law Center by paying informants to infiltrate extremist groups. CNN wrote: The Justice Department alleges in the criminal case brought last month that the Southern Poverty Law Center \u2014 which has drawn th\u2026",
-    "link": "https://dianeravitch.net/2026/05/06/why-is-the-department-of-justice-prosecuting-a-leading-civil-rights-group/",
-    "timestamp": "2026-05-06T15:00:00Z"
-  },
-  {
-    "title": "'She Looks Like an Alien': Megyn Kelly Mocks Lauren S\u00e1nchez\u2019s Shocking Appearance at 2026 Met Gala Amid Plastic Surgery Speculation",
-    "description": "Megyn Kelly slammed Lauren S\u00e1nchez\u2019s Met Gala appearance, criticizing her looks, dress, and alleged cosmetic procedures.",
-    "link": "https://radaronline.com/p/megyn-kelly-mocks-lauren-sanchez-appearance-met-gala-plastic-surgery/",
-    "timestamp": "2026-05-06T14:59:50Z"
-  },
-  {
-    "title": "Sean Strickland no fan of Josh Hokit\u2019s \u2018fake\u2019 promotional style",
-    "description": "While both are known for their trash talk, Sean Strickland is not a fan of Josh Hokit.",
-    "link": "https://www.sherdog.com/news/news/Sean-Strickland-no-fan-of-Josh-Hokits-fake-promotional-style-201089",
-    "timestamp": "2026-05-06T14:58:17Z"
-  },
-  {
-    "title": "G7 decries \u2018economic coercion\u2019 in swipe at China",
-    "description": "The trade ministers of the Group of Seven leading industrialised nations Wednesday criticised \u201ceconomic coercion\u201d by powers placing arbitrary restrictions on exports, particularly critical minerals, in a clear swipe at China. While never mentioning China by n\u2026",
-    "link": "https://www.digitaljournal.com/world/g7-decries-economic-coercion-in-swipe-at-china/article",
-    "timestamp": "2026-05-06T14:57:23Z"
-  },
-  {
-    "title": "Trump's Indiana wins show his power over GOP with more primaries and redistricting debates ahead",
-    "description": "Tuesday's election results in Indiana prove President Donald Trump can still punish wayward party members after he endorsed a slate of challengers who defeated almost every one of those lawmakers he wanted to dislodge.",
-    "link": "https://www.pbs.org/newshour/politics/trumps-indiana-wins-show-his-power-over-gop-with-more-primaries-and-redistricting-debates-ahead",
-    "timestamp": "2026-05-06T14:57:01Z"
-  },
-  {
-    "title": "Senate GOP seeks $1B for Trump\u2019s $400M ballroom",
-    "description": "Trump has repeatedly claimed the ballroom will be built with private funds",
-    "link": "https://theweek.com/politics/senate-gop-billion-trump-ballroom",
-    "timestamp": "2026-05-06T14:56:40Z"
-  },
-  {
-    "title": "Trump set to lift US sanctions on Iran, free billions and unlock uranium enrichment in unexpected Obama-style peace proposal",
-    "description": "Donald Trump is on the verge of securing a sweeping peace deal with Iran that would lift US sanctions, free billions in frozen assets and open a path to uranium enrichment, mirroring the Barack Obama pact he spent years trashing. A one-page, 14-point memorand\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4377952/posts",
-    "timestamp": "2026-05-06T14:55:33Z"
-  },
-  {
-    "title": "Katie Porter slaps governor rival Chad Bianco with bizarre new nickname in wild debate clash",
-    "description": "During the debate, Porter\u2019s Republican counterparts,\u00a0Steve Hilton\u00a0and\u00a0Chad Bianco, criticized the former congresswoman for her temperament",
-    "link": "https://nypost.com/2026/05/06/us-news/katie-porter-slaps-governor-rival-chad-bianco-with-bizarre-new-nickname-in-wild-debate-clash/",
-    "timestamp": "2026-05-06T14:55:04Z"
-  },
-  {
-    "title": "Obama Says It\u2019s \u2018Pretty Obvious\u2019 Trump Shouldn\u2019t Be Allowed to Have Side Hustles or \u2018Politicize Our Military\u2019 | Video",
-    "description": "\"You can't have a situation in which whoever's in charge of the government starts using that to go after their political enemies or reward their friends,\" the former president tells Stephen Colbert\nThe post Obama Says It\u2019s \u2018Pretty Obvious\u2019 Trump Shouldn\u2019t Be \u2026",
-    "link": "https://www.thewrap.com/media-platforms/politics/barack-obama-stephen-colbert-presidential-powers-trump-side-hustles/",
-    "timestamp": "2026-05-06T14:51:00Z"
-  },
-  {
-    "title": "Donald Trump envoy claims FIFA regulations flawed in push for Italy to replace Iran at World Cup",
-    "description": "U.S. special representative Paolo Zampolli has renewed his call for Italy to replace Iran at the 2026 World Cup, claiming that FIFA's rules regarding replacing teams are 'flawed'",
-    "link": "https://www.alloutsoccer.com/news/trump-envoy-italy-iran-fifa-1824642",
-    "timestamp": "2026-05-06T14:48:50Z"
-  },
-  {
-    "title": "Israeli official: 'We weren't surprised by Trump's shift on Iran talks'",
-    "description": "Reuters reported that Israel was surprised by the progress of talks between the Trump administration and Tehran. Senior political source denies: \"Netanyahu and Trump in almost daily talks\"",
-    "link": "https://www.israelnationalnews.com/news/426661",
-    "timestamp": "2026-05-06T14:45:14Z"
-  },
-  {
-    "title": "Sen. Banks Poured Millions to Unseat Republicans Who Struck Down Redistricting Effort",
-    "description": "Republican Sen. Jim Banks of Indiana directed $3 million from his 501(c)(4) organization, Hoosier Leadership for America, to primary challengers of GOP state senators who opposed a redistricting plan supported by President Donald Trump that could have netted \u2026",
-    "link": "https://www.dailysignal.com/2026/05/06/banks-unseat-gop-redistricting/",
-    "timestamp": "2026-05-06T14:45:06Z"
-  },
-  {
-    "title": "Trump attacks pope again before Rubio\u2019s Vatican visit",
-    "description": "Rubio will also meet with Italy\u2019s prime minister",
-    "link": "https://theweek.com/religion/trump-attacks-pope-again-rubio-vatican",
-    "timestamp": "2026-05-06T14:45:04Z"
-  },
-  {
-    "title": "The Trump administration is bringing back flavored vapes. Advocates and lawmakers say the risks outweigh the benefits",
-    "description": "The president had vowed to 'save vaping' on the campaign trail in 2024, but the decision is already drawing fire from anti-nicotine advocates and a bipartisan group of lawmakers",
-    "link": "https://www.scientificamerican.com/article/the-trump-administration-is-bringing-back-flavored-vapes-advocates-and-lawmakers-say-the-risks-outweigh-the-benefits/",
-    "timestamp": "2026-05-06T14:45:00Z"
-  },
-  {
-    "title": "Trump tells PBS News that Iran war has 'a very good chance of ending'",
-    "description": "\"I think it's got a very good chance of ending, and if it doesn't end, we have to go back to bombing the hell out of them,\" Trump told White House correspondent Liz Landers.",
-    "link": "https://www.pbs.org/newshour/nation/trump-tells-pbs-news-that-iran-war-has-a-very-good-chance-of-ending",
-    "timestamp": "2026-05-06T14:39:45Z"
-  },
-  {
-    "title": "California GOP Governor Candidate Flails After Brutal Live Fact-Check",
-    "description": "Wannabe California governor Chad Bianco tried to pull a trump card during a GOP debate on CNN, and ended up humiliated on live TV.During a prolonged exchange with host Kaitlan Collins, the MAGA-aligned Riverside County sheriff vehemently denied that he ever a\u2026",
-    "link": "https://newrepublic.com/post/210008/california-republican-governor-candidate-fact-check-debate",
-    "timestamp": "2026-05-06T14:39:03Z"
-  },
-  {
-    "title": "The Supreme Court broke democracy by saying the quiet part out loud",
-    "description": "Last Wednesday, the Supreme Court\u2019s Republican majority effectively repealed a 1982 amendment to the Voting Rights Act that required some states to draw a minimum number of majority-Black or majority-Latino legislative districts. The GOP justices\u2019 decision ha\u2026",
-    "link": "https://www.vox.com/politics/487895/supreme-court-callais-voting-rights-citizens-united",
-    "timestamp": "2026-05-06T14:38:25Z"
-  },
-  {
-    "title": "State Elections Are About to Become Way More Important",
-    "description": "With the gerrymandering wars in full swing, Democrats and Republicans will be fighting harder than ever for total control of state governments, Ed Kilgore writes.",
-    "link": "http://nymag.com/intelligencer/article/to-control-the-u-s-house-control-state-governments-first.html",
-    "timestamp": "2026-05-06T14:36:42Z"
-  },
-  {
-    "title": null,
-    "description": "President Trump states the new White House ballroom will cost under $400M due to a major expansion, making it twice the size and higher quality.\n\nRead More: https://punchng.com/2135807-2/",
-    "link": "https://punchng.com/2135807-2/",
-    "timestamp": "2026-05-06T14:36:24Z"
-  },
-  {
-    "title": "Midwest votes show Trump\u2019s GOP sway, Dem fervor",
-    "description": "Key races were held in Ohio, Michigan and Indiana",
-    "link": "https://theweek.com/politics/midwest-votes-trump-gop-sway-democrats",
-    "timestamp": "2026-05-06T14:36:14Z"
-  },
-  {
-    "title": "SEC unveils blueprint for ditching quarterly reporting",
-    "description": "The proposal is part of the\u00a0\u201cMake IPOs Great Again\u201d push aimed at reducing the \u201crigidity\u201d of rules governing public companies, SEC Chair Paul Atkins\u00a0said Tuesday.",
-    "link": "https://www.cfodive.com/news/sec-unveils-blueprint-ditching-quarterly-reporting/819378/",
-    "timestamp": "2026-05-06T14:36:00Z"
-  },
-  {
-    "title": "The Most Powerful Way to Fight the Exhaustion of the Trump Era Was Figured Out Decades Ago",
-    "description": "This isn\u2019t the first time there has been a crackdown on anything outside the \u201cnorm.\u201d",
-    "link": "https://slate.com/life/2026/05/nonstop-bodies-book-performance-art-trump-suppression.html",
-    "timestamp": "2026-05-06T14:32:59Z"
-  },
-  {
-    "title": "Oil plunges and stocks soar: The 5 most notable market moves as hopes for an Iran peace deal grow",
-    "description": "Markets were getting in position for a possible end to the Iran war on Wednesday. Stocks surged, bond yields tumbled, and oil prices dropped.",
-    "link": "https://www.businessinsider.com/iran-war-peace-deal-oil-prices-us-stocks-tech-rally-2026-5",
-    "timestamp": "2026-05-06T14:32:22Z"
-  },
-  {
-    "title": "Bitcoin price today hits 3-month high after US-Iran peace agreement reports: Will BTC USD reach $84,000 as ETF inflows rise and investors pivot away from gold?",
-    "description": "Bitcoin BTC USD price prediction after hitting 3-month high: Bitcoin's price hits a three-month high following reports of a potential peace agreement between the US and Iran, leading investors to sell gold in favor of digital assets. Analysts predict Bitcoin \u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-hits-3-month-high-after-us-iran-peace-agreement-reports-will-btc-usd-reach-84000-as-etf-inflows-rise-and-investors-pivot-away-from-gold/articleshow/130858117.cms",
-    "timestamp": "2026-05-06T14:30:04Z"
-  },
-  {
-    "title": "US flagmakers urge new Trump tariffs on Chinese-made banners",
-    "description": "U.S. flagmakers say half the star-spangled banners sold in this country are made in China, so the manufacturers are urging the Trump administration to impose new tariffs on imports.",
-    "link": "https://roanoke.com/news/nation-world/business/article_807997ec-8fee-5fb9-9230-6b8c6aa59e04.html",
-    "timestamp": "2026-05-06T14:30:00Z"
-  },
-  {
-    "title": "Takeaways from Indiana, Ohio and Michigan: Trump's flex pays off and Democrats win special election",
-    "description": "Elections in Indiana, Ohio and Michigan on Tuesday reinforced a picture that's becoming increasingly clear \u2014 while President Donald Trump still dominates the Republican Party, Democrats seem to have the momentum ahead of November's midterm elections.",
-    "link": "https://www.pbs.org/newshour/politics/takeaways-from-indiana-ohio-and-michigan-trumps-flex-pays-off-and-democrats-win-special-election",
-    "timestamp": "2026-05-06T14:28:13Z"
-  },
-  {
-    "title": "\u2018Donald Trump Is His Daddy!\u2019 Ex-Biden Chief Slams Ex-Fox Newser With Paternity-Themed Debate Jab",
-    "description": "Xavier Becerra\u00a0hit former Fox News host Steve Hilton with the paternity-themed jab \"Donald Trump is his daddy!\" as a way to attack the Trump-endorsed candidate.\nThe post \u2018Donald Trump Is His Daddy!\u2019 Ex-Biden Chief Slams Ex-Fox Newser With Paternity-Themed Deb\u2026",
-    "link": "https://www.mediaite.com/media/news/donald-trump-is-his-daddy-ex-biden-chief-slams-ex-fox-newser-with-paternity-themed-debate-jab/",
-    "timestamp": "2026-05-06T14:27:00Z"
-  },
-  {
-    "title": "French aircraft carrier crosses Suez as Paris eyes Hormuz mission",
-    "description": "France wants to ensure the safe passage of ships through the strait but is wary of getting involved in the war.",
-    "link": "https://www.politico.eu/article/france-aircraft-carrier-crosses-suez-red-sea-paris-eyes-hormuz-security-mission/",
-    "timestamp": "2026-05-06T14:26:18Z"
-  },
-  {
-    "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
-    "description": "The transfer of Aung San Suu Kyi from prison to house arrest has been welcomed cautiously abroad, but experts say Myanmar's military may be using it to boost legitimacy as the nation remains engulfed in civil war. Former Myanmar leader Aung San Suu Kyi has be\u2026",
-    "link": "https://www.dw.com/en/myanmar-whats-behind-suu-kyis-transfer-to-house-arrest/a-77066625",
-    "timestamp": "2026-05-06T14:23:00Z"
-  },
-  {
-    "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
-    "description": "The transfer of Aung San Suu Kyi from prison to house arrest has been welcomed cautiously abroad, but experts say Myanmar's military may be using it to boost legitimacy as the nation remains engulfed in civil war.",
-    "link": "https://www.dw.com/en/myanmar-whats-behind-suu-kyis-transfer-to-house-arrest/a-77066625",
-    "timestamp": "2026-05-06T14:23:00Z"
-  },
-  {
-    "title": "Fox\u2019s Maria Bartiromo Calls Out Trump Truth Social Post for Sending the Stock Market Down",
-    "description": "Fox Business host Maria Bartiromo called out one of President Donald Trump's Truth Social posts for sending the stock market down on Wednesday.\nThe post Fox\u2019s Maria Bartiromo Calls Out Trump Truth Social Post for Sending the Stock Market Down first appeared o\u2026",
-    "link": "https://www.mediaite.com/media/tv/foxs-maria-bartiromo-calls-out-trump-truth-social-post-for-sending-the-stock-market-down/",
-    "timestamp": "2026-05-06T14:22:00Z"
-  },
-  {
-    "title": "Trump\u2019s Surgeon General Pick Deleted Mountain of Tweets Criticizing the President and RFK Jr.\u2019s Policies",
-    "description": "President Trump's surgeon general pick Nicole Saphier has deleted numerous tweets critical of the administration and Robert F. Kennedy Jr.\nThe post Trump\u2019s Surgeon General Pick Deleted Mountain of Tweets Criticizing the President and RFK Jr.\u2019s Policies first \u2026",
-    "link": "https://www.mediaite.com/media/news/trumps-surgeon-general-pick-deleted-mountain-of-tweets-criticizing-the-president-and-rfk-jr-s-policies/",
-    "timestamp": "2026-05-06T14:20:34Z"
-  },
-  {
-    "title": "DOJ offers $25K signing bonuses to address lawyer shortage",
-    "description": "The U.S. Department of Justice, faced with a lawyer staffing crisis after mass departures and firings, is trying to recruit legal talent and prevent current lawyers from leaving by offering signing and retention bonuses.",
-    "link": "https://www.abajournal.com/news/article/doj-offers-25000-signing-bonuses-as",
-    "timestamp": "2026-05-06T14:19:00Z"
-  },
-  {
-    "title": "Ego-crazed Stephen Colbert repeatedly fishes for compliments from Barack Obama during simpering interview with embarrassing lack of success",
-    "description": "The sit-down itself was widely seen as a dig against Donald Trump . The nature of the conversation, meanwhile, was noticeably complimentary.",
-    "link": "https://www.dailymail.com/media/article-15794881/stephen-colbert-barack-obama-endorsement-president-interview.html",
-    "timestamp": "2026-05-06T14:16:29Z"
-  },
-  {
-    "title": "\u2018That\u2019s a Stretch!\u2019 Fox\u2019s Karl Rove Warns Dems\u2019 40-Seat Blue Wave Dreams Are Fantasy",
-    "description": "Fox News' Karl Rove warned that Democrats' dreams of taking back 40+ House seats this November are likely misguided on Tuesday.\nThe post \u2018That\u2019s a Stretch!\u2019 Fox\u2019s Karl Rove Warns Dems\u2019 40-Seat Blue Wave Dreams Are Fantasy first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/thats-a-stretch-foxs-karl-rove-warns-dems-40-seat-blue-wave-dreams-are-fantasy/",
-    "timestamp": "2026-05-06T14:15:04Z"
-  },
-  {
-    "title": "Historic Lebanon-Israel talks: A no-win situation?",
-    "description": "Despite recent talks between Israel and Lebanon, experts don't see much hope for a positive outcome \u2014 nor do locals in southern Lebanon, who are most affected by the conflict.",
-    "link": "https://www.dw.com/en/historic-lebanon-israel-talks-a-no-win-situation/a-77067522",
-    "timestamp": "2026-05-06T14:14:00Z"
-  },
-  {
-    "title": "Deranged WHCD shooting suspect Cole Allen may have been motivated by Iran war, intelligence report finds",
-    "description": "Allen, a 31-year-old CalTech grad, is charged with multiple felonies, including attempt to assassinate the President of the United States, assaulting an officer of the United States with a deadly weapon.",
-    "link": "https://nypost.com/2026/05/06/us-news/deranged-whcd-shooting-suspect-cole-allen-may-have-motivated-by-iran-war-intelligence-report-finds/",
-    "timestamp": "2026-05-06T14:13:37Z"
-  },
-  {
-    "title": "\u2018Chaos\u2019 followed ruling on abortion drug access, providers say",
-    "description": "Abortion providers have long been preparing for potential restrictions on telehealth abortion, but whiplash from court rulings challenged their plans.",
-    "link": "https://www.cnn.com/2026/05/06/health/abortion-providers-mifepristone-chaos-court",
-    "timestamp": "2026-05-06T14:12:56Z"
-  },
-  {
-    "title": "Iran Wants to Know If Anyone Told Kids in Trump's Oval Office About Minab Massacre",
-    "description": "The day after US President Donald Trump told young children in the Oval Office about the blowing up of strategic targets in Iran and described the graphic killing of Iranian protesters who were shot in the head by alleged snipers, a social media account with \u2026",
-    "link": "https://www.commondreams.org/news/trump-minab-massacre",
-    "timestamp": "2026-05-06T14:12:23Z"
-  },
-  {
-    "title": "Iraq\u2019s Continuing Struggle for Sovereignty",
-    "description": "Amid a regional war, political drama and drone strikes are testing Baghdad\u2019s power.",
-    "link": "http://foreignpolicy.com/2026/05/06/iraq-politics-amidi-al-zaidi-kurd-iran-war-militia/",
-    "timestamp": "2026-05-06T14:11:04Z"
-  },
-  {
-    "title": "Ag Secretary Celebrates Kicking 4.3 Million Off SNAP Because They're All Rich And Thriving Now",
-    "description": "Brooke Rollins says millions cut from help are 'climbing the ladder of financial freedom.'",
-    "link": "https://www.wonkette.com/p/ag-secretary-celebrates-kicking-43",
-    "timestamp": "2026-05-06T14:09:34Z"
-  },
-  {
-    "title": "Crew on Malta-flagged vessel injured in Strait of Hormuz attack",
-    "description": "Crew on Malta-flagged vessel injured in Strait of Hormuz attacktimesofmalta.com",
-    "link": "https://timesofmalta.com/article/crew-maltaflagged-vessel-injured-strait-hormuz-attack.1128031",
-    "timestamp": "2026-05-06T14:09:07Z"
-  },
-  {
-    "title": "Surging Healthcare Costs Will Have \u2018Major Impact\u2019 On MAHA Voters\u2019 Decisions In Midterms, Poll Shows",
-    "description": "Fifty-one percent of MAHA voters said healthcare costs will have a \"major impact\" on their decision to vote in this year's midterm elections, per a KFF poll.",
-    "link": "https://dailycaller.com/2026/05/06/surging-healthcare-costs-major-impact-on-maha-voters-decisions-midterms-poll/",
-    "timestamp": "2026-05-06T14:08:00Z"
-  },
-  {
-    "title": "College Football Playoff expansion to 24 teams gains momentum as coaches back major overhaul",
-    "description": "The American Football Coaches Association voted to recommend several big changes to the College Football Playoff",
-    "link": "https://www.cbssports.com/college-football/news/college-football-playoff-expansion-24-teams-coaches-vote/",
-    "timestamp": "2026-05-06T14:06:24Z"
-  },
-  {
-    "title": "Mehdi Hasan and Daily Wire Host Throw Down in Fiery Jan. 6 Debate: \u20183 Times He Hasn\u2019t Answered!\u2019",
-    "description": "Zeteo editor-in-chief Mehdi Hasan threw down with Daily Wire's Michael Knowles at a debate this week, things getting particularly fiery over January 6 pardons.\nThe post Mehdi Hasan and Daily Wire Host Throw Down in Fiery Jan. 6 Debate: \u20183 Times He Hasn\u2019t Answ\u2026",
-    "link": "https://www.mediaite.com/media/mehdi-hasan-and-daily-wire-host-throw-down-in-fiery-jan-6-debate-3-times-he-hasnt-answered/",
-    "timestamp": "2026-05-06T14:04:35Z"
-  },
-  {
-    "title": "Trump's Bluff to Iran Didn't Work",
-    "description": "After trying to open the Strait of Hormuz by force, the U.S. is ready to accept an Iranian proposal it had rejected.",
-    "link": "https://reason.com/2026/05/06/trumps-bluff-to-iran-didnt-work/",
-    "timestamp": "2026-05-06T14:04:10Z"
-  },
-  {
-    "title": "Pete Buttigieg Nails What Trump Administration\u2019s Biden Blaming Is All About",
-    "description": "The former transportation secretary gave a blistering take on one of Trump\u2019s go-to tactics to MS NOW\u2019s Jen Psaki.",
-    "link": "https://www.huffpost.com/entry/pete-buttigieg_n_69fb0a2ce4b002c4c4a09d35",
-    "timestamp": "2026-05-06T14:03:45Z"
-  },
-  {
-    "title": "Jimmy Kimmel roasts Donald Trump for reinstating fitness test he \u2018would have no chance of passing\u2019",
-    "description": "Trump signed an executive order to revive the Presidential Fitness Test in schools nationwide, declaring that the \u2018next few years will be a golden age of athletics\u2019",
-    "link": "https://www.the-independent.com/arts-entertainment/tv/news/jimmy-kimmel-trump-presidential-fitness-test-b2971510.html",
-    "timestamp": "2026-05-06T14:03:15Z"
-  },
-  {
-    "title": "Trump strikes back: GOP lawmakers who opposed president on redistricting pay price",
-    "description": "President Trump scored major victories in Indiana's GOP primary as his endorsed challengers defeated state senators who blocked his redistricting push.",
-    "link": "https://www.foxnews.com/politics/trump-strikes-back-gop-lawmakers-opposed-president-redistricting-pay-price",
-    "timestamp": "2026-05-06T14:02:55Z"
-  },
-  {
-    "title": "Investor group urges SEC to scrutinize SpaceX IPO filing, avoid conflicts",
-    "description": "NEW YORK, May 6 (Reuters) - An investor group which advises union pension funds urged Wall Street's leading watchdog on Wednesday to scrutinize SpaceX's...",
-    "link": "https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html",
-    "timestamp": "2026-05-06T14:02:30Z"
-  },
-  {
-    "title": "Footwear and Apparel Groups Urge USTR Not to Pursue New Tariffs at Section 301\u00a0Hearing",
-    "description": "The Trump administration has intimated that foreign economies are flooding the market with their products and, consequently, depressing demand for American-made goods.",
-    "link": "http://wwd.com/sourcing-journal/trade/footwear-apparel-ustr-tariffs-section-301-hearing-fdra-aafa-1238944065/",
-    "timestamp": "2026-05-06T14:01:17Z"
-  },
-  {
-    "title": "SBA Announces New $50 Million Grant Opportunity to Support Made in America Manufacturing, Workforce Training",
-    "description": "Manufacturing in America E2G Grants will fund training for small manufacturers in critical industries Manufacturing in America E2G Grants will fund training for small manufacturers in critical industries",
-    "link": "https://www.globenewswire.com/news-release/2026/05/06/3289009/0/en/SBA-Announces-New-50-Million-Grant-Opportunity-to-Support-Made-in-America-Manufacturing-Workforce-Training.html",
-    "timestamp": "2026-05-06T14:00:00Z"
-  },
-  {
-    "title": "Economic Management in War: Professor Michael Hudson in Discussion with Ian Proud",
-    "description": "An informative and wide-ranging conversation of how economic policies can neglect, support, or impede the prosecution of war",
-    "link": "https://www.nakedcapitalism.com/2026/05/economic-management-in-war-professor-michael-hudson-in-discussion-with-ian-proud.html",
-    "timestamp": "2026-05-06T13:58:39Z"
-  },
-  {
-    "title": "Republicans take Election Night shellacking from Trump candidates after helping Dems kill redistricting bid",
-    "description": "'Tonight, we learned that President Trump's endorsement has more weight than former Vice President Pence's in his home state of Indiana'",
-    "link": "https://www.wnd.com/2026/05/republicans-take-election-night-shellacking-trump-candidates-after/",
-    "timestamp": "2026-05-06T13:55:57Z"
-  },
-  {
-    "title": "Trump Wipes Out Establishment Republicans in Indiana Senate Primaries",
-    "description": "President Donald Trump on Tuesday night vanquished many establishment-leaning Hoosier Republicans that refused to back his move to redistrict the state to favor Republicans during the midterm elections.\nThe post Trump Wipes Out Establishment Republicans in In\u2026",
-    "link": "https://www.breitbart.com/politics/2026/05/06/trump-wipes-out-establishment-republicans-in-indiana-senate-primaries/",
-    "timestamp": "2026-05-06T13:55:37Z"
-  },
-  {
-    "title": "Republican Derek Merrin to Face Kaptur in November",
-    "description": "It was primary day in Ohio on Tuesday, with results coming in for several key races that could affect the midterms\u2014especially control of the U.S. House. Republican Derek Merrin is set to face Ohio Democratic U.S. Rep. Marcy Kaptur in November after winning Oh\u2026",
-    "link": "https://www.dailysignal.com/2026/05/06/merrin-to-face-kaptur/",
-    "timestamp": "2026-05-06T13:55:17Z"
-  },
-  {
-    "title": "\u2018Terrible Deal\u2019: Fox\u2019s Hugh Hewitt Trashes Trump Peace Framework After Interviewing Him on Monday",
-    "description": "Fox News' Hugh Hewitt trashed the framework for a peace agreement with Iran reported on by Axios's Barak Ravid Wednesday morning.\nThe post \u2018Terrible Deal\u2019: Fox\u2019s Hugh Hewitt Trashes Trump Peace Framework After Interviewing Him on Monday first appeared on Medi\u2026",
-    "link": "https://www.mediaite.com/media/news/terrible-deal-foxs-hugh-hewitt-trashes-trump-peace-framework-after-interviewing-him-on-monday/",
-    "timestamp": "2026-05-06T13:53:36Z"
-  },
-  {
-    "title": "'Hangover' Star Slams Pro-Trump Podcasters: 'They Suck Up To Him'",
-    "description": "Fellow comedians Joe Rogan, Andrew Schulz and Theo Von all interviewed President Donald Trump ahead of the 2024 election.",
-    "link": "https://www.huffpost.com/entry/hangover-star-zach-galifianakis-slams-pro-trump-podcasters-they-suck-up-to-him_n_69fb1657e4b04a49ec0c24d4",
-    "timestamp": "2026-05-06T13:53:05Z"
   }
 ]
