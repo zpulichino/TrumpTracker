@@ -1,5 +1,533 @@
 [
   {
+    "title": "Sensex today | Stock Market Highlights: Sensex gains 789 pts, Nifty ends at 23,689 as US-China trade talks lift investor sentiment",
+    "description": "Sensex, Nifty, Share Prices Highlights: Indian shares rose on Thursday, supported by steady earnings \u200band signs of progress in U.S.-China trade relations, though sentiment \u200cremained fragile as elevated oil prices and foreign \u200boutflows drove the rupee to anoth\u2026",
+    "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14th-may-2026/article70974643.ece",
+    "timestamp": "2026-05-14T10:36:06Z"
+  },
+  {
+    "title": "Vance is set to speak in Maine about fraud investigations ahead of primary election",
+    "description": "Vice President JD Vance is set to visit Maine to highlight the Trump administration\u2019s anti-fraud efforts before the state\u2019s primary elections",
+    "link": "https://abcnews.com/Politics/wireStory/vance-set-speak-maine-fraud-investigations-ahead-primary-132954370",
+    "timestamp": "2026-05-14T10:31:06Z"
+  },
+  {
+    "title": "Trump on verge of \u2018largest single act of grand larceny in American history': Congressman",
+    "description": "Democrats in Congress are warning that President Donald Trump is on the verge of \u201cstealing\u201d billions of dollars from American taxpayers in the coming days as his Department of Justice reportedly considers settling his lawsuit against the Internal Revenue Serv\u2026",
+    "link": "https://www.rawstory.com/dem-warns-trump-on-verge-of-largest-single-act-of-grand-larceny-in-american-history/",
+    "timestamp": "2026-05-14T10:30:45Z"
+  },
+  {
+    "title": "Massie\u2019s primary isn\u2019t really a test of Trump\u2019s power",
+    "description": "A Massie victory, Republican strategists say, would speak more to the district than to Trump\u2019s influence",
+    "link": "https://www.salon.com/2026/05/14/massies-primary-isnt-really-a-test-of-trumps-power/",
+    "timestamp": "2026-05-14T10:30:37Z"
+  },
+  {
+    "title": "'Just like Thatcher': Kemi Badenoch gets bizarre endorsement from US star Nicki Minaj after Commons tour de force",
+    "description": "Nicki Minaj, whose hits include Anaconda, compared the Tory leader to Thatcher and predicted there would be films made about her in the future.",
+    "link": "https://www.dailymail.com/news/article-15817485/Thatcher-Kemi-Badenoch-endorsement-Nicki-Minaj-Commons.html",
+    "timestamp": "2026-05-14T10:29:09Z"
+  },
+  {
+    "title": "Stephen Colbert Mocks Trump\u2019s Polling Nosedive in \u2018Last Biden Impression Ever\u2019",
+    "description": "Colbert was seen sporting a pair of aviator sunglasses, a signature Biden accessory, as he launched into the impression to quickly roast Trump.\nThe post Stephen Colbert Mocks Trump\u2019s Polling Nosedive in \u2018Last Biden Impression Ever\u2019 first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/tv/stephen-colbert-mocks-trumps-polling-nosedive-in-last-biden-impression-ever/",
+    "timestamp": "2026-05-14T10:25:31Z"
+  },
+  {
+    "title": "S&P 500, Nasdaq futures rise to new highs as Nvidia jumps",
+    "description": "Nvidia rose 1.9% in premarket trading, giving the chipmaker a market \u200cvaluation of $5.9 trillion, \u2060after \u2060Reuters reported citing sources that the U.S. has cleared about 10 Chinese firms to buy its second-most powerful AI chip, \u200bthe H200",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-futures-rise-to-new-highs-as-nvidia-jumps/articleshow/131089803.cms",
+    "timestamp": "2026-05-14T10:20:21Z"
+  },
+  {
+    "title": "Russia launches hundreds more drones at Ukraine, killing three people",
+    "description": "President Volodymyr Zelenskyy says Russia fired 'more than 1,560 drones' at Ukraine since Wednesday.",
+    "link": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people",
+    "timestamp": "2026-05-14T10:19:39Z"
+  },
+  {
+    "title": "World Oil Prices Hold Above $105 as Iran Tensions and Trump-Xi Summit Drive Volatility",
+    "description": "Oil prices remain above $105 per barrel due to geopolitical tensions in the Middle East and the Trump-Xi summit, affecting global supply and demand dynamics.",
+    "link": "https://www.ibtimes.com.au/geopolitical-tensions-oil-prices-trump-xi-summit-1868815",
+    "timestamp": "2026-05-14T10:12:17Z"
+  },
+  {
+    "title": "Death toll from Russian strikes on Kyiv rises to five: Zelensky",
+    "description": "Ukrainian President Volodymyr Zelensky said Thursday that the death toll from Russian drone and missile strikes on the capital Kiev had risen to five, with around another 40 people wounded.",
+    "link": "https://www.hurriyetdailynews.com/russia-pummels-kiev-killing-three-and-denting-peace-hopes-222136",
+    "timestamp": "2026-05-14T10:12:00Z"
+  },
+  {
+    "title": "U.S. China AI talks: Bessent says U.S. leads, safety protocol planned",
+    "description": "The U.S. Treasury Secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days.",
+    "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+    "timestamp": "2026-05-14T10:10:02Z"
+  },
+  {
+    "title": "As tick bites surge, conspiracy theories follow",
+    "description": "Where scientists see climate change at work, others see the designs of a global cabal.",
+    "link": "https://grist.org/health/as-tick-bites-surge-conspiracy-theories-follow/",
+    "timestamp": "2026-05-14T10:10:00Z"
+  },
+  {
+    "title": "Trump arrives to feast with Xi at China's glitzy State Banquet after agreeing Hormuz must 'remain open'",
+    "description": "President Donald Trump and Chinese President Xi Jinping have arrived at a lavish welcoming State Banquet hosted by the Middle Kingdom - ready to partake in food diplomacy.",
+    "link": "https://www.dailymail.com/news/article-15817413/Trump-arrives-feast-Xi-Chinas-glitzy-State-Banquet-agreeing-Hormuz-remain-open.html",
+    "timestamp": "2026-05-14T10:06:31Z"
+  },
+  {
+    "title": "China's Xi lauds 'new positioning' in ties with US",
+    "description": "In a significant pivot in international relations, Chinese President Xi Jinping and U.S. President Donald Trump have unveiled a fresh strategy for their nations' partnership that prioritises collaboration while recognising necessary competition. This initiati\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-lauds-new-positioning-in-ties-with-us/articleshow/131089345.cms",
+    "timestamp": "2026-05-14T10:01:45Z"
+  },
+  {
+    "title": "Falling support for Doug Ford and Ontario PCs as appetite grows for political alternatives: poll",
+    "description": "While the Progressive Conservatives remained the frontrunner for voting intentions, with 39% support, the leaderless Liberal Party was closing the gap, with 34%, the poll found",
+    "link": "https://nationalpost.com/news/falling-support-for-doug-ford-and-ontario-pcs-poll",
+    "timestamp": "2026-05-14T10:00:56Z"
+  },
+  {
+    "title": "William Watson: Is it NATO\u2019s new Canadian bank that\u2019s rattling Putin?",
+    "description": "The interprovincial infighting over where to put the new financial institution reveals the darkest parts of the Canadian character. Read on",
+    "link": "https://financialpost.com/opinion/william-watson-is-it-natos-new-canadian-bank-thats-rattling-putin",
+    "timestamp": "2026-05-14T10:00:45Z"
+  },
+  {
+    "title": "Cuba runs out of diesel and fuel oil",
+    "description": "Protests erupt as energy minister admits island has \u2018absolutely no\u2019 supplies or reserves",
+    "link": "https://www.irishtimes.com/business/2026/05/14/cuba-runs-out-of-diesel-and-fuel-oil/",
+    "timestamp": "2026-05-14T10:00:32Z"
+  },
+  {
+    "title": "Trump pick Julia Letlow fires back at Cassidy by claiming her past DEI work was hijacked by left",
+    "description": "Rep. Julia Letlow says DEI was hijacked by the left as she battles Sen. Bill Cassidy in the Louisiana GOP Senate primary with Trump's endorsement.",
+    "link": "https://www.foxnews.com/media/trump-pick-julia-letlow-fires-back-cassidy-claiming-past-dei-work-hijacked-left",
+    "timestamp": "2026-05-14T10:00:27Z"
+  },
+  {
+    "title": "White House: President Xi agreed that Iran can never have a nuclear weapon",
+    "description": "Following a meeting between US President Donald Trump and Chinese President Xi Jinping, the White House announced that the two leaders agreed that the Strait of Hormuz must remain open to support the free flow of energy. According to the statement, President \u2026",
+    "link": "https://www.israelnationalnews.com/flashes/685483",
+    "timestamp": "2026-05-14T10:00:23Z"
+  },
+  {
+    "title": "Trump pledges to raise detained pastor's case with Xi Jinping during Beijing visit as family pleads for help",
+    "description": "Pastor Ezra Jin's daughter speaks about her father's detention in China and Trump's pledge to raise his case with Xi Jinping during Beijing visit.",
+    "link": "https://www.foxnews.com/world/trump-pledges-raise-detained-pastors-case-xi-jinping-beijing-visit-family-pleads-help",
+    "timestamp": "2026-05-14T10:00:15Z"
+  },
+  {
+    "title": "Top 4 explosive moments from CIA whistleblower's testimony on alleged COVID-19 lab leak cover-up",
+    "description": "CIA whistleblower James Erdman testified that the Biden administration allegedly buried analysis showing a lab leak was the likely origin of COVID-19.",
+    "link": "https://www.foxnews.com/politics/top-4-explosive-moments-cia-whistleblowers-testimony-alleged-covid-19-lab-leak-cover",
+    "timestamp": "2026-05-14T10:00:13Z"
+  },
+  {
+    "title": "NVIDIA To Claw Back Lost China Market With H200 Approval After US Curbs Crushed Its 95% Share Down To Nothing",
+    "description": "The US Government has approved NVIDIA's GPU sales to China, allowing 10 Chinese firms to access the Hopper H200 GPU. Chinese AI Firms Can Now Access NVIDIA's Hopper H200 GPUs, But Only Up To 75,000 Units Each NVIDIA CEO made a last-minute change in his plans \u2026",
+    "link": "https://wccftech.com/nvidia-to-claw-back-lost-china-market-with-h200-approval-after-us-curbs-crushed-its-share/",
+    "timestamp": "2026-05-14T10:00:02Z"
+  },
+  {
+    "title": "Americans still feel bad about the economy. When will it get better?",
+    "description": "U.S. consumer sentiment has been on a downward trend since the Covid-19 pandemic. Inflation, wars and President Trump's tariffs are to blame, economists say.",
+    "link": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
+    "timestamp": "2026-05-14T10:00:01Z"
+  },
+  {
+    "title": "Will Donald Trump Be Allowed to Destroy His Records?",
+    "description": "A law passed after Watergate makes Presidential records government property. The Trump Administration has declared it unconstitutional.",
+    "link": "https://www.newyorker.com/news/the-lede/will-donald-trump-be-allowed-to-destroy-his-records",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "How Leah Kateb and Rob Rausch Made Love Island The Number One Reality Show in America",
+    "description": "Read an exclusive excerpt from 'Enter the Villa,' and go behind the scenes of the explosive breakup that changed the dating show forever.",
+    "link": "https://www.vanityfair.com/hollywood/story/love-island-anna-peele",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "Trump Offers U.S. Citizenship to 32 Million Venezuelans",
+    "description": "President Donald Trump suggested earlier this week that Venezuela should be annexed by the United States. He reportedly told Fox News correspondent John Roberts\u2014not to be confused with the chief justice\u2014that he was \u201cseriously considering a move to make Venezu\u2026",
+    "link": "https://newrepublic.com/article/210405/trump-venezuela-51st-state-citizenship",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "Democratic grassroots group to target more than 60 races with ambitious canvassing effort",
+    "description": "A Democratic grassroots organization seeking to conduct at least 500,000 substantive conversations with voters across the battleground map this year said it is expanding its list of targets to more than 60 contested congressional and state races.",
+    "link": "https://www.nbcnews.com/politics/2026-election/democratic-grassroots-group-target-60-races-ambitious-canvassing-effor-rcna345056",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "Trump posted on Truth Social 55 times in 3 hours. Here's a timeline",
+    "description": "The president flooded his social media site with a range of unproven accusations, including an Obama-backed coup in 2016 and election fraud in 2020.",
+    "link": "https://www.snopes.com//fact-check/trump-55-posts-3-hours/",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s Plot to Pocket Billions in Taxpayer Dollars Just Might Succeed",
+    "description": "Of all President Donald Trump\u2019s kleptocracy schemes, perhaps the most shameless are his financial legal claims against the same executive branch over which he presides. Now Trump is on the verge of settling one of these, a\u00a0lawsuit\u00a0he filed in January against \u2026",
+    "link": "https://newrepublic.com/article/210408/trump-irs-lawsuit-settlement-scandal",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "The Conservative Legal Movement\u2019s New Purity Tests",
+    "description": "Since it overturned his IEEPA tariffs in Learning Resources, Inc. v. Trump, Donald Trump has clearly had the Supreme Court on his mind. In addition to complaining about \u201chis\u201d justices voting against him even when they \u201cknew where [he] stood, how badly [he] wa\u2026",
+    "link": "https://newrepublic.com/article/210239/conservative-legal-movement-purity-tests",
+    "timestamp": "2026-05-14T10:00:00Z"
+  },
+  {
+    "title": "Gold steady as markets focus on Trump-Xi meeting",
+    "description": "China's Xi Jinping told Trump that trade \u2060talks were making\nprogress at the start of a two-day summit on Thursday but that\ndisagreement over Taiwan could damage relations and even \u200blead to\nconflict",
+    "link": "https://www.thehindubusinessline.com/markets/gold/gold-steady-as-markets-focus-on-trump-xi-meeting/article70977936.ece",
+    "timestamp": "2026-05-14T09:58:08Z"
+  },
+  {
+    "title": "US-China Summit: Semiconductors, rare earths to dominate Trump-Xi talks",
+    "description": "Strategic supply chains spanning semiconductors, rare earth minerals, aerospace and agricultural trade are expected to dominate bilateral discussions between US President Donald Trump and Chinese President Xi Jinping during the ongoing US-China summit, accord\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-china-summit-semiconductors-rare-earths-to-dominate-trump-xi-talks/articleshow/131089328.cms",
+    "timestamp": "2026-05-14T09:56:52Z"
+  },
+  {
+    "title": "Beijing Summit: Xi Issues Warning On Taiwan As Trump Praises \u2018Great Leader\u2019 (Live Updates)",
+    "description": "The Chinese president expressed hope that the two countries would become partners rather than rivals at a moment of \u201cturbulence and transformation\u201d in the world.",
+    "link": "https://www.forbes.com/sites/siladityaray/2026/05/14/beijing-summit-xi-issues-warning-on-taiwan-as-trump-praises-great-leader-live-updates/",
+    "timestamp": "2026-05-14T09:56:16Z"
+  },
+  {
+    "title": "Boeing could be the biggest winner on Trump\u2019s trip to Beijing",
+    "description": "Also: All the news and watercooler chat from Fortune.",
+    "link": "https://fortune.com/2026/05/14/boeing-china-500-planes-trump/",
+    "timestamp": "2026-05-14T09:55:54Z"
+  },
+  {
+    "title": "CNN Spots Something Highly Unusual As Anti-Trump Posts Go Viral In China",
+    "description": "It's \"a statement in and of itself,\" said anchor Erin Burnett.",
+    "link": "https://www.huffpost.com/entry/donald-trump-china-viral-posts-online_n_6a058f12e4b0def65bfc015c",
+    "timestamp": "2026-05-14T09:55:37Z"
+  },
+  {
+    "title": "The Men Who Don\u2019t Want Women to Vote",
+    "description": "Or work. Or have opinions.",
+    "link": "https://www.theatlantic.com/magazine/2026/06/conservative-masculinism-misogyny/686939/",
+    "timestamp": "2026-05-14T09:55:00Z"
+  },
+  {
+    "title": "Netanyahu 'monster, disgrace to humanity': Pakistani minister",
+    "description": "Pakistan's Defense Minister Khawaja Muhammad Asif has described Israeli prime minister Benjamin Netanyahu as a \"monster\" and a disgrace to humanity for patronizing and promoting rape of Palestinian detainees.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/israel/2026/05/israel-260514-presstv01.htm",
+    "timestamp": "2026-05-14T09:54:54Z"
+  },
+  {
+    "title": "'Absurd, deceptive': Tehran slams US for using 'coercion' to get support for anti-Iran Hormuz resolution",
+    "description": "The Iranian Permanent Mission to the United Nations has slammed the United States for using \"coercion\" to rally support for its politically-motivated draft resolution targeting Iran's legitimate actions in the Strait of Hormuz.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260514-presstv01.htm",
+    "timestamp": "2026-05-14T09:54:54Z"
+  },
+  {
+    "title": "Trump, Xi Open Beijing Summit Seeking Trade Stability Amid Wider US-China Rivalry",
+    "description": "US President Donald Trump and Chinese leader Xi Jinping opened high-stakes talks in Beijing on May 14 after a lavish welcome ceremony, with both men emphasizing their personal relationship and the need for closer cooperation despite growing tensions between t\u2026",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260514-rferl01.htm",
+    "timestamp": "2026-05-14T09:54:54Z"
+  },
+  {
+    "title": "President Xi Jinping Holds Talks with U.S. President Donald J. Trump",
+    "description": "On the morning of May 14, President Xi Jinping held talks with U.S. President Donald J. Trump, who is on a state visit to China, at the Great Hall of the People in Beijing.",
+    "link": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260514-prc-mofa01.htm",
+    "timestamp": "2026-05-14T09:54:54Z"
+  },
+  {
+    "title": "Iran\u2019s Hormuz closure threatens global trade, raises hunger crisis fears",
+    "description": "The closure of the Strait of Hormuz could severely disrupt global trade, exacerbating food insecurity and economic instability worldwide.\nThe post Iran\u2019s Hormuz closure threatens global trade, raises hunger crisis fears appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/irans-hormuz-closure-threatens-global-trade-raises-hunger-crisis-fears/",
+    "timestamp": "2026-05-14T09:54:25Z"
+  },
+  {
+    "title": "Xi Jinping tells Nvidia, Tesla and Apple CEOs that China will \u2018open wider\u2019",
+    "description": "US business leaders praise \u2018great importance\u2019 of Chinese market on visit to Beijing alongside Donald Trump",
+    "link": "https://www.irishtimes.com/business/2026/05/14/xi-jinping-tells-nvidia-tesla-and-apple-ceos-that-china-will-open-wider/",
+    "timestamp": "2026-05-14T09:52:27Z"
+  },
+  {
+    "title": "Honda posts first-ever annual loss amid EV slowdown and Trump tariffs",
+    "description": "The Japanese automaker said it is revising its strategy by focusing more on hybrid and gasoline-engine vehicles while continuing research into future EV technologies.",
+    "link": "https://www.thehindubusinessline.com/companies/honda-posts-first-ever-annual-loss-amid-ev-slowdown-and-trump-tariffs/article70977505.ece",
+    "timestamp": "2026-05-14T09:51:41Z"
+  },
+  {
+    "title": "Honda's Costly EV Fiasco Drives First-Ever Annual Loss",
+    "description": "Honda announced a 423.9 billion yen ($2.7 billion) loss Thursday in a first-ever negative result for the fabled Japanese automaker, reportedly driven by heavy costs for its electric-vehicle plans underscored by President Donald Trump\u2019s pro-U.S. manufacturing \u2026",
+    "link": "https://www.breitbart.com/tech/2026/05/14/hondas-costly-ev-fiasco-drives-first-ever-annual-loss/",
+    "timestamp": "2026-05-14T09:48:30Z"
+  },
+  {
+    "title": "Trump, Xi to emphasize stability at high-stakes summit with major crypto mining implications",
+    "description": "The summit's outcome could reshape global crypto mining economics, influencing hardware costs and prompting shifts in rare earth sourcing.\nThe post Trump, Xi to emphasize stability at high-stakes summit with major crypto mining implications appeared first on \u2026",
+    "link": "https://cryptobriefing.com/trump-xi-summit-crypto-mining-implications/",
+    "timestamp": "2026-05-14T09:46:00Z"
+  },
+  {
+    "title": "The Seven Biggest Ongoing Gerrymandering Fights",
+    "description": "This week\u2019s Executive Dysfunction.",
+    "link": "https://slate.com/news-and-politics/2026/05/supreme-court-analysis-tennessee-louisiana-alabama-gerrymandering.html",
+    "timestamp": "2026-05-14T09:45:00Z"
+  },
+  {
+    "title": "Trump \u2018Golden Dome\u2019 Will Waste $1T Taxpayer Money, Enrich Cronies",
+    "description": "Donald Trump\u2019s \u201cGolden Dome\u201d is not another plan to physically slather gold all over something to make himself look more king-like but it might as well be. As Mother Jones explains, it\u2019s Trump\u2019s scheme for a missile defense shield over the entire country, mod\u2026",
+    "link": "https://crooksandliars.com/2026/05/trump-golden-dome-will-waste-1t-taxpayer",
+    "timestamp": "2026-05-14T09:41:38Z"
+  },
+  {
+    "title": "Old Manakin Skywalker in The Daily LITG, 14th of May, 2026",
+    "description": "Old Man Anakin Skywalker\u00a0was the most-read story on Bleeding Cool yesterday, again. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past seven years. Founded seventeen years ago and steeped in a histor\u2026",
+    "link": "https://bleedingcool.com/collectibles/old-manakin-skywalker-in-the-daily-litg-14th-of-may-2026/",
+    "timestamp": "2026-05-14T09:40:08Z"
+  },
+  {
+    "title": "My Father\u2019s Hidden Life Was in a Box in His Office. By the Time I Found It, It Was Almost Too Late.",
+    "description": "The papers held the key to his life\u2019s work\u2014and his legacy.",
+    "link": "https://slate.com/life/2026/05/new-orleans-louisiana-son-father-book-college.html",
+    "timestamp": "2026-05-14T09:40:00Z"
+  },
+  {
+    "title": "Germany news: Merkel urges patience for Merz's coalition",
+    "description": "Gormer Chancellor Angela Merkel says she thinks people need to have patience with the coalition government, amid widespread dissatisfaction. Meanwhile, Germany's men are celebrating Father's Day. DW has the latest. Angela Merkel has urged Germans to judge the\u2026",
+    "link": "https://www.dw.com/en/germany-news-merkel-urges-patience-for-merzs-coalition/live-77157896",
+    "timestamp": "2026-05-14T09:38:00Z"
+  },
+  {
+    "title": "Chinese officer goes viral for standing like a robot as Air Force One passes just a few meters away, internet has questions",
+    "description": "A Chinese military officer's stoic stance near US President Donald Trump's Air Force One has gone viral. Footage shows him remaining motionless as the aircraft taxied. Social media users praised his discipline. Others raised safety concerns about the proximit\u2026",
+    "link": "https://economictimes.indiatimes.com/news/new-updates/chinese-officer-goes-viral-for-standing-like-a-robot-as-air-force-one-passes-just-a-few-meters-away-internet-has-questions/articleshow/131088838.cms",
+    "timestamp": "2026-05-14T09:32:02Z"
+  },
+  {
+    "title": "Why Ben Shapiro\u2019s Media Empire Is Collapsing",
+    "description": "Not long ago, he was the king of conservative media. A lot has changed in 2026, writes columnist Ross Barkan.",
+    "link": "http://nymag.com/intelligencer/article/why-ben-shapiros-media-empire-is-collapsing.html",
+    "timestamp": "2026-05-14T09:30:53Z"
+  },
+  {
+    "title": "US Says China Wants More Of Its Oil to Cut Middle East Reliance",
+    "description": "Chinese President Xi Jinping opposes efforts to charge a toll to navigate the Strait of Hormuz and is interested in purchasing more US oil to reduce its dependence on the waterway in the future, according to a White House official.",
+    "link": "https://financialpost.com/pmn/business-pmn/us-says-china-wants-more-of-its-oil-to-cut-middle-east-reliance",
+    "timestamp": "2026-05-14T09:24:59Z"
+  },
+  {
+    "title": "Space Haven finally leaves Early Access after 10 years of development",
+    "description": "Space Haven has officially launched Version 1.0 after a decade of development, bringing its spaceship colony sim out of Early Access",
+    "link": "https://www.escapistmagazine.com/news-space-haven-1-0-launch-after-10-years/",
+    "timestamp": "2026-05-14T09:23:46Z"
+  },
+  {
+    "title": "Appeals court to hear arguments over Trump's orders that sought to punish law firms",
+    "description": "An appeals court is set to hear arguments Thursday over the Trump administration's bid to reinstate executive orders that sought sanctions against four elite law firms.",
+    "link": "https://abcnews.com/US/appeals-court-hear-arguments-trumps-orders-sought-punish/story?id=132934892",
+    "timestamp": "2026-05-14T09:15:15Z"
+  },
+  {
+    "title": "Trump, Xi agree to keep Strait of Hormuz open amid US-Iran tensions",
+    "description": "The Trump-Xi agreement highlights the strategic importance of international cooperation in maintaining global energy security and trade stability.\nThe post Trump, Xi agree to keep Strait of Hormuz open amid US-Iran tensions appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/trump-xi-agree-to-keep-strait-of-hormuz-open-amid-us-iran-tensions/",
+    "timestamp": "2026-05-14T09:14:23Z"
+  },
+  {
+    "title": "Spanish Public Broadcaster Debuts Documentary on 'ICE List' Website Attempting to Identify Agents",
+    "description": "The Spanish public broadcaster RTVE is debuting a documentary on \u201cICE List,\u201d a reportedly Europe-based website with a database purporting to contain identifying information of thousands of U.S. Immigration and Customs Enforcement (ICE) agents.\nThe post Spanis\u2026",
+    "link": "https://www.breitbart.com/europe/2026/05/14/spanish-public-broadcaster-debuts-documentary-on-ice-list-website-attempting-to-expose-agents-identities/",
+    "timestamp": "2026-05-14T09:03:47Z"
+  },
+  {
+    "title": "Elon Musk becomes instant viral hit in China after taking 360-degree tourist photo while posing with fellow tech billionaires during Trump state visit",
+    "description": "Tech billionaire Elon Musk has become an instant viral hit in China after he was spotted taking a 360-degree tourist photo during Donald Trump's state visit.",
+    "link": "https://www.dailymail.com/news/article-15817231/Elon-Musk-instant-viral-hit-China-taking-360-degree-tourist-photo-posing-fellow-tech-billionaires-Trump-state-visit.html",
+    "timestamp": "2026-05-14T09:01:52Z"
+  },
+  {
+    "title": "Democrats\u2019 midterm push clouded by infighting over party keeping 2024 autopsy under wraps",
+    "description": "Democrats keep winning elections but the DNC is under fire for refusing to release its internal review of the party's sweeping 2024 key losses.",
+    "link": "https://www.foxnews.com/politics/democrats-midterm-push-clouded-infighting-party-keeping-2024-autopsy-wraps",
+    "timestamp": "2026-05-14T09:00:58Z"
+  },
+  {
+    "title": "Trump-Xi\u2019s China summit is a defining test for America in the new Cold War",
+    "description": "Trump arrives in Beijing on May 14 facing discussions on semiconductors, Taiwan, Iran and AI as the U.S.-China rivalry reshapes the international order.",
+    "link": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war",
+    "timestamp": "2026-05-14T09:00:58Z"
+  },
+  {
+    "title": "MORNING GLORY: President Trump needs to finish the war against Iran once and for all",
+    "description": "Iran has reportedly regained operational access to most of its missile sites and launchers, according to leaked U.S. intelligence assessments.",
+    "link": "https://www.foxnews.com/opinion/morning-glory-president-trump-needs-finish-war-iran",
+    "timestamp": "2026-05-14T09:00:30Z"
+  },
+  {
+    "title": "IndyCar\u2019s \u2018One Nation, One Race\u2019 controversy is no surprise amid its rightward drift",
+    "description": "The series quickly withdrew a shirt that stirred up a strong backlash. But IndyCar has been playing with fire for a while",
+    "link": "https://sports.yahoo.com/articles/indycar-one-nation-one-race-090023358.html",
+    "timestamp": "2026-05-14T09:00:23Z"
+  },
+  {
+    "title": "What Xi wants from Trump as Beijing seeks leverage in high-stakes summit",
+    "description": "President Donald Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping at a moment when both Washington and Beijing are trying to stabilize one of the world\u2019s most consequential rivalries.",
+    "link": "https://www.foxnews.com/world/what-xi-wants-from-trump-beijing-seeks-leverage-high-stakes-summit",
+    "timestamp": "2026-05-14T09:00:16Z"
+  },
+  {
+    "title": "The United States\u2019 Long War Against Iran",
+    "description": "Richard Kreitner\n\n\n\nThe Nation\u00a0was among the first publications to report the CIA\u2019s role in the 1953 overthrow of Iran\u2019s democratically elected prime minister, Mohammed Mossadegh.\r\n\n\r\n\n\nThe post The United States\u2019 Long War Against Iran appeared first on The N\u2026",
+    "link": "https://www.thenation.com/article/world/long-war-against-iran/",
+    "timestamp": "2026-05-14T09:00:02Z"
+  },
+  {
+    "title": "What Would Happen if You Walked All of New York\u2019s Shoreline?",
+    "description": "Karrie Jacobs\n\n\n\nThe art and architecture of New York\u2019s vast and sweeping waterfront.\r\n\n\r\n\n\nThe post What Would Happen if You Walked All of New York\u2019s Shoreline? appeared first on The Nation.",
+    "link": "https://www.thenation.com/article/culture/new-york-architecture-water/",
+    "timestamp": "2026-05-14T09:00:02Z"
+  },
+  {
+    "title": "Trump Demands Medicaid Data for Deportation. Some States Go a Step Further.",
+    "description": "Several states have required their health agencies to take on another job: verifying immigration status among Medicaid recipients and reporting them to the U.S. Department of Homeland Security. North Carolina is the latest to pass such a law, and experts expe\u2026",
+    "link": "https://kffhealthnews.org/medicaid/medicaid-immigrants-deportation-state-data-legislation-north-carolina/",
+    "timestamp": "2026-05-14T09:00:00Z"
+  },
+  {
+    "title": "Seven years after Biden predicted a GOP \u2018epiphany\u2019 over Trump, Democrats are moving on",
+    "description": "Seven years ago, Joe Biden boldly proclaimed that Republicans would have an \u201cepiphany\u201d after Donald Trump lost the election. That didn\u2019t pan out.",
+    "link": "https://www.nbcnews.com/politics/elections/biden-republicans-epiphany-anniverary-2026-more-aggressive-candidates-rcna266876",
+    "timestamp": "2026-05-14T09:00:00Z"
+  },
+  {
+    "title": "Bill Cassidy\u2019s vaccine advocacy is putting his Senate future in peril as contends with MAHA",
+    "description": "Sen. Bill Cassidy\u2019s advocacy for vaccines and his r\u00e9sum\u00e9 as a doctor have defined his political career",
+    "link": "https://www.nbcnews.com/politics/2026-election/bill-cassidy-contends-maha-washington-louisiana-rcna344475",
+    "timestamp": "2026-05-14T09:00:00Z"
+  },
+  {
+    "title": "The Multipronged Red-State Attack on Voting Rights",
+    "description": "Elie Mystal\n\n\n\nRed states aren\u2019t just gerrymandering away voting rights\u2014they\u2019re working overtime to suppress the vote in as many ways as possible.\r\n\n\r\n\n\nThe post The Multipronged Red-State Attack on Voting Rights appeared first on The Nation.",
+    "link": "https://www.thenation.com/article/society/red-state-voter-suppression/",
+    "timestamp": "2026-05-14T09:00:00Z"
+  },
+  {
+    "title": "Trump Iran Tirade Visibly Rattles GOPers as Leaks Expose New Blunders",
+    "description": "The fallout continues from Donald Trump\u2019s startling rant admitting that he isn\u2019t concerned with how the Iran war is impacting Americans\u2019 finances. On Wednesday, JD Vance, Mike Johnson, and numerous other Republicans struggled to spin away the damage, but they\u2026",
+    "link": "https://newrepublic.com/article/210409/trump-iran-tirade-visibly-rattles-gopers-leaks-expose-new-blunders",
+    "timestamp": "2026-05-14T09:00:00Z"
+  },
+  {
+    "title": "US Efforts to End Iran War Stumble as Ship Seized Near UAE",
+    "description": "US efforts to end the war with Iran were dealt a setback after a commercial vessel was apparently seized by unauthorized personnel near the United Arab Emirates, increasing uncertainty over control of the critical Strait of Hormuz.",
+    "link": "https://financialpost.com/pmn/business-pmn/us-efforts-to-end-iran-war-stumble-as-ship-seized-near-uae",
+    "timestamp": "2026-05-14T08:59:26Z"
+  },
+  {
+    "title": "Nvidia's Jensen Huang on China trip: \u2018President Trump asked me to come\u2019",
+    "description": "U.S. President Donald Trump on Wednesday landed in Beijing for the high-stakes summit with China.",
+    "link": "https://www.cnbc.com/2026/05/14/nvidias-jensen-huang-on-china-trip-trump.html",
+    "timestamp": "2026-05-14T08:50:53Z"
+  },
+  {
+    "title": "UN Climate Chief Lavishes Praise on China as Trump Meets Xi",
+    "description": "China is reaping benefits as a global leader on the green transition and other nations should follow as the Iran war shows the vulnerability of a fossil fuel-based economy, according to the top United Nations climate official.",
+    "link": "https://financialpost.com/pmn/business-pmn/un-climate-chief-lavishes-praise-on-china-as-trump-meets-xi",
+    "timestamp": "2026-05-14T08:49:21Z"
+  },
+  {
+    "title": "Global Markets | Australian shares flat as bank rebound offsets broader losses; US-China talks in focus",
+    "description": "China's President Xi Jinping on Thursday hailed a  new positioning  of ties with the \u200bUnited States after his summit with President Donald Trump in Beijing, according to Chinese state broadcaster CCTV.",
+    "link": "https://economictimes.indiatimes.com/markets/forex/chinas-yuan-hits-3-year-high-stocks-retreat-as-investors-await-details-from-trump-xi-summit/articleshow/131087935.cms",
+    "timestamp": "2026-05-14T08:48:19Z"
+  },
+  {
+    "title": "Ship is seized off UAE by 'unauthorised personnel' and taken to Iran",
+    "description": "UKMTO did not name the ship and said it is investigating. There were no immediate claims of responsibility for the seizure.",
+    "link": "https://www.dailymail.com/news/article-15817255/Ship-seized-UAE-unauthorised-personnel-taken-Iran.html",
+    "timestamp": "2026-05-14T08:46:45Z"
+  },
+  {
+    "title": "Lutnick backs away from his Epstein 'blackmail' claim in interview with House committee",
+    "description": "Commerce Secretary Howard Lutnick has backed away from a previous claim that convicted sex offender Jeffrey Epstein blackmailed people",
+    "link": "https://abcnews.com/Politics/wireStory/lutnick-backs-epstein-blackmail-claim-interview-house-committee-132939370",
+    "timestamp": "2026-05-14T08:46:21Z"
+  },
+  {
+    "title": "Honda records its first-ever annual loss on a costly EV strategy",
+    "description": "Honda says it racked up a full-year loss for the first time ever, losing $2.7 billion in the last fiscal year due to a costly electric-vehicle strategy",
+    "link": "https://abcnews.com/Business/wireStory/honda-records-annual-loss-costly-ev-strategy-132950952",
+    "timestamp": "2026-05-14T08:45:27Z"
+  },
+  {
+    "title": "Trump's talk of 51st US state met with near-silence in Venezuela",
+    "description": "U.S. President Donald Trump has expressed interest in making Venezuela the 51st U.S. state",
+    "link": "https://abcnews.com/US/wireStory/trumps-talk-51st-us-state-met-silence-venezuela-132950949",
+    "timestamp": "2026-05-14T08:45:25Z"
+  },
+  {
+    "title": "Trump offers platitudes while Xi warns of possible confrontation during China summit",
+    "description": "President Donald Trump has called Chinese President Xi Jinping a friend, but his warm words were in stark contrast to Xi, who opened a bilateral meeting cautioning about potential conflict between the U.S. and China",
+    "link": "https://abcnews.com/Business/wireStory/trump-offers-platitudes-xi-warns-confrontation-china-summit-132941049",
+    "timestamp": "2026-05-14T08:45:22Z"
+  },
+  {
+    "title": "One of the safest Florida seats for Democrats faces a candidate fiasco",
+    "description": "Redistricting, a looming federal criminal trial and a primary with racial undertones are just a few of the dynamics shaping the race to represent the Broward...",
+    "link": "https://www.politico.com/news/2026/05/13/florida-broward-redistricting-wasserman-schultz-congress-00918961",
+    "timestamp": "2026-05-14T08:45:00Z"
+  },
+  {
+    "title": "Ship Is Reported Seized Off The Coast Of The UAE And Is Heading Toward Iran",
+    "description": "The seizure comes as U.S. President Donald Trump is meeting with Chinese leader Xi Jinping on a much-anticipated visit to Beijing.",
+    "link": "https://www.huffpost.com/entry/ship-seizure-iran_n_6a058998e4b041a50bfdc3be",
+    "timestamp": "2026-05-14T08:44:38Z"
+  },
+  {
+    "title": "China's yuan hits 3-year high, stocks retreat, as investors await details from Trump-Xi summit",
+    "description": "China's yuan reached a three-year high against the dollar as investors awaited outcomes from the Xi-Trump summit. While stock markets saw profit-taking, the focus shifted to AI advancements, with expectations low for major trade breakthroughs. Both leaders ai\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/chinas-yuan-hits-3-year-high-stocks-retreat-as-investors-await-details-from-trump-xi-summit/articleshow/131087854.cms",
+    "timestamp": "2026-05-14T08:41:01Z"
+  },
+  {
+    "title": "Trump praises China as he ignores question about Taiwan",
+    "description": "Trump praises China as he ignores question about Taiwan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-praises-china-as-he-ignores-question-about-taiwan",
+    "timestamp": "2026-05-14T08:40:01Z"
+  },
+  {
+    "title": "Trump meets Xi in Beijing to discuss trade, Taiwan, and tech cooperation",
+    "description": "The summit's outcomes could reshape global tech supply chains, impacting crypto mining costs, AI development, and cross-border digital regulations.\nThe post Trump meets Xi in Beijing to discuss trade, Taiwan, and tech cooperation appeared first on Crypto Brie\u2026",
+    "link": "https://cryptobriefing.com/trump-xi-beijing-summit-crypto-impact-2/",
+    "timestamp": "2026-05-14T08:34:57Z"
+  },
+  {
+    "title": "Gold edges up as Trump-Xi meet",
+    "description": "Gold prices rise as investors closely watch US-China talks for potential resolutions to the Iran conflict and economic implications.",
+    "link": "https://www.thehindubusinessline.com/markets/gold/gold-edges-up-as-trump-xi-meet/article70977599.ece",
+    "timestamp": "2026-05-14T08:32:45Z"
+  },
+  {
+    "title": "Donald Trump's power move fails when meeting Chinese president Xi Jinping",
+    "description": "Donald Trump and Chinese president Xi Jinping shared a lengthy handshake at the Great Hall of the People in Beijing",
+    "link": "https://www.ladbible.com/news/us-news/donald-trump-xi-jinping-handshake-body-language-608454-20260514",
+    "timestamp": "2026-05-14T08:31:52Z"
+  },
+  {
+    "title": "Coalition lays budget groundwork amid economic warnings",
+    "description": "Inside Politics: Our opinion poll on the Dublin Central byelection will give first indication of who\u2019s in line for seat",
+    "link": "https://www.irishtimes.com/politics/2026/05/14/coalition-prepares-7bn-budget-against-backdrop-of-potential-economic-turmoil/",
+    "timestamp": "2026-05-14T08:30:27Z"
+  },
+  {
+    "title": "Geopolitics and tariffs: an international relations perspective",
+    "description": "Falkner, R. ORCID logo (2026). Geopolitics and tariffs: an international relations perspective. LSE Public Policy Review, 4(2). https://doi.org/10.31389/lseppr.157",
+    "link": "https://researchonline.lse.ac.uk/id/eprint/138452/",
+    "timestamp": "2026-05-14T08:17:01Z"
+  },
+  {
     "title": "Can Indians earn from idle gold through stablecoins? Why CoinSwitch co-founder sees challenges in Nikhil Kamath\u2019s idea",
     "description": "Nikhil Kamath proposed a gold-backed stablecoin to monetize idle gold in Indian households. CoinSwitch's Ashish Singhal noted existing global products but highlighted challenges with India's gold, including regulation, trust, and storage of non-standardized g\u2026",
     "link": "https://www.livemint.com/money/personal-finance/can-indians-earn-from-idle-gold-through-stablecoins-why-coinswitch-co-founder-sees-challenges-in-nikhil-kamath-s-idea-11778743376692.html",
@@ -16,575 +544,5 @@
     "description": "The summit's outcomes could reshape geopolitical alliances, impacting Taiwan's security, trade dynamics, and crypto market compliance in Asia.\nThe post Trump meets Xi in Beijing as Taiwan language and trade terms hang in the balance appeared first on Crypto B\u2026",
     "link": "https://cryptobriefing.com/trump-xi-beijing-trade-taiwan-crypto/",
     "timestamp": "2026-05-14T08:11:37Z"
-  },
-  {
-    "title": "Trade wars to extended truce: Analysts expect \u2018stabilization\u2019 in U.S.-China ties as Trump-Xi meet",
-    "description": "The world's two largest economies sought to stabilize fractured ties at their first high-level meeting in nearly a decade.",
-    "link": "https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html",
-    "timestamp": "2026-05-14T08:10:11Z"
-  },
-  {
-    "title": "An ancient warning hangs over the Trump-Xi summit bonhomie",
-    "description": "Chinese President Xi Jinping invoked the \"Thucydides trap\" at his summit with US President Donald Trump, highlighting the risk of war between a rising and established superpower. The meeting aimed to manage escalating tensions amid trade disputes, Taiwan's st\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-xi-jinping-meeting-us-china-an-ancient-warning-hangs-over-the-trump-xi-summit-bonhomie-thucydides-trap/articleshow/131086622.cms",
-    "timestamp": "2026-05-14T08:08:26Z"
-  },
-  {
-    "title": "(VIDEO) Elon Musk Stands with Trump, Xi Jinping, Tim Cook and Jensen Huang in Historic Beijing Summit Photo",
-    "description": "A viral photo from the U.S.-China summit in Beijing shows Elon Musk with Trump and Xi, highlighting the intersection of politics and tech at a crucial diplomatic moment.",
-    "link": "https://www.ibtimes.com.au/elon-musk-trump-xi-us-china-summit-beijing-1868784",
-    "timestamp": "2026-05-14T08:07:11Z"
-  },
-  {
-    "title": "\u2018Lion\u2019-like Trump deploys \u2018power move\u2019 as he, Xi show \u2018genuine affection\u2019 during historic China summit: body language expert",
-    "description": "\"He is not intimidated by Xi at all. He's showing, kind of like a peacock or a lion, he's showing his power,\u201d Lillian Glass, a body language expert, said of Trump's mannerisms as he met with his Chinese counterpart.",
-    "link": "https://nypost.com/2026/05/14/us-news/lion-like-trump-deploys-power-move-as-he-xi-show-genuine-affection-during-historic-china-summit-body-language-expert/",
-    "timestamp": "2026-05-14T08:00:53Z"
-  },
-  {
-    "title": "Travel to the U.S. is down even more dramatically than we thought, data shows",
-    "description": "The boycott by Canadians of travel to the U.S., driven largely by an aversion to President Donald Trump, his industry-wrecking tariffs and 51st state taunts, has actually been more effective than previously thought, according to new data.",
-    "link": "https://www.cbc.ca/news/politics/cross-border-travel-down-dramatically-research-9.7198652",
-    "timestamp": "2026-05-14T08:00:00Z"
-  },
-  {
-    "title": "Xi warns Trump of possible conflict over Taiwan at grand Beijing summit",
-    "description": "BEIJING \u2014 Chinese President Xi Jinping warned Thursday of \u201cclashes and even conflicts\u201d with the United States over Taiwan, cautioning President Donald Trump that tensions over the Beijing-claimed island could jeopardize ties between the world\u2019s two biggest ec\u2026",
-    "link": "https://www.nbcnews.com/world/china/xi-warns-trump-taiwan-conflict-summit-beijing-china-us-rcna345069",
-    "timestamp": "2026-05-14T07:58:41Z"
-  },
-  {
-    "title": "5 Key Agendas in Trump-Xi Beijing Summit as Leaders Tackle Trade, Taiwan and Global Flashpoints",
-    "description": "President Trump and President Xi Jinping's summit in Beijing focuses on trade, security, and technology, aiming to shape U.S.-China relations amidst global challenges and strategic competition.",
-    "link": "https://www.ibtimes.com.au/trump-xi-beijing-summit-us-china-relations-1868782",
-    "timestamp": "2026-05-14T07:56:58Z"
-  },
-  {
-    "title": "Reporter Straight-Up Asks JD Vance If He Thinks Trump Is \u2018Toying\u2019 With Him",
-    "description": "The vice president joked about a quiet White House before addressing Trump\u2019s remarks about his political future.",
-    "link": "https://www.huffpost.com/entry/jd-vance-donald-trump-toying-with-him_n_6a0578ece4b01f676311f8f4",
-    "timestamp": "2026-05-14T07:56:40Z"
-  },
-  {
-    "title": "US President Trump has finally made his visit to China",
-    "description": "By Nirmal P. Acharya US President Donald Trump has been announcing since last year that he would visit China. However, it was not until May 11 that the Chinese government officially announced the invitation for President Trump to visit from May 13 to 15. The \u2026",
-    "link": "https://peoplesreview.com.np/2026/05/14/us-president-trump-has-finally-made-his-visit-to-china/",
-    "timestamp": "2026-05-14T07:56:00Z"
-  },
-  {
-    "title": "Oil edges up as investors focus on Trump-Xi meeting",
-    "description": "Oil prices edged up today, with markets focusing on the high-stakes meeting between US President Donald Trump and Chinese President Xi Jinping to see if it will yield any positive results towards a resolution for the Iran war.",
-    "link": "https://www.rte.ie/news/business/2026/0514/1573290-world-oil-prices/",
-    "timestamp": "2026-05-14T07:43:02Z"
-  },
-  {
-    "title": "US clears H200 sales to 10 Chinese firms, but not a single chip has shipped",
-    "description": "Washington has approved Alibaba, Tencent, ByteDance, JD.com, and six others to buy Nvidia\u2019s H200, with each licence good for up to 75,000 units. Beijing has told its tech sector to wait, and Jensen Huang has now been added to Trump\u2019s Beijing trip to try to br\u2026",
-    "link": "https://thenextweb.com/news/nvidia-h200-china-licences-huang-beijing-trip/",
-    "timestamp": "2026-05-14T07:41:49Z"
-  },
-  {
-    "title": "Heavy Russian strikes on Kyiv kill one, wound 31",
-    "description": "More than 20 locations in Kyiv have been damaged, including a school, a vet and residential buildings",
-    "link": "https://www.thejournal.ie/russian-strikes-on-kyiv-kill-one-wound-31-7039118-May2026/",
-    "timestamp": "2026-05-14T07:41:14Z"
-  },
-  {
-    "title": "Ex-Zelenskiy Aide Stole to Fund Luxury Home, Prosecutors Say",
-    "description": "Volodymyr Zelenskiy\u2019s former chief of staff laundered stolen state funds through the construction of luxury real estate, according to Ukrainian prosecutors, even as he worked with the president to fight off Russia\u2019s full-scale invasion.",
-    "link": "https://financialpost.com/pmn/business-pmn/ex-zelenskiy-aide-stole-to-fund-luxury-home-prosecutors-say",
-    "timestamp": "2026-05-14T07:37:37Z"
-  },
-  {
-    "title": "Xi holds talks with Trump in Beijing",
-    "description": "BEIJING, May 14 (Xinhua) \u2014 Chinese President Xi Jinping held talks with visiting U.S. President Donald Trump at the Great Hall of the People in Beijing on Thursday. Transformation not seen in a century is accelerating across the globe, and the international s\u2026",
-    "link": "https://peoplesreview.com.np/2026/05/14/xi-holds-talks-with-trump-in-beijing/",
-    "timestamp": "2026-05-14T07:36:42Z"
-  },
-  {
-    "title": "Xi warns Trump over Taiwan",
-    "description": "China\u2019s Xi Jinping has warned Donald Trump that mishandling the issue of Taiwan could put the China-US relationship \u201cinto a very dangerous situation\u201d",
-    "link": "https://www.rt.com/news/639971-xi-warns-trump-taiwan/",
-    "timestamp": "2026-05-14T07:36:13Z"
-  },
-  {
-    "title": "Ship is reported seized off the coast of the UAE and is heading toward Iran",
-    "description": "The British military says a ship anchored off the east coast of the United Arab Emirates has been seized and is heading toward Iranian territorial waters. The United Kingdom Maritime Trade Operations center said it received reports that the vessel was taken b\u2026",
-    "link": "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
-    "timestamp": "2026-05-14T07:33:49Z"
-  },
-  {
-    "title": "Xi tells U.S. CEOs on Trump visit that China will open up more",
-    "description": "Xi Jinping signalled China is moving toward greater openness, striking an upbeat note with U.S. CEOs accompanying Donald Trump. Read on.",
-    "link": "https://financialpost.com/news/xi-tells-us-ceos-accompanying-trump-that-china-will-open-up-more",
-    "timestamp": "2026-05-14T07:32:44Z"
-  },
-  {
-    "title": "Xi Tells US CEOs Accompanying Trump That China Will Open Up More",
-    "description": "Xi Jinping signaled China is moving toward greater openness, striking an upbeat note during his meeting with US business leaders accompanying Donald Trump as the two presidents wrapped up morning talks that featured more divisive issues like trade and Taiwan.",
-    "link": "https://financialpost.com/pmn/business-pmn/xi-tells-us-ceos-accompanying-trump-that-china-will-open-up-more",
-    "timestamp": "2026-05-14T07:32:44Z"
-  },
-  {
-    "title": "Trump-Xi summit revives China tech rally hopes as U.S. reportedly clears Nvidia H200 sales",
-    "description": "Market watchers are betting that the Trump-Xi summit could extend trade truce and lift Chinese equities.",
-    "link": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
-    "timestamp": "2026-05-14T07:32:26Z"
-  },
-  {
-    "title": "Trump\u2019s White House weighs 250 pardons to celebrate America's 250th birthday",
-    "description": "Donald Trump is reportedly considering 250 pardons ahead of America\u2019s 250th birthday, while crypto founders and their supporters tied to FTX, Tornado Cash, and Samourai Wallet have petitioned for pardons.",
-    "link": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency",
-    "timestamp": "2026-05-14T07:26:11Z"
-  },
-  {
-    "title": "Iran war: Trump discusses conflict with XI Jinping as peace talks stall",
-    "description": "The US-Israeli war with Iran looms large over US president\u2019s visit to China",
-    "link": "https://www.irishtimes.com/world/middle-east/2026/05/14/iran-war-trump-discusses-conflict-with-xi-jinping-as-peace-talks-stall/",
-    "timestamp": "2026-05-14T07:25:56Z"
-  },
-  {
-    "title": "Five takeaways from the Trump-Xi summit in Beijing",
-    "description": "The two leaders agreed to build a \"constructive, strategically stable relationship\" in the relationship between the two superpowers.",
-    "link": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html",
-    "timestamp": "2026-05-14T07:21:20Z"
-  },
-  {
-    "title": "UAE denies Netanyahu secretly visited the country during the Iran war",
-    "description": "Israeli Prime Minister Benjamin Netanyahu quietly visited the United Arab Emirates during the Israeli-U.S. war with Iran, his office said Wednesday. The UAE later denied any secret visit had occurred.",
-    "link": "https://www.npr.org/2026/05/14/nx-s1-5822156/uae-netanyahu-visit",
-    "timestamp": "2026-05-14T07:16:55Z"
-  },
-  {
-    "title": "Pomp and pageantry: Key moments from day one of Trump's visit to China",
-    "description": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
-    "link": "https://www.bbc.com/news/videos/c707xn4ew3po",
-    "timestamp": "2026-05-14T07:13:24Z"
-  },
-  {
-    "title": "News24 | Lebanon, Israel meet in the US for new ceasefire talks as expiry deadline nears",
-    "description": "Lebanon and Israel are to hold new peace talks in Washington starting, as their latest ceasefire - considered to still be in place despite hundreds of deaths in Israeli strikes - nears its end.",
-    "link": "https://www.news24.com/world/lebanon-israel-meet-in-the-us-for-new-ceasefire-talks-as-expiry-deadline-nears-20260514-0272",
-    "timestamp": "2026-05-14T07:10:10Z"
-  },
-  {
-    "title": "Grocery prices rise across the board",
-    "description": "Americans paid more for their groceries last month, but high gasoline prices resulting from the Iran war were only one of the reasons why.",
-    "link": "https://www.arkansasonline.com/news/2026/may/14/grocery-prices-rise-across-the-board/",
-    "timestamp": "2026-05-14T07:07:47Z"
-  },
-  {
-    "title": "What to Expect From the Trump-Xi Summit in Beijing",
-    "description": "President Donald Trump became the first US leader in almost a decade to visit China when he landed in Beijing on Wednesday. His much-anticipated two-day summit with President Xi Jinping \u2014 delayed from March due to the Iran war \u2014 offers the leaders of the worl\u2026",
-    "link": "https://financialpost.com/pmn/business-pmn/what-to-expect-from-the-trump-xi-summit-in-beijing",
-    "timestamp": "2026-05-14T07:07:01Z"
-  },
-  {
-    "title": "BRICS Foreign Minister meet gets underway in Delhi, EAM Jaishankar meets Lavrov, Araghchi and others",
-    "description": "The gathering brought together BRICS foreign ministers and representatives to discuss global and regional issues, such as economic cooperation, multilateral engagement, and international security",
-    "link": "https://www.thehindubusinessline.com/news/brics-foreign-minister-meet-gets-underway-in-delhi-eam-jaishankar-meets-lavrov-araghchi-and-others/article70977185.ece",
-    "timestamp": "2026-05-14T07:00:43Z"
-  },
-  {
-    "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
-    "description": "US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China.",
-    "link": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon",
-    "timestamp": "2026-05-14T07:00:12Z"
-  },
-  {
-    "title": "Xinhua Commentary: Steering China-US relations steadily forward",
-    "description": "As U.S. President Donald Trump is kicking off his state visit to China &mdash; the first by a U.S. president in almost nine years, the two countries face an ...",
-    "link": "https://en.antaranews.com/news/415717/xinhua-commentary-steering-china-us-relations-steadily-forward",
-    "timestamp": "2026-05-14T06:56:41Z"
-  },
-  {
-    "title": "Trump in China for talks with Xi Jinping",
-    "description": "Trump visits Beijing for high-stakes summit with Xi as Iran, trade and Taiwan strain US-China ties.",
-    "link": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping",
-    "timestamp": "2026-05-14T06:56:12Z"
-  },
-  {
-    "title": "Who is in Trump's entourage of billionaires and executives in Beijing?",
-    "description": "US President Donald Trump has brought a delegation of business executives for his visit to Beijing. Here's why they made the trans-Pacific trip.",
-    "link": "https://www.abc.net.au/news/2026-05-14/trump-china-delegation/106678694",
-    "timestamp": "2026-05-14T06:54:26Z"
-  },
-  {
-    "title": "The 8 at 8: Thursday",
-    "description": "Bertie Ahern still under fire and the World Cup final is getting a half-time show.",
-    "link": "https://www.thejournal.ie/8-at-8-thursday-127-7039095-May2026/",
-    "timestamp": "2026-05-14T06:50:54Z"
-  },
-  {
-    "title": "Taiwan: What is its status and why is it important in US-China relations?",
-    "description": "What is \u2018Taiwan independence\u2019 and is Taiwan already independent?",
-    "link": "https://www.irishtimes.com/world/asia-pacific/2026/05/14/taiwan-what-is-its-status-and-why-is-it-important-in-us-china-relations/",
-    "timestamp": "2026-05-14T06:46:07Z"
-  },
-  {
-    "title": "Why is market rising today? Sensex zooms over 800 points, Nifty above 23,650. Key drivers behind surge",
-    "description": "Indian stock markets are experiencing a significant rally. The BSE Sensex and Nifty 50 indices have climbed over 1 percent each. This surge has added over Rs 3 lakh crore to the market capitalization of BSE-listed companies. The markets are extending gains fo\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-zooms-over-800-points-nifty-above-23650-key-drivers-behind-surge/articleshow/131084846.cms",
-    "timestamp": "2026-05-14T06:43:23Z"
-  },
-  {
-    "title": "US Coast Guard Signs $3.5Bln Contract to Build 5 Arctic Icebreakers",
-    "description": "The US Department of Homeland Security announced a deal with Davie Defense to supply five icebreakers to the US Coast Guard.",
-    "link": "https://sputnikglobe.com/20260514/us-coast-guard-signs-35bln-contract-to-build-5-arctic-icebreakers--1124123844.html",
-    "timestamp": "2026-05-14T06:43:18Z"
-  },
-  {
-    "title": "Trump and Xi meeting featured Taiwan, tech titans and flattery",
-    "description": "From a red carpet welcome to a high-profile tech entourage and a pointed reference to Taiwan, here are the main takeaways from Donald Trump's meeting with Xi Jinping in China.",
-    "link": "https://www.abc.net.au/news/2026-05-14/donald-trump-xi-jinping-meeting-key-takeaways/106676202",
-    "timestamp": "2026-05-14T06:41:20Z"
-  },
-  {
-    "title": "Lebanon and Israel to hold new talks in US later as ceasefire nears end",
-    "description": "On the eve of the negotiations, Lebanon\u2019s health ministry said 22 people, including eight children, were killed as Israel intensified airstrikes.",
-    "link": "https://www.thejournal.ie/lebanon-and-israel-to-hold-new-talks-in-us-as-ceasefire-nears-end-7039101-May2026/",
-    "timestamp": "2026-05-14T06:36:52Z"
-  },
-  {
-    "title": "Xinhua Commentary: Why stable China-U.S. ties matter more than ever",
-    "description": "U.S. President Donald Trump&#39;s upcoming visit to China comes at a time of global turbulence and profound transformation.\r\n\r\nAgainst such a backdrop, the ...",
-    "link": "https://en.antaranews.com/news/415713/xinhua-commentary-why-stable-china-us-ties-matter-more-than-ever",
-    "timestamp": "2026-05-14T06:35:27Z"
-  },
-  {
-    "title": "Striking difference between Trump-Xi summit in 2026 and 2017: expert",
-    "description": "\"Tonight\u2019s ceremony appeared significantly more jovial, conversational, and personally interactive,\" she said.",
-    "link": "https://nypost.com/2026/05/14/us-news/trump-china-grand-ceremony-with-xi-jinping-striking-difference-from-previous-2017-trip/",
-    "timestamp": "2026-05-14T06:34:58Z"
-  },
-  {
-    "title": "Trump's Past Unsettling Praise Of Xi Goes Viral Amid Summit",
-    "description": "Footage from Trump's 2024 campaign is circulating on social media.",
-    "link": "https://www.huffpost.com/entry/donald-trump-praise-xi_n_6a05653be4b0def65bfbe976",
-    "timestamp": "2026-05-14T06:31:48Z"
-  },
-  {
-    "title": "Donald Trump declares Iran ceasefire \u2018on life support\u2019 as crude oil tops $105",
-    "description": "Rising oil prices due to geopolitical tensions could disrupt global markets, affecting inflation, central bank policies, and digital assets.\nThe post Donald Trump declares Iran ceasefire \u2018on life support\u2019 as crude oil tops $105 appeared first on Crypto Briefi\u2026",
-    "link": "https://cryptobriefing.com/trump-iran-ceasefire-crude-oil-105/",
-    "timestamp": "2026-05-14T06:29:10Z"
-  },
-  {
-    "title": "Warsh confirmed as Fed chair as bank faces Trump assault",
-    "description": "The US Senate has confirmed Kevin Warsh as the new Federal Reserve chairman to lead a central bank whose independence is under attack and with inflation at a three-year high.",
-    "link": "https://www.rte.ie/news/business/2026/0514/1573272-warsh-confirmed-as-fed-chair-as-bank-faces-trump-assault/",
-    "timestamp": "2026-05-14T06:27:50Z"
-  },
-  {
-    "title": "Chinese president greets Trump with ominous warning over 'very dangerous situation'",
-    "description": "Xi Jinping welcomed US President Donald Trump to Beijing to discuss the 'Thucydides Trap'",
-    "link": "https://www.ladbible.com/news/us-news/donald-trump-xi-jinping-beijing-war-436210-20260514",
-    "timestamp": "2026-05-14T06:25:31Z"
-  },
-  {
-    "title": "UAE denies Netanyahu secretly visited the country during the Iran war",
-    "description": "Israeli Prime Minister Benjamin Netanyahu\u2019s office says he quietly visited the United Arab Emirates during the Iran war",
-    "link": "https://abcnews.com/International/wireStory/uae-denies-netanyahu-secretly-visited-country-iran-war-132930650",
-    "timestamp": "2026-05-14T06:25:29Z"
-  },
-  {
-    "title": "Man known for racially derogatory livestreams charged with attempted murder after Tennessee shooting",
-    "description": "Authorities say a man who livestreams himself saying racially derogatory statements to Black people in public settings has been arrested and charged with attempted murder after a shooting outside a Tennessee courthouse",
-    "link": "https://abcnews.com/Entertainment/wireStory/man-racially-derogatory-livestreams-charged-attempted-murder-after-132938661",
-    "timestamp": "2026-05-14T06:25:23Z"
-  },
-  {
-    "title": "Man known for racially derogatory livestreams charged with attempted murder after Tennessee shooting",
-    "description": "Authorities say a man who livestreams himself saying racially derogatory statements to Black people in public settings has been arrested and charged with attempted murder after a shooting outside a Tennessee courthouse.",
-    "link": "https://www.clickondetroit.com/news/2026/05/13/man-known-for-racially-derogatory-livestreams-charged-with-attempted-murder-after-tennessee-shooting/",
-    "timestamp": "2026-05-14T06:23:43Z"
-  },
-  {
-    "title": "China and US Agree to Build Strategic Relations - Xi Jinping",
-    "description": "China and the United States have agreed to build constructive, strategic and stable relations as a new positioning of the countries' ties, Chinese President Xi Jinping said on Thursday.",
-    "link": "https://sputnikglobe.com/20260514/china-and-us-agree-to-build-strategic-relations---xi-jinping-1124123397.html",
-    "timestamp": "2026-05-14T06:22:39Z"
-  },
-  {
-    "title": "Trump-Xi meeting crucial for global economic stability: Shaun Rein",
-    "description": "A high-stakes meeting between US President Trump and Chinese President Xi Jinping is closely watched for signs of stability amid escalating geopolitical friction. Market strategist Shaun Rein highlights the summit's significance, noting that while trade and A\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-xi-meeting-crucial-for-global-economic-stability-shaun-rein/articleshow/131084465.cms",
-    "timestamp": "2026-05-14T06:21:11Z"
-  },
-  {
-    "title": "China's view on Elon Musk? Visionary, occasional villain",
-    "description": "In a rapidly evolving Chinese market, Elon Musk enjoys admiration and faces competition in equal measure. Tesla's groundbreaking advancements drive local automakers to innovate, but they also push them closer on the competitive front. Added to this complexity\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/chinas-view-on-elon-musk-visionary-occasional-villain/articleshow/131084458.cms",
-    "timestamp": "2026-05-14T06:21:09Z"
-  },
-  {
-    "title": "Taiwan considers resubmitting request for rejected defence budget items",
-    "description": "TAIPEI, May 14 (Reuters) - Taiwan's government said on Thursday it was considering resubmitting to parliament a request for items cut by lawmakers from a...",
-    "link": "https://uk.news.yahoo.com/taiwan-considers-resubmitting-request-rejected-061739800.html",
-    "timestamp": "2026-05-14T06:17:39Z"
-  },
-  {
-    "title": "U.S. clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
-    "description": "Before U.S. export curbs tightened, Nvidia commanded about 95% of China's advanced chip market.",
-    "link": "https://www.cnbc.com/2026/05/14/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough.html",
-    "timestamp": "2026-05-14T06:15:40Z"
-  },
-  {
-    "title": "Xi congratulates US for coming 250th anniversary of independence",
-    "description": "On a cautionary note, Xi said cooperation would benefit both sides, while confrontation would harm both countries,",
-    "link": "https://www.thehindubusinessline.com/news/world/xi-congratulates-us-for-coming-250th-anniversary-of-independence/article70977155.ece",
-    "timestamp": "2026-05-14T06:12:36Z"
-  },
-  {
-    "title": "'That Seems To Be A Pattern': Obama Nails Trump's Short-Sightedness With Iran Nuke Deal",
-    "description": "And the former president didn't pull any punches.",
-    "link": "https://www.huffpost.com/entry/barack-obama-stephen-colbert-trump-iran-nuclear-deal_n_6a055704e4b041a50bfda992",
-    "timestamp": "2026-05-14T06:11:24Z"
-  },
-  {
-    "title": "Louisiana Officials Agree to $4.8M Settlement in Death of Black Motorist",
-    "description": "Louisiana officials have agreed to a tentative $4.8 million settlement with the family of Ronald Greene, a Black motorist who died during a violent 2019 roadside arrest carried out by five white officers, two people with knowledge of the agreement \u2026",
-    "link": "https://www.insurancejournal.com/news/southcentral/2026/05/14/869758.htm",
-    "timestamp": "2026-05-14T06:04:20Z"
-  },
-  {
-    "title": "What were Trump Xi summit opening remarks? #politics",
-    "description": "Trump and Xi open bilateral talks with markedly different tones At the start of President Donald Trump\u2019s bilateral meeting with Chinese President Xi Jinping in Beijing, Trump set a notably warm tone. He predicted a \u201cfantastic future together\u201d and described th\u2026",
-    "link": "https://alltoc.com/politics/what-were-trump-xi-summit-opening-remarks",
-    "timestamp": "2026-05-14T06:02:53Z"
-  },
-  {
-    "title": "Lebanon, Israel to hold new talks in US as ceasefire nears end",
-    "description": "Lebanon and Israel are to hold new peace talks in Washington starting Thursday, as their latest ceasefire \u2014 considered to still be in place despite hundreds of deaths in Israeli strikes \u2014 nears its end.",
-    "link": "https://www.hurriyetdailynews.com/lebanon-israel-to-hold-new-talks-in-us-as-ceasefire-nears-end-222121",
-    "timestamp": "2026-05-14T06:02:37Z"
-  },
-  {
-    "title": "U.S. Releases 53 Million Barrels From Strategic Petroleum Reserve Amid Rising Gas Prices",
-    "description": "The U.S. Department of Energy (DOE) announced Monday, May 11, that it will loan 53 million barrels of crude oil from the Strategic Petroleum Reserve (SPR) to petroleum companies in an effort to relieve elevated gas and oil prices amid the conflict with Iran, \u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-us-releases-53m-barrels-strategic-petroleum-reserve.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "UNEXPLAINED: California desert night illuminated by hexagonal anomaly",
-    "description": "A credible witness captured video of a massive, brilliantly-lit hexagonal object near Twentynine Palms, California, on the evening of April 27, which exhibited jerky movements and shape-shifting from hexagon to circle for 15 minutes on a moonless night. The s\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-california-desert-night-illuminated-by-hexagonal-anomaly.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Appeals Court Restores Trump\u2019s 10% Global Tariff Plan Pending Legal Challenge",
-    "description": "A federal appeals court on May 12, 2026, reinstated President Donald Trump\u2019s 10% global tariff plan, lifting a previous injunction that had blocked its implementation while litigation continues. The ruling by the U.S. Court of Appeals for the Federal Circuit \u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-appeal-court-restores-trump-tariff-plan-challenge.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Modi Urges Fuel Conservation as Oil Shock Intensifies",
-    "description": "Indian Prime Minister Narendra Modi on Sunday urged citizens to reduce fuel consumption by working from home and limiting travel, according to reports. \u201cIn the current situation, we must place great emphasis on saving foreign exchange,\u201d Modi said, as quoted b\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-modi-urges-fuel-conservation-oil-shock-intensifies.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "UAE Joined U.S. and Israel in Carrying Out Military Strikes on Iran, Report Says",
-    "description": "The United Arab Emirates (UAE) launched military strikes on Iran, including an attack on a refinery on Lavan Island in early April, according to a Wall Street Journal (WSJ) report cited by Middle East Eye and the Antiwar.com blog. The UAE has not publicly ack\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-uae-joined-us-israel-strikes-iran-report.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Xi warns Trump: Mishandling Taiwan risks \u00e2\u0080\u009cvery dangerous situation\u00e2\u0080\u009d",
-    "description": "Xi Jinping warned U.S.-China relations could face \u201ca very dangerous situation\u201d over Taiwan\u2019s status during the Trump summit. A $13 billion U.S. arms sale to Taiwan was paused ahead of the meeting, signaling unresolved tensions. Xi emphasized economic cooperat\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-xi-trump-taiwan-dangerous-situation.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "The $1.2 trillion question: Can America afford its \u201ciron dome\u201d missile defense dream?",
-    "description": "The Congressional Budget Office estimates developing, deploying and operating an \u201cIron Dome for America\u201d missile defense system would cost approximately $1.2 trillion over 20 years. President Donald Trump signed an executive order on January 27, 2025, directi\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-can-america-afford-iron-dome-missile-defense.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Trump to Discuss AI Guardrails with China\u2019s Xi During Visit to Beijing",
-    "description": "President Donald Trump is expected to discuss artificial intelligence (AI) guardrails with Chinese President Xi Jinping in Beijing this week, U.S. officials told reporters Sunday, May 10. The meeting aims to open a channel of communication on AI matters, acco\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-trump-discuss-ai-guardrails-during-china-visit.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Trump lands in Beijing for pivotal Xi summit amid Iran war, Taiwan tensions",
-    "description": "President Donald Trump arrived in Beijing this week\u00a0for a two-day summit with Chinese President Xi Jinping beginning May 14. Trump seeks China\u2019s help to end his unpopular Iran war, with over 60% of Americans disapproving of the conflict. Trade discussions foc\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-trump-lands-in-beijing-pivotal-xi-summit.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Trump and Xi toast a new era in Beijing as trade and Iran dominate talks",
-    "description": "Xi Jinping toasts that China\u2019s rejuvenation and America\u2019s greatness can coexist Critical questions remain unresolved after talks between Xi and Trump Taiwan emerges as the central red line in U.S.-China relations Trade, oil, and AI see progress but no final d\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-trump-xi-new-era-beijing-iran.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "EXPOSED: Declassified FBI Files Confirm Nazi \u201cFlying Saucer\u201d Existed Years Before Modern UFO Hysteria",
-    "description": "Declassified FBI documents released under the Trump administration\u2019s UFO transparency initiative contain a detailed account from a man who claimed to have observed a secret Nazi flying saucer during World War II. According to the FBI memo, dated June 8, 1967,\u2026",
-    "link": "https://www.naturalnews.com/2026-05-14-fbi-files-reveal-details-nazi-flying-saucer.html",
-    "timestamp": "2026-05-14T06:00:00Z"
-  },
-  {
-    "title": "Xi warns Trump Taiwan issue could lead to 'conflict' as US-China summit starts",
-    "description": "Chinese President Xi Jinping warned his U.S. counterpart Donald Trump that the issue of Taiwan could push their two countries into \"conflict\" if mishandled, a stark opening salvo as a superpower summit set to tackle numerous thorny issues began in Beijing Thu\u2026",
-    "link": "https://www.hurriyetdailynews.com/xi-warns-trump-taiwan-issue-could-lead-to-conflict-as-us-china-summit-starts-222120",
-    "timestamp": "2026-05-14T05:58:58Z"
-  },
-  {
-    "title": "What is the \u201cThucydides Trap\u201d invoked by Xi Jinping in front of Trump",
-    "description": "Graham Allison\u2019s theory about the risk of war when a rising power threatens a dominant one\nThe post What is the \u201cThucydides Trap\u201d invoked by Xi Jinping in front of Trump appeared first on ProtoThema English.",
-    "link": "https://en.protothema.gr/2026/05/14/what-is-the-thucydides-trap-invoked-by-xi-jinping-in-front-of-trump/",
-    "timestamp": "2026-05-14T05:58:00Z"
-  },
-  {
-    "title": "Explainer: What is 'Taiwan independence' and is Taiwan already independent?",
-    "description": "China's Xi Jinping told President Donald Trump on Thursday that disagreement over Taiwan could send relations down a dangerous path and that \"Taiwan independence\" and cross-Taiwan Strait peace are as \"irreconcilable as fire and water\".",
-    "link": "https://www.independent.ie/world-news/asia-pacific/explainer-what-is-taiwan-independence-and-is-taiwan-already-independent/a1998282393.html",
-    "timestamp": "2026-05-14T05:57:57Z"
-  },
-  {
-    "title": "US lists travel, visa requirements for World Cup fans",
-    "description": "Attending the 2026 FIFA World Cup in the US? Check the latest travel and visa requirements for fans to ensure you can join the global spectacle.\n\nRead More: https://punchng.com/us-lists-travel-visa-requirements-for-world-cup-fans/",
-    "link": "https://punchng.com/us-lists-travel-visa-requirements-for-world-cup-fans/",
-    "timestamp": "2026-05-14T05:51:21Z"
-  },
-  {
-    "title": "CNBC Daily Open: Trump and Xi exchange compliments on Day 1 in Beijing",
-    "description": "President Xi Jinping and President Donald Trump exchange compliments on day 1 of their highly anticipated meeting in Beijing.",
-    "link": "https://www.cnbc.com/2026/05/14/cnbc-daily-open-trump-and-xi-exchange-compliments-on-day-1-in-beijing.html",
-    "timestamp": "2026-05-14T05:50:53Z"
-  },
-  {
-    "title": "Oil Steady After Trump-Xi Talks as Iran War Remains in Limbo",
-    "description": "Oil was steady following a meeting between US President Donald Trump and Chinese leader Xi Jinping, where they struck an optimistic tone and emphasized possibles for collaboration.",
-    "link": "https://financialpost.com/pmn/business-pmn/oil-steady-after-trump-xi-talks-as-iran-war-remains-in-limbo",
-    "timestamp": "2026-05-14T05:50:23Z"
-  },
-  {
-    "title": "Xi warns Trump that 'mishandling' Taiwan issue could lead to conflict during Beijing talks",
-    "description": "Both leaders spent over two hours discussing thorny issues at a high-stakes summit in Beijing.",
-    "link": "https://www.thejournal.ie/trump-xi-jinping-china-us-summit-taiwan-7039084-May2026/",
-    "timestamp": "2026-05-14T05:48:10Z"
-  },
-  {
-    "title": "Trump's hidden five-tap code in handshake with Xi... and the tell-tale 'bullfrog smile' that betrayed the president",
-    "description": "Donald Trump's poker face cracked the moment his eyes met Xi Jinping's on the steps of the Great Hall of the People.",
-    "link": "https://www.dailymail.com/news/article-15816883/trump-xi-china-handshake-smile.html",
-    "timestamp": "2026-05-14T05:47:50Z"
-  },
-  {
-    "title": "The Latest: Presidents Xi and Trump kick off their high-profile summit in Beijing",
-    "description": "Presidents Xi Jinping and Donald Trump have started their high-profile summit in Beijing that's expected to focus on trade but also include the Iran war, technology and Taiwan. Trump hopes to focus the talks Thursday and Friday on mechanisms to address their \u2026",
-    "link": "https://www.seattlepi.com/news/article/the-latest-presidents-xi-jinping-and-donald-22257941.php",
-    "timestamp": "2026-05-14T05:39:54Z"
-  },
-  {
-    "title": "China's Xi promises US business leaders greater access in Beijing meeting",
-    "description": "Chinese President Xi Jinping met with top U.S. CEOs including Elon Musk, Jensen Huang, and Tim Cook. He told them China's door would open wider. Xi believes U.S. companies will have broader prospects in the country. President Donald Trump had previously asked\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-promises-us-business-leaders-greater-access-in-beijing-meeting/articleshow/131083597.cms",
-    "timestamp": "2026-05-14T05:38:51Z"
-  },
-  {
-    "title": "Xi Jingping sends Trump warning over Taiwan during high-stakes meeting",
-    "description": "China's Xi Jinping told President Donald Trump that trade talks were making progress at the start of a two-day summit on Thursday but warned that disagreement over Taiwan could send relations down a dangerous path.",
-    "link": "https://www.independent.ie/world-news/asia-pacific/xi-jingping-sends-trump-warning-over-taiwan-during-high-stakes-meeting/a1867081805.html",
-    "timestamp": "2026-05-14T05:37:24Z"
-  },
-  {
-    "title": "Trump-Xi summit: High-stakes meeting lasts two hours; Xi Jinping hails trade progress, but sends Trump warning over Taiwan",
-    "description": "China's Xi Jinping told President Donald Trump that trade talks were making progress at the start of a two-day summit on Thursday but warned that disagreement over Taiwan could send relations down a dangerous path.",
-    "link": "https://www.independent.ie/world-news/asia-pacific/trump-xi-summit-high-stakes-meeting-lasts-two-hours-xi-jinping-hails-trade-progress-but-sends-trump-warning-over-taiwan/a1867081805.html",
-    "timestamp": "2026-05-14T05:37:24Z"
-  },
-  {
-    "title": "Danish Prime Minister Fredriksen fails to form coalition, liberal takes over",
-    "description": "After weeks of negotiations, Danish Prime Minister Mette Frederiksen has failed to form a government... King Frederik X has now asked Liberal Party leader Troels Lund Poulsen to lead talks...Under the King's mandate, Poulsen is now expected to explore the for\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4379158/posts",
-    "timestamp": "2026-05-14T05:36:54Z"
-  },
-  {
-    "title": "Mark Kelly: Trump Wants to Silence Me Because I Can Call Out His 'Bullsh-t'",
-    "description": "Wednesday on MS NOW's \"The Briefing,\" Sen. Mark Kelly (D-AZ) claimed President Donald Trump was trying to silence him because he can call out his \"bullshit.\"\nThe post Mark Kelly: Trump Wants to Silence Me Because I Can Call Out His \u2018Bullsh-t\u2019 appeared first o\u2026",
-    "link": "https://www.breitbart.com/clips/2026/05/13/mark-kelly-trump-wants-to-silence-me-because-i-can-call-out-his-bullsh-t/",
-    "timestamp": "2026-05-14T05:31:44Z"
-  },
-  {
-    "title": "Xi Jinping warns Donald Trump that \u2018mishandling\u2019 Taiwan issue could lead to conflict",
-    "description": "Chinese president met Trump in Beijing\u2019s Great Hall of the People for more than two hours on Thursday",
-    "link": "https://www.irishtimes.com/world/asia-pacific/2026/05/14/xi-jinping-warns-donald-trump-that-mishandling-taiwan-issue-could-lead-to-conflict/",
-    "timestamp": "2026-05-14T05:31:37Z"
-  },
-  {
-    "title": "Trump and Xi Hold High-Stakes Beijing Summit as Trade, Taiwan and Iran Dominate Talks",
-    "description": "President Trump and President Xi Jinping meet in Beijing to discuss trade, Taiwan, and Iran. The summit highlights evolving US-China relations amid strategic competition and global economic concerns.",
-    "link": "https://www.ibtimes.com.au/trump-xi-summit-beijing-trade-taiwan-iran-1868772",
-    "timestamp": "2026-05-14T05:29:51Z"
-  },
-  {
-    "title": "EAM Jaishankar welcomes Russian FM Sergey Lavrov at BRICS Foreign Ministers' meeting",
-    "description": "New Delhi hosted the BRICS Foreign Ministers' meeting. External Affairs Minister S Jaishankar welcomed delegates from member and observer nations. The meeting is part of India's 2026 BRICS chairship. Discussions covered global and regional issues. India assum\u2026",
-    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-welcomes-russian-fm-sergey-lavrov-at-brics-foreign-ministers-meeting/articleshow/131083394.cms",
-    "timestamp": "2026-05-14T05:28:22Z"
-  },
-  {
-    "title": "European markets to open higher as politics dominates the news agenda",
-    "description": "European stocks are expected to open higher Thursday as investors keep an eye on developments in the U.K. and U.S. President Donald Trump's trip to China.",
-    "link": "https://www.cnbc.com/2026/05/14/europe-markets-stoxx-600-ftse-dax-iran-news-uk-starmer-latest.html",
-    "timestamp": "2026-05-14T05:27:26Z"
-  },
-  {
-    "title": "Heartland/Rasmussen Poll: Majority of Young Likely Voters Want Democratic Socialist to Win the White House in 2028",
-    "description": "A stunning new poll by The Heartland Institute\u2019s Glenn C. Haskins Emerging Issues Center and Rasmussen Reports reveals that 51% of young Americans who are likely to vote in the next presidential election would like to see a democratic socialist in the Oval Of\u2026",
-    "link": "https://freerepublic.com/focus/f-gop/4379157/posts",
-    "timestamp": "2026-05-14T05:25:25Z"
-  },
-  {
-    "title": "Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31",
-    "description": "Russia has launched a mass drone and missile attack on Ukraine's capital, Kyiv, killing one person and injuring at least 31. Local authorities report damage across six districts.",
-    "link": "https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles",
-    "timestamp": "2026-05-14T05:21:16Z"
-  },
-  {
-    "title": "Asian stocks are mixed as investors watch takeaways from Trump-Xi summit",
-    "description": "Asian shares are mixed as investors closely monitor takeaways from the summit between U.S. President Donald Trump and Chinese leader Xi Jinping. Trump met with Xi for talks Thursday in Beijing. They talked about U.S.-China relations and Taiwan, but analysts d\u2026",
-    "link": "https://www.seattlepi.com/news/world/article/asian-stocks-are-mixed-as-investors-watch-22258419.php",
-    "timestamp": "2026-05-14T05:21:11Z"
-  },
-  {
-    "title": "Stephen Colbert Busts Out His \u2018Last Biden Impression Ever\u2019 to Mock Trump\u2019s Low Approval Rating | Video",
-    "description": "The monologue bit comes a little over a week before his final \"The Late Show\" episode is set to air\nThe post Stephen Colbert Busts Out His \u2018Last Biden Impression Ever\u2019 to Mock Trump\u2019s Low Approval Rating | Video appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/creative-content/tv-shows/stephen-colbert-last-biden-impression-mocks-trump-video/",
-    "timestamp": "2026-05-14T05:21:06Z"
-  },
-  {
-    "title": "Xi warns Trump during their meeting: The Taiwan issue could bring our countries into conflict",
-    "description": "\u201cIt is better to be partners than rivals,\u201d the Chinese president told his American counterpart after the warm welcome he received - The closed-door talks concluded after two hours, and the two leaders visited the Temple of Heaven together, a site of special s\u2026",
-    "link": "https://en.protothema.gr/2026/05/14/xi-warns-trump-during-their-meeting-the-taiwan-issue-could-bring-our-countries-into-conflict/",
-    "timestamp": "2026-05-14T05:19:00Z"
-  },
-  {
-    "title": "US oil prices surge to $102 per barrel amid stalled Iran talks",
-    "description": "Rising oil prices due to geopolitical tensions could lead to increased inflation, impacting global economies and putting pressure on risk assets.\nThe post US oil prices surge to $102 per barrel amid stalled Iran talks appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/us-oil-prices-surge-iran-talks-stalled/",
-    "timestamp": "2026-05-14T05:17:00Z"
-  },
-  {
-    "title": "Trump-Xi Summit Ends After Two Hours\u2014Taiwan And Trade Tensions Discussed (Live Updates)",
-    "description": "The Chinese president expressed hope that the two countries would become partners rather than rivals at a moment of \u201cturbulence and transformation\u201d in the world.",
-    "link": "https://www.forbes.com/sites/siladityaray/2026/05/14/trump-xi-summit-ends-after-two-hours-taiwan-and-trade-tensions-discussed--live-updates/",
-    "timestamp": "2026-05-14T05:16:52Z"
-  },
-  {
-    "title": "2026 will be 'historic, landmark year' for China-US relations: Xi Jinping",
-    "description": "The war in Iran, trade, technology and Taiwan are among the topics that will come up during the discussions between Xi and Trump",
-    "link": "https://www.thehindubusinessline.com/news/world/2026-will-be-historic-landmark-year-for-china-us-relations-xi-jinping/article70976965.ece",
-    "timestamp": "2026-05-14T05:13:50Z"
-  },
-  {
-    "title": "Differences over Taiwan could bring US, China to clashes or conflict: Xi warns Trump",
-    "description": "If Taiwan is handled well, US-China relations \u201cwill enjoy overall stability,\u201d Xi reportedly told Trump during a closed door meeting between the two leaders",
-    "link": "https://www.thehindubusinessline.com/news/world/differences-over-taiwan-could-bring-us-china-to-clashes-or-conflict-xi-warns-trump/article70977034.ece",
-    "timestamp": "2026-05-14T05:13:49Z"
   }
 ]
