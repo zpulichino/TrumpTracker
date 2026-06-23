@@ -1,5 +1,515 @@
 [
   {
+    "title": "The Mars Delusion",
+    "description": "Establishing a human colony on Mars is fraught with risk. Why are so many people obsessed with achieving it?",
+    "link": "http://www.noemamag.com/the-mars-delusion",
+    "timestamp": "2026-06-22T05:47:01Z"
+  },
+  {
+    "title": "Starmer likely to announce an exit timetable as rival Burnham heads to UK Parliament",
+    "description": "Expectations are growing that U.K. Prime Minister Keir Starmer will announce his resignation soon and possibly on Monday",
+    "link": "https://abcnews.com/International/wireStory/starmer-announce-exit-timetable-rival-burnham-heads-uk-134085984",
+    "timestamp": "2026-06-22T05:46:27Z"
+  },
+  {
+    "title": "Keir Starmer reportedly set to quit as Andy Burnham sworn in as MP",
+    "description": "After winning the Makerfield byelection, Burnham is due to be sworn in as the Greater Manchester constituency\u2019s MP and is expected to press Starmer to set out plans to stand down.",
+    "link": "https://www.thejournal.ie/keir-starmer-reportedly-set-to-quit-as-andy-burnham-sworn-in-as-mp-7077752-Jun2026/",
+    "timestamp": "2026-06-22T05:43:30Z"
+  },
+  {
+    "title": "Starmer seen as likely to announce exit timetable as rival Burnham heads to UK Parliament",
+    "description": "UK Prime Minister Keir Starmer is reportedly considering stepping down as early as Monday, facing pressure from within the Labour Party. This follows a significant by-election victory for rival Andy Burnham, who aims to challenge for leadership. Starmer's ten\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/keir-starmer-poised-to-resign-as-pressure-mounts-from-andy-burnham-and-labour-party/articleshow/131901786.cms",
+    "timestamp": "2026-06-22T05:35:58Z"
+  },
+  {
+    "title": "Dead duckling found in reflecting pool as Trump's Justice Department goes on the hunt for vandals following arrest of former Olympian",
+    "description": "A dead duckling broke hearts on Sunday after it was found floating in the newly-renovated Lincoln Memorial Reflecting Pool.",
+    "link": "https://www.dailymail.com/news/article-15918697/dead-duckling-reflecting-pool-trum-vandals-olympian.html",
+    "timestamp": "2026-06-22T05:35:49Z"
+  },
+  {
+    "title": "China hits back at US sanctions on tech giants, restricting its exports to 10 American defense firms",
+    "description": "China has retaliated against US sanctions by imposing its own restrictions on 10 American military-linked companies. Beijing's Commerce Ministry announced a ban on exporting \"dual-use\" items to these firms, citing national security and US \"wrongful expansion\"\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/china-hits-back-at-us-sanctions-on-tech-giants-restricting-its-exports-to-10-american-defense-firms/articleshow/131901814.cms",
+    "timestamp": "2026-06-22T05:35:03Z"
+  },
+  {
+    "title": "US marks 'encouraging progress' in peace talks with Iran after summit was nearly derailed by Trump's fiery threat",
+    "description": "A diplomat claimed progress on multiple fronts, including establishment of 'mechanisms' to ensure the Strait of Hormuz stays open and ceasefire in Lebanon holds.",
+    "link": "https://www.dailymail.com/news/article-15918723/US-marks-encouraging-progress-peace-talks-Iran.html",
+    "timestamp": "2026-06-22T05:31:23Z"
+  },
+  {
+    "title": "US and Iran enter second day of negotiations as mediators hail progress",
+    "description": "First day of mediation in Switzerland between warring countries began with a rocky start",
+    "link": "https://www.irishtimes.com/world/middle-east/2026/06/22/us-and-iran-enter-second-day-of-negotiations-as-mediators-hail-progress/",
+    "timestamp": "2026-06-22T05:29:07Z"
+  },
+  {
+    "title": "Starmer reportedly set to quit as Burnham sworn in as MP",
+    "description": "Embattled British Prime Minister Keir Starmer could set out plans to step down as soon as today, UK media has reported, the same day his likely successor is expected to be sworn in as an MP.",
+    "link": "https://www.rte.ie/news/uk/2026/0622/1579615-starmer-uk-politics/",
+    "timestamp": "2026-06-22T05:28:24Z"
+  },
+  {
+    "title": "US and Iran see signs of progress over Lebanon and the Strait of Hormuz as 60-day deadline is set for final deal",
+    "description": "Washington and Tehran have agreed on new mechanisms to reduce the risk of escalation, while oil prices fell after the announcement. Deep differences remain over Iran\u2019s nuclear programme\nThe post US and Iran see signs of progress over Lebanon and the Strait of\u2026",
+    "link": "https://en.protothema.gr/2026/06/22/us-and-iran-see-signs-of-progress-over-lebanon-and-the-strait-of-hormuz-as-60-day-deadline-is-set-for-final-deal/",
+    "timestamp": "2026-06-22T05:27:28Z"
+  },
+  {
+    "title": "Oil falls after US-Iran peace talks show signs of progress",
+    "description": "Parties have agreed on a roadmap toward reaching a final deal in 60 days, and technical talks will continue for the remainder of week",
+    "link": "https://www.irishtimes.com/business/markets/2026/06/22/oil-falls-after-us-iran-peace-talks-show-signs-of-progress/",
+    "timestamp": "2026-06-22T05:25:26Z"
+  },
+  {
+    "title": "Trump Builds a New US Tariff Wall in Shakeup of Winners, Losers",
+    "description": "President Donald Trump is rolling out new tools with the same protectionist goals after the Supreme Court ruled his sweeping global tariffs to be illegal. His administration wants the rebuilt wall of import taxes to mirror those Trump put on every major tradi\u2026",
+    "link": "https://financialpost.com/pmn/business-pmn/trump-builds-a-new-us-tariff-wall-in-shakeup-of-winners-losers",
+    "timestamp": "2026-06-22T05:22:25Z"
+  },
+  {
+    "title": "Trump-backed De La Espriella claims victory in tight Colombia presidential runoff",
+    "description": "Abelardo De La Espriella, a far-right criminal defense lawyer endorsed by U.S. President Donald Trump, claimed victory Sunday night in Colombia's presidential runoff election as preliminary results indicated he held the narrowest of leads over leftist Sen. Iv\u2026",
+    "link": "https://biztoc.com/x/77ed167d394bf328",
+    "timestamp": "2026-06-22T05:20:33Z"
+  },
+  {
+    "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms",
+    "description": "China has announced sanctions on 10 American defense companies",
+    "link": "https://abcnews.com/US/wireStory/china-hits-back-us-sanctions-tech-giants-restricting-134085740",
+    "timestamp": "2026-06-22T05:19:24Z"
+  },
+  {
+    "title": "Wegen Iran-Analyse: Trump greift \u201eNew York Times\u201c an",
+    "description": null,
+    "link": "https://orf.at/stories/3434012/",
+    "timestamp": "2026-06-22T05:18:19Z"
+  },
+  {
+    "title": "Fidan warns Israel could sabotage US-Iran process",
+    "description": "Foreign Minister Hakan Fidan has warned that technical issues in the recently signed memorandum of understanding between the United States and Iran may not be resolved quickly, saying the process could face deadlocks.",
+    "link": "https://www.hurriyetdailynews.com/fidan-warns-israel-could-sabotage-us-iran-process-223539",
+    "timestamp": "2026-06-22T05:17:12Z"
+  },
+  {
+    "title": "Judge in Charlie Kirk killing case to decide if prosecutors could be punished for comments in media",
+    "description": "The Utah judge in the murder case over Charlie Kirk\u2019s killing says he will rule Monday whether prosecutors could face sanctions for comments to the media about a bullet fragment recovered from the conservative activist\u2019s body",
+    "link": "https://abcnews.com/US/wireStory/judge-charlie-kirk-killing-case-decide-prosecutors-punished-134086471",
+    "timestamp": "2026-06-22T05:16:59Z"
+  },
+  {
+    "title": "Judge in Charlie Kirk killing case to decide if prosecutors could be punished for comments in media",
+    "description": "The Utah judge in the murder case over Charlie Kirk\u2019s killing says he will rule Monday whether prosecutors could face sanctions for comments to the media about a bullet fragment recovered from the conservative activist\u2019s body",
+    "link": "https://abcnews.com/Politics/wireStory/judge-charlie-kirk-killing-case-decide-prosecutors-punished-134086472",
+    "timestamp": "2026-06-22T05:16:53Z"
+  },
+  {
+    "title": "UK's Starmer reportedly set to quit as Labour rival sworn in as MP",
+    "description": "Embattled British Prime Minister Keir\u00a0Starmer\u00a0could set out plans to step down as soon as Monday, U.K. media has reported, the same day his likely successor is expected to be sworn in as an MP.",
+    "link": "https://www.hurriyetdailynews.com/uks-starmer-reportedly-set-to-quit-as-labour-rival-sworn-in-as-mp-223538",
+    "timestamp": "2026-06-22T05:14:37Z"
+  },
+  {
+    "title": "Minister Gamliel: Voluntary emmigration from Gaza is still feasible",
+    "description": "After assessing feasibility, establishing a directorate, and examining international law, the minister is convinced that voluntary emmigration from Gaza is still possible.",
+    "link": "https://www.israelnationalnews.com/news/428992",
+    "timestamp": "2026-06-22T05:14:36Z"
+  },
+  {
+    "title": "China Targets US Rare Earths Firms in Response to Pentagon List",
+    "description": "China has imposed export controls against two US rare earth producers that are part of Washington\u2019s effort to reduce its dependence on Beijing by establishing an alternative supply chain for the critical minerals.",
+    "link": "https://financialpost.com/pmn/business-pmn/china-targets-us-rare-earths-firms-in-response-to-pentagon-list",
+    "timestamp": "2026-06-22T05:12:18Z"
+  },
+  {
+    "title": "Rupee drifts as oil dips; hawkish Fed risks, importer flows cap gains",
+    "description": "The Indian rupee held steady as easing U.S.-Iran tensions lowered oil prices, boosting sentiment. However, anticipation of potential U.S. Federal Reserve rate hikes kept traders watchful. Importer demand also capped rupee gains.  Despite a roadmap for a U.S.-\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/rupee-drifts-as-oil-dips-hawkish-fed-risks-importer-flows-cap-gains/articleshow/131901604.cms",
+    "timestamp": "2026-06-22T05:12:16Z"
+  },
+  {
+    "title": "The moment Tehran's men leave JD Vance waiting in a Swiss negotiating room",
+    "description": "In a room in Lucerne, Switzerland, the United States delegation, Pakistani and Qatari officials were awaiting the arrival of the Iranian representatives. But as Tehran's men entered the room, they appeared to notice the press.",
+    "link": "https://www.abc.net.au/news/2026-06-22/video-moment-iran-walks-out-of-negotiation-room-leaving-jd-vance/106827312",
+    "timestamp": "2026-06-22T05:09:16Z"
+  },
+  {
+    "title": "Donald Trump is channelling the leadership style of the ancients, without even realising it",
+    "description": "Unthinkable: When it\u2019s impossible to make sense of the present, the distant past can deliver some leadership insights",
+    "link": "https://www.irishtimes.com/opinion/2026/06/22/donald-trump-is-channelling-the-leadership-style-of-the-ancients-without-even-realising-it/",
+    "timestamp": "2026-06-22T05:05:00Z"
+  },
+  {
+    "title": "'Progress', say mediators, after Iran-US talks on ending war",
+    "description": "Iran and the United States agreed on June 22 to set up communications lines to keep the vital Strait of Hormuz open and end fighting in Lebanon, mediators said, after their first round of talks in Switzerland towards ending the war in the Middle East.",
+    "link": "https://www.hurriyetdailynews.com/progress-say-mediators-after-iran-us-talks-on-ending-war-223534",
+    "timestamp": "2026-06-22T05:03:45Z"
+  },
+  {
+    "title": "Starmer expected to outline timetable for departure outside No 10",
+    "description": "Move would clear the way for Andy Burnham to become prime minister without formal contest",
+    "link": "https://www.irishtimes.com/world/uk/2026/06/22/starmer-expected-to-outline-timetable-for-departure-outside-no-10/",
+    "timestamp": "2026-06-22T05:00:01Z"
+  },
+  {
+    "title": "Iran peace talks; shared island rail funding; Caolan Robertson: the social media reporter in Ukraine",
+    "description": "Plus: Ireland\u2019s waste management system is under fresh scrutiny",
+    "link": "https://www.irishtimes.com/podcasts/early-edition/iran-peace-talks-shared-island-rail-funding-caolan-robertson-the-social-media-reporter-in-ukraine/",
+    "timestamp": "2026-06-22T05:00:01Z"
+  },
+  {
+    "title": "Turkey escalates potential confrontation with Greece over Aegean Islands",
+    "description": "Greece Letter: Turkish president Erdogan is pushing legislation that would in theory give Turkey control over several Greek islands",
+    "link": "https://www.irishtimes.com/world/europe/2026/06/16/turkey-escalates-potential-confrontation-with-greece-over-aegean-islands/",
+    "timestamp": "2026-06-22T05:00:00Z"
+  },
+  {
+    "title": "Turkey goads Greece with provocative legal claims over Aegean Islands",
+    "description": "Greece Letter: Turkish president Erdogan is pushing legislation that would in theory give Turkey control over several Greek islands",
+    "link": "https://www.irishtimes.com/world/europe/2026/06/22/turkey-goads-greece-with-provocative-legal-claims-over-aegean-islands/",
+    "timestamp": "2026-06-22T05:00:00Z"
+  },
+  {
+    "title": "Parisian fantasy: at a family trip to Disneyland, my cynicism melts away",
+    "description": "In these harrowing times, an escapist fantasia turns out to be just what the doctor ordered",
+    "link": "https://www.irishtimes.com/life-style/travel/2026/06/22/parisian-fantasy-at-a-family-trip-to-disneyland-my-cynicism-melts-away/",
+    "timestamp": "2026-06-22T04:58:00Z"
+  },
+  {
+    "title": "Oil falls after US-Iran talks conclude in Switzerland",
+    "description": "NEW DELHI, June 22 : Oil prices declined on Monday after U.S.-Iran talks concluded in Switzerland with Tehran saying it had secured waivers for oil and petrochemical exports, easing worries about a supply shortage in global markets.Brent crude fell $1.68, or \u2026",
+    "link": "https://www.channelnewsasia.com/business/oil-falls-after-us-iran-talks-conclude-in-switzerland-6198926",
+    "timestamp": "2026-06-22T04:56:39Z"
+  },
+  {
+    "title": "Brent falls after US-Iran talks conclude in Switzerland",
+    "description": "NEW DELHI, June 22 : Brent crude prices slid on Monday after U.S.-Iran talks concluded in Switzerland with Tehran saying it had secured waivers for oil and petrochemical exports, easing worries about a supply shortage in global markets.Brent crude fell $1.19,\u2026",
+    "link": "https://www.channelnewsasia.com/business/brent-falls-after-us-iran-talks-conclude-in-switzerland-6198926",
+    "timestamp": "2026-06-22T04:56:39Z"
+  },
+  {
+    "title": "Markets on edge as US-Iran ceasefire deal leaves investors rattled by uncertainty: Seth R. Freeman",
+    "description": "Despite a US-Iran ceasefire framework, markets remain volatile due to unresolved issues like Iran's nuclear program and the Strait of Hormuz.  While oil prices are sensitive, China's markets struggle with property woes. India, however, shows promise, potentia\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-as-us-iran-ceasefire-deal-leaves-investors-rattled-by-uncertainty-seth-r-freeman/articleshow/131901340.cms",
+    "timestamp": "2026-06-22T04:54:55Z"
+  },
+  {
+    "title": "De la Espriella declares victory in Colombia, Trump and Israeli leaders congratulate him",
+    "description": "Right-wing presidential candidate Abelardo De la Espriella pledged to govern for all Colombians after declaring victory in Colombia's razor-thin election, senior Israeli officials congratulate him.",
+    "link": "https://www.israelnationalnews.com/news/428991",
+    "timestamp": "2026-06-22T04:52:34Z"
+  },
+  {
+    "title": "The Obama Center Sets a Dangerous Precedent",
+    "description": "Some of the basic functions of presidential libraries are fading.",
+    "link": "http://foreignpolicy.com/2026/06/22/obama-center-presidential-libraries-dangerous-precedent/",
+    "timestamp": "2026-06-22T04:50:33Z"
+  },
+  {
+    "title": "Nancy Mace brutally fact-checked on claim government is funding 'radical transgender experiments' on mice",
+    "description": "On Saturday, Mace announced a new bill she was introducing in Congress called the 'TRANS MICE Act.'",
+    "link": "https://www.dailymail.com/news/article-15918239/Nancy-Mace-transgender-experiments-mice.html",
+    "timestamp": "2026-06-22T04:49:29Z"
+  },
+  {
+    "title": "US, Iran agree on roadmap for final deal within 60 days at Swiss talks",
+    "description": "In a joint statement issued after the conclusion of the Lake Lucerne Summit, the parties agreed to establish a high-level group to ensure effective implementation of the MoU and oversee progress",
+    "link": "https://www.thehindubusinessline.com/news/world/us-iran-agree-on-roadmap-for-final-deal-within-60-days-at-swiss-talks/article71131731.ece",
+    "timestamp": "2026-06-22T04:31:04Z"
+  },
+  {
+    "title": "Starmer exit timetable likely to be announced in UK",
+    "description": "Expectations are growing that U.K. Prime Minister Keir Starmer will announce his resignation soon and possibly on Monday. Pressure from his Labour Party has been mounting after intraparty rival Andy Burnham's victory last week for a seat in Parliament. Burnha\u2026",
+    "link": "https://apnews.com/article/keir-starmer-resignation-pressure-burnham-uk-politics-8aa1c427418c487fe644f5d5c40d1518",
+    "timestamp": "2026-06-22T04:23:54Z"
+  },
+  {
+    "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms",
+    "description": "China has announced sanctions on 10 American defense companies",
+    "link": "https://abcnews.com/International/wireStory/china-hits-back-us-sanctions-tech-giants-restricting-134085741",
+    "timestamp": "2026-06-22T04:23:02Z"
+  },
+  {
+    "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms",
+    "description": "China has announced sanctions on 10 American defense companies",
+    "link": "https://abcnews.com/Business/wireStory/china-hits-back-us-sanctions-tech-giants-restricting-134085742",
+    "timestamp": "2026-06-22T04:22:57Z"
+  },
+  {
+    "title": "Iran: Progress on Sanctions Relief at Swiss Talks with US",
+    "description": "He said that Lebanon, i.e. the first point above concerning ending the war on all fronts, loomed large in Sunday's talks.",
+    "link": "https://www.juancole.com/2026/06/progress-sanctions-relief.html",
+    "timestamp": "2026-06-22T04:15:07Z"
+  },
+  {
+    "title": "Trump-backed candidate wins razor-tight Colombia presidential election",
+    "description": "BARRANQUILLA, Colombia: A flamboyant US-backed lawyer who has never held public office narrowly won Colombia's presidential runoff on Sunday (Jun 21), swinging the country hard right with a promise to wage war against drug-running guerrilla groups.With almost\u2026",
+    "link": "https://www.channelnewsasia.com/world/trump-backed-candidate-wins-razor-tight-colombia-presidential-election-6199071",
+    "timestamp": "2026-06-22T04:14:00Z"
+  },
+  {
+    "title": "Crude oil futures decline after US and Iran conclude first round of talks",
+    "description": "September Brent oil futures were at $78.93, down by 1.40%, and August crude oil futures on WTI (West Texas Intermediate) were at $65.65, down by 0.26%",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-decline-after-us-and-iran-conclude-first-round-of-talks/article71131730.ece",
+    "timestamp": "2026-06-22T04:12:36Z"
+  },
+  {
+    "title": "US and Iran make progress in Switzerland talks with 60-day roadmap and Hormuz mechanism",
+    "description": "Technical teams will now continue negotiations on sanctions, oil exports and frozen Iranian assets, as Trump\u2019s Strait of Hormuz remarks unsettle markets\nThe post US and Iran make progress in Switzerland talks with 60-day roadmap and Hormuz mechanism appeared \u2026",
+    "link": "https://en.protothema.gr/2026/06/22/us-and-iran-make-progress-in-switzerland-talks-with-60-day-roadmap-and-hormuz-mechanism/",
+    "timestamp": "2026-06-22T04:12:06Z"
+  },
+  {
+    "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+    "description": "Right-wing candidate Abelardo de la Espriella has narrowly won Colombia's presidential election, an initial vote count shows, marking a dramatic shift in how the government will tackle the country's internal armed conflict and violence.\nDe la Espriella, who w\u2026",
+    "link": "https://biztoc.com/x/c1169b64966940c9",
+    "timestamp": "2026-06-22T04:05:23Z"
+  },
+  {
+    "title": "The Persistence of Israel First",
+    "description": "Trump\u2019s Middle East record reveals the short life of \u201cAmerica First.\u201d",
+    "link": "https://www.juancole.com/2026/06/persistence-israel-first.html",
+    "timestamp": "2026-06-22T04:04:43Z"
+  },
+  {
+    "title": "Iran talks jitters, crude uptick temper gains; IT stocks lead Nifty higher in early trade",
+    "description": "Sensex gains 360 points and Nifty rises 0.44% in early trade",
+    "link": "https://www.thehindubusinessline.com/markets/stock-markets/iran-talks-jitters-crude-uptick-temper-gains-it-stocks-lead-nifty-higher-in-early-trade/article71131718.ece",
+    "timestamp": "2026-06-22T04:03:31Z"
+  },
+  {
+    "title": "U.S. Attacks Alleged Drug Boat, Killing 2 And Leaving 6 Survivors In Eastern Pacific",
+    "description": "The latest attack \u2014 which now numbers more than 60 \u2014 brings the number of people who have been killed in boat strikes by the U.S. military to more than 210.",
+    "link": "https://www.huffpost.com/entry/us-military-boat-strikes-eastern-pacific_n_6a38b239e4b0810d441d566c",
+    "timestamp": "2026-06-22T04:03:29Z"
+  },
+  {
+    "title": "Trump\u2019s Iran 'Peace' Deal is a Shrewd Midterm Maneuver",
+    "description": "Photo Credit:Trump, looking shrewd\n \n grokA short-term economic calm from reopened oil flows could be the difference in holding the U.S. House. Is Trump\u2019s deal smart politics? Yes.",
+    "link": "https://www.americanthinker.com/articles/2026/06/trump_s_iran_peace_deal_is_a_shrewd_midterm_maneuver.html",
+    "timestamp": "2026-06-22T04:00:00Z"
+  },
+  {
+    "title": "The signal and the noise",
+    "description": "Trump is playing a very long game with Iran. He has until 2028 to get the job done, and he is prepared to take as much time as is needed to make it happen.",
+    "link": "https://www.americanthinker.com/blog/2026/06/the_signal_and_the_noise.html",
+    "timestamp": "2026-06-22T04:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s tackling tall hospital costs\u2014that\u2019s America First for the midterms",
+    "description": "This is abstract policy talk;\u00a0it is concrete dollars back in the pockets of parents paying grocery bills, mortgages, and doctor visits.",
+    "link": "https://www.americanthinker.com/blog/2026/06/trump_s_tackling_tall_hospital_costs_that_s_america_first_for_the_midterms.html",
+    "timestamp": "2026-06-22T04:00:00Z"
+  },
+  {
+    "title": "Sensex jumps over 400 pts, Nifty above 24,100; IT stocks lead gains",
+    "description": "Indian stock markets rebounded strongly on Monday, with Sensex and Nifty posting significant gains after Friday's dip.  Tech stocks led the charge, while broader market indices also climbed.  Despite Middle East tensions, Brent crude prices remained below $80\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-over-400-pts-nifty-above-24100-it-stocks-lead-gains/articleshow/131900766.cms",
+    "timestamp": "2026-06-22T03:59:09Z"
+  },
+  {
+    "title": "Al-Sharaa open to talks with Hezbollah, rules out sending Syrian troops",
+    "description": "Syrian President Ahmed al-Sharaa rejects President Trump's suggestions that Damascus should militarily intervene against Hezbollah, favoring economic solutions instead.",
+    "link": "https://www.israelnationalnews.com/news/428989",
+    "timestamp": "2026-06-22T03:57:06Z"
+  },
+  {
+    "title": "Watch: JD Vance 'ignored' at Switzerland talks? Viral video of Qatar PM greeting Shehbaz Sharif sparks online frenzy",
+    "description": "A video from US-Iran talks in Switzerland, featuring Qatar's PM and Pakistan's PM, has sparked debate online over a perceived snub to US Vice President JD Vance. While the clip shows the Qatari leader greeting the Pakistani PM, Vance appears unacknowledged. O\u2026",
+    "link": "https://economictimes.indiatimes.com/news/new-updates/watch-jd-vance-ignored-at-switzerland-talks-viral-video-of-qatar-pm-greeting-shehbaz-sharif-sparks-online-frenzy/articleshow/131900631.cms",
+    "timestamp": "2026-06-22T03:51:46Z"
+  },
+  {
+    "title": "US Trade Representative Greer on visit to India to discuss trade deal",
+    "description": "The meeting between Greer and Goyal comes close on the heels of negotiator-level discussions on the pact held from June 2-4 in New Delhi",
+    "link": "https://www.thehindubusinessline.com/news/us-trade-representative-greer-on-visit-to-india-to-discuss-trade-deal/article71131611.ece",
+    "timestamp": "2026-06-22T03:35:32Z"
+  },
+  {
+    "title": "US strike on vessel in Caribbean Sea kills 2, leaves 6 survivors",
+    "description": "The U.S. military conducted another strike on a suspected drug boat in the eastern Pacific, resulting in two deaths and six survivors. This latest incident, part of an ongoing campaign against alleged traffickers, brings the total killed in such strikes to ov\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/us-strike-on-vessel-in-caribbean-sea-kills-2-leaves-6-survivors/articleshow/131900556.cms",
+    "timestamp": "2026-06-22T03:35:02Z"
+  },
+  {
+    "title": "Rupee set for boost after Iran flags progress on peace talks",
+    "description": "Fall in oil prices and \u200bpositive developments in U.S.-Iran \u200cnegotiations could lend further support, traders said.",
+    "link": "https://www.thehindubusinessline.com/markets/forex/rupee-set-for-boost-after-iran-flags-progress-on-peace-talks/article71131673.ece",
+    "timestamp": "2026-06-22T03:31:15Z"
+  },
+  {
+    "title": "Trump, citing vandalism, says pool repairs to begin 'immediately'",
+    "description": "President Donald Trump said Sunday that work will begin \"immediately\" to repair the Lincoln Memorial Reflecting Pool, blaming vandalism for problems at the newly renovated Washington, D.C. landmark.\nTrump repeatedly claimed over the weekend on social media th\u2026",
+    "link": "https://biztoc.com/x/d3afa51c2ef4571a",
+    "timestamp": "2026-06-22T03:19:33Z"
+  },
+  {
+    "title": "Oil prices ease as US-Iran talks show signs of progress",
+    "description": "Progress in US-Iran talks could stabilize energy markets, potentially easing inflation and boosting speculative assets like cryptocurrencies.\nThe post Oil prices ease as US-Iran talks show signs of progress appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/oil-prices-ease-us-iran-talks-progress/",
+    "timestamp": "2026-06-22T03:11:28Z"
+  },
+  {
+    "title": "Rupee to track dollar moves, oil outlook; bonds to react on foreign investor activity",
+    "description": "Rupee\u2019s direction this week will hinge on whether lower oil prices hold and on the dollar\u2019s trajectory, while government bonds are likely \u200bto take cues from the pace of foreign inflows.",
+    "link": "https://www.thehindubusinessline.com/markets/forex/rupee-to-track-dollar-moves-oil-outlook-bonds-to-react-on-foreign-investor-activity/article71131606.ece",
+    "timestamp": "2026-06-22T03:10:59Z"
+  },
+  {
+    "title": "China imposes export controls on 10 US companies",
+    "description": "The new export controls come \"in response to the US government's egregious act of adding to its so-called 'Chinese military enterprise list'\", said China's commerce ministry.",
+    "link": "https://www.channelnewsasia.com/east-asia/china-us-companies-export-controls-rare-earth-6199301",
+    "timestamp": "2026-06-22T02:59:45Z"
+  },
+  {
+    "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+    "description": "The right-wing candidate Abelardo de la Espriella has narrowly won Colombia's presidential election, according to the initial vote count, marking a dramatic shift in how the government will tackle the country's internal armed conflict and violence. Espriella,\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4384855/posts",
+    "timestamp": "2026-06-22T02:50:22Z"
+  },
+  {
+    "title": "China imposes export controls on 10 US companies",
+    "description": "China imposed export controls on 10 US companies involved in defence and rare earths mining in response to Washington's blacklist, and banned public procurement from dozens more firms, Beijing said Monday. China's finance ministry simultaneously announced a b\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/china-imposes-export-controls-on-10-us-companies-lockheed-martin-raytheon-boeing-trump/articleshow/131900121.cms",
+    "timestamp": "2026-06-22T02:42:53Z"
+  },
+  {
+    "title": "Analyst astounded as GOP criticism of Trump's Iran war grows louder: 'Complete loss'",
+    "description": "A political analyst was astounded on Sunday as Republican criticism of President Donald Trump's war with Iran grew louder following the collapse of peace talks in Switzerland. David Pakman, host of the \"David Pakman Show on YouTube,\" reacted to former Republi\u2026",
+    "link": "https://www.rawstory.com/trump-iran-2677071676/",
+    "timestamp": "2026-06-22T02:31:58Z"
+  },
+  {
+    "title": "Trump\u2019s post that British prime minister \u2018will resign\u2019 stuns some in U.K.",
+    "description": "President Donald Trump appeared to scoop Downing Street on Sunday, announcing that Prime Minister Keir Starmer would resign before any public statement from Starmer himself. \u201cKeir Starmer will resign as Prime Minister of The United Kingdom,\u201d proclaimed in a s\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4384853/posts",
+    "timestamp": "2026-06-22T02:31:08Z"
+  },
+  {
+    "title": "Stock Market Live Updates Today: BSE Sensex opens over 300 points up, crosses 77,000; Nifty50 above 24,100 as US-Iran peace talks progress, oil prices slip marginally",
+    "description": "Stock Market Live Updates Today: BSE Sensex and Nifty50 saw a positive note with progress in US-Iran talks sending Asian stocks up and crude prices d",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-22-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131900032.cms",
+    "timestamp": "2026-06-22T02:25:49Z"
+  },
+  {
+    "title": "Netflix\u2019s Baki Just Gave Donald Trump an Unforgettable Anime Debut",
+    "description": "Netflix\u2019s Baki-Dou just gave Donald Trump an anime debut nobody saw coming. The show\u2019s latest episodes feature a viral Trump parody that has taken the internet by storm. Donald Trump\u2019s parody gets trolled in Netflix\u2019s Baki Netflix\u2019s Baki-Dou: The Invincible S\u2026",
+    "link": "https://www.comingsoon.net/tv/news/2151105-donald-trump-parody-netflix-baki-anime-debut",
+    "timestamp": "2026-06-22T02:14:48Z"
+  },
+  {
+    "title": "Colombia Election: Right-wing Abelardo de la Espriella wins, initial count shows",
+    "description": "Colombia wakes up to a sharp political turn to right as Abelardo de la Espriella's preliminary victory redraws the country's path on security, economy, and peace.",
+    "link": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election",
+    "timestamp": "2026-06-22T02:12:22Z"
+  },
+  {
+    "title": "Oil Price Today (June 22): Crude oil rises above $80 as Iran shuts Strait of Hormuz again. What are experts saying?",
+    "description": "Brent crude futures rose 54 cents, or 0.67%, to $81.11 a barrel, after briefly touching $82.30 at the start of trading. U.S. West Texas Intermediate (WTI) crude futures gained $2.02, or 2.64%, to $78.62 a barrel ahead of the contract's expiry later on Monday.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-22-crude-oil-rises-above-80-as-iran-shuts-strait-of-hormuz-again-what-are-experts-saying/articleshow/131899953.cms",
+    "timestamp": "2026-06-22T02:12:16Z"
+  },
+  {
+    "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+    "description": "Ship tracking data shows sharp fall in transits as US and Iranian officials hold talks to save fragile peace framework.",
+    "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut",
+    "timestamp": "2026-06-22T02:03:52Z"
+  },
+  {
+    "title": "Flat opening seen for Indian stocks",
+    "description": "Focus on FPI activity after recent buying; global headwinds to keep markets under pressure",
+    "link": "https://www.thehindubusinessline.com/markets/flat-opening-seen-for-indian-stocks/article71131558.ece",
+    "timestamp": "2026-06-22T02:02:11Z"
+  },
+  {
+    "title": "Is the Federal Reserve in safe hands? Here\u2019s what to make of its first policy meeting under Warsh",
+    "description": "The US Fed\u2019s decision to hold rates steady under its new chair Warsh reaffirms that politics has no place in rate decisions. The American central bank's independence matters\u2014its actions affect global markets, India\u2019s included, with or without a lag.",
+    "link": "https://www.livemint.com/opinion/online-views/federal-reserve-first-policy-meeting-kevin-warsh-central-bank-independence-markets-11782051615405.html",
+    "timestamp": "2026-06-22T02:01:12Z"
+  },
+  {
+    "title": "Keir Starmer faces up to reality",
+    "description": "The embattled British prime minister is widely expected to announce a plan for his exit just as his likely successor, Andy Burnham, arrives in Westminster.",
+    "link": "https://www.politico.eu/article/keir-starmer-faces-reality-labour-leadership-likely-exit-timetable-andy-burnham/",
+    "timestamp": "2026-06-22T02:00:00Z"
+  },
+  {
+    "title": "Major dispute to threaten Trump's Iran deal over billions in frozen Tehran funds: expert",
+    "description": "U.S.-Iran talks in Switzerland face their first major test over who controls billions in potentially unfrozen Iranian assets, an analyst warned.",
+    "link": "https://www.foxnews.com/world/major-dispute-threaten-trumps-iran-deal-over-billions-frozen-tehran-funds-expert",
+    "timestamp": "2026-06-22T01:55:54Z"
+  },
+  {
+    "title": "Oil export curbs waived, blockade lifted: Iran says 'major progress' in US talks",
+    "description": "Iran and the US have made significant strides in peace talks, with mediators Qatar and Pakistan announcing major progress. Discussions in Switzerland have led to agreements on oil exports, asset releases, and a development plan for Tehran. A roadmap for a fin\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/oil-waived-blockade-lifted-iran-says-major-progress-in-us-talks-strait-of-hormuz/articleshow/131899698.cms",
+    "timestamp": "2026-06-22T01:52:22Z"
+  },
+  {
+    "title": "First direct US-Iran negotiations since ceasefire expected to continue overnight",
+    "description": "GENEVA: The first face-to-face talks between the United States and Iran since the recent ceasefire agreement are expected to continue through the night in Switzerland as both sides work toward a comprehensive deal aimed at ending the conflict, according to a \u2026",
+    "link": "https://english.khabarhub.com/2026/22/554956/",
+    "timestamp": "2026-06-22T01:50:59Z"
+  },
+  {
+    "title": "Trump Declares Starmer Will Resign, Blames North Sea Oil Ban",
+    "description": "Donald Trump has all but confirmed reports that UK Prime Minister Keir Starmer is set to resign, singling out his government's ban on new North Sea oil licences as a central cause of his political collapse.\nIn a Truth Social post on Saturday, June 21, Trump w\u2026",
+    "link": "https://biztoc.com/x/15da5f732b2a488e",
+    "timestamp": "2026-06-22T01:49:06Z"
+  },
+  {
+    "title": "Treasuries Decline as Trump\u2019s Iran Threats Stoke Inflation Fears",
+    "description": "Treasuries fell after President Donald Trump again threatened military action against Iran over Hezbollah\u2019s attacks on Israel, sending oil prices higher and prompting investors to reassess inflation risks.",
+    "link": "https://financialpost.com/pmn/business-pmn/treasuries-decline-as-trumps-iran-threats-stoke-inflation-fears",
+    "timestamp": "2026-06-22T01:47:43Z"
+  },
+  {
+    "title": "Dollar firms as cracks emerge in peace deal, pound dips on Starmer uncertainty",
+    "description": "Global markets faced jitters as U.S.-Iran tensions escalated, impacting oil prices and the Strait of Hormuz.  Despite peace talks, threats from President Trump and Tehran's actions cast a shadow.  Meanwhile, the British pound weakened amid political uncertain\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty/articleshow/131899748.cms",
+    "timestamp": "2026-06-22T01:46:16Z"
+  },
+  {
+    "title": "Parents win, Gavin Newsom loses \u2014 again",
+    "description": "The Ninth Circuit has confirmed that parents\u2019 rights still exist in California \u2014despite Gavin Newsom\u2019s effort to stamp them out. Last week, the appellate court \u2014 still known as the most liberal in the land \u2014 blocked the enforcement of AB 1955, the 2024 law th\u2026",
+    "link": "https://nypost.com/2026/06/21/opinion/parents-win-gavin-newsom-loses-again/",
+    "timestamp": "2026-06-22T01:45:20Z"
+  },
+  {
+    "title": "Gold rebounds from one-week low as Iran cites progress in peace talks",
+    "description": "Gold prices surged over 1% as easing U.S.-Iran tensions and falling crude oil prices reduced inflation and interest rate hike fears. While investors anticipate the Fed holding rates steady, Indian gold demand saw a dip amid volatility. Swiss gold exports also\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-from-one-week-low-as-iran-cites-progress-in-peace-talks/articleshow/131899712.cms",
+    "timestamp": "2026-06-22T01:43:02Z"
+  },
+  {
+    "title": "US-Iran negotiations go into Day 2 after Trump shakes talks with threats, Hormuz closure",
+    "description": "Negotiators expected to work through the night after high-level US-Iran talks on their interim deal to end the war had a tense start Sunday in Switzerland, when Tehran took offence at US President Donald Trump's threat to attack and his warning that Iran's pr\u2026",
+    "link": "https://www.thehindubusinessline.com/news/world/us-iran-negotiations-go-into-day-2-after-trump-shakes-talks-with-threats-hormuz-closure/article71131546.ece",
+    "timestamp": "2026-06-22T01:41:50Z"
+  },
+  {
+    "title": "Olympian arrested at Reflecting Pool says 'I did not damage' anything",
+    "description": "Three-time U.S. Olympian David Hearn said police arrested him after he touched a piece of blue coating partially detached from the Reflecting Pool.",
+    "link": "https://abcnews.com/Politics/olympian-arrested-reflecting-pool-damage/story?id=134078925",
+    "timestamp": "2026-06-22T01:40:43Z"
+  },
+  {
+    "title": "Oil rises after Iran shuts Hormuz again, Trump threatens new attacks",
+    "description": "Oil prices surged Monday as shipping through the Strait of Hormuz slowed amid escalating tensions. Talks between U.S. and Iranian officials began on a rocky note, with Iran citing violations of a peace deal.  Despite expectations of increased supply and poten\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-iran-shuts-hormuz-again-trump-threatens-new-attacks/articleshow/131899695.cms",
+    "timestamp": "2026-06-22T01:40:17Z"
+  },
+  {
+    "title": "NY Times torched for Father\u2019s Day \u2018trans dad\u2019 article critics say shows paper is \u2018corrupting our children'",
+    "description": "The New York Times is facing backlash for publishing a Father's Day guest essay about a transgender-identifying parent learning to be a \"trans dad.\"",
+    "link": "https://www.foxnews.com/media/ny-times-torched-fathers-day-trans-dad-article-critics-say-shows-paper-corrupting-our-children",
+    "timestamp": "2026-06-22T01:39:56Z"
+  },
+  {
     "title": "Trump-backed De La Espriella Holds Razor-thin Lead In Colombia's Election As Rival Challenges Vote",
     "description": "Political outsider Abelardo de la Espriella holds a razor-thin lead in Colombia\u2019s presidential election with nearly all the votes counted.",
     "link": "https://www.huffpost.com/entry/colombia-election-de-la-espriella_n_6a388f51e4b0488a51ab6134",
@@ -52,533 +562,5 @@
     "description": "Maritime traffic plummets through the Strait of Hormuz as Iran re-imposed a strict blockade.",
     "link": "https://www.israelnationalnews.com/news/428984",
     "timestamp": "2026-06-22T01:14:07Z"
-  },
-  {
-    "title": "Global Market Today: Asian stocks slip, oil up on peace doubts",
-    "description": "Global markets saw a dip as Middle East tensions escalated, pushing oil prices and bond yields higher, signaling increased U.S. interest rate risk. Political uncertainty in the UK also weighed on sterling. Investors are now keenly watching upcoming U.S. infla\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slip-oil-up-on-peace-doubts/articleshow/131899539.cms",
-    "timestamp": "2026-06-22T01:03:52Z"
-  },
-  {
-    "title": "Donald Trump Calls Mystery Woman a 'Great Daughter' in Social Media Post",
-    "description": "President Donald Trump took to social media to praise a mystery \u201cdaughter,\u201d sparking online confusion. \u201cGreat daughter. My Honor!!!\u201d Trump, 80, wrote via Truth Social on Saturday, June 20, sharing a photo of a woman who did not appear to be either one of his \u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-calls-mystery-woman-a-great-daughter-in-post/",
-    "timestamp": "2026-06-22T00:53:00Z"
-  },
-  {
-    "title": "'Slowly, then very quickly': Economist shares striking warning as Trump's war deal falters",
-    "description": "President Donald Trump's war with Iran put the global economy on the brink of collapse, and one economist warns that it could get worse if one sector of the economy begins to show signs of weakness. Liaquat Ahamed, a Pulitzer Prize-winning author and former W\u2026",
-    "link": "https://www.rawstory.com/trump-iran-2677071603/",
-    "timestamp": "2026-06-22T00:39:47Z"
-  },
-  {
-    "title": "Stocks slip in Asia, oil up on peace doubts",
-    "description": "SYDNEY, June 22 : Most share markets slipped in Asia on Monday as doubts about the Middle East peace process sent oil prices and bond yields up again, leading investors to price in more risk of higher U.S. interest rates.Sterling eased amid reports Prime Mini\u2026",
-    "link": "https://www.channelnewsasia.com/business/stocks-slip-in-asia-oil-up-peace-doubts-6199121",
-    "timestamp": "2026-06-22T00:35:58Z"
-  },
-  {
-    "title": "Stocks rally in Asia as Iran cites progress in talks",
-    "description": "SYDNEY, June 22 : Asian share markets swung higher on Monday as Iranian negotiators said progress had been made in peace talks with the United States, helping calm fears the process was breaking down.Officials from Qatar and Pakistan also released a statement\u2026",
-    "link": "https://www.channelnewsasia.com/business/stocks-rally-in-asia-iran-cites-progress-in-talks-6199121",
-    "timestamp": "2026-06-22T00:35:58Z"
-  },
-  {
-    "title": "Joy Reid Ditches Voting for Democrats \u2014 Unless the Party Completely Abandons Israel",
-    "description": "Former cable news star Joy Reid said she is done supporting the Democratic Party until it commits to completely abandoning Israel as an American ally.\nThe post Joy Reid Ditches Voting for Democrats \u2014 Unless the Party Completely Abandons Israel first appeared \u2026",
-    "link": "https://www.mediaite.com/media/news/joy-reid-ditches-voting-for-democrats-unless-the-party-completely-abandons-israel/",
-    "timestamp": "2026-06-22T00:26:20Z"
-  },
-  {
-    "title": "Right-wing outsider narrowly wins Colombian presidency",
-    "description": "A flamboyant US-backed lawyer who has never held public office has narrowly won Colombia's presidential runoff, swinging the country hard to the right on a promise to wage war against drug-running guerrilla groups.",
-    "link": "https://www.rte.ie/news/2026/0622/1579608-colombian-presidency/",
-    "timestamp": "2026-06-22T00:20:08Z"
-  },
-  {
-    "title": "Oil rises after Trump threatens fresh strikes on Iran, overshadowing peace talks",
-    "description": "Oil prices climbed Monday after U.S. President Donald Trump threatened renewed military action against Iran, raising concerns about the durability of a fragile interim peace agreement reached last week.\nTrump made the threat on Sunday, even as Vice President \u2026",
-    "link": "https://biztoc.com/x/43ac7c957824aa44",
-    "timestamp": "2026-06-22T00:17:58Z"
-  },
-  {
-    "title": "Time for Merit Immigration: Keep Out the Losers, Let in the Winners",
-    "description": "Swiss voters went to the polls Sunday and resoundingly rejected capping the country's rapidly growing population at 10 million by limiting immigration. Congratulations to the Swiss for staging a national conversation over immigration -- something the United S\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4384846/posts",
-    "timestamp": "2026-06-22T00:08:14Z"
-  },
-  {
-    "title": "The U.S. says it's open. Iran says it's closed. The Strait of Hormuz remains precarious",
-    "description": "Is the Strait of Hormuz open or closed? Comments from American and Iranian leaders tell conflicting stories on the critical waterway, with the U.S. saying it remains open to shipping traffic and Iran saying it's been closed again.",
-    "link": "https://www.cbc.ca/news/world/strait-of-hormuz-conflicting-narratives-9.7243819",
-    "timestamp": "2026-06-22T00:06:17Z"
-  },
-  {
-    "title": "Gold Holds Decline After Trump Warns Iran During Peace Talks",
-    "description": "Gold held a decline after US President Donald Trump issued a fresh threat to strike Iran, raising tensions during high-level talks to find a permanent resolution to the war that\u2019s roiled global markets.",
-    "link": "https://financialpost.com/pmn/business-pmn/gold-holds-decline-after-trump-warns-iran-during-peace-talks",
-    "timestamp": "2026-06-22T00:05:29Z"
-  },
-  {
-    "title": "Oil rises after Trump threatens fresh strikes on Iran, overshadowing peace talks",
-    "description": "Oil prices climbed on Monday after U.S. President Donald Trump threatened renewed military action against Iran.",
-    "link": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
-    "timestamp": "2026-06-22T00:05:08Z"
-  },
-  {
-    "title": "Trump says Reflecting Pool 'vandals' are being arrested. What we know",
-    "description": "For nearly two weeks, the recently renovated Reflecting Pool on the National Mall has grown algae blooms, and its new blue paint also has begun to peel off.\nExperts say the algae problem is likely a product of Mother Nature. President Donald Trump, meanwhile,\u2026",
-    "link": "https://biztoc.com/x/94b58769b5738c40",
-    "timestamp": "2026-06-22T00:03:01Z"
-  },
-  {
-    "title": "Dow futures drop and oil jumps as first day of U.S.-Iran talks sees Trump threaten Tehran on Hormuz: \u2018You close it and you won\u2019t have a country\u2019",
-    "description": "U.S. stock futures fell and oil prices rose after peace talks between the U.S. and Iran got off to a rocky start on Sunday, with President Donald Trump wasting no time with threats to renew war.\nFutures tied to the Dow Jones industrial average fell 191 points\u2026",
-    "link": "https://biztoc.com/x/97fc8dca30eb010e",
-    "timestamp": "2026-06-22T00:02:49Z"
-  },
-  {
-    "title": "ABC star threatened by Trump for 'trying to rip rubber off surface' of Reflecting Pool as Jeanine Pirro refuses to rule out ARRESTING him",
-    "description": "Trump has spent the weekend raging at 'liberal lunatics' who have vandalized his $16million renovated pool, including ABC's Karl, who he claimed tried 'to rip rubber off the surface' of it.",
-    "link": "https://www.dailymail.com/news/article-15917767/ABC-Jonathan-Karl-Trump-Reflecting-Pool-Jeanine-Pirro.html",
-    "timestamp": "2026-06-22T00:02:37Z"
-  },
-  {
-    "title": "When the Iran War Is Over: The West Bank May Be Netanyahu\u2019s Next Front",
-    "description": "Israeli Prime Minister Benjamin Netanyahu is facing perhaps the most precarious moment of his political career. He knows it. His allies know it. And his rivals \u2013 both within his coalition and across Israel\u2019s political spectrum \u2013 are preparing to capitalize on\u2026",
-    "link": "https://original.antiwar.com/ramzy-baroud/2026/06/21/when-the-iran-war-is-over-the-west-bank-may-be-netanyahus-next-front/",
-    "timestamp": "2026-06-22T00:00:47Z"
-  },
-  {
-    "title": "The Iran Fiasco\u2019s Silver Lining: Trump, Bibi, and the Neocons Got Their Clocks Cleaned",
-    "description": "If you don\u2019t think the Donald inhabits an alternative universe \u2013 just set your mandibles loose to chomp on his most recent missive. According to history\u2019s most gifted practitioner of the Art of the Deal, only one thing really counts with respect to his Paperl\u2026",
-    "link": "https://original.antiwar.com/david_stockman/2026/06/21/the-iran-fiascos-silver-lining-trump-bibi-and-the-neocons-got-their-clocks-cleaned/",
-    "timestamp": "2026-06-22T00:00:27Z"
-  },
-  {
-    "title": "Jerry Nadler Is Still Campaigning",
-    "description": "Politics\n \n \n / \n June 22, 2026\n \r\n\n \nJerry Nadler Is Still Campaigning\r\n\n\n\nHis name isn\u2019t on the ballot, but the veteran congressman\u2019s working overtime for Micah Lasher.\r\n\n\n\r\n\n \n \n John Nichols \r\n\n \n \n Share\n \n \n Copy Link\r\n\n Facebook\r\n\n X (Twitter)\r\n\n Blues\u2026",
-    "link": "https://www.thenation.com/article/politics/jerry-nadler-micah-lasher-election/",
-    "timestamp": "2026-06-22T00:00:00Z"
-  },
-  {
-    "title": "Trump-endorsed right-wing candidate leads in tight Colombia presidential race",
-    "description": "Colombian right-wing candidate Abelardo de la Espriella is leading the country's Sunday presidential race, narrowly scraping by ahead of his leftist rival with nearly all ballots \u200ccounted, as voters bet on his promises to lead a tough crackdown on crime and i\u2026",
-    "link": "https://www.cbc.ca/news/world/colombia-presidential-race-9.7243896",
-    "timestamp": "2026-06-21T23:54:20Z"
-  },
-  {
-    "title": "Carrie Underwood posts patriotic video of enormous flag display on Tennessee farm for America's 250th birthday",
-    "description": "The 43-year-old country singer took to Instagram days ago to upload a video clip featuring a sprawling southern landscape with a large fence adorned with American flags.",
-    "link": "https://www.dailymail.com/tvshowbiz/article-15918217/Carrie-Underwood-patriotic-video-flag-display-Tennessee-America-250-birthday.html",
-    "timestamp": "2026-06-21T23:49:45Z"
-  },
-  {
-    "title": "Oil prices climb after fresh Trump threat as US-Iran peace talks begin",
-    "description": "Brent crude climbed 1.4 per cent to US$8.72 a barrel as at 7.25am Singapore time, while US crude surged 2.8 per cent to US$78.75.  Read more at straitstimes.com. Read more at straitstimes.com.",
-    "link": "https://www.straitstimes.com/business/companies-markets/oil-prices-climb-after-fresh-trump-threat-as-us-iran-peace-talks-begin",
-    "timestamp": "2026-06-21T23:48:12Z"
-  },
-  {
-    "title": "Al-Sharaa denies Syria will fight Hezbollah",
-    "description": "Syrian President Ahmed al-Sharaa stated that Syria is seeking diplomatic channels with Lebanon, \"not military ones,\" after United States President Donald Trump claimed that Syria should \"take care of ...",
-    "link": "https://biztoc.com/x/d0b7f4eda85c2662",
-    "timestamp": "2026-06-21T23:32:34Z"
-  },
-  {
-    "title": "Dow futures drop and oil jumps as first day of U.S.-Iran talks sees Trump threaten Tehran on Hormuz: \u2018You close it and you won\u2019t have a country\u2019",
-    "description": "He also said the U.S. may take over the strait, adding \"I'll blow the s--t out of them. If they don't make a deal, we'll collect tolls.\"",
-    "link": "https://fortune.com/2026/06/21/stock-market-today-dow-futures-oil-prices-us-iran-talks-trump-threat-hormuz/",
-    "timestamp": "2026-06-21T23:23:30Z"
-  },
-  {
-    "title": "Patriotism Declines as US Nears 250th Anniversary, Driven by Sharp Partisan Divide",
-    "description": "A growing number of Americans are feeling less patriotic about their country as the United States prepares to celebrate the 250th anniversary of the Declaration of Independence. According to a Public Religion Research Institute poll released last week, \u201cJust \u2026",
-    "link": "https://www.dailysignal.com/2026/06/21/american-patriotism-declines/",
-    "timestamp": "2026-06-21T23:03:39Z"
-  },
-  {
-    "title": "Trump-backed De La Espriella wins Colombia's election",
-    "description": "Colombia's right-wing candidate Abelardo De La Espriella, who was endorsed by United States President Donald Trump, has won the country's presidential runoff on Sunday.With over 99% of the votes count...",
-    "link": "https://biztoc.com/x/993c2742b3f24ea3",
-    "timestamp": "2026-06-21T23:02:10Z"
-  },
-  {
-    "title": "US-Iran talks in Switzerland: What is known so far?",
-    "description": "The negotiations were reportedly focused on Lebanon and lifting US sanctions against Tehran, but were allegedly interrupted over statements made by President Donald Trump",
-    "link": "https://www.rt.com/news/641945-us-iranian-talks-switzerland/",
-    "timestamp": "2026-06-21T23:02:06Z"
-  },
-  {
-    "title": "Sean Penn on Trump: 'Enemy of mankind' and 'the state'",
-    "description": "Actor Sean Penn said, \"President Donald Trump is an enemy of Americans, Republicans, Democrats, Independents and every new child born. An enemy of mankind. He is indeed an enemy of the state.\u201d",
-    "link": "https://www.snopes.com//fact-check/sean-penn-trump-enemy-state/",
-    "timestamp": "2026-06-21T23:00:00Z"
-  },
-  {
-    "title": "Colombia election: Hard-right claim win, left not conceding",
-    "description": "Right-wing presidential candidate, Abelardo de la Espriella, won 49.66% of the Colombians' votes, according to preliminary results. Outgoing President Gustavo Petro said \"neither candidate can be declared president.\" Colombians voted in a presidential runoff \u2026",
-    "link": "https://www.dw.com/en/colombia-election-hard-right-candidate-claims-victory/a-77650646",
-    "timestamp": "2026-06-21T22:59:00Z"
-  },
-  {
-    "title": "Colombia election: Hard-right candidate poised to win in early results",
-    "description": "Right-wing presidential candidate, Abelardo de la Espriella, has won more than 50% of the Colombians' votes, according to preliminary results. Colombians voted in a presidential runoff election on Sunday, and according to preliminary results, a White House-ba\u2026",
-    "link": "https://www.dw.com/en/colombia-election-hard-right-candidate-poised-to-win-in-early-results/a-77650646",
-    "timestamp": "2026-06-21T22:59:00Z"
-  },
-  {
-    "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-    "description": "Oil advanced after President Donald Trump threatened strikes on Iran if Hezbollah keeps attacking Israel, raising concerns about progress for peace talks between Washington and Tehran.",
-    "link": "https://financialpost.com/pmn/business-pmn/oil-climbs-after-fresh-trump-threat-as-us-iran-peace-talks-begin",
-    "timestamp": "2026-06-21T22:58:35Z"
-  },
-  {
-    "title": "Colombia elects Trump-endorsed businessman in presidential runoff",
-    "description": "Colombia\u2019s voters on Sunday elected a Donald Trump-endorsed right-wing businessman in a presidential runoff, ending a period of left-wing rule that coincided with the country\u2019s worst security crisis in decades.\nAbelardo de la Espriella proposed bombing gang-h\u2026",
-    "link": "https://biztoc.com/x/04b6a680f4902c23",
-    "timestamp": "2026-06-21T22:47:32Z"
-  },
-  {
-    "title": "Trump Calls For Military Intervention In Chicago After 7 Killed In Weekend Shootings",
-    "description": "\u201cViolence has no place in our city, and those responsible will be held accountable,\" Chicago Mayor Brandon Johnson said in an X post Saturday.",
-    "link": "https://www.huffpost.com/entry/chicago-weekend-shootings_n_6a38674ee4b058c5d1bfce43",
-    "timestamp": "2026-06-21T22:45:46Z"
-  },
-  {
-    "title": "Italy's Giorgia Meloni fires back at Trump over G7 photo claim",
-    "description": "Italian Prime Minister Giorgia Meloni\u2019s fiery spat with US President Donald Trump over his claims that she \u201cbegged\u201d him for a photo at the G7 reflects her political calculation that being associated with Trump is now a liability, analysts said.\nMeloni said Tr\u2026",
-    "link": "https://biztoc.com/x/9541f50ecc2f7961",
-    "timestamp": "2026-06-21T22:32:09Z"
-  },
-  {
-    "title": "Lindsey Graham Predicts Trump Will \u2018Obliterate\u2019 Iran If Strait of Hormuz Is Messed With",
-    "description": "Sen. Lindsey Graham (R-SC) predicted President Donald Trump will \"obliterate\" Iran if it dares contest American control of the Strait of Hormuz.\nThe post Lindsey Graham Predicts Trump Will \u2018Obliterate\u2019 Iran If Strait of Hormuz Is Messed With first appeared on\u2026",
-    "link": "https://www.mediaite.com/politics/lindsey-graham-predicts-trump-will-obliterate-iran-if-strait-of-hormuz-is-messed-with/",
-    "timestamp": "2026-06-21T22:28:11Z"
-  },
-  {
-    "title": "'Al Roker is an absolute ****': KENNEDY's Today show insider gives brutal behind-the-scenes verdict on beloved weatherman\u2026 and names other two-faced NBC hosts",
-    "description": "According to his former Today Show co-host Billy Bush, the once-plump weatherman is as soggy as his forecasts and as phony as a Times Square Rolex.",
-    "link": "https://www.dailymail.com/debate/article-15916911/Al-Roker-NBC-Today-Billy-Bush-KENNEDY.html",
-    "timestamp": "2026-06-21T22:26:25Z"
-  },
-  {
-    "title": "Trump-backed \u2018Tiger\u2019 projected to win Colombian election",
-    "description": "Colombians are on track to elect pro-Trump lawyer Abelardo de la Espriella in Sunday\u2019s presidential runoff, according to preliminary results Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/641942-colombia-runoff-election-espriella-cepeda/",
-    "timestamp": "2026-06-21T22:26:24Z"
-  },
-  {
-    "title": "White House Says Anthropic No Longer Security Threat",
-    "description": "President Donald Trump has reportedly reconsidered his stance on Anthropic as a national security threat.\n \n \n \n \nThe White House earlier this month ordered the artificial intelligence startup to get government approval before permitting foreign individuals, \u2026",
-    "link": "https://biztoc.com/x/61a54e473d44627b",
-    "timestamp": "2026-06-21T22:16:58Z"
-  },
-  {
-    "title": "Montana Data Centers, New York Data Center Opposition, Michigan Wetlands, More: ResearchBuzz AI Update, June 21, 2026",
-    "description": "ANTI-AI ACTIVISM Mountain Journal: How Some Montanans are Taking Data Center Regulation Into Their Own Hands. \u201cIn Montana, where the state offers little in the way of oversight, citizen-led initiatives in Butte-Silver [\u2026]",
-    "link": "https://researchbuzz.me/2026/06/21/montana-data-centers-new-york-data-center-opposition-michigan-wetlands-more-researchbuzz-ai-update-june-21-2026/",
-    "timestamp": "2026-06-21T22:12:02Z"
-  },
-  {
-    "title": "US Olympian who was arrested for allegedly vandalizing Reflecting Pool hits back at Trump's 'lies' and shares new photo... as dramatic video shows confrontation with cops",
-    "description": "The Olympian asserted that he did nothing wrong and told the Daily Mail that the Trump administration is trying to pin the blame of the Reflecting Pool's condition on vandals.",
-    "link": "https://www.dailymail.com/news/article-15917905/Reflecting-Pool-vandalism-olympian-Trump-lies-video.html",
-    "timestamp": "2026-06-21T22:10:03Z"
-  },
-  {
-    "title": "Stock market today: Live updates",
-    "description": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
-    "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
-    "timestamp": "2026-06-21T22:03:04Z"
-  },
-  {
-    "title": "Here\u2019s the biggest news you missed this weekend",
-    "description": "Vice President JD Vance held talks with Iranian officials Sunday in Switzerland, with the days-old peace deal at risk.",
-    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-june-21-rcna350784",
-    "timestamp": "2026-06-21T22:00:00Z"
-  },
-  {
-    "title": "Rosie O'Donnell Suffers Another Full-Blown Trump Derangement Syndrome Meltdown [WATCH]",
-    "description": "Actress Rosie O\u2019Donnell told author Marianne Williamson that she believes President Donald Trump could use an \u201cassassination attempt or a terrorist",
-    "link": "https://www.lifezette.com/2026/06/rosie-odonnell-suffers-another-full-blown-trump-derangement-syndrome-meltdown-watch/",
-    "timestamp": "2026-06-21T21:59:15Z"
-  },
-  {
-    "title": "Inside Israel\u2019s intimidating Iron Dome is a nation simply \u2018fighting for survival\u2019",
-    "description": "\u201cWatch the sky tonight.\u201d",
-    "link": "https://www.news.com.au/world/middle-east/inside-israels-iron-dome-were-fighting-for-survival/news-story/46ad1f1c2153037cf4b7640124fa8a72",
-    "timestamp": "2026-06-21T21:53:07Z"
-  },
-  {
-    "title": "Trump Is 'The Biggest Loser With Egg On His Face' After Iran Deal, Cory Booker Says",
-    "description": "When asked if Trump deserves credit for ending the war, Sen. Cory Booker accused the president of having \"led this nation into a disaster.\"",
-    "link": "https://www.huffpost.com/entry/cory-booker-trump-loser-iran-deal_n_6a384bc8e4b058c5d1bfcb8f",
-    "timestamp": "2026-06-21T21:52:03Z"
-  },
-  {
-    "title": "Trump Trashes \u2018Unethical Cowards\u2019 at The New York Times Over Story on \u2018Not Much\u2019 Changing After Iran War",
-    "description": "Trump ripped the \"corrupt and unethical cowards\" at The New York Times after he read a story from the paper that said the Iran war had failed on several fronts\nThe post Trump Trashes \u2018Unethical Cowards\u2019 at The New York Times Over Story on \u2018Not Much\u2019 Changing \u2026",
-    "link": "https://www.mediaite.com/politics/trump-trashes-unethical-cowards-at-the-new-york-times-over-story-on-not-much-changing-after-iran-war/",
-    "timestamp": "2026-06-21T21:49:22Z"
-  },
-  {
-    "title": "Fidel Castro's 'secret' daughter lifts lid on dictator behind closed doors... truth about Justin Trudeau 'sibling' rumors... and issues urgent warning to America - as she hints at her pick for next US president",
-    "description": "As a young child, Alina Fernandez experienced Cuba, the island of her birth, as a beguiling, intoxicating place. But nothing was quite what it seemed.",
-    "link": "https://www.dailymail.com/news/article-15893267/Alina-Fernandez-Fidel-Castro-daughter-justin-trudeau.html",
-    "timestamp": "2026-06-21T21:44:07Z"
-  },
-  {
-    "title": "Life in liberal hellscape Britain is so much worse than many of my countrymen admit\u2026 JD Vance must keep lecturing our useless government until they listen: CAROLINE BULLOCK",
-    "description": "The fear of causing offence is so great we're at risk of losing our voices completely - and it seems the US has plenty to say about it.",
-    "link": "https://www.dailymail.com/debate/article-15914855/life-liberal-britain-jd-vance-henry-nowak.html",
-    "timestamp": "2026-06-21T21:43:26Z"
-  },
-  {
-    "title": "Meloni's spat with Trump is calculated strategy to boost her approval ratings: expert",
-    "description": "Analyst says Meloni's public feud with President Trump is a calculated strategy to boost her declining approval ratings ahead of Italy's 2027 general election.",
-    "link": "https://www.foxnews.com/world/melonis-spat-trump-calculated-strategy-boost-her-approval-ratings-expert",
-    "timestamp": "2026-06-21T21:39:31Z"
-  },
-  {
-    "title": "Albanian protesters flood streets demanding prime minister's resignation amid corruption accusations",
-    "description": "Albania protests target Socialist PM Edi Rama over corruption allegations, not Kushner investments, former ambassador tells Fox News Digital.",
-    "link": "https://www.foxnews.com/world/albanian-protesters-flood-streets-demanding-prime-ministers-resignation-amid-corruption-accusations",
-    "timestamp": "2026-06-21T21:34:49Z"
-  },
-  {
-    "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
-    "description": "High-level U.S.-Iran talks on their interim deal to end the war have had a tense start in Switzerland",
-    "link": "https://abcnews.com/International/wireStory/vance-meets-top-iranian-officials-switzerland-trump-threatens-134071079",
-    "timestamp": "2026-06-21T21:33:41Z"
-  },
-  {
-    "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
-    "description": "High-level U.S.-Iran talks on their interim deal to end the war had a tense start Sunday in Switzerland as Tehran took offense at comments by President Donald Trump, who threatened to attack and told Iran\u2019s president to watch what he says.\nThe comments from a\u2026",
-    "link": "https://biztoc.com/x/31a7f6fc30191801",
-    "timestamp": "2026-06-21T21:31:42Z"
-  },
-  {
-    "title": "\u2018SICK, DERANGED PEOPLE!\u2019 Trump Claims He Personally Inspected \u2018Seriously Vandalized\u2019 Reflecting Pool As Algae Continues to Spread",
-    "description": "Donald Trump claimed that he personally inspected the Reflecting Pool's condition as U.S. Park Service crews continued to try to clean up the algae.\nThe post \u2018SICK, DERANGED PEOPLE!\u2019 Trump Claims He Personally Inspected \u2018Seriously Vandalized\u2019 Reflecting Pool \u2026",
-    "link": "https://www.mediaite.com/media/news/sick-deranged-people-trump-claims-he-personally-inspected-seriously-vandalized-reflecting-pool-as-algae-continues-to-spread/",
-    "timestamp": "2026-06-21T21:31:40Z"
-  },
-  {
-    "title": "White House Says Anthropic No Longer Security Threat",
-    "description": "President Donald Trump has reportedly reconsidered his stance on Anthropic as a national security threat. The White House earlier this month ordered the artificial intelligence startup to get government approval before permitting foreign individuals, companie\u2026",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-says-anthropic-no-longer-security-threat/",
-    "timestamp": "2026-06-21T21:25:57Z"
-  },
-  {
-    "title": "7 killed, at least 38 injured following series of weekend shootings in Chicago",
-    "description": "A spate of shootings in Chicago has led to at least 38 injuries and seven deaths since Friday evening, police say, prompting President Donald Trump to renew his call for a military intervention in the nation's third-largest city. \u201cWhy isn\u2019t Governor Pritzker \u2026",
-    "link": "https://japantoday.com/category/world/7-killed-and-dozens-injured-following-series-of-weekend-shootings-in-chicago",
-    "timestamp": "2026-06-21T21:19:06Z"
-  },
-  {
-    "title": "Starmer on the precipice as pressure builds for UK leader to resign",
-    "description": "U.K. Prime Minister Keir Starmer is facing a career-defining decision: step down or fight a possible challenge from Labour Party rival Andy Burnham. Starmer has publicly vowed to stay in office, but pressure is building as more and more Labour Party colleague\u2026",
-    "link": "https://japantoday.com/category/world/starmer-is-on-the-precipice-as-pressure-builds-for-the-uk-leader-to-resign",
-    "timestamp": "2026-06-21T21:19:01Z"
-  },
-  {
-    "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
-    "description": "U.S. President Donald Trump on Sunday threatened to restart war with Iran even as Vice President JD Vance met Iranian officials for the first talks under an interim peace deal, overshadowed by Tehran's announcement it had again closed the Strait of Hormuz. Th\u2026",
-    "link": "https://japantoday.com/category/world/trump-threatens-iran-with-fresh-strikes-as-vance-leads-peace-talks-in-switzerland",
-    "timestamp": "2026-06-21T21:18:55Z"
-  },
-  {
-    "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
-    "description": "Iranian state media said talks had entered a \u201cdifficult phase\u201d and recessed after the \u201cpublication of an insulting message by the U.S. President.\u201d",
-    "link": "https://fortune.com/2026/06/21/us-iran-trump-threat-attack-negotiations-pause-lebanon/",
-    "timestamp": "2026-06-21T21:09:26Z"
-  },
-  {
-    "title": "Better Call Saul: It's Saul Goodman, For The Defense (of Democracy)",
-    "description": "Earlier this month, fans of Peter Gould and Vince Gilligan's Bob Odenkirk and Rhea Seehorn-starring Better Call Saul were treated to a return to the show's universe in time for America's 250th birthday. Previously,Gould alerted fans to a YouTube video that po\u2026",
-    "link": "https://bleedingcool.com/tv/better-call-saul-its-saul-goodman-for-the-defense-of-democracy/",
-    "timestamp": "2026-06-21T21:08:09Z"
-  },
-  {
-    "title": "Jeanine Pirro Says People Who 'Vandalize' Reflecting Pool Will Be Prosecuted",
-    "description": "Her comments came after the president sought to blame \"vandalism\" for woes at the pool.",
-    "link": "https://www.huffpost.com/entry/reflecting-pool-jeannine-pirro_n_6a384620e4b0810d441d4373",
-    "timestamp": "2026-06-21T21:05:44Z"
-  },
-  {
-    "title": "Trump Admin Denies JD Vance Was Snubbed at Iran Summit After Awkward Video Hits Social Media",
-    "description": "The Trump admin denied social media claims that JD Vance was snubbed by Qatari leaders during the big peace deal summit, in response to a viral X video\nThe post Trump Admin Denies JD Vance Was Snubbed at Iran Summit After Awkward Video Hits Social Media first\u2026",
-    "link": "https://www.mediaite.com/politics/trump-admin-denies-jd-vance-was-snubbed-at-iran-summit-after-awkward-video-hits-social-media/",
-    "timestamp": "2026-06-21T21:04:19Z"
-  },
-  {
-    "title": "\u2018Get On a Plane and Come Back!\u2019 Right-Wing Pundit On Newsmax Fumes Over JD Vance Treatment at Iran Summit",
-    "description": "Bryan Lieb, former executive director of Iranian Americans For Liberty, told NewsMax that the Iranians may not be taking the peace talks seriously.\nThe post \u2018Get On a Plane and Come Back!\u2019 Right-Wing Pundit On Newsmax Fumes Over JD Vance Treatment at Iran Sum\u2026",
-    "link": "https://www.mediaite.com/media/news/get-on-a-plane-and-come-back-right-wing-pundit-on-newsmax-fumes-over-jd-vance-treatment-at-iran-summit/",
-    "timestamp": "2026-06-21T21:02:59Z"
-  },
-  {
-    "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-    "description": "Syrian President Ahmed al-Sharaa denied on Sunday that his country sought to intervene militarily in Lebanon where Israel and Hezbollah are at war, after US President Donald Trump repeatedly suggested Damascus could get involved.\n\"We are looking for economic \u2026",
-    "link": "https://biztoc.com/x/eaa7e9be1a200e44",
-    "timestamp": "2026-06-21T21:02:36Z"
-  },
-  {
-    "title": "Trump Says Reflecting Pool Repairs Will Begin \u2018Immediately\u2019",
-    "description": "The president also blamed damage to the renovations on \u201cvandals,\u201d and said multiple people have been arrested.",
-    "link": "https://www.forbes.com/sites/zacharyfolk/2026/06/21/trump-says-reflecting-pool-repairs-will-begin-immediately/",
-    "timestamp": "2026-06-21T21:02:28Z"
-  },
-  {
-    "title": "Donald Trump and JD Vance Echo the Anti-Israel Left",
-    "description": "The vice president seems to be trying to curry favor with Tucker Carlson for a presidential campaign.",
-    "link": "https://biztoc.com/x/a358623b1ea22a9c",
-    "timestamp": "2026-06-21T21:01:03Z"
-  },
-  {
-    "title": "Expert uncorks blunt advice for Trump on MS NOW as Iran deal slips away: 'Just shut up!'",
-    "description": "A foreign-relations expert offered blunt advice to President Donald Trump as negotiations between his administration and the Iranian regime deteriorate. Joseph Cirincione, a member of the Council on Foreign Relations, told MS NOW's Alex Witt on \"Alex Witt Rep\u2026",
-    "link": "https://www.rawstory.com/trump-iran-2677071378/",
-    "timestamp": "2026-06-21T20:58:08Z"
-  },
-  {
-    "title": "Trump no longer views Anthropic as national security threat",
-    "description": "Says AI company responded \"very &#8203;quickly\" and \"responsibly.\"",
-    "link": "https://www.itnews.com.au/news/trump-no-longer-views-anthropic-as-national-security-threat-626804?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed",
-    "timestamp": "2026-06-21T20:52:00Z"
-  },
-  {
-    "title": "Trump no longer views Anthropic as national security threat",
-    "description": "Says AI company responded \"very &#8203;quickly\" and \"responsibly.\"",
-    "link": "https://www.itnews.com.au/news/trump-no-longer-views-anthropic-as-national-security-threat-626804?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-    "timestamp": "2026-06-21T20:52:00Z"
-  },
-  {
-    "title": "Trump no longer views Anthropic as national security threat",
-    "description": "Says AI company responded \"very &#8203;quickly\" and \"responsibly.\"",
-    "link": "https://www.itnews.com.au/news/trump-no-longer-views-anthropic-as-national-security-threat-626804?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
-    "timestamp": "2026-06-21T20:52:00Z"
-  },
-  {
-    "title": "Trump no longer views Anthropic as national security threat",
-    "description": "Says AI company responded \"very &#8203;quickly\" and \"responsibly.\"",
-    "link": "https://www.itnews.com.au/news/trump-no-longer-views-anthropic-as-national-security-threat-626804?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
-    "timestamp": "2026-06-21T20:52:00Z"
-  },
-  {
-    "title": "Jonathan Turley Offers Predictions For \u2018Super Bowl\u2019 Of SCOTUS Cases Before Consequential Term Ends",
-    "description": "Jonathan Turley said during a Sunday discussion that President Trump would likely lose a significant case central to his strategy to combat illegal immigration.",
-    "link": "https://dailycaller.com/2026/06/21/jonathan-turley-tom-dupree-offers-fox-news-shannon-bream-predictions-birthright-citizenship-late-election-day-ballots-supreme-court-cases/",
-    "timestamp": "2026-06-21T20:51:23Z"
-  },
-  {
-    "title": "The Newsoms, the nonprofits, and the federal questions",
-    "description": "Corporations with business pending before state gave 5- or 6-figure donations",
-    "link": "https://www.wnd.com/2026/06/newsoms-nonprofits-federal-questions/",
-    "timestamp": "2026-06-21T20:50:09Z"
-  },
-  {
-    "title": "Joe Rogan Loses It Over Trump\u2019s Response To Possible Terrorist Attack At UFC Fights",
-    "description": "Rogan revealed his conversation with the president after a guest on his podcast said he was \u201creally nervous\u201d about attending the event for safety reasons.",
-    "link": "https://www.huffpost.com/entry/joe-rogan-trump-ufc-white-house-fights-terrorist-attack_n_6a38370ce4b0488a51ab5316",
-    "timestamp": "2026-06-21T20:49:22Z"
-  },
-  {
-    "title": "TENSION, WALKOUTS",
-    "description": "Iran's delegation on Sunday walked out of the Swiss venue where it held talks with the United States towards permanently ending the Middle East war, after Do...",
-    "link": "https://www.yahoo.com/news/world/articles/israel-strikes-south-lebanon-despite-101359673.html",
-    "timestamp": "2026-06-21T20:46:36Z"
-  },
-  {
-    "title": "Trump slams Italy for failing to 'defend' US",
-    "description": "United States President Donald Trump repeated on Sunday that Italy was \"not there to defend us\" during the war against Iran, claiming that the US defended Italy \"for decades.\" His latest remarks are a...",
-    "link": "https://biztoc.com/x/fba0e6e8df1008a0",
-    "timestamp": "2026-06-21T20:46:20Z"
-  },
-  {
-    "title": "Dem Lawmaker Calls for Elon Musk to Be Probed Over 4.5 Million Kids \u2018Possibly Sentenced to Death\u2019 by DOGE Cuts",
-    "description": "Ro Khanna called for Elon Musk to be investigated as soon as Democrats retake control of Congress, claiming Musk \"possibly sentenced to death\" 4.5 million kids\nThe post Dem Lawmaker Calls for Elon Musk to Be Probed Over 4.5 Million Kids \u2018Possibly Sentenced to\u2026",
-    "link": "https://www.mediaite.com/politics/dem-lawmaker-calls-for-elon-musk-to-be-probed-over-4-5-million-kids-possibly-sentenced-to-death-by-doge-cuts/",
-    "timestamp": "2026-06-21T20:41:12Z"
-  },
-  {
-    "title": "Fox Host Tries And Fails To Defend Trump's Surrender To Iran' Iran If Strait Remains Closed' Iran If Strait Remains Closed",
-    "description": "Looks like those \"peace talks\" are going about as well as expected. Trump ran to one of his favorite reporters on Fox again with more threats against Iran:\nDonald Trump told Fox News on Sunday that he threatened to \u201ctake over\u201d Iran if the Strait of Hormuz was\u2026",
-    "link": "https://crooksandliars.com/2026/06/trump-threatens-take-over-iran-if-strait",
-    "timestamp": "2026-06-21T20:39:46Z"
-  },
-  {
-    "title": "WWE is considering an event on White House lawn after UFC Freedom 250 success",
-    "description": "There\u2019s already talk that another major sporting event could soon be heading to the South Lawn of the White House. Just last Sunday, UFC Freedom 250 took place in that very spot, and there\u2019s no question it was one of the most highly anticipated cards in recen\u2026",
-    "link": "https://www.hitc.com/wwe-is-considering-an-event-on-white-house-lawn-after-ufc-freedom-250-success/",
-    "timestamp": "2026-06-21T20:38:53Z"
-  },
-  {
-    "title": "Senate Wades Even Deeper Into Bloody Years-Long Proxy War In New Defense Bill",
-    "description": "Russia has threatened that actions like this could spark a larger regional war in Europe.",
-    "link": "https://dailycaller.com/2026/06/21/senate-2027-ndaa-ukraine-proxy-war/",
-    "timestamp": "2026-06-21T20:36:56Z"
-  },
-  {
-    "title": "'At the end of the day, he's still our friend': Sid Rosenberg defends Trump at JNS Summit",
-    "description": "At the JNS Policy Summit, radio host Sid Rosenberg slams New York's leadership, urges faith in Trump following Iran deal, and urges American Jews to forcefully fight rising antisemitism.",
-    "link": "https://www.israelnationalnews.com/news/428979",
-    "timestamp": "2026-06-21T20:34:16Z"
-  },
-  {
-    "title": "Iran briefing: Trump threatens Iran's negotiators as two sides meet",
-    "description": "Donald Trump warns the Iranian delegation they might not return home from talks in Switzerland talks as the US and Iran argue over the fate of the Strait of Hormuz.",
-    "link": "https://www.abc.net.au/news/2026-06-22/iran-israel-war-news-briefing/106825842",
-    "timestamp": "2026-06-21T20:33:34Z"
-  },
-  {
-    "title": "Trump Secretary Accuses Iran Of Smuggling Operatives Alongside Soccer Team",
-    "description": "Secretary Markwayne Mullin made an unsportsmanlike case that Iran shouldn't be trusted during a weekend appearance on Fox News.",
-    "link": "https://www.huffpost.com/entry/markwayne-mullin-iran-world-cup-soccer-team_n_6a37fad5e4b057a50cee4541",
-    "timestamp": "2026-06-21T20:30:50Z"
-  },
-  {
-    "title": "Donald Trump Just Posted A Father's Day Message Bragging About The \"Best Economy Ever\"",
-    "description": "\"We are WINNING on all fronts, WINNING LIKE NEVER BEFORE.\" \u2014 TrumpView Entire Post \u203a",
-    "link": "https://www.buzzfeed.com/michaelabramwell/donald-trumps-fathers-day-message-is-going-viral",
-    "timestamp": "2026-06-21T20:29:43Z"
-  },
-  {
-    "title": "Poll: 78 Percent of Americans Want Conflict with Iran to End Now",
-    "description": "A majority of Americans want the United States to end the war with Iran now, according to a recent CBS News/YouGov poll.\nThe post Poll: 78 Percent of Americans Want Conflict with Iran to End Now appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/middle-east/2026/06/21/poll-78-percent-of-americans-want-conflict-with-iran-to-end-now/",
-    "timestamp": "2026-06-21T20:27:47Z"
-  },
-  {
-    "title": "NY establishment Dems reap the whirlwind of their fat and lazy politics \u2014 see Chevalier\u2019s rise",
-    "description": "Democrats long ago gave up true machine politics in the sense of appealing to and providing for a base of popular support.",
-    "link": "https://nypost.com/2026/06/21/opinion/ny-establishment-dems-reap-the-whirlwind-of-their-fat-and-lazy-politics-see-chevaliers-rise/",
-    "timestamp": "2026-06-21T20:15:41Z"
-  },
-  {
-    "title": "Trump Threatens Iran as JD Vance Announces \u201cGreat Progress\u201d on Ceasefire",
-    "description": "This morning, Vice President JD Vance touched down in Switzerland for the first round of talks with Iran. The stated goal: extending last week\u2019s interim mediated ceasefire and the Memorandum of Understanding signed by President Donald Trump into a more perman\u2026",
-    "link": "https://www.motherjones.com/politics/2026/06/trump-threatens-iran-as-jd-vance-announces-great-progress-on-ceasefire/",
-    "timestamp": "2026-06-21T20:11:14Z"
-  },
-  {
-    "title": "Donald Trump Jr.'s Wife Shares Sweet Father's Day Post After Secret Wedding",
-    "description": "Donald Trump Jr.\u2019s brand new bride, wife Bettina Trump, is honoring her husband on their first Father\u2019s Day as a married couple. \u201cHappy Father\u2019s Day to the most incredible dad,\u201d Bettina wrote via her Instagram Stories on Sunday, June 21, over a photo of Donal\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-jr-s-wife-bettina-shares-fathers-day-post/",
-    "timestamp": "2026-06-21T20:09:33Z"
-  },
-  {
-    "title": "Trump\u2019s Niece Mary Trump Says Uncle\u2019s Mental and Physical Decline Is \u2018Impossible to Hide\u2019",
-    "description": "Trump\u2019s Niece Mary Trump Says Uncle\u2019s Mental and Physical Decline Is \u2018Impossible to Hide\u2019thedailybeast.com",
-    "link": "https://www.thedailybeast.com/trumps-niece-mary-trump-says-uncles-mental-and-physical-decline-is-impossible-to-hide/",
-    "timestamp": "2026-06-21T20:08:17Z"
-  },
-  {
-    "title": "Democrats\u2019 pursuit of power cannot be airbrushed away",
-    "description": "'Progressive federal judges continue to exceed their authority to bar policies that offend them'",
-    "link": "https://www.wnd.com/2026/06/democrats-pursuit-power-cannot-be-airbrushed-away/",
-    "timestamp": "2026-06-21T20:06:43Z"
   }
 ]
