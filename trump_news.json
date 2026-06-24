@@ -1,5 +1,335 @@
 [
   {
+    "title": "US gov\u2019t investigates New York coffee chain over ban on pro-Israel lawmaker",
+    "description": "Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman.",
+    "link": "https://www.aljazeera.com/economy/2026/6/23/us-govt-investigates-new-york-coffee-chain-over-ban-on-pro-israel-lawmaker",
+    "timestamp": "2026-06-23T07:49:18Z"
+  },
+  {
+    "title": "Piyush Goyal, US Trade Representative Jamieson Greer begin talks on trade pact",
+    "description": "India and the US are in high-level talks to finalize the first phase of their bilateral trade agreement. Commerce Minister Piyush Goyal met with US Trade Representative Jamieson Greer to iron out details, aiming to give a final touch to the framework deal. Bo\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-us-trade-representative-jamieson-greer-begin-talks-on-trade-pact/articleshow/131929560.cms",
+    "timestamp": "2026-06-23T07:43:58Z"
+  },
+  {
+    "title": "French Business Activity Extends Drop With Economy \u2018Frail\u2019",
+    "description": "French business activity shrank for a sixth month after higher energy costs sparked by the Iran war hurt confidence and consumer spending.",
+    "link": "https://financialpost.com/pmn/business-pmn/french-business-activity-extends-drop-with-economy-frail",
+    "timestamp": "2026-06-23T07:38:19Z"
+  },
+  {
+    "title": "A Claim to Lead, a Hesitation to Act: Germany\u2019s New Military Strategy",
+    "description": "In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always existed. Where today we have a National Security Strategy pai\u2026",
+    "link": "https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/",
+    "timestamp": "2026-06-23T07:30:38Z"
+  },
+  {
+    "title": "Trump\u2019s Newest Reflecting Pool Excuse Falls Apart After One Look At His Past Comments",
+    "description": "\"This will last for at least 50 years,\" Trump said less than two months ago.",
+    "link": "https://www.huffpost.com/entry/donald-trump-reflecting-pool-past-comments-the-bulwark_n_6a3a1bf9e4b0810d441f8a46",
+    "timestamp": "2026-06-23T07:22:04Z"
+  },
+  {
+    "title": "What to know about Tuesday\u2019s primary elections in Maryland, Utah, New York",
+    "description": "Redistricting will be central to Democratic primaries in Utah and Maryland while South Carolina faces Republican run-off.",
+    "link": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york",
+    "timestamp": "2026-06-23T07:18:20Z"
+  },
+  {
+    "title": "'We Are DONE': Marjorie Taylor Greene Quits Republican Party Amid Trump Feud",
+    "description": "The firebrand former lawmaker said the GOP has become the \"America Last\" party under Trump.",
+    "link": "https://www.huffpost.com/entry/marjorie-taylor-greene-quit-gop_n_6a3a20e7e4b0488a51ada3b2",
+    "timestamp": "2026-06-23T07:13:21Z"
+  },
+  {
+    "title": "DHS\u2019 \u2018Our Soil\u2019 World Cup Post Backfires Spectacularly For 1 Huge Reason",
+    "description": "Democratic Rep. Ted Lieu hit back with a series of damning questions. So did many, many other critics.",
+    "link": "https://www.huffpost.com/entry/dhs-world-cup-post_n_6a3a230fe4b0488a51ada489",
+    "timestamp": "2026-06-23T07:11:01Z"
+  },
+  {
+    "title": "Report: Israel to unveil limited withdrawal proposal during Lebanon talks",
+    "description": "Israel is expected to propose a limited IDF withdrawal from part of southern Lebanon during US-mediated talks opening in Washington.",
+    "link": "https://www.israelnationalnews.com/news/429059",
+    "timestamp": "2026-06-23T07:07:18Z"
+  },
+  {
+    "title": "Trump signs orders calling for a powerful quantum computer by 2028",
+    "description": "Two executive orders set a research-grade target, push the post-quantum cryptography deadline to 2031, and tie $2bn in grants to government equity stakes. President Donald Trump signed two executive orders on quantum computing on 22 June 2026, the first direc\u2026",
+    "link": "https://thenextweb.com/news/trump-quantum-computer-orders-2028/",
+    "timestamp": "2026-06-23T07:03:10Z"
+  },
+  {
+    "title": "Democrats' new-wave socialists are winning primaries but face a harsh reality in general elections",
+    "description": "Democrats are lurching left as self-proclaimed socialists like Zohran Mamdani and Janeese Lewis George win big in blue cities across America.",
+    "link": "https://www.foxnews.com/opinion/democrats-new-wave-socialists-winning-primaries-face-harsh-reality-general-elections",
+    "timestamp": "2026-06-23T07:00:46Z"
+  },
+  {
+    "title": "Jon Stewart Hits at Trump\u2019s Reflecting Pool Renovation: \u2018Did They Replace the Water With Mountain Dew?\u2019",
+    "description": "\"If you\u2019re like me, when you first heard the reflecting pool had algae, you probably thought to yourself, \u2018I hope the president of the United States is personally involved with overseeing this'\"",
+    "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/jon-stewart-donald-trump-reflecting-pool-renovation-1235582135/",
+    "timestamp": "2026-06-23T06:52:27Z"
+  },
+  {
+    "title": "Israel Assets Plunge on Peace Talks After Years-Long War Rally",
+    "description": "Israel\u2019s stocks and currency have turned to the world\u2019s worst performers this month on concern that a peace agreement with Iran will leave Israel in a weakened position with respect to both its biggest enemies and allies.",
+    "link": "https://financialpost.com/pmn/business-pmn/israel-assets-plunge-on-peace-talks-after-years-long-war-rally",
+    "timestamp": "2026-06-23T06:47:32Z"
+  },
+  {
+    "title": "US waives Iran sanctions as oil prices drop after progress on talks",
+    "description": "\u2018We laid a very good foundation for a successful final deal,\u2019 Vance says",
+    "link": "https://www.irishtimes.com/world/middle-east/2026/06/23/us-waives-iran-sanctions-as-oil-prices-drop-after-progress-on-talks/",
+    "timestamp": "2026-06-23T06:42:57Z"
+  },
+  {
+    "title": "Oil falls 1% as investors focus on Hormuz flows",
+    "description": "Oil prices fell more than 1% today, extending losses from the previous session, on signs of some progress in restoring crude flows through the Strait of Hormuz following US-Iran peace talks.",
+    "link": "https://www.rte.ie/news/business/2026/0623/1579862-world-oil/",
+    "timestamp": "2026-06-23T06:42:38Z"
+  },
+  {
+    "title": "Goyal, US Trade Representative Greer begin talks on trade pact",
+    "description": "Commerce Secretary Rajesh Agrawal and India's Chief Negotiator Darpan Jain, who is also Additional Secretary in the Department of Commerce, are attending the meeting",
+    "link": "https://www.thehindubusinessline.com/economy/goyal-us-trade-representative-greer-begin-talks-on-trade-pact/article71136327.ece",
+    "timestamp": "2026-06-23T06:42:21Z"
+  },
+  {
+    "title": "Trump threatens prison for damage to Washington pool",
+    "description": "US President Donald Trump has threatened jail time for anyone seeking to damage one of his signature renovation projects, the Reflecting Pool at the Lincoln Memorial in Washington.",
+    "link": "https://www.rte.ie/news/us/2026/0623/1579856-pool-trump-us/",
+    "timestamp": "2026-06-23T06:42:13Z"
+  },
+  {
+    "title": "Why Iran\u2019s President Pezeshkian is heading to Pakistan after US-Iran talks",
+    "description": "This is Pezeshkian's first overseas trip since Iran war began, and comes a day after the high-stakes Switzerland talks.",
+    "link": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks",
+    "timestamp": "2026-06-23T06:37:52Z"
+  },
+  {
+    "title": "CNBC Daily Open: Tech-tonic shift or buying opportunity?",
+    "description": "Wall Street returns to trading with a big-cap technology sell-off, triggering broader declines across global markets.",
+    "link": "https://www.cnbc.com/2026/06/23/daily-open-tech-rout-mag7-brexit-anniversary.html",
+    "timestamp": "2026-06-23T06:24:50Z"
+  },
+  {
+    "title": "Jon Stewart Nails Exact Moment Trump 'S**t The Bed' In Panic Move Over Iran",
+    "description": "The \"Daily Show\" host revealed why the move is actually a \"classic Trump deal.\"",
+    "link": "https://www.huffpost.com/entry/jon-stewart-trump-iran-deal_n_6a39ff74e4b058c5d1c202fe",
+    "timestamp": "2026-06-23T06:24:17Z"
+  },
+  {
+    "title": "Iran says Strait of Hormuz \u2018will never return to pre-war conditions\u2019 despite US sanctions relief",
+    "description": "Tehran says it will continue to maintain control of the key Gulf waterway, as Washington pauses some oil-related sanctions during talks aimed at ending the Middle East war\nThe post Iran says Strait of Hormuz \u2018will never return to pre-war conditions\u2019 despite U\u2026",
+    "link": "https://en.protothema.gr/2026/06/23/iran-says-strait-of-hormuz-will-never-return-to-pre-war-conditions-despite-us-sanctions-relief/",
+    "timestamp": "2026-06-23T06:08:03Z"
+  },
+  {
+    "title": "China Intensifies Scrutiny of Indium Exports as AI Chip Demand Surges",
+    "description": "China has begun increasing scrutiny of its exports of indium, a silvery-white metal essential for manufacturing high-speed AI chips, raising concerns that Beijing may impose formal export restrictions similar to those already applied to other critical mineral\u2026",
+    "link": "https://www.naturalnews.com/2026-06-23-china-intensifies-indium-exports-scrutiny-chip-demand.html",
+    "timestamp": "2026-06-23T06:00:00Z"
+  },
+  {
+    "title": "U.S.-Iran MOU marks strategic pivot as Trump administration shifts from military to economic objectives",
+    "description": "President Trump and Iranian President Pezeshkian signed a 14-point memorandum of understanding ending the U.S.-Israeli war with Iran The deal reopens the Strait of Hormuz and lifts sanctions in exchange for Iran diluting its enriched uranium stockpile Retired\u2026",
+    "link": "https://www.naturalnews.com/2026-06-23-trump-administration-shifts-from-military-to-economic-objectives.html",
+    "timestamp": "2026-06-23T06:00:00Z"
+  },
+  {
+    "title": "Acting US Intelligence Chief Launches Mass Layoffs - Report",
+    "description": "MOSCOW (Sputnik) - Mass layoffs have begun at the Office of the Director of National Intelligence (ODNI) after Bill Pulte took over as acting director, CNN reported, citing a source.",
+    "link": "https://sputnikglobe.com/20260623/acting-us-intelligence-chief-launches-mass-layoffs---report-1124345411.html",
+    "timestamp": "2026-06-23T05:58:59Z"
+  },
+  {
+    "title": "Why is the US in Iran?",
+    "description": "\u201cGod created war so that Americans would learn geography.\u201d \u2013 Attributed to various sources. \u201cOne of the delightful things about Americans is that they have absolutely no historical memory.\u201d \u2013 Zhou En-lai (cited by William Blum) There is no irreducible answer \u2026",
+    "link": "https://www.counterpunch.org/2026/06/23/why-is-the-us-in-iran/",
+    "timestamp": "2026-06-23T05:57:58Z"
+  },
+  {
+    "title": "How (And Why) AI is Eroding Democracy in the US",
+    "description": "In the first few weeks of his presidency,\u00a0Donald Trump\u00a0announced a massive AI\u00a0infrastructure\u00a0project dubbed Stargate. It was an unexpected and rather odd event for a new administration\u2019s first major initiative. It now seems obvious that the project was a high\u2026",
+    "link": "https://www.counterpunch.org/2026/06/23/how-and-why-ai-is-eroding-democracy-in-the-us/",
+    "timestamp": "2026-06-23T05:56:42Z"
+  },
+  {
+    "title": "The Strait of Hormuz's future is unsettled even as more ships venture through",
+    "description": "Ship traffic is slowly resuming in the Strait of Hormuz following an interim deal between Iran and the U.S., but lingering questions about tolls and control threaten lasting peace. Despite Iran's recent declaration of closure, maritime data shows continued pa\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/the-strait-of-hormuzs-future-is-unsettled-even-as-more-ships-venture-through/articleshow/131926865.cms",
+    "timestamp": "2026-06-23T05:55:24Z"
+  },
+  {
+    "title": "Pentagon seeks $80 billion from Congress for Iran war",
+    "description": "The Pentagon has told lawmakers it needs roughly $80 billion, mostly to cover the cost of the war in Iran",
+    "link": "https://abcnews.com/US/wireStory/pentagon-seeks-80-billion-congress-iran-war-134116895",
+    "timestamp": "2026-06-23T05:54:59Z"
+  },
+  {
+    "title": "Japan and South Korea: an Alliance of Middle Powers?",
+    "description": "It has long been the dream of the U.S. foreign policy elite to bring Japan and South Korea into a tighter alliance. Notoriously dismissive of history, American leaders don\u2019t understand why the two countries can\u2019t just overcome their past differences. For thes\u2026",
+    "link": "https://www.counterpunch.org/2026/06/23/japan-and-south-korea-an-alliance-of-middle-powers/",
+    "timestamp": "2026-06-23T05:48:31Z"
+  },
+  {
+    "title": "Trump threatens to sue ABC News over 'false reporting' on vandalism at the Reflecting Pool: 'I like their money'",
+    "description": "Trump has threatened to sue ABC News over what he called 'false reporting' on the vandalism claims surrounding his troubled $16million Reflecting Pool makeover.",
+    "link": "https://www.dailymail.com/news/article-15921815/Trump-threatens-sue-ABC-News-false-reporting-Reflecting-Pool.html",
+    "timestamp": "2026-06-23T05:47:17Z"
+  },
+  {
+    "title": "Trump urges Chicago to 'call' him to 'fix' crime rate",
+    "description": "United States President Donald Trump urged Chicago to call him to \"fix\" the crime rate in the city \"fast and permanently.\"\"At least 39 people injured, 4 dead, in Chicago weekend shootings. [Illinois] ...",
+    "link": "https://biztoc.com/x/7fd085ef43416be5",
+    "timestamp": "2026-06-23T05:42:50Z"
+  },
+  {
+    "title": "Palestine weekly wrap: Israel\u2019s \u2018quiet annexation\u2019 grows louder",
+    "description": "Al Jazeera cameraman killed in Gaza, West Bank mosques torched, as Israeli officials describe attempt to expand control.",
+    "link": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder",
+    "timestamp": "2026-06-23T05:40:33Z"
+  },
+  {
+    "title": "Hormuz will never go back to its pre-war status: Iran's Parliament Speaker says Iran will manage the strait",
+    "description": "Mohammad Bagher Ghalibaf asserts international rules will be followed but insists operational control will remain with Iran.",
+    "link": "https://www.thehindubusinessline.com/news/world/hormuz-will-never-go-back-to-its-pre-war-status-irans-parliament-speaker-says-iran-will-manage-the-strait/article71135954.ece",
+    "timestamp": "2026-06-23T05:32:28Z"
+  },
+  {
+    "title": "Cuba makes changes but is it enough?",
+    "description": "US president mused last week that invading Cuba would be an easier military operation than his war against Iran",
+    "link": "https://www.irishtimes.com/world/2026/06/23/cuba-makes-sweeping-changes-to-its-socialism-model-but-are-they-enough-for-trump/",
+    "timestamp": "2026-06-23T05:22:17Z"
+  },
+  {
+    "title": "There\u2019s little to celebrate when the West gets a beating",
+    "description": "Between Trump\u2019s defeat in Iran and European mediocrity, there is little to be cheerful about. Especially while the West demands of Israel \u00a0that it wage a war without war and neutralize its enemies without fighting them. Opinion.",
+    "link": "https://www.israelnationalnews.com/news/429055",
+    "timestamp": "2026-06-23T05:12:25Z"
+  },
+  {
+    "title": "US proposes to slash costs for energy drillers on federal lands",
+    "description": "The moves are \u2060aligned with US President Donald Trump\u2019s goal to reduce regulations for businesses and make it \u200ceasier to invest in production of domestic fossil fuel",
+    "link": "https://www.thehindubusinessline.com/news/world/us-proposes-to-slash-costs-for-energy-drillers-on-federal-lands/article71135995.ece",
+    "timestamp": "2026-06-23T05:12:21Z"
+  },
+  {
+    "title": "From peace talks to Pennsylvania: Trump visiting Mack Truck facility",
+    "description": "President Donald Trump is going to a Mack Truck facility in a battleground district in swing state Pennsylvania, casting attention on the U.S. economy in his first major public event beyond the capital since he signed the Iran war agreement",
+    "link": "https://biztoc.com/x/d07ba568bec600f9",
+    "timestamp": "2026-06-23T05:12:18Z"
+  },
+  {
+    "title": "Honour terms of your visa, US Mission warns Nigerians",
+    "description": "\u2022Restates warning against overstay By Nkiruka Nnorom United States Mission\u00a0 in Nigeria has reminded Nigerian travellers to strictly comply with US immigration laws, saying adherence to visa terms was key to protecting future travel and study opportunities. Th\u2026",
+    "link": "https://www.vanguardngr.com/2026/06/honour-terms-of-your-visa-us-mission-warns-nigerians/",
+    "timestamp": "2026-06-23T05:09:32Z"
+  },
+  {
+    "title": "US temporarily suspends Iran oil sanctions as nuclear inspectors return",
+    "description": "The United States suspended sanctions on Iranian oil on June 22 after Vice President JD Vance said\u00a0Iran\u00a0would allow U.N. nuclear inspectors to return to the country.",
+    "link": "https://www.hurriyetdailynews.com/us-temporarily-suspends-iran-oil-sanctions-as-nuclear-inspectors-return-223584",
+    "timestamp": "2026-06-23T05:03:51Z"
+  },
+  {
+    "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
+    "description": "US President Donald Trump signed executive orders to accelerate development of a powerful quantum computer by 2028 and protect government systems from quantum-powered cyberattacks, bolstering America\u2019s edge in the technology race with China",
+    "link": "https://www.thehindubusinessline.com/news/world/trump-signs-orders-calling-for-powerful-quantum-computer-targeting-2028/article71135907.ece",
+    "timestamp": "2026-06-23T05:02:16Z"
+  },
+  {
+    "title": "Critics Torch 'Sad Grampa' Trump After Unhinged Obama Tirade",
+    "description": "\"When blaming Biden isn\u2019t working, go back and blame the guy before him,\" one critic wrote.",
+    "link": "https://www.huffpost.com/entry/donald-trump-barack-obama-reflecting-pool_n_6a39f708e4b058c5d1c1e382",
+    "timestamp": "2026-06-23T05:00:53Z"
+  },
+  {
+    "title": "Fintan O'Toole: Brexit launched a new era of the politics of \u2018not even wrong\u2019",
+    "description": "Golden age promised by the Vote Leave campaign proved to be 100 per cent pyrite",
+    "link": "https://www.irishtimes.com/opinion/2026/06/23/fintan-otoole-brexit-launched-a-new-era-of-the-politics-of-not-even-wrong/",
+    "timestamp": "2026-06-23T05:00:01Z"
+  },
+  {
+    "title": "South Carolina voters will choose between two Trump-backed governor candidates in Republican runoff",
+    "description": "South Carolina voters are returning to the polls to finalize the Republican nominee for governor in a runoff election",
+    "link": "https://abcnews.com/US/wireStory/south-carolina-voters-choose-trump-backed-governor-candidates-134121075",
+    "timestamp": "2026-06-23T04:59:51Z"
+  },
+  {
+    "title": "South Carolina voters will choose between two Trump-backed governor candidates in Republican runoff",
+    "description": "South Carolina voters are returning to the polls to finalize the Republican nominee for governor in a runoff election",
+    "link": "https://abcnews.com/Politics/wireStory/south-carolina-voters-choose-trump-backed-governor-candidates-134121076",
+    "timestamp": "2026-06-23T04:59:47Z"
+  },
+  {
+    "title": "How Starmer went from Labour Party hero to calling it quits within 2 years",
+    "description": "British Prime Minister Keir Starmer has admitted defeat, resigning less than two years after leading his party to a massive victory in 2024",
+    "link": "https://abcnews.com/International/wireStory/starmer-labour-party-hero-calling-quits-2-years-134120804",
+    "timestamp": "2026-06-23T04:59:40Z"
+  },
+  {
+    "title": "Redrawn US House map in Utah sets up heated Democratic primary in Salt Lake-area district",
+    "description": "Utah Democrats are set to face off in the primary election for a redrawn U.S. House district that could help determine whether the party takes control of the narrowly divided chamber this fall",
+    "link": "https://abcnews.com/US/wireStory/redrawn-us-house-map-utah-sets-heated-democratic-134121072",
+    "timestamp": "2026-06-23T04:59:33Z"
+  },
+  {
+    "title": "Sen. Jim Banks Strikes Remnants of DEI in Pentagon in 2027 Military Budget",
+    "description": "Sen. Jim Banks (R-IN) is working to further reverse the Biden administration's diversity, equity, and inclusion (DEI) practices in the Department of War (DOW) with an amendment to the 2027 National Defense Authorization Act (NDAA), which will soon be up for a\u2026",
+    "link": "https://www.breitbart.com/politics/2026/06/22/jim-banks-strikes-remnants-dei-pentagon-2027-military-budget/",
+    "timestamp": "2026-06-23T04:58:53Z"
+  },
+  {
+    "title": "Trump signs orders for quantum computer, cryptography upgrades",
+    "description": "Donald Trump has signed two quantum-focused executive orders to push US innovation in quantum computing and accelerate federal adoption of post-quantum cryptography.",
+    "link": "https://cointelegraph.com/news/trump-orders-quantum-computing-push-and-post-quantum-cryptography-upgrade",
+    "timestamp": "2026-06-23T04:57:21Z"
+  },
+  {
+    "title": "From peace talks to Pennsylvania: Trump visiting Mack Truck facility",
+    "description": "President Donald Trump is going to a Mack Truck facility in a battleground district in swing state Pennsylvania, casting attention on the U.S. economy in his first major public event beyond the capital since he signed the Iran war agreement",
+    "link": "https://abcnews.com/Business/wireStory/peace-talks-pennsylvania-trump-visiting-mack-truck-facility-134121260",
+    "timestamp": "2026-06-23T04:55:57Z"
+  },
+  {
+    "title": "Joe Rogan left stunned by Donald Trump's dark joke about a UFC White House terrorist attack",
+    "description": "Donald Trump's life was reportedly once again under threat during the UFC spectacular at the White House. However, according to Joe Rogan, the President was not too concerned.",
+    "link": "https://www.dailymail.com/sport/mma/article-15921745/joe-rogan-donald-trump-ufc-terrorist-attack-white-house.html",
+    "timestamp": "2026-06-23T04:54:28Z"
+  },
+  {
+    "title": "From peace talks to Pennsylvania: Trump visiting Mack Truck facility",
+    "description": "President Donald Trump is going to a Mack Truck facility in a battleground district in swing state Pennsylvania, casting attention on the U.S. economy in his first major public event beyond the capital since he signed the Iran war agreement. Trump\u2019s visit Tue\u2026",
+    "link": "https://www.seattlepi.com/news/politics/article/from-peace-talks-to-pennsylvania-trump-visiting-22316235.php",
+    "timestamp": "2026-06-23T04:40:55Z"
+  },
+  {
+    "title": "ASX 200 Slips Again as Trump's Iran Threats and WiseTech Scandal Weigh on Sentiment",
+    "description": "The ASX 200 fell 0.19% amid U.S.-Iran tensions and WiseTech Global's scandal, with investors cautious ahead of key inflation data. Mixed sector performance and oil price volatility added to market uncertainty.",
+    "link": "https://www.ibtimes.com.au/asx-200-dips-us-iran-tensions-wisetech-scandal-1871118",
+    "timestamp": "2026-06-23T04:36:43Z"
+  },
+  {
+    "title": "Poll: 67% of Americans Support U.S.-Iran Peace Deal",
+    "description": "The majority of Americans are in favor of the deal between the U.S. and Iran, according to poll results shared by President Donald Trump.\nThe post Poll: 67% of Americans Support U.S.-Iran Peace Deal appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/middle-east/2026/06/22/poll-67-americans-support-u-s-iran-peace-deal/",
+    "timestamp": "2026-06-23T04:32:37Z"
+  },
+  {
+    "title": "From peace talks to Pennsylvania: Trump visiting Mack Truck facility",
+    "description": "President Donald Trump is going to a Mack Truck facility in a battleground district in swing state Pennsylvania Tuesday, shifting attention to the U.S. economy in his first major public event beyond the capital since he signed an interim agreement to end the \u2026",
+    "link": "https://biztoc.com/x/08b0aea4f8e2648a",
+    "timestamp": "2026-06-23T04:29:02Z"
+  },
+  {
+    "title": "US: Trump threatens prison for Reflecting Pool 'vandalism'",
+    "description": "The Trump administration spent $14.7 million repainting the pool \"American flag blue\" ahead of US' 250th anniversary celebrations. Weeks later, the paint is peeling off and algae has turned the water green. US President Donald Trump threatened a \"10 year pris\u2026",
+    "link": "https://www.dw.com/en/us-trump-threatens-prison-for-reflecting-pool-vandalism/a-77666251",
+    "timestamp": "2026-06-23T04:28:00Z"
+  },
+  {
     "title": "Trump takes center stage as rival groups vie to shape America\u2019s 250th",
     "description": "The Smithsonian's National Museum of American History highlights the complexities of the American story",
     "link": "https://www.wsbradio.com/entertainment/trump-is-frontman/PVW5EFO64YYVVKAEXOVBDNR2TM/",
@@ -220,341 +550,5 @@
     "description": "Top Republican Mitch McConnell, 84, Ignores Health Crisis in New Statementthedailybeast.com",
     "link": "https://www.thedailybeast.com/top-republican-mitch-mcconnell-84-ignores-health-crisis-in-new-statement/",
     "timestamp": "2026-06-23T02:10:01Z"
-  },
-  {
-    "title": "Warren: No Reasonable Person Could Vote for Blanche to Be Attorney General",
-    "description": "Monday on MS NOW's \"All In,\" Sen. Elizabeth Warren (D-MA) claimed no reasonable person could vote for Todd Blanche to be Attorney General.\nThe post Warren: No Reasonable Person Could Vote for Blanche to Be Attorney General appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/clips/2026/06/22/warren-no-reasonable-person-could-vote-for-blanche-to-be-attorney-general/",
-    "timestamp": "2026-06-23T02:03:57Z"
-  },
-  {
-    "title": "White House set to host weapons makers as US defence stockpile worry grows",
-    "description": "The White House is convening defense contractors this week to ramp up munitions production, as stockpiles are strained by the ongoing conflict with Iran. President Trump confirmed the meeting, highlighting efforts to boost weapon manufacturing, including by a\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/white-house-set-to-host-weapons-makers-as-us-defence-stockpile-worry-grows/articleshow/131922843.cms",
-    "timestamp": "2026-06-23T02:02:02Z"
-  },
-  {
-    "title": "Trump spent a decade making friends in Europe. Now they\u2019re turning away.",
-    "description": "From Italy to France, nationalist leaders are reassessing their ties with the U.S. president as his brand sours across the EU.",
-    "link": "https://www.politico.eu/article/donald-trump-giorgia-meloni-jordan-bardella-europe-turning-away/",
-    "timestamp": "2026-06-23T02:02:00Z"
-  },
-  {
-    "title": "Trump says preparing lawsuit against ABC over reflecting pool coverage",
-    "description": "Alphabet weighs on S&P 500 and Nasdaq while Dow ekes out gain in mixed session\nInvesting.com-- U.S. President Donald Trump said on Monday evening he is planning to sue the ABC over allegedly false reporting on his administration\u2019s handling of the Lincoln Memo\u2026",
-    "link": "https://biztoc.com/x/c66b8c234bf843ee",
-    "timestamp": "2026-06-23T01:55:47Z"
-  },
-  {
-    "title": "'Boy, was I wrong': Embarrassed conservative admits CNN was right about Trump's deal",
-    "description": "An embarrassed conservative columnist admitted that CNN had accurately reported on the details of President Donald Trump's proposed deal with the Iranian regime, even though the columnist refused to believe it. Becket Adams, a conservative columnist for The H\u2026",
-    "link": "https://www.rawstory.com/trump-iran-2677078518/",
-    "timestamp": "2026-06-23T01:55:46Z"
-  },
-  {
-    "title": "US-mediated Israel-Lebanon talks to feature dual military and political tracks",
-    "description": "The US will host a new round of political and military talks between Israel and Lebanon on Tuesday, aiming to secure a comprehensive peace agreement.",
-    "link": "https://www.israelnationalnews.com/news/429044",
-    "timestamp": "2026-06-23T01:51:16Z"
-  },
-  {
-    "title": "Starmer leaves No. 10 without ever managing to explain what he stood for",
-    "description": "Keir Starmer's premiership ended abruptly, overshadowed by Donald Trump's pronouncements. Despite a significant election victory, Starmer struggled with economic challenges and the rise of Nigel Farage's Reform UK. Key policy missteps on public services and t\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/starmer-leaves-no-10-without-ever-managing-to-explain-what-he-stood-for/articleshow/131922842.cms",
-    "timestamp": "2026-06-23T01:50:07Z"
-  },
-  {
-    "title": "Newest Trump Excuse For Reflecting Pool Disaster Is By Far His Wildest Yet",
-    "description": "Is he claiming someone cut the paint off the bottom of the pool?",
-    "link": "https://www.huffpost.com/entry/donald-trump-reflecting-pool-vandalism_n_6a39b5a0e4b058c5d1c1c12b",
-    "timestamp": "2026-06-23T01:50:00Z"
-  },
-  {
-    "title": "'Clear admission' Trump DOJ broke rules to help Ghislaine Maxwell uncovered by expert",
-    "description": "A legal expert claimed to have uncovered a \"clear admission\" by President Donald Trump's Department of Justice that it broke the rules to help convicted sex criminal Ghislaine Maxwell get into a minimum security prison. Liz Oyer, a former Obama administration\u2026",
-    "link": "https://www.rawstory.com/trump-epstein-2677078514/",
-    "timestamp": "2026-06-23T01:48:48Z"
-  },
-  {
-    "title": "Pentagon seeks $80 billion from Congress for Iran war",
-    "description": "The Pentagon has told senators it needs roughly $80 billion, mostly to cover the cost of the U.S. war against Iran, adding to what is already a sizable military spending boost being sought by President Donald Trump. The White House Office of Management and Bu\u2026",
-    "link": "https://japantoday.com/category/world/pentagon-seeks-80-billion-from-congress-for-iran-war",
-    "timestamp": "2026-06-23T01:46:08Z"
-  },
-  {
-    "title": "\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u304c\u91cf\u5b50\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u958b\u767a\u3092\u52a0\u901f\u3055\u305b\u308b2\u3064\u306e\u5927\u7d71\u9818\u4ee4\u306b\u7f72\u540d",
-    "description": "by Gage Skidmore\u30c9\u30ca\u30eb\u30c9\u30fb\u30c8\u30e9\u30f3\u30d7\u5927\u7d71\u9818\u304c\u3001\u91cf\u5b50\u30b3\u30f3\u30d4\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u7814\u7a76\u306e\u63a8\u9032\u3068\u3001\u300c\u30dd\u30b9\u30c8\u91cf\u5b50\u6697\u53f7\u300d\u306b\u5099\u3048\u305f\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u5bfe\u7b56\u306e\u5f37\u5316\u3092\u76ee\u7684\u3068\u3059\u308b2\u4ef6\u306e\u5927\u7d71\u9818\u4ee4\u306b\u7f72\u540d\u3057\u307e\u3057\u305f\u3002Ushering in the Next Frontier of Quantum Innovation - The White Househttps://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-\u2026",
-    "link": "https://news.livedoor.com/article/detail/31628354/",
-    "timestamp": "2026-06-23T01:46:00Z"
-  },
-  {
-    "title": "Tucker Carlson Rails Against \u2018Treasonous\u2019 and \u2018Immoral\u2019 Trump Administration in Fiery Exit From GOP | Video",
-    "description": "\u201cYou can't have a government that calls itself a Democratic Republic \u2026 that is representing interests outside the country,\u201d the conservative commentator adds\nThe post Tucker Carlson Rails Against \u2018Treasonous\u2019 and \u2018Immoral\u2019 Trump Administration in Fiery Exit F\u2026",
-    "link": "https://www.thewrap.com/media-platforms/politics/tucker-carlson-slams-trump-administration-exits-gop-video/",
-    "timestamp": "2026-06-23T01:45:31Z"
-  },
-  {
-    "title": "Trump threatens ABC with lawsuit",
-    "description": "United States President Donald Trump wrote on Truth Social that he is preparing to sue ABC News over its coverage of the Lincoln Memorial Reflecting Pool.He argued that ABC \"failed to report\" that the...",
-    "link": "https://biztoc.com/x/afa76863a8de0480",
-    "timestamp": "2026-06-23T01:40:51Z"
-  },
-  {
-    "title": "Trump signs executive orders to 'supercharge' quantum computing",
-    "description": "Quantum computing can boost capacity beyond that of a typical computer.",
-    "link": "https://abcnews.com/Technology/trump-signs-executive-orders-supercharge-quantum-computing/story?id=134104456",
-    "timestamp": "2026-06-23T01:39:54Z"
-  },
-  {
-    "title": "US: Trump signs new executive orders to boost quantum computing",
-    "description": "US President Donald Trump signed two executive orders to boost quantum research and strengthen security infrastructure to safeguard data in a post-quantum world. US President Donald Trump on Monday signed a pair of executive orders to boost quantum computing \u2026",
-    "link": "https://www.dw.com/en/us-trump-signs-new-executive-orders-to-boost-quantum-computing/a-77665653",
-    "timestamp": "2026-06-23T01:39:00Z"
-  },
-  {
-    "title": "Rachel Maddow can barely contain herself as she ticks off Trump's string of losses",
-    "description": "MS NOW host Rachel Maddow opened her show Monday night with high spirits, gleefully telling viewers she had roughly 10 good-news stories to deliver in a row, a rarity for the program, as legal and political setbacks piled onto President Donald Trump in a sing\u2026",
-    "link": "https://www.rawstory.com/rachel-maddow-2677078526/",
-    "timestamp": "2026-06-23T01:38:26Z"
-  },
-  {
-    "title": "'I will do what I have to do' if Iran does not stick to deal: Trump",
-    "description": "President Trump warned Iran of unspecified actions if it fails to uphold its agreement with Washington, particularly regarding the use of unfrozen funds. Trump stated the money is intended for U.S. agricultural purchases to feed Iran's population. However, Ir\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/i-will-do-what-i-have-to-do-if-iran-does-not-stick-to-deal-trump/articleshow/131922797.cms",
-    "timestamp": "2026-06-23T01:37:36Z"
-  },
-  {
-    "title": "Elon Musk and the plot to hijack America\u2019s broadband",
-    "description": "At 9PM ET on the night of May 28th, a Blue Origin New Glenn rocket sat on the launchpad at the Cape Canaveral Space Force Station. The craft was in the middle of a hot-fire test awaiting the arrival of Amazon Leo satellites, the first of 24 batches to be shut\u2026",
-    "link": "https://www.theverge.com/policy/953944/bead-broadband-funding-trump-musk-bezos",
-    "timestamp": "2026-06-23T01:35:23Z"
-  },
-  {
-    "title": "Ruben Gallego swings through deep-red Trump counties during desperate plot as voters sound off on ex-bestie's sex scandals",
-    "description": "South Carolina voters weigh in on whether they have concerns about Ruben Gallego's ties to two of his longtime colleagues who have been accused of sexual misconduct.",
-    "link": "https://www.dailymail.com/news/article-15916413/Democrat-Ruben-Gallego-Eric-Swalwell-scandal.html",
-    "timestamp": "2026-06-23T01:32:34Z"
-  },
-  {
-    "title": "Trump signs two executive orders to accelerate arrival of powerful quantum computers",
-    "description": "U.S. President Donald Trump is pushing for the acceleration of the nascent quantum computing industry, signing a pair of executive orders today that aim to speed up the technology\u2019s development and simultaneously mitigate any security concerns around them. Th\u2026",
-    "link": "https://siliconangle.com/2026/06/22/trump-signs-two-executive-orders-accelerate-arrival-powerful-quantum-computers/",
-    "timestamp": "2026-06-23T01:29:21Z"
-  },
-  {
-    "title": "Pentagon seeks $80 billion from Congress for Iran war",
-    "description": "The Pentagon is seeking an additional $80 billion, primarily for the ongoing conflict with Iran, adding to President Trump's substantial defense spending proposals. This request faces skepticism from lawmakers concerned about the war's justification and the h\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/pentagon-seeks-80-billion-from-congress-for-iran-war/articleshow/131922762.cms",
-    "timestamp": "2026-06-23T01:27:13Z"
-  },
-  {
-    "title": "China Sanctions 10 US Firms Over Pentagon Blacklist",
-    "description": "The 10 entities include Aveox, which holds aerospace defence contracts with the US military, and Oshkosh Defence, which produces military vehicle fleets.",
-    "link": "https://www.etvbharat.com/en/business/china-imposes-export-controls-on-several-us-companies-govt-enn26062200628",
-    "timestamp": "2026-06-23T01:20:25Z"
-  },
-  {
-    "title": "U.S. Court Dismisses Trump Admin Lawsuit Over Los Angeles Immigration Policy",
-    "description": "U.S. District Judge Fernando Olguin rejected the administration's argument that the city's policy was unconstitutional.",
-    "link": "https://www.huffpost.com/entry/us-court-dismiss-trump-lawsuit-los-angeles-immigration_n_6a39de39e4b0488a51ad3b0e",
-    "timestamp": "2026-06-23T01:18:31Z"
-  },
-  {
-    "title": "Trump's acting director of national intelligence begins firings at agency: Sources",
-    "description": "President Donald Trump's acting Director of National Intelligence has begun firing people at the agency, sources familiar with the matter told ABC News.",
-    "link": "https://abcnews.com/Politics/trumps-acting-director-national-intelligence-bill-pulte-begins/story?id=134115343",
-    "timestamp": "2026-06-23T01:17:47Z"
-  },
-  {
-    "title": "US court dismisses Trump administration lawsuit over Los Angeles immigration policy",
-    "description": "By Blake Brittain June 22 (Reuters) - A California court has dismissed a lawsuit filed by President Donald Trump's administration against Los Angeles over a...",
-    "link": "https://www.yahoo.com/news/politics/articles/us-court-dismisses-trump-administration-010657859.html",
-    "timestamp": "2026-06-23T01:06:57Z"
-  },
-  {
-    "title": "Judge Blocks Subpoena of Minnesota Gov. Tim Walz, Minnesota Democrats",
-    "description": "A federal judge blocked Department of Justice (DOJ) subpoenas of Minnesota Gov. Tim Walz (D) and other Democrats in the state, which the DOJ had issued to investigate the link between Somali corruption and local politics.\nThe post Judge Blocks Subpoena of Min\u2026",
-    "link": "https://www.breitbart.com/immigration/2026/06/22/judge-blocks-subpoena-minnesota-gov-tim-walz-minnesota-democrats/",
-    "timestamp": "2026-06-23T01:04:42Z"
-  },
-  {
-    "title": "Pauline Hanson clarifies she will not seek to cut paid parental leave",
-    "description": "Pauline Hanson has clarified she would not seek to cut government-funded paid parental leave if One Nation were in power, after opening the door to a wind-back at her National Press Club address last week.",
-    "link": "https://www.abc.net.au/news/2026-06-23/pauline-hanson-paid-parental-leave-support/106815018",
-    "timestamp": "2026-06-23T00:57:27Z"
-  },
-  {
-    "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing",
-    "description": "Oil rises slightly early Tuesday as investors continue to assess the latest developments in the Middle East, while showing optimism the conflict may end soon.",
-    "link": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
-    "timestamp": "2026-06-23T00:49:10Z"
-  },
-  {
-    "title": "Trump and the Supreme Court face an unprecedented clash: expert",
-    "description": "President Donald Trump faces an unprecedented constitutional crisis as the Supreme Court, including justices he appointed, prepares to rule against him on multiple key priorities. Legal expert Jeffrey Fisher told The Washington Post the conflict mirrors nothi\u2026",
-    "link": "https://www.rawstory.com/supreme-court-2677077357/",
-    "timestamp": "2026-06-23T00:45:01Z"
-  },
-  {
-    "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
-    "description": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a lchallenge over voting irregularities.",
-    "link": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
-    "timestamp": "2026-06-23T00:42:07Z"
-  },
-  {
-    "title": "Photos Show Trump Name Gone from Kennedy Center",
-    "description": "\u201cNew photos show that President Donald Trump\u2019s name is indeed off the Kennedy Center, offering the first public look at the performing arts venue\u2019s facade since crews removed the letters by court order,\u201d the Washington Post reports. ABC News: Kennedy Center b\u2026",
-    "link": "https://politicalwire.com/2026/06/22/photos-show-trump-name-gone-from-kennedy-center/",
-    "timestamp": "2026-06-23T00:42:00Z"
-  },
-  {
-    "title": "Former IRS officials call for judge to scrutinize Trump's immunity from audits",
-    "description": "A group of former officials with the Internal Revenue Service and the Department of Justice is asking a federal judge to scrutinize a controversial deal that granted President Donald Trump and his family sweeping immunity from past tax audits.\nThey alleged th\u2026",
-    "link": "https://biztoc.com/x/64fe45dd63886aba",
-    "timestamp": "2026-06-23T00:41:01Z"
-  },
-  {
-    "title": "Trump signs orders calling for powerful quantum computer, targeting 2028",
-    "description": "President Trump has launched a major initiative to accelerate the development of powerful quantum computers and bolster cybersecurity against future threats. The US aims to have key government systems protected by post-quantum cryptography by 2030-2031, while\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-signs-orders-calling-for-powerful-quantum-computer-targeting-2028/articleshow/131922592.cms",
-    "timestamp": "2026-06-23T00:40:24Z"
-  },
-  {
-    "title": "Senate Republicans say it\u2019s time to give Trump a reality check",
-    "description": "Donald Trump is about to come face to face with one of his frequent punching bags: Senate Republicans. \nThey might just be in a mood to punch back. \nThe president was invited to GOP senators\u2019 Wednesday lunch to push for his No. 1 priority, the GOP election bi\u2026",
-    "link": "https://biztoc.com/x/aac083fb6e721440",
-    "timestamp": "2026-06-23T00:39:58Z"
-  },
-  {
-    "title": "Trump Threatened 10 Years in Prison for Vandalizing Reflecting Pool, But Protester Who Spray-Painted Lincoln Memorial Got Zero Jail Time",
-    "description": "President Donald Trump's DOJ prosecutors have handed out far more lenient sentences for vandalism than the 10-years in prison he keeps threatening.\nThe post Trump Threatened 10 Years in Prison for Vandalizing Reflecting Pool, But Protester Who Spray-Painted L\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-threatened-10-years-in-prison-for-vandalizing-reflecting-pool-but-protester-who-spray-painted-lincoln-memorial-got-zero-jail-time/",
-    "timestamp": "2026-06-23T00:39:44Z"
-  },
-  {
-    "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
-    "description": "Oil prices saw a slight rebound Tuesday, recovering from Monday's sharp decline. This uptick follows tempered optimism surrounding U.S.-Iran peace talks and a potential easing of tensions in the Strait of Hormuz. Investors are cautiously awaiting concrete sig\u2026",
-    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-gains-after-selloff-awaits-progress-on-strait-of-hormuz-flows/articleshow/131922600.cms",
-    "timestamp": "2026-06-23T00:39:41Z"
-  },
-  {
-    "title": "Former US Federal Reserve chair Alan Greenspan dies aged 100",
-    "description": "The wife of the former federal reserve chair says he died from complications of Parkinson's disease.",
-    "link": "https://www.abc.net.au/news/2026-06-23/alan-greenspan-dies-aged-100/106830380",
-    "timestamp": "2026-06-23T00:39:01Z"
-  },
-  {
-    "title": "Trump Says He\u2019s \u2018Preparing Lawsuits Against ABC for False Reporting\u2019",
-    "description": "President Donald Trump said his administration is about to sue ABC over its reporting on the Lincoln Memorial Reflecting Pool.\nThe post Trump Says He\u2019s \u2018Preparing Lawsuits Against ABC for False Reporting\u2019 first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/politics/trump/trump-says-hes-preparing-lawsuits-against-abc-for-false-reporting/",
-    "timestamp": "2026-06-23T00:37:40Z"
-  },
-  {
-    "title": "Oil gains after selloff, awaits progress on Strait of Hormuz flows",
-    "description": "June 23 : Oil prices rebounded on Tuesday after a sharp fall the previous session supported by tempered optimism over U.S.-Iran peace talks, while investors awaited clearer signs of progress in restoring crude flows through the Strait of Hormuz.Brent crude fu\u2026",
-    "link": "https://www.channelnewsasia.com/business/oil-gains-after-selloff-awaits-progress-strait-hormuz-flows-6202266",
-    "timestamp": "2026-06-23T00:35:27Z"
-  },
-  {
-    "title": "'A huge grab of power': Trump is defying Congress on foreign aid",
-    "description": "Experts say administration officials have largely refused to follow many Congressional orders, likely in violation of the law.",
-    "link": "https://www.propublica.org/article/trump-defying-congress-foreign-aid-usaid-vought-rubio-constitutional-crisis",
-    "timestamp": "2026-06-23T00:35:07Z"
-  },
-  {
-    "title": "Oil inches down as investors focus on Hormuz flows after peace talks",
-    "description": "June 23 : Oil prices inched down on Tuesday, extending losses from the previous session, as investors looked for clearer signs of progress in restoring crude flows through the Strait of Hormuz following U.S.-Iran peace talks.Brent crude futures fell 20 cents,\u2026",
-    "link": "https://www.channelnewsasia.com/business/oil-inches-down-investors-focus-hormuz-flows-after-peace-talks-6202266",
-    "timestamp": "2026-06-23T00:35:00Z"
-  },
-  {
-    "title": "Pentagon seeks $80 billion from Congress for Iran war",
-    "description": "The Pentagon has told senators it needs roughly $80 billion, mostly to cover the cost of the U.S. war against Iran, adding to what is already a sizable military spending boost being sought by President Donald Trump.\nThe White House Office of Management and Bu\u2026",
-    "link": "https://biztoc.com/x/37e2ebf23c312848",
-    "timestamp": "2026-06-23T00:26:06Z"
-  },
-  {
-    "title": "Former IRS officials call for judge to scrutinize Trump's immunity from audits",
-    "description": "A group of former IRS officials is asking a federal judge to scrutinize a controversial deal that granted President Trump sweeping immunity from past tax audits.",
-    "link": "https://abcnews.com/Politics/former-irs-officials-call-judge-scrutinize-trumps-breathtakingly/story?id=134109449",
-    "timestamp": "2026-06-23T00:21:20Z"
-  },
-  {
-    "title": "Judge Blocks Trump\u2019s Use of Revamped Immigration Database for Voter Checks",
-    "description": "A federal judge on Monday blocked the Trump administration from using a revamped version of an immigration database for checking the accuracy of state voter rolls, dealing a blow to U.S. President Donald Trump\u2019s efforts to boost the role of the federal govern\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4384983/posts",
-    "timestamp": "2026-06-23T00:21:10Z"
-  },
-  {
-    "title": "Trump threatens prison for damage to Washington Reflecting Pool",
-    "description": "US President Donald Trump threatened jail time for anyone seeking to damage one of his signature renovation projects.\nThe post Trump threatens prison for damage to Washington Reflecting Pool appeared first on Digital Journal.",
-    "link": "https://www.digitaljournal.com/article/trump-threatens-prison-for-damage-to-washington-reflecting-pool/",
-    "timestamp": "2026-06-23T00:20:13Z"
-  },
-  {
-    "title": "DEA \u2018sat back and watched\u2019 as fentanyl flooded New Mexico \u2013 AP",
-    "description": "The DEA knowingly let hundreds of thousands of fentanyl pills reach New Mexico streets to build cases against major drug traffickers, AP reports",
-    "link": "https://www.rt.com/news/641974-fentanyl-dea-flood-new-mexico-ap/",
-    "timestamp": "2026-06-23T00:17:58Z"
-  },
-  {
-    "title": "ANDREW NEIL: The radical reforms of Blair and Thatcher are impossible now. That's why, with seven PMs in a decade, even the Italians are laughing at us",
-    "description": "How we used to chuckle with such a superior smirk at Italy's chaotic politics, as governments changed with such rapidity it was barely worthwhile learning the latest Italian prime minister's name",
-    "link": "https://www.dailymail.com/columnists/article-15920339/seven-PMs-one-decade-Italians-laughingANDREW-NEIL.html",
-    "timestamp": "2026-06-23T00:12:38Z"
-  },
-  {
-    "title": "US official says JD Vance made 'great progress' in Iran talks, calls snub reports 'foreign propaganda'",
-    "description": "U.S. official says VP JD Vance made great progress in U.S.-Iran peace talks in Switzerland, calling snub reports foreign propaganda from Iran media.",
-    "link": "https://www.foxnews.com/politics/us-official-says-jd-vance-made-great-progress-iran-talks-calls-snub-reports-foreign-propaganda",
-    "timestamp": "2026-06-23T00:12:03Z"
-  },
-  {
-    "title": "Trump Claims 'Vandals' Damaged Reflecting Pool",
-    "description": "President Donald Trump says vandals caused the algae blooms and peeling paint at the Lincoln Memorial reflecting pool. #trump #politics #worldnews #usa \n----------\nLike this video? Subscribe \nBloomberg News is the first word in business news. Visit bloomberg.\u2026",
-    "link": "https://biztoc.com/x/241d38cf1de76b37",
-    "timestamp": "2026-06-23T00:09:09Z"
-  },
-  {
-    "title": "Chaos engulfs Trump loyalist's group as even right-wing 'kook heaven' abandons him: report",
-    "description": "Retired Gen. Michael Flynn's conservative nonprofit America's Future is engulfed in chaos as a wave of prominent figures abruptly quit its anti-trafficking arm and offered only cryptic clues about what tore the group apart, according to reporting by The Bulwa\u2026",
-    "link": "https://www.rawstory.com/mike-flynn-2677078232/",
-    "timestamp": "2026-06-23T00:08:42Z"
-  },
-  {
-    "title": "WATCH: Palm Beach's airport to be renamed President Donald J. Trump International Airport",
-    "description": "The change comes after Florida Gov. Ron DeSantis signed a renaming bill back in March, and will go into effect on July 9.",
-    "link": "https://abcnews.com/video/134113867/",
-    "timestamp": "2026-06-23T00:02:52Z"
-  },
-  {
-    "title": "Tucker Carlson says he'll no longer support the Republican Party",
-    "description": "Longtime conservative commentator Tucker Carlson said on a podcast that \u201cthere's no chance I would support the Republican Party&quot; ahead of the November midterm elections, dismissing the political affiliation he's defended as a pundit for decades, includin\u2026",
-    "link": "https://japantoday.com/category/entertainment/tucker-carlson-says-he%27ll-no-longer-support-the-republican-party",
-    "timestamp": "2026-06-23T00:01:20Z"
-  },
-  {
-    "title": "Judge Rejects DOJ Subpoenas Against Tim Walz, Minnesota Officials",
-    "description": "\"Initiating a criminal investigation in order to harass political opponents or to coerce them into taking official action-particularly official action that the federal government cannot directly require those political opponents to take-is a blatantly unlawfu\u2026",
-    "link": "https://legalinsurrection.com/2026/06/judge-rejects-doj-subpoenas-against-tim-walz-minnesota-officials/",
-    "timestamp": "2026-06-23T00:00:33Z"
-  },
-  {
-    "title": "WATCH: Sparks fly over Oklahoma neighborhood after fireworks stand catches fire",
-    "description": "There\u2019s no word on what sparked the fire, but no injuries were reported.",
-    "link": "https://abcnews.com/video/134113912/",
-    "timestamp": "2026-06-23T00:00:29Z"
-  },
-  {
-    "title": "Europe as science superpower: what it will take to rival the US and China",
-    "description": "Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven \u2014 but questions about funding and innovation remain.",
-    "link": "https://www.nature.com/articles/d41586-026-01955-1",
-    "timestamp": "2026-06-23T00:00:00Z"
-  },
-  {
-    "title": "Beware Of Washington D.C.\u2019s Presumptive Mayor, Social Democrat Janeese Lewis George",
-    "description": "She\u2019s not a sewer socialist ala Mamdani in New York City.",
-    "link": "https://paulepeterson.substack.com/p/beware-of-washington-dcs-presumptive",
-    "timestamp": "2026-06-23T00:00:00Z"
   }
 ]
