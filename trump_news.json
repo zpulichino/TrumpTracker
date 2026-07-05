@@ -1,5 +1,299 @@
 [
   {
+    "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+    "description": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+    "timestamp": "2026-07-04T05:04:16Z"
+  },
+  {
+    "title": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
+    "description": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
+    "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+    "timestamp": "2026-07-04T05:00:01Z"
+  },
+  {
+    "title": "Guided by voices, Big Jim O\u2019Callaghan told the angry solicitors \u2018crime doesn\u2019t pay\u2019",
+    "description": "Ceann Comhairle reverts to B\u00e9arla for SF TDs, Zelenskiy\u2019s joke opens the Euro Lingo Bingo, laptop Lawless comes down on data centres",
+    "link": "https://www.irishtimes.com/politics/2026/07/04/guided-by-voices-big-jim-ocallaghan-told-the-angry-solicitors-crime-doesnt-pay/",
+    "timestamp": "2026-07-04T05:00:00Z"
+  },
+  {
+    "title": "Dropkick Murphys on Trump, The Pogues and Irish Americans",
+    "description": "Dropkick Murphys front man Ken Casey has said his band chose to cover The Pogues' song The Body of American on the upcoming Shane MacGowan tribute album as a wake-up call to Irish Americans.",
+    "link": "https://www.rte.ie/entertainment/2026/0704/1581135-dropkick-murphys-on-trump-the-pogues-and-irish-americans/",
+    "timestamp": "2026-07-04T05:00:00Z"
+  },
+  {
+    "title": "Irish authorities planning for Donald Trump visit in September",
+    "description": "US president expected to visit Doonbeg golf course in Co Clare and possibly play in pro-am event on day before Irish Open",
+    "link": "https://www.irishtimes.com/politics/2026/07/04/irish-authorities-planning-for-donald-trump-visit-in-september/",
+    "timestamp": "2026-07-04T05:00:00Z"
+  },
+  {
+    "title": "The Irish contribution to US independence was downplayed by white Anglo-Saxon Protestants",
+    "description": "The story of the American Revolution was mostly written by White Anglo-Saxon Protestants, who downplayed the role of  Scots-Irish and Irish",
+    "link": "https://www.irishtimes.com/life-style/people/2026/07/04/the-irish-contribution-to-us-independence-was-downplayed-by-white-anglo-saxon-protestants/",
+    "timestamp": "2026-07-04T05:00:00Z"
+  },
+  {
+    "title": "Trump's Complaint About 'Thieves, Radicals And Lunatics' Gets Thrown Right Back At Him",
+    "description": "The president's comments were a little too \"on the nose\" given his massive windfall since returning to the White House.",
+    "link": "https://www.huffpost.com/entry/trump-pillage-loot_n_6a487867e4b03060a8508399",
+    "timestamp": "2026-07-04T04:56:13Z"
+  },
+  {
+    "title": "Trump calls communism a \u2018mortal threat\u2019 at US 250th birthday event",
+    "description": "Trump calls communism a \u2018mortal threat\u2019 at US 250th birthday event.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event",
+    "timestamp": "2026-07-04T04:54:40Z"
+  },
+  {
+    "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
+    "description": "Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
+    "timestamp": "2026-07-04T04:50:17Z"
+  },
+  {
+    "title": "Trump hails US exceptionalism before veering into darkly political speech to usher in America 250",
+    "description": "President Donald Trump has ushered in the 250th anniversary of American independence with soaring rhetoric about American exceptionalism before veering into a darkly political speech with warnings about communism. Trump's speech Friday night at Mount Rushmore\u2026",
+    "link": "https://apnews.com/article/america-250-celebrations-heatwave-trump-9d84acb8bd36837b2f21fab9e1808fc0",
+    "timestamp": "2026-07-04T04:42:00Z"
+  },
+  {
+    "title": "Trump hails America as 'most exceptional nation ever to exist' in Mount Rushmore speech",
+    "description": "President Trump declared communism the greatest threat facing the USA and vowed the country would never become a communist nation in his Mount Rushmore speech.",
+    "link": "https://www.foxnews.com/politics/trump-hails-america-most-exceptional-nation-ever-exist-mount-rushmore-speech",
+    "timestamp": "2026-07-04T04:38:13Z"
+  },
+  {
+    "title": "Fireworks, flyovers and a 'really long' Trump speech as US celebrates 250th",
+    "description": "The celebrations in the US capital will feature 850,000 fireworks, a \"really long\" speech from the president and scorching temperatures.",
+    "link": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po",
+    "timestamp": "2026-07-04T04:31:13Z"
+  },
+  {
+    "title": "Washington DC forced to CANCEL their 4th of July parade as a blistering heat wave threatens millions across America",
+    "description": "An extreme heat warning was issued by the National Weather Service (NWS) for parts of Washington DC and surrounding areas from 10am Friday through 9pm Saturday.",
+    "link": "https://www.dailymail.com/news/article-15952349/washington-dc-fourth-july-parade-cancel-heat-wave.html",
+    "timestamp": "2026-07-04T04:29:19Z"
+  },
+  {
+    "title": "Netanyahu, Trump agree to meet in US 'soon' during phone call",
+    "description": "Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump agreed to meet in the United States in the near future during a phone conversation on Friday, according to a report by the Times of Israel, citing a statement from the Israeli Prime Minis\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-trump-agree-to-meet-in-us-soon-during-phone-call/articleshow/132174702.cms",
+    "timestamp": "2026-07-04T04:27:08Z"
+  },
+  {
+    "title": "Trump Vows Republicans \u2018Will Not Lose an Election for A Hundred Years\u2019",
+    "description": "President Donald Trump said on Friday night that Republicans will not lose elections for 100 years if Congress passes the SAVE America Act.\nThe post Trump Vows Republicans \u2018Will Not Lose an Election for A Hundred Years\u2019\u00a0 first appeared on Mediaite.",
+    "link": "https://www.mediaite.com/media/tv/trump-vows-republicans-will-not-lose-an-election-for-a-hundred-years/",
+    "timestamp": "2026-07-04T04:23:27Z"
+  },
+  {
+    "title": "'Communism a mortal threat to American liberty': Trump at landmark US 250 event",
+    "description": "President Trump declared Communism the gravest threat to American liberty, equating it to a mortal danger surpassing historical conflicts. Speaking at Mount Rushmore, he asserted that embracing Communist ideology, particularly from newcomers, undermines the n\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/communism-a-mortal-threat-to-american-liberty-trump-at-us-250-event/articleshow/132174545.cms",
+    "timestamp": "2026-07-04T04:16:23Z"
+  },
+  {
+    "title": "Khamenei funeral procession to visit 5 cities in Iran and Iraq amid tensions",
+    "description": "The procession underscores Iran's strategic bid to solidify Shia influence, potentially affecting regional stability and power dynamics.\nThe post Khamenei funeral procession to visit 5 cities in Iran and Iraq amid tensions appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/khamenei-funeral-procession-to-visit-5-cities-in-iran-and-iraq-amid-tensions/",
+    "timestamp": "2026-07-04T04:14:31Z"
+  },
+  {
+    "title": "Trump pardons former Abramoff partner, 9 people convicted of violating vehicle emissions controls",
+    "description": "Trump pardons former Abramoff partner, 9 people convicted of violating vehicle emissions controls\nWASHINGTON (AP) \u2014 President Donald Trump on Friday pardoned 11 people, including a former business partner of Washington lobbyist Jack Abramoff and nine people i\u2026",
+    "link": "https://biztoc.com/x/3891f7b2e3eacb5d",
+    "timestamp": "2026-07-04T04:13:25Z"
+  },
+  {
+    "title": "US: President Trump pardons 11 people, including Clean Air Act violators",
+    "description": "Donald Trump has granted pardons to nine people convicted of violating a key environmental law. The US President has also pardoned an associate of convicted felon and former lobbyist Jack Abramoff. US President Donald Trump on Friday issued pardons for a tota\u2026",
+    "link": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438",
+    "timestamp": "2026-07-04T04:05:00Z"
+  },
+  {
+    "title": "Crooked Donald and the Strait of Hormuz",
+    "description": "His assault on Iran has been about as crooked as you can get, but all too sadly, not as crooked as Donald Trump and his pals",
+    "link": "https://www.juancole.com/2026/07/crooked-donald-strait.html",
+    "timestamp": "2026-07-04T04:04:05Z"
+  },
+  {
+    "title": "MAGAs Can Agree to Disagree",
+    "description": "Photo Credit:\n \n American ThinkerBy Robin M. ItzlerAt this crucial time in our history, we cannot forget Reagan\u2019s warning that \u201cThe person who agrees with you 80% of the time is an 80% friend, not a 20% enemy.\u201d",
+    "link": "https://www.americanthinker.com/articles/2026/07/magas-can-agree-to-disagree/",
+    "timestamp": "2026-07-04T04:00:00Z"
+  },
+  {
+    "title": "Tucker, you\u2019re no Jesse Ventura",
+    "description": "By Timothy JankowskiHe\u2019s become a humorless troll who continues to shred his credibility by lying, contradicting himself\u00a0and repeatedly stating that he doesn\u2019t know anything about the subjects he is talking about.",
+    "link": "https://www.americanthinker.com/blog/2026/07/tucker-you-re-no-jesse-ventura/",
+    "timestamp": "2026-07-04T04:00:00Z"
+  },
+  {
+    "title": "Trump Marks Independence Day by Declaring, \u2018There Is Now a Resurgence of the Communist Menace in Our Land\u2019",
+    "description": "President Donald Trump turned back the clock to the Cold War in a speech commemorating Independence Day on Friday night, alleging that communists are trying to take over the U.S.\nThe post Trump Marks Independence Day by Declaring, \u2018There Is Now a Resurgence o\u2026",
+    "link": "https://www.mediaite.com/media/tv/trump-marks-independence-day-by-declaring-there-is-now-a-resurgence-of-the-communist-menace-in-our-land/",
+    "timestamp": "2026-07-04T03:40:52Z"
+  },
+  {
+    "title": "Trump Pardons Former Abramoff Partner, 9 People Convicted Of Violating Vehicle Emissions Controls",
+    "description": "The acts of clemency come as Trump has issued a slew of pardons in his second term, particularly for allies, public figures and those seen as politically aligned.",
+    "link": "https://www.huffpost.com/entry/trump-pardons-former-abramoff-partner-9-people-convicted-of-violating-vehicle-emissions-controls_n_6a487e5ee4b03060a8508446",
+    "timestamp": "2026-07-04T03:37:02Z"
+  },
+  {
+    "title": "A Sudden Flicker of Light: A Revisionist History of the Movies \u2013 big screen questions",
+    "description": "David Thompson, having devoted his life to writing about film, suggests the medium has begun to diminish our very nature",
+    "link": "https://www.irishtimes.com/culture/books/review/2026/07/04/a-sudden-flicker-of-light-a-revisionist-history-of-the-movies-big-screen-questions/",
+    "timestamp": "2026-07-04T03:33:00Z"
+  },
+  {
+    "title": "EAM Jaishankar extends greetings to US on 250th Independence Day; hails bilateral ties",
+    "description": "India's External Affairs Minister S Jaishankar extended warm wishes to the United States on its upcoming 250th Independence anniversary, expressing optimism for the deepening Comprehensive Global Strategic Partnership.  Meanwhile, former US President Donald T\u2026",
+    "link": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-extends-greetings-to-us-on-250th-independence-day-hails-bilateral-ties/articleshow/132174081.cms",
+    "timestamp": "2026-07-04T03:22:26Z"
+  },
+  {
+    "title": "Why Citigroup CEO Jane Fraser left the US-China summit feeling optimistic",
+    "description": "For Citigroup\u2019s global CEO Jane Fraser, her time in Beijing last month meant far more than a handshake and photograph with heads of state.\nFraser was among 17 business leaders US President Donald Trump invited to China as part of his three-day visit to Beijin\u2026",
+    "link": "https://biztoc.com/x/ac3daae081a50b8c",
+    "timestamp": "2026-07-04T03:11:55Z"
+  },
+  {
+    "title": "'Sick, Sick People': Critics Torch Fox News Host After Outrageous Attack On James Talarico",
+    "description": "Emily Compagno smeared the Senate candidate with a truly bizarre claim.",
+    "link": "https://www.huffpost.com/entry/emily-compagno-james-talarico_n_6a485ae4e4b03060a8506eda",
+    "timestamp": "2026-07-04T03:07:53Z"
+  },
+  {
+    "title": "Watch Live: Donald Trump Speaks at Mount Rushmore",
+    "description": "President Donald Trump delivers remarks to celebrate the 250th anniversary of America a Mount Rushmore on Friday, July 3.\nThe post Watch Live: Donald Trump Speaks at Mount Rushmore appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/america250/2026/07/03/watch-live-donald-trump-speaks-at-mount-rushmore/",
+    "timestamp": "2026-07-04T03:06:04Z"
+  },
+  {
+    "title": "WATCH LIVE:\u00a0Trump delivers speech from Mount Rushmore",
+    "description": "US President Donald Trump is delivering a speech from Mount Rushmore as the country marks the 250th anniversary, part of the White House-backed Freedom 250 celebrations billed as the biggest birthday party in US history.",
+    "link": "https://www.rt.com/news/642566-trump-independence-day-speech/",
+    "timestamp": "2026-07-04T03:05:55Z"
+  },
+  {
+    "title": "Trump Says It\u2019s 'Ridiculous' for U.S. to Maintain Current NATO Support as Rift Widens Ahead of Summit",
+    "description": "President Donald Trump said it is \u201cridiculous\u201d for the United States to maintain its current level of support for NATO \u201cwhen the relationship is not reciprocal.\" Referring to the alliance as a \"one-sided path\u201d late Thursday, Trump doubled down on his long-arg\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4386577/posts",
+    "timestamp": "2026-07-04T02:54:19Z"
+  },
+  {
+    "title": "Trump claims Dems plan to add 'radical left' states",
+    "description": "United States President Donald Trump claimed that Democrats plan to expand their influence by adding two new \"Radical Left\" states, electing four additional senators, enlarging the House of Representa...",
+    "link": "https://biztoc.com/x/cdd2f2f6ed42e8a7",
+    "timestamp": "2026-07-04T02:26:26Z"
+  },
+  {
+    "title": "A look at the Declaration of Independence in the Trump era",
+    "description": "The United States is celebrating its 250th anniversary today. Let's take a closer look at the document that birthed the nation and where things stand now.",
+    "link": "https://www.abc.net.au/news/2026-07-04/america-250-us-declaration-of-independence-annotated/106863840",
+    "timestamp": "2026-07-04T02:19:29Z"
+  },
+  {
+    "title": "Trump made huge profits from his crypto. Did anyone else?",
+    "description": "US President Donald Trump made huge amounts of money from his family's crypto and meme coin ventures last year, but did his investors?",
+    "link": "https://www.abc.net.au/news/2026-07-04/donald-trump-has-made-huge-profits-from-cryptocurrency/106878308",
+    "timestamp": "2026-07-04T02:17:46Z"
+  },
+  {
+    "title": "JD Vance\u2019s puppet master having a very normal one",
+    "description": "And, sadly, by his standards this is: Billionaire tech investor Peter Thiel delivered a series of provocative warnings and predictions about the future of artificial intelligence and the West on Tuesday, accusing Pope Leo XIV of inadvertently serving as a \u201cCh\u2026",
+    "link": "https://www.lawyersgunsmoneyblog.com/2026/07/jd-vances-puppet-master-having-a-very-normal-one",
+    "timestamp": "2026-07-04T02:07:21Z"
+  },
+  {
+    "title": "White House mocks Taylor Swift wedding celebrations at New York\u2019s Madison Square Garden",
+    "description": "The president has publicly feuded with the \u2018Love Story\u2019 singer for years",
+    "link": "https://www.the-independent.com/arts-entertainment/music/news/white-house-taylor-swift-msg-wedding-trump-b3008783.html",
+    "timestamp": "2026-07-04T02:05:14Z"
+  },
+  {
+    "title": "Trump: US economy is soaring",
+    "description": "United States President Donald Trump said on Truth Social that the US economy is \"soaring\" and entering what he called a \"Golden Age.\"Trump said the stock market has posted its strongest quarter since...",
+    "link": "https://biztoc.com/x/bcd9fd9246aca6e1",
+    "timestamp": "2026-07-04T01:55:53Z"
+  },
+  {
+    "title": "Trump to speak at Mount Rushmore, one monument he can\u2019t remake - NBC News",
+    "description": "Trump to speak at Mount Rushmore, one monument he can\u2019t remakeNBC News Donald Trump to kick off independence celebrations as heatwave grips USFinancial Times Preparations for Trump and Mount Rushmore fireworks include First Amendment area for protestersKOTA T\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=184300142",
+    "timestamp": "2026-07-04T01:53:20Z"
+  },
+  {
+    "title": "Brazil's top presidential candidates Lula and Fl\u00e1vio Bolsonaro clash over US tariff proposal",
+    "description": "Brazil\u2019s President Lula da Silva and Sen. Fl\u00e1vio Bolsonaro have clashed over U.S. tariffs",
+    "link": "https://abcnews.com/Business/wireStory/brazils-top-presidential-candidates-lula-flvio-bolsonaro-clash-134452795",
+    "timestamp": "2026-07-04T01:50:17Z"
+  },
+  {
+    "title": "Who is paying for America's 250th celebrations? It's complicated",
+    "description": "The presence of America250 and Freedom 250 has continued to spark confusion.",
+    "link": "https://abcnews.com/Politics/paying-americas-250th-celebrations-complicated/story?id=134452800",
+    "timestamp": "2026-07-04T01:47:04Z"
+  },
+  {
+    "title": "Sharpton: Trump Administration Doesn't Try to Hide the Fact They Are 'Bigoted'",
+    "description": "Friday on MS NOW's \"Deadline,\" network host Al Sharpton said the Trump administration doesn't even try to hide the fact that they are \"bigoted.\"\nThe post Sharpton: Trump Administration Doesn\u2019t Try to Hide the Fact They Are \u2018Bigoted\u2019 appeared first on Breitbar\u2026",
+    "link": "https://www.breitbart.com/clips/2026/07/03/sharpton-trump-administration-doesnt-try-to-hide-the-fact-they-are-bigoted/",
+    "timestamp": "2026-07-04T01:43:43Z"
+  },
+  {
+    "title": "Something About Tunji Bello, by Emeka Obasi",
+    "description": "It took Dora Akunyili to enlighten\u00a0Nigerians about the criminals\u00a0using fake drugs to send citizens to untimely departure from Planet Earth. Now, we have Tunji Bello, taking the bull by the horns and daring petrol bandits who rob under the cover of market forc\u2026",
+    "link": "https://www.vanguardngr.com/2026/07/something-about-tunji-bello-by-emeka-obasi/",
+    "timestamp": "2026-07-04T01:41:49Z"
+  },
+  {
+    "title": "Rob Reiner Gets the \u2018Last Laugh\u2019 Against Trump in Secret Final Role as George Washington in Larry David\u2019s HBO Show",
+    "description": "SPOILER ALERT:\u00a0This interview contains spoilers for\u00a0Episode 2 of \u201cLife, Larry, and the Pursuit of Unhappiness: An Almost History of America,\u201d now streaming on HBO Max. A month before he died, Rob Reiner filmed his final role as George Washington in Larry Davi\u2026",
+    "link": "https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/",
+    "timestamp": "2026-07-04T01:34:00Z"
+  },
+  {
+    "title": "Americans disgusted at Trump earning $1bn from crypto as president: \u2018Obviously a grift\u2019 - The Guardian",
+    "description": "Americans disgusted at Trump earning $1bn from crypto as president: \u2018Obviously a grift\u2019The Guardian MAGA Base Stays Quiet After Trump Reports Billions in Personal GainsThe New York Times Democrats Are Seizing on Trump\u2019s Soaring Wealth as a Campaign Opportunit\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=184300006",
+    "timestamp": "2026-07-04T01:32:54Z"
+  },
+  {
+    "title": "MCSA shifts to neutral on CLARITY Act, boosting Senate prospects",
+    "description": "The MCSA's neutral stance on the CLARITY Act may pave the way for more favorable U.S. digital asset regulations, impacting market dynamics.\nThe post MCSA shifts to neutral on CLARITY Act, boosting Senate prospects appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/mcsa-shifts-to-neutral-on-clarity-act-boosting-senate-prospects/",
+    "timestamp": "2026-07-04T01:29:17Z"
+  },
+  {
+    "title": "Trump: Treasury to accept shares for Trump Accounts",
+    "description": "United States President Donald Trump announced that the US Treasury Department will begin accepting donations of publicly traded stocks to support the children's savings program known as Trump Account...",
+    "link": "https://biztoc.com/x/b66b3242d6a5607b",
+    "timestamp": "2026-07-04T01:26:06Z"
+  },
+  {
+    "title": "Taylor Swift and Travis Kelce Marry at Madison Square Garden as 10,000 Go Without Power in Queens \u2013 White House Trolls Swift with Brutal Reminder",
+    "description": "The White House on Friday trolled Taylor Swift and NFL star Travis Kelce's big day by reminding the far-left pop star that Donald Trump is the President of the United States.\u00a0 It is worth recalling that Swift endorsed Kamala Harris in the 2024 presidential el\u2026",
+    "link": "https://www.thegatewaypundit.com/2026/07/white-house-trolls-taylor-swifts-madison-square-garden/",
+    "timestamp": "2026-07-04T01:20:44Z"
+  },
+  {
+    "title": "Trump set to take centre stage as America turns 250 amid deep divisions",
+    "description": "Across the US, celebrations for America's 250th anniversary are underway, marked by patriotic displays and fireworks, though tempered by extreme heat. President Trump is set to speak at Mount Rushmore and the National Mall, while New York City hosts a unique \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-set-to-take-centre-stage-as-america-turns-250-amid-deep-divisions/articleshow/132173177.cms",
+    "timestamp": "2026-07-04T01:19:09Z"
+  },
+  {
+    "title": "Trump moots reunion of presidents at White House to watch football",
+    "description": "Donald Trump proposed a White House football game with former presidents, including Barack Obama and Joe Biden, during a podcast appearance. While reading a book on presidential pastimes, Trump suggested inviting rivals for a \"president reunion,\" envisioning \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-moots-reunion-of-presidents-at-white-house-to-watch-football/articleshow/132173161.cms",
+    "timestamp": "2026-07-04T01:15:17Z"
+  },
+  {
     "title": "Feds tout 'well-prepared' Trump fair after blistering heat wave hospitalized attendees",
     "description": "Federal officials described President Donald Trump's July 4 celebration as \"safe\" and \"well-prepared\" just hours after a record heat wave forced organizers to shut down the Great American State Fair and paramedics rushed to aid attendees, several of whom were\u2026",
     "link": "https://www.rawstory.com/great-american-state-fair-2677157111/",
@@ -286,275 +580,5 @@
     "description": "Jonathan Swan inadvertently dropped an f-bomb while speaking about the book \"Regime Change\" with his co-author Maggie Haberman at a Quaker school.\nThe post \u2018Oh My God!\u2019 Jonathan Swan Cracks Up Audience With Accidental F-Bomb at Quaker School Event first appea\u2026",
     "link": "https://www.mediaite.com/media/news/oh-my-god-jonathan-swan-cracks-up-audience-with-accidental-f-bomb-at-quaker-school-event/",
     "timestamp": "2026-07-03T20:57:23Z"
-  },
-  {
-    "title": "Democrats' 'pathetic groveling' for fundraising bashed in New York Times column",
-    "description": "A New York Times opinion writer warns Democrats that their fundraising messaging telegraphs insecurity and pleading, urging the party to change course.",
-    "link": "https://www.foxnews.com/media/democrats-pathetic-groveling-fundraising-bashed-new-york-times-column",
-    "timestamp": "2026-07-03T20:46:56Z"
-  },
-  {
-    "title": "Not Every Fourth Of July Celebration Is Created Equal \u2014\u00a0One Of Them Has Been Enginnered By Donald Trump",
-    "description": "Who is sponsoring which event might make all the difference in whether it is an activity you want to attend.View Entire Post \u203a",
-    "link": "https://www.huffpost.com/entry/america250-freedom250-difference_l_6a32b665e4b057a50ce88973",
-    "timestamp": "2026-07-03T20:46:02Z"
-  },
-  {
-    "title": "\u2018Fundamental rights from our Creator\u2019: First U.S.-born pope champions America\u2019s founding",
-    "description": "Leo was honored by the National Constitution Center as its 2026 Liberty Medal recipient",
-    "link": "https://www.wnd.com/2026/07/fundamental-rights-our-creator-first-u-s-born/",
-    "timestamp": "2026-07-03T20:36:04Z"
-  },
-  {
-    "title": "'It's so hot' - Dangerous hot weather grips parts of the US",
-    "description": "More than 165 million people were sweltering on Friday under record temperatures along the US East Coast and Midwest, according to the US National Weather Service.",
-    "link": "https://www.bbc.co.uk/news/videos/cd0mpgvzzy5o",
-    "timestamp": "2026-07-03T20:30:12Z"
-  },
-  {
-    "title": "Big Oil heads for biggest profits in years as Trump pushes for lower gas prices",
-    "description": "President Trump is ramping up pressure on the industry to lower gas prices ahead of November\u2019s midterm elections.",
-    "link": "https://nypost.com/2026/07/03/business/big-oil-heads-for-biggest-profits-in-years-as-trump-pushes-for-lower-gas-prices/",
-    "timestamp": "2026-07-03T20:28:16Z"
-  },
-  {
-    "title": "New 60 Minutes boss turns his corner office into common space to appease finicky staff",
-    "description": "Nick Bilton, 49, reportedly ditched the deluxe digs to downgrade to a more modest office elsewhere in the newsmagazine's Manhattan HQ.",
-    "link": "https://www.dailymail.com/media/article-15951679/60-minutes-nick-bilton-bari-weiss-cbs-staff.html",
-    "timestamp": "2026-07-03T20:28:03Z"
-  },
-  {
-    "title": "Mamdani blasts capitalism, foreign wars in America 250 address \u2013 while sitting at George Washington\u2019s desk",
-    "description": "Zo say can you see\u2026Mayor Zohran Mamdani decried capitalism and the US\u2019 involvement in foreign wars during an address marking America\u2019s 250th anniversary Friday \u2014 while sitting at George Washington\u2019s desk.The 15-minute speech \u2014 which Mamdani gave while flanked\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4386540/posts",
-    "timestamp": "2026-07-03T20:24:33Z"
-  },
-  {
-    "title": "\u2018One of Its Worst Decisions\u2019: Josh Shapiro Blames the Supreme Court for Trump Corruption",
-    "description": "Pennsylvania Gov. Josh Shapiro blamed the Supreme Court for President Donald Trump's whopping profits while in office, calling its 2024 ruling on presidential immunity \"one of its worst decisions\" during a Friday interview with MeidasTouch.\nThe post \u2018One of I\u2026",
-    "link": "https://www.mediaite.com/online/one-of-its-worst-decisions-josh-shapiro-blames-the-supreme-court-for-trump-corruption/",
-    "timestamp": "2026-07-03T20:24:13Z"
-  },
-  {
-    "title": "U.S. was concerned Israel might try to kill Iran negotiators, sources say",
-    "description": "U.S. officials were concerned that Israel might try to assassinate Iran\u2019s negotiators during recent ceasefire talks and Tehran was warned about the possible threat, according to a U.S. official and an Iranian official with knowledge of the matter.",
-    "link": "https://www.nbcnews.com/world/iran/us-officials-warned-iran-israel-might-try-kill-negotiators-sources-rcna352883",
-    "timestamp": "2026-07-03T20:23:00Z"
-  },
-  {
-    "title": "Social Security Administration to Launch Process to Assist Enrollment in Trump Accounts",
-    "description": "Initiative allows newborns to be enrolled in new and streamlined processes Baltimore, MD \u2013 Today, the Social Security Administration (SSA) announced it is launching processes for parents to enroll newborns in Trump Accounts. This automatic system will help en\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4386536/posts",
-    "timestamp": "2026-07-03T20:17:45Z"
-  },
-  {
-    "title": "Sophie Cunningham reveals how she feels about White House using her finger-pointing meme",
-    "description": "The Fever guard is back, and had plenty to say.",
-    "link": "https://www.sportingnews.com/us/wnba/indiana-fever/news/sophie-cunningham-white-house-finger-pointing-meme/0a4e0ba4358daa2d0e9b92ad",
-    "timestamp": "2026-07-03T20:17:33Z"
-  },
-  {
-    "title": "Mamdani Trashes America, Trump in Speech Marking Country\u2019s 250th Birthday",
-    "description": "\"We see a nation whose immense wealth has been built by those with calloused, dirt-streaked hands \u2014 those who toil on factory floors and chisel into stone \u2014 and we see a nation that has allowed so much of that wealth to be held instead in the soft hands of a \u2026",
-    "link": "https://legalinsurrection.com/2026/07/mamdani-trashes-america-trump-in-speech-marking-countrys-250th-birthday/",
-    "timestamp": "2026-07-03T20:00:31Z"
-  },
-  {
-    "title": "Happy birthday America, the ally Europe admires\u2014questioningly",
-    "description": "A tale of two continents.",
-    "link": "https://www.nrc.nl/nieuws/2026/07/03/happy-birthday-america-the-ally-europe-admires-questioningly-a4931698",
-    "timestamp": "2026-07-03T20:00:00Z"
-  },
-  {
-    "title": "This Summer, the Kids Are \u2018Nixon Maxxing\u2019",
-    "description": "History is written by the victors, and more than 30 years after his death, Richard Nixon is finally being vindicated. During an interview earlier this month at the Nixon Presidential Library, Vice President JD Vance observed that \u201cNixon\u2019s historical legacy is\u2026",
-    "link": "https://www.dailysignal.com/2026/07/03/nixon-maxxing/",
-    "timestamp": "2026-07-03T20:00:00Z"
-  },
-  {
-    "title": "Refiner Profits Are Soaring",
-    "description": "U.S. crude refiners are enjoying some of the best profit margins in years.",
-    "link": "https://www.rigzone.com/news/wire/refiner_profits_are_soaring-03-jul-2026-184059-article/",
-    "timestamp": "2026-07-03T20:00:00Z"
-  },
-  {
-    "title": "Secret Service Missed 102 Warnings Before Butler Assassination Attempt on Trump, DHS Report Finds",
-    "description": "Secret Service Missed 102 Warnings Before Butler Assassination Attempt on Trump, DHS Report Finds Inspector general says agents missed 102 warnings that could have prevented the attack on President Trump. BIG LEAGUE POLITICS JUL 03, 2026 A new Department of H\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4386535/posts",
-    "timestamp": "2026-07-03T19:57:27Z"
-  },
-  {
-    "title": "Trump pardons 6 people for Clean Air Act violations after White House meeting | CNN Politics",
-    "description": "President Donald Trump announced on Friday that he signed pardons for six people who he argued were \u201cpersecuted by the Biden Administration\u201d for violating clean air and emissions laws.",
-    "link": "https://www.cnn.com/2026/07/03/politics/trump-pardons-emissions-pollution",
-    "timestamp": "2026-07-03T19:52:52Z"
-  },
-  {
-    "title": "Trump pardons 6 people 'persecuted' by Biden",
-    "description": "United States President Donald Trump unveiled on Friday that he pardoned six individuals \"persecuted\" by his predecessor Joe Biden's administration \"for 'fixing their car'.\"\"While I know this sounds r...",
-    "link": "https://biztoc.com/x/8f4cd646c3adf147",
-    "timestamp": "2026-07-03T19:51:14Z"
-  },
-  {
-    "title": "Team Knit 2026",
-    "description": "Team Knit has Bike Rally problems. This should surprise no-one, considering that we are all human, and problems are a very human\u2026 problem. All of us are struggling to get to the Bike Rally this year. The Bike Rally is \u2026 Continue reading \u2192",
-    "link": "https://www.yarnharlot.ca/2026/07/team-knit-2026/",
-    "timestamp": "2026-07-03T19:50:06Z"
-  },
-  {
-    "title": "Waltz calls out Iranian diplomat at UN following drone strikes on Bahrain and Kuwait",
-    "description": "Mike Waltz held up photos of drone and missile strike damage in Bahrain during a tense UN Security Council exchange with Iranian diplomat Iravani.",
-    "link": "https://www.foxnews.com/world/waltz-calls-iranian-diplomat-un-following-drone-strikes-bahrain-kuwait",
-    "timestamp": "2026-07-03T19:47:15Z"
-  },
-  {
-    "title": "Here's What Happened Today: Friday",
-    "description": "Here\u2019s what made the headlines today.",
-    "link": "https://www.thejournal.ie/news-fix-491-7090553-Jul2026/",
-    "timestamp": "2026-07-03T19:45:55Z"
-  },
-  {
-    "title": "Gordie Howe bridge cost still $6.4B despite delays, federal authority says",
-    "description": "The cost of the new Gordie Howe bridge connecting Windsor and Detroit is still $6.4 billion despite multiple delays, according to the federal authority that oversees the bridge.",
-    "link": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222",
-    "timestamp": "2026-07-03T19:43:54Z"
-  },
-  {
-    "title": "Trump springs 6 during America 250 as pardon frenzy grips DC: 'Setting them all free!'",
-    "description": "President Donald Trump said Friday he has signed pardons for six people convicted in connection with tampering with vehicle emissions controls, casting their cases as political persecution under his predecessor.\"It is my Great Honor to have just signed Pardon\u2026",
-    "link": "https://www.rawstory.com/trump-pardons-2677156479/",
-    "timestamp": "2026-07-03T19:39:05Z"
-  },
-  {
-    "title": "\u2018Unseemly\u2019: Fox\u2019s Brit Hume Predicts Trump Will Pay the Price for Shady Crypto Business if Dems Win Midterms",
-    "description": "Fox News' chief political analyst Brit Hume predicted on Friday that President Donald Trump may very well pay the price for his \"unseemly\" crypto profits while in office if the Democrats win the upcoming midterms.\nThe post \u2018Unseemly\u2019: Fox\u2019s Brit Hume Predicts\u2026",
-    "link": "https://www.mediaite.com/media/tv/unseemly-foxs-brit-hume-predicts-trump-will-pay-the-price-for-shady-crypto-business-if-dems-win-midterms/",
-    "timestamp": "2026-07-03T19:35:43Z"
-  },
-  {
-    "title": "US senator calls for ban on elected officials issuing memecoins",
-    "description": "After participating in negotiations that removed certain ethics provisions from a stablecoin bill in 2025, Senator Kirsten Gillibrand proposed restrictions on elected officials and their spouses regarding memecoins.",
-    "link": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins",
-    "timestamp": "2026-07-03T19:26:21Z"
-  },
-  {
-    "title": "Criminal legal aid dispute affecting cases involving serious alleged offending, solicitors says",
-    "description": "Minister for Justice is \u2018not for turning\u2019 when it comes to introduction of once-off \u20ac520 fee for District Court cases",
-    "link": "https://www.irishtimes.com/crime-law/courts/2026/07/03/criminal-legal-aid-dispute-affecting-cases-involving-serious-alleged-offending-solicitors-says/",
-    "timestamp": "2026-07-03T19:24:27Z"
-  },
-  {
-    "title": "Dave Portnoy Says He Turned Down Trump Interview Requests \u2018Multiple Times\u2019",
-    "description": "Barstool Sports founder Dave Portnoy said he turned down requests to interview Donald Trump \"multiple times\" while Trump was a candidate.\nThe post Dave Portnoy Says He Turned Down Trump Interview Requests \u2018Multiple Times\u2019 first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/dave-portnoy-says-he-turned-down-trump-interview-requests-multiple-times/",
-    "timestamp": "2026-07-03T19:18:45Z"
-  },
-  {
-    "title": "Air Force major cuffed in uniform on Capitol steps demanding Trump and Vance's removal",
-    "description": "An active-duty Air Force major was arrested in uniform on the steps of the U.S. Capitol this week after he stood before cameras and demanded that President Donald Trump and Vice President JD Vance be impeached and removed from office.Jason Watson, a career of\u2026",
-    "link": "https://www.rawstory.com/trump-impeachment-2677156403/",
-    "timestamp": "2026-07-03T19:16:27Z"
-  },
-  {
-    "title": "Court clears way for Trump admin to 'immediately' replace slavery exhibit in Philly",
-    "description": "Advocates for the exhibit told ABC News the changes would 'whitewash' history.",
-    "link": "https://abcnews.com/Politics/court-clears-trump-admin-immediately-replace-slavery-exhibit/story?id=134443527",
-    "timestamp": "2026-07-03T19:12:55Z"
-  },
-  {
-    "title": "POTUS to 'ring' in America's 250th with Belgian Delight, a Tariffic gift",
-    "description": "A dazzling diamond-encrusted ring, a symbol of US-Belgian ties, was presented to President Trump, celebrating America's 250th anniversary. Crafted in Antwerp, the gift arrives after Belgium's diamond industry secured the removal of US tariffs.",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/potus-to-ring-in-americas-250th-with-belgian-delight-a-tariffic-gift/articleshow/132170095.cms",
-    "timestamp": "2026-07-03T19:12:25Z"
-  },
-  {
-    "title": "First US-Born Pope Champions America\u2019s Founding During Award By National Constitution Center",
-    "description": "On the eve of 250 years of American independence, Chicago-born Pope Leo XIV was honored by the National Constitution Center as its 2026 Liberty Medal recipient.",
-    "link": "https://dailycaller.com/2026/07/03/national-constitution-center-awards-pope-leo-xiv-liberty-medal-philadelphia/",
-    "timestamp": "2026-07-03T19:12:23Z"
-  },
-  {
-    "title": "All of Its Defects, None of Its Virtues",
-    "description": "So manly, so decisive, so corrupt: President Trump\u2019s $2.2 billion in personal earnings\u00a0during his presidency has been met largely with silence from his MAGA base, which has been increasingly willing to revolt against policies they view as an abandonment of hi\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2026/07/all-of-its-defects-none-of-its-virtues",
-    "timestamp": "2026-07-03T19:06:59Z"
-  },
-  {
-    "title": "The US is marking a big birthday but polls say the 'mood is sour'",
-    "description": "Donald Trump has been pushing a patriotic message ahead of a July 4 milestone, but some Americans say they feel no national pride at this point in their country's history.",
-    "link": "https://www.abc.net.au/news/2026-07-04/as-the-us-turns-250-july-4-who-is-still-proud-to-be-an-american/106873402",
-    "timestamp": "2026-07-03T19:06:43Z"
-  },
-  {
-    "title": "\u2018Let\u2019s get it done\u2019: Rand Paul outlines the ultimate fix for Supreme Court\u2019s birthright citizenship activism",
-    "description": "Says Congress needs to act, and if not, he'll go to the states",
-    "link": "https://www.wnd.com/2026/07/lets-get-it-done-rand-paul-outlines-ultimate/",
-    "timestamp": "2026-07-03T19:01:24Z"
-  },
-  {
-    "title": "AI just carried out cyberattack without any human oversight for first time...",
-    "description": "The White House has shot down past reports it was about to pardon the disgraced music mogul",
-    "link": "https://www.the-independent.com/news/world/americas/us-politics/trump-pardon-p-diddy-america-250-b3008585.html",
-    "timestamp": "2026-07-03T19:00:05Z"
-  },
-  {
-    "title": "Look past partisanship, and celebrate 250 years of freedom",
-    "description": "America remains the preeminent country on earth and still functions as a very contentious democracy.",
-    "link": "https://nypost.com/2026/07/03/opinion/look-past-partisanship-and-celebrate-250-years-of-freedom/",
-    "timestamp": "2026-07-03T19:00:00Z"
-  },
-  {
-    "title": "Trump\u2019s State Fair Shuts Down Temporarily As Extreme Heat Derails July 4th Events",
-    "description": "The president has promised to deliver a \u201creally long\u201d speech Saturday no matter how hot it is.",
-    "link": "https://www.forbes.com/sites/alisondurkee/2026/07/03/trumps-state-fair-shuts-down-temporarily-as-extreme-heat-derails-july-4th-events/",
-    "timestamp": "2026-07-03T18:59:57Z"
-  },
-  {
-    "title": "Thomas Massie Slams Trump Boasting About \u2018Shaking Down\u2019 a Private Company",
-    "description": "\u201cImagine if Biden or Obama had bragged about shaking down a private company for 10% public ownership,\u201d Massie fumed\nThe post Thomas Massie Slams Trump Boasting About \u2018Shaking Down\u2019 a Private Company first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/politics/thomas-massie-slams-trump-boasting-about-shaking-down-a-private-company/",
-    "timestamp": "2026-07-03T18:59:11Z"
-  },
-  {
-    "title": "'Musk will credit SpaceX stock to Trump A/cs'",
-    "description": "President Donald Trump is optimistic that Elon Musk will be donating SpaceX shares to his innovative savings accounts program, joining other tech giants like Michael Dell in their pledges. Trump emphasised his robust relationship with Musk, who once backed hi\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/musk-will-credit-spacex-stock-to-trump-a/cs/articleshow/132169804.cms",
-    "timestamp": "2026-07-03T18:57:04Z"
-  },
-  {
-    "title": "As Heat Suffocates Washington DC, Calls to Emergency Medical Services Climb - The New York Times",
-    "description": "As Heat Suffocates Washington DC, Calls to Emergency Medical Services ClimbThe New York Times Trump\u2019s Great American State Fair shuts down until 5 p.m. due to heat as temps climb toward triple digitsCNN America 250 live updates: Great American State Fair temp\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=184294492",
-    "timestamp": "2026-07-03T18:52:50Z"
-  },
-  {
-    "title": "Trump at Mount Rushmore: Speech time, how to watch live",
-    "description": "President Donald Trump will kick off Independence Day weekend with a speech at Mount Rushmore beneath busts of four of his predecessors.\nAs part of a day of festivities tied to the nation's 250th anniversary, the president will address visitors to the South D\u2026",
-    "link": "https://biztoc.com/x/5e3ee92f87e9c4a2",
-    "timestamp": "2026-07-03T18:52:06Z"
-  },
-  {
-    "title": "Trump floats inviting Obama, Biden, Bush to the White House to watch football",
-    "description": "President Donald Trump suggested it would be fun to invite former presidents like Barack Obama and George W. Bush to watch a football game with him at the White House.",
-    "link": "https://www.foxnews.com/media/trump-floats-reunion-obama-biden-bush-white-house-watch-football",
-    "timestamp": "2026-07-03T18:46:32Z"
-  },
-  {
-    "title": "DEVO\u2019s Gerald Casale Will Excoriate Trump in July 4th Video for New Single \u201cJust Do It!\u201d",
-    "description": "Jeffrey Epstein, Elon Musk, Bill Gates, Bill Clinton, and Steve Bannon also make appearances in a surreal and biting satire.\nDEVO\u2019s Gerald Casale Will Excoriate Trump in July 4th Video for New Single \u201cJust Do It!\u201d\nTravis Bland",
-    "link": "https://consequence.net/2026/07/gerald-casale-video-excoriates-trump/",
-    "timestamp": "2026-07-03T18:44:03Z"
-  },
-  {
-    "title": "\u2018A Little Depressing\u2019: Chris Cillizza Says Democrats\u2019 Plummeting Patriotism Under Trump \u2018Worries\u2019 Him",
-    "description": "Political commentator Chris Cillizza said he found it \"a little depressing\" that Democrats have lost their patriotic spirit because of Donald Trump.\nThe post \u2018A Little Depressing\u2019: Chris Cillizza Says Democrats\u2019 Plummeting Patriotism Under Trump \u2018Worries\u2019 Him\u2026",
-    "link": "https://www.mediaite.com/media/podcasts/a-little-depressing-chris-cillizza-says-democrats-plummeting-patriotism-under-trump-worries-him/",
-    "timestamp": "2026-07-03T18:43:11Z"
-  },
-  {
-    "title": "Unnerved ex-officials uncork stark analogy as Trump spy chief cleans house on 'deep state'",
-    "description": "President Donald Trump's controversial new intelligence chief is clearing house, and career officers warn the man swinging the axe doesn't know what he's cutting.Bill Pulte, Trump's loyal acting director of national intelligence, began notifying dozens of int\u2026",
-    "link": "https://www.rawstory.com/bill-pulte-2677156332/",
-    "timestamp": "2026-07-03T18:41:42Z"
   }
 ]
