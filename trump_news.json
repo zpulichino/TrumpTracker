@@ -1,5 +1,509 @@
 [
   {
+    "title": "Trump admin's push to scrap DEI in federal government takes landmark step with new hiring rule",
+    "description": "OPM's new rule removes 1978 hiring guidelines tied to disparate impact, marking a deeper push to dismantle the legal framework behind federal DEI policies.",
+    "link": "https://www.foxnews.com/politics/trump-admin-push-scrap-dei-federal-government-landmark-step-new-hiring-rule",
+    "timestamp": "2026-07-30T16:15:00Z"
+  },
+  {
+    "title": "Trump threatens to yank his own AG nominee as GOP revolt grows",
+    "description": "Trump threatened to withdraw Todd Blanche's nomination until John Cornyn and Thom Tillis leave office, escalating a standoff over his tax settlement.",
+    "link": "https://www.foxnews.com/politics/trump-threatens-yank-his-own-ag-nominee-gop-revolt-grows",
+    "timestamp": "2026-07-30T16:12:54Z"
+  },
+  {
+    "title": "Elon Musk Comes Running Back to Help Trump With Midterms",
+    "description": "Elon Musk is planning to revive his shady America PAC to help out President Donald Trump\u2019s party in the midterm elections. Despite the billionaire technocrat\u2019s pledge last year to stay out of politics, his America PAC is planning to direct its efforts toward \u2026",
+    "link": "https://newrepublic.com/post/213741/elon-musk-help-donald-trump-midterms",
+    "timestamp": "2026-07-30T16:09:39Z"
+  },
+  {
+    "title": "Trump Might Temporarily Pull Blanche\u2019s AG Nomination Until Cornyn, Tillis Leave",
+    "description": "Sens. John Cornyn and Thom Tillis, who leave office in January, want assurances over an IRS settlement regarding Trump.\nThe post Trump Might Temporarily Pull Blanche\u2019s AG Nomination Until Cornyn, Tillis Leave first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+    "link": "https://legalinsurrection.com/2026/07/trump-might-temporarily-pull-blanches-ag-nomination-until-cornyn-tillis-leave/",
+    "timestamp": "2026-07-30T16:09:04Z"
+  },
+  {
+    "title": "Todd Blanche\u2019s Nomination Is Actually In Serious Trouble Now",
+    "description": "Unwilling to make any concessions to two key senators, President Trump may temporarily pull Todd Blanche\u2019s nomination for attorney general.",
+    "link": "http://nymag.com/intelligencer/article/todd-blanches-nomination-is-actually-in-serious-trouble-now.html",
+    "timestamp": "2026-07-30T16:08:58Z"
+  },
+  {
+    "title": "European Teams Plan FIFA Boycott Over Controversial Investment Plan",
+    "description": "The 55 member associations in UEFA approved the boycott unanimously on Thursday.",
+    "link": "https://www.forbes.com/sites/zacharyfolk/2026/07/30/european-teams-plan-fifa-boycott-over-controversial-investment-plan/",
+    "timestamp": "2026-07-30T16:08:18Z"
+  },
+  {
+    "title": "Ex-Dem operative details 'new donor establishment' behind Mamdani-era progressives: 'Not from the grassroots'",
+    "description": "A former progressive fundraiser reveals how dark money super PACs and DSA candidates are reshaping the Democratic Party after its 2024 electoral loss.",
+    "link": "https://www.foxnews.com/politics/ex-dem-operative-details-new-donor-establishment-behind-mamdani-era-progressives-not-grassroots",
+    "timestamp": "2026-07-30T16:07:15Z"
+  },
+  {
+    "title": "Burnham Says Won\u2019t Ignore North Sea in Hint at More UK Drilling",
+    "description": "Prime Minister Andy Burnham said he told President Donald Trump the UK won\u2019t \u201cignore\u201d its resources in the North Sea, suggesting that his government will pursue new drilling for fossil fuels.",
+    "link": "https://financialpost.com/pmn/business-pmn/burnham-says-wont-ignore-north-sea-in-hint-at-more-uk-drilling",
+    "timestamp": "2026-07-30T16:05:38Z"
+  },
+  {
+    "title": "Unease over Trump\u2019s nuke deal with Saudi Arabia",
+    "description": "The Saudi pact and Netanyahu\u2019s Washington visit stoke fears of conflict with Iran escalating",
+    "link": "https://www.thehindubusinessline.com/opinion/unease-over-trumps-nuke-deal-with-saudi-arabia/article71287170.ece",
+    "timestamp": "2026-07-30T16:04:05Z"
+  },
+  {
+    "title": "Cracker Barrel CEO steps down after humiliating mistake",
+    "description": "There is a kind of risk that never shows up in a fund prospectus. It is the risk that a company spends real money fixing something its customers never though...",
+    "link": "https://www.thestreet.com/retail/cracker-barrel-ceo-steps-down-rebrand-backlash",
+    "timestamp": "2026-07-30T16:03:00Z"
+  },
+  {
+    "title": "'More about botox than bombs': GOP candidates have a Hegseth headache \u2014 Dems are delighted",
+    "description": "Defense Secretary Pete Hegseth's blunders and bluster are about to become a central argument against Republican lawmakers in the upcoming midterm election, according to a new report.Democratic candidates and campaign strategists consider the controversial Don\u2026",
+    "link": "https://www.rawstory.com/hegseth-2677292808/",
+    "timestamp": "2026-07-30T16:00:47Z"
+  },
+  {
+    "title": "Trump threatens to pull Todd Blanche\u2019s AG nomination until after GOP holdouts leave office",
+    "description": "President Donald Trump on Thursday threatened to withdraw Todd Blanche\u2019s nomination to be attorney general until two Republican senators who have expressed concerns about Blanche leave office in January.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-threatens-pull-todd-blanches-ag-nomination-gop-holdouts-leave-of-rcna590054",
+    "timestamp": "2026-07-30T16:00:38Z"
+  },
+  {
+    "title": "Iraq Leader\u2019s Successful Visit to Washington Shows New Path Forward with U.S.",
+    "description": "Iraq\u2019s new prime minister, Ali Al-Zaidi, was first regarded as a\u00a0political newcomer\u00a0with no prior experience in government or political office, but he understood enough about Iraq\u2019s interests to insist his first overseas trip be to the United States, unlike h\u2026",
+    "link": "https://oilprice.com/Geopolitics/Middle-East/Iraq-Leaders-Successful-Visit-to-Washington-Shows-New-Path-Forward-with-US.html",
+    "timestamp": "2026-07-30T16:00:00Z"
+  },
+  {
+    "title": "China tells US of \u2018serious concern\u2019 over latest trade restrictions",
+    "description": "China's top trade official told his counterparts from the United States on Thursday Beijing had \"serious concern\" over Washington's latest trade restrictions affecting it, according to state media.\nThe post China tells US of \u2018serious concern\u2019 over latest trad\u2026",
+    "link": "https://www.vanguardngr.com/2026/07/china-tells-us-of-serious-concern-over-latest-trade-restrictions/",
+    "timestamp": "2026-07-30T15:57:13Z"
+  },
+  {
+    "title": "Netflix set to sign $200m deal with FIFA amid plans to privatize World Cup",
+    "description": "FIFA\u2019s mission has always been to sell soccer to the world, but they are now selling themselves to private equity. The bubbles had barely left World Cup champions Spain\u2019s champagne before Gianni Infantino had rolled out his plan to sell a 20 per cent stake in\u2026",
+    "link": "https://www.hitc.com/netflix-set-to-sign-200m-deal-with-fifa-amid-plans-to-privatize-world-cup/",
+    "timestamp": "2026-07-30T15:54:47Z"
+  },
+  {
+    "title": "Republicans Get Senate Warning Sign From Four Fox News Polls",
+    "description": "A quartet of Fox News surveys across key Senate battlegrounds is offering Republicans an early warning sign ahead of the 2026 midterms, with Democrats leading in several high-profile races and voters expressing growing concerns about candidates closely aligne\u2026",
+    "link": "https://biztoc.com/x/4da218d8ca5a7961",
+    "timestamp": "2026-07-30T15:53:27Z"
+  },
+  {
+    "title": "Trump Signals Defeat, May Withdraw Blanche Nomination\u2014Who Will Lead DOJ?",
+    "description": "President Donald Trump suggested Thursday that he may temporarily withdraw Todd Blanche's nomination for attorney general as Republican Senators John Cornyn of Texas and Thom Tillis of North Carolina continue to withhold support, signaling a potential setback\u2026",
+    "link": "https://biztoc.com/x/22e782e594e1b381",
+    "timestamp": "2026-07-30T15:53:25Z"
+  },
+  {
+    "title": "Speaker Johnson sheds light on Republicans\u2019 tolerance for scandal-plagued members",
+    "description": "Republican Rep. Max Miller of Ohio, a former aide to Donald Trump, has long professed his innocence, though that doesn\u2019t change the seriousness of the domestic abuse allegations against the two-term incumbent.\nAs The New York Times reported this week, Miller\u2019\u2026",
+    "link": "https://biztoc.com/x/e7e23a9fff8e1385",
+    "timestamp": "2026-07-30T15:53:17Z"
+  },
+  {
+    "title": "NOW \u2013 THOUSANDS of Illegal African Migrants From Morocco STORM the Spanish Border in the Enclave of Ceuta (SHOCK VIDEOS)",
+    "description": "Horrifying images show the absolute disaster that are Socialist S\u00e1nchez\u2019s migration policies.\nThe post NOW \u2013 THOUSANDS of Illegal African Migrants From Morocco STORM the Spanish Border in the Enclave of Ceuta (SHOCK VIDEOS) appeared first on The Gateway Pundi\u2026",
+    "link": "https://www.thegatewaypundit.com/2026/07/now-thousands-illegal-african-migrants-morocco-storm-spanish/",
+    "timestamp": "2026-07-30T15:45:37Z"
+  },
+  {
+    "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
+    "description": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal\u2014and wants a federal court to stop it before Saturday.",
+    "link": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
+    "timestamp": "2026-07-30T15:42:17Z"
+  },
+  {
+    "title": "Trump okay with temporarily retracting AG nomination",
+    "description": "United States President Donald Trump took to Truth Social on Thursday to back Acting Attorney General Todd Blanche, saying that he has the potential to \"go down as one of the Greatest Attorney General...",
+    "link": "https://biztoc.com/x/b36c7fdb414d9e25",
+    "timestamp": "2026-07-30T15:38:17Z"
+  },
+  {
+    "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
+    "description": "President Donald Trump on Thursday said he is open to \"temporarily withdrawing\" Todd Blanche's nomination as U.S. attorney general until after two Republican holdouts, Sens. John Cornyn and Thom Tillis, leave office next year.\nTrump floated that possibility i\u2026",
+    "link": "https://biztoc.com/x/0adf37db7207739a",
+    "timestamp": "2026-07-30T15:38:00Z"
+  },
+  {
+    "title": "Trump says he may temporarily pull Blanche's nomination for attorney general as Republicans seek concessions",
+    "description": "President Donald Trump said Thursday he may pull acting Attorney General Todd Blanche's nomination for attorney general, looking to avoid concessions to holdout Republicans.",
+    "link": "https://biztoc.com/x/3fa7624ddddb4991",
+    "timestamp": "2026-07-30T15:37:48Z"
+  },
+  {
+    "title": "Republicans delay vote on Trump\u2019s US attorney general pick amid concerns",
+    "description": "Senate committee postpones vote as key Republican says he has not received information on 'anti-weaponisation' fund.",
+    "link": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns",
+    "timestamp": "2026-07-30T15:36:35Z"
+  },
+  {
+    "title": "Trump Floats Pulling Todd Blanche\u2019s Nomination Until Cornyn And Tillis Leave Senate",
+    "description": "The two senators said Thursday they still aren\u2019t willing to vote for Trump\u2019s nominee.",
+    "link": "https://www.forbes.com/sites/alisondurkee/2026/07/30/trump-floats-pulling-todd-blanches-nomination-until-cornyn-and-tillis-leave-senate/",
+    "timestamp": "2026-07-30T15:35:40Z"
+  },
+  {
+    "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
+    "description": null,
+    "link": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
+    "timestamp": "2026-07-30T15:33:31Z"
+  },
+  {
+    "title": "Trump says he may pull Blanche's attorney general nomination until dissenting senators leave office",
+    "description": "President Donald Trump said Thursday he may pull acting Attorney General Todd Blanche\u2019s nomination for the full-time post to avoid making concessions to Sena...",
+    "link": "https://www.yahoo.com/news/politics/articles/trump-says-may-pull-blanches-152917656.html",
+    "timestamp": "2026-07-30T15:29:17Z"
+  },
+  {
+    "title": "Why Epstein Survivors Aren\u2019t Impressed With Blanche\u2019s Olive Branch",
+    "description": "Editor\u2019s Note: Welcome to The TNR Blue Book. It\u2019s our new daily newsletter that covers Congress and much more, but with a distinctly TNR twist: Our focus will be strictly on Democrats, liberal and progressive groups, and the fight to take back power and save \u2026",
+    "link": "https://newrepublic.com/post/213733/blanche-confirmation-epstein-survivors-vote",
+    "timestamp": "2026-07-30T15:29:07Z"
+  },
+  {
+    "title": "Trump says he\u2019s open to temporarily withdrawing Blanche nomination amid GOP resistance | CNN Politics",
+    "description": "President Donald Trump says he wouldn\u2019t object to temporarily withdrawing Todd Blanche as his nominee for attorney general amid resistance from two Republican senators.",
+    "link": "https://www.cnn.com/2026/07/30/politics/todd-blanche-donald-trump-nomination-gop",
+    "timestamp": "2026-07-30T15:28:53Z"
+  },
+  {
+    "title": "Andy Burnham signals he's ready to ditch Ed Miliband's Net Zero stance as he says Britain 'can't ignore' the North Sea and reveals he told Donald Trump he'd take a 'pragmatic approach'",
+    "description": "The Prime Minister also revealed he had told US President Donald Trump that he would take a 'pragmatic approach' to fossil fuels during their first talks last week.",
+    "link": "https://www.dailymail.com/news/article-16017159/Andy-Burnham-signals-hes-ready-ditch-Ed-Milibands-Net-Zero-stance-says-Britain-ignore-North-Sea-reveals-told-Donald-Trump-hed-pragmatic-approach.html",
+    "timestamp": "2026-07-30T15:28:41Z"
+  },
+  {
+    "title": "DOJ goes to special court to send mother of terrorists back to Afghanistan",
+    "description": "The Biden administration admitted \u2014 at an accelerated pace \u2014 thousands of Afghans into the United States following the collapse of Kabul, despite warnings from Donald Trump, then-Sen. JD Vance (R-Ohio), and others about the likelihood of extremists slipping t\u2026",
+    "link": "https://www.theblaze.com/news/removal-of-afghan-matriarch-linked-to-election-day-massacre-plot-pursued-in-dojs-first-ever-case-before-special-court",
+    "timestamp": "2026-07-30T15:26:41Z"
+  },
+  {
+    "title": "Trump endorses man who \u2018entered politics as trans woman used same restroom as daughter\u2019",
+    "description": "President Donald Trump has endorsed Michigan Republican Amir Hassan in his campaign for the state\u2019s 8th Congressional District, throwing his support behind a candidate who says he only became politically active after a transgender woman used the same restroom\u2026",
+    "link": "https://www.thepinknews.com/2026/07/30/donald-trump-endorses-amir-hassan-trans-woman-restroom/",
+    "timestamp": "2026-07-30T15:24:10Z"
+  },
+  {
+    "title": "\u2018What planet are you on?\u2019 Voters, pollsters mystified by Trump\u2019s tariffs boasts in Michigan",
+    "description": "Flying to a rally at General Motors this week, President Donald Trump declared that \u201ccar companies are doing better than they\u2019ve ever done\u201d thanks to his tariffs.\n\u201cAll because of Trump,\u201d he said.\nIt was a message the Republican president repeated while tourin\u2026",
+    "link": "https://biztoc.com/x/13c3e287040ee437",
+    "timestamp": "2026-07-30T15:23:41Z"
+  },
+  {
+    "title": "As Trump\u2019s approval rating reaches embarrassing depths, the GOP faces a difficult choice",
+    "description": "About a month ago, as part of an all-caps rant published to his social media platform, Donald Trump said his \u201creal\u201d public support had reached an all-time high. The president, who has an unfortunate track record of simply making up generous approval ratings f\u2026",
+    "link": "https://biztoc.com/x/44a295f2a1869b78",
+    "timestamp": "2026-07-30T15:23:20Z"
+  },
+  {
+    "title": "Trump Concludes Meetings With Zelenskyy, Netanyahu",
+    "description": "By Elizabeth Troutman Mitchell, The Daily Signal | July 28, 2026\nPresident Donald Trump held meetings Tuesday with Ukrainian President Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu, as the United States considers further military action in\u2026",
+    "link": "https://biztoc.com/x/00cefe5c744ffed6",
+    "timestamp": "2026-07-30T15:23:08Z"
+  },
+  {
+    "title": "Trump touted his tariffs in Michigan despite rising costs. Even some of his supporters are worried",
+    "description": "During President Donald Trump's rally in Milford, the crowd was adoring. But even some of his ardent supporters said prices are too high and tariffs had caused short-term economic pain.",
+    "link": "https://biztoc.com/x/d047f17b48d8dc14",
+    "timestamp": "2026-07-30T15:22:46Z"
+  },
+  {
+    "title": "Fox host says Reacher star Alan Ritchson is \u2018spiritually diseased\u2019 after Trump bashing comments",
+    "description": "Action star said he refuses to let go of his resentment toward Trump",
+    "link": "https://www.the-independent.com/arts-entertainment/tv/news/fox-gutfeld-reacher-alan-ritchson-trump-b3024729.html",
+    "timestamp": "2026-07-30T15:21:32Z"
+  },
+  {
+    "title": "Dr. Deborah Birx Claims Some States Kept \u2018Very Tight\u2019 2020 COVID Restrictions to Hurt Trump",
+    "description": "Dr. Deborah Birx claimed that some states kept tight COVID restrictions in place in 2020 \"because it was an election year,\" and they wanted to hurt Trump.\nThe post Dr. Deborah Birx Claims Some States Kept \u2018Very Tight\u2019 2020 COVID Restrictions to Hurt Trump fir\u2026",
+    "link": "https://www.mediaite.com/media/news/dr-deborah-birx-claims-some-states-kept-very-tight-2020-covid-restrictions-to-hurt-trump/",
+    "timestamp": "2026-07-30T15:21:04Z"
+  },
+  {
+    "title": "ABC Calls on FCC to Dismiss Early Renewal License Review: \u2018Untimely and Unwarranted\u2019",
+    "description": "The network's opposition filing references 150,000 public comments largely in support of its broadcast stations\nThe post ABC Calls on FCC to Dismiss Early Renewal License Review: \u2018Untimely and Unwarranted\u2019 appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/industry-news/public-policy-legal/abc-fcc-dismiss-early-renewal-license-review-opposition-filing/",
+    "timestamp": "2026-07-30T15:20:16Z"
+  },
+  {
+    "title": "Disney and ABC Ask FCC to Reject Petitions to Deny TV License Renewals, Say Agency Is Taking \u2018Punitive\u2019 Action Against Broadcasters Trump Dislikes",
+    "description": "Disney and ABC urged the FCC to toss out petitions calling for the agency to deny the renewal of broadcast licenses for ABC's eight owned-and-operated TV stations, and they reiterated the assertion that the agency targeting the stations with the \"death penalt\u2026",
+    "link": "https://variety.com/2026/tv/news/disney-abc-reply-fcc-license-renewals-reject-trump-1236823657/",
+    "timestamp": "2026-07-30T15:17:52Z"
+  },
+  {
+    "title": "Suspected Iranian Drone Hits U.S.-Owned Gas Tanker in Egypt",
+    "description": "\"Iranian state television had identified (Egyptian port of) Damietta as a possible target.\"\u00a0\nThe post Suspected Iranian Drone Hits U.S.-Owned Gas Tanker in Egypt first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+    "link": "https://legalinsurrection.com/2026/07/suspected-iranian-drone-hits-u-s-owned-gas-tanker-in-egypt/",
+    "timestamp": "2026-07-30T15:17:09Z"
+  },
+  {
+    "title": "Indonesia\u2019s Biggest Comedian Sold Out Arenas While Pissing Off the Government. Now He\u2019s Starting Over in America",
+    "description": "\u201cI love starting out from scratch,\u201d Pandji Pragiwaksono says from a campsite somewhere in West Java, Indonesia, talking to me via Zoom in the glow of a lantern light. He\u2019s a couple hours\u2019 drive from his hometown of Jakarta but a 27-hour trip from New York Cit\u2026",
+    "link": "https://variety.com/2026/tv/news/pandji-indonesia-blasphemy-case-new-tour-america-1236823976/",
+    "timestamp": "2026-07-30T15:15:00Z"
+  },
+  {
+    "title": "EU aims to build AI gigafactories of its own",
+    "description": "The EU has unveiled a plan to raise state and private funds to hyperscale AI capabilities and gain independence from non-European governments. The plan calls for the construction of seven new sites across the bloc. The European Commission on Thursday announce\u2026",
+    "link": "https://www.dw.com/en/eu-aims-to-build-ai-gigafactories-of-its-own/a-78179533",
+    "timestamp": "2026-07-30T15:15:00Z"
+  },
+  {
+    "title": "Senate warns Trump against pardoning Epstein-linked sex trafficker",
+    "description": "The US Senate has unanimously urged Donald Trump not to pardon convicted Jeffrey Epstein accomplice Ghislaine Maxwell Read Full Article at RT.com",
+    "link": "https://www.rt.com/news/643669-us-senate-maxwell-no-pardon/",
+    "timestamp": "2026-07-30T15:13:30Z"
+  },
+  {
+    "title": "WATCH: TMZ's Harvey Levin Claims 'Heartbreaking' Anthony Fauci Hearing Puts U.S. in 'McCarthy Climate'",
+    "description": "TMZ producer and journalist Harvey Levin said Dr. Anthony Fauci's congressional hearing on Wednesday was \"heartbreaking,\" claiming members of Congress were on a \"witch hunt.\"\nThe post WATCH: TMZ\u2019s Harvey Levin Claims \u2018Heartbreaking\u2019 Anthony Fauci Hearing Puts\u2026",
+    "link": "https://www.breitbart.com/entertainment/2026/07/30/watch-tmzs-harvey-levin-claims-heartbreaking-anthony-fauci-hearing-puts-u-s-in-mccarthy-climate/",
+    "timestamp": "2026-07-30T15:13:24Z"
+  },
+  {
+    "title": "Senate committee advances nomination of Dr. Erica Schwartz to be Trump's CDC director",
+    "description": "President Donald Trump's nominee to lead the Centers for Disease Control and Prevention has cleared a hurdle in the Senate",
+    "link": "https://abcnews.com/Health/wireStory/senate-committee-advances-nomination-dr-erica-schwartz-trumps-135228808",
+    "timestamp": "2026-07-30T15:13:00Z"
+  },
+  {
+    "title": "Senior diplomatic official: Reported framework for Israel-Hamas deal inadequate",
+    "description": "A senior Israeli diplomatic official responded to reports that Israel and Hamas are proceeding toward a deal that would see the terrorist organization disarm.The official stressed that the issue of Gaza did not come up at all during the meeting between Prime \u2026",
+    "link": "https://www.israelnationalnews.com/flashes/690877",
+    "timestamp": "2026-07-30T15:12:00Z"
+  },
+  {
+    "title": "With Blanche in limbo, Cornyn hands DOJ new Trump settlement proposal",
+    "description": "Sen. John Cornyn said Thursday he has sent the Justice Department a new offer to resolve the standoff that has thrown Todd Blanche\u2019s nomination as attorney general into limbo. \nThe negotiations surround modifications to a controversial DOJ-brokered settlement\u2026",
+    "link": "https://biztoc.com/x/dc01969da3b607b7",
+    "timestamp": "2026-07-30T15:08:01Z"
+  },
+  {
+    "title": "Netanyahu Denies Israeli Effort To Influence US Iran Policy",
+    "description": "Israeli Prime Minister Benjamin Netanyahu has rejected accusations that Israel is trying to persuade President Donald Trump to continue military action against Iran or undermine diplomatic efforts between Washington and Tehran.\nAccording to the report, Netany\u2026",
+    "link": "https://biztoc.com/x/8625169e52f86d74",
+    "timestamp": "2026-07-30T15:07:43Z"
+  },
+  {
+    "title": "Top Republicans fear truth about Trump's Iran war is being hidden: Furious battle spills out over 'yes men' lying to the president",
+    "description": "Republicans are secretly afraid that President\u00a0Donald Trump's top military brass are hiding the truth of what's happening on the ground in Iran from the president as the war drags on.",
+    "link": "https://www.dailymail.com/news/article-16011541/republicans-iran-war-truth-trump.html",
+    "timestamp": "2026-07-30T15:07:28Z"
+  },
+  {
+    "title": "Bombs Away",
+    "description": "Ten days ago, Andy Burnham stood outside Number 10 and announced a \u2018circuit breaker for Britain, bringing forward the biggest changes in the last...",
+    "link": "https://www.lrb.co.uk/blog/2026/july/bombs-away",
+    "timestamp": "2026-07-30T15:05:45Z"
+  },
+  {
+    "title": "AOC Touts The 'Promise' Of Psychedelics To Treat Mental Health Conditions As Reform Amendments Advance In Congress - Marijuana Moment",
+    "description": "Bipartisan members of Congress are celebrating the House\u2019s passage last week of amendments to\u00a0extend a psychedelics research effort at the Department of Defense (DOD) for an additional six years\u00a0and to codify provisions of a psychedelics executive order signe\u2026",
+    "link": "https://www.marijuanamoment.net/aoc-touts-the-promise-of-psychedelics-to-treat-mental-health-conditions-as-reform-amendments-advance-in-congress/",
+    "timestamp": "2026-07-30T15:04:56Z"
+  },
+  {
+    "title": "Trump-Affiliated Companies\u2014Including Kalshi, Polymarket\u2014Distance Themselves From IRS Deal As It Derails Blanche Confirmation",
+    "description": "The scope of the seemingly broad immunity agreement has become a sticking point in Todd Blanche\u2019s confirmation as attorney general.",
+    "link": "https://www.forbes.com/sites/alisondurkee/2026/07/30/trump-affiliated-companies-including-kalshi-polymarket-distance-themselves-from-irs-deal-as-it-derails-blanche-confirmation/",
+    "timestamp": "2026-07-30T15:03:34Z"
+  },
+  {
+    "title": "\u2018What planet are you on?\u2019 Voters, pollsters mystified by Trump\u2019s tariffs boasts in Michigan",
+    "description": "Trump declared \"Michigan is thriving\" at a GM rally, but a $1,100-a-month retiree in his own crowd says he's \"forgot about the people on a fixed income.\"",
+    "link": "https://fortune.com/2026/07/30/michigan-tariffs-manufacturing-jobs-trump-rally/",
+    "timestamp": "2026-07-30T15:03:02Z"
+  },
+  {
+    "title": "Ghislaine Maxwell: Senate Unanimously Votes to Oppose Pardon For Imprisoned Epstein \u2026",
+    "description": "Reading Time: 2 minutesGhislaine Maxwell just suffered yet another legal setback.\nGhislaine Maxwell: Senate Unanimously Votes to Oppose Pardon For Imprisoned Epstein \u2026 was originally published on The Hollywood Gossip.",
+    "link": "https://www.thehollywoodgossip.com/2026/07/ghislaine-maxwell-senate-unanimously-votes-to-oppose-pardon-for-imprisoned-epstein-accomplice/",
+    "timestamp": "2026-07-30T15:02:21Z"
+  },
+  {
+    "title": "Hate is still a public health emergency \u2014 and the epidemic we keep ignoring",
+    "description": "I wrote in 2016 in The Advocate in response to the Pulse Nightclub shooting that hate behaves like an infectious agent \u2014 that violence is the epidemic, and hate is the pathogen driving it. Eight years later, I wish I could say that the outbreak has slowed. In\u2026",
+    "link": "https://www.advocate.com/opinion/hate-public-health-emergency-trump",
+    "timestamp": "2026-07-30T15:01:12Z"
+  },
+  {
+    "title": "Quick Return To WAR: US Responds To Iran\u2019s \u201cSurprise Attack\u201d With Bombings",
+    "description": "The United States has resumed its bombing of Iran after a \"surprise attack\" on American forces. US President Donald Trump had warned earlier on Wednesday that Iran was about to face a harsh response, reportedly telling Fox News:\u00a0\u201cWe\u2019re going to beat the f***i\u2026",
+    "link": "https://www.shtfplan.com/member-exclusive/quick-return-to-war-us-responds-to-irans-surprise-attack-with-bombings",
+    "timestamp": "2026-07-30T15:00:14Z"
+  },
+  {
+    "title": "Rift with Thune drives wedge into Party...",
+    "description": "The president is heaping demands on his Senate leader that, to many of their colleagues, feel unachievable.",
+    "link": "https://www.semafor.com/article/07/30/2026/trumps-rift-with-thune-drives-a-wedge-into-the-republican-party",
+    "timestamp": "2026-07-30T15:00:13Z"
+  },
+  {
+    "title": "Iran's Strike on Jordan Signals a More Aggressive Military Strategy",
+    "description": "Iran fired ballistic missiles at American bases in Jordan late on July 28, in what appeared to be the first time Tehran initiated an attack on US targets since the war began in late February. The Islamic Republic has claimed it is fighting a war of resistance\u2026",
+    "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Strike-on-Jordan-Signals-a-More-Aggressive-Military-Strategy.html",
+    "timestamp": "2026-07-30T15:00:00Z"
+  },
+  {
+    "title": "Cambridge Analytica\u2019s Website Is Now an AI Slop Farm",
+    "description": "Somehow, Cambridge Analytica has returned. Sort of.\nThe post Cambridge Analytica\u2019s Website Is Now an AI Slop Farm appeared first on Futurism.",
+    "link": "https://futurism.com/artificial-intelligence/cambridge-analytica-ai-slop-farm",
+    "timestamp": "2026-07-30T14:58:12Z"
+  },
+  {
+    "title": "Israeli defense forces dismantle over 10 underground tunnel routes, including one used to detain hostages",
+    "description": "The dismantling of tunnels by the IDF may escalate tensions, impacting ceasefire prospects and market stability amid ongoing conflict dynamics.\nThe post Israeli defense forces dismantle over 10 underground tunnel routes, including one used to detain hostages \u2026",
+    "link": "https://cryptobriefing.com/israeli-defense-forces-dismantle-over-10-underground-tunnel-routes-including/",
+    "timestamp": "2026-07-30T14:57:52Z"
+  },
+  {
+    "title": "Trump Can't Figure A Way Out Of His Clusterf*ck War And It's Driving Him Mad",
+    "description": "Donald Trump is learning the hard way that you shouldn't launch an illegal war on behalf of a genocidal sociopath unless you're prepared to be in it for the long haul. \nAs Trump's Israel-backed war with Iran bleeds (both figuratively and literally) into its s\u2026",
+    "link": "https://crooksandliars.com/2026/07/trump-cant-figure-way-out-his-clusterfck",
+    "timestamp": "2026-07-30T14:54:53Z"
+  },
+  {
+    "title": "Socialist Frontrunner For Governor Caught In Shocking Lie",
+    "description": "Democratic Wisconsin gubernatorial front-runner Francesca Hong is facing fresh scrutiny after a years-old social media post calling to \u201cAbolish the Senate\u201d resurfaced, even as her campaign now insists she never took that position. \u201cAbolish the Senate,\u201d Hong, \u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4389925/posts",
+    "timestamp": "2026-07-30T14:53:04Z"
+  },
+  {
+    "title": "Colorado House Candidate Manny Rutinel Sponsored Legislation Forcing Health Insurers To Cover Sex Changes For Kids",
+    "description": "The Democratic nominee in Colorado's competitive Eighth Congressional District, Manny Rutinel, sponsored legislation requiring health insurers to cover \"gender-affirming health care,\" including sex changes\u2014with no age restrictions.",
+    "link": "https://freebeacon.com/democrats/colorado-house-candidate-manny-rutinel-sponsored-legislation-forcing-health-insurers-to-cover-sex-changes-for-kids/",
+    "timestamp": "2026-07-30T14:52:41Z"
+  },
+  {
+    "title": "ROOKE: GOP Governor\u2019s Weak Response On Immigration Is The Reason We Can\u2019t Stop Fighting The Blob",
+    "description": "Ohio Republican Gov. Mike DeWine\u2019s recent defense of Haitian Temporary Protected Status (TPS) holders represents a deep failure inside the GOP.",
+    "link": "https://dailycaller.com/2026/07/30/rooke-mike-dewine-gop-tps-haitian-ohio-trump",
+    "timestamp": "2026-07-30T14:52:21Z"
+  },
+  {
+    "title": "The controversial FIFA proposal shaking the soccer world, explained",
+    "description": "Even though the World Cup just ended, FIFA has managed to keep itself front and center of the global sports discourse this week.",
+    "link": "https://www.usatoday.com/story/sports/soccer/2026/07/30/fifa-investment-plan-controversy-infantino-explained/91104455007/",
+    "timestamp": "2026-07-30T14:51:22Z"
+  },
+  {
+    "title": "The professional organization of police executives endorses passage of the clarity act",
+    "description": "The endorsement enhances the Clarity Act's credibility, potentially accelerating legislative momentum and influencing regulatory frameworks.\nThe post The professional organization of police executives endorses passage of the clarity act appeared first on Cryp\u2026",
+    "link": "https://cryptobriefing.com/the-professional-organization-of-police-executives-endorses-passage-of-the/",
+    "timestamp": "2026-07-30T14:51:07Z"
+  },
+  {
+    "title": "Iran war: Is Ukraine opening a new front in Caspian Sea?",
+    "description": "Tehran has threatened a response after a Ukrainian strike on a Iranian cargo ship in the Caspian Sea Kyiv says was carrying weapons to Russia. A recent Ukrainian strike on an Iranian vessel in the Caspian Sea has drawn concerns that Russia's war in Ukraine an\u2026",
+    "link": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784",
+    "timestamp": "2026-07-30T14:49:00Z"
+  },
+  {
+    "title": "'Laughably bad:' Expert reveals Trump's tanking on issue that won him the White House",
+    "description": "President Donald Trump's standing on the issue that won him the White House in 2024 has collapsed to levels without precedent in modern polling, according to CNN's Harry Enten.The president's net approval rating on inflation, measuring approval minus disappro\u2026",
+    "link": "https://www.rawstory.com/donald-trump-inflation-2677292146/",
+    "timestamp": "2026-07-30T14:48:41Z"
+  },
+  {
+    "title": "Senate Unanimously Opposes Pardon for Ghislaine Maxwell Amid Blanche Confirmation Drama",
+    "description": "The Senate voted unanimously to block a possible pardon for Ghislaine Maxwell as drama swirled over the confirmation vote of acting U.S. Attorney General Todd Blanche.\nThe post Senate Unanimously Opposes Pardon for Ghislaine Maxwell Amid Blanche Confirmation \u2026",
+    "link": "https://www.mediaite.com/media/news/senate-unanimously-opposes-pardon-for-ghislaine-maxwell-amid-blanche-confirmation-drama/",
+    "timestamp": "2026-07-30T14:44:23Z"
+  },
+  {
+    "title": "Disgraced Chicago hospital executive left glam wife and mansion to flee to\u00a0 SERBIA after he was accused of $15m scam",
+    "description": "Dr Anosh Ahmed, 42, is facing fraud and embezzlement charges in two separate federal indictments, according to federal court records reviewed by the Daily Mail.",
+    "link": "https://www.dailymail.com/news/article-16014395/anosh-ahmed-chicago-hospital-fraud-serbia.html",
+    "timestamp": "2026-07-30T14:44:22Z"
+  },
+  {
+    "title": "IRGC Says It Struck Kuwait Air Base Hosting US Troops",
+    "description": "TEHRAN (Sputnik) - The Iranian military in the early hours of Thursday hit the Ali Al Salem air base in Kuwait housing US forces, destroying two drone hangars and a fuel storage facility, in response to US attacks on Iran, the Islamic Revolutionary Guard Corp\u2026",
+    "link": "https://sputnikglobe.com/20260730/irgc-says-it-struck-kuwait-air-base-hosting-us-troops-1124519031.html",
+    "timestamp": "2026-07-30T14:43:12Z"
+  },
+  {
+    "title": "Sen Chuck Schumer unveils anti-corruption agency aimed at Trump and future presidents",
+    "description": "Chuck Schumer's Anti-Corruption Bureau would have subpoena power and replace the Office of Government Ethics and Federal Election Commission.",
+    "link": "https://www.foxnews.com/politics/sen-chuck-schumer-unveils-anti-corruption-agency-aimed-trump-future-presidents",
+    "timestamp": "2026-07-30T14:42:40Z"
+  },
+  {
+    "title": "Trump eyes more AI restrictions following OpenAI's model going rogue",
+    "description": "US President Donald Trump floated the possibility of further controls on AI development in the wake of an OpenAI model going rogue and industry leaders joining calls for a pause. More than 1,200 AI company employees \u2014 including Anthropic\u2019s CEO and senior Goog\u2026",
+    "link": "https://biztoc.com/x/a66cb9198312bf1c",
+    "timestamp": "2026-07-30T14:37:55Z"
+  },
+  {
+    "title": "Trump panics over E. Jean Carroll's 'irretrievable' plans for $5M payout",
+    "description": "President Donald Trump took urgent court action this week against writer E. Jean Carroll, arguing that her use of a $5 million sexual abuse defamation payout would make the funds \"irretrievable.\"A 2023 jury found Trump liable for sexually abusing Carroll in a\u2026",
+    "link": "https://www.rawstory.com/trump-panics-carroll-payout/",
+    "timestamp": "2026-07-30T14:36:18Z"
+  },
+  {
+    "title": "WATCH: Schumer's anti-corruption speech derailed after heckler brands him 'genocidal maniac'",
+    "description": "A protester accused Chuck Schumer of backing genocide in Gaza, moments before his major anti-corruption announcement at the National Press Club.",
+    "link": "https://www.foxnews.com/politics/watch-schumers-anti-corruption-speech-derailed-after-heckler-brands-him-genocidal-maniac",
+    "timestamp": "2026-07-30T14:33:32Z"
+  },
+  {
+    "title": "Trump\u2019s Iran war frustration and on the frontline of France\u2019s wildfire: Morning Rundown - NBC News",
+    "description": "Trump\u2019s Iran war frustration and on the frontline of France\u2019s wildfire: Morning RundownNBC News Trump is stuck in Iran. Here\u2019s one idea that could offer a way outCNN Trump \u2018exasperated\u2019 on Iran as top officials can\u2019t agree on strategy, sources sayNBC News See\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=184770468",
+    "timestamp": "2026-07-30T14:33:01Z"
+  },
+  {
+    "title": "Iran Claims to Have Killed U.S. Troops to 'Liberate the Islamic Land of Jordan'",
+    "description": "Iran's terrorist Islamic Revolutionary Guard Corps (IRGC) claimed to have killed \"several\" Americans during a bombing of Jordan overnight into Thursday and destroyed three fighter jets \u2014 a report the Jordanian government appeared to deny, as it reported only \u2026",
+    "link": "https://www.breitbart.com/middle-east/2026/07/30/iran-claims-to-have-killed-u-s-troops-to-liberate-the-islamic-land-of-jordan/",
+    "timestamp": "2026-07-30T14:32:20Z"
+  },
+  {
+    "title": "We cannot accept the deceit of Iran's terror regime",
+    "description": "Ayatollah Ruhollah Khomeini secured power by making promises to President Jimmy Carter that he never intended to keep. Today, President Donald Trump is responding to Iran's duplicity with a fundamentally different approach. Opinion.",
+    "link": "https://www.israelnationalnews.com/news/431011",
+    "timestamp": "2026-07-30T14:32:18Z"
+  },
+  {
+    "title": "US military launches new strikes against Iranian targets, and crypto markets are feeling the heat",
+    "description": "The US-Iran conflict's escalation impacts crypto markets, highlighting Bitcoin's vulnerability to geopolitical tensions and potential regulatory shifts.\nThe post US military launches new strikes against Iranian targets, and crypto markets are feeling the heat\u2026",
+    "link": "https://cryptobriefing.com/us-iran-strikes-crypto-market-impact-7/",
+    "timestamp": "2026-07-30T14:31:18Z"
+  },
+  {
+    "title": "Trump Flounders Over Republican Revolt Against Todd Blanche",
+    "description": "The White House wasn\u2019t ready for the revolt against acting Attorney General Todd Blanche\u2019s confirmation.President Donald Trump\u2019s inner circle \u201cseemed surprised\u201d by the Republican pushback to Blanche\u2019s nomination, MS NOW reported Thursday. The Senate Judiciary\u2026",
+    "link": "https://newrepublic.com/post/213736/donald-trump-republican-revolt-todd-blanche-attorney-general",
+    "timestamp": "2026-07-30T14:30:03Z"
+  },
+  {
+    "title": "Trump Is Absolutely Flailing in High-Quality Polls",
+    "description": "Multiple high-quality polls now show another drop-off in Trump\u2019s job approval, and he\u2019s apparently lost independents, who were split between him and Kamala Harris in 2024. Ed Kilgore goes through the numbers.",
+    "link": "http://nymag.com/intelligencer/article/trumps-job-approval-is-cratering-in-key-polls.html",
+    "timestamp": "2026-07-30T14:30:01Z"
+  },
+  {
+    "title": "Louisiana Gov. Jeff Landry\u2019s tough stance on New Orleans mirrors other red-state governors",
+    "description": "Landry joins other red-state governors in taking a tough approach to Democratic-controlled cities. Critics say it\u2019s political point-scoring; Landry says it\u2019s time the city was held responsible for mismanagement.",
+    "link": "https://www.theadvocate.com/baton_rouge/news/politics/jeff-landry-mirrors-gop-governors-with-new-orleans-moves/article_1db843e3-603b-5210-a4ab-365b77df900d.html",
+    "timestamp": "2026-07-30T14:30:00Z"
+  },
+  {
+    "title": "Ukrainian attack is Zelensky\u2019s \u2018gift to Zionists and Trump\u2019 \u2013 ex-IRGC commander (VIDEO)",
+    "description": "Former IRGC commander Hossein Kanani Moghaddam says Ukraine attacked an Iranian cargo ship to please Israel and the US, while warning of retaliation",
+    "link": "https://www.rt.com/news/643653-irgc-moghaddam-zelensky-gift-caspian-sea/",
+    "timestamp": "2026-07-30T14:29:30Z"
+  },
+  {
     "title": "The US military launches new strikes against iranian targets after Trump threat",
     "description": "The escalation in US-Iran tensions could destabilize global markets and increase the risk of broader regional conflicts.\nThe post The US military launches new strikes against iranian targets after Trump threat appeared first on Crypto Briefing.",
     "link": "https://cryptobriefing.com/the-us-military-launches-new-strikes-against-iranian-targets-after-trump-threat/",
@@ -40,509 +544,5 @@
     "description": "A fugitive on the FBI\u2019s Most Wanted Fraudsters List was returned to Florida to face federal charges for her alleged role in a $32 million federal COVID-19 relief fund fraud. Elaine Escoe, 41, was charged by indictment in 2025 with conspiracy to commit wire fr\u2026",
     "link": "https://freerepublic.com/focus/f-news/4389914/posts",
     "timestamp": "2026-07-30T14:08:39Z"
-  },
-  {
-    "title": "Trump Says \u2018It\u2019s Our Turn to Hit\u2019 Iran Hard as War Escalates Again",
-    "description": "President Donald Trump said the US would strike back at Iran after a recent attack that targeted a military base in Jordan. #trump #iran #usa #news #politics #world \nThe US and Saudi Arabia struck Iran-backed militants in Iraq, and Iranian media said the Isla\u2026",
-    "link": "https://biztoc.com/x/04513450a1caf16f",
-    "timestamp": "2026-07-30T14:07:35Z"
-  },
-  {
-    "title": "Homeland Security Is Spending $1 Billion on 'Autonomous' Border Surveillance Towers",
-    "description": "The department plans to triple the number of surveillance towers along the U.S.-Mexico border over the next decade.",
-    "link": "https://reason.com/2026/07/30/homeland-security-is-spending-1-billion-on-autonomous-border-surveillance-towers/",
-    "timestamp": "2026-07-30T14:07:11Z"
-  },
-  {
-    "title": "Musk plans major Republican midterm spending push: report",
-    "description": "Musk has not specified how much he intends to spend. America PAC did not immediately respond to a request for comment.\nThe post Musk plans major Republican midterm spending push: report appeared first on Digital Journal.",
-    "link": "https://www.digitaljournal.com/article/musk-plans-major-republican-midterm-spending-push-report/",
-    "timestamp": "2026-07-30T14:05:36Z"
-  },
-  {
-    "title": "Rogan Weighs In On \u2018Odyssey\u2019 Culture War: \u2018I Don\u2019t Care\u2019 About Casting Controversy",
-    "description": "Joe Rogan rebuffed a chorus of conservative critics who have slammed Christopher Nolan\u2019s diverse casting choices in \u201cThe Odyssey.\u201d",
-    "link": "https://www.forbes.com/sites/conormurray/2026/07/30/rogan-weighs-in-on-odyssey-culture-war-i-dont-care-about-casting-controversy/",
-    "timestamp": "2026-07-30T14:03:33Z"
-  },
-  {
-    "title": "Netanyahu opens up about working relationship with Trump, says Israel is 'junior partner'",
-    "description": "Benjamin Netanyahu describes Trump as an \"irreverent\" leader whose instincts are \"always on target\" in a podcast conversation with Sean Hannity.",
-    "link": "https://www.foxnews.com/media/netanyahu-opens-working-relationship-trump-rejects-claims-either-calls-shots",
-    "timestamp": "2026-07-30T14:00:42Z"
-  },
-  {
-    "title": "The Real Reason Trump Hasn\u2019t Been Able to Win the War With Iran",
-    "description": "The president should have heeded this lesson about war before he got into this mess.",
-    "link": "https://slate.com/news-and-politics/2026/07/trump-iran-war-bombing-air-force.html",
-    "timestamp": "2026-07-30T14:00:00Z"
-  },
-  {
-    "title": "It Doesn\u2019t Get Much Dumber Than Trump\u2019s War on \u2018DEI Bike Lanes\u2019",
-    "description": "Donald Trump and Sean Duffy have waged a war against \"DEI bike lanes,\" arguing that they take up room that could be used for cars.",
-    "link": "http://www.rollingstone.com/politics/political-commentary/trump-sean-duffy-war-dei-bike-lanes-1235600848/",
-    "timestamp": "2026-07-30T14:00:00Z"
-  },
-  {
-    "title": "US economic growth slows in second quarter, missing expectations",
-    "description": "WASHINGTON: The United States saw slowing growth in the second quarter, the Commerce Department said on Thursday (Jul 30), with the fallout from President Donald Trump's Iran war weighing on the world's largest economy.GDP grew at a sluggish annualised rate o\u2026",
-    "link": "https://www.channelnewsasia.com/world/us-economic-growth-slows-in-second-quarter-missing-expectations-6288756",
-    "timestamp": "2026-07-30T13:59:00Z"
-  },
-  {
-    "title": "Sen. darline graham launches senate campaign to keep her late brother\u2019s seat, pledging that \u201cevery life matters\u201d",
-    "description": "Darline Graham's campaign could solidify GOP influence in South Carolina, impacting Democratic strategies and shaping future Senate dynamics.\nThe post Sen. darline graham launches senate campaign to keep her late brother\u2019s seat, pledging that \u201cevery life matt\u2026",
-    "link": "https://cryptobriefing.com/sen-darline-graham-launches-senate-campaign-to-keep-her-late-brothers-seat/",
-    "timestamp": "2026-07-30T13:57:59Z"
-  },
-  {
-    "title": "'Prepared to vote no': GOP Senate holdout drops live-TV bomb on Trump",
-    "description": "Sen. John Cornyn (R-TX) made it clear during an impromptu interview on MS NOW that he is prepared to stop acting Attorney General Todd Blanche from assuming the permanent position. As MS NOW host Stephani Ruhle was discussing Blanche\u2019s travails at getting out\u2026",
-    "link": "https://www.rawstory.com/blanche-cornyn-no/",
-    "timestamp": "2026-07-30T13:52:34Z"
-  },
-  {
-    "title": "\u2018Next Gen NYC\u2019 recap: Ariana\u2019s hook-up with Charlie confirmed, Gia addresses Trump backlash & more, VRT unpacks episode 6",
-    "description": "The tea is piping hot as \u201cVirtual Reali-Tea\u201d co-hosts Danny Murphy and Evan Real are recapping \u201cNext Gen NYC\u201d season 2, episode 6, and the explosive midseason trailer. Ariana Biermann\u2019s love \u201crectangle\u201d was exposed, as VRT exclusively received confirmation ab\u2026",
-    "link": "https://pagesix.com/video/next-gen-nyc-recap-arianas-hook-up-with-charlie-confirmed-gia-addresses-trump-backlash-more-vrt-unpacks-episode-6/",
-    "timestamp": "2026-07-30T13:48:58Z"
-  },
-  {
-    "title": "Scandalized ex-NFL star who allegedly owes $50,000 in child support posts wild video of him celebrating release from jail",
-    "description": "Bell's attorney Thomas Shaffer\u00a0previously said that the issue stems from Bell's child support payments being based on his NFL salary, which he hasn't earned since 2021, when he finished his career.",
-    "link": "https://www.dailymail.com/sport/nfl/article-16015581/leveon-bell-child-support-jail-release.html",
-    "timestamp": "2026-07-30T13:44:25Z"
-  },
-  {
-    "title": "Trump met Netanyahu and Zelensky this week as diplomatic tensions intensify",
-    "description": "Diplomatic divisions may exacerbate global tensions, impacting ceasefire prospects and market stability amid ongoing geopolitical conflicts.\nThe post Trump met Netanyahu and Zelensky this week as diplomatic tensions intensify appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/trump-met-netanyahu-and-zelensky-this-week-as-diplomatic-tensions-intensify/",
-    "timestamp": "2026-07-30T13:40:56Z"
-  },
-  {
-    "title": "Washington May Be \u201cLearning to Live\u201d With Iran, Ukraine and Israel",
-    "description": "President Donald Trump met with both President Volodymyr Zelensky\u00a0of Ukraine and Prime Minister Benjamin Netanyahu of Israel on Tuesday in private sessions lacking the usual fanfare, photo ops and press releases. \nThe men were in town to participate in \u2026\nThe \u2026",
-    "link": "https://www.globalresearch.ca/washington-live-iran-ukraine-israel/5935087",
-    "timestamp": "2026-07-30T13:40:28Z"
-  },
-  {
-    "title": "From a Regional War to a Global Conflagration.",
-    "description": "Welcome to World War III. It began long ago. \nNow, regional wars are increasingly becoming intertwined. This is how the \u201creal\u201d world war emerges\u2014like a massive, widespread conflagration.\n\nTo read this article in the following languages, click the Translate We\u2026",
-    "link": "https://www.globalresearch.ca/regional-war-global-conflagration/5935101",
-    "timestamp": "2026-07-30T13:37:28Z"
-  },
-  {
-    "title": "Trump Losing US Support on Iran Amid Renewed Heavy Strikes",
-    "description": "Support among American voters for U.S. military action in Iran has slumped to its lowest level since the start of the war, according to one polling outlet in a survey that comes as President Donald Trump announced further strikes on the Islamic Republic.\nThe \u2026",
-    "link": "https://biztoc.com/x/1c48f47990b06e05",
-    "timestamp": "2026-07-30T13:37:25Z"
-  },
-  {
-    "title": "U.S. economic growth continues to struggle as the Trump-era economy lags",
-    "description": "The evidence showing Americans\u2019 dissatisfaction with the economy is overwhelming. The latest Quinnipiac poll, for example, found that just 34% of voters approve of Donald Trump\u2019s handling of the economy, while the latest CNN poll found that roughly two-thirds\u2026",
-    "link": "https://biztoc.com/x/05942e9f7b6c5d57",
-    "timestamp": "2026-07-30T13:37:14Z"
-  },
-  {
-    "title": "'This is wild:' CNN analyst stunned by young voters' dramatic shift on Trump",
-    "description": "A dramatic reversal among a crucial voting bloc is emerging as the defining story of the 2026 midterm landscape, according to new polling analyzed by CNN's Harry Enten.In the fall of 2024, voters under 50 gave Kamala Harris only a narrow three-point edge over\u2026",
-    "link": "https://www.rawstory.com/trump-voter-enthusiasm/",
-    "timestamp": "2026-07-30T13:35:57Z"
-  },
-  {
-    "title": "The Iran conflict is escalating and Tehran is in no rush to end it",
-    "description": "Trump wants to move on but Iranian leaders appear convinced they can outlast Washington while raising the cost of continued fighting",
-    "link": "https://www.irishtimes.com/world/middle-east/2026/07/30/the-iran-conflict-is-escalating-and-tehran-is-in-no-rush-to-end-it/",
-    "timestamp": "2026-07-30T13:35:24Z"
-  },
-  {
-    "title": "Chaos for Trump as vote to confirm his attorney general is DELAYED after spurned Senator's concerns",
-    "description": "The news is a major blow for Trump, and comes as Republicans in the Senate appear more willing to break with the president on key issues.",
-    "link": "https://www.dailymail.com/news/us-politics/article-16016555/Trump-blanche-senate-confirmation-delay.html",
-    "timestamp": "2026-07-30T13:33:11Z"
-  },
-  {
-    "title": "Trump Administration Considering Neo-Colonial Military Operations in Mali",
-    "description": "These attacks are purportedly being planned against an Islamist rebel grouping, yet the military government has been a target of the West along with neighboring Niger and Burkina Faso of the Alliance of Sahel States (AES)\n\nTo read this article \u2026\nThe post Trum\u2026",
-    "link": "https://www.globalresearch.ca/trump-administration-military-operations-mali/5934988",
-    "timestamp": "2026-07-30T13:32:48Z"
-  },
-  {
-    "title": "Melania Trump helps reunite fifth group of Ukrainian, Russian children with families",
-    "description": "Five more Ukrainian children reunited with families as Melania Trump's program reaches roughly 30 kids returned from Russia amid the ongoing war.",
-    "link": "https://www.foxnews.com/politics/melania-trump-helps-reunite-fifth-group-ukrainian-russian-children-families",
-    "timestamp": "2026-07-30T13:29:24Z"
-  },
-  {
-    "title": "Elon Musk Set to Drop Big Bucks for GOP in Midterms \u2014 After Months of Squawking About Third Party",
-    "description": "Elon Musk is planning on dropping some major coin on boosting Republicans in the upcoming midterms, Axios first reported.\nThe post Elon Musk Set to Drop Big Bucks for GOP in Midterms \u2014 After Months of Squawking About Third Party first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/elon-musk-set-to-drop-big-bucks-for-gop-in-midterms-after-months-of-squawking-about-third-party/",
-    "timestamp": "2026-07-30T13:29:04Z"
-  },
-  {
-    "title": "Supreme Court tariff, birthright citizenship decisions cost US 'TRILLIONS,' Trump says",
-    "description": "President Donald Trump asserted that the U.S. Supreme Court's decisions on tariffs and birthright citizenship have cost the country \"TRILLIONS.\"",
-    "link": "https://www.foxnews.com/politics/supreme-court-tariff-birthright-citizenship-decisions-cost-us-trillions-trump-says",
-    "timestamp": "2026-07-30T13:28:51Z"
-  },
-  {
-    "title": "'Tough position': Todd Blanche gets stark warning as he ponders Trump betrayal",
-    "description": "Acting Attorney General Todd Blanche will have to betray President Donald Trump if he has any hope of getting a positive Senate confirmation vote before the chamber adjourns, a new political analysis contends. Senate Republicans' mounting resistance to Trump'\u2026",
-    "link": "https://www.rawstory.com/blanche-trump-2677291668/",
-    "timestamp": "2026-07-30T13:24:40Z"
-  },
-  {
-    "title": "The US and Iran Trade Missile Barrages as Hopes Dim for a Quick Resolution",
-    "description": "After a\u00a0brief respite, the risk of a return to all-out war emerged once more, with the fighting\u00a0threatening to engulf\u00a0even more countries.",
-    "link": "https://military.com/the-us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution",
-    "timestamp": "2026-07-30T13:23:44Z"
-  },
-  {
-    "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets",
-    "description": "Polymarket and Novig have both recently brought ex-DOGE affiliates onboard as scrutiny of the industry intensifies.",
-    "link": "https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/",
-    "timestamp": "2026-07-30T13:20:16Z"
-  },
-  {
-    "title": "Trump's Boat Strikes Killed 221 People, but Didn't Win the War on Drugs",
-    "description": "Operation Southern Spear has struck 67 small fishing boats without denting the fentanyl or cocaine supply.",
-    "link": "https://reason.com/2026/07/30/trumps-boat-strikes-killed-221-people-but-didnt-win-the-war-on-drugs/",
-    "timestamp": "2026-07-30T13:11:14Z"
-  },
-  {
-    "title": "Trump Has Weakened America\u2019s Sanctions Weapon",
-    "description": "The administration\u2019s inconsistency has undermined a key tool of U.S. foreign policy.",
-    "link": "http://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/",
-    "timestamp": "2026-07-30T13:10:52Z"
-  },
-  {
-    "title": "Ex-FBI director Comey's lawyer says government tracked his phone, interviewed mob killer",
-    "description": "The Justice Department used the Secret Service and FBI to go to extraordinary lengths to bolster its contentious case against former FBI director James Comey, his lawyers claim, including allegedly interviewing Sammy (The Bull) Gravano, the Mafia underboss wh\u2026",
-    "link": "https://www.cbc.ca/news/world/us-justice-comey-case-trump-gravano-9.7290262",
-    "timestamp": "2026-07-30T13:08:11Z"
-  },
-  {
-    "title": "Boeing blocks Ukraine\u2019s air-defense plan \u2013 Welt",
-    "description": "Boeing is reportedly reluctant to share key air defense technology, complicating plans to manufacture missiles in Europe for Ukraine Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/643654-ukraine-patriot-interceptors-boeing/",
-    "timestamp": "2026-07-30T13:07:04Z"
-  },
-  {
-    "title": "US carries out major strikes on Iran",
-    "description": "WASHINGTON DC: The United States military says it has launched a \u201cmajor wave\u201d of strikes against Iran in retaliation for what it described as attempted ballistic missile attacks on American forces earlier this week. According to US Central Command (CENTCOM), \u2026",
-    "link": "https://english.khabarhub.com/2026/30/561073/",
-    "timestamp": "2026-07-30T13:07:00Z"
-  },
-  {
-    "title": "Urban League\u2019s 50th annual \u2018State of Black America\u2019 argues Trump is trying to \u2018kill the essence of the American dream\u2019",
-    "description": "The report finds Trump-era policy rollbacks have pushed Black Americans' prospects further from parity than any point since the Civil Rights era.",
-    "link": "https://fortune.com/2026/07/30/national-urban-league-state-black-america-report/",
-    "timestamp": "2026-07-30T13:05:23Z"
-  },
-  {
-    "title": "Daily Show roasts Sean Hannity\u2019s vision of a Mar-a-Lago heaven for Lindsey Graham",
-    "description": "\u2018With all due respect... Why would anyone want that?\u2019 Klepper mused",
-    "link": "https://www.the-independent.com/arts-entertainment/tv/news/sean-hannity-daily-show-lindsey-graham-trump-b3024577.html",
-    "timestamp": "2026-07-30T13:05:20Z"
-  },
-  {
-    "title": "Jordan Klepper Makes Unexpected Prediction About MAGA After Trump",
-    "description": "The \u201cDaily Show\u201d correspondent has interviewed supporters of President Donald Trump for a decade.",
-    "link": "https://www.huffpost.com/entry/jordan-klepper-maga-after-trump_n_6a6b1ffce4b01948ae9a21b9",
-    "timestamp": "2026-07-30T13:02:04Z"
-  },
-  {
-    "title": "After Zelenskyy's Capitol Visit, Senate Sharpens Pressure On Russia And Iran",
-    "description": "A day after Ukrainian President Volodymyr Zelenskyy visited the Senate, lawmakers overwhelmingly advanced legislation to tighten sanctions on Russia and extend key Iran sanctions for another five years.",
-    "link": "https://www.rferl.org/a/us-senate-advances-russia-iran-sanctions-bill-bipartisan-support/33818432.html",
-    "timestamp": "2026-07-30T13:00:39Z"
-  },
-  {
-    "title": "Posts claim Kim Jong Un demanded firing squad for Epstein associates. There's no proof",
-    "description": "In July 2026, North Korean dictator Kim Jong Un demanded all of convicted sex offender Jeffrey Epstein's associates be turned over to North Korea so they could be executed by firing squad.",
-    "link": "https://www.snopes.com//fact-check/kim-jong-un-firing-squad-epstein/",
-    "timestamp": "2026-07-30T13:00:00Z"
-  },
-  {
-    "title": "Opposition to FIFA's World Cup private equity plan grows as Asia warns of risks and Europeans meet",
-    "description": "Global opposition to FIFA President Gianni Infantino\u2019s plan for selling a stake in World Cup revenue to private investors grew Thursday with Asia\u2019s soccer leader warning members about threats to their own competitions. \u201cFIFA\u2019s unilateral actions appear to und\u2026",
-    "link": "https://sports.yahoo.com/articles/opposition-fifas-world-cup-private-125621665.html",
-    "timestamp": "2026-07-30T12:56:21Z"
-  },
-  {
-    "title": "Mitch McConnell Missing Person Posters Pop Up in D.C., Seek Whereabouts of \u2018Turtle-Like\u2019 Senator",
-    "description": "\"If you have any information about his whereabouts, please keep it to yourself,\" the missing person poster with Sen. Mitch McConnell's face reads. \"He would.\"\nThe post Mitch McConnell Missing Person Posters Pop Up in D.C., Seek Whereabouts of \u2018Turtle-Like\u2019 Se\u2026",
-    "link": "https://www.mediaite.com/media/news/mitch-mcconnell-missing-person-posters-pop-up-in-d-c-seek-whereabouts-of-turtle-like-senator/",
-    "timestamp": "2026-07-30T12:48:40Z"
-  },
-  {
-    "title": "Why ex-FIFA boss questioned if Donald Trump is now running world soccer before World Cup",
-    "description": "Former FIFA President Sepp Blatter questioned the relationship between his successor, Gianni Infantino, and US President Donald Trump long before plans were put in place to sell off a portion of the competition to private investors. In the aftermath of the 20\u2026",
-    "link": "https://www.hitc.com/why-ex-fifa-boss-questioned-if-donald-trump-is-now-running-world-soccer-before-world-cup/",
-    "timestamp": "2026-07-30T12:47:00Z"
-  },
-  {
-    "title": "'It's Killing Your Country': Trump Blasts Migrant 'Invasion' of Europe, Says He Told New UK Leader Burnham to Fix Borders",
-    "description": "Trump blasted Europe's migrant crisis and its leaders for doing nothing to stem it, as he revealed his discussion with new UK PM Burnham.\nThe post \u2018It\u2019s Killing Your Country\u2019: Trump Blasts Migrant \u2018Invasion\u2019 of Europe, Says He Told New UK Leader Burnham to Fi\u2026",
-    "link": "https://www.breitbart.com/europe/2026/07/30/its-killing-your-country-trump-blasts-migrant-invasion-of-europe-says-he-told-new-uk-leader-burnham-to-fix-borders/",
-    "timestamp": "2026-07-30T12:46:08Z"
-  },
-  {
-    "title": "UEFA to boycott World Cup over FIFA boss\u2019s $20B cash grab \u2014 throwing global soccer into chaos: sources",
-    "description": "UEFA, European soccer\u2019s 55-member governing body, is set to boycott the World Cup and all other FIFA-organized competitions in protest of a $20 billion Wall Street-style takeover of the global game, sources familiar with the matter told The Post. The boycott \u2026",
-    "link": "https://nypost.com/2026/07/30/business/uefa-to-boycott-world-cup-over-20b-kushner-linked-fifa-deal-sources/",
-    "timestamp": "2026-07-30T12:43:12Z"
-  },
-  {
-    "title": "Supreme Court denies Trump attempt to overturn the $5 million he owes E. Jean Carroll. Emboldened by his loss, Trump asks Supreme Court to overturn the $83 million he owes E. Jean Carroll [Stupid]",
-    "description": "Supreme Court denies Trump attempt to overturn the $5 million he owes E. Jean Carroll. Emboldened by his loss, Trump asks Supreme Court to overturn the $83 million he owes E. Jean Carroll",
-    "link": "https://www.fark.com/comments/14147192/Supreme-Court-denies-Trump-attempt-to-overturn-$5-million-he-owes-E-Jean-Carroll-Emboldened-by-his-loss-Trump-asks-Supreme-Court-to-overturn-$83-million-he-owes-E-Jean-Carroll",
-    "timestamp": "2026-07-30T12:40:54Z"
-  },
-  {
-    "title": "Teen lifeguard Ryder Williams saved a 10-year-old from dangerous waves Santa Cruz, California, then returned to rescue 4 more people the same day",
-    "description": "Ryder Williams, the 16-year-old lifeguard who rescued a 10-year-old boy from dangerous surf in Santa Cruz, didn't stop there. After returning to duty, he helped in four more rescues the same day as powerful waves and rip currents battered the California coast\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/global-trends/teen-lifeguard-ryder-williams-saved-a-10-year-old-from-dangerous-waves-then-returned-to-rescue-4-more-people-the-same-day/articleshow/132740249.cms",
-    "timestamp": "2026-07-30T12:39:55Z"
-  },
-  {
-    "title": "Live updates: UEFA votes to boycott World Cups over controversial FIFA investment plan | CNN",
-    "description": "European soccer governing body UEFA says it will boycott World Cup competitions over FIFA President Gianni Infantino\u2019s plan to inject private money. Follow live updates.",
-    "link": "https://www.cnn.com/2026/07/30/sport/live-news/uefa-emergency-meeting-fifa-investment-infantino-intl",
-    "timestamp": "2026-07-30T12:36:48Z"
-  },
-  {
-    "title": "'Can they deliver?' Frantic Trump turns to tech bros as weapon stockpile dwindles",
-    "description": "President Donald Trump faces a critical weapons shortage as his war with Iran continues \u2014 and now he's turning to an unlikely source for help: tech bros. Defense Secretary Pete Hegseth conferred an urgent meeting with a number of defense technology startups t\u2026",
-    "link": "https://www.rawstory.com/trump-iran-weapons/",
-    "timestamp": "2026-07-30T12:35:55Z"
-  },
-  {
-    "title": "Major central banks steer a cautious hiking path",
-    "description": "LONDON/MILAN, July 30 (Reuters) - The bond market selloff after this week's Federal Reserve meeting highlights the challenge policymakers face as they grapp...",
-    "link": "https://finance.yahoo.com/news/major-central-banks-steer-cautious-122712107.html",
-    "timestamp": "2026-07-30T12:29:30Z"
-  },
-  {
-    "title": "California lifeguard speaks out on heartstopping ocean rescue: 'I love what I do'",
-    "description": "Ryder Williams described fighting volatile waves while holding the limp 10-year-old at Santa Cruz Beach, revealing details of the rescue seen worldwide.",
-    "link": "https://www.foxnews.com/us/california-lifeguard-speaks-heartstopping-ocean-rescue-love-what-do",
-    "timestamp": "2026-07-30T12:22:29Z"
-  },
-  {
-    "title": "Trump\u2019s military spending plans are stuck in the 20th century",
-    "description": "President Donald Trump promised to run the government like a business. Unfortunately, his model seems to be the one that burns money.\nMost CEOs who waste billions of dollars on failed projects get a summons from the board of directors \u2014 and often, the boot.\nB\u2026",
-    "link": "https://biztoc.com/x/b8adcc274c0fbcee",
-    "timestamp": "2026-07-30T12:22:09Z"
-  },
-  {
-    "title": "Pinnick backs FIFA proposal to sell stake in World Cup operations",
-    "description": "Former NFF President Amaju Pinnick supports FIFA\u2019s proposal to sell a 20% stake in the FIFA World Cup, citing potential revenue benefits for member associa\n\nRead More: https://punchng.com/pinnick-backs-fifa-proposal-to-sell-stake-in-world-cup-operations/",
-    "link": "https://punchng.com/pinnick-backs-fifa-proposal-to-sell-stake-in-world-cup-operations/",
-    "timestamp": "2026-07-30T12:21:10Z"
-  },
-  {
-    "title": "Reality isn\u2019t what it used to be",
-    "description": "Via Krugman, I learned that last week Trump gave an unhinged utterly delusional talk at the EPA, full of hallucinatory claims that sounded exactly like the kinds of things an increasingly demented grandpa might say, while everybody just sort of nods and cring\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2026/07/reality-isnt-what-it-used-to-be",
-    "timestamp": "2026-07-30T12:18:32Z"
-  },
-  {
-    "title": "Is the Crypto Bull Market at Risk? Why the Clarity Act Just Hit a Wall",
-    "description": "The crypto bull market has lost one of its potential catalysts. Instead of considering the CLARITY Act, the Senate has moved on to other matters,...\nThe post Is the Crypto Bull Market at Risk? Why the Clarity Act Just Hit a Wall appeared first on Bitcoin Foun\u2026",
-    "link": "https://bitcoinfoundation.org/news/regulation/clarity-act-hit-wall/",
-    "timestamp": "2026-07-30T12:17:14Z"
-  },
-  {
-    "title": "A DEVO founder's new video imagines Trump as a MAGA-zombie dictator",
-    "description": "DEVO co-founder Gerald Casale has a new animated music video out, and it does not hold back on Donald Trump. In \"Just Do It!,\" Casale turns Trump into a cartoon dictator marching a MAGA zombie army through the collapse of American democracy, smashing the Libe\u2026",
-    "link": "https://boingboing.net/2026/07/30/gerald-casale-just-do-it-trump-video.html",
-    "timestamp": "2026-07-30T12:16:00Z"
-  },
-  {
-    "title": "See the New Fronts of the Iran War Erupting Across the Middle East - WSJ",
-    "description": "See the New Fronts of the Iran War Erupting Across the Middle EastWSJ Trump is stuck in Iran. Here\u2019s one idea that could offer a way outCNN Trump\u2019s Iran war frustration and on the frontline of France\u2019s wildfire: Morning RundownNBC News New strikes in Iran sho\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=184768508",
-    "timestamp": "2026-07-30T12:13:42Z"
-  },
-  {
-    "title": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
-    "description": "In a move to bolster its short-range air defense capabilities, Iran anticipates the arrival of Chinese-manufactured shoulder-fired missile launchers in the coming weeks. This transaction encompasses hundreds of MANPADS, specifically the QW-12 and FN-16 models.",
-    "link": "https://economictimes.indiatimes.com/news/defence/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/articleshow/132739524.cms",
-    "timestamp": "2026-07-30T12:11:00Z"
-  },
-  {
-    "title": "A government fund of AI stocks to benefit all Americans is a good idea, but hard to pull off",
-    "description": "If the US were to create a fund to harness AI and buffer the economy and workers from long-term harms AI could cause, it would not be the first country to do so.",
-    "link": "https://theconversation.com/a-government-fund-of-ai-stocks-to-benefit-all-americans-is-a-good-idea-but-hard-to-pull-off-287558",
-    "timestamp": "2026-07-30T12:08:30Z"
-  },
-  {
-    "title": "Woman hacked to death by brother-in-law over serving food late with dirty hands",
-    "description": "Jehanabad: Man allegedly kills sister-in-law with axe after dispute over late meal and dirty hands; severed head hung on tree; accused arrested.",
-    "link": "https://timesofindia.indiatimes.com/city/patna/woman-hacked-to-death-by-brother-in-law-over-serving-food-late-with-dirty-hands/articleshow/132739516.cms",
-    "timestamp": "2026-07-30T12:07:32Z"
-  },
-  {
-    "title": "Capitol agenda: Thune tries to teach Trump Senate math",
-    "description": "John Thune is stuck in between President Donald Trump\u2019s demands and the realities of Senate math. \nThune has eight days to appease the president who wants to see the framework for a third GOP bill advance before senators break for summer recess. \nBut the Sena\u2026",
-    "link": "https://biztoc.com/x/c2a83cdf7fd5253a",
-    "timestamp": "2026-07-30T12:06:35Z"
-  },
-  {
-    "title": "Peter Navarro Would Have Killed Thousands During COVID If Not For Dr. Fauci",
-    "description": "During a press gaggle at the White House driveway about Dr. Anthony Fauci's testimony, Donald Trump henchmen and anti-COVID vaccine crackpot Peter Navarro claimed Dr. Fauci stopped him from giving 1 million doses to the DPA of hydroxychloroquine to be distrib\u2026",
-    "link": "https://crooksandliars.com/2026/07/peter-navarro-would-have-killed-millions",
-    "timestamp": "2026-07-30T12:06:01Z"
-  },
-  {
-    "title": "Widening Iran-US war pulls in more countries",
-    "description": "The stop-start conflict between the United States and Iran on July 30 appeared to have entered a more perilous phase, with Saudi Arabia openly joining the military escalation and an Iranian strike reportedly targeting a port in Egypt.",
-    "link": "https://www.hurriyetdailynews.com/widening-iran-us-war-pulls-in-more-countries-225026",
-    "timestamp": "2026-07-30T12:03:29Z"
-  },
-  {
-    "title": "USA Gasoline Shows Rising Price Trend",
-    "description": "The U.S. Energy Information Administration's latest gasoline fuel update showed a rising price trend for U.S. regular gasoline.",
-    "link": "https://www.rigzone.com/news/usa_gasoline_shows_rising_price_trend-30-jul-2026-184253-article/",
-    "timestamp": "2026-07-30T12:02:52Z"
-  },
-  {
-    "title": "POLL: Voters favor Dems by 8-point margin heading into midterms...",
-    "description": "Less than 100 days before the midterms, voters are agitating for wholesale change in Congress and looking to the Democratic Party in hopes of making that happen.",
-    "link": "https://www.cnn.com/2026/07/30/politics/cnn-poll-midterm-generic-ballot-democrats-republicans-change",
-    "timestamp": "2026-07-30T12:00:17Z"
-  },
-  {
-    "title": "GOP Has Settled On A Stupid, Unpopular Midterm Message",
-    "description": "Republicans, grasping for an issue to attack Democrats over as they head to expected losses in this fall\u2019s midterm elections, have inexplicably decided to embrace President Donald Trump\u2019s widely unpopular tariffs.\nCNBC reported on Tuesday that the National Re\u2026",
-    "link": "https://crooksandliars.com/2026/07/gop-has-settled-stupid-unpopular-midterm",
-    "timestamp": "2026-07-30T12:00:01Z"
-  },
-  {
-    "title": "Trump 'exasperated' on Iran with officials lacking consensus on strategy: Report",
-    "description": "US President Donald Trump is \"exasperated\" by stalled efforts to end the Iran conflict and disagreements among his top military advisers, Anadolu Agency reported citing to a media report.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260730-azertac02.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Trump Says Will Resume Full-Scale War Unless Iran Meets All US Demands",
-    "description": "US President Donald Trump said on Thursday he would resume a full-scale war against Iran unless the United States receives 100% of what it wants.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260730-sputnik01.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Pentagon Turns to Tech Start-Ups as Iran Conflict Drains Missile Stockpiles",
-    "description": "The US Department of War (DOW) plans to actively involve technology start-ups to refill weapon stockpiles shrunk by the conflict with Iran, The Washington Post reported on Thursday, citing acting Pentagon Press Secretary Joel Valdez.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260730-sputnik02.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "After Zelenskyy's Capitol Visit, Senate Sharpens Pressure On Russia And Iran",
-    "description": "Just one day after Ukrainian President Volodymyr Zelenskyy watched from the Senate gallery as lawmakers overwhelmingly backed moving forward on new Russia sanctions, the US Senate took another decisive step on July 29, reinforcing bipartisan determination to \u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260730-rferl03.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "IRGC Says It Struck Kuwait Air Base Hosting US Troops",
-    "description": "The Iranian military in the early hours of Thursday hit the Ali Al Salem air base in Kuwait housing US forces, destroying two drone hangars and a fuel storage facility, in response to US attacks on Iran, the Islamic Revolutionary Guard Corps (IRGC) said.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260730-sputnik01.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Trump Says It's US 'Turn' to Hit Iran, Will Be Hitting Them 'Hard'",
-    "description": "US President Donald Trump said that it's now the \"turn\" of the United States to hit Iran, adding that Washington will be hitting \"hard.\"",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260730-sputnik04.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Iran Has Tested the Gulf. Now Washington Must Rethink Its Security Role, Says Former Trump NSC Official Allison Minor",
-    "description": "Iran's latest missile attacks on US forces and bases in the region have exposed growing strains in the decades-old US-Gulf security partnership, according to Allison Minor, director of the Atlantic Council's Project for Middle East Integration and former dire\u2026",
-    "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260730-rferl01.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "US Military Says Latest Strikes Target Iran's Revolutionary Guards Corps",
-    "description": "The US military said it launched dozens of strikes against targets linked to Iran's powerful Islamic Revolutionary Guards Corps (IRGC) in response to Iranian attacks on American troops in Jordan after President Donald Trump had vowed to retaliate and \"hit the\u2026",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260730-rferl03.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Day 1,618 of WW3. Zelenskyy meets with Polish PM Tusk in Lublin despite old grievances stirred up by russia. UAF lost an F-16 during a combat mission, and Moscow goes ballistic on Ukrainian civilian targets. This is your Thursday Ukraine war thread [News]",
-    "description": "Day 1,618 of WW3. Zelenskyy meets with Polish PM Tusk in Lublin despite old grievances stirred up by russia. UAF lost an F-16 during a combat mission, and Moscow goes ballistic on Ukrainian civilian targets. This is your Thursday Ukraine war thread",
-    "link": "https://www.fark.com/comments/14147256/Day-1618-of-WW3-Zelenskyy-meets-with-Polish-PM-Tusk-in-Lublin-despite-old-grievances-stirred-up-by-russia-UAF-lost-an-F-16-during-a-combat-mission-Moscow-goes-ballistic-on-Ukrainian-civilian-targets-This-is-your-Thursday-Ukraine-war-thread",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Trump\u2019s Constitutional Dictatorship",
-    "description": "Maggie Haberman and Jonathan Swan\u2019s inside account of the Trump administration portrays a president with a vast appetite for power but who repeatedly backs down when the costs of his actions become too high.",
-    "link": "https://www.nybooks.com/articles/2026/08/20/trumps-constitutional-dictatorship-regime-change-haberman-swan/",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Russian Missile Strike On Ukrainian Village Kills Almost Entire Family",
-    "description": "Russian ballistic missile strike hit a home in the village of Radushne in Ukraine's southeastern Dnipropetrovsk region, killing almost an entire family, as Ukrainian officials reported at least nine people dead and dozens of others injured across the country.",
-    "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260730-rferl01.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Saudi Arabia Establishes Maritime Defense Alliance To Secure Navigation Through Bab al-Mandab Strait",
-    "description": "Saudi Arabia said it had established a maritime defense alliance to secure navigation through the key Bab al-Mandab Strait in the Red Sea amid attacks on Saudi vessels by Yemen's Iran-backed Houthi rebels.",
-    "link": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260730-rferl05.htm",
-    "timestamp": "2026-07-30T12:00:00Z"
-  },
-  {
-    "title": "Can China restrain Iran? Gulf states test Beijing's influence",
-    "description": "Gulf Arab states are seeking China's economic influence over Iran to secure vital shipping lanes.  They are frustrated with Washington's perceived limits of power in the escalating regional conflict.  China's role as a major trading partner presents both oppo\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/can-china-restrain-iran-gulf-states-test-beijings-influence/articleshow/132738917.cms",
-    "timestamp": "2026-07-30T11:58:40Z"
-  },
-  {
-    "title": "Trump touts tariffs while in Michigan despite rising costs. Even some supporters are worried",
-    "description": "While at a rally at a GM factory, he said car companies are thriving due to tariffs and other key policies he's instituted as president.",
-    "link": "https://www.cbc.ca/news/canada/windsor/trump-tariffs-michigan-rising-costs-supporters-worried-9.7290279",
-    "timestamp": "2026-07-30T11:54:21Z"
-  },
-  {
-    "title": "Obama endorses Democratic Iowa state rep running for US Senate against Trump-backed House Republican",
-    "description": "Former President Barack Obama endorsed Democratic Iowa state Rep. Josh Turek for U.S. Senate as the candidate runs against Trump-backed Republican U.S. Rep. Ashley Hinson.",
-    "link": "https://www.foxnews.com/politics/obama-endorses-democratic-iowa-state-rep-running-us-senate-against-trump-backed-house-republican",
-    "timestamp": "2026-07-30T11:53:02Z"
-  },
-  {
-    "title": "Musk Revives Super PAC, Pledges Major Push to Boost GOP Turnout in Midterms",
-    "description": "Elon Musk is reviving his political operation to help Republicans defend their congressional majorities in an election year that has grown increasingly competitive. Musk is reactivating America PAC, the super PAC that spent more than $260 million helping elec\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4389901/posts",
-    "timestamp": "2026-07-30T11:52:30Z"
-  },
-  {
-    "title": "EU lays out $11.4B for 7 AI gigafactories as it aims to catch up with US and China",
-    "description": "The European Union plans to invest 10 billion euros to build seven AI gigafactories, aiming to catch up with the U.S. and China",
-    "link": "https://abcnews.com/Technology/wireStory/eu-lays-114-billion-7-ai-gigafactories-aims-135218478",
-    "timestamp": "2026-07-30T11:52:05Z"
-  },
-  {
-    "title": "Working memory: the surprising decline of dementia",
-    "description": "Also on the daily podcast: why Donald Trump hates Brazil\u2019s Pix payments system and emo music stages a comeback",
-    "link": "https://biztoc.com/x/0081e261007ff4d0",
-    "timestamp": "2026-07-30T11:51:06Z"
-  },
-  {
-    "title": "Watch: Trump Says He Watched Whole Fauci Hearing",
-    "description": "During a Republican-led Senate committee hearing on the COVID-19 pandemic, Dr. Anthony Fauci invoked his Fifth Amendment rights and declined to answer questions. \nU.S. President Donald Trump stated he \"watched the whole thing\" while highlighting his administr\u2026",
-    "link": "https://biztoc.com/x/fd99c32961212c34",
-    "timestamp": "2026-07-30T11:51:06Z"
-  },
-  {
-    "title": "Netanyahu Privately Confronts JD Vance on His Public Criticisms of Israeli Government",
-    "description": "Officials described the one-on-one meeting as \u201cdirect\u201d following months of increasingly public disagreements between the vice president and the Israeli leader.\nThe post Netanyahu Privately Confronts JD Vance on His Public Criticisms of Israeli Government firs\u2026",
-    "link": "https://www.mediaite.com/media/news/netanyahu-privately-confronts-jd-vance-on-his-public-criticisms-of-israeli-government/",
-    "timestamp": "2026-07-30T11:48:35Z"
-  },
-  {
-    "title": "Thursday: Hili dialogue",
-    "description": "Welcome to Thursday, July 30, 2026; August is right around the corner, and today is National Cheesecake Day. Here\u2019s a photo of a slice proffered as dessert on my first trip to Antarctica in 2019.\u00a0 I miss those free cruises to one of the most beautiful places \u2026",
-    "link": "https://whyevolutionistrue.com/2026/07/30/thursday-hili-dialogue-598/",
-    "timestamp": "2026-07-30T11:45:02Z"
   }
 ]
