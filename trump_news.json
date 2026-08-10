@@ -1,5 +1,59 @@
 [
   {
+    "title": "Tucker Carlson could derail the GOP\u2019s 2028 plans",
+    "description": "A third-party bid by the disaffected MAGA podcaster would be difficult \u2014 and beneficial to Democrats",
+    "link": "https://www.salon.com/2026/08/09/tucker-carlson-could-derail-the-gops-2028-plans/",
+    "timestamp": "2026-08-09T10:30:49Z"
+  },
+  {
+    "title": "Taylor Swift songs removed from Donald Trump social media posts",
+    "description": "Despite their long-running feud with the pop superstar, the Trump campaign and White House had used several Swift tracks in TikTok videos, including the 2020 song August for a video showing the US president and First Lady Melania Trump watching fireworks.",
+    "link": "https://www.abc.net.au/news/2026-08-09/taylor-swift-songs-removed-from-donald-trump-social-media-posts/107014750",
+    "timestamp": "2026-08-09T10:21:27Z"
+  },
+  {
+    "title": "We saw Beta Technologies' autonomous aircraft for the battlefield. Meet the MV250.",
+    "description": "Beta Technologies unveiled the MV250, an autonomous, hybrid-electric aircraft that can carry cargo for militaries, at the Farnborough Airshow.",
+    "link": "https://www.businessinsider.com/meet-the-mv250-beta-technologies-autonomous-military-aircraft-2026-8#article",
+    "timestamp": "2026-08-09T10:21:01Z"
+  },
+  {
+    "title": "US Senate advances landmark crypto bill before heading on August recess",
+    "description": "John Thune, a Republican, early Saturday morning filed to set up a key procedural vote on the Clarity Act when the Senate returns from \u200cits August recess \u2060in \u2060mid-September, potentially paving the way for a full floor vote on the bill, according to the US Sen\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess/articleshow/133065890.cms",
+    "timestamp": "2026-08-09T10:20:47Z"
+  },
+  {
+    "title": "Three in five Americans favour stronger oversight of social media companies: Reuters/Ipsos poll",
+    "description": "The poll, which was conducted over the six days ending August 3, comes as companies \u200blike Meta Platforms and Google's YouTube face mounting legal pressure over their treatment of young users. A trial is expected to begin on Wednesday over allegations by state\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/technology/three-in-five-americans-favor-stronger-oversight-of-social-media-companies-reuters/ipsos-poll/articleshow/133065816.cms",
+    "timestamp": "2026-08-09T10:13:59Z"
+  },
+  {
+    "title": "\u2060Is ICE using too much force? New poll shows big public opinion shift",
+    "description": "Recent polling shows that only a fraction of independent voters support ICE's enforcement of immigration laws.",
+    "link": "https://www.usatoday.com/story/news/politics/2026/08/09/immigration-support-independents-republicans-midterms/91179270007/",
+    "timestamp": "2026-08-09T10:02:51Z"
+  },
+  {
+    "title": "Trump's new U.S. customs rules could upend Canadian exports",
+    "description": "On June 3, U.S. President Donald Trump signed executive order that seeks to tighten U.S. customs enforcement to crack down on trade fraud",
+    "link": "https://nationalpost.com/news/trumps-new-u-s-customs-rules-could-upend-canadian-exports",
+    "timestamp": "2026-08-09T10:00:19Z"
+  },
+  {
+    "title": "Voting machine researchers say federal work abruptly ended after Trump ally pushed back on their findings",
+    "description": "Mojave Research executives said at DEF CON that the government had been preparing to expand the company\u2019s election security work, and linked Trump adviser Kurt Olsen to pressure they faced after finding election system vulnerabilities but no evidence votes we\u2026",
+    "link": "https://www.nextgov.com/cybersecurity/2026/08/voting-machine-researchers-say-federal-work-abruptly-ended-after-trump-ally-pushed-back-their-findings/415300/",
+    "timestamp": "2026-08-09T10:00:00Z"
+  },
+  {
+    "title": "A.I. Is Now a Major Election Issue",
+    "description": "Politicians on the left\u2014such as Bernie Sanders, Alexandria Ocasio-Cortez, and Abdul El-Sayed\u2014have been critical of data centers, Benjamin Wallace-Wells writes. More surprisingly, Republicans like Greg Abbott and Vivek Ramaswamy suddenly have, too.",
+    "link": "https://www.newyorker.com/magazine/2026/08/17/ai-is-now-a-major-election-issue",
+    "timestamp": "2026-08-09T10:00:00Z"
+  },
+  {
     "title": "Prediction Market Platform Polymarket Confronts $170,000 Lawsuit Over Disputed Trump Statement Wager",
     "description": "A user is suing Polymarket for denying a $170,000 payout on a bet about whether President Trump would say 'Khamenei' or 'Ayatollah' in a specific week.\nThe post Prediction Market Platform Polymarket Confronts $170,000 Lawsuit Over Disputed Trump Statement Wag\u2026",
     "link": "https://dailyhodl.com/2026/08/09/prediction-market-platform-polymarket-confronts-170000-lawsuit-over-disputed-trump-statement-wager/",
@@ -102,6 +156,12 @@
     "timestamp": "2026-08-09T07:30:34Z"
   },
   {
+    "title": "US Senate Russia sanctions vote threatens Indian crude supplies: Kpler",
+    "description": "A US Senate vote to advance tougher sanctions on Russia raises the risk of disruption to Russian crude supplies but is unlikely to immediately alter oil flows to India and China, according to Kpler analyst Sumit Ritolia.\nThe US Senate on Friday passed a bipar\u2026",
+    "link": "https://www.business-standard.com/economy/news/us-senate-russia-sanctions-vote-threatens-indian-crude-supplies-kpler-126080900209_1.html",
+    "timestamp": "2026-08-09T07:29:26Z"
+  },
+  {
     "title": "Mecca Joint Defense Agreement technically same as NATO's Article 5: Turkish foreign minister",
     "description": "'Under our president\u2019s vision, we should not remain limited to 3 countries. We should grow and, if necessary, bring all countries under this umbrella,' Hakan Fidan says",
     "link": "https://www.hurriyetdailynews.com/mecca-joint-defense-agreement-technically-same-as-natos-article-5-turkish-foreign-minister-225387",
@@ -150,15 +210,15 @@
     "timestamp": "2026-08-09T06:00:01Z"
   },
   {
-    "title": "A political outsider with radical ideas is shaking up Wisconsin politics",
-    "description": "Backed by young voters and socialist activists, Francesca Hong has been the target of Donald Trump\u2019s verbal barbs",
-    "link": "https://www.irishtimes.com/world/us/2026/08/09/a-political-outsider-with-radical-ideas-is-shaking-up-wisconsin-politics/",
-    "timestamp": "2026-08-09T06:00:00Z"
-  },
-  {
     "title": "Iran\u2019s Top Negotiator Ghalibaf Tells Trump: \u201cEnough With Theater Diplomacy\u201d",
     "description": "Iran\u2019s top negotiator, Mohammad Bagher Ghalibaf, said in an Aug. 6 post on X that U.S. President Donald Trump should stop what he called \u201ctheater diplomacy,\u201d according to a report on the exchange [1]. The post followed Trump\u2019s announcement that he had called \u2026",
     "link": "https://www.naturalnews.com/2026-08-09-irans-ghalibaf-tells-trump-enough-theater-diplomacy.html",
+    "timestamp": "2026-08-09T06:00:00Z"
+  },
+  {
+    "title": "A political outsider with radical ideas is shaking up Wisconsin politics",
+    "description": "Backed by young voters and socialist activists, Francesca Hong has been the target of Donald Trump\u2019s verbal barbs",
+    "link": "https://www.irishtimes.com/world/us/2026/08/09/a-political-outsider-with-radical-ideas-is-shaking-up-wisconsin-politics/",
     "timestamp": "2026-08-09T06:00:00Z"
   },
   {
@@ -514,65 +574,5 @@
     "description": "SACRAMENTO, Calif., Aug. 8, 2026 /PRNewswire/ -- GLOW \u2013 Government Lawyers Oversight Watchdog, the first-ever non-profit dedicated to documenting the conduct of executive branch attorneys, condemns in the strongest terms the U.S. Senate's confirmation of Todd\u2026",
     "link": "https://www.prnewswire.com/news-releases/glow-condemns-the-confirmation-of-todd-blanche-the-senate-hands-the-department-of-justice-to-the-lawyer-a-federal-court-found-abandoned-its-defense-302846591.html",
     "timestamp": "2026-08-08T23:26:00Z"
-  },
-  {
-    "title": "Krishnamoorthi: Birthright Citizenship, Birth Tourism Orders Seen As Going Against Not Just Those Groups, 'But Immigrants in General'",
-    "description": "On Friday\u2019s broadcast of CNN\u2019s \u201cSituation Room,\u201d Rep. Raja Krishnamoorthi (D-IL) said that the executive orders by President Donald Trump to limit birthright citizenship and birth tourism are perceived as \u201cKind of going against, not just these individual cate\u2026",
-    "link": "https://www.breitbart.com/clips/2026/08/08/krishnamoorthi-birthright-citizenship-birth-tourism-orders-seen-as-going-against-not-just-those-groups-but-immigrants-in-general/",
-    "timestamp": "2026-08-08T23:23:57Z"
-  },
-  {
-    "title": "Sister of man arrested for terrorizing women through streets of Charlotte BEGGED police to stop releasing him: 'He just flipped'",
-    "description": "Di-Quan Hunt, 32, was arrested  for assault with a deadly weapon after videos surfaced that appeared to show him terrorizing women in North Carolina.",
-    "link": "https://www.dailymail.com/news/article-16038993/man-terrorizing-women-streets-north-carolina-charlotte.html",
-    "timestamp": "2026-08-08T23:14:58Z"
-  },
-  {
-    "title": "Trump Wins GOP Hemp Fight as Senate Rejects Budd Amendment",
-    "description": "Trump called Budd Tuesday night after the North Carolina Republican filed his amendment to allow the restrictions to take effect as originally scheduled.\nThe post Trump Wins GOP Hemp Fight as Senate Rejects Budd Amendment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7t\u2026",
-    "link": "https://legalinsurrection.com/2026/08/trump-wins-gop-hemp-fight-as-senate-rejects-budd-amendment/",
-    "timestamp": "2026-08-08T23:00:48Z"
-  },
-  {
-    "title": "Trump Allies Want Birthright Citizenship Views Tested in Judicial Nominees",
-    "description": "Weeks after the Supreme Court rejected President Donald Trump's effort to end birthright citizenship through executive action, some conservative activists are already looking beyond the courtroom defeat and toward a longer-term goal: shaping the judges who ma\u2026",
-    "link": "https://biztoc.com/x/b486d86f10883709",
-    "timestamp": "2026-08-08T22:55:55Z"
-  },
-  {
-    "title": "Donald Trump Honors U.S. Winter Olympians At White House: \u2018Greatest Group\u2019",
-    "description": "Donald Trump marked America\u2019s success at the 2026 Winter Games with a White House gathering for Olympians and Paralympians on The Donald Trump Honors U.S. Winter Olympians At White House: \u2018Greatest Group\u2019 first appeared on The Blast",
-    "link": "https://theblast.com/832236/donald-trump-honors-u-s-winter-olympians-white-house-greatest-group/",
-    "timestamp": "2026-08-08T22:40:00Z"
-  },
-  {
-    "title": "THE WIG PARTY",
-    "description": "President Donald Trump's hair drew widespread social media attention after it looked especially voluminous during an event in Las Vegas and then transformed multiple times after he returned to Washington, DC",
-    "link": "https://www.themirror.com/news/us-news/gallery/trump-debuts-fourth-hair-raising-1973599",
-    "timestamp": "2026-08-08T22:28:36Z"
-  },
-  {
-    "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-    "description": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
-    "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president",
-    "timestamp": "2026-08-08T22:22:36Z"
-  },
-  {
-    "title": "FAFO: Miami Restaurateur Regrets Trump Vote As Haitian TPS Ends",
-    "description": "As ICE raids continue in Little Haiti in Miami, a restaurateur finds he can no longer operate due to staffing shortages. D'oh.\nSource: The Grio\nWilkinson \"Ken\" Sejour, who owns Miami Chef Creole, says customers and others in the community are scared, and he m\u2026",
-    "link": "https://crooksandliars.com/2026/08/miami-restauteur-regrets-trump-vote",
-    "timestamp": "2026-08-08T22:14:08Z"
-  },
-  {
-    "title": "Content of redacted Epstein email revealed \u2014 and it\u2019s not good for Trump: Dem lawmaker",
-    "description": "After spending hours at the Justice Department headquarters in Washington, D.C., Rep. Madeleine Dean (D-PA) has revealed the contents of a heavily redacted email\r\n from the agency\u2019s Jeffrey Epstein-related files, and claimed it exposes clear \"lies\" by Preside\u2026",
-    "link": "https://www.rawstory.com/trump-epstein-2677676382/",
-    "timestamp": "2026-08-08T22:09:29Z"
-  },
-  {
-    "title": "Firebird Opens the Region's Largest AI Factory and Announces Global Expansion",
-    "description": "Firebird launches one of the world's fastest-deployed NVIDIA DSX AI factories, accelerating its global expansion across emerging markets. NVIDIA's investment will accelerate Firebird's expansion of AI infrastructure across emerging markets. Firebird's three-p\u2026",
-    "link": "https://www.prnewswire.com/news-releases/firebird-opens-the-regions-largest-ai-factory-and-announces-global-expansion-302846589.html",
-    "timestamp": "2026-08-08T21:46:00Z"
   }
 ]
