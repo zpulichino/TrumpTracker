@@ -1,5 +1,437 @@
 [
   {
+    "title": "US supreme court allows Donald Trump to carry on building $400m White House ballroom",
+    "description": "Project is at the centre of the president\u2019s ambition to remake the US capital in his image",
+    "link": "https://www.irishtimes.com/world/us/2026/09/01/us-supreme-court-allows-donald-trump-to-carry-on-building-400m-white-house-ballroom/",
+    "timestamp": "2026-09-01T05:48:38Z"
+  },
+  {
+    "title": "Trump vows to hit Iran 'hard' as fighting resumes after month-long lull",
+    "description": "U.S. President Donald Trump threatened on Aug. 31 to hit Iran \"hard\" after the two foes traded fire for the first time in weeks, as his Treasury secretary vowed to keep up a pressure campaign aimed at hobbling Tehran's economy.",
+    "link": "https://www.hurriyetdailynews.com/us-iran-fighting-resumes-after-month-long-lull-226295",
+    "timestamp": "2026-09-01T05:33:00Z"
+  },
+  {
+    "title": "New U.S.-Iran escalation: Strikes in the Strait of Hormuz, Iranian retaliation and Trump\u2019s threats",
+    "description": "\u201cWe will hit them hard,\u201d the U.S. president warned \u2014 \u201cContinuing the war is in no one\u2019s interest,\u201d Tehran says \u2014 Oil rises above $90 again\nThe post New U.S.-Iran escalation: Strikes in the Strait of Hormuz, Iranian retaliation and Trump\u2019s threats appeared fir\u2026",
+    "link": "https://en.protothema.gr/2026/09/01/new-u-s-iran-escalation-strikes-in-the-strait-of-hormuz-iranian-retaliation-and-trumps-threats/",
+    "timestamp": "2026-09-01T05:32:39Z"
+  },
+  {
+    "title": "Oil prices climb as Trump threatens new strikes on Iran",
+    "description": "Geopolitical tensions could lead to global economic instability, affecting energy markets and potentially driving up costs for consumers worldwide.\nThe post Oil prices climb as Trump threatens new strikes on Iran appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/oil-prices-climb-as-trump-threatens-new-strikes-on-iran/",
+    "timestamp": "2026-09-01T05:32:35Z"
+  },
+  {
+    "title": "Oil prices rise on renewed supply disruption risks",
+    "description": "US president Donald Trump threatened further strikes against Iran following the first exchange of direct attacks \u2060between the countries in a month",
+    "link": "https://www.irishtimes.com/business/markets/2026/09/01/oil-prices-rise-on-renewed-supply-disruption-risks/",
+    "timestamp": "2026-09-01T05:30:37Z"
+  },
+  {
+    "title": "Those Sketchy \u2018Freedom Fuel\u2019 Gas Stations Were Selling Stolen Fuel: Lawsuit",
+    "description": "Back in July, a new chain of gas stations called the Freedom Fuel Network popped up in the Northeast, seemingly out of nowhere, with extremely attractive prices. It seemed to have friends in high places right from the very start, with its first retail site pr\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4393824/posts",
+    "timestamp": "2026-09-01T05:22:18Z"
+  },
+  {
+    "title": "Rupee rises 26 paise to 94.96 against US dollar during early trade",
+    "description": "The rupee gained 26 paise to trade at 94.96 per US dollar on Tuesday morning, on robust domestic growth, contained fiscal slippage, and portfolio-related inflows.\nForex traders said the USD/INR pair appears to have found a strong near-term base around 95.10-9\u2026",
+    "link": "https://www.business-standard.com/finance/news/rupee-rises-26-paise-to-94-96-against-us-dollar-during-early-trade-126090100175_1.html",
+    "timestamp": "2026-09-01T05:12:14Z"
+  },
+  {
+    "title": "Army secretary issued blunt takedown of Pete Hegseth before quitting, exposing dramatic rift at Pentagon",
+    "description": "The secretary met with President Trump last week and unloaded his concerns with where Hegseth is taking the Army.",
+    "link": "https://www.dailymail.com/news/article-16094775/Army-secretary-takedown-Pete-Hegseth-Trump.html",
+    "timestamp": "2026-09-01T04:52:32Z"
+  },
+  {
+    "title": "Analyst Slams Trump\u2019s Energy Promises, Strait of Hormuz Claims: \u2018A Painful New Record\u2026\u2019",
+    "description": "Analyst Charlie Bilello has slammed President Donald Trump amid rising costs of commodities and uncertainty over the Iran war.",
+    "link": "https://biztoc.com/x/d623400e041b3087",
+    "timestamp": "2026-09-01T04:52:20Z"
+  },
+  {
+    "title": "Trump says Xi to visit Washington this month for high-stakes summit",
+    "description": "President Trump announced President Xi Jinping will visit Washington for a summit.  The leaders will discuss global security, trade, and human rights issues.  Both nations are navigating economic tensions and a temporary trade truce.  The meeting aims to mana\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-xi-to-visit-washington-this-month-for-high-stakes-summit/articleshow/133668640.cms",
+    "timestamp": "2026-09-01T04:52:10Z"
+  },
+  {
+    "title": "Trump says it's 'very early' to talk about a Hegseth 2028 presidential campaign",
+    "description": "US President Donald Trump has dismissed speculation about Defense Secretary Pete Hegseth running for president in 2028, saying it is too early to discuss his successor. Trump said Hegseth is focused on the military and that the Republicans must first get thro\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-its-very-early-to-talk-about-a-hegseth-2028-presidential-campaign/articleshow/133668583.cms",
+    "timestamp": "2026-09-01T04:48:14Z"
+  },
+  {
+    "title": "Rupee rises 26 paise to 94.96 against US dollar in early trade",
+    "description": "Rupee rises 26 paise to 94.96 against the US dollar, fueled by strong domestic growth and portfolio inflows.",
+    "link": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-26-paise-to-9496-against-us-dollar-in-early-trade/article71413620.ece",
+    "timestamp": "2026-09-01T04:46:17Z"
+  },
+  {
+    "title": "Bond selloff deepens as rising energy prices stoke inflation fears",
+    "description": "TOKYO, Sept 1 : Selling drove global bond yields to major new highs on Tuesday as renewed fighting in the Middle East lifted oil prices above $90 a barrel and put pressure on stock markets around the world.Japan's 10-year benchmark hit 3 per cent for the firs\u2026",
+    "link": "https://www.channelnewsasia.com/business/bond-selloff-deepens-rising-energy-prices-stoke-inflation-fears-6353541",
+    "timestamp": "2026-09-01T04:45:39Z"
+  },
+  {
+    "title": "Army Secretary Dan Driscoll is stepping down, White House says",
+    "description": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration.",
+    "link": "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+    "timestamp": "2026-09-01T04:43:57Z"
+  },
+  {
+    "title": "Trump dismisses \u2018little war\u2019 with Iran amid resumed clashes",
+    "description": "Trump's rhetoric may hinder diplomatic efforts, reducing chances for a comprehensive US-Iran deal and impacting reconstruction funding prospects.\nThe post Trump dismisses \u2018little war\u2019 with Iran amid resumed clashes appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/trump-dismisses-little-war-with-iran-amid-resumed-clashes/",
+    "timestamp": "2026-09-01T04:41:32Z"
+  },
+  {
+    "title": "\u2018Change agent\u2019 Army secretary resigns",
+    "description": "Hegseth\u2019s purging of transformation-focused generals led to Dan Driscoll\u2019s resignation, source says.",
+    "link": "https://www.defenseone.com/policy/2026/09/change-agent-army-secretary-resigns/415747/",
+    "timestamp": "2026-09-01T04:41:32Z"
+  },
+  {
+    "title": "When confronted with progressive antisemitism, Jewish liberals blame Trump",
+    "description": "Many Jewish democrat liberals would probably only feel rain if spat upon by antisemitic progressives. Opinion.",
+    "link": "https://www.israelnationalnews.com/news/432532",
+    "timestamp": "2026-09-01T04:38:00Z"
+  },
+  {
+    "title": "Sanctions and bombs won\u2019t end the war in Iran. Trump is running out of options against an intractable foe",
+    "description": "The Trump administration is trying every tactic to get Iran to capitulate, but there is only one path forward for both sides.",
+    "link": "https://theconversation.com/sanctions-and-bombs-wont-end-the-war-in-iran-trump-is-running-out-of-options-against-an-intractable-foe-290852",
+    "timestamp": "2026-09-01T04:33:46Z"
+  },
+  {
+    "title": "US to press G20 on light-touch AI regulation",
+    "description": "Tech bosses including Elon Musk, Nvidia's Jensen Huang and OpenAI's Sam Altman are participating in a G20 meeting in North Carolina this week amid a global debate on how governments should address the dangers of artificial intelligence. The meeting is spread \u2026",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
+    "timestamp": "2026-09-01T04:29:45Z"
+  },
+  {
+    "title": "Crude oil prices rise as Trump threatens further strikes against Iran",
+    "description": "Crude oil futures rise as Trump threatens further strikes against Iran, while a tanker reports being struck by projectiles near the Strait of Hormuz.",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-rise-as-trump-threatens-further-strikes-against-iran/article71413601.ece",
+    "timestamp": "2026-09-01T04:23:51Z"
+  },
+  {
+    "title": "Carney\u2019s Liberals sweep 3 special elections in Canada as voters back his stand against Trump",
+    "description": "Canada's Liberals swept three special elections Monday in a result that showed voters backing Prime Minister Mark Carney for standing up against U.S. Preside...",
+    "link": "https://www.yahoo.com/news/world/articles/carney-liberals-sweep-3-special-042103601.html",
+    "timestamp": "2026-09-01T04:21:03Z"
+  },
+  {
+    "title": "Reports: U.S. striker Folarin Balogun is headed on transfer to Premier League club Everton",
+    "description": "United States striker Folarin Balogun is set to head to Premier League team Everton on a transfer from Monaco, British media reported on Monday. The transfer fee offered by Everton is reported to be in the range of 40 million pounds ($54 million) on a four-ye\u2026",
+    "link": "https://sports.yahoo.com/articles/reports-u-striker-folarin-balogun-041821464.html",
+    "timestamp": "2026-09-01T04:18:21Z"
+  },
+  {
+    "title": "Poll: Americans Oppose Iran War, Blame it for Inflation, and Diss Trump\u2019s Performance",
+    "description": "So 68%, over two-thirds, think he has done a piss-poor job on his Iran War, which was his war of choice",
+    "link": "https://www.juancole.com/2026/09/americans-inflation-performance.html",
+    "timestamp": "2026-09-01T04:15:13Z"
+  },
+  {
+    "title": "Sensex slips over 100 pts, Nifty below Rs 24,050 as bank, pharma shares fall; small, midcaps see deeper cuts",
+    "description": "Nifty and Sensex opened lower on Tuesday amid bank and pharma weakness, Middle East tensions, rising crude prices and foreign outflows. Broader markets also declined. Analysts expect the Nifty to remain range-bound, supported by strong domestic growth, while \u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-slips-120-pts-nifty-below-rs-24050-as-bank-pharma-shares-fall-small-midcaps-see-deeper-cuts/articleshow/133667678.cms",
+    "timestamp": "2026-09-01T04:09:54Z"
+  },
+  {
+    "title": "AOC Slams Trump\u2019s \u2018Insulting\u2019 White House Ballroom After Supreme Court Greenlights Construction",
+    "description": "\"We are sitting on money to be able to help everyday Americans,\" the congresswoman from New York adds\nThe post AOC Slams Trump\u2019s \u2018Insulting\u2019 White House Ballroom After Supreme Court Greenlights Construction appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/politics/aoc-slams-trump-white-house-ballroom-after-supreme-court-ruling/",
+    "timestamp": "2026-09-01T04:01:37Z"
+  },
+  {
+    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+    "description": "The US battery storage market just posted its biggest quarter ever, adding 20.2 gigawatt-hours (GWh) of new capacity in Q2 2026.\n\n\n\n more\u2026",
+    "link": "http://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+    "timestamp": "2026-09-01T04:01:00Z"
+  },
+  {
+    "title": "Trump\u2019s putting America first in medicine, at factories, and with oil",
+    "description": "By Joseph Ford Cotto",
+    "link": "https://www.americanthinker.com/blog/2026/09/trump-s-putting-america-first-in-medicine-at-factories-and-with-oil/",
+    "timestamp": "2026-09-01T04:00:00Z"
+  },
+  {
+    "title": "Bypassing the strait?",
+    "description": "By J.R. DunnIt seems that we\u2019ve got another hoax on our hands, this one involving the Strait of Hormuz.",
+    "link": "https://www.americanthinker.com/blog/2026/09/bypassing-the-strait/",
+    "timestamp": "2026-09-01T04:00:00Z"
+  },
+  {
+    "title": "Stars and Stripes: who's the boss?",
+    "description": "By Mike McDanielIgnore your boss at your own risk.",
+    "link": "https://www.americanthinker.com/blog/2026/09/stars-and-stripes-who-s-the-boss/",
+    "timestamp": "2026-09-01T04:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s Economic D-Day Puts America First, Crushes Iranian Jihadists",
+    "description": "Photo Credit:Iran flag\n \n PixabayBy Joseph Ford CottoDo Republican voters want this actual America-first pressure continued?",
+    "link": "https://www.americanthinker.com/articles/2026/09/trump-s-economic-d-day-puts-america-first-crushes-iranian-jihadists/",
+    "timestamp": "2026-09-01T04:00:00Z"
+  },
+  {
+    "title": "Trump welcomes Russia at G20 despite EU tantrum",
+    "description": "US President Donald Trump welcomed a Russian delegation to the G20, brushing aside protests from EU officials who refused to appear alongside Russian Finance Minister Anton Siluanov in the gathering\u2019s traditional \u201cfamily photo.\u201d",
+    "link": "https://www.rt.com/news/644948-trump-russia-g20-siluanov/",
+    "timestamp": "2026-09-01T03:41:26Z"
+  },
+  {
+    "title": "Army Secretary Dan Driscoll Steps Down In Latest Military Departure",
+    "description": "The White House gave no reason for Driscoll\u2019s exit after 18 months, but tensions with Pentagon chief Pete Hegseth have been widely reported.",
+    "link": "https://www.huffpost.com/entry/trump-army-secretary-dan-driscoll-steps-down_n_6a95fecce4b087cf7efe1305",
+    "timestamp": "2026-09-01T03:38:26Z"
+  },
+  {
+    "title": "United States Government and North American Blue Energy Partners (NABEP) Reach Historic Deal to Develop Venezuela's Oil Sector",
+    "description": "The deal, made possible by strengthening relations between Venezuela and the United States, is expected to involve nearly $100 billion in investment to commercialize more than 65 billion barrels of P1 reserves in Venezuela. CARACAS, Venezuela, Aug. 31, 2026 /\u2026",
+    "link": "https://www.prnewswire.com/news-releases/united-states-government-and-north-american-blue-energy-partners-nabep-reach-historic-deal-to-develop-venezuelas-oil-sector-302865638.html",
+    "timestamp": "2026-09-01T03:34:00Z"
+  },
+  {
+    "title": "Dan Driscoll Resigns, Leaving Army Without Confirmed Leadership",
+    "description": "United States Secretary of the Army Dan Driscoll reportedly submitted his resignation to President Donald Trump on Monday.",
+    "link": "https://dailycaller.com/2026/08/31/dan-driscoll-army-chief-who-took-unusually-active-role-in-diplomacy-resigns",
+    "timestamp": "2026-09-01T03:32:36Z"
+  },
+  {
+    "title": "Get right out of town",
+    "description": "House Speaker Mike Johnson faces a tricky week as Republicans push a socialism vote and the SAVE America Act before Members flee to campaign.",
+    "link": "https://www.foxnews.com/politics/get-right-out-town",
+    "timestamp": "2026-09-01T03:31:22Z"
+  },
+  {
+    "title": "Supreme Court lets Trump's White House ballroom construction continue",
+    "description": "The Supreme Court allowed the Trump administration to continue White House ballroom construction.  This ruling blocks a lower court order halting above-ground development.  A historic preservation group sued to stop the project last year.  The court cited nat\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/supreme-court-lets-trumps-white-house-ballroom-construction-continue/articleshow/133667088.cms",
+    "timestamp": "2026-09-01T03:31:07Z"
+  },
+  {
+    "title": "Trump's oil deal with Venezuela raises red flags for some major producers, sources say",
+    "description": "A proposed US deal granting North American Blue Energy Partners a 100-year lease over 17 Venezuelan oilfields is raising concerns among major oil companies. The arrangement would give the US a 35% stake and guaranteed oil access, while NABEP\u2019s Venezuelan owne\u2026",
+    "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/trumps-oil-deal-with-venezuela-raises-red-flags-for-some-major-producers-sources-say/articleshow/133667047.cms",
+    "timestamp": "2026-09-01T03:30:31Z"
+  },
+  {
+    "title": "Trump Tells FCC To Punish Journalist For Calling His Election Results 'Mixed'",
+    "description": "An anonymous reader quotes a report from Ars Technica: President Trump yesterday demanded that the Federal Communications Commission punish or rebuke an NBC journalist for saying he has \"mixed results\" in his election endorsements. In the latest example of ho\u2026",
+    "link": "https://yro.slashdot.org/story/26/09/01/0034252/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed",
+    "timestamp": "2026-09-01T03:30:00Z"
+  },
+  {
+    "title": "John Ternus to lead Apple into the age of AI",
+    "description": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
+    "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai",
+    "timestamp": "2026-09-01T03:20:25Z"
+  },
+  {
+    "title": "Trump plans $4 million for right-wing media in Europe, sources say",
+    "description": "The Trump administration plans to allocate at least $25 million to European civil society groups, including $4 million aimed at strengthening right-wing media and journalism. The funding, described by the State Department as supporting free speech and transat\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/business/trump-plans-4-million-for-right-wing-media-in-europe-sources-say/articleshow/133666896.cms",
+    "timestamp": "2026-09-01T03:17:15Z"
+  },
+  {
+    "title": "US plans to get board veto, right of first refusal in Venezuela oil deal",
+    "description": "The White House said the US will have first rights to buy 80% of the oil produced by a private operator in Venezuela and veto power over board appointments",
+    "link": "https://www.business-standard.com/world-news/us-plans-to-get-board-veto-right-of-first-refusal-in-venezuela-oil-deal-126090100115_1.html",
+    "timestamp": "2026-09-01T03:17:11Z"
+  },
+  {
+    "title": "China Factor Looms Over Collapse of US\u2013Canada Trade Talks",
+    "description": "The U.S.\u2013Canada trade talks broke down on Aug. 21. Although both sides hold completely different views, they agreed on two common dealbreakers: bilateral coordination on Canada\u2019s future trade deals with third countries and how deep tariff-rate cuts should go \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4393812/posts",
+    "timestamp": "2026-09-01T03:16:36Z"
+  },
+  {
+    "title": "Oil extends gains, stocks drop as Trump issues fresh Iran warning",
+    "description": "HONG KONG: Oil prices extended gains on Tuesday (Sep 1) amid fears of a fresh bout of military exchanges between the United States and Iran following a flare-up at the weekend and Donald Trump's warning that he will hit the country \"hard\".The latest bout of s\u2026",
+    "link": "https://www.channelnewsasia.com/world/oil-stocks-trump-iran-warning-6353686",
+    "timestamp": "2026-09-01T03:16:12Z"
+  },
+  {
+    "title": "Sun Pharma signs agreement with US government for MFN pricing on medicines",
+    "description": "Sun Pharma signs a US government agreement to extend MFN pricing to state Medicaid programmes and commit to the pricing for future innovative medicines.",
+    "link": "https://www.thehindubusinessline.com/companies/sun-pharma-signs-agreement-with-us-government-for-mfn-pricing-on-medicines/article71413511.ece",
+    "timestamp": "2026-09-01T03:07:57Z"
+  },
+  {
+    "title": "Oil prices rise as US-Iran fighting renews fears of supply disruptions",
+    "description": "Brent crude rose 0.6% to $91.05 a barrel as renewed US-Iran fighting raised concerns over supply from the Middle East, the world's key oil-producing region",
+    "link": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-us-iran-fighting-renews-fears-of-supply-disruptions-126090100074_1.html",
+    "timestamp": "2026-09-01T02:58:34Z"
+  },
+  {
+    "title": "Nifty set for higher open after 7.8% GDP surprise; West Asia tensions, rising crude price cap gains",
+    "description": "GIFT Nifty at 24,178; FIIs sold \u20b97,986 crore on Monday as weekly expiry and closing auction stay in focus",
+    "link": "https://www.thehindubusinessline.com/markets/nifty-set-for-higher-open-after-78-gdp-surprise-west-asia-tensions-rising-crude-price-cap-gains/article71413504.ece",
+    "timestamp": "2026-09-01T02:56:49Z"
+  },
+  {
+    "title": "US Supreme Court lets WH continue construction on Trump's $400 mn ballroom",
+    "description": "A divided Supreme Court on Monday allowed the White House to continue construction on a USD 400 million ballroom project as lawsuits play out, a win for President Donald Trump as he flexes unprecedented executive power and remakes the capital in his image.\nTh\u2026",
+    "link": "https://www.business-standard.com/world-news/us-supreme-court-lets-wh-continue-construction-on-trump-s-400-mn-ballroom-126090100046_1.html",
+    "timestamp": "2026-09-01T02:51:19Z"
+  },
+  {
+    "title": "Maggie Haberman Gives Brutal Assessment of Trump\u2019s Approval Ratings: \u2018There Is No Polling Where This President Is Popular\u2019",
+    "description": "CNN commentator Maggie Haberman put President Donald Trump's poll numbers in acutely grim terms on Monday, noting that he is polling poorly across the board.\nThe post Maggie Haberman Gives Brutal Assessment of Trump\u2019s Approval Ratings: \u2018There Is No Polling Wh\u2026",
+    "link": "https://www.mediaite.com/media/tv/maggie-haberman-gives-brutal-assessment-of-trumps-approval-ratings-there-is-no-polling-where-this-president-is-popular/",
+    "timestamp": "2026-09-01T02:49:28Z"
+  },
+  {
+    "title": "Trump has asked Apple to rename Lake Ontario as 'Lake America' on maps",
+    "description": "US President Donald Trump has asked Apple to change the name of Lake Ontario to \"Lake America\" on its maps app, his administration's interior chief said Monday, days after signing an executive order over the body of water now in the spotlight amid his escalat\u2026",
+    "link": "https://www.business-standard.com/world-news/trump-has-asked-apple-to-rename-lake-ontario-as-lake-america-on-maps-126090100042_1.html",
+    "timestamp": "2026-09-01T02:48:38Z"
+  },
+  {
+    "title": "Trump downplays nuclear weapon use amid US-Iran tensions",
+    "description": "Trump's remarks may lower urgency for U.S.-Iran diplomacy, impacting market perceptions and potentially easing immediate nuclear tensions.\nThe post Trump downplays nuclear weapon use amid US-Iran tensions appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/trump-downplays-nuclear-weapon-use-amid-us-iran-tensions/",
+    "timestamp": "2026-09-01T02:30:59Z"
+  },
+  {
+    "title": "Civilian leader of US Army steps down after just 18 months in job",
+    "description": "One of the highest-ranking civilian leaders of the US Army steps down after just 18 months in the job.",
+    "link": "https://www.abc.net.au/news/2026-09-01/army-secretary-dan-driscoll-stepping-down/107101744",
+    "timestamp": "2026-09-01T02:23:19Z"
+  },
+  {
+    "title": "US brings back Russia\u2019s Siluanov to G20 finance talks, angering Europe",
+    "description": "Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.",
+    "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe",
+    "timestamp": "2026-09-01T02:23:03Z"
+  },
+  {
+    "title": "Oil Price Today (September 1): Crude oil above $90 as US, Iran attacks jolt Hormuz hopes. $100 in sight?",
+    "description": "Oil prices rose on Tuesday as renewed fighting between the U.S. and Iran in the Middle East revived concerns over potential supply disruptions from the world\u2019s key crude-producing region.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-1-crude-oil-above-90-as-us-iran-attacks-jolt-hormuz-hopes-100-in-sight/articleshow/133666056.cms",
+    "timestamp": "2026-09-01T02:11:11Z"
+  },
+  {
+    "title": "EU targets ChatGPT, Reddit and Roblox under censorship law",
+    "description": "The European Union has placed ChatGPT, Reddit and Roblox under the strictest tier of its online regulations, giving the US services four months to comply with rules denounced by Washington and leading tech figures as censorship",
+    "link": "https://www.rt.com/news/644947-eu-chatgpt-reddit-roblox-censorship/",
+    "timestamp": "2026-09-01T02:10:57Z"
+  },
+  {
+    "title": "Sara Netanyahu amplifies October 7 conspiracies, refuses to rule out 'betrayal from within'",
+    "description": "Tanker struck by three projectiles while sailing out of Strait of Hormuz, UKMTO says. Sara Netanyahu amplifies October 7 conspiracies, refuses to rule out 'betrayal from within'. Israeli curriculum to replace Palestinian program in all East Jerusalem schools",
+    "link": "https://www.haaretz.com/israel-news/israel-security/2026-09-01/ty-article-live/sara-netanyahu-amplifies-october-7-conspiracies-refuses-to-rule-out-betrayal/000001a0-5aaf-d9d2-abfe-daff71e30000",
+    "timestamp": "2026-09-01T02:06:26Z"
+  },
+  {
+    "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
+    "description": "The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456",
+    "timestamp": "2026-09-01T02:03:18Z"
+  },
+  {
+    "title": "What 248 books reveal about Kaja Kallas",
+    "description": "EU's top diplomat is a noted bookworm. But what can her bookshelf tell us about the politician leading Europe's diplomacy?",
+    "link": "https://www.politico.eu/article/kaja-kallas-book-recommendations/",
+    "timestamp": "2026-09-01T02:00:00Z"
+  },
+  {
+    "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+    "description": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
+    "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+    "timestamp": "2026-09-01T01:59:48Z"
+  },
+  {
+    "title": "Ukraine sanctions chief heads to Washington to push Russia sanctions bill",
+    "description": "Ukraine\u2019s top sanctions official Vladyslav Vlasiuk will visit Washington to lobby House lawmakers to back a sweeping Russia sanctions bill passed by the Senate. The legislation could authorise tariffs of up to 100% on major buyers of Russian energy, including\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-sanctions-chief-heads-to-washington-to-push-russia-sanctions-bill/articleshow/133665878.cms",
+    "timestamp": "2026-09-01T01:58:50Z"
+  },
+  {
+    "title": "Trump calls for immediate action on US federal production tax credit",
+    "description": "American president Donald Trump has signalled his interest in establishing a federal tax credit in the US, claiming he will give his backing to the passage of legislation that could support an ailing Hollywood.",
+    "link": "https://www.c21media.net/news/trump-calls-for-immediate-action-on-us-federal-production-tax-credit/",
+    "timestamp": "2026-09-01T01:57:44Z"
+  },
+  {
+    "title": "Gold steadies as traders await US jobs data, monitor Mideast tensions",
+    "description": "Gold prices held steady as traders navigated heightened tensions in the Middle East and awaited pivotal labor data from the US. This economic data is expected to shape the market's forecast regarding Federal Reserve policy moves. With a 65% likelihood of a ra\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-as-traders-await-us-jobs-data-monitor-mideast-tensions/articleshow/133665925.cms",
+    "timestamp": "2026-09-01T01:57:40Z"
+  },
+  {
+    "title": "Yen hangs near 160 amid BOJ rate-hike bets, dollar wobbles",
+    "description": "The yen stabilized near 160 against the dollar on Tuesday. US Treasury Secretary Scott Bessent urged the Bank of Japan to raise rates. Currency markets watched renewed Middle East conflict and rising oil prices. Traders anticipate a potential Federal Reserve \u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-hangs-near-160-amid-boj-rate-hike-bets-dollar-wobbles/articleshow/133665906.cms",
+    "timestamp": "2026-09-01T01:54:05Z"
+  },
+  {
+    "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
+    "description": "On Tuesday, oil prices surged as concerns over supply disruptions arose due to escalating conflicts in the Middle East. Both Brent crude futures and West Texas Intermediate crude experienced notable gains. Tensions escalated following the recent direct confro\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks/articleshow/133665891.cms",
+    "timestamp": "2026-09-01T01:52:15Z"
+  },
+  {
+    "title": "Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+    "description": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
+    "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+    "timestamp": "2026-09-01T01:51:28Z"
+  },
+  {
+    "title": "Hegseth\u2019s Pentagon Lurches Off the Rails",
+    "description": "The resignation of Army Secretary Dan Driscoll is the latest sign of severe dysfunction in the Defense Department.",
+    "link": "https://www.theatlantic.com/ideas/2026/08/hegseth-driscoll/688480/",
+    "timestamp": "2026-09-01T01:47:58Z"
+  },
+  {
+    "title": "Bold economic leadership needed to save iconic California industries",
+    "description": "California\u2019s wine industry is in trouble \u2014 and it\u2019s not alone. Several industries that are at the core of California\u2019s economy \u2014 and our identity \u2014 are confronting the greatest challenges they have ever faced. The wine industry is being squeezed from both sid\u2026",
+    "link": "https://nypost.com/2026/08/31/opinion/bold-economic-leadership-needed-to-save-iconic-california-industries/",
+    "timestamp": "2026-09-01T01:47:55Z"
+  },
+  {
+    "title": "Oil extends advance as US-Iran escalation revives Hormuz risks",
+    "description": "Several current and former US and Iranian officials have said they expect the conflict to drag on for months",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/latest-oil-market-news-and-analysis-for-sept-1",
+    "timestamp": "2026-09-01T01:41:43Z"
+  },
+  {
+    "title": "Trump Says It\u2019s \u2018Very Early\u2019 to Talk About a Hegseth Bid",
+    "description": "\u201cPresident Donald Trump on Monday told reporters it was too soon to discuss his \u200bpotential successor, sidestepping talk of a 2028 campaign by \u200cDefense Secretary Pete Hegseth,\u201d Reuters reports. Said Trump: \u201cWe \u200bhave to get through the midterms first.\u201d",
+    "link": "https://politicalwire.com/2026/08/31/trump-says-its-very-early-to-talk-about-a-hegseth-bid/",
+    "timestamp": "2026-09-01T01:40:27Z"
+  },
+  {
+    "title": "'Everyone in Nashville is terrified to say it out loud': Grammy-winning snitch spares no one in savage name-and-shame ranking of singers vying for Dolly Parton's crown as the next Queen of Country: ROB SHUTER",
+    "description": "'Let's stop pretending Cowboy Carter was some flawless country masterpiece,' the Grammy award winner tells me.",
+    "link": "https://www.dailymail.com/tvshowbiz/article-16093827/dolly-parton-nashville-country-ranking-rob-shuter.html",
+    "timestamp": "2026-09-01T01:32:26Z"
+  },
+  {
+    "title": "Toilet paper price hikes are on the way thanks to Trump's trade war with Canada... And American shoppers are already stocking up",
+    "description": "Americans could soon be paying more for toilet paper as President Trump's escalating trade war with Canada threatens to push up the cost of the raw materials used to make it.",
+    "link": "https://www.dailymail.com/yourmoney/article-16092441/Toilet-paper-price-hikes-way-thanks-Trumps-trade-war-Canada-American-shoppers-stocking-up.html",
+    "timestamp": "2026-09-01T01:31:33Z"
+  },
+  {
+    "title": "Brent surges above $90 as US-Iran conflict escalates",
+    "description": "Oil prices rose more than two per cent on Monday as renewed military attacks between the United States and Iran heightened concerns over possible disruptions to global crude supplies. Brent crude futures rose $2.37, or 2.69 per cent, to $90.47 a barrel, while\u2026",
+    "link": "https://punchng.com/brent-surges-above-90-as-us-iran-conflict-escalates/",
+    "timestamp": "2026-09-01T01:27:18Z"
+  },
+  {
+    "title": "India's Modi Presses Putin to Wrap Up Ukraine Invasion: 'Move Away from Endless War'",
+    "description": "Indian Prime Minister Narendra Modi urged Russian strongman Vladimir Putin to \"move away from endless war\" and find a resolution to his ongoing invasion of Ukraine during a meeting on Monday.\nThe post India\u2019s Modi Presses Putin to Wrap Up Ukraine Invasion: \u2018M\u2026",
+    "link": "https://www.breitbart.com/asia/2026/08/31/india-modi-presses-putin-wrapup-ukraine-invasion-moveaway-endless-war/",
+    "timestamp": "2026-09-01T01:24:25Z"
+  },
+  {
     "title": "CNBC Daily Open: Trump wants to floor it on economic growth as Warsh eyes the brakes",
     "description": "The Trump administration saw two embattled officials fending off criticism yesterday as the war in the Middle East flared up again.",
     "link": "https://www.cnbc.com/2026/09/01/cnbc-daily-open-trump-us-growth-fed.html",
@@ -160,443 +592,5 @@
     "description": "DollyFest will take place across two consecutive weekends but the idea isn't brand new.",
     "link": "https://www.dailymail.com/tvshowbiz/article-16094281/Dolly-Parton-music-festival-dollyfest.html",
     "timestamp": "2026-08-31T23:47:14Z"
-  },
-  {
-    "title": "He says AI data center opponents want to be 'backwards and poor'...",
-    "description": "He says AI data center opponents want to be 'backwards and poor'...\r\n\n \n \n \n (First column, 2nd story, link)\r\n\n \r\n\n \r\n\n \n Related stories:TRUMP POLL NIGHTMARE: 32% APPROVAL...\r\nWhite House inner circle shrinking...\r\n\n \r\n\n \n \n Drudge Report Feed needs your sup\u2026",
-    "link": "https://www.yahoo.com/news/politics/articles/trump-blasts-us-backlash-against-161603675.html",
-    "timestamp": "2026-08-31T23:46:36Z"
-  },
-  {
-    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.'s investment fund | TechCrunch",
-    "description": "Polymarket reportedly raises $300 million from Donald Trump Jr.'s investment fund | TechCrunchtechcrunch.com",
-    "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-    "timestamp": "2026-08-31T23:41:10Z"
-  },
-  {
-    "title": "Trump's deals in Africa could cut U.S. health aid by more than half, analysis shows",
-    "description": "For decades, global health funding has enjoyed bipartisan support in the U.S., with lawmakers arguing that it is both morally correct and in the self-interest of wealthier nations.",
-    "link": "https://www.inquirer.com/news/nation-world/trump-deep-cuts-global-health-funding-deals-african-nations-pepfar-hiv-ebola-tuberculosis-20260831.html",
-    "timestamp": "2026-08-31T23:37:54Z"
-  },
-  {
-    "title": "Trump Pharma Deals Called Distraction From 'Failed Plan to Lower US Drug Prices'",
-    "description": "US President Donald Trump on Monday announced nine more agreements with pharmaceutical manufacturers intended to lower prescription drug prices nationwide, bringing the total to 26, but patient advocates responded skeptically. The administration previously st\u2026",
-    "link": "https://www.commondreams.org/news/trump-drug-pricing",
-    "timestamp": "2026-08-31T23:35:30Z"
-  },
-  {
-    "title": "Don't believe claim Canadian officials are refusing passage to ships bound for 'Lake America'",
-    "description": "As of August 2026, Canadian officials were refusing passage through the Welland Canal to ships that used the name \"Lake America\" to refer to Lake Ontario in their documentation.",
-    "link": "https://www.snopes.com//fact-check/canada-lake-ontario-america-ships/",
-    "timestamp": "2026-08-31T23:32:00Z"
-  },
-  {
-    "title": "DOGE cuts to USAID halted program that built flood early-warning system in Nepal?",
-    "description": "It was unclear whether such a system could have saved lives when glacial floodwaters swept away Nepalese villages on Aug. 26, 2026.",
-    "link": "https://www.snopes.com//news/2026/08/31/usaid-doge-cuts-nepal-flood/",
-    "timestamp": "2026-08-31T23:25:00Z"
-  },
-  {
-    "title": "Trump Reaches Deals with Nine More Pharmaceutical Companies to Slash Drug Prices",
-    "description": "President Donald Trump has struck deals with nine more pharmaceutical companies to slash drug prices for patients.\nThe post Trump Reaches Deals with Nine More Pharmaceutical Companies to Slash Drug Prices appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2026/08/31/trump-reaches-deals-with-nine-more-pharmaceutical-companies-to-slash-drug-prices/",
-    "timestamp": "2026-08-31T23:20:17Z"
-  },
-  {
-    "title": "Trump threatens to \u2018hit Iran hard\u2019 after new flare-up",
-    "description": "The US president has vowed to \u201chit Iran hard\u201d after Tehran launched retaliatory strikes against American military installations in Jordan Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/644946-trump-hit-iran-hard/",
-    "timestamp": "2026-08-31T23:14:05Z"
-  },
-  {
-    "title": "Army Secretary Dan Driscoll submits resignation to Trump",
-    "description": "Army Secretary Dan Driscoll has submitted his resignation to President Donald Trump, a senior U.S. official confirmed to Fox News. The resignation remains pending and has not been accepted by the White House, the official said.",
-    "link": "https://freerepublic.com/focus/f-news/4393797/posts",
-    "timestamp": "2026-08-31T23:12:56Z"
-  },
-  {
-    "title": "CNN admits error after suggesting US troops abroad would be impacted by Trump's mail-in ballot crackdown",
-    "description": "CNN's Wolf Blitzer walked back a comment falsely suggesting U.S. troops overseas would be impacted by President Donald Trump's mail-in ballot crackdown.",
-    "link": "https://www.foxnews.com/media/cnn-admits-error-suggesting-us-troops-abroad-impacted-trumps-mail-in-ballot-crackdown",
-    "timestamp": "2026-08-31T23:10:35Z"
-  },
-  {
-    "title": "Tensions erupt in House hearing as GOP advances anti-socialism resolution while Dems rage: 'Silly season'",
-    "description": "House Republicans force Democrats to vote on condemning socialism and capping the Supreme Court at nine justices amid the left's inter-party civil war.",
-    "link": "https://www.foxnews.com/politics/tensions-erupt-house-hearing-gop-advances-anti-socialism-resolution-dems-rage-silly-season",
-    "timestamp": "2026-08-31T23:09:06Z"
-  },
-  {
-    "title": "Trump demands Congress drop everything for a staggering cause: \u2018Get this done!'",
-    "description": "President Donald Trump took an unusual detour with the midterm elections just weeks away, calling on Congress to take up a new priority: rescuing Hollywood.\u201cWhat we watch on the Silver Screen should be made in what was once the Movie and Motion Picture Capita\u2026",
-    "link": "https://www.rawstory.com/trump-hollywood-2677800951/",
-    "timestamp": "2026-08-31T23:08:35Z"
-  },
-  {
-    "title": "Trump Wants the FCC To Punish His Enemies",
-    "description": "The Reason Roundtable discusses President Trump's latest threat to use the FCC against 'Meet the Press' host Kristen Welker.",
-    "link": "https://reason.com/podcast/2026/08/31/trump-wants-the-fcc-to-punish-his-enemies/",
-    "timestamp": "2026-08-31T23:08:34Z"
-  },
-  {
-    "title": "As Trump pivots to Venezuela for energy, U.S big oil and big money invest in Canada",
-    "description": "As Trump pivots to Venezuela for energy, U.S big oil and big money invest in Canadatheglobeandmail.com",
-    "link": "https://www.theglobeandmail.com/business/commentary/article-trump-pivots-venezuela-energy-us-big-oil-money-invest-canada/",
-    "timestamp": "2026-08-31T23:08:26Z"
-  },
-  {
-    "title": "US Army Secretary Dan Driscoll resigns amid tensions with Hegseth",
-    "description": "Army Secretary Dan Driscoll submits resignation to President Trump after months of reported tensions with Secretary of War Pete Hegseth.",
-    "link": "https://www.israelnationalnews.com/news/432517",
-    "timestamp": "2026-08-31T23:07:08Z"
-  },
-  {
-    "title": "Al Michaels Makes Joke About Donald Trump\u2019s \u2018Lake America\u2019 During NFL Game",
-    "description": "Sports broadcaster Al Michaels appeared to poke fun at President Donald Trump\u2019s erroneous decision to rename Lake Erie during a recent NFL game. \u201cThat is Lake Erie. We think it is still called Lake Erie on the right,\u201d Michaels, 81, said as an aerial shot of O\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/al-michaels-jokes-about-donald-trumps-lake-america/",
-    "timestamp": "2026-08-31T23:04:37Z"
-  },
-  {
-    "title": "Trump Announces U.S. Space Academy as America Enters a New Space Race",
-    "description": "Meanwhile, SpaceX plans to invest up to $100 billion in massive Louisiana spaceport.\nThe post Trump Announces U.S. Space Academy as America Enters a New Space Race first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-    "link": "https://legalinsurrection.com/2026/08/trump-announces-u-s-space-academy-as-america-enters-a-new-space-race/",
-    "timestamp": "2026-08-31T23:00:26Z"
-  },
-  {
-    "title": "Trump's army secretary becomes latest military leader to quit administration",
-    "description": "U.S. Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the second Trump administration.",
-    "link": "https://www.cbc.ca/news/world/army-secretary-dan-driscoll-resigns-trump-administration-9.7327311",
-    "timestamp": "2026-08-31T22:59:43Z"
-  },
-  {
-    "title": "Trump Backs Federal Film & TV Tax Incentive: \u201cHollywood Is A Complete & Total Disaster!\u201d",
-    "description": "With a swipe at Hollywood North, Donald Trump today officially threw his support behind a federal film and TV tax credit. \u201cHollywood is a Complete and Total Disaster!\u201d the former Apprentice host posted Monday after a sit-down with good pal Jon Voight. \u201cDespit\u2026",
-    "link": "http://deadline.com/2026/08/trump-supports-federal-film-tv-tax-incentive-1237063602/",
-    "timestamp": "2026-08-31T22:57:37Z"
-  },
-  {
-    "title": "McCaskill: Trump Is the Ultimate 'Socialism President'",
-    "description": "Monday on MS NOW\u2019s \u201cDeadline,\u201d former Senator Claire McCaskill said there has \u201cnever been a president that has been more of a socialism president than Donald Trump.\u201d McCaskill said, \u201cThere has never been a president that has been more of\nThe post McCaskill: T\u2026",
-    "link": "https://www.breitbart.com/clips/2026/08/31/mccaskill-trump-is-the-ultimate-socialism-president/",
-    "timestamp": "2026-08-31T22:57:14Z"
-  },
-  {
-    "title": "President Trump Calls for Federal Film and TV Tax Incentive",
-    "description": "The bill already had bipartisan support, but Republican lawmakers especially seemed to be waiting to see if the President would support the idea.",
-    "link": "http://www.hollywoodreporter.com/business/business-news/president-trump-federal-film-and-tv-tax-incentive-1236686220/",
-    "timestamp": "2026-08-31T22:56:24Z"
-  },
-  {
-    "title": "U.S. and Iran trade strikes for first time in weeks over Strait of Hormuz control",
-    "description": "The Middle East is again on edge after the first exchange of fire between the U. S. and Iran in over a month triggered missile launches and a spike in global oil prices. President Trump responded by declaring Iran a \"failed nation\" and shared an AI-generated \u2026",
-    "link": "https://www.pbs.org/newshour/show/u-s-and-iran-trade-strikes-for-first-time-in-weeks-over-strait-of-hormuz-control",
-    "timestamp": "2026-08-31T22:55:43Z"
-  },
-  {
-    "title": "Bessent told Siluanov on G20 sidelines: no deals with Russia possible until war ends \u2013 source",
-    "description": "The ongoing conflict perpetuates Russia's economic isolation, impacting global markets and diplomatic relations until a resolution is achieved.\nThe post Bessent told Siluanov on G20 sidelines: no deals with Russia possible until war ends \u2013 source appeared fir\u2026",
-    "link": "https://cryptobriefing.com/bessent-told-siluanov-on-g20-sidelines-no-deals-with-russia-possible-until-war/",
-    "timestamp": "2026-08-31T22:53:17Z"
-  },
-  {
-    "title": "David Spade Weighs in on Jelly Roll\u2019s Trump-Bashing Fat Jokes on \u2018Kimmel\u2019: \u2018Too Many Politics\u2019",
-    "description": "The comedian adds that the country singer \"got away with\" giving the president a taste of his own medicine\nThe post David Spade Weighs in on Jelly Roll\u2019s Trump-Bashing Fat Jokes on \u2018Kimmel\u2019: \u2018Too Many Politics\u2019 appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/creative-content/tv-shows/david-spade-jelly-roll-trump-fat-jokes-jimmy-kimmel/",
-    "timestamp": "2026-08-31T22:51:51Z"
-  },
-  {
-    "title": "Unifor to launch collective bargaining with Stellantis Tuesday",
-    "description": "The union representing over 6,000 workers at Stellantis' Windsor Assembly plant is set to begin collective bargaining with the company on Tuesday.",
-    "link": "https://www.cbc.ca/news/canada/windsor/stellantis-unifor-negotiations-begin-9.7326967",
-    "timestamp": "2026-08-31T22:47:31Z"
-  },
-  {
-    "title": "Trump rules out nuclear weapon use against Iran, says conventional strikes sufficient",
-    "description": "Trump's stance against nuclear use may foster diplomatic avenues but leaves regional tensions unresolved, risking future military escalations.\nThe post Trump rules out nuclear weapon use against Iran, says conventional strikes sufficient appeared first on Cry\u2026",
-    "link": "https://cryptobriefing.com/trump-rules-out-nuclear-weapon-iran/",
-    "timestamp": "2026-08-31T22:46:31Z"
-  },
-  {
-    "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
-    "description": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin Amer\u2026",
-    "link": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil",
-    "timestamp": "2026-08-31T22:45:48Z"
-  },
-  {
-    "title": "Oil: Prices jump more than 2.5% after new military escalation \u2014 Brent above $90",
-    "description": "The latest military escalation between the US and Iran has reignited tensions in the oil market, heightening fears of disruptions to global supply and the security of flows through the Strait of Hormuz\nThe post Oil: Prices jump more than 2.5% after new milita\u2026",
-    "link": "https://en.protothema.gr/2026/09/01/oil-prices-jump-more-than-2-5-after-new-military-escalation-brent-above-90/",
-    "timestamp": "2026-08-31T22:43:29Z"
-  },
-  {
-    "title": "US and Canada brawl over hockey sticks \u2014 so China skates off with big trade wins",
-    "description": "While Trump and Canada's Mark Carney try to check each other into the boards, China is skating free \u2014 scoring economic goals and choking out North American industry.",
-    "link": "https://nypost.com/2026/08/31/opinion/us-canada-trade-brawl-lets-china-skate-off-with-big-wins/",
-    "timestamp": "2026-08-31T22:40:05Z"
-  },
-  {
-    "title": "Russian finance minister\u2019s G-20 presence sparks objections over Ukraine",
-    "description": "Diplomatic tensions over Russia's Ukraine involvement may hinder future Trump-Putin meetings, affecting geopolitical dynamics and markets.\nThe post Russian finance minister\u2019s G-20 presence sparks objections over Ukraine appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/russian-finance-ministers-g-20-presence-sparks-objections-over-ukraine/",
-    "timestamp": "2026-08-31T22:38:41Z"
-  },
-  {
-    "title": "Army Secretary Dan Driscoll resigns amid tensions with Hegseth: Sources",
-    "description": "Driscoll has submitted his resignation to President Donald Trump amid growing tension between him and Defense Secretary Pete Hegseth, sources told ABC News.",
-    "link": "https://abcnews.com/Politics/army-secretary-dan-driscoll-resigns-amid-tensions-hegseth/story?id=136101175",
-    "timestamp": "2026-08-31T22:33:48Z"
-  },
-  {
-    "title": "Three minors killed in Colombia armed group crackdown",
-    "description": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
-    "link": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown",
-    "timestamp": "2026-08-31T22:30:23Z"
-  },
-  {
-    "title": "Wasserman Schultz: El-Sayed Has 'a Lot More Work to Do' on Antisemitism, 'May Never Get There'",
-    "description": "On Monday\u2019s broadcast of \u201cCNN News Central,\u201d Rep. Debbie Wasserman Schultz (D-FL) stated that she\u2019s pleased that Democratic U.S. Senate nominee Abdul El-Sayed \u201cbegan the trip towards making amends, but he\u2019s got a lot more work to do\u201d for his\nThe post Wasserma\u2026",
-    "link": "https://www.breitbart.com/clips/2026/08/31/wasserman-schultz-el-sayed-has-a-lot-more-work-to-do-on-antisemitism-may-never-get-there/",
-    "timestamp": "2026-08-31T22:25:45Z"
-  },
-  {
-    "title": "Watch: Why is the US-Venezuela oil deal so controversial?",
-    "description": "President Donald Trump announced the US has struck a deal to control more than 65 billion barrels of proven oil reserves.",
-    "link": "https://www.bbc.co.uk/news/videos/c207kde49dvo",
-    "timestamp": "2026-08-31T22:23:45Z"
-  },
-  {
-    "title": "Trump\u2019s Hatred of Free Speech Is Intensifying",
-    "description": "The president\u2019s latest attacks on Americans\u2019 press freedom are dangerous, unconstitutional\u2014and maybe self-defeating.",
-    "link": "https://www.theatlantic.com/newsletters/2026/08/trump-new-attacks-american-press-freedom/688478/",
-    "timestamp": "2026-08-31T22:21:00Z"
-  },
-  {
-    "title": "George Santos Gets Kalshi\u2019s First-Ever Lifetime Ban",
-    "description": "The former congressman was accused of manipulating markets on whether he would attend President Donald Trump\u2019s State of the Union address earlier this year.",
-    "link": "https://gizmodo.com/george-santos-gets-kalshis-first-ever-lifetime-ban-2000805225",
-    "timestamp": "2026-08-31T22:20:40Z"
-  },
-  {
-    "title": "Army Secretary Dan Driscoll submits resignation to Trump",
-    "description": "Army Secretary Dan Driscoll has submitted his resignation letter to the White House, a senior U.S. official confirms. The White House has not yet accepted his resignation.",
-    "link": "https://www.foxnews.com/politics/army-secretary-dan-driscoll-submits-resignation-trump",
-    "timestamp": "2026-08-31T22:20:27Z"
-  },
-  {
-    "title": "Chief Justice Calls Trump Ballroom \u201cUnlawful\u201d; POTUS Brags Of SCOTUS Approval On Final Construction OF $600M Venue",
-    "description": "Donald Trump is going to get his gilded White House ballroom thanks to the Supreme Court, but not with Chief Justice John G. Roberts Jr\u2019s blessing. The \u201cconstruction is likely unlawful,\u201d the Chief Justice wrote today in a dissent to SCOTUS\u2019 5-4 decision in fa\u2026",
-    "link": "http://deadline.com/2026/08/white-house-ballroom-supreme-court-approval-1237063522/",
-    "timestamp": "2026-08-31T22:19:50Z"
-  },
-  {
-    "title": "Everton have bid accepted for United States striker Folarin Balogun",
-    "description": "Everton have had a bid accepted by Monaco for United States striker Folarin Balogun, the Press Association understands. Reports have suggested the Toffees offered around \u00a340 million ($54 million) for the 25-year-old as they seek to strengthen their attack bef\u2026",
-    "link": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260831-930-612093/",
-    "timestamp": "2026-08-31T22:18:45Z"
-  },
-  {
-    "title": "LA influencer goes scorched earth on Mark Zuckerberg\u2019s Meta after it caved to draconian African regime: suit",
-    "description": "Activist Mange Kimambisays she became Tanzania's target after using Instagram and WhatsApp to expose alleged killings and mobilize peaceful protests following last year\u2019s disputed presidential election.",
-    "link": "https://nypost.com/2026/08/31/us-news/la-influencer-claims-tanzania-pressured-meta-to-scrub-her-accounts/",
-    "timestamp": "2026-08-31T22:16:11Z"
-  },
-  {
-    "title": "Supreme Court lets construction continue on Trump's $558m ballroom",
-    "description": "A divided Supreme Court has allowed the White House to continue construction on a $558 million ballroom project as lawsuits play out, a win for US President Donald Trump as he remakes the capital in his image.",
-    "link": "https://www.abc.net.au/news/2026-09-01/supreme-court-allows-white-house-ballroom-construction-continue/107100748",
-    "timestamp": "2026-08-31T22:15:17Z"
-  },
-  {
-    "title": "First \u2018space elevator\u2019 \u2014 a 66,000-mile cable to the cosmos\u2014 closer than ever before as scientists make breakthrough",
-    "description": "\"There's no reason we can't put a honeymoon hotel on one of those legs.\"",
-    "link": "https://nypost.com/2026/08/31/science/first-space-elevator-a-66000-mile-cable-to-the-cosmos-closer-than-ever-before-as-scientists-make-breakthrough/",
-    "timestamp": "2026-08-31T22:15:14Z"
-  },
-  {
-    "title": "'Lake America' change highlights Canada's reliance on U.S. tech",
-    "description": "U.S. President Donald Trump's push to rename Lake Ontario \"Lake America\" underscores Canada's reliance on U.S. tech giants like Google and Apple.",
-    "link": "https://www.cbc.ca/news/business/lake-america-map-9.7327164",
-    "timestamp": "2026-08-31T22:15:00Z"
-  },
-  {
-    "title": "Even After Affirmative Action\u2019s Fall, DEI Thrives at Elite Law Schools",
-    "description": "DEI may be crumbling in the federal government and waning in the public esteem, but it is still going strong in elite educational institutions despite popular and legal headwinds against it. Aaron Sibarium at the Washington Free Beacon, dropped a report on Mo\u2026",
-    "link": "https://www.dailysignal.com/2026/08/31/even-after-affirmative-actions-fall-dei-thrives-at-elite-law-schools/",
-    "timestamp": "2026-08-31T22:13:00Z"
-  },
-  {
-    "title": "Army chief QUITS after months of clashes with Pete Hegseth as Pentagon is plunged into leadership crisis",
-    "description": "Dan Driscoll had been rumored to step down at some point between now and the end of the year but the White House announced his departure Monday.",
-    "link": "https://www.dailymail.com/news/article-16094317/Army-chief-QUITS-clashes-Pete-Hegseth.html",
-    "timestamp": "2026-08-31T22:11:00Z"
-  },
-  {
-    "title": "The 1st Fat Marmot Week winner is a 'special boy who likes to eat rocks'",
-    "description": "Dawn, fuzzy fat father who likes the taste of rocks, is officially the most popular yellow-bellied marmot in Gothic, Colo. The Fat Marmot Week contest is the brainchild of the Marmot Project, a long-term research initiative whose future hangs in the balance a\u2026",
-    "link": "https://www.cbc.ca/radio/asithappens/fat-marmot-week-9.7327200",
-    "timestamp": "2026-08-31T22:09:43Z"
-  },
-  {
-    "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
-    "description": "The decision replaces a temporary order issued earlier this month.",
-    "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court",
-    "timestamp": "2026-08-31T22:08:37Z"
-  },
-  {
-    "title": "Mel Gibson apologizes for mocking ASL interpreter, blames 'spontaneous thoughtless idiocy'",
-    "description": "Mel Gibson apologized after video showed him allegedly mocking an ASL interpreter at Fan Expo Canada, calling it \"spontaneous thoughtless idiocy.\"",
-    "link": "https://www.foxnews.com/entertainment/mel-gibson-apologizes-mocking-asl-interpreter-blames-spontaneous-thoughtless-idiocy",
-    "timestamp": "2026-08-31T22:06:50Z"
-  },
-  {
-    "title": "Army Secretary Dan Driscoll submits resignation after tension with Hegseth | CNN Politics",
-    "description": "Army Secretary Dan Driscoll has submitted his resignation to President Donald Trump, multiple sources familiar with the matter told CNN.",
-    "link": "https://www.cnn.com/2026/08/31/politics/army-secretary-dan-driscoll-resigns",
-    "timestamp": "2026-08-31T22:05:21Z"
-  },
-  {
-    "title": "Tariff Refunds Giving Temporary Jolt To Economic Growth After SCOTUS Handed Trump Defeat",
-    "description": "Slok published his analysis August 15 Slok estimated that tariff refunds would contribute roughly 0.2 percentage points to that growth rate \u2014 meaning the refunds alone account for roughly 4.7% of the projected increase.",
-    "link": "https://dailycaller.com/2026/08/31/tariff-refunds-are-giving-the-us-economy-a-temporary-growth-jolt",
-    "timestamp": "2026-08-31T22:02:38Z"
-  },
-  {
-    "title": "Trump Has A Plan To Lower Beef Prices. Experts Say It Doesn't Add Up.",
-    "description": "The administration wants to bring in more tariff-free beef ahead of the election. Experts say it\u2019s unlikely to lead to lower prices at the grocery store.",
-    "link": "https://www.huffpost.com/entry/trump-ground-beef-prices-tariffs_n_6a9585ffe4b0e6d20d6d5d44",
-    "timestamp": "2026-08-31T22:00:17Z"
-  },
-  {
-    "title": "Live updates: Donald Trump rolls out new lower drug prices; House returns from recess - The Hill",
-    "description": "Live updates: Donald Trump rolls out new lower drug prices; House returns from recessThe Hill Nine more drugmakers cut pricing deals with TrumpAxios Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakersCNBC Trump announces d\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=185330062",
-    "timestamp": "2026-08-31T21:54:01Z"
-  },
-  {
-    "title": "\u2018I\u2019m Delighted!\u2019 Geraldo Rivera Rejoices Over Supreme Court Ruling Trump Can Build Ballroom",
-    "description": "Geraldo Rivera celebrated Monday after the Supreme Court cleared the way for President Donald Trump to continue construction of his White House ballroom, declaring himself \u201cdelighted\u201d by the ruling.\nThe post \u2018I\u2019m Delighted!\u2019 Geraldo Rivera Rejoices Over Supre\u2026",
-    "link": "https://www.mediaite.com/media/tv/im-delighted-geraldo-rivera-rejoices-over-supreme-court-ruling-trump-can-build-ballroom/",
-    "timestamp": "2026-08-31T21:51:08Z"
-  },
-  {
-    "title": "Video: Covid-Gate: \u201cThe Political Virus\u201d. The Pandemic Fraud and the mRNA Killer Vaccine. Who are The Main Actors?",
-    "description": "When the Lie Become the Truth, There is no No Moving Backwards\nThe following video was the victim of censorship. \nIt \u00a0was produced in September 2020. It is now released.\u00a0\n\n\n\n\n\u00a0!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(\u2026",
-    "link": "https://www.globalresearch.ca/video-covid-gate-the-political-virus-the-pandemic-fraud-and-the-mrna-killer-vaccine-who-are-the-main-actors/5938570",
-    "timestamp": "2026-08-31T21:50:07Z"
-  },
-  {
-    "title": "Trump Suggests He Won\u2019t Try to Talk Warsh Out of Rate Hike",
-    "description": "President Donald Trump declined to criticize Federal Reserve Chair Kevin Warsh for suggesting he might raise interest rates, instead saying he trusts his appointee will do what needs to be done. When asked by the Daily Signal whether he opposes Warsh\u2019s potent\u2026",
-    "link": "https://www.dailysignal.com/2026/08/31/trump-wont-talk-warsh-out-rate-hike/",
-    "timestamp": "2026-08-31T21:50:00Z"
-  },
-  {
-    "title": "US Supreme Court allows Trump ballroom project to proceed",
-    "description": "The conservative-dominated court voted 5-4 to lift a lower order demanding construction be halted.",
-    "link": "https://www.thejournal.ie/trump-white-house-ballroom-ruling-7148163-Aug2026/",
-    "timestamp": "2026-08-31T21:48:26Z"
-  },
-  {
-    "title": "U.S. treasury secretary taunts Canadian navy's lack of firepower: 'Two submarines from the Edmonton mall'",
-    "description": "\"We\u2019re not at war with Canada. How are we going to be at war with Canada?\" U.S. Treasury Secretary Scott Bessent said of the trade dispute.",
-    "link": "https://nationalpost.com/news/canada/u-s-treasury-secretary-taunts-canadian-navys-lack-of-firepower-two-submarines-from-the-edmonton-mall",
-    "timestamp": "2026-08-31T21:47:18Z"
-  },
-  {
-    "title": "Former CNN star Jim Acosta claims two top ambassadors told him that Trump administration reminds them of 1930s Germany",
-    "description": "Acosta, 55, offered the tidbit during a Saturday livestream where he and economist Justin Wolfers had been discussing Donald Trump's escalating trade war with Canada.",
-    "link": "https://www.dailymail.com/media/article-16094005/cnn-jim-acosta-two-ambassadors-nazi-germany-trump.html",
-    "timestamp": "2026-08-31T21:46:08Z"
-  },
-  {
-    "title": "Trump lashes out at female reporter's 'stupid question' on using nukes on Iran",
-    "description": "President Donald Trump lashed out at a reporter on Monday for asking him if he had ruled out using nuclear weapons in Iran.",
-    "link": "https://www.dailymail.com/news/article-16094123/donald-trump-nuclear-weapons-ukraine.html",
-    "timestamp": "2026-08-31T21:45:28Z"
-  },
-  {
-    "title": "The Supreme Court just gave Trump his illegal ballroom",
-    "description": "Welp, the Supreme Court has decided that President Donald Trump gets to build his ballroom. The decision in National Park Service v. National Trust for Historic Preservation is 5-4, with Republican Chief Justice John Roberts joining the three Democratic justi\u2026",
-    "link": "https://www.vox.com/politics/501428/supreme-court-ballroom-standing-national-park-service-trump",
-    "timestamp": "2026-08-31T21:42:55Z"
-  },
-  {
-    "title": "Supreme Court Gives Trump Big Ballroom Win",
-    "description": "The Supreme Court issued a 5-4 ruling that will allow construction to continue on President Trump\u2019s controversial White House ballroom, even though dissenting Chief Justice Roberts concluded that the project is \u201clikely unlawful.\u201d",
-    "link": "http://nymag.com/intelligencer/article/supreme-court-gives-trump-big-ballroom-win.html",
-    "timestamp": "2026-08-31T21:40:43Z"
-  },
-  {
-    "title": "Supreme Court Lets Trump\u2019s $400 Million Ballroom Move Forward",
-    "description": "\"Today\u2019s decision is no victory for the separation of powers,\u201d Chief Justice John Roberts says\nThe post Supreme Court Lets Trump\u2019s $400 Million Ballroom Move Forward appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/industry-news/public-policy-legal/trump-ballroom-supreme-court-decision-move-forward/",
-    "timestamp": "2026-08-31T21:40:23Z"
-  },
-  {
-    "title": "Trump Breaks a Lot of American Traditions. He\u2019s Keeping This Awful One.",
-    "description": "The oil \u201cdeal\u201d in Venezuela looks a lot more like theft.",
-    "link": "https://slate.com/news-and-politics/2026/08/trump-venezuela-oil-deal.html",
-    "timestamp": "2026-08-31T21:39:08Z"
-  },
-  {
-    "title": "Trump 'in serious trouble' in his own heartland as Republicans brace for midterm wipeout",
-    "description": "With November's midterms rapidly approaching, Democrats are gaining ground across a string of Senate contests that could determine control of Congress.",
-    "link": "https://www.dailymail.com/news/us-politics/article-16094101/Trump-trouble-heartland-Republicans-brace-midterm-wipeout.html",
-    "timestamp": "2026-08-31T21:36:21Z"
-  },
-  {
-    "title": "'Drowsy Don' mocked after appearing to sleep at Oval Office love fest: 'Grandpa is cooked'",
-    "description": "President Donald Trump was roundly mocked by his critics on Monday after he appeared to fall asleep during a press conference in the Oval Office where his cabinet members heaped effusive praise on him. Trump and multiple of his cabinet secretaries gathered th\u2026",
-    "link": "https://www.rawstory.com/trump-oval-office-2677800597/",
-    "timestamp": "2026-08-31T21:36:16Z"
-  },
-  {
-    "title": "Ken Paxton Launches College Student Initiative Ahead of Texas Senate Race",
-    "description": "Ken Paxton's campaign launched 11 college chapters across Texas as his Senate campaign works to mobilize young conservatives ahead of the 2026 election.",
-    "link": "https://www.dailysignal.com/2026/08/31/ken-paxton-college-student-chapters/",
-    "timestamp": "2026-08-31T21:30:00Z"
-  },
-  {
-    "title": "1789 Capital leads funding round for Polymarket, valuing it at $21B",
-    "description": "Polymarket's $21B valuation highlights the mainstream acceptance and investment potential of prediction markets, reshaping financial landscapes.\nThe post 1789 Capital leads funding round for Polymarket, valuing it at $21B appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/1789-capital-polymarket-21-billion-valuation/",
-    "timestamp": "2026-08-31T21:29:50Z"
-  },
-  {
-    "title": "The Postal Service Could Be a Huge Problem in the Midterms",
-    "description": "The postal service could be a huge problem in the midterms. The Supreme Court is considering Trump\u2019s scheme for the mass rejection of mail ballots. Whatever happens, many ballots may be tossed due to USPS delays.",
-    "link": "http://nymag.com/intelligencer/article/the-postal-service-could-be-a-huge-problem-in-the-midterms.html",
-    "timestamp": "2026-08-31T21:29:04Z"
-  },
-  {
-    "title": "Too Far? Trump Renames Hockey 'Gay Ice Football'",
-    "description": "WASHINGTON, D.C. \u2014 Concerns arose even within the White House that President Donald Trump may have taken his battle with Canada too far after he signed an executive order to rename hockey &#34;Gay Ice Football.&#34;",
-    "link": "https://babylonbee.com/news/too-far-trump-renames-hockey-gay-ice-football",
-    "timestamp": "2026-08-31T21:28:49Z"
-  },
-  {
-    "title": "Fury as Trump's billionaire Italy ambassador parties on $450MILLION yacht... staggering photos reveal hot tubs and helipads on 383ft 'love boat'",
-    "description": "Theodore Roosevelt was famous for gunboat diplomacy. But Donald Trump's ambassador to Italy has found a rather more luxurious way to win friends: love boat diplomacy. Billionaire entertainment mogul Tilman Fertitta, 69, is wooing foreign officials from the de\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4393784/posts",
-    "timestamp": "2026-08-31T21:27:07Z"
-  },
-  {
-    "title": "Fox Military Expert Predicts Trump Widens Retaliatory Strikes On Iran: Will \u2018Make it Hurt\u2019",
-    "description": "Fox News anchor John Roberts spoke to Navy veteran turned Heritage Foundation fellow Brent Sadler on Monday about the latest developments in the war in Iran.\nThe post Fox Military Expert Predicts Trump Widens Retaliatory Strikes On Iran: Will \u2018Make it Hurt\u2019 f\u2026",
-    "link": "https://www.mediaite.com/media/tv/fox-military-expert-predicts-trump-widens-retaliatory-strikes-on-iran-will-make-it-hurt/",
-    "timestamp": "2026-08-31T21:26:54Z"
-  },
-  {
-    "title": "Supreme Court Delivers Win to Trump, Allows Construction to Continue on White House Ballroom",
-    "description": "The Supreme Court delivered a win to President Donald Trump, ruling that construction on the $400 million White House ballroom can continue.\nThe post Supreme Court Delivers Win to Trump, Allows Construction to Continue on White House Ballroom appeared first o\u2026",
-    "link": "https://www.breitbart.com/politics/2026/08/31/supreme-court-delivers-win-to-trump-allows-construction-to-continue-on-white-house-ballroom/",
-    "timestamp": "2026-08-31T21:26:05Z"
-  },
-  {
-    "title": "Why Canada needs a U.S. trade deal; top Trump official mocks Canadian navy; and more",
-    "description": "Catch up on the stories we\u2019re following today.",
-    "link": "https://nationalpost.com/editors/afternoon-front-page-41",
-    "timestamp": "2026-08-31T21:25:59Z"
   }
 ]
