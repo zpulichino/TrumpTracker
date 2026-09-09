@@ -1,5 +1,491 @@
 [
   {
+    "title": "A \u2018most complex\u2019 challenge: Major security checks at Irish Open due to Trump visit",
+    "description": "Sources say securing the US president at golf resort in remote coastal location, with tens of thousands of spectators present, \u2018a nightmare'",
+    "link": "https://www.irishtimes.com/crime-law/2026/09/08/a-most-complex-challenge-major-security-checks-at-irish-open-due-to-trump-visit/",
+    "timestamp": "2026-09-08T05:00:01Z"
+  },
+  {
+    "title": "Fintan O'Toole: The jihadists who inspired 9/11 have something horrible in common with Donald Trump",
+    "description": "The deep roots of this barbaric assault on Americans lie in the same hatred of women that is now embedded in American reactionary politics",
+    "link": "https://www.irishtimes.com/opinion/2026/09/08/fintan-otoole-the-jihadists-who-inspired-911-have-something-horrible-in-common-with-donald-trump/",
+    "timestamp": "2026-09-08T05:00:01Z"
+  },
+  {
+    "title": "Canada's retaliatory tariffs on US goods take effect as trade talks stall",
+    "description": "The counter-tariffs cover $20 billion of US goods, with duties ranging from 15% to 50% across products from steel and furniture to clothing and electronics",
+    "link": "https://www.business-standard.com/world-news/canada-s-retaliatory-tariffs-on-us-goods-take-effect-as-trade-talks-stall-126090800224_1.html",
+    "timestamp": "2026-09-08T04:56:34Z"
+  },
+  {
+    "title": "Hindustan Copper shares jump 4% as copper prices surge to all-time high. What\u2019s driving the red metal\u2019s red hot rally?",
+    "description": "Hindustan Copper shares jumped over 4% as copper prices hit record highs amid supply concerns and a weaker US dollar. LME copper touched $14,533 per tonne, while MCX futures neared lifetime highs. Hindustan Copper, India\u2019s only integrated copper producer with\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-jump-4-as-copper-prices-surge-to-all-time-high-whats-driving-the-red-metals-red-hot-rally/articleshow/133907702.cms",
+    "timestamp": "2026-09-08T04:54:26Z"
+  },
+  {
+    "title": "Burying Mladic: Were no lessons learned?",
+    "description": "Thirty years of international justice has taught political leaders little.",
+    "link": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned",
+    "timestamp": "2026-09-08T04:47:56Z"
+  },
+  {
+    "title": "Canada's counter tariffs take effect on various US goods",
+    "description": "Canada's retaliatory tariffs on billions of dollars in US products have taken effect, as a trade war between the North American neighbors heats up.",
+    "link": "https://www.rte.ie/news/us/2026/0908/1590680-canada-us-tariffs/",
+    "timestamp": "2026-09-08T04:46:05Z"
+  },
+  {
+    "title": "Ohio Democrat gubernatorial candidate Amy Acton\u2019s \u2018Assassination Attempt\u2019 Narrative Is Falling Apart",
+    "description": "You may have heard about the alleged assassination attempt against Ohio Democrat gubernatorial candidate Amy Acton over the weekend. \"While attending the Canfield Fair, an armed individual lunged at Dr. Acton, injuring multiple people. Dr. Acton and Eric are \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4394648/posts",
+    "timestamp": "2026-09-08T04:42:23Z"
+  },
+  {
+    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+    "link": "https://www.bbc.com/news/articles/c8jdev0422jo",
+    "timestamp": "2026-09-08T04:39:14Z"
+  },
+  {
+    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "description": "It is the latest escalation since trade talks collapsed in late August, with US officials threatening to hit back if Canada\u2019s counter-tariffs are implemented.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
+    "timestamp": "2026-09-08T04:39:14Z"
+  },
+  {
+    "title": "US Navy SEALs spent four months secretly clearing Iranian mines from the Strait of Hormuz",
+    "description": "Despite an August claim that the passage was free of explosives, Iran now appears to be re-laying devices after last week's US strikes, while shipping traffic has sharply dropped to its lowest level since May\nThe post US Navy SEALs spent four months secretly \u2026",
+    "link": "https://en.protothema.gr/2026/09/08/us-navy-seals-spent-four-months-secretly-clearing-iranian-mines-from-the-strait-of-hormuz/",
+    "timestamp": "2026-09-08T04:36:32Z"
+  },
+  {
+    "title": "Canada's retaliatory tariffs hit US products as Trump warns of escalation",
+    "description": "Retaliatory tariffs issued by Canada were set to hit some imports from the United States at one minute after midnight Eastern Time on Tuesday, intensifying a trade war between the longtime allies and risking an escalation from President Donald Trump.\nLevies a\u2026",
+    "link": "https://biztoc.com/x/78bb28c1291f63ad",
+    "timestamp": "2026-09-08T04:32:26Z"
+  },
+  {
+    "title": "Canada's retaliatory tariffs take effect as US trade talks stall",
+    "description": "Canada has implemented retaliatory tariffs on American products after trade negotiations collapsed last month. These new duties affect twenty billion dollars worth of United States goods, ranging from steel to electronics. The dollar-for-dollar retaliation es\u2026",
+    "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/canadas-tariffs-on-us-imports-spark-trade-war-as-negotiations-break-down/articleshow/133906816.cms",
+    "timestamp": "2026-09-08T04:21:10Z"
+  },
+  {
+    "title": "Nifty trade below 23,700 in early trade; breadth positive",
+    "description": "At 09:30 IST, the barometer index, the S&P BSE Sensex, declined 370.87 points or 0.49% to 75,761.94. The Nifty 50 index lost 107.30 points or 0.45% to 23,678.55.",
+    "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-below-23-700-in-early-trade-breadth-positive-126090800186_1.html",
+    "timestamp": "2026-09-08T04:20:02Z"
+  },
+  {
+    "title": "What to know about Canada-US trade war",
+    "description": "Canada\u2019s retaliatory tariffs on about $20 billion worth of U.S. goods take effect Tuesday, turning its escalating trade war with President Donald Trump into a test watched far beyond the border: Can a country much smaller than the United States stand up to Tr\u2026",
+    "link": "https://apnews.com/article/canada-trump-carney-trade-war-tariffs-4620ffb5ecc029322217207fa6758431",
+    "timestamp": "2026-09-08T04:15:39Z"
+  },
+  {
+    "title": "Trump said he'll stop Canada's Bombardier from being sold in the US",
+    "description": "Trump said the Canadian manufacturer needs to build jets in the US to win business from US customers.",
+    "link": "https://www.businessinsider.com/trump-stop-canada-bombardier-sold-us-2026-9#article",
+    "timestamp": "2026-09-08T04:15:11Z"
+  },
+  {
+    "title": "Ben Macintyre on a spy who was the opposite of James Bond but helped win the cold war",
+    "description": "Redwood, aka Vladimir Kuzichkin, had lost faith in Moscow, but it was his loss of \u2018bedroom power\u2019 that sent the Tehran-based spy to MI6, says Ben Macintyre",
+    "link": "https://www.irishtimes.com/culture/books/2026/09/08/ben-macintyre-on-cold-war-espionage-we-could-have-been-living-in-a-different-world/",
+    "timestamp": "2026-09-08T04:15:00Z"
+  },
+  {
+    "title": "Crude oil futures rise after Iran threatens retaliatory strike on energy assets",
+    "description": "Brent trades at $97.48 after Tehran and Washington exchange fresh warnings over tanker and facility strikes",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-after-iran-threatens-retaliatory-strike-on-energy-assets/article71441233.ece",
+    "timestamp": "2026-09-08T04:13:47Z"
+  },
+  {
+    "title": "What To Know About Canada\u2019s Escalating Trade War With The US As Carney Retaliates With Tariffs",
+    "description": "Canada struck back at Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods.",
+    "link": "https://www.huffpost.com/entry/canada-us-tariffs-what-to-know_n_6a9f8a9fe4b03901c9590e13",
+    "timestamp": "2026-09-08T04:13:24Z"
+  },
+  {
+    "title": "'Insane Liar': Critics Rip Trump After He Revives His Most Dubious 9/11 Claim",
+    "description": "The president insisted he helped at ground zero, but there\u2019s no evidence to back that up.",
+    "link": "https://www.huffpost.com/entry/trump-911-claim-ground-zero_n_6a9f6be9e4b06fa65f9b9eed",
+    "timestamp": "2026-09-08T04:06:22Z"
+  },
+  {
+    "title": "Shadow SEC Statement No. 13: Insider Trading Institutionalized",
+    "description": "Insider trading has long been a furtive contest between traders, desperately hiding their material non-public information, and prosecutors in hot pursuit. In general, discovery implied conviction. But now it may have come out into the open, as high frequency \u2026",
+    "link": "https://clsbluesky.law.columbia.edu/2026/09/08/shadow-sec-statement-no-13-insider-trading-institutionalized/",
+    "timestamp": "2026-09-08T04:05:39Z"
+  },
+  {
+    "title": "Trump wants voters to pretend he\u2019s on the ballot. The Republican Party is going along for the ride",
+    "description": "President Donald Trump is embracing his inner cowboy, seeking to gallop into this week's Republican convention in Dallas and save the midterm elections for h...",
+    "link": "https://www.yahoo.com/news/politics/articles/trump-wants-voters-pretend-ballot-040118237.html",
+    "timestamp": "2026-09-08T04:01:18Z"
+  },
+  {
+    "title": "Canada\u2019s retaliatory tariffs on $20bn of US goods take effect",
+    "description": "Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries.",
+    "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect",
+    "timestamp": "2026-09-08T04:01:12Z"
+  },
+  {
+    "title": "The Epstein Files, 9/11, and Other Important Matters Obscured by the Iran War",
+    "description": "The twenty-fifth anniversary of the 9/11 Attacks will arrive this Friday but I\u2019m not sure how much attention that date will receive. Those landmark events of a quarter-century ago were certainly among the most important in modern times, constituting the large\u2026",
+    "link": "https://www.lewrockwell.com/2026/09/ron-unz/the-epstein-files-9-11-and-other-important-matters-obscured-by-the-iran-war/",
+    "timestamp": "2026-09-08T04:01:00Z"
+  },
+  {
+    "title": "Canada's new tariffs: Are small businesses 'cannon fodder' in the trade war?",
+    "description": "Experts say Canada's new tariffs will have an outsized impact on the country's small and medium-sized businesses, with few consequences for individual consumers.",
+    "link": "https://www.cbc.ca/news/business/new-canada-tariffs-9.7334999",
+    "timestamp": "2026-09-08T04:01:00Z"
+  },
+  {
+    "title": "The GOP was confident about keeping its Senate majority. Now the fight for control is wide open",
+    "description": "Republicans appeared to have a firm grip on the Senate heading into the final two years of President Donald Trump\u2019s term.  Democrats have found themselves co...",
+    "link": "https://www.yahoo.com/news/politics/articles/gop-confident-keeping-senate-majority-040024293.html",
+    "timestamp": "2026-09-08T04:00:24Z"
+  },
+  {
+    "title": "Talarico\u2019s cynical rebranding is here",
+    "description": "By Silvio Canto, Jr.Talarico is now claiming that those are old videos and that he has \u201cchanged.\u201d",
+    "link": "https://www.americanthinker.com/blog/2026/09/talarico-s-cynical-rebranding-is-here/",
+    "timestamp": "2026-09-08T04:00:00Z"
+  },
+  {
+    "title": "Making the World Great One Nation at a Time",
+    "description": "Photo Credit:\n \n NeedpixBy J.B. ShurkA nationalist revolution against globalism is brewing.",
+    "link": "https://www.americanthinker.com/articles/2026/09/making-the-world-great-one-nation-at-a-time/",
+    "timestamp": "2026-09-08T04:00:00Z"
+  },
+  {
+    "title": "The SEALs clean up",
+    "description": "By J.R. DunnNavy SEALs, operating at night, used robot boats and underwater UAVs to steadily clear the Strait for the passage of international tanker traffic.",
+    "link": "https://www.americanthinker.com/blog/2026/09/the-seals-clean-up/",
+    "timestamp": "2026-09-08T04:00:00Z"
+  },
+  {
+    "title": "Only two ways to ensure US victory in Iran",
+    "description": "By James ZumwaltThe mullahs can\u2019t stay.",
+    "link": "https://www.americanthinker.com/blog/2026/09/only-two-ways-to-ensure-us-victory-in-iran/",
+    "timestamp": "2026-09-08T04:00:00Z"
+  },
+  {
+    "title": "What Is The Significance Of The Mecca Pact?",
+    "description": "Photo Credit:ChatGPT\n \n ChatGPT for American ThinkerBy Janet LevyAmerica must rethink its policies and priorities in the volatile Middle East.",
+    "link": "https://www.americanthinker.com/articles/2026/09/what-is-the-significance-of-the-mecca-pact/",
+    "timestamp": "2026-09-08T04:00:00Z"
+  },
+  {
+    "title": "Trump Steps Off Air Force One With Jaw-Dropping New Look",
+    "description": "President Trump debuted what appears to be a noticeably darker hairstyle Friday, sparking a social media firestorm as he arrived in New Jersey for the weekendThe shift from his signature blond to a brunette shade caught Americans off guard, with millions comm\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4394646/posts",
+    "timestamp": "2026-09-08T03:59:44Z"
+  },
+  {
+    "title": "China says imports and exports surged in August",
+    "description": "BEIJING: China's imports and exports surged in August, official data showed on Tuesday (Sep 8), helped by a global AI buildout that has fuelled demand for the country's technology products.Exports spiked 25 per cent year-on-year, the General Administration of\u2026",
+    "link": "https://www.channelnewsasia.com/east-asia/china-says-imports-and-exports-surged-in-august-6368571",
+    "timestamp": "2026-09-08T03:51:52Z"
+  },
+  {
+    "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary \u2018You Can See Everything\u2019",
+    "description": "Telluride chief Julie Huntsinger took a significant risk programming a documentary as the festival\u2019s sneak premiere this year, given that nonfiction can\u2019t claim the broad appeal of fiction. Indeed, just as she prepared to reveal the chosen film someone in the\u2026",
+    "link": "http://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
+    "timestamp": "2026-09-08T03:51:27Z"
+  },
+  {
+    "title": "China's trade booms as focus turns to expected Trump-Xi summit",
+    "description": "BEIJING: China's imports and exports surged in August, helped by a global AI buildout that has fuelled demand for technology products and ahead of an expected meeting between President Xi Jinping and US counterpart Donald Trump.After achieving a historic surp\u2026",
+    "link": "https://www.channelnewsasia.com/east-asia/chinas-trade-booms-focus-turns-expected-trump-xi-summit-6368571",
+    "timestamp": "2026-09-08T03:51:00Z"
+  },
+  {
+    "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator",
+    "description": "President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.\nThe move drew an objection hours later from Sen. Jerry Moran, R\u2026",
+    "link": "https://biztoc.com/x/559d8115dd3fb1ce",
+    "timestamp": "2026-09-08T03:46:59Z"
+  },
+  {
+    "title": "Trump returns to X for first time since July",
+    "description": "United States President Donald Trump posted on X for the first time since July 28, sharing two AI-generated videos focused on homeownership and lowering housing costs.In the videos, Trump linked lower...",
+    "link": "https://biztoc.com/x/7c7aeabfae0f1d3c",
+    "timestamp": "2026-09-08T03:46:55Z"
+  },
+  {
+    "title": "Trump threatens sales in US of Canadian aircraft maker Bombardier",
+    "description": "The angry social media post marks the second stunning potential move by the US leader this year against the manufacturer, which has thousands of its aircraft currently operating in US airlines' domestic fleets.\nThe post Trump threatens sales in US of Canadian\u2026",
+    "link": "https://www.digitaljournal.com/article/trump-threatens-sales-in-us-of-canadian-aircraft-maker-bombardier/",
+    "timestamp": "2026-09-08T03:42:12Z"
+  },
+  {
+    "title": "Trump Promises Lower Gasoline Prices in US After Conflict With Iran Ends",
+    "description": "US President Donald Trump promised a drop in gasoline prices in the United States after the conflict with Iran ends.",
+    "link": "https://sputnikglobe.com/20260908/trump-promises-lower-gasoline-prices-in-us-after-conflict-with-iran-ends-1124693875.html",
+    "timestamp": "2026-09-08T03:41:00Z"
+  },
+  {
+    "title": "China's exports jump 25% in August on strong demand for autos and high tech goods",
+    "description": "China has reported that its exports accelerated in August, jumping 25% from a year earlier on strong demand for autos and high-tech goods, its customs agency said Tuesday. The data came ahead of U.S. President Donald Trump\u2019s planned meeting with Chinese leade\u2026",
+    "link": "https://apnews.com/article/china-trade-exports-digital-trump-jinping-77c208d1f62270bba66b8241b1b14a4c",
+    "timestamp": "2026-09-08T03:39:15Z"
+  },
+  {
+    "title": "Nifty set for cautious open as Middle East tensions lift oil prices",
+    "description": "GIFT Nifty:",
+    "link": "https://www.business-standard.com/markets/capital-market-news/nifty-set-for-cautious-open-as-middle-east-tensions-lift-oil-prices-126090800125_1.html",
+    "timestamp": "2026-09-08T03:34:10Z"
+  },
+  {
+    "title": "Prolific Recruiter Of Teenage Suicide Bombers Earns US Sanctions Relief, Days Before 9/11 Anniversary",
+    "description": "Prolific Recruiter Of Teenage Suicide Bombers Earns US Sanctions Relief, Days Before 9/11 Anniversary\n \nAuthored by Max Blumenthal via The GrayZone\nAs the US prepares to mark 25 years since Sept. 11, 2001, Donald Trump has removed top Al Qaeda figures from th\u2026",
+    "link": "https://biztoc.com/x/fd202556307ee5b3",
+    "timestamp": "2026-09-08T03:31:52Z"
+  },
+  {
+    "title": "US Navy launched top secret four-month mission to clear mines from the Strait of Hormuz in risky night time operation",
+    "description": "Navy SEAL divers reportedly worked under the cover of darkness for four months in an effort to clear mines from the Strait of Hormuz.",
+    "link": "https://www.dailymail.com/news/article-16112769/US-Navy-clear-mines-Strait-Hormuz-Iran.html",
+    "timestamp": "2026-09-08T03:31:33Z"
+  },
+  {
+    "title": "Trump backs proposed $103,265 H-1B visa fee to encourage hiring American workers",
+    "description": "The proposed charge would apply to cap-subject applications, including those qualifying for advanced-degree exemptions, alongside standard immigration costs",
+    "link": "https://www.thehindubusinessline.com/news/world/trump-backs-proposed-103265-h-1b-visa-fee-to-encourage-hiring-american-workers/article71441188.ece",
+    "timestamp": "2026-09-08T03:31:06Z"
+  },
+  {
+    "title": "Iran says it fired advanced missile at US warships",
+    "description": "Iran has threatened the United States with \"economic warfare\" and said it had fired an advanced missile at US warships, underscoring the risks of further escalation in the war only days after both sides traded blows again.",
+    "link": "https://www.rte.ie/news/middle-east/2026/0908/1590678-middle-east-iran/",
+    "timestamp": "2026-09-08T03:27:59Z"
+  },
+  {
+    "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+    "description": "The Islamic Republic has vowed to announce a new restricted zone in the Gulf in the coming days, along with maps of a new shipping corridor through the Strait of Hormuz, though it was unclear when details would emerge",
+    "link": "https://www.thehindubusinessline.com/news/world/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/article71441119.ece",
+    "timestamp": "2026-09-08T03:21:22Z"
+  },
+  {
+    "title": "Donald Trump, 80, Blows Up His Favorite Lie With One Post",
+    "description": "Donald Trump acknowledged Monday that the U.S. hasn\u2019t won the war against Iran, despite having claimed otherwise dozens of times.\nTrump, 80, posted on Truth Social about the conflict, which he claimed at the outset would wrap up in \u201cfour to five weeks.\u201d It ha\u2026",
+    "link": "https://biztoc.com/x/98da67fe651f8ab6",
+    "timestamp": "2026-09-08T03:16:59Z"
+  },
+  {
+    "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
+    "description": "Greenland is set to receive a significant boost from the European Union, which is ready to invest heavily in various development projects. This comes in light of provocative comments from the US President about acquiring the territory. European Commission Pre\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/eu-seeks-to-reassure-a-trump-rattled-greenland-with-promise-of-a-new-partnership-and-investment/articleshow/133904908.cms",
+    "timestamp": "2026-09-08T03:06:15Z"
+  },
+  {
+    "title": "Canada\u2019s counter-tariffs take effect on various US goods",
+    "description": "Ottawa's pushback comes weeks after US President Donald Trump imposed 50-percent tariffs on a similar value of Canadian products, over what Washington deemed as \"discriminatory treatment\" against US alcohol, automobile and dairy industries.\nThe post Canada\u2019s \u2026",
+    "link": "https://www.digitaljournal.com/article/canadas-counter-tariffs-take-effect-on-various-us-goods/",
+    "timestamp": "2026-09-08T03:05:00Z"
+  },
+  {
+    "title": "US Midterm Elections and Trump Pressure Are Stopping Rate Hikes, Says Wharton Professor",
+    "description": "Wharton finance professor Jeremy Siegel says the Federal Reserve would already be raising rates. He blames pressure from the 2026 midterm elections and President Donald Trump.\nSiegel spoke after a stronger-than-expected August jobs report. Trump also posted o\u2026",
+    "link": "https://biztoc.com/x/120310ba95610da6",
+    "timestamp": "2026-09-08T03:03:03Z"
+  },
+  {
+    "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator",
+    "description": "President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.",
+    "link": "https://biztoc.com/x/b96e56159516e0b4",
+    "timestamp": "2026-09-08T02:47:10Z"
+  },
+  {
+    "title": "Trump says Canada's Bombardier must build jets in US or lose market access",
+    "description": "Canada is set to introduce a wave of counter-tariffs against the US on Tuesday",
+    "link": "https://www.business-standard.com/world-news/trump-says-canada-s-bombardier-must-build-jets-in-us-or-lose-market-access-126090800094_1.html",
+    "timestamp": "2026-09-08T02:39:08Z"
+  },
+  {
+    "title": "Fighting the bully: Canada throws a punch back at Trump",
+    "description": "Canadian Prime Minister Mark Carney has shown he will not be pushed around by his neighbour. He is taking a big risk.",
+    "link": "https://www.smh.com.au/business/the-economy/fighting-the-bully-canada-hits-back-against-trump-20260908-p60vbd.html",
+    "timestamp": "2026-09-08T02:37:47Z"
+  },
+  {
+    "title": "Trump threatens sales in US of Canadian aircraft maker Bombardier",
+    "description": "WASHINGTON: President Donald Trump threatened Monday (Sep 7) to block US sales of Canadian plane maker Bombardier unless it builds aircraft in the country, complaining of \"unjust and unfair\" bilateral trade provisions as he escalates a tariff war.The angry so\u2026",
+    "link": "https://www.channelnewsasia.com/world/trump-threatens-sales-in-us-canadian-aircraft-maker-bombardier-6368411",
+    "timestamp": "2026-09-08T02:37:00Z"
+  },
+  {
+    "title": "Newsom: Dems Impeaching Trump 'Will Be a Sideshow and a Distraction', But Should Go 'Wherever the Facts Lead', I Don't Want Sideshow",
+    "description": "During a portion of an interview aired on Monday\u2019s \u201cPBS NewsHour,\u201d California Gov. Gavin Newsom (D) stated that if Democrats attempt to impeach President Donald Trump if they take the majority in the House \u201cit will be a sideshow and\nThe post Newsom: Dems Impe\u2026",
+    "link": "https://www.breitbart.com/clips/2026/09/07/newsom-dems-impeaching-trump-will-be-a-sideshow-and-a-distraction-but-should-go-wherever-the-facts-lead-i-dont-want-sideshow/",
+    "timestamp": "2026-09-08T02:36:05Z"
+  },
+  {
+    "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator",
+    "description": "President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.",
+    "link": "https://www.nbcnews.com/politics/trump-administration/trump-calls-bombardier-plane-ban-drawing-pushback-gop-senator-rcna596525",
+    "timestamp": "2026-09-08T02:34:12Z"
+  },
+  {
+    "title": "Bombardier defends US footprint after Trump manufacturing warning",
+    "description": "Bombardier highlighted its contribution to the US economy on Monday after President Donald Trump warned the Canadian aerospace company could be barred from selling aircraft in the United States unless it moved its manufacturing operations there.\nThe company s\u2026",
+    "link": "https://biztoc.com/x/0862a60d51a344f1",
+    "timestamp": "2026-09-08T02:33:05Z"
+  },
+  {
+    "title": "Oil will drop below 'two dollars a gallon' after US wins Iran war: Trump",
+    "description": "In a post on his Truth Social platform, Trump linked high energy costs directly to ongoing military operations in the West Asia, asserting that post-war markets would stabilise rapidly",
+    "link": "https://www.business-standard.com/world-news/oil-will-drop-below-two-dollars-a-gallon-after-us-wins-iran-war-trump-126090800077_1.html",
+    "timestamp": "2026-09-08T02:12:46Z"
+  },
+  {
+    "title": "Is a Stock Market Crash Imminent Under President Donald Trump? Here's What History Says Could Come Next",
+    "description": "Is a Stock Market Crash Imminent Under President Donald Trump? Here's What History Says Could Come Next.\nThere are a lot of ways to describe the second Trump administration, but the word \"volatile\" seems to sum it up quite nicely. Within less than two years, \u2026",
+    "link": "https://biztoc.com/x/879b75de819d8d8d",
+    "timestamp": "2026-09-08T02:03:13Z"
+  },
+  {
+    "title": "Why a far-right party's victory in Germany is a 'serious moment in Europe'",
+    "description": "The weekend win by Alternative for Germany in the state of Saxony-Anhalt has sent shivers across the continent, and could embolden the right across Europe.",
+    "link": "https://www.abc.net.au/news/2026-09-08/afd-win-in-germany-state-implications-for-europe-ukraine-trump/107127334",
+    "timestamp": "2026-09-08T02:02:40Z"
+  },
+  {
+    "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
+    "description": "Andy Burnham's UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu's ministers and U.S. lawmakers.",
+    "link": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
+    "timestamp": "2026-09-08T01:58:28Z"
+  },
+  {
+    "title": "EU pledges more than $200m to Greenland amid Trump threats",
+    "description": "Brussels has proposed doubling direct EU aid to Greenland under the bloc's next budget as military exercises kick off.",
+    "link": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats",
+    "timestamp": "2026-09-08T01:52:45Z"
+  },
+  {
+    "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+    "description": "By Enas Alashray CAIRO, Sept 8 (Reuters) - Iran threatened the United States with \"economic warfare\" on Tuesday and said it had fired an advanced missile at...",
+    "link": "https://uk.news.yahoo.com/iran-says-plans-gulf-exclusion-015214347.html",
+    "timestamp": "2026-09-08T01:52:14Z"
+  },
+  {
+    "title": "Donald Trump calls for US boycott of Canada\u2019s Bombardier jets - Financial Times",
+    "description": "Donald Trump calls for US boycott of Canada\u2019s Bombardier jetsFinancial Times CNBC Daily Open: Rising tensions \u2014 from North America to the Middle EastCNBC Trump says Canada's Bombardier cannot sell in US unless it builds therereuters.com Trump threatens to sto\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=185510826",
+    "timestamp": "2026-09-08T01:52:07Z"
+  },
+  {
+    "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+    "description": "Foreign Secretary Ed Miliband is expected to outline proposals targeting goods from Israeli-occupied areas on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o",
+    "timestamp": "2026-09-08T01:50:55Z"
+  },
+  {
+    "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+    "description": "Canada had condemned Iran\u2019s \"destabilizing actions\" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran.",
+    "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+    "timestamp": "2026-09-08T01:50:07Z"
+  },
+  {
+    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+    "description": "Trump threatens to stop sale of Canadian Bombardier jets in US\nPresident Donald Trump has warned Canadian aircraft company Bombardier that it can no longer sell in the US unless it moves its manufacturing there.\n\"NO MORE SELLING BOMBARDIER IN THE UNITED STATE\u2026",
+    "link": "https://biztoc.com/x/e7b495466cd6ac15",
+    "timestamp": "2026-09-08T01:47:44Z"
+  },
+  {
+    "title": "US sanctions leave Iranian students scrambling to take English exams abroad",
+    "description": "US sanctions have suspended essential English proficiency exams within Iran.  Many Iranian students now face significant financial burdens to take these tests abroad.  The rial's depreciation and high inflation further complicate affordability for aspiring sc\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-sanctions-leave-iranian-students-scrambling-to-take-english-exams-abroad/articleshow/133903049.cms",
+    "timestamp": "2026-09-08T01:43:15Z"
+  },
+  {
+    "title": "Canada is fated to try to do deals with Donald Trump",
+    "description": "Security Verification\nFor help please visit help.ft.com. We apologise for any inconvenience.\nThe following information can help our support team to resolve this issue.\n- Error Code\n- CG000 / 403\n- Request ID\n- a37a32788b664b67",
+    "link": "https://biztoc.com/x/a30b17dc26db51e2",
+    "timestamp": "2026-09-08T01:32:07Z"
+  },
+  {
+    "title": "Maria Bartiromo courting Trump-friendly network days after Fox ouster: report",
+    "description": "Anonymous insiders say that Maria Bartiromo has already opened talks with CBS News chief Bari Weiss about a possible role on '60 Minutes.'In an article for his newsletter, Naughty But Nice, gossip columnist Rob Shuter reported that Bartiromo and Weiss have al\u2026",
+    "link": "https://www.rawstory.com/maria-bartiromo-bari-weiss/",
+    "timestamp": "2026-09-08T01:29:14Z"
+  },
+  {
+    "title": "Cambodia Confirms Resumption of Joint Military Exercises With US Next Year",
+    "description": "The move reflects the sea change that has taken place in U.S.-Cambodia relations under the second Trump administration.",
+    "link": "https://thediplomat.com/2026/09/cambodia-confirms-resumption-of-joint-military-exercises-with-us-next-year/",
+    "timestamp": "2026-09-08T01:28:00Z"
+  },
+  {
+    "title": "Trump forecasts oil below $2 a gallon after US \u2018victory\u2019 over Iran",
+    "description": "President Trump forecasts oil prices will fall significantly after a US victory in the Iran conflict. He stated that gas prices could drop below two dollars per gallon. Iran's Parliament Speaker warned Washington against attacking its energy facilities. He as\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-forecasts-oil-below-2-a-gallon-after-us-victory-over-iran/articleshow/133902782.cms",
+    "timestamp": "2026-09-08T01:27:43Z"
+  },
+  {
+    "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership",
+    "description": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment",
+    "link": "https://abcnews.com/Business/wireStory/eu-seeks-reassure-trump-rattled-greenland-promise-new-136261472",
+    "timestamp": "2026-09-08T01:23:35Z"
+  },
+  {
+    "title": "Activist Group Labels Video Documenting Falling Ceiling Debris at the Kennedy Center \u2018Propaganda\u2019",
+    "description": "The center\u2019s vice president for public relations Roma Daravi said that the collapse was \u201canother example of the urgent need to close for renovation and revitalization.\u201d",
+    "link": "https://www.artnews.com/art-news/news/activist-group-falling-ceiling-kennedy-center-propaganda-1234797370/",
+    "timestamp": "2026-09-08T01:23:16Z"
+  },
+  {
+    "title": "Canada's incoming tariffs target US cheese, honey, aluminum foil, and hundreds of other items as trade war heats up",
+    "description": "US President Donald Trump and Canadian Prime Minister Mark Carney.\nAndrew Harnik/Dave Chan/Getty Images.\nCanada is rolling out up to 50% tariffs on a wave of US imports on Tuesday.\nThe levies will impact hundreds of US goods, including cheese, honey, aluminum\u2026",
+    "link": "https://biztoc.com/x/e019dd75b7a7849f",
+    "timestamp": "2026-09-08T01:17:14Z"
+  },
+  {
+    "title": "CNBC Daily Open: Rising tensions \u2014 from North America to the Middle East",
+    "description": "Hello, this is Justina Lee writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\nU.S.-Canada trade relations continue to be under strain, with U.S. President Donald Trump on Monday saying that Canadian airplane maker Bombardier must \u2026",
+    "link": "https://biztoc.com/x/79352822758d30b0",
+    "timestamp": "2026-09-08T01:16:53Z"
+  },
+  {
+    "title": "Space Force Uniform Is Inspired By Quasi-Satirical Film \u2018Starship Troopers\u2019",
+    "description": "Among a flurry of posts this weekend, Donald Trump revealed the service dress uniform designs for his Space Force. Without additional comment, the president shared photos and an overview of the uniforms on Truth Social, which include in their color palette \u201cs\u2026",
+    "link": "http://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
+    "timestamp": "2026-09-08T01:10:21Z"
+  },
+  {
+    "title": "Canada's incoming tariffs target US cheese, honey, aluminum foil, and hundreds of other items as trade war heats up",
+    "description": "Canada is rolling out a flurry of new tariffs on US goods on Tuesday morning, adding levies of up to 50% on items like dairy and steel.",
+    "link": "https://www.businessinsider.com/canada-tariffs-target-us-cheese-honey-hundreds-items-2026-9#article",
+    "timestamp": "2026-09-08T01:08:25Z"
+  },
+  {
+    "title": "CNBC Daily Open: Rising tensions \u2014 from North America to the Middle East",
+    "description": "President\u00a0Donald Trump\u00a0said Monday that Canadian airplane maker Bombardier must build its products in the U.S. in order to keep selling in the American market.",
+    "link": "https://www.cnbc.com/2026/09/08/cnbc-daily-open-trump-oil-canada-greenland-eu-spacex-iran-mideast-.html",
+    "timestamp": "2026-09-08T01:08:11Z"
+  },
+  {
+    "title": "Democrats Just Hit a Midterm Polling Milestone in the Battle for the Senate With Midterms Less Than 60 Days Away",
+    "description": "Control of the Senate in the midterm elections is no longer a foregone conclusion, according to Decision Desk HQ, which changed its forecast for the chamber.\nThe post Democrats Just Hit a Midterm Polling Milestone in the Battle for the Senate With Midterms Le\u2026",
+    "link": "https://www.mediaite.com/media/news/democrats-just-hit-a-midterm-polling-milestone-in-the-battle-for-the-senate-with-midterms-less-than-60-days-away/",
+    "timestamp": "2026-09-08T00:49:52Z"
+  },
+  {
+    "title": "Map Posted by Donald Trump Hints at Adding Numerous Countries to the US",
+    "description": "President Donald Trump shared a map on social media Monday depicting a vastly expanded United States encompassing most of North America.\nThe AI-generated image, posted to Truth Social, features the U.S. flag superimposed over Canada, Mexico, Greenland, Cuba, \u2026",
+    "link": "https://biztoc.com/x/7b908126a33e482c",
+    "timestamp": "2026-09-08T00:46:55Z"
+  },
+  {
+    "title": "Trump says oil prices to drop once Iran war won",
+    "description": "United States President Donald Trump said oil prices will go down after Washington wins its war against Iran, noting that it will \"all happen quickly.\"\"Oil prices will drop precipitously, like everyth...",
+    "link": "https://biztoc.com/x/7ee69c544cac9883",
+    "timestamp": "2026-09-08T00:32:19Z"
+  },
+  {
     "title": "Trump Says Canada's Bombardier Cannot Sell In U.S. Unless It Builds There",
     "description": "\u201cNO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren\u2019t good enough!\u201d Trump said in a post on Truth Social.",
     "link": "https://www.huffpost.com/entry/trump-says-canada-bombardier-cannot-sell-united-states_n_6a9f558de4b06fa65f9b99e2",
@@ -112,479 +598,5 @@
     "description": "Germany's far-right AfD party won a major parliamentary election victory in the eastern state of Saxony-Anhalt. The win marks a growing divide in German politics. The AfD party is anti-immigration and has been labelled as xenophobic and extremist by German in\u2026",
     "link": "https://www.pbs.org/newshour/show/far-right-afd-win-signals-shift-in-germany-raises-alarm-in-europe",
     "timestamp": "2026-09-07T22:50:01Z"
-  },
-  {
-    "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
-    "description": "Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.",
-    "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region",
-    "timestamp": "2026-09-07T22:41:27Z"
-  },
-  {
-    "title": "Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'",
-    "description": "As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at th\u2026",
-    "link": "https://www.pbs.org/newshour/show/gavin-newsom-on-how-to-beat-the-gop-democrats-need-to-grow-a-backbone",
-    "timestamp": "2026-09-07T22:40:33Z"
-  },
-  {
-    "title": "Trump threatens to block Canada\u2019s Bombardier sales unless planes made in US",
-    "description": "United States President Donald Trump has said that Canada-based aeroplane maker Bombardier can no longer sell in the US unless they start manufacturing their planes in the United States.\n\u201cNO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren\u2019t \u2026",
-    "link": "https://biztoc.com/x/086485c560d04cd0",
-    "timestamp": "2026-09-07T22:32:27Z"
-  },
-  {
-    "title": "Stock market Tuesday: Live updates",
-    "description": "Dow futures fell to kick off a shortened week of trading, with Wall Street keeping tabs on the Middle East war as well as rising trade tensions between Canada and the U.S.",
-    "link": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-    "timestamp": "2026-09-07T22:14:17Z"
-  },
-  {
-    "title": "Hunter Biden To Launch Memecoin, Will Send To TRUMP Holders",
-    "description": "Hunter Biden To Launch Memecoin, Will Send To TRUMP Holders\n \nAuthored by Turner Wright via CoinTelegraph.com,\nHunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in Pres\u2026",
-    "link": "https://biztoc.com/x/9eda009c5e41ab66",
-    "timestamp": "2026-09-07T22:01:57Z"
-  },
-  {
-    "title": "Washington\u2019s Venezuela Oil Deal Is About Much More Than Crude",
-    "description": "Washington\u2019s takeover of more than a fifth of Venezuela\u2019s oil reserves in a deal officially signed by U.S. Energy Secretary Chris Wright on 2 September was as unexpected as it was dramatic, with President Donald Trump\u2019s comment a few days earlier that it is \u201c\u2026",
-    "link": "https://oilprice.com/Energy/Crude-Oil/Washingtons-Venezuela-Oil-Deal-Is-About-Much-More-Than-Crude.html",
-    "timestamp": "2026-09-07T22:00:00Z"
-  },
-  {
-    "title": "The Oil That Trump Calls a Gift and Venezuela Calls Sovereignty",
-    "description": "[This article is an AI translation of\u00a0the original version in\u00a0Spanish.]\nTrump said he will use Venezuelan oil to fill the US strategic reserve and that it is a gift. Delcy Rodr\u00edguez maintains that the 25-year agreement covering \u2026\nThe post The Oil That Trump C\u2026",
-    "link": "https://www.globalresearch.ca/oil-trump-calls-gift-venezuela-calls-sovereignty/5939478",
-    "timestamp": "2026-09-07T21:59:58Z"
-  },
-  {
-    "title": "TV networks non-committal to GOP midterm convention as NFL serves up big competition",
-    "description": "DALLAS \u2014 President Trump\u2019s unprecedented midterm GOP convention might be tough to find on TV \u2014 facing stiff primetime competition from the NFL\u2019s opening game and uncertain airtime from major networks. Republicans will gather in Dallas on Wednesday and Thursda\u2026",
-    "link": "https://nypost.com/2026/09/07/us-news/tv-networks-non-committal-to-gop-midterm-convention-nfl-serves-up-big-competition/",
-    "timestamp": "2026-09-07T21:59:12Z"
-  },
-  {
-    "title": "Trump Boasts About Honoring Italian-Americans in Bizarre Post About Christopher Columbus",
-    "description": "President Donald Trump boasted of recognizing Italian Americans with a photo of a Columbus statue in front of the Eisenhower Executive Office Building.\nThe post Trump Boasts About Honoring Italian-Americans in Bizarre Post About Christopher Columbus first app\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-boasts-about-honoring-italian-americans-in-bizarre-post-about-christopher-columbus/",
-    "timestamp": "2026-09-07T21:56:17Z"
-  },
-  {
-    "title": "Kick streamer Binx sparks fury after taking \u2018disrespectful\u2019 photo beside Amazon plane crash that killed five in Miami",
-    "description": "Kick streamer Binx is facing criticism after footage appeared to show her posing near the wreckage of an Amazon cargo plane that killed five people in Miami. The crash happened on September 6 after the Boeing 767-300 overran the runway and struck vehicles. Au\u2026",
-    "link": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-binx-sparks-fury-after-taking-disrespectful-photo-beside-amazon-plane-crash-that-killed-five-in-miami/articleshow/133897621.cms",
-    "timestamp": "2026-09-07T21:53:03Z"
-  },
-  {
-    "title": "Trump targets Bombardier, Canadian dollar in Truth Social blitz ahead of tariff deadline",
-    "description": "'No more selling Bombardier in the United States!' The president posted in a string of more than 60 posts.",
-    "link": "https://nationalpost.com/news/politics/trump-targets-bombardier-canadian-dollar-in-truth-social-blitz-ahead-of-tariff-deadline",
-    "timestamp": "2026-09-07T21:52:58Z"
-  },
-  {
-    "title": "\u2018Musk\u2019 Teaser: The Wealthiest Man in the World Becomes Alex Gibney\u2019s Latest Documentary Subject",
-    "description": "Bleecker Street will release the documentary in theaters on October 16.",
-    "link": "https://www.indiewire.com/news/trailers/musk-documentary-teaser-1235215370/",
-    "timestamp": "2026-09-07T21:50:43Z"
-  },
-  {
-    "title": "Eiffel Tower shuts after female staff allegedly sidelined during Hindu group's visit",
-    "description": "Europe News: NEW DELHI: The Eiffel Tower was closed to visitors on Monday after staff staged a walkout over allegations that female employees were moved away from .",
-    "link": "https://timesofindia.indiatimes.com/world/europe/eiffel-tower-shuts-after-female-staff-allegedly-sidelined-during-hindu-groups-visit/articleshow/133897226.cms",
-    "timestamp": "2026-09-07T21:49:08Z"
-  },
-  {
-    "title": "Trump Targets Product Used by Ultra-Wealthy Americans in War With Carney",
-    "description": "President Donald Trump demanded Monday that Canadian aircraft manufacturer Bombardier stop selling airplanes in the United States unless it starts building them on American soil.\n\"NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good eno\u2026",
-    "link": "https://biztoc.com/x/d0db2498520d3e13",
-    "timestamp": "2026-09-07T21:46:35Z"
-  },
-  {
-    "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment",
-    "description": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment, wanting to reassure Greenland after U.S. President Donald Trump's threats to take control of the island.",
-    "link": "https://biztoc.com/x/4d620b2a9209a73f",
-    "timestamp": "2026-09-07T21:46:32Z"
-  },
-  {
-    "title": "Kushner Asked to His Face Why Anyone Should \u2018Have Any Confidence\u2019 In His Negotiations",
-    "description": "\"You have been involved in numerous negotiations around the world. Why should people have any confidence in your capacity to succeed here?\"\nThe post Kushner Asked to His Face Why Anyone Should \u2018Have Any Confidence\u2019 In His Negotiations first appeared on Mediai\u2026",
-    "link": "https://www.mediaite.com/media/news/kushner-asked-to-his-face-why-anyone-should-have-any-confidence-in-his-negotiations/",
-    "timestamp": "2026-09-07T21:46:24Z"
-  },
-  {
-    "title": "Ohio Democrat Amy Acton reflects on a \u2018rough day\u2019 as witnesses recall \u2018frightening\u2019 confrontation",
-    "description": "Democrat Amy Acton vowed to continue on as a \u201cfierce warrior\u201d in her campaign for Ohio governor Monday, a day after law enforcement officials said an armed man aggressively attempted to confront her at a county fair.",
-    "link": "https://www.nbcnews.com/politics/2026-election/ohio-democrat-amy-acton-reflects-rough-day-witnesses-recall-frightenin-rcna596492",
-    "timestamp": "2026-09-07T21:38:27Z"
-  },
-  {
-    "title": "Midterm elections head into the home stretch as candidates hit Labor Day events",
-    "description": "Candidates in several states with competitive House and Senate races are beginning the stretch run of election season with Labor Day events at festivals, union halls and parades",
-    "link": "https://abcnews.com/Politics/wireStory/midterm-elections-head-home-stretch-candidates-hit-labor-136256947",
-    "timestamp": "2026-09-07T21:38:22Z"
-  },
-  {
-    "title": "Midterm elections head into the home stretch as candidates hit Labor Day events",
-    "description": "Candidates in several states with competitive House and Senate races are beginning the stretch run of election season with Labor Day events at festivals, union halls and parades",
-    "link": "https://abcnews.com/US/wireStory/midterm-elections-head-home-stretch-candidates-hit-labor-136256946",
-    "timestamp": "2026-09-07T21:37:03Z"
-  },
-  {
-    "title": "Labour is set to ban trade with settlements in the West Bank - despite warnings it could damage the UK's security",
-    "description": "The Prime Minister is close to agreeing a package of measures that is expected to agree a ban on imports from goods produced in Israeli settlements in the West Bank.",
-    "link": "https://www.dailymail.com/news/article-16112457/Labour-set-ban-trade-settlements-West-Bank-despite-warnings-damage-UKs-security.html",
-    "timestamp": "2026-09-07T21:36:17Z"
-  },
-  {
-    "title": "Kagro in the Morning podcast (AUDIO): Monday, September 7, 2026",
-    "description": "Listen to our archived episodes: Pandora|LibSyn|YouTube Support the show: Patreon|PayPal: 1x or monthly|Square Cash * We take Labor Day seriously around here. Which is to say, \u201coff.\u201d We take Labor Day off. Not always, of course. Which undermines the earlier p\u2026",
-    "link": "http://www.dailykos.com/stories/2026/9/7/800094971/community/kagro-in-the-morning-podcast-audio/",
-    "timestamp": "2026-09-07T21:28:59Z"
-  },
-  {
-    "title": "'Absolutely Bonkers' and Unacceptable': Trump Posts Map Showing US Takeovers of Other Nations",
-    "description": "US President Donald Trump has spent his second term threatening takeovers of various other countries, from Canada and Cuba to Greenland, and on Monday he shared on social media a map that fueled fresh fears of his imperialist \"Donroe Doctrine.\" The map on Tru\u2026",
-    "link": "https://www.commondreams.org/news/trump-takeovers",
-    "timestamp": "2026-09-07T21:21:15Z"
-  },
-  {
-    "title": "\u2018Hushing\u2019: Democrats go quiet on climate after Biden-era blitz on regulations",
-    "description": "'Changing the campaign rhetoric doesn't change the policies, and voters shouldn't be fooled by the rebranding'",
-    "link": "https://www.wnd.com/2026/09/hushing-democrats-go-quiet-climate-after-biden-era/",
-    "timestamp": "2026-09-07T21:20:58Z"
-  },
-  {
-    "title": "Trump's Cabinet secretary lets slip what president would rather do than talk about Iran",
-    "description": "Standing outside of a Washington, DC, courthouse in late August, one of Donald Trump's most trusted Cabinet members let slip how the president blows off steam.",
-    "link": "https://www.dailymail.com/news/article-16112153/Trumps-Cabinet-secretary-lets-slip-Iran.html",
-    "timestamp": "2026-09-07T21:18:16Z"
-  },
-  {
-    "title": "Following Accusations Of Illegal Voting In Georgia, DHS Issues Subpoena To Georgia Over Voter Files",
-    "description": "By REBECCA BUIS, The Daily Signal | September 02, 2026\nAmid ongoing efforts by President Donald Trump to investigate election fraud following the 2020 election, the Department of Homeland Security has demanded that the Georgia secretary of state\u2019s office hand\u2026",
-    "link": "https://biztoc.com/x/8f325235b99a637e",
-    "timestamp": "2026-09-07T21:16:35Z"
-  },
-  {
-    "title": "Trump targets Bombardier, says Canadian jetmaker 'must build' in the US",
-    "description": "President Donald Trump on Monday said Canadian aircraft manufacturer Bombardier should no longer be allowed to sell its planes in the United States unless it manufactures them domestically.\nIn a Truth Social post, Trump claimed that more than half of Bombardi\u2026",
-    "link": "https://biztoc.com/x/59b4c304e32b8b54",
-    "timestamp": "2026-09-07T21:16:33Z"
-  },
-  {
-    "title": "Ivanka Trump shows off her incredibly toned midriff in tiny sports bra as she shares rare makeup-free photos",
-    "description": "Ivanka, 44, posted an array of photos from the last few months, including one that featured her standing in skin-tight leggings and a matching sports bra, her washboard abs on full display.",
-    "link": "https://www.dailymail.com/lifestyle/article-16112663/ivanka-trump-sports-bra-makeup-free.html",
-    "timestamp": "2026-09-07T21:15:17Z"
-  },
-  {
-    "title": "Trump Admin Scrubs Language Criticizing Slavery Depictions From Confederate Memorial",
-    "description": "The Trump administration stripped language criticizing a Confederate memorial\u2019s depictions of slavery from an Arlington National Cemetery website and marker.\nThe post Trump Admin Scrubs Language Criticizing Slavery Depictions From Confederate Memorial first a\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-admin-scrubs-language-criticizing-slavery-depictions-from-confederate-memorial/",
-    "timestamp": "2026-09-07T21:12:57Z"
-  },
-  {
-    "title": "Kai Trump, daughter of Donald Trump Jr. and Vanessa Trump, gives tour of luxury Miami apartment after starting college; 19-year-old reveals lavish two-bedroom home",
-    "description": "Kai Trump, daughter of Donald Trump Jr. and Vanessa Trump, has given fans a tour of her luxury Miami apartment after starting freshman year at the University of Miami. The 19-year-old golf player revealed her lavish two-bedroom, two-bathroom home, featuring a\u2026",
-    "link": "https://timesofindia.indiatimes.com/world/us/kai-trump-daughter-of-donald-trump-jr-and-vanessa-trump-gives-tour-of-luxury-miami-apartment-after-starting-college-19-year-old-reveals-lavish-two-bedroom-home/articleshow/133896730.cms",
-    "timestamp": "2026-09-07T21:12:31Z"
-  },
-  {
-    "title": "Barnaby Joyce claims he\u2019s not Jesus as One Nation\u2019s super policy criticised",
-    "description": "Pauline Hanson's party once again dominates the headlines due to its superannuation plans. Meanwhile, the tobacco war of words persists and the global economy continues to suffer due to the Iran conflict.\nThe post Barnaby Joyce claims he\u2019s not Jesus as One Na\u2026",
-    "link": "http://www.crikey.com.au/2026/09/08/barnaby-joyce-claims-hes-not-jesus-christ-as-one-nations-super-policy-criticised-pauline-hanson-tobacco-wars/",
-    "timestamp": "2026-09-07T21:05:27Z"
-  },
-  {
-    "title": "John Thune noticeably absent...",
-    "description": "Thune will attend fundraiser for embattled GOP candidate he tried to block from winning Texas primary instead of speaking onstage",
-    "link": "https://www.the-independent.com/news/world/americas/us-politics/john-thune-trump-convention-dallas-b3046068.html",
-    "timestamp": "2026-09-07T21:00:12Z"
-  },
-  {
-    "title": "Nepal Wants a $5 Billion Climate Handout from UN for a Himalayan Bedrock Collapse",
-    "description": "Nepal\u2019s request should be rejected unless the U.N. would likewise fund U.S. recovery from a San Andreas earthquake or Cascadia tsunami.\nThe post Nepal Wants a $5 Billion Climate Handout from UN for a Himalayan Bedrock Collapse appeared first on Watts Up With \u2026",
-    "link": "https://wattsupwiththat.com/2026/09/07/nepal-wants-a-5-billion-climate-handout-from-un-for-a-himalayan-bedrock-collapse/",
-    "timestamp": "2026-09-07T21:00:00Z"
-  },
-  {
-    "title": "Canada's retaliatory tariffs set to hit US products as Trump warns of escalation",
-    "description": "Retaliatory tariffs issued by Canada are set to hit some imports from the United States soon after midnight on Tuesday, intensifying a trade war between the longtime allies and risking an escalation from President Donald Trump.Levies as high as 50% will be ap\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4394603/posts",
-    "timestamp": "2026-09-07T20:44:27Z"
-  },
-  {
-    "title": "This will hurt you more than it hurts me",
-    "description": "One problem with the impulsive military decisions being made from the memory care wing of the White House and the guy slamming David Brooks-strength gin and tonics at Defense is that they aren\u2019t free: The war in\u00a0Iran\u00a0has now cost U.S.\u00a0consumers $100 billion i\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2026/09/this-will-hurt-you-more-than-it-hurts-me-6",
-    "timestamp": "2026-09-07T20:37:47Z"
-  },
-  {
-    "title": "Trump threatens to bar Canada's Bombardier jets from selling in US",
-    "description": "President Donald Trump says sales of Canada's Bombardier jets in the U.S. may be up in the air after he pressured the aerospace company to begin manufacturing its products in America in a Truth Social post on Labor Day.\n\"NO MORE SELLING BOMBARDIER IN THE UNIT\u2026",
-    "link": "https://biztoc.com/x/491e62bdbbe8fe13",
-    "timestamp": "2026-09-07T20:32:12Z"
-  },
-  {
-    "title": "MAGA diehards threaten to abandon Fox News in sensational schism after Maria Bartiromo was axed",
-    "description": "Several X users took to the platform to say as such\u00a0over the weekend, while reacting to reports the decision stemmed from censorship.",
-    "link": "https://www.dailymail.com/media/article-16112103/maria-baritromo-fox-news-paul-ryan-boycott.html",
-    "timestamp": "2026-09-07T20:31:43Z"
-  },
-  {
-    "title": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S",
-    "description": "U.S. President Donald Trump says Bombardier would no longer be allowed to sell in the U.S. unless \u200bthe Canada-based airplane company starts manufacturing in the states.",
-    "link": "https://biztoc.com/x/02ffda49359926d3",
-    "timestamp": "2026-09-07T20:31:10Z"
-  },
-  {
-    "title": "20th Century\u2019s \u2018Whalefall\u2019 Producers Reflect On Shooting In California: \u201cThe Best Creative Teams Are Here\u201d",
-    "description": "In a time when many film and television productions shoot in other states or countries despite having their roots of development in Hollywood, 20th Century Studios has taken a big swing with its upcoming feature Whalefall, which arrives in theaters October 16\u2026",
-    "link": "http://deadline.com/2026/09/whalefall-production-california-producers-interview-1236528267/",
-    "timestamp": "2026-09-07T20:30:00Z"
-  },
-  {
-    "title": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S.",
-    "description": "U.S. President Donald Trump said Monday that Canada-based airplane maker Bombardier would no longer be allowed to sell in the United States unless \u200bit started manufacturing in the states. \"NO MORE SELLING BOMBARDIER \u200bIN THE UNITED STATES! Their products aren\u2019\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4394602/posts",
-    "timestamp": "2026-09-07T20:29:44Z"
-  },
-  {
-    "title": "Markets today: Novartis falls, Wall Street closed, ASX set to slip",
-    "description": "European stocks were weighed down by higher oil prices and a drop in Novartis following the failure of a heart drug, while Wall Street was closed for the Labor Day holiday.",
-    "link": "https://www.smh.com.au/business/markets/asx-set-to-slide-as-oil-prices-rise-a-stronger-20260908-p60v9u.html",
-    "timestamp": "2026-09-07T20:26:16Z"
-  },
-  {
-    "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
-    "description": "President Donald Trump on Monday said Bombardier, a Canadian airplane manufacturer, must build its products in the U.S. in order to keep selling in the American market.\nThe move comes amid a bitter trade war between the U.S. and Canada, and on the eve of reta\u2026",
-    "link": "https://biztoc.com/x/39685982b1a031df",
-    "timestamp": "2026-09-07T20:16:15Z"
-  },
-  {
-    "title": "EU pledges Greenland investments amid Trump's push for control",
-    "description": "European Commission President Ursula von der Leyen unveiled plans Monday for $232 million of EU investments in Greenland and closer ties with the Danish Arctic territory.",
-    "link": "https://roanoke.com/news/nation-world/government-politics/article_1c42a438-4ae8-5bc9-8c9c-2826b3c93ef1.html",
-    "timestamp": "2026-09-07T20:15:00Z"
-  },
-  {
-    "title": "South Park Trolls Donald Trump While Celebrating Emmy Win After 13-Year Drought",
-    "description": "South Park celebrated its Emmy victory by taking yet another shot at Donald Trump. The animated sitcom won Outstanding Animated Program at the 2026 Emmys for \u201cSermon on the \u2018Mount,\u201d ending a 13-year wait for another win in the category. The victory marks the \u2026",
-    "link": "https://www.comingsoon.net/tv/news/2187214-south-park-trolls-donald-trump-emmy-win-13-year-drought",
-    "timestamp": "2026-09-07T20:14:26Z"
-  },
-  {
-    "title": "Kai Trump makes collegiate golf debut at Golfweek Fall Challenge",
-    "description": "Miami freshman Kai Trump improved her score by two strokes during the second round of the Golfweek Fall Challenge.",
-    "link": "https://www.palmbeachpost.com/story/sports/college/golf/2026/09/07/kai-trump-2026-golfweek-fall-challenge-miami-hurricanes/91651276007/",
-    "timestamp": "2026-09-07T20:12:36Z"
-  },
-  {
-    "title": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S.",
-    "description": "U.S. President Donald Trump says Bombardier would no longer be allowed to sell in the U.S. unless \u200bthe Canada-based airplane company starts manufacturing in the states.",
-    "link": "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014",
-    "timestamp": "2026-09-07T20:11:43Z"
-  },
-  {
-    "title": "Trump in Labor Day Message Says GOP Will Win Big in Midterms",
-    "description": "President Donald Trump predicted Monday in his Labor Day message that Republicans will win big in the critical midterm elections coming in November.\nThe post Trump in Labor Day Message Says GOP Will Win Big in Midterms appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2026/09/07/trump-in-labor-day-message-says-gop-will-win-big-in-midterms/",
-    "timestamp": "2026-09-07T20:10:26Z"
-  },
-  {
-    "title": "President Trump : NO MORE SELLING BOMBARDIER IN THE UNITED STATES!",
-    "description": "NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren\u2019t good enough! Over 50% of their revenue comes from the United States \u2014 They live off American Buyers, American Companies, American Airports, and American Service \u2014 All while Canada blocks o\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4394599/posts",
-    "timestamp": "2026-09-07T20:09:15Z"
-  },
-  {
-    "title": "Jon Ossoff Ramps Up Jabs at Trump, Warns He\u2019s a \u2018Symptom of Something\u2019 Wrong With America",
-    "description": "Ossoff has racked up viral moments on the campaign trail this cycle, with his jab at Trump\u2019s aide, Natalie Harp, grabbing headlines earlier in the month\nThe post Jon Ossoff Ramps Up Jabs at Trump, Warns He\u2019s a \u2018Symptom of Something\u2019 Wrong With America first a\u2026",
-    "link": "https://www.mediaite.com/media/news/jon-ossoff-ramps-up-jabs-at-trump-warns-hes-a-symptom-of-something-wrong-with-america/",
-    "timestamp": "2026-09-07T20:07:18Z"
-  },
-  {
-    "title": "Report: Britain eyes Tuesday rollout of Judea and Samaria economic crackdown",
-    "description": "Britain reportedly prepares trade restrictions and sanctions targeting Jewish communities in Judea and Samaria; Israel warns any measures will trigger a response.",
-    "link": "https://www.israelnationalnews.com/news/432860",
-    "timestamp": "2026-09-07T19:59:04Z"
-  },
-  {
-    "title": "Cuba says no negotiations with US despite \u2018genocidal\u2019 blockade",
-    "description": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
-    "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade",
-    "timestamp": "2026-09-07T19:58:48Z"
-  },
-  {
-    "title": "Andrew Garfield Gets Candid About Playing Sam Altman in ARTIFICIAL and the Dark Side of OpenAI",
-    "description": "Andrew Garfield is taking on one of the most influential and controversial figures in modern tech, and he has some pretty strong thoughts about the world surrounding him.Garfield plays OpenAI CEO Sam Altman in Artificial, the upcoming film from Luca Guadagnin\u2026",
-    "link": "https://geektyrant.com/news/andrew-garfield-gets-candid-about-playing-sam-altman-in-artificial-and-the-dark-side-of-openai",
-    "timestamp": "2026-09-07T19:58:00Z"
-  },
-  {
-    "title": "Trump Unveils New Uniforms For His Space Force \u2018Inspired\u2019 By Militaristic Sci-Fi Flick",
-    "description": "Donald Trump revealed the look he's after for the new Space Force uniforms, which was inspired by the militaristic sci-fi movie \"Starship Troopers\".\nThe post Trump Unveils New Uniforms For His Space Force \u2018Inspired\u2019 By Militaristic Sci-Fi Flick first appeared\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-unveils-new-uniforms-for-his-space-force-inspired-by-militaristic-sci-fi-flick/",
-    "timestamp": "2026-09-07T19:57:02Z"
-  },
-  {
-    "title": "Midterm Elections Head Into Home Stretch As Candidates Hit Labor Day Events",
-    "description": "Candidates in several competitive races launched the busy stretch of election season with Labor Day events at festivals, union halls and parades.",
-    "link": "https://www.huffpost.com/entry/midterm-elections-home-stretch-candidates-labor-day_n_6a9f1287e4b03901c958f6d7",
-    "timestamp": "2026-09-07T19:56:23Z"
-  },
-  {
-    "title": "Gold price: What its story tells us about Trump and the future",
-    "description": "Gold has risen sharply due to the \u201cTrump risk premium\u201d and the Ukraine war.",
-    "link": "https://www.smh.com.au/business/markets/what-the-price-of-gold-tells-us-about-trump-and-the-future-20260907-p60v4o.html",
-    "timestamp": "2026-09-07T19:49:52Z"
-  },
-  {
-    "title": "Fox Host Rips \u2018Terrible\u2019 Trump Policy as \u2018Socialism\u2019: \u2018Just Give Me the Money!\u2019",
-    "description": "Lawrence Jones ripped Trump's plan to extend federal child care subsidies to families with a stay-at-home parent, calling the proposal \u201ca terrible idea\u201d and \u201csocialism.\"\nThe post Fox Host Rips \u2018Terrible\u2019 Trump Policy as \u2018Socialism\u2019: \u2018Just Give Me the Money!\u2019 \u2026",
-    "link": "https://www.mediaite.com/media/tv/fox-host-rips-terrible-trump-policy-as-socialism-just-give-me-the-money/",
-    "timestamp": "2026-09-07T19:49:19Z"
-  },
-  {
-    "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
-    "description": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
-    "link": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
-    "timestamp": "2026-09-07T19:47:27Z"
-  },
-  {
-    "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
-    "description": "As the final midterm of Donald Trump's presidency rapidly approaches, the landscape is proving especially volatile, with Trump often stirring the tumult.",
-    "link": "https://biztoc.com/x/c9a226d7fb8eb889",
-    "timestamp": "2026-09-07T19:45:51Z"
-  },
-  {
-    "title": "Donald Trump The Interview: US President doesn't hold back in EXCLUSIVE sit down with Bev Turner",
-    "description": "AI recap... Trump\u2019s main pointsIn the GB News interview with Bev Turner, President Donald Trump focused mainly on immigration, energy, Iran, the Russia\u2013Ukraine war, Britain\u2019s role in world affairs, artificial intelligence, and his criticism of several British\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4394594/posts",
-    "timestamp": "2026-09-07T19:42:57Z"
-  },
-  {
-    "title": "Madeleine Dean: GOP Should Be Stopping 'Incoherent,' 'Unhinged' Trump",
-    "description": "Monday on CNN\u2019s \u201cNews Central,\u201d Rep. Madeleine Dean (D-PA) said Republican lawmakers should not be \u201csitting back\u201d while President Donald Trump is acting \u201cincoherent\u201d and \u201cunhinged.\u201d Dean said, \u201cThe greater difference is what is going on in the Republican part\u2026",
-    "link": "https://www.breitbart.com/clips/2026/09/07/madeleine-dean-gop-should-be-stopping-incoherent-unhinged-trump/",
-    "timestamp": "2026-09-07T19:38:26Z"
-  },
-  {
-    "title": "Fraud-convicted GOP candidate accused of exploiting five ex-wives: report",
-    "description": "A San Diego Republican is running for Congress despite a decades-long record of fraud, false claims, and ex-wives who feel exploited.According to a Monday article by the San Diego Union-Tribune, Jeff Belle is the only Republican challenging longtime Rep. Juan\u2026",
-    "link": "https://www.rawstory.com/gop-candidate-fraud/",
-    "timestamp": "2026-09-07T19:36:00Z"
-  },
-  {
-    "title": "\u2018South Park\u2019 Trolls Donald Trump Again After Winning Emmy \u2014 An Award He\u2019s Lost Twice",
-    "description": "NBC's \"The Apprentice\" lost to \"The Amazing Race\" in both years it was nominated\nThe post \u2018South Park\u2019 Trolls Donald Trump Again After Winning Emmy \u2014 An Award He\u2019s Lost Twice appeared first on TheWrap.",
-    "link": "https://www.thewrap.com/creative-content/tv-shows/south-park-wins-emmy-trolls-trump-losing-twice/",
-    "timestamp": "2026-09-07T19:35:55Z"
-  },
-  {
-    "title": "Trump Judge Just Ruled That Americans Do NOT Have A Right To Safe Drinking Water",
-    "description": "According to a truly horrifying new report from Mother Jones, a Trump-appointed judge has made it abundantly clear that safe, clean, uncontaminated drinking water is, in fact, not a right afforded to Americans. \nFifth Circuit Court of Appeals Judge Kurt Engel\u2026",
-    "link": "https://crooksandliars.com/2026/09/trump-judge-just-ruled-americans-do-not",
-    "timestamp": "2026-09-07T19:31:50Z"
-  },
-  {
-    "title": "Trump wants \u2018Nazi\u2019 and \u2018Star Wars\u2019-Inspired uniforms for U.S. space force",
-    "description": "In another post, the U.S. president is portrayed as the commander of a U.S. Space Force spacecraft\nThe post Trump wants \u2018Nazi\u2019 and \u2018Star Wars\u2019-Inspired uniforms for U.S. space force appeared first on ProtoThema English.",
-    "link": "https://en.protothema.gr/2026/09/07/trump-wants-nazi-and-star-wars-inspired-uniforms-for-u-s-space-force/",
-    "timestamp": "2026-09-07T19:30:00Z"
-  },
-  {
-    "title": "\u2018Gaggle of Lunatics\u2019: Trump threatens lawsuit \u2018being drawn now\u2019 against Soros, Google, Bill and Melinda Gates, Apple, Visa, Goldman Sachs and other leftist CAP donors",
-    "description": "'Liars, at this level, must be held accountable!'",
-    "link": "https://www.wnd.com/2026/09/gaggle-lunatics-trump-threatens-lawsuit-being-drawn-now/",
-    "timestamp": "2026-09-07T19:29:35Z"
-  },
-  {
-    "title": "Kai Trump gives tour of her lavish University of Miami apartment after struggling through first week of college",
-    "description": "In a new video posted to her channel, Kai, 19, gave viewers a peek at her luxe living space, which featured a modern design and pristine new appliances.",
-    "link": "https://www.dailymail.com/lifestyle/homes/article-16112415/kai-trump-university-miami-apartment.html",
-    "timestamp": "2026-09-07T19:27:02Z"
-  },
-  {
-    "title": "Trump threatens sales in US of Canadian aircraft maker Bombardier",
-    "description": "President Donald Trump on Monday threatened to block US sales of Canadian plane manufacturer Bombardier, complaining of \"unjust and unfair\" bilateral trade provisions as he escalates a tariff war between the countries.\nThe post Trump threatens sales in US of \u2026",
-    "link": "https://www.vanguardngr.com/2026/09/trump-threatens-sales-in-us-of-canadian-aircraft-maker-bombardier/",
-    "timestamp": "2026-09-07T19:24:41Z"
-  },
-  {
-    "title": "Senate Majority Leader John Thune to work sidelines of GOP midterm convention, as Johnson takes spotlight",
-    "description": "WASHINGTON \u2014 Senate Majority Leader John Thune (R-S.D.) won\u2019t have a speaking slot at the GOP\u2019s 2026 midterm convention in Dallas this week, unlike House Speaker Mike Johnson (R-La.). Instead, Thune is expected to be assisting candidates at Dallas fundraisers\u2026",
-    "link": "https://nypost.com/2026/09/07/us-news/senate-majority-leader-john-thune-works-sidelines-at-gop-midterm-convention/",
-    "timestamp": "2026-09-07T19:22:33Z"
-  },
-  {
-    "title": "Hunter Biden makes new crypto move against Donald Trump",
-    "description": "Hunter Biden is reportedly launching a memecoin called LAPTOP on Coinbase's Base network, turning one of the most contentious episodes of the 2020 U.S. presidential election into a crypto project aimed partly at Donald Trump's political brand.\nThe token is sc\u2026",
-    "link": "https://biztoc.com/x/e066e10de7171f8a",
-    "timestamp": "2026-09-07T19:17:05Z"
-  },
-  {
-    "title": "Customs brokers thought the business changed last year. Fresh tariffs have changed the landscape",
-    "description": "At first, Lisa McEwan thought trade might be at risk of stopping altogether.\nUnited States President Donald Trump had just announced 25 per cent tariffs on Canadian goods, and as a customs broker, Mrs. McEwan relied on per-entry fees from her clients as they \u2026",
-    "link": "https://biztoc.com/x/d0145bcd2bbc0659",
-    "timestamp": "2026-09-07T19:15:25Z"
-  },
-  {
-    "title": "CNN Defense Expert Roasts Trump Envoy\u2019s \u2018Whatever Happens\u2019 Approach to Russia-Ukraine War",
-    "description": "\"You can notice Vance and Rubio are nowhere near this right now, which gives you an idea of the lack of seriousness, in my view,\u201d a CNN expert argued\nThe post CNN Defense Expert Roasts Trump Envoy\u2019s \u2018Whatever Happens\u2019 Approach to Russia-Ukraine War first appe\u2026",
-    "link": "https://www.mediaite.com/media/tv/cnn-defense-expert-roasts-trump-envoys-whatever-happens-approach-to-russia-ukraine-war/",
-    "timestamp": "2026-09-07T19:13:15Z"
-  },
-  {
-    "title": "Trump Posts AI-Generated Map Showing U.S. Annexing All Of North America",
-    "description": "On Monday, the president shared a map on Truth Social showing the continent covered entirely with the stars and stripes.",
-    "link": "https://www.huffpost.com/entry/trump-posts-ai-map_n_6a9ef8d2e4b0665b7c5bc23d",
-    "timestamp": "2026-09-07T19:12:56Z"
-  },
-  {
-    "title": "Customs brokers thought the business changed last year. Fresh tariffs have changed the landscape",
-    "description": "Customs brokers thought the business changed last year. Fresh tariffs have changed the landscapetheglobeandmail.com",
-    "link": "https://www.theglobeandmail.com/business/article-customs-brokers-fresh-tariffs-have-changed-the-landscape/",
-    "timestamp": "2026-09-07T19:10:51Z"
-  },
-  {
-    "title": "Air India's new chief Tewolde Gebremariam takes charge: Big plans to 'Make Air India Great Again' with safety-first approach",
-    "description": "Air India's new leadership has committed to prioritizing safety above all else, especially following recent grave safety concerns and a tragic crash inquiry. The airline, currently grappling with large financial deficits and challenges posed by airspace closu\u2026",
-    "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-indias-new-chief-tewolde-gebremariam-takes-charge-big-plans-to-make-air-india-great-again-with-safety-first-approach/articleshow/133894638.cms",
-    "timestamp": "2026-09-07T19:07:28Z"
-  },
-  {
-    "title": "The domestic armed threat facing Iran",
-    "description": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.",
-    "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran",
-    "timestamp": "2026-09-07T19:06:22Z"
-  },
-  {
-    "title": "Trump will New Mexico in \u201eNew America\u201c umbenennen",
-    "description": null,
-    "link": "https://orf.at/stories/3441496/",
-    "timestamp": "2026-09-07T19:02:29Z"
-  },
-  {
-    "title": "Trump threatens to block Canada\u2019s Bombardier sales unless planes made in US",
-    "description": "Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.",
-    "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us",
-    "timestamp": "2026-09-07T19:01:51Z"
-  },
-  {
-    "title": "Trump floods social media with AI images annexing two countries, renaming a state and claiming ownership of the moon",
-    "description": "President Trump is spending Labor Day flooding his Truth Social account with AI-generated images about conquering both the Earth and outer space alike.",
-    "link": "https://nypost.com/2026/09/07/us-news/trump-posts-images-of-annexing-two-countries-renaming-a-state-and-claiming-ownership-of-the-moon/",
-    "timestamp": "2026-09-07T19:01:18Z"
-  },
-  {
-    "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
-    "description": "President Donald Trump on Monday said Bombardier, a Canadian airplane manufacturer, must build its products in the U.S. in order to keep selling in the American market.\nThe move comes amid a bitter trade war between the U.S. and Canada, and on the eve of reta\u2026",
-    "link": "https://biztoc.com/x/47cc1febdd86598e",
-    "timestamp": "2026-09-07T19:00:40Z"
-  },
-  {
-    "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
-    "description": "President Donald Trump has spent 20 months promising that America was on the cusp of an economic boom. But Friday's surprisingly positive jobs report ultimately provoked frustration from Trump.",
-    "link": "https://biztoc.com/x/0a55913c94f22ae1",
-    "timestamp": "2026-09-07T19:00:33Z"
   }
 ]
