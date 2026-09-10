@@ -1,5 +1,563 @@
 [
   {
+    "title": "Today in Germany: A roundup of the latest news on Wednesday",
+    "description": "Man arrested over suspected sabotage campaign, Germany sends \u2018urgently needed\u2019 Patriot missiles to Ukraine, Berlin fails to invest in cycling infrastructure and more news on Wednesday, September 9th.",
+    "link": "https://www.thelocal.de/20260909/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-137",
+    "timestamp": "2026-09-09T06:34:07Z"
+  },
+  {
+    "title": "Russian strike on Ukraine-Moldova border kills two",
+    "description": "Two civilians were killed in a Russian drone strike at a checkpoint on Ukraine's border with Moldova, the regional governor said.",
+    "link": "https://www.rte.ie/news/ukraine/2026/0909/1590838-ukraine-russia/",
+    "timestamp": "2026-09-09T06:30:19Z"
+  },
+  {
+    "title": "South Park's creators are renaming the show 'South America' in a jab at Apple and Google",
+    "description": "The show's creators said they were \"Inspired by the bravery and patriotism of Apple and Google,\" who recently renamed Lake Ontario to Lake America.",
+    "link": "https://www.businessinsider.com/south-park-renamed-south-america-jab-apple-google-2026-9#article",
+    "timestamp": "2026-09-09T06:27:58Z"
+  },
+  {
+    "title": "\u2018It Sounds Insane\u2026\u2019: James Carville Has A Wild Theory About Trump\u2019s Midterm Endgame",
+    "description": "Longtime Democratic strategist James Carville suggested that Donald Trump's increasingly erratic actions can mean only one thing.\n\"The only answer that I can come up that explains the current behavior of Donald Trump is simply this: He wants the Republicans t\u2026",
+    "link": "https://biztoc.com/x/41cecc737e0bf450",
+    "timestamp": "2026-09-09T06:27:27Z"
+  },
+  {
+    "title": "\u2018South Park\u2019 rebrands as \u2018South America\u2019 for new season as show roasts Trump\u2019s renaming spree | CNN",
+    "description": "\u201cSouth Park\u201d is changing its name in what is the latest satirical jab at the White House, following President Donald Trump\u2019s spree to rename a gulf, lakes and, most recently, even a state after \u201cAmerica.\u201d",
+    "link": "https://www.cnn.com/2026/09/09/entertainment/south-park-south-america-name-change-trump-hnk",
+    "timestamp": "2026-09-09T06:21:24Z"
+  },
+  {
+    "title": "Republicans put Trump centre stage in US midterms gamble",
+    "description": "Republicans are betting on Donald Trump to drive voter turnout in the US midterms, a high-stakes gamble given his low approval ratings and grim forecasts.\n\nRead More: https://punchng.com/republicans-put-trump-centre-stage-in-us-midterms-gamble/",
+    "link": "https://punchng.com/republicans-put-trump-centre-stage-in-us-midterms-gamble/",
+    "timestamp": "2026-09-09T06:20:38Z"
+  },
+  {
+    "title": "A more perfect union? Congress has been the place where America tries to resolve its problems",
+    "description": "It\u2019s one thing to issue a Declaration of Independence, but quite another to stand up a working government",
+    "link": "https://abcnews.com/Politics/wireStory/perfect-union-congress-place-america-resolve-problems-136293018",
+    "timestamp": "2026-09-09T06:19:20Z"
+  },
+  {
+    "title": "Sen. John Fetterman's isolation from Democrats grows stark in Pennsylvania",
+    "description": "Sen. John Fetterman is on shaky ground with Democrats in his home state of Pennsylvania",
+    "link": "https://abcnews.com/Politics/wireStory/sen-john-fettermans-isolation-democrats-grows-stark-pennsylvania-136293276",
+    "timestamp": "2026-09-09T06:19:09Z"
+  },
+  {
+    "title": "Asian shares are mixed as Brent crude approaches $100 a barrel",
+    "description": "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher",
+    "link": "https://abcnews.com/Business/wireStory/asian-shares-mixed-brent-crude-approaches-100-barrel-136293470",
+    "timestamp": "2026-09-09T06:18:52Z"
+  },
+  {
+    "title": "Trump's approval languishes at historic lows in lead-up to 'Trump-a-palooza'",
+    "description": "Donald Trump's approval rating continues to plumb historic lows ahead of the Republican Party's national convention \u2014 but the US president still believes his brand can boost close-race candidates who will be \"showcased\" on stage.",
+    "link": "https://www.abc.net.au/news/2026-09-09/trump-low-approval-rating-ahead-of-republican-convention/106767310",
+    "timestamp": "2026-09-09T06:08:53Z"
+  },
+  {
+    "title": "\u2018It Sounds Insane\u2026\u2019: James Carville Has A Wild Theory About Trump\u2019s Midterm Endgame",
+    "description": "The Democratic strategist said he \u201ccan\u2019t think of another explanation that really answers as many questions as this one does.\u201d",
+    "link": "https://www.huffpost.com/entry/james-carville-donald-trump-midterms-convention_n_6aa0e0efe4b03076360559c1",
+    "timestamp": "2026-09-09T06:02:45Z"
+  },
+  {
+    "title": "Houthi Strikes on Saudi Refinery Threaten Remaining Red Sea Energy Lifeline",
+    "description": "Houthi Strikes Hit Key Saudi Energy Facility The Saudi Aramco refinery at Jazan on the Red Sea was engulfed in flames on Sept. 8 following a coordinated missile and drone attack by Yemen\u2019s Houthi forces, according to reports from the War Zone and video circul\u2026",
+    "link": "https://www.naturalnews.com/2026-09-09-houthi-strikes-aramco-threaten-red-sea-energy-lifeline.html",
+    "timestamp": "2026-09-09T06:00:00Z"
+  },
+  {
+    "title": "Copper Hits Record High on Tariff Speculation, Tightening Supplies",
+    "description": "Copper three-month futures on the London Metal Exchange (LME) reached an all-time high on Monday, Sept. 1 \u2013 rising as much as 0.8% to $14,533 a ton, according to market data. Trading occurred on a day when U.S. markets were closed for the Labor Day holiday, w\u2026",
+    "link": "https://www.naturalnews.com/2026-09-09-copper-hits-record-high-on-tariff-speculation.html",
+    "timestamp": "2026-09-09T06:00:00Z"
+  },
+  {
+    "title": "Trump posts map showing Canada, Greenland as part of U.S.",
+    "description": "President Donald Trump on Monday posted an image on his Truth Social platform depicting a map of North America in which Canada and Greenland are shaded as part of the United States. The map, which also includes the label \u201cGulf of America,\u201d appears to show a u\u2026",
+    "link": "https://www.naturalnews.com/2026-09-09-trump-map-canada-greenland-part-of-us.html",
+    "timestamp": "2026-09-09T06:00:00Z"
+  },
+  {
+    "title": "Iron coffins: How $500 drones are burying the million-dollar tank",
+    "description": "The main battle tank \u2013 once the crowning symbol of ground warfare dominance \u2013 is being struck down on today\u2019s modern battlefields. From the Donbas to southern Lebanon,\u00a0the once mighty tank is being humbled by a weapon that costs less than a used car. First-pe\u2026",
+    "link": "https://www.naturalnews.com/2026-09-09-iron-coffins-how-500-drones-are-burying-the-million-dollar-tank.html",
+    "timestamp": "2026-09-09T06:00:00Z"
+  },
+  {
+    "title": "Trump expands 50% tariffs on Canadian cheese, furniture, cars and 70 more items starting Sept. 15",
+    "description": "President Trump has expanded 50% tariffs on Canadian goods, adding cheese, furniture, automobiles and over 70 other items starting September 15 Eight product categories, including salt and cement, were exempted from the tariff list Complete import bans on Can\u2026",
+    "link": "https://www.naturalnews.com/2026-09-09-trump-tariffs-canadian-items-sept.html",
+    "timestamp": "2026-09-09T06:00:00Z"
+  },
+  {
+    "title": "Green groups cried foul over Endangered Species Act reforms but ignored their own turbine body count",
+    "description": "Trump administration finalized Endangered Species Act reforms in July, narrowing habitat protections while critics call it a rollback. NextEra subsidiary ESI Energy paid over $8 million and got five years probation for killing at least 150 bald and golden eag\u2026",
+    "link": "https://www.naturalnews.com/2026-09-09-green-groups-cried-foul-endangered-species-act-reforms.html",
+    "timestamp": "2026-09-09T06:00:00Z"
+  },
+  {
+    "title": "Dallas Republican convention: How Trump looms over midterms",
+    "description": "Donald Trump is not on the ballot in the midterm elections \u2014 but the first Republican midterm convention is putting him center stage. It's a strategy that could prove risky for the party. In the midterm elections on Nov. 3, US President Donald Trump will not \u2026",
+    "link": "https://www.dw.com/en/dallas-republican-convention-how-trump-looms-over-midterms/a-79189744",
+    "timestamp": "2026-09-09T05:55:00Z"
+  },
+  {
+    "title": "Trump takes center stage at Republican midterm convention",
+    "description": "With Trump's approval rating at 33%, some Republican candidates are keeping their distance. Could putting him at the heart of the 2026 midterms backfire? In the midterm elections on Nov. 3, US President Donald Trump will not be on the ballot. Nevertheless, hi\u2026",
+    "link": "https://www.dw.com/en/republican-midterm-convention-2026-trump/a-79189744",
+    "timestamp": "2026-09-09T05:55:00Z"
+  },
+  {
+    "title": "US midterm elections: Key takeaways from New Hampshire primaries",
+    "description": "The GOP aims to gain a New England foothold as Democrats strive to retain the Senate seat.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/us-midterm-elections-key-takeaways-from-new-hampshire-primaries",
+    "timestamp": "2026-09-09T05:50:50Z"
+  },
+  {
+    "title": "Some Vulnerable Republicans Are Ducking Out Of Trump\u2019s Midterm Convention",
+    "description": "A number of Republicans have given different reasons for skipping the spectacle.",
+    "link": "https://www.huffpost.com/entry/trump-midterm-convention-republicans-skipping_n_6aa0dbb3e4b0186919a759c5",
+    "timestamp": "2026-09-09T05:47:54Z"
+  },
+  {
+    "title": "Extremist abductions in Nigeria surge by 153% as violence rises again, report finds",
+    "description": "Abductions linked to extremist violence in Nigeria more than doubled in the final three months of 2025, according to a new report warning that insecurity in the country is worsening again after several years of comparatively lower violence.",
+    "link": "https://www.christiantoday.com/news/extremist-abductions-in-nigeria-surge-by-153-as-violence-rises-again-report-finds",
+    "timestamp": "2026-09-09T05:40:00Z"
+  },
+  {
+    "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+    "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+    "timestamp": "2026-09-09T05:39:16Z"
+  },
+  {
+    "title": "Trump Imposes 50% Tariff on Most Canadian Goods: What It Means",
+    "description": "Trump Imposes 50% Tariff on Most Canadian Goods: What It Meansgrandgoldman.com",
+    "link": "https://grandgoldman.com/blogs/business/trump-imposes-50-tariff-on-most-canadian-goods-what-it-means",
+    "timestamp": "2026-09-09T05:35:19Z"
+  },
+  {
+    "title": "Brent oil pushes toward $100 after US attacks Iranian tankers",
+    "description": "Renewed fighting stokes fears of deeper disruptions",
+    "link": "https://www.irishtimes.com/business/markets/2026/09/09/brent-oil-pushes-toward-100-after-us-attacks-iranian-tankers/",
+    "timestamp": "2026-09-09T05:26:34Z"
+  },
+  {
+    "title": "AfD state election win worries most Germans: Poll",
+    "description": "Nearly two-thirds of German voters are concerned about the far-right Alternative for Germany (AfD) party\u2019s victory in Saxony-Anhalt\u2019s state election, a nationwide poll showed.",
+    "link": "https://www.hurriyetdailynews.com/afd-state-election-win-worries-most-germans-poll-226645",
+    "timestamp": "2026-09-09T05:23:00Z"
+  },
+  {
+    "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+    "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships and American targets in Jordan, the latest burst of back-and-forth strikes.",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+    "timestamp": "2026-09-09T05:20:45Z"
+  },
+  {
+    "title": "Britain and Israel plunge into diplomatic crisis over West Bank settlement sanctions",
+    "description": "Israel shut its Jerusalem consulate, barred 12 British nationals and quit a Gaza coordination role, after Israeli Foreign Minister Gideon Sa'ar accused London of election interference and 12 Western states moved jointly against settlement trade\nThe post Brita\u2026",
+    "link": "https://en.protothema.gr/2026/09/09/britain-and-israel-plunge-into-diplomatic-crisis-over-west-bank-settlement-sanctions/",
+    "timestamp": "2026-09-09T05:12:02Z"
+  },
+  {
+    "title": "Canada eyes researchers looking to leave \u2018hostile\u2019 US",
+    "description": "The former University of Colorado researcher, now with the University of Montreal, is one of the dozens of scientists to quit US-based posts in recent months for a role in Canada, which is making a push to attract US talent.\nThe post Canada eyes researchers l\u2026",
+    "link": "https://www.digitaljournal.com/article/canada-eyes-researchers-looking-to-leave-hostile-us/",
+    "timestamp": "2026-09-09T05:11:08Z"
+  },
+  {
+    "title": "Jon Stewart Blames Natalie Harp for Trump\u2019s \u2018Warped Reality\u2019: \u2018This Is Unbelievable\u2019",
+    "description": "\u201cShe is the filter to all of the information that is directly fed into Donald Trump's psyche,\u201d the comedian adds\nThe post Jon Stewart Blames Natalie Harp for Trump\u2019s \u2018Warped Reality\u2019: \u2018This Is Unbelievable\u2019 appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/creative-content/tv-shows/jon-stewart-blames-natalie-harp-donald-trump-warped-reality/",
+    "timestamp": "2026-09-09T05:07:59Z"
+  },
+  {
+    "title": "Kathy Sheridan: Our politicians must assuage Trump\u2019s tantrums. The public doesn\u2019t have to play along",
+    "description": "When vengeance and gold are the objectives of the world\u2019s most powerful man, nothing and no one is safe or sacred",
+    "link": "https://www.irishtimes.com/opinion/2026/09/09/kathy-sheridan-our-politicians-must-assuage-trumps-tantrums-the-public-doesnt-have-to-play-along/",
+    "timestamp": "2026-09-09T05:00:01Z"
+  },
+  {
+    "title": "\u2018Great technique and a joy to watch\u2019: two-time Major champion Jon Rahm on Tom McKibbin",
+    "description": "Northern Ireland pro looks to Irish Open at Doonbeg for chance to build on recent upswing in form",
+    "link": "https://www.irishtimes.com/sport/golf/2026/09/09/great-technique-and-a-joy-to-watch-two-time-major-champion-jon-rahm-on-tom-mckibbin/",
+    "timestamp": "2026-09-09T05:00:01Z"
+  },
+  {
+    "title": "Green Movement\u2019s Selective Outrage Over ESA Reforms",
+    "description": "Wildlife deaths caused by hydrocarbons were a moral travesty. Identical deaths caused by subsidized wind and solar became an acceptable trade, a transition cost, a footnote to \u201csaving the world.\u201d That is a political program wearing conservation as a costume.\n\u2026",
+    "link": "https://wattsupwiththat.com/2026/09/08/green-movements-selective-outrage-over-esa-reforms/",
+    "timestamp": "2026-09-09T05:00:00Z"
+  },
+  {
+    "title": "Irish Open organisers confident they can \u2018keep everything civilised\u2019 ahead of Trump visit",
+    "description": "US president due to attend tournament in Doonbeg this weekend",
+    "link": "https://www.irishtimes.com/sport/golf/2026/09/09/irish-open-organisers-confident-they-can-keep-everything-civilised-ahead-of-trump-visit/",
+    "timestamp": "2026-09-09T05:00:00Z"
+  },
+  {
+    "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
+    "description": "A recent study suggests Tylenol use by mothers during pregnancy may affect infant reproductive organ development.  Researchers observed smaller ovaries and uteruses in three-month-old girls exposed to the drug.  This exposure was also linked to fewer ovarian \u2026",
+    "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daughters/articleshow/133953148.cms",
+    "timestamp": "2026-09-09T04:49:17Z"
+  },
+  {
+    "title": "'Utterly Disgraceful': Trump Sparks Outrage For Rant About 9/11 Hero",
+    "description": "President Donald Trump was widely lambasted on social media Tuesday after ranting about a revered hero of the 9/11 terrorist attacks and complaining about the man's fame.\n\"They were sure they were going to die. Then suddenly, a rescuer appeared. They call him\u2026",
+    "link": "https://biztoc.com/x/da4223f397c338ce",
+    "timestamp": "2026-09-09T04:42:46Z"
+  },
+  {
+    "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
+    "description": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues",
+    "link": "https://abcnews.com/Politics/wireStory/ai-memes-trump-promotes-mythical-version-challenges-stack-136293014",
+    "timestamp": "2026-09-09T04:40:49Z"
+  },
+  {
+    "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
+    "description": "President Donald Trump is using memes to portray himself as powerful amid struggles with inflation and international issues",
+    "link": "https://abcnews.com/Entertainment/wireStory/ai-memes-trump-promotes-mythical-version-challenges-stack-136293015",
+    "timestamp": "2026-09-09T04:40:38Z"
+  },
+  {
+    "title": "US-Canada trade war escalates: A look at which goods face new tariffs",
+    "description": "The US and Canada have stepped up their trade war, with both sides imposing new tariffs and curbs on goods amid a breakdown in negotiations",
+    "link": "https://www.business-standard.com/world-news/us-canada-trade-war-escalates-trump-retaliatory-tariffs-imports-ban-dispute-126090900246_1.html",
+    "timestamp": "2026-09-09T04:34:09Z"
+  },
+  {
+    "title": "Introducing the Fall 2026 Print Issue",
+    "description": "How to survive in a world without rules.",
+    "link": "http://foreignpolicy.com/2026/09/09/foreign-policy-fall-print-issue-2026-survival-guide-world-without-rules-liberal-international-order/",
+    "timestamp": "2026-09-09T04:32:30Z"
+  },
+  {
+    "title": "Jimmy Kimmel Torches Trump for Accomplishing \u2018Nothing All Summer Long\u2019 in Fiery Late-Night Return",
+    "description": "\u201cIt seems like the only thing he got done was his hair,\u201d the comedian adds\nThe post Jimmy Kimmel Torches Trump for Accomplishing \u2018Nothing All Summer Long\u2019 in Fiery Late-Night Return appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-insults-trump-nothing-got-done-all-summer-monologue/",
+    "timestamp": "2026-09-09T04:28:17Z"
+  },
+  {
+    "title": "'Utterly Disgraceful': Trump Sparks Outrage For Rant About 9/11 Hero",
+    "description": "\u201cThis is why they didn\u2019t invite him to the actual event on Friday,\u201d one commenter wrote on X.",
+    "link": "https://www.huffpost.com/entry/donald-trump-welles-crowther-911-remarks_n_6aa0907be4b086ecc55e46d6",
+    "timestamp": "2026-09-09T04:22:55Z"
+  },
+  {
+    "title": "Crypto lobbies launch a last-minute TV campaign against banks to pass the CLARITY Act",
+    "description": "The crypto industry is launching a seven-figure national advertising campaign to rescue the CLARITY Act ahead of a crucial Senate vote next week. The Senate is scheduled to vote Sept. 15 on whether to invoke cloture on a motion to proceed to the Digital Asset\u2026",
+    "link": "https://cryptoslate.com/crypto-lobbies-launch-a-last-minute-tv-campaign-against-banks-to-pass-the-clarity-act/",
+    "timestamp": "2026-09-09T04:20:00Z"
+  },
+  {
+    "title": "A more perfect union? Congress has been the place where America tries to resolve its problems",
+    "description": "Congress's influence on America is profound, having enacted pivotal laws like the Bill of Rights. The Reconstruction Acts and Civil Rights legislation were crucial in promoting equality post-Civil War. Moreover, Social Security, Medicare, and Medicaid have cr\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/a-more-perfect-union-congress-has-been-the-place-where-america-tries-to-resolve-its-problems/articleshow/133952237.cms",
+    "timestamp": "2026-09-09T04:18:18Z"
+  },
+  {
+    "title": "Watch: Trump shares edited clip of King Charles walking away from fainting worker",
+    "description": "US News: Donald Trump called King Charles \u201cthe greatest king, in my book\u201d during the monarch\u2019s US state visit in April. Months later, the tone had shifted shar.",
+    "link": "https://timesofindia.indiatimes.com/world/us/watch-trump-shares-edited-clip-of-king-charles-walking-away-from-fainting-worker/articleshow/133949969.cms",
+    "timestamp": "2026-09-09T04:15:18Z"
+  },
+  {
+    "title": "Social Media Begs Nintendo To Sue Donald Trump After White House Drops \u2018The Legend of Trump\u2019 MAGA Spoof of \u2018Zelda\u2019",
+    "description": "The video was met with immediate criticism, with many calling for Nintendo, a company that is notorious for suing people whom they feel are misusing their IP, to take legal action against Trump.",
+    "link": "https://hiphopwired.com/3064931/the-legend-of-trump-video-nintendo-reactions/",
+    "timestamp": "2026-09-09T04:14:56Z"
+  },
+  {
+    "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says",
+    "description": "A U.S. diplomat warned that Taiwan Strait conflict would impact the global economy more than World War Two. He stated the upcoming U.S.-China summit offers a chance to prevent miscalculations. Taiwan is enhancing its defense capabilities to deter potential th\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-conflict-us-diplomat-warns-of-economic-catastrophe-greater-than-wwii/articleshow/133951977.cms",
+    "timestamp": "2026-09-09T04:12:01Z"
+  },
+  {
+    "title": "With AI memes, Trump promotes mythical version of himself as challenges stack up ahead of midterms",
+    "description": "In the real world, President Donald Trump is struggling to stop inflation, rout the Iranian government and restore American manufacturing with tariffs.  Over...",
+    "link": "https://www.yahoo.com/news/politics/articles/ai-memes-trump-promotes-mythical-040902968.html",
+    "timestamp": "2026-09-09T04:09:02Z"
+  },
+  {
+    "title": "Iceland condemns Trump map showing dozen nations as star-spangled territories",
+    "description": "Iceland becomes the latest nation embroiled in a diplomatic row with the United States after Donald Trump shares a map showing the Nordic nation as American territory.",
+    "link": "https://www.abc.net.au/news/2026-09-09/iceland-condemns-donald-trump-us-territory-map/107132012",
+    "timestamp": "2026-09-09T04:07:03Z"
+  },
+  {
+    "title": "Competing court orders add confusion to Missouri congressional elections",
+    "description": "Dueling court orders have created new uncertainty for Missouri's congressional map just eight weeks before Election Day",
+    "link": "https://abcnews.com/US/wireStory/competing-court-orders-add-confusion-missouri-congressional-elections-136286543",
+    "timestamp": "2026-09-09T04:06:09Z"
+  },
+  {
+    "title": "Competing court orders add confusion to Missouri congressional elections",
+    "description": "Dueling court orders have created new uncertainty for Missouri's congressional map just eight weeks before Election Day",
+    "link": "https://abcnews.com/Politics/wireStory/competing-court-orders-add-confusion-missouri-congressional-elections-136286544",
+    "timestamp": "2026-09-09T04:06:04Z"
+  },
+  {
+    "title": "Sen. John Fetterman's isolation from Democrats grows stark in Pennsylvania",
+    "description": "Around this time two years ago, Sen. John Fetterman was in high demand on the campaign trail, going county-to-county in Pennsylvania to help Democrats up and...",
+    "link": "https://www.yahoo.com/news/politics/articles/sen-john-fettermans-isolation-democrats-040448061.html",
+    "timestamp": "2026-09-09T04:04:48Z"
+  },
+  {
+    "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+    "description": "The United States remains Taiwan's main international backer and arms supplier despite lack of formal diplomatic ties.",
+    "link": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns",
+    "timestamp": "2026-09-09T04:04:45Z"
+  },
+  {
+    "title": "Talarico's Pastor: \u2018People in This Church\u2019 Wish Would-Be Trump Assassin \u2018Had Been More Successful\u2019",
+    "description": "Much has been made about Texas U.S. Senate candidate James Talarico\u2019s version, or perversion, of \u201cChristianity.\u201dThe Democrat nominee has called St. Andrews Presbyterian Church in Austin home since he was two years old, he says. It has been led for 35 years by\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4394782/posts",
+    "timestamp": "2026-09-09T04:02:38Z"
+  },
+  {
+    "title": "How to Survive in a World Without Rules",
+    "description": "Self-help is becoming more vital in a vicious world.",
+    "link": "http://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/",
+    "timestamp": "2026-09-09T04:02:35Z"
+  },
+  {
+    "title": "Jon Stewart Likens Donald Trump Aide Natalie Harp To Elizabeth Holmes In Viral \u2018You Can See Everything\u2019 Trailer",
+    "description": "Jon Stewart returned for an all-new episode of The Daily Show following a month-long hiatus. The comedian and Comedy Central host didn\u2019t waste any time trolling Donald Trump and the chaos he\u2019s caused over the last few weeks, like renaming Lake Ontario to Lake\u2026",
+    "link": "http://deadline.com/2026/09/jon-stewart-donald-trump-aide-natalie-harp-elizabeth-holmes-1237071830/",
+    "timestamp": "2026-09-09T04:01:28Z"
+  },
+  {
+    "title": "Stay Home, Elect Socialists",
+    "description": "Photo Credit:\n \n Perchance AIBy Joseph Ford CottoRepublican voters who sit this cycle out will hand power to a party that has been seized by its most radical elements.",
+    "link": "https://www.americanthinker.com/articles/2026/09/stay-home-elect-socialists/",
+    "timestamp": "2026-09-09T04:00:00Z"
+  },
+  {
+    "title": "Iran takes the dive",
+    "description": "By J.R. DunnA world-shaking victory fo the Mahdi, inshallah.",
+    "link": "https://www.americanthinker.com/blog/2026/09/iran-takes-the-dive/",
+    "timestamp": "2026-09-09T04:00:00Z"
+  },
+  {
+    "title": "Midnight Mania! Trump\u2019s New Favorite Fighter?",
+    "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+    "link": "https://www.mmamania.com/ufc-news/468797/huh-donald-trump-randomly-posts-six-minute-highlight-video-of-unranked-ufc-fighter-from-moldova",
+    "timestamp": "2026-09-09T03:59:00Z"
+  },
+  {
+    "title": "Jon Stewart Uses Nathan Fielder\u2019s \u2018You Can See Everything\u2019 Trailer to Troll Donald Trump and His \u2018Human Printer\u2019 Aide",
+    "description": "Jon Stewart returned to \u201cThe Daily Show\u201d desk Tuesday night and used the trailer for Nathan Fielder\u2019s Elizabeth Holmes documentary \u201cYou Can See Everything\u201d to troll President Donald Trump and his most dedicated aide, known to some as \u201cthe human printer.\u201d Afte\u2026",
+    "link": "https://variety.com/2026/tv/news/jon-stewart-nathan-fielder-you-can-see-everything-trump-1236855432/",
+    "timestamp": "2026-09-09T03:54:27Z"
+  },
+  {
+    "title": "US widens Canada trade war with import bans, new tariffs on key products",
+    "description": "President Donald Trump had earlier hinted at the move in response to bans on US alcohol products by several Canadian provinces",
+    "link": "https://www.business-standard.com/world-news/us-widens-canada-trade-war-with-import-bans-new-tariffs-on-key-products-126090900171_1.html",
+    "timestamp": "2026-09-09T03:43:47Z"
+  },
+  {
+    "title": "US pursues deportees abroad for hundreds of millions in unpaid fines",
+    "description": "US Customs and Border Protection says it is trying to recover about $423 million in fines and fees from more than 66,300 people who have been removed from the US",
+    "link": "https://www.business-standard.com/world-news/us-pursues-deportees-abroad-for-hundreds-of-millions-in-unpaid-fines-126090900172_1.html",
+    "timestamp": "2026-09-09T03:43:21Z"
+  },
+  {
+    "title": "Joe Biden Shares a Major Health Update \u2014 This Is the News Americans Were Waiting For",
+    "description": "There is plenty Republicans and Democrats can disagree about when it comes to Joe Biden. His health shouldn't be one of them. The former president has been fighting an aggressive form of Stage 4 prostate cancer that spread to his bones, and some of the recent\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4394776/posts",
+    "timestamp": "2026-09-09T03:40:20Z"
+  },
+  {
+    "title": "\u2018Remember, I Went To Prison\u2019: Trump Adviser Dodges Question About Handling of Confidential Fox News Directive",
+    "description": "Peter Navarro, a senior trade adviser to President Donald Trump, wanted no part of a question from Newsmax host Greg Kelly on Tuesday night.\nThe post \u2018Remember, I Went To Prison\u2019: Trump Adviser Dodges Question About Handling of Confidential Fox News Directive\u2026",
+    "link": "https://www.mediaite.com/media/tv/remember-i-went-to-prison-trump-adviser-dodges-question-about-handling-of-confidential-fox-news-directive/",
+    "timestamp": "2026-09-09T03:32:53Z"
+  },
+  {
+    "title": "Inside Jared Kushner\u2019s Albanian adventure",
+    "description": "For much of its history, Albania remained as shadowy and remote as the fictional Syldavia of the Tintin comics. Letters to Albania were sometimes returned from Albany, New York, with the postal direction \u201cTry Europe.\u201d The country came into existence only afte\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4394775/posts",
+    "timestamp": "2026-09-09T03:32:29Z"
+  },
+  {
+    "title": "Trump says firefighters near ground zero carried him to safety \u2018right after\u2019 9/11 attacks",
+    "description": "Trump, who said that he was \u201cdown there right after this happened,\u201d later said on Truth Social that he was not at the World Trade Center \u201con the same day as the collapse, but shortly thereafter.\u201d",
+    "link": "https://www.nbcnews.com/politics/donald-trump/firefighters-ground-zero-right-after-september-11-attacks-rcna596723",
+    "timestamp": "2026-09-09T03:31:51Z"
+  },
+  {
+    "title": "Trump Edits His List of Greatest US Presidents",
+    "description": "President Donald Trump has shared a revised version of his ranking of U.S. presidents, expanding a chart he posted days earlier that placed himself alone in a category labeled \"The Greatest\" above Abraham Lincoln, George Washington and Franklin D. Roosevelt. \u2026",
+    "link": "https://freerepublic.com/focus/f-bloggers/4394774/posts",
+    "timestamp": "2026-09-09T03:31:36Z"
+  },
+  {
+    "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
+    "description": "President Donald Trump has given substantial holiday gifts to four White House aides, according to financial disclosures released by the administration",
+    "link": "https://abcnews.com/US/wireStory/trump-gave-45000-holiday-gifts-natalie-harp-white-136292284",
+    "timestamp": "2026-09-09T03:26:02Z"
+  },
+  {
+    "title": "Senior Trump Adviser Rips Fox News Over Bartiromo Ouster in Splashy Interview: Not \u2018Friendly to MAGA!\u2019",
+    "description": "Peter Navarro ripped Fox News over the ouster of Maria Bartiromo, telling Newsmax's Greg Kelly that the network \u201chas not treated Donald Trump very well.\"\nThe post Senior Trump Adviser Rips Fox News Over Bartiromo Ouster in Splashy Interview: Not \u2018Friendly to \u2026",
+    "link": "https://www.mediaite.com/media/news/senior-trump-adviser-rips-fox-news-over-bartiromo-ouster-in-splashy-interview-not-friendly-to-maga/",
+    "timestamp": "2026-09-09T03:12:57Z"
+  },
+  {
+    "title": "Democrat Bekki Brewer Deletes Photo With '8647' Trump Sign",
+    "description": "Missouri House candidate Bekki Brewer is pushing back against claims that an \u201c8647\u201d sign pictured alongside her advocated violence against President Donald Trump, saying it referred to the 25th Amendment and that she has \u201cnever and will never\u201d support politic\u2026",
+    "link": "https://biztoc.com/x/ea098ea72edb14e4",
+    "timestamp": "2026-09-09T03:10:26Z"
+  },
+  {
+    "title": "Trump escalates trade war with Canada with import bans, 50% tariffs",
+    "description": "US President Trump has announced new import bans and 50% tariffs on some Canadian goods as tensions between the two countries intensify. This comes a day after Ottawa's retaliatory tariffs on US products took effect.",
+    "link": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010",
+    "timestamp": "2026-09-09T03:10:00Z"
+  },
+  {
+    "title": "Federal Film & TV Tax Credits Not A Done Deal, Adam Schiff Says; White House Involved: \u201cNegotiations Are Ongoing\u201d",
+    "description": "EXCLUSIVE The elusive goal is in sight but the finish line is still a way off in the race to get a federal film and TV tax incentive bill passed and signed into law by Donald Trump, California\u2019s junior senator says. \u00a0\u201cOver the past two years, Senator Adam Sch\u2026",
+    "link": "http://deadline.com/2026/09/federal-film-tv-tax-credits-latest-1237071772/",
+    "timestamp": "2026-09-09T03:02:54Z"
+  },
+  {
+    "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
+    "description": "The United States is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two nations escalates.\nThe ban will take effect in three weeks and comes after Canada imposed reta\u2026",
+    "link": "https://www.business-standard.com/world-news/us-bans-canadian-dairy-alcohol-and-motorcycles-as-trade-war-escalates-126090900094_1.html",
+    "timestamp": "2026-09-09T02:57:33Z"
+  },
+  {
+    "title": "India takes muted approach to BRICS summit as geopolitical tensions rise",
+    "description": "India is keeping its BRICS summit low-key amid strained US ties, tensions with China and a more challenging geopolitical environment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-09/india-shuns-pomp-in-favor-of-restraint-at-subdued-brics-summit",
+    "timestamp": "2026-09-09T02:47:27Z"
+  },
+  {
+    "title": "US destroys 5 Iranian oil tankers after missile attacks on Navy warship",
+    "description": "The US military has destroyed five Iranian crude oil tankers following attacks on a US warship by Iran's Revolutionary Guard, US Central Command said in a social media post on Tuesday.\nThe US strikes were in response to two Iranian efforts to hit the warship \u2026",
+    "link": "https://www.business-standard.com/world-news/us-destroys-5-iranian-oil-tankers-after-missile-attacks-on-navy-warship-126090900083_1.html",
+    "timestamp": "2026-09-09T02:45:08Z"
+  },
+  {
+    "title": "US reading scores hit near-25-year low in latest global assessment",
+    "description": "Scores among US 15-year-olds dropped 14 points from 2022, as the Trump administration pushes for 'school choice'.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment",
+    "timestamp": "2026-09-09T02:36:44Z"
+  },
+  {
+    "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+    "description": "The Chinese companies copied U.S. AI labs' intellectual property through a technique known \u200cas distillation, according \u2060to \u2060a statement from U.S. law enforcement and intelligence officials. Distillation is the process of training \u200bsmaller AI models using outp\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology/articleshow/133949650.cms",
+    "timestamp": "2026-09-09T02:34:05Z"
+  },
+  {
+    "title": "Kaitlan Collins Makes Ted Cruz Watch JD Vance Talking About Him: \u2018Do You Think He Meant What He Said?\u2019",
+    "description": "CNN's Kaitlan Collins made Sen. Ted Cruz sit and watch a clip of Vice President JD Vance answering an awkward question about the 2028 presidential race.\u00a0\nThe post Kaitlan Collins Makes Ted Cruz Watch JD Vance Talking About Him: \u2018Do You Think He Meant What He \u2026",
+    "link": "https://www.mediaite.com/media/tv/kaitlan-collins-makes-ted-cruz-watch-jd-vance-talking-about-him-do-you-think-he-meant-what-he-said/",
+    "timestamp": "2026-09-09T02:23:26Z"
+  },
+  {
+    "title": "EXCLUSIVE: Mitch McConnell\u2019s Wife Elaine Chao Held Appointments From Chinese Communist Party Organizations While Serving In Cabinet",
+    "description": "Chinese Communist Party (CCP) officials appointed Sen. Mitch McConnell\u2019s wife to multiple government positions, many of which partially overlapped with her two U.S. Cabinet posts, according to Chinese government and state media reports unearthed by the Daily \u2026",
+    "link": "https://freerepublic.com/focus/f-news/4394771/posts",
+    "timestamp": "2026-09-09T02:19:36Z"
+  },
+  {
+    "title": "Trump makes BOGUS claim about being pulled from rubble during 9/11 recovery effort",
+    "description": "At an event meant to honor the victims and heroes of 9/11, Donald Trump shared a bizarre and baseless story about how he ...",
+    "link": "https://biztoc.com/x/adb7a9408c6780cc",
+    "timestamp": "2026-09-09T02:17:18Z"
+  },
+  {
+    "title": "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
+    "description": "A separate federal court ruling, however, contradicts the Supreme Court judgement, leaving the map up in the air.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/us-supreme-court-rejects-missouri-bid-to-reactivate-gop-backed-voting-map",
+    "timestamp": "2026-09-09T02:15:08Z"
+  },
+  {
+    "title": "Taiwan Strait conflict could hit global economy harder than World War Two, US envoy warns",
+    "description": "A US diplomat warned of a Taiwan Strait conflict's severe global economic impact.  He stated that any conflict would surpass World War Two's economic damage.  The upcoming US-China summit offers a chance to prevent misunderstandings and miscalculations.  The \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/taiwan-strait-conflict-could-hit-global-economy-harder-than-world-war-two-us-envoy-warns/articleshow/133949098.cms",
+    "timestamp": "2026-09-09T02:14:20Z"
+  },
+  {
+    "title": "Michael Goodwin: Mamdani\u2019s toxic Ground Zero blame game just latches on to still-open 9/11 wounds to boost himself",
+    "description": "The 25th anniversary of the horrific events of 9/11 will be, as it must, a somber reminder of those we lost on the deadliest day in American history.",
+    "link": "https://nypost.com/2026/09/08/opinion/michael-goodwin-mamdanis-toxic-ground-zero-blame-game-just-latches-on-to-still-open-9-11-wounds-to-boost-himself/",
+    "timestamp": "2026-09-09T02:11:41Z"
+  },
+  {
+    "title": "World's highest paid Prime Minister received a 64% pay hike earning seven times more than US President Donald Trump",
+    "description": "Singapore has approved a 64 percent salary hike for Prime Minister Lawrence Wong, taking his annual pay to S$3.6 million (around $2.8 million), roughly seven times what US President Donald Trump earns. Wong, who already held the title of the world's highest p\u2026",
+    "link": "https://economictimes.indiatimes.com/news/new-updates/worlds-highest-paid-prime-minister-receieved-a-64-percent-pay-hike-earning-seven-times-more-than-us-president-donald-trump/articleshow/133948766.cms",
+    "timestamp": "2026-09-09T01:57:23Z"
+  },
+  {
+    "title": "US Government suspends Cognizant\u2019s PERM applications for foreign workers",
+    "description": "The US Department of Labour has suspended Cognizant\u2019s PERM applications, citing possible fraud amid a wider crackdown on employment-related immigration programmes.",
+    "link": "https://www.thehindubusinessline.com/info-tech/us-government-suspends-cognizants-perm-applications-for-foreign-workers/article71445405.ece",
+    "timestamp": "2026-09-09T01:53:09Z"
+  },
+  {
+    "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
+    "description": "Show creators Trey Parker and Matt Stone said in a statement that they were \"inspired by the bravery and patriotism of Apple and Google.\"",
+    "link": "https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html",
+    "timestamp": "2026-09-09T01:52:10Z"
+  },
+  {
+    "title": "\u2018Energiser\u2019 or \u2018circus\u2019: US voters weigh in on Trump\u2019s midterm convention",
+    "description": "The atypical event underscores the significance of Texas, long a Republican stronghold, in November's midterm elections.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention",
+    "timestamp": "2026-09-09T01:50:35Z"
+  },
+  {
+    "title": "Trump Launches Back-to-Back Attacks on \u20183rd Rate\u2019 Kaitlan Collins and \u2018Unattractive\u2019 Maggie Haberman",
+    "description": "\"Fake News is getting worse and worse in the U.S.A.,\" the president writes\nThe post Trump Launches Back-to-Back Attacks on \u20183rd Rate\u2019 Kaitlan Collins and \u2018Unattractive\u2019 Maggie Haberman appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/journalism/trump-attacks-kaitlan-collins-maggie-haberman-truth-social/",
+    "timestamp": "2026-09-09T01:50:23Z"
+  },
+  {
+    "title": "Rubio promises security cooperation to Colombia's new president",
+    "description": "US Secretary of State Marco Rubio met with Colombia's new president, Abelardo De La Espriella. They discussed enhancing security cooperation against drug trafficking and improving economic ties.  Colombia seeks US assistance with aircraft, radar, and anti-mon\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/marco-rubio-pledges-strengthened-us-colombia-security-ties-under-president-de-la-espriella/articleshow/133948584.cms",
+    "timestamp": "2026-09-09T01:48:48Z"
+  },
+  {
+    "title": "Berlin slams Kiev for not spending aid cash on German guns",
+    "description": "Foreign Minister Johann Wadephul has criticized Kiev for failing to spend enough of its Western-provided procurement money on German weapons, arguing that Berlin\u2019s support for Ukraine should at least benefit its defense industry",
+    "link": "https://www.rt.com/news/645298-kiev-not-buying-german-weapons/",
+    "timestamp": "2026-09-09T01:42:26Z"
+  },
+  {
+    "title": "JB Pritzker: Trump Sounds Like He Is 'Truly Out of His Mind'",
+    "description": "Tuesday on MS NOW\u2019s \u201cThe Briefing,\u201d Gov. JB Pritzker (D-IL) said President Donald Trump sounds like he is \u201ctruly out of his mind.\u201d Earlier at a 9/11 event, Trump said, \u201cThe United States Steel building was creaking, really creaking, and\nThe post JB Pritzker: \u2026",
+    "link": "https://www.breitbart.com/clips/2026/09/08/jb-pritzker-trump-sounds-like-he-is-truly-out-of-his-mind/",
+    "timestamp": "2026-09-09T01:42:18Z"
+  },
+  {
+    "title": "College Football Powerhouse May Be Expelled From Conference, Here\u2019s Why",
+    "description": "The Southeastern Conference (SEC) filed an amended complaint Tuesday morning in an Alabama federal court, showing it\u2019s prepared to take the extraordinary step of expelling LSU from the conference. The conference presidents have scheduled a vote on whether to \u2026",
+    "link": "https://freerepublic.com/focus/f-chat/4394766/posts",
+    "timestamp": "2026-09-09T01:39:37Z"
+  },
+  {
+    "title": "US Banning Dairy Products, Most Alcoholic Beverages And Motorcycles From Canada",
+    "description": "The U.S. is banning dairy products, most alcoholic beverages and some motorcycles as the trade war escalates.",
+    "link": "https://www.huffpost.com/entry/us-banning-dairy-products-most-alcoholic-beverages-and-motorcycles-from-canada_n_6aa0b75be4b0307636054eb0",
+    "timestamp": "2026-09-09T01:39:09Z"
+  },
+  {
     "title": "GOP to rail against \u2018socialist\u2019 Dems at Dallas midterm convention \u2014 as some fear \u2018Trump-a-Palooza\u2019 backlash",
     "description": "The two-day gathering \u2014 nicknamed \u201cTrump-a-Palooza\u201d \u2014 offers free publicity for Republicans as they attempt to brand Democrats as \"socialists\" and features a slew of fundraising events to help the party grow its already large cash advantage to beat back bleak\u2026",
     "link": "https://nypost.com/2026/09/08/us-news/gop-to-rail-against-socialist-dems-at-dallas-midterm-convention-as-some-fear-trump-a-palooza-backlash/",
@@ -40,563 +598,5 @@
     "description": "South Park is once again taking aim at President Donald Trump, as the show's upcoming 29th season has seen the series officially renamed South America. You can find out more here!",
     "link": "https://comicbookmovie.com/animated-features/south-park-is-being-retitled-south-america-for-season-29-following-recent-emmy-win-a229783",
     "timestamp": "2026-09-09T01:06:48Z"
-  },
-  {
-    "title": "Trump Remembers 9/11 Ahead of 25th Anniversary, Awards Presidential Medal of Freedom to 'Man in the Red Bandana'",
-    "description": "WASHINGTON\u2014President Donald Trump on Tuesday remembered the September 11, 2001, terrorist attacks ahead of the 25th anniversary on Friday, and presented a posthumous Presidential Medal of Freedom to\u00a0Welles Crowther, who saved 18 lives in the South Tower.\u00a0\nThe\u2026",
-    "link": "https://www.breitbart.com/politics/2026/09/08/trump-remembers-9-11-ahead-of-25th-anniversary-awards-presidential-medal-of-freedom-to-man-in-the-red-bandana/",
-    "timestamp": "2026-09-09T01:06:39Z"
-  },
-  {
-    "title": "US accuses Chinese AI firms of malicious copying ahead of Trump-Xi meeting",
-    "description": "The U.S. accusations against Chinese AI firms could heighten geopolitical tensions, affecting diplomatic relations and market dynamics.\nThe post US accuses Chinese AI firms of malicious copying ahead of Trump-Xi meeting appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/us-accuses-chinese-ai-firms-of-malicious-copying-ahead-of-trump-xi-meeting/",
-    "timestamp": "2026-09-09T01:03:15Z"
-  },
-  {
-    "title": "Trump hails AfD's election win in Germany",
-    "description": "United States President Donald Trump praised Germany's Alternative for Germany (AfD) party following its recent victory in the Saxony-Anhalt state election.Trump blamed Germany's immigration rules for...",
-    "link": "https://biztoc.com/x/144a8ca0d7e41b80",
-    "timestamp": "2026-09-09T00:54:19Z"
-  },
-  {
-    "title": "Trump announces bans on some Canadian alcohol and new tariffs on cheese and other goods as trade war continues to escalate",
-    "description": "President Donald Trump announced new tariffs and some outright bans on Canadian goods.\nKent NISHIMURA / AFP via Getty Images\nPresident Donald Trump on Tuesday announced new tariffs on Canadian goods like cheese and furniture.\nHe also announced outright bans o\u2026",
-    "link": "https://biztoc.com/x/4c7bc5d058d4c126",
-    "timestamp": "2026-09-09T00:54:17Z"
-  },
-  {
-    "title": "Trump pushes Congress for CLARITY Act as $1B crypto stake draws scrutiny",
-    "description": "Trump's push for the CLARITY Act could accelerate regulatory clarity in crypto, impacting market dynamics and raising ethical concerns.\nThe post Trump pushes Congress for CLARITY Act as $1B crypto stake draws scrutiny appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/trump-pushes-congress-for-clarity-act-as-1b-crypto-stake-draws-scrutiny/",
-    "timestamp": "2026-09-09T00:52:40Z"
-  },
-  {
-    "title": "US bans Canadian dairy, motorcycles and alcohol imports as trade war deepens",
-    "description": "The United States is banning Canadian dairy products and motorcycles. This action escalates the ongoing trade war between the two nations. Canada previously imposed retaliatory tariffs on American imports earlier today. Prime Minister Mark Carney vowed to red\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-bans-canadian-dairy-motorcycles-and-alcohol-imports-as-trade-war-deepens/articleshow/133947629.cms",
-    "timestamp": "2026-09-09T00:52:19Z"
-  },
-  {
-    "title": "More price hikes courtesy of the affordability president",
-    "description": "The retaliatory Canadian tariffs have officially kicked in, and Trump has of course responded with more taxes: President\u00a0Donald Trump\u00a0responded to new tariffs on U.S. exports Tuesday by announcing bans on U.S. imports of Canadian motorcycles, dairy products a\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2026/09/more-price-hikes-courtesy-of-the-affordability-president",
-    "timestamp": "2026-09-09T00:50:04Z"
-  },
-  {
-    "title": "'South Park' Trump Obsession Continues With 'South America' Name Change",
-    "description": "Animated satire series\u00a0\"South Park\" said Tuesday it was changing its name to \u201cSouth America,\u201d in an apparent dig at US President Donald Trump\u2019s bid to rename swathes of the world.\nThe post \u2018South Park\u2019 Trump Obsession Continues With \u2018South America\u2019 Name Chang\u2026",
-    "link": "https://www.breitbart.com/entertainment/2026/09/08/south-park-trump-obsession-continues-with-south-america-name-change/",
-    "timestamp": "2026-09-09T00:44:35Z"
-  },
-  {
-    "title": "US bans Canadian dairy, alcohol and motorcycles amid tariff retaliation",
-    "description": "The latest measures deepen a rupture between two closely integrated economies as Ottawa seeks greater independence from its largest trading partner.",
-    "link": "https://www.thehindubusinessline.com/news/world/us-bans-canadian-dairy-alcohol-and-motorcycles-amid-tariff-retaliation/article71445361.ece",
-    "timestamp": "2026-09-09T00:43:59Z"
-  },
-  {
-    "title": "Trump announces bans on some Canadian alcohol and new tariffs on cheese and other goods as trade war continues to escalate",
-    "description": "President Donald Trump escalated the trade war with Canada, ordering bans on alcohol and new tariffs on cheese and other goods.",
-    "link": "https://www.businessinsider.com/trump-bans-alcohol-tariffs-cheese-us-canada-trade-war-escalation-2026-9#article",
-    "timestamp": "2026-09-09T00:43:58Z"
-  },
-  {
-    "title": "US strikes multiple Iranian tankers amid fresh tit-for-tat attacks",
-    "description": "The US struck multiple Iranian tankers after attempted missile attacks on a Navy warship, while Iran warned tanker crews of possible retaliation.",
-    "link": "https://www.thehindubusinessline.com/news/world/us-strikes-multiple-iranian-tankers-amid-fresh-tit-for-tat-attacks/article71445363.ece",
-    "timestamp": "2026-09-09T00:40:08Z"
-  },
-  {
-    "title": "Los Altos History Museum, Google, TikTok, More: Tuesday ResearchBuzz, September 8, 2026",
-    "description": "EVENTS Los Altos History Museum: How America\u2019s Story is Told: History Museum Reveals Curatorial Process. \u201cLos Altos History Museum invites the public to go behind the scenes and learn how the Museum [\u2026]",
-    "link": "https://researchbuzz.me/2026/09/08/los-altos-history-museum-google-tiktok-more-tuesday-researchbuzz-september-8-2026/",
-    "timestamp": "2026-09-09T00:39:00Z"
-  },
-  {
-    "title": "Clancy jurors reveal the evidence that convinced them mom was not guilty of murder before lone holdout forced mistrial",
-    "description": "Three women who served as jurors in the Lindsay Clancy trial have opened up about their decision to find the mother-of-three not guilty of murder before one holdout juror forced a mistrial.",
-    "link": "https://www.dailymail.com/news/article-16116063/Lindsay-Clancy-jurors-evidence-not-guilty.html",
-    "timestamp": "2026-09-09T00:35:53Z"
-  },
-  {
-    "title": "US imposes fresh sanctions on Iran\u2019s aviation industry",
-    "description": "The US has sanctioned 36 entities linked to Iran\u2019s aviation sector, targeting airlines and cargo providers as Washington steps up pressure on Tehran.",
-    "link": "https://www.thehindubusinessline.com/news/world/us-imposes-fresh-sanctions-on-irans-aviation-industry/article71445367.ece",
-    "timestamp": "2026-09-09T00:35:48Z"
-  },
-  {
-    "title": "U.S. military says it destroyed 5 more Iranian oil tankers in latest escalation",
-    "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to recent attacks on its warships, and Tehran says it hit back at American targets in Jordan, in the latest burst of back-and-forth strikes in a more than six-month-old war.",
-    "link": "https://www.cbc.ca/news/world/us-military-5-oil-tankers-iran-strikes-jordan-9.7336574",
-    "timestamp": "2026-09-09T00:33:56Z"
-  },
-  {
-    "title": "US destroys 5 Iranian crude oil tankers following attacks on navy warship",
-    "description": "United States forces said it targeted and destroyed five Iranian oil tankers, sharply escalating tensions. In retaliation, Iran fired missiles toward American positions in Jordan, though the majority were intercepted by Jordan's air defence systems. Adding to\u2026",
-    "link": "https://economictimes.indiatimes.com/news/defence/us-destroys-5-iranian-crude-oil-tankers-following-attacks-on-navy-warship/articleshow/133947202.cms",
-    "timestamp": "2026-09-09T00:33:33Z"
-  },
-  {
-    "title": "Trump-backed candidate wins high-stakes GOP primary for New Hampshire battleground district",
-    "description": "Donald Trump endorsed Anthony DiLorenzo defeated Novel Iron Works owner Hollie Noveletsky and state Rep. Brian Cole to clinch the GOP nomination for the Granite State's 1st Congressional District.",
-    "link": "https://www.foxnews.com/politics/trump-backed-candidate-wins-high-stakes-gop-primary-new-hampshire-battleground-district",
-    "timestamp": "2026-09-09T00:30:09Z"
-  },
-  {
-    "title": "'There's no low for him': Conservative blasts Trump's attempt to 'corrupt' 9/11",
-    "description": "Conservative columnist S.E. Cupp didn't hold back when she was asked about President Donald Trump's comments on 9/11 during a ceremony Tuesday. Trump spoke at an event honoring 9/11 first responders, where he claimed that he was pulled from the rubble of the \u2026",
-    "link": "https://www.rawstory.com/trump-911-2677834054/",
-    "timestamp": "2026-09-09T00:27:54Z"
-  },
-  {
-    "title": "Anthony DiLorenzo Wins Primary in Boost to Donald Trump",
-    "description": "President Donald Trump was dealt a victory after his endorsed candidate Anthony DiLorenzo won the Republican primary in New Hampshire\u2019s 1st Congressional District on Tuesday.\nDiLorenzo defeated Hollie Noveletsky, who served as the former vice chair of the New\u2026",
-    "link": "https://biztoc.com/x/b8063bd877f63f9e",
-    "timestamp": "2026-09-09T00:23:56Z"
-  },
-  {
-    "title": "Carney warns of tough times ahead in national address as retaliatory tariffs begin",
-    "description": "Carney spent much of the video laying out Canada's response to Trump's protectionist trade policies, including expanding trade with other countries and building more capacity domestically. But he said it \"won't be easy.\"",
-    "link": "https://www.nationalobserver.com/2026/09/08/news/carney-warns-tough-times-ahead-national-address-retaliatory-tariffs-begin",
-    "timestamp": "2026-09-09T00:20:37Z"
-  },
-  {
-    "title": "Trump DOJ intensifies revenge 'conspiracy' probe with new round of subpoenas: report",
-    "description": "President Donald Trump\u2019s Justice Department is escalating an investigation targeting former officials involved in examining his ties to Russia to prove an \u201cintelligence community conspiracy\u201d against the president. Federal prosecutors are issuing subpoenas tha\u2026",
-    "link": "https://www.rawstory.com/trump-russia-2677833932/",
-    "timestamp": "2026-09-09T00:20:36Z"
-  },
-  {
-    "title": "GOP voters rally around businesswoman as they try to flip crucial House seat red",
-    "description": "Lily Tang Williams and Victor Orlando battled in New Hampshire's 2nd Congressional District GOP primary to flip the seat held by Maggie Goodlander.",
-    "link": "https://www.foxnews.com/politics/gop-voters-rally-around-businesswoman-try-flip-crucial-house-seat",
-    "timestamp": "2026-09-09T00:19:17Z"
-  },
-  {
-    "title": "Why Biden administration renamed 650 geographic features",
-    "description": "The claim circulated amid U.S. President Donald Trump's rechristenings of major geographical landmarks.",
-    "link": "https://www.snopes.com//fact-check/biden-rename-geographic-features/",
-    "timestamp": "2026-09-09T00:15:00Z"
-  },
-  {
-    "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
-    "description": "The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.",
-    "link": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america",
-    "timestamp": "2026-09-09T00:14:22Z"
-  },
-  {
-    "title": "Incumbent GOP governor rolls to primary victory after keeping Trump at a distance",
-    "description": "Kelly Ayotte cruised past Republican primary challengers, setting up a high-stakes New Hampshire governor's race against Democrat Cinde Warmington.",
-    "link": "https://www.foxnews.com/politics/incumbent-gop-governor-rolls-primary-victory-keeping-trump-distance",
-    "timestamp": "2026-09-09T00:14:00Z"
-  },
-  {
-    "title": "Rep. Bacon: Trump's Tariffs Will Hurt GOP in Midterms",
-    "description": "Tuesday on CNN\u2019s \u201cThe Lead,\u201d Rep. Don Bacon (R-NE) said President Donald Trump\u2019s tariffs will hurt Republican candidates, especially in the Midwest where they are \u201cnot popular.\u201d Anchor Jake Tapper said, \u201cSo Congressman Bacon, let\u2019s talk about beef, because bo\u2026",
-    "link": "https://www.breitbart.com/clips/2026/09/08/rep-bacon-trumps-tariffs-will-hurt-gop-in-midterms/",
-    "timestamp": "2026-09-09T00:13:36Z"
-  },
-  {
-    "title": "Patrick Clancy threatens to sue cruel TikTokers peddling 'falsehoods' about his children's murders",
-    "description": "Despite a trial focused almost entirely on Lindsay Clancy's state of mind, social media users spent five weeks building their own narrative, much of it centered on her ex-husband, Patrick.",
-    "link": "https://www.dailymail.com/crime-desk/article-16115649/Patrick-Clancy-threatens-sue-social-media-falsehoods-childrens-murders.html",
-    "timestamp": "2026-09-09T00:10:25Z"
-  },
-  {
-    "title": "Trump escalates trade war with Canada, moving to ban the import of some autos, dairy and alcohol",
-    "description": "President Donald Trump on Tuesday moved to sharply escalate the trade war with Canada, seeking to block the import of some autos, dairy products and alcohol.",
-    "link": "https://biztoc.com/x/4f3388419dd6b265",
-    "timestamp": "2026-09-09T00:09:03Z"
-  },
-  {
-    "title": "US issues new import bans on Canadian goods",
-    "description": "United States President Donald Trump signed new proclamations adjusting tariffs and banning specific Canadian imports, including alcohol, motor vehicles and dairy, effective September 29, the White Ho...",
-    "link": "https://biztoc.com/x/608a1a3dccf2ae8e",
-    "timestamp": "2026-09-09T00:08:57Z"
-  },
-  {
-    "title": "Ex-GOP senator clears hurdle in crucial comeback bid as Republicans try to flip key Senate seat",
-    "description": "John E. Sununu defeated Scott Brown for the GOP Senate nomination in New Hampshire, a key race that could determine Republican majority control.",
-    "link": "https://www.foxnews.com/politics/ex-gop-senator-clears-hurdle-crucial-comeback-bid-republicans-try-flip-key-senate-seat",
-    "timestamp": "2026-09-09T00:08:03Z"
-  },
-  {
-    "title": "John Sununu, Chris Pappas win New Hampshire Senate primaries in race to replace Jeanne Shaheen",
-    "description": "Winning the New Hampshire Senate election this fall will be critical for Democrats.",
-    "link": "https://nypost.com/2026/09/08/us-news/john-sununu-and-chris-pappas-win-new-hampshire-senate-primaries-in-race-to-replace-jeanne-shaheen/",
-    "timestamp": "2026-09-09T00:06:24Z"
-  },
-  {
-    "title": "Trump dragging GOP to his 'happy place' a sign he doesn't see the wipeout ahead: analysis",
-    "description": "President Donald Trump's efforts to drag the GOP to his \"happy place\" in Dallas, Texas, this week are another sign that he doesn't see the oncoming wave that the midterms could bring, according to a new analysis. Veteran journalist Dan Rather argued in a new \u2026",
-    "link": "https://www.rawstory.com/trump-midterms-2677833875/",
-    "timestamp": "2026-09-09T00:03:08Z"
-  },
-  {
-    "title": "Chris Pappas will face former Sen. John E. Sununu in New Hampshire Senate race, CNN projects | CNN Politics",
-    "description": "Democratic Rep. Chris Pappas will face Republican former Sen. John E. Sununu in the race for New Hampshire\u2019s open Senate seat, CNN\u2019s Decision Desk projects.",
-    "link": "https://www.cnn.com/2026/09/08/politics/new-hampshire-primaries-results",
-    "timestamp": "2026-09-09T00:02:29Z"
-  },
-  {
-    "title": "'He's crazy and he's very powerful': Why Elon Musk - the richest man in the world - could also be the most dangerous... as former partners and friends tell ALISON BOSHOFF what he's really like... and his world domination plans",
-    "description": "He grew up the son of a model and engineer in Pretoria, South Africa, before heading to the University of Pennsylvania, then Stanford where he started his fabled career in tech.",
-    "link": "https://www.dailymail.com/news/article-16115337/Elon-Musk-richest-man-world-dangerous-ALISON-BOSHOFF.html",
-    "timestamp": "2026-09-09T00:00:52Z"
-  },
-  {
-    "title": "The King has slapped down Harry and Meghan... but this is the biggest revelation from his public letter. Finally, someone's put them in their place: SARAH VINE",
-    "description": "'Surprised?' What do the Duke and Duchess of Sussex mean, exactly, by 'surprised'?",
-    "link": "https://www.dailymail.com/columnists/article-16115259/King-Harry-Meghan-revelation-public-letter-SARAH-VINE.html",
-    "timestamp": "2026-09-09T00:00:49Z"
-  },
-  {
-    "title": "Republican Chris Sununu and Democrat Chris Pappas win New Hampshire Senate primaries, setting up battleground race",
-    "description": "The battleground New Hampshire Senate race is set between Republican former Sen. John Sununu and Democratic Rep. Chris Pappas, NBC News projects, after both prevailed in their primaries Tuesday night.",
-    "link": "https://www.nbcnews.com/politics/2026-election/chris-pappas-john-sununu-new-hampshire-senate-primary-winner-rcna596479",
-    "timestamp": "2026-09-09T00:00:10Z"
-  },
-  {
-    "title": "Hello Equal Earth: what the UN's new world map will change",
-    "description": "What the UN vote to ditch the Mercator projection means for education, navigation and public perception.",
-    "link": "https://www.nature.com/articles/d41586-026-02820-x",
-    "timestamp": "2026-09-09T00:00:00Z"
-  },
-  {
-    "title": "The Associated Press says it will still refer to Lake Ontario, not Lake America",
-    "description": "The AP said as a global news agency it must ensure place names are easily recognizable to broad audiences, noting Canada has said it will not be following the name change decreed by US President Donald Trump in an executive order.",
-    "link": "https://www.nationalobserver.com/2026/09/08/news/associated-press-says-it-will-still-refer-lake-ontario-not-lake-america",
-    "timestamp": "2026-09-08T23:57:57Z"
-  },
-  {
-    "title": "US issues import bans on Canadian goods",
-    "description": "United States President Donald Trump signed new proclamations adjusting tariffs and banning specific Canadian imports, including alcohol, motor vehicles and dairy, effective September 29, the White Ho...",
-    "link": "https://biztoc.com/x/fb4162e56f419747",
-    "timestamp": "2026-09-08T23:54:13Z"
-  },
-  {
-    "title": "U.S. Destroys 5 IRGC \u2018Shadow Tankers\u2019 After Iran Targets Navy Warship \u2014 Tehran: Gulf Ships \u2018Will Be Targeted\u2019",
-    "description": "U.S. forces destroyed five IRGC-linked oil tankers Tuesday after Iran twice targeted an American warship with ballistic missiles, carrying out Washington\u2019s warning that continued attacks on the U.S. Navy would exact an increasingly steep price on Tehran\u2019s oil\u2026",
-    "link": "https://www.breitbart.com/politics/2026/09/08/u-s-destroys-5-irgc-shadow-tankers-after-iran-targets-navy-warship-tehran-gulf-ships-will-be-targeted/",
-    "timestamp": "2026-09-08T23:53:59Z"
-  },
-  {
-    "title": "Trump wants convention stage reserved for tight races",
-    "description": "United States President Donald Trump said speaking slots at the Republican National Convention (RNC) in Dallas should be reserved mainly for candidates facing close races.In a Truth Social post, he al...",
-    "link": "https://biztoc.com/x/78ca77ea31943358",
-    "timestamp": "2026-09-08T23:53:49Z"
-  },
-  {
-    "title": "Trump ramps up trade dispute against Canada, banning imports of booze, other products",
-    "description": "The five orders, which will take effect later this month, will completely bar the import of certain Canadian goods, also including motorcycles and some dairy products.",
-    "link": "https://www.nationalobserver.com/2026/09/08/news/trump-ramps-trade-dispute-against-canada-banning-imports-booze-other-products",
-    "timestamp": "2026-09-08T23:51:47Z"
-  },
-  {
-    "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-    "description": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country's economy.",
-    "link": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector",
-    "timestamp": "2026-09-08T23:51:29Z"
-  },
-  {
-    "title": "Middle East tensions push crude towards $100",
-    "description": "The global crude oil price is rising towards $100 per barrel as renewed fighting in the Middle East heightens fears of supply disruptions. Read more.\n\nRead More: https://punchng.com/middle-east-tensions-push-crude-towards-100/",
-    "link": "https://punchng.com/middle-east-tensions-push-crude-towards-100/",
-    "timestamp": "2026-09-08T23:50:10Z"
-  },
-  {
-    "title": "Trump escalates trade war with Canada, moving to ban the import of some autos, dairy and alcohol",
-    "description": "President Donald Trump on Tuesday moved to sharply escalate the trade war with Canada, seeking to block the import of some autos, dairy products and alcohol.",
-    "link": "https://www.nbcnews.com/business/economy/trump-escalates-trade-war-canada-moving-ban-import-autos-dairy-alcohol-rcna596666",
-    "timestamp": "2026-09-08T23:50:05Z"
-  },
-  {
-    "title": "Trump attacks Kaitlan Collins over unnamed panel of 'lies' in bizarre rant",
-    "description": "President Donald Trump jumped on his Truth Social platform Tuesday evening to rage against a prominent CNN anchor who has often created embarrassments for him.\"Very dumb and unhappy Fake News CNN 'reporter,' Kaitlan Collins (really low ratings, also!), had a \u2026",
-    "link": "https://www.rawstory.com/trump-kaitlan-collins-2677833826/",
-    "timestamp": "2026-09-08T23:46:33Z"
-  },
-  {
-    "title": "Ballots discounted for late postmarks surged in Washington, Oregon after USPS changes",
-    "description": "New data show the number of ballots rejected for late postmarks has soared in the vote-by-mail states of Washington and Oregon",
-    "link": "https://abcnews.com/Politics/wireStory/ballots-discounted-late-postmarks-surged-washington-oregon-after-136287975",
-    "timestamp": "2026-09-08T23:46:03Z"
-  },
-  {
-    "title": "US slaps import ban on Canadian alcohol and other goods",
-    "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
-    "timestamp": "2026-09-08T23:42:35Z"
-  },
-  {
-    "title": "South Park rebrands to \u2018South America,\u2019 mocking Trump over Lake Ontario executive order",
-    "description": "Comedy Central\u2019s \u201cSouth Park\u201d on Tuesday announced it is changing its name to \u201cSouth America\u201d for its upcoming season, a jab at President Donald Trump\u2019s recent executive order renaming Lake Ontario to \u201cLake America.\u201d\nIn a statement about its new name, the adu\u2026",
-    "link": "https://biztoc.com/x/ec48c84290ecd6a0",
-    "timestamp": "2026-09-08T23:38:26Z"
-  },
-  {
-    "title": "Trump lashes out at Albanese government over new social media laws",
-    "description": "Donald Trump has lashed out at Anthony Albanese's government.",
-    "link": "https://www.dailymail.com/news/article-16115997/trump-albanese-australia-social-media-laws.html",
-    "timestamp": "2026-09-08T23:36:52Z"
-  },
-  {
-    "title": "Trump banning import of Canadian booze, motorcycles, other goods into U.S.",
-    "description": "U.S. President Donald Trump is banning the import of Canadian alcohol, motorcycles and various other products into the U.S.",
-    "link": "https://www.cbc.ca/news/politics/trump-canadian-aclohol-banned-9.7336507",
-    "timestamp": "2026-09-08T23:31:05Z"
-  },
-  {
-    "title": "Trump Stalwart Slips Up And Reveals Republicans' True Feelings About Iran War",
-    "description": "Rep. James Comer whiffed on a question that was designed to defend the deeply unpopular conflict.",
-    "link": "https://www.huffpost.com/entry/james-comer-iran-war-not-many-republicans-happy_n_6aa077f7e4b086ecc55e37b7",
-    "timestamp": "2026-09-08T23:27:52Z"
-  },
-  {
-    "title": "How Trump Executive Orders Could Impact Veterans Benefits",
-    "description": "President Donald Trump has signed an executive order aimed at speeding up veterans' access to federal benefits and employment opportunities, with the administration promising to tackle delays caused by outdated government systems.\nThe order directs the Depart\u2026",
-    "link": "https://biztoc.com/x/51d8e02c0cd4bca9",
-    "timestamp": "2026-09-08T23:23:40Z"
-  },
-  {
-    "title": "'America Belongs to the People': No Kings Coalition Plans Oct. 17 Early Voting Action",
-    "description": "\"On October 17th, No Kings: Vote Early will show the billionaire elites attempting to destroy our country that We the People have the power by mobilizing turnout to make our elections too big for the evils of fascism and oligarchy to rig,\" according to Sarah \u2026",
-    "link": "https://www.commondreams.org/news/no-kings-protest",
-    "timestamp": "2026-09-08T23:21:11Z"
-  },
-  {
-    "title": "South Park Skewers Trump, Big Tech Enablers With Name Change to 'South America'",
-    "description": "For 28 seasons, viewers of one of history's most iconic animated television shows were greeted with the twangy, dissonant strains of a Primus-penned theme song with lyrics beginning, \"Going down to South Park, gonna have myself a time.\" But that might be abou\u2026",
-    "link": "https://www.commondreams.org/news/south-park-renamed-south-america",
-    "timestamp": "2026-09-08T23:18:30Z"
-  },
-  {
-    "title": "Poll: Rogers Takes Lead over Socialist El-Sayed in Michigan Senate Race",
-    "description": "Republican Mike Rogers leads Democrat Abdul El-Sayed in Michigan's open U.S. Senate race, according to a new survey that puts the contest in toss-up territory.\nThe post Poll: Rogers Takes Lead over Socialist El-Sayed in Michigan Senate Race appeared first on \u2026",
-    "link": "https://www.breitbart.com/politics/2026/09/08/poll-rogers-takes-lead-over-socialist-el-sayed-in-michigan-senate-race/",
-    "timestamp": "2026-09-08T23:15:07Z"
-  },
-  {
-    "title": "Man Accused Of Charging Toward Ohio Governor Candidate Wanted To Ask Questions: Prosecutor",
-    "description": "Patrick Havas, 38m pleaded not guilty to two counts of assault, one count of disorderly conduct and one count of inducing panic for his alleged charging of Dr. Amy Acton.",
-    "link": "https://www.huffpost.com/entry/prosecutor-details-mans-attempt-to-question-ohio-governor-candidate_n_6aa09499e4b0307636054672",
-    "timestamp": "2026-09-08T23:12:17Z"
-  },
-  {
-    "title": "New map could reshape the way you see the world",
-    "description": "For centuries, our understanding of nations across the globe has been laid out by a single map projection of the world. The United Nations just voted to change that.",
-    "link": "https://www.abc.net.au/news/2026-09-09/how-new-world-map-could-reshape-global-perceptions/107123916",
-    "timestamp": "2026-09-08T23:11:44Z"
-  },
-  {
-    "title": "US says Iranian tankers destroyed after ballistic missile attacks on American warship",
-    "description": "US Central Command says targeted tankers are part of a \u2018multibillion-dollar shadow network\u2019 that funds Iran\u2019s Revolutionary Guard",
-    "link": "https://www.irishtimes.com/world/middle-east/2026/09/09/us-says-iranian-tankers-destroyed-after-ballistic-missile-attacks-on-american-warship/",
-    "timestamp": "2026-09-08T23:11:18Z"
-  },
-  {
-    "title": "Chris Rock Declares Trump Got One Crucial Thing \u2018Right\u2019 That \u2018Almost Clears\u2019 Him of All Other \u2018Sins\u2019",
-    "description": "Comedian and filmmaker Chris Rock is no \"fan\" of President Donald Trump but he does credit him with getting one major thing right.\nThe post Chris Rock Declares Trump Got One Crucial Thing \u2018Right\u2019 That \u2018Almost Clears\u2019 Him of All Other \u2018Sins\u2019 first appeared on \u2026",
-    "link": "https://www.mediaite.com/media/entertainment/chris-rock-declares-trump-got-one-crucial-thing-right-that-almost-clears-him-of-all-other-sins/",
-    "timestamp": "2026-09-08T23:10:56Z"
-  },
-  {
-    "title": "Garda probe into reports of large drone off Wicklow coast",
-    "description": "A garda investigation is under way into reports of a large unidentified drone flying off the east coast, just days before the visit of US President Donald Trump to Ireland.",
-    "link": "https://www.rte.ie/news/ireland/2026/0909/1590825-drone-east-coast/",
-    "timestamp": "2026-09-08T23:06:55Z"
-  },
-  {
-    "title": "Investigation after large drone reported off east coast",
-    "description": "A garda investigation is under way into reports of a large unidentified drone flying off the east coast, just days before the visit of US President Donald Trump to Ireland.",
-    "link": "https://www.rte.ie/news/leinster/2026/0909/1590825-drone-east-coast/",
-    "timestamp": "2026-09-08T23:06:55Z"
-  },
-  {
-    "title": "Drone activity not on same scale as during Zelensky visit",
-    "description": "A security and defence analyst has said that he is not surprised by the reported sighting of a large unidentified drone off the east coast of Ireland.",
-    "link": "https://www.rte.ie/news/ireland/2026/0909/1590825-drone-irish-sea/",
-    "timestamp": "2026-09-08T23:06:55Z"
-  },
-  {
-    "title": "Mamdani\u2019s taxpayer-funded push to aid unions flies in the face of his \u2018affordability\u2019 agenda",
-    "description": "New York pols have long sucked up to local unions, but Mayor Zohran Mamdani is taking it to a new level.",
-    "link": "https://nypost.com/2026/09/08/opinion/mamdanis-taxpayer-funded-push-to-aid-unions-flies-in-the-face-of-his-affordability-agenda/",
-    "timestamp": "2026-09-08T23:06:19Z"
-  },
-  {
-    "title": "A study links prenatal acetaminophen with reproductive changes in girls. Doctors say it remains safe to use when needed",
-    "description": "A new study found that some girls born to mothers who took acetaminophen during pregnancy developed reproductive organ changes that could affect fertility la...",
-    "link": "https://www.cnn.com/2026/09/08/health/acetaminophen-pregnancy-reproductive-changes",
-    "timestamp": "2026-09-08T23:05:29Z"
-  },
-  {
-    "title": "SpaceX, Blue Origin and Other U.S. Firms Cancel Paris Space Summit Appearances",
-    "description": "Marcon's event is 'badly managed', has mainly been organized to showcase France, will not seriously direct European resources toward meaningful project support, and features European Commission President Ursula von der Leyen as a speaker.\nThe post SpaceX, Blu\u2026",
-    "link": "https://legalinsurrection.com/2026/09/spacex-blue-origin-and-other-u-s-firms-cancel-paris-space-summit-appearances/",
-    "timestamp": "2026-09-08T23:00:14Z"
-  },
-  {
-    "title": "Carney touts Canada 'pivot' away from USA...",
-    "description": "Canadian Prime Minister Mark Carney said Tuesday that reducing economic ties with the United States would come at a cost but the benefits were clear, as Pres...",
-    "link": "https://www.yahoo.com/news/politics/articles/canadas-counter-tariffs-effect-various-040331333.html",
-    "timestamp": "2026-09-08T23:00:12Z"
-  },
-  {
-    "title": "Canadians support hard line against U.S., but don't want to pay for it",
-    "description": "Tristin Hopper: A majority would not support a trade strategy that threatened their retirement savings or incurred even a small tax increase",
-    "link": "https://nationalpost.com/opinion/canadians-support-hard-line-against-u-s-but-dont-want-to-pay-for-it",
-    "timestamp": "2026-09-08T22:58:47Z"
-  },
-  {
-    "title": "Donald Trump Claims He Was Saved at 9/11 Site Despite Being Miles Away",
-    "description": "President Donald Trump claimed he was saved by 9/11 first responders despite being miles away from the devastating September 11, 2011, terrorist attack on New York City. \u201cI was building a big building in New York, and I took the whole crew down there right af\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-makes-false-claim-he-was-saved-during-9-11/",
-    "timestamp": "2026-09-08T22:57:50Z"
-  },
-  {
-    "title": "Ballots discounted for late postmarks surged in Washington and Oregon after Postal Service changes",
-    "description": "The number of ballots rejected for late postmarks has soared in the vote-by-mail states of Washington and Oregon, according to newly released data highlighti...",
-    "link": "https://www.yahoo.com/news/politics/articles/ballots-discounted-postmarks-surged-washington-225635435.html",
-    "timestamp": "2026-09-08T22:56:35Z"
-  },
-  {
-    "title": "Canadian tariffs on U.S. goods take effect, marking turning point in relations",
-    "description": "Canadian Prime Minister Mark Carney says Canada will move quickly to reduce its economic reliance on the United States as retaliatory tariffs took effect on roughly $20 billion worth of American goods. The tariffs match duties President Trump imposed on Canad\u2026",
-    "link": "https://www.pbs.org/newshour/show/canadian-tariffs-on-u-s-goods-take-effect-marking-turning-point-in-relations",
-    "timestamp": "2026-09-08T22:55:04Z"
-  },
-  {
-    "title": "U.S. trade war strengthens resistances in Canada as Carney retaliates with tariffs",
-    "description": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about US$20-billion worth of U.S. goods, in response to the latest round of tariffs on Canada. So far, Trump\u2019s pressure has backfired, strengthening support for Carney rather than fo\u2026",
-    "link": "https://biztoc.com/x/cc18906a62fb350c",
-    "timestamp": "2026-09-08T22:53:13Z"
-  },
-  {
-    "title": "Fox\u2019s Larry Kudlow Suggests Ted Cruz Announce Presidential Bid in November: \u2018You Might Wanna Think About It\u2019",
-    "description": "Fox Business host Larry Kudlow gave Sen. Ted Cruz some campaign advice on Tuesday, telling the former presidential contender to launch his next bid shortly after November's midterm elections.\u00a0\nThe post Fox\u2019s Larry Kudlow Suggests Ted Cruz Announce Presidentia\u2026",
-    "link": "https://www.mediaite.com/media/tv/foxs-larry-kudlow-suggests-ted-cruz-announce-presidential-bid-in-november-you-might-wanna-think-about-it/",
-    "timestamp": "2026-09-08T22:52:36Z"
-  },
-  {
-    "title": "'Everyone is upset!' Red state candidate calls Trump's jet threat a 'no-win' move",
-    "description": "President Donald Trump\u2019s threat to ban a Canadian aircraft manufacturer from the American market would be \u201ca disaster\u201d for workers in deep-red Kansas, the state\u2019s Democratic Senate nominee warned Tuesday.\u201cEveryone is upset about this!\u201d Adam Hamilton told CNN\u2019\u2026",
-    "link": "https://www.rawstory.com/canada-tariffs-2677833378/",
-    "timestamp": "2026-09-08T22:52:02Z"
-  },
-  {
-    "title": "Prosecutor says man accused of charging toward Ohio governor candidate wanted to ask questions",
-    "description": "An armed man accused of charging toward Ohio gubernatorial candidate Amy Acton during a campaign stop at a fair was trying to ask the Democrat questions, a p...",
-    "link": "https://www.yahoo.com/news/politics/articles/prosecutor-says-man-accused-charging-225029555.html",
-    "timestamp": "2026-09-08T22:50:29Z"
-  },
-  {
-    "title": "Exclusive \u2013 Secretary Scott Bessent: U.S. Bond Market Under Trump \u2018Best Performing in the World,\u2019 \u2018Inflation Expectations are Flat to Down\u2019",
-    "description": "The U.S. bond market under President Donald Trump is the \"best performing in the world\" and inflation expectations are \"flat to down,\" Treasury Secretary Scott Bessent said\u00a0during the Breitbart News \"State of the Economy\" policy event Tuesday.\nThe post Exclus\u2026",
-    "link": "https://www.breitbart.com/politics/2026/09/08/exclusive-secretary-scott-bessent-u-s-bond-market-under-trump-best-performing-in-the-world-inflation-expectations-are-flat-to-down/",
-    "timestamp": "2026-09-08T22:39:28Z"
-  },
-  {
-    "title": "Trump Approval Rating Falls Despite Stock Market Gains - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-    "description": "The approval rating for President Donald Trump has fallen in a new NBC News poll, with the handling of the Iran War contributing to the lower ratings.\nTrump\u2019s Approval Rating Falls\nSimilar to other polls in recent months, the approval rating of Trump continue\u2026",
-    "link": "https://biztoc.com/x/f293c76b036d4a12",
-    "timestamp": "2026-09-08T22:38:32Z"
-  },
-  {
-    "title": "Deion Sanders appears in new \u2018Primetime\u2019 TV ad in support of Protect College Sports Act",
-    "description": "During Week 1 of college football, a commercial starring Nick Saban aired in support of the Protect College Sports Act. Another ad is also set to debut, this time centered around Colorado head coach Deion Sanders. The new ad leans into Sanders\u2019 nickname, \u201cPri\u2026",
-    "link": "https://www.on3.com/nil/news/deion-sanders-appears-new-primetime-tv-ad-support-protect-college-sports-act/",
-    "timestamp": "2026-09-08T22:38:31Z"
-  },
-  {
-    "title": "Justice Kavanaugh Blocks Missouri's Bid to Use New Map For Midterms",
-    "description": "The United States Supreme Court denied an appeal Tuesday from Missouri state leaders to use a congressional district map used in recent primaries for November's midterm elections which was pushed for by President Donald Trump.\nThe dispute has become one of th\u2026",
-    "link": "https://biztoc.com/x/7dd38f98ff18cd75",
-    "timestamp": "2026-09-08T22:38:22Z"
-  },
-  {
-    "title": "New Court Documents Reveal Karmelo Anthony\u2019s Hateful Texts That Were Kept From The Jury In A Secret Deal",
-    "description": "The records include racist remarks, homophobic statements, and an apparent affinity for firearms.",
-    "link": "https://www.boredpanda.com/court-documents-reveal-secret-karmelo-anthony-texts/",
-    "timestamp": "2026-09-08T22:35:40Z"
-  },
-  {
-    "title": "Fact check: Trump\u2019s story about being carried away by firefighters after the 9/11 attack",
-    "description": "President Donald Trump has for years told false or unproven stories about what he supposedly saw and did on 9/11 and soon after. As the 25th anniversary of t...",
-    "link": "https://www.cnn.com/2026/09/08/politics/fact-check-trump-9-11-claims",
-    "timestamp": "2026-09-08T22:31:04Z"
-  },
-  {
-    "title": "Jimmy Kimmel's talk show coming to an end amid 'nasty feud' with Trump: report",
-    "description": "Late-night talk show host Jimmy Kimmel will reportedly see his show come to an end in 2027 amid a feud with President Donald Trump.On Tuesday, the New York Post's Page Six reported that \"Jimmy Kimmel Live!\" will air its final season in 2027. The end of his sh\u2026",
-    "link": "https://www.rawstory.com/jimmy-kimmel-trump-2677833441/",
-    "timestamp": "2026-09-08T22:30:36Z"
-  },
-  {
-    "title": "250+ Current, Former Lawmakers Urge Supreme Court to Block Trump Attack on Mail Voting",
-    "description": "With the midterm elections less than two months away, more than 250 current and former Members of Congress came together on Tuesday to pressure the US Supreme Court to block Republican President Donald Trump's March executive order on voting and its resulting\u2026",
-    "link": "https://www.commondreams.org/news/trump-mail-voting",
-    "timestamp": "2026-09-08T22:28:47Z"
-  },
-  {
-    "title": "Paramount Warns CA AG Bonta & WGA Of WBD Merger Fallout & \u201cFinancial\u00a0Consequences If Their\u00a0Challenge Ultimately Fails\u201d",
-    "description": "Just weeks before Paramount Skydance starts being on the hook for the much vaunted $7 million a day ticking fee to Warner Bros Discovery shareholders, the David Ellison-run company today pushed hard once again for the Writers Guild of America plus California \u2026",
-    "link": "http://deadline.com/2026/09/paramount-warns-california-merger-lawsuit-1237071462/",
-    "timestamp": "2026-09-08T22:25:17Z"
-  },
-  {
-    "title": "BREAKING: Jimmy Kimmel\u2019s Late Night Show Allegedly Ending After Next Season \u2013 But ABC Calls Reporting \u2018Speculative\u2019",
-    "description": "President Donald Trump may have reason to celebrate soon as Jimmy Kimmel's late night show is reportedly ending in 2027 after its next season.\nThe post BREAKING: Jimmy Kimmel\u2019s Late Night Show Allegedly Ending After Next Season \u2013 But ABC Calls Reporting \u2018Spec\u2026",
-    "link": "https://www.mediaite.com/media/entertainment/breaking-jimmy-kimmels-late-night-show-reportedly-ending-after-next-season/",
-    "timestamp": "2026-09-08T22:23:56Z"
-  },
-  {
-    "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
-    "description": "President Donald Trump will deliver a keynote speech Wednesday at a gathering of Republicans in Dallas, where a first-of-its-kind midterm convention is taking place.",
-    "link": "https://biztoc.com/x/604cd5195c89aeeb",
-    "timestamp": "2026-09-08T22:23:15Z"
-  },
-  {
-    "title": "Pink Becomes Internet\u2019s Latest Target After Series Of Controversial Posts Made Her Lose Fan Support",
-    "description": "American singer-songwriter Pink, real name Alecia Beth Moore, has faced several controversies throughout her music career, from the 2007 PETA scandal to more recent backlash from conservative circles over her criticism of President Donald Trump.",
-    "link": "https://www.boredpanda.com/pink-becomes-internets-latest-target-after-series-of-controversial-posts/",
-    "timestamp": "2026-09-08T22:23:12Z"
-  },
-  {
-    "title": "Lonnie Bunch, secretary of the Smithsonian Institution, announces retirement",
-    "description": "The move comes after the White House labeled Smithsonian leadership radicals",
-    "link": "https://www.salon.com/2026/09/08/lonnie-bunch-secretary-of-the-smithsonian-institution-announces-retirement/",
-    "timestamp": "2026-09-08T22:22:58Z"
-  },
-  {
-    "title": "Unidentified drone reported flying off Wicklow coast",
-    "description": "A large unidentified drone was reported flying off the east coast this evening, just days before the visit of US President Donald Trump to Ireland.",
-    "link": "https://www.rte.ie/news/leinster/2026/0908/1590825-drone-east-coast/",
-    "timestamp": "2026-09-08T22:21:20Z"
-  },
-  {
-    "title": "Papers: Hammer blow for Man Utd as target agrees new contract",
-    "description": "Latest transfer news and headlines include: Raheem Sterling and Jadon Sancho offered surprise lifeline; Brentford open negotiations with Kevin Schade over new deal; how Mikel Arteta convinced Miles Lewis-Skelly to stay at Arsenal; Derek McInnes says John Sout\u2026",
-    "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-    "timestamp": "2026-09-08T22:15:00Z"
-  },
-  {
-    "title": "National Guard Member Arrested For Pulling Gun On Fellow Guard Member",
-    "description": "Zion Mitchell, 21, a member of the Georgia National Guard deployed in Washington, D.C., allegedly drew the weapon in a dispute over regulation haircuts.",
-    "link": "https://www.huffpost.com/entry/national-guard-member-arrested-in-dc-for-gun-threat_n_6aa0869ee4b086ecc55e41ad",
-    "timestamp": "2026-09-08T22:12:55Z"
-  },
-  {
-    "title": "[Eugene Volokh] Donald Trump Hasn't Violated Twenty-Second Amendment",
-    "description": "Magistrate Judge rejects plaintiff's theory that, because President Trump has claimed he was the rightful winner in 2020, he was therefore ineligible in 2024.",
-    "link": "https://reason.com/volokh/2026/09/08/donald-trump-hasnt-violated-twenty-second-amendment/",
-    "timestamp": "2026-09-08T22:12:44Z"
-  },
-  {
-    "title": "Ivanka Trump and Kai Trump Are Telling Us Something Online. It\u2019s Just Not What You Think It Is.",
-    "description": "The horse video that ignited an all-American firestorm.",
-    "link": "https://slate.com/life/2026/09/ivanka-trump-horse-daughter-kai-florida.html",
-    "timestamp": "2026-09-08T22:12:27Z"
   }
 ]
