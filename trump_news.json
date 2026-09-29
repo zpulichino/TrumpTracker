@@ -1,5 +1,443 @@
 [
   {
+    "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+    "description": "Separately, AI evaluator Transluce said agents that appeared to come from OpenAI tried unsuccessfully to hack into a Department of Education website, a detail that OpenAI has not confirmed.",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
+    "timestamp": "2026-09-28T03:27:10Z"
+  },
+  {
+    "title": "Trump asked China's president if he wants to buy US arms, ambassador says",
+    "description": "David Perdue says that if the offer is consummated, it would upend generations of US policy toward China and Taiwan; could also potentially expose US technology to a potential foe",
+    "link": "https://www.thehindubusinessline.com/news/world/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518158.ece",
+    "timestamp": "2026-09-28T03:25:59Z"
+  },
+  {
+    "title": "'Would like to buy some?': Trump offered Xi US weapons as Washington sought to downplay Taiwan arms sale",
+    "description": "US President Donald Trump sought to downplay Washington's pending arms sale to Taiwan by telling Chinese President Xi Jinping that the US sells weapons to",
+    "link": "https://timesofindia.indiatimes.com/world/us/would-like-to-buy-some-trump-offered-xi-us-weapons-as-washington-sought-to-downplay-taiwan-arms-sale/articleshow/134530193.cms",
+    "timestamp": "2026-09-28T03:23:11Z"
+  },
+  {
+    "title": "Trump said he would dine with Anthropic CEO Dario Amodei amid mounting AI debate",
+    "description": "Trump told reporters after returning to Joint Base Andrews in Maryland that he was grabbing dinner at 10 pm with Dario Amodei. The meal comes just two days after Amodei's company faced a setback in a court case against the government over its barring its prod\u2026",
+    "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-said-he-would-dine-with-anthropic-ceo-dario-amodei-amid-mounting-ai-debate/articleshow/134530799.cms",
+    "timestamp": "2026-09-28T03:18:53Z"
+  },
+  {
+    "title": "US govt releases lists of products for $30 billion China tariff deal",
+    "description": "The goods proposed under the arrangement for import to the US include fireworks, household products, sports equipment and toys, according to a list released by the White House",
+    "link": "https://www.business-standard.com/world-news/us-govt-releases-lists-of-products-for-30-billion-china-tariff-deal-126092800098_1.html",
+    "timestamp": "2026-09-28T03:17:28Z"
+  },
+  {
+    "title": "U.S. stock futures dip as markets parse Iran tensions, OpenAI training halt",
+    "description": "Investing.com-- U.S. stock futures fell on Sunday evening as markets braced for fresh weakness in technology shares after OpenAI said it was halting development of some advanced artificial intelligence models.\nHeightened tensions in Iran also weighed after U.\u2026",
+    "link": "https://biztoc.com/x/26dd078f225b2668",
+    "timestamp": "2026-09-28T03:15:26Z"
+  },
+  {
+    "title": "Poll: Trump's Approval Rating Drops to New Low as Midterms Loom",
+    "description": "President Donald Trump's approval rating has fallen to a new low in another poll as the midterms are just weeks away.\nThe post Poll: Trump\u2019s Approval Rating Drops to New Low as Midterms Loom appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/politics/2026/09/27/poll-trump-approval-rating-drops-new-low-midterms-loom/",
+    "timestamp": "2026-09-28T03:14:18Z"
+  },
+  {
+    "title": "US envoy Waltz dismisses Iran ceasefire proposal as 'pretty cynical attempt'",
+    "description": "US envoy to the UN calls Iran\u2019s seven-day ceasefire proposal a \u201cpretty cynical attempt\" to win sanctions relief and access frozen funds.",
+    "link": "https://www.israelnationalnews.com/news/433742",
+    "timestamp": "2026-09-28T03:10:14Z"
+  },
+  {
+    "title": "The Islamabad Memorandum Returns to the Spotlight",
+    "description": "For Pakistan, the coming days will test whether its mediation capacity can keep pace with a conflict that continues to expand in both geography and complexity.",
+    "link": "https://thediplomat.com/2026/09/the-islamabad-memorandum-returns-to-the-spotlight/",
+    "timestamp": "2026-09-28T03:09:00Z"
+  },
+  {
+    "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+    "description": "BEIJING \u2014 In a summit dominated by spectacle, the U.S. and China have essentially agreed to keep talking.\nPresident Donald Trump hosted Chinese President Xi Jinping in Washington, D.C., last Wednesday to Friday in Xi's second state visit since 2015. Trump per\u2026",
+    "link": "https://biztoc.com/x/9445c20a48dc3384",
+    "timestamp": "2026-09-28T03:00:33Z"
+  },
+  {
+    "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
+    "description": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
+    "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house",
+    "timestamp": "2026-09-28T02:57:28Z"
+  },
+  {
+    "title": "President Trump attended the Presidents Cup. Here's what that looked like",
+    "description": "President Donald Trump made an appearance at the Presidents Cup at Medinah Country Club on Sunday.",
+    "link": "https://golf.com/news/trump-attended-presidents-cup-what-saw/",
+    "timestamp": "2026-09-28T02:56:01Z"
+  },
+  {
+    "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+    "description": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+    "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+    "timestamp": "2026-09-28T02:49:10Z"
+  },
+  {
+    "title": "Trump said he would dine with Anthropic CEO amid mounting AI debate",
+    "description": "Trump said he would dine with Anthropic CEO amid mounting AI debatenews4jax.com",
+    "link": "https://www.news4jax.com/business/2026/09/28/trump-said-he-would-dine-with-anthropic-ceo-amid-mounting-ai-debate/",
+    "timestamp": "2026-09-28T02:37:53Z"
+  },
+  {
+    "title": "Venezuelans rally for opposition leader\u2019s return and presidential elections",
+    "description": "Nobel laureate Maria Corina Machado has been living in exile, with plans to return to Venezuela spoiled multiple times.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections",
+    "timestamp": "2026-09-28T02:36:00Z"
+  },
+  {
+    "title": "Asia mixed after Trump declines Iran's Hormuz offer",
+    "description": "Major stock markets in the Asia-Pacific region traded mixed on Monday as crude oil prices jumped higher after United States President Donald Trump turned down an Iranian offer to reopen the Strait of ...",
+    "link": "https://biztoc.com/x/27567ca184a6d9f1",
+    "timestamp": "2026-09-28T02:30:29Z"
+  },
+  {
+    "title": "Trump confirms meeting with Anthropic CEO, repeats dismissal of AI fears",
+    "description": "Trump also reiterated his belief that new regulations would open the door for China to outpace the United States in AI advancement",
+    "link": "https://www.business-standard.com/world-news/trump-confirms-meeting-with-anthropic-ceo-repeats-dismissal-of-ai-fears-126092800065_1.html",
+    "timestamp": "2026-09-28T02:27:29Z"
+  },
+  {
+    "title": "Rupee, bonds vulnerable to oil pangs on waning Iran diplomacy hopes",
+    "description": "Investors will monitor key US data this week, including September non-farm payrolls and August PCE inflation",
+    "link": "https://www.thehindubusinessline.com/markets/rupee-bonds-vulnerable-to-oil-pangs-on-waning-iran-diplomacy-hopes/article71518157.ece",
+    "timestamp": "2026-09-28T02:26:16Z"
+  },
+  {
+    "title": "Looking 'very seriously' at banning US diesel exports, says Trump",
+    "description": "Several farm-state lawmakers have urged Trump to limit US diesel exports during the peak of the fall harvest season",
+    "link": "https://www.business-standard.com/world-news/looking-very-seriously-at-banning-us-diesel-exports-says-trump-126092800066_1.html",
+    "timestamp": "2026-09-28T02:23:42Z"
+  },
+  {
+    "title": "Trump dines with Anthropic's Dario Amodei amid doomsday warnings that rogue AI could kill one billion people",
+    "description": "While the President has become a major booster of AI, those both inside and outside the industry have warned of its potential dangers, including Bill Gates' prediction that it could kill a billion people.",
+    "link": "https://www.dailymail.com/news/article-16165067/Trump-Anthropics-Dario-Amodei.html",
+    "timestamp": "2026-09-28T02:16:52Z"
+  },
+  {
+    "title": "Anthropic, OpenAI sound AI safety alarm, seek to shape how it's controlled",
+    "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\nThe answer may lie in the companies' efforts to score political goals ahead of the US midterm elections and the m\u2026",
+    "link": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-openai-sound-ai-safety-alarm-seek-to-shape-how-it-s-controlled-126092800030_1.html",
+    "timestamp": "2026-09-28T02:15:04Z"
+  },
+  {
+    "title": "Oil Price Today (September 28): Crude oil gains to $106 as Trump rejects Iran deal. Where are prices headed?",
+    "description": "Brent crude futures rose $1.65, or 1.50%, to $106 a barrel, while US West Texas Intermediate crude was at $93.40 a barrel, up 99 cents, or 1.10%.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-28-crude-oil-gains-to-106-as-trump-rejects-iran-deal-where-are-prices-headed/articleshow/134529904.cms",
+    "timestamp": "2026-09-28T02:12:24Z"
+  },
+  {
+    "title": "Presidents Cup winners and losers after US completes dramatic comeback",
+    "description": "Here are winners and losers from Sunday at the 2026 Presidents Cup, when the U.S. team rallied to beat the Internationals for the 11th-straight time.",
+    "link": "https://www.usatoday.com/story/sports/golf/2026/09/27/presidents-cup-2026-winners-losers-sunday-trump/91974171007/",
+    "timestamp": "2026-09-28T02:09:27Z"
+  },
+  {
+    "title": "Oil prices rebound after Trump rejects peace deal to resolve Iran conflict",
+    "description": "Brent crude futures rose $1.32, or 1.27%, to $105.64 \u200ca barrel by 0036 GMT while US West Texas Intermediate crude was at $93.11 a barrel, up 70 cents, or 0.76%",
+    "link": "https://www.business-standard.com/markets/commodities/oil-prices-rebound-after-trump-rejects-peace-deal-to-resolve-iran-conflict-126092800042_1.html",
+    "timestamp": "2026-09-28T02:07:15Z"
+  },
+  {
+    "title": "Putin is testing NATO on Norway\u2019s remote Arctic islands",
+    "description": "Russia\u2019s rising hybrid activity on Svalbard is sparking fears that Moscow could spark an incident that tests NATO\u2019s Article 5 mutual defense clause.",
+    "link": "https://www.politico.eu/article/russia-vladimir-putin-is-testing-nato-on-norways-remote-arctic-islands/",
+    "timestamp": "2026-09-28T02:00:00Z"
+  },
+  {
+    "title": "Oil heads higher as US-Iran peace talks in stalemate",
+    "description": "Oil prices experienced a rebound of more than 1% as geopolitical tensions in the Middle East persisted. Donald Trump rejected Iran's peace proposal that aimed to resolve the ongoing conflict and reopen the Strait of Hormuz. Furthermore, increasing attacks by \u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-heads-higher-as-us-iran-peace-talks-in-stalemate/articleshow/134529749.cms",
+    "timestamp": "2026-09-28T01:59:41Z"
+  },
+  {
+    "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
+    "description": "The dollar showed strength as investors anticipated inflation data and central bank decisions this week. Oil prices increased due to ongoing US-Iran tensions, which raised concerns about energy supply. Analysts predict potential interest rate hikes from the F\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build/articleshow/134529719.cms",
+    "timestamp": "2026-09-28T01:58:22Z"
+  },
+  {
+    "title": "\u2018Will win very soon\u2019: Trump hints at possible pre-midterm strikes on Iran",
+    "description": "US President Donald Trump has expressed confidence that the US will \u201cwin\u201d its war with Iran \u201cvery soon\u201d, while leaving open the possibility of renewed",
+    "link": "https://timesofindia.indiatimes.com/world/us/will-win-very-soon-trump-hints-at-possible-pre-midterm-strikes-on-iran/articleshow/134529548.cms",
+    "timestamp": "2026-09-28T01:58:22Z"
+  },
+  {
+    "title": "Iran war will be won very soon, pre-midterm strikes possible, says Trump",
+    "description": "When asked specifically whether military strikes could resume before the upcoming midterm elections, Trump declined to take the option off the table",
+    "link": "https://www.business-standard.com/world-news/iran-war-will-be-won-very-soon-pre-midterm-strikes-possible-says-trump-126092800044_1.html",
+    "timestamp": "2026-09-28T01:57:21Z"
+  },
+  {
+    "title": "Indian rupee, bonds vulnerable to oil pangs on waning Iran diplomacy hopes",
+    "description": "The Indian rupee and government bonds are set to face challenges as oil prices climb. Global bond yields have surged to multi-year peaks, creating instability in the market that necessitates RBI intervention. This week brings pivotal US economic data, which m\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-bonds-vulnerable-to-oil-pangs-on-waning-iran-diplomacy-hopes/articleshow/134529686.cms",
+    "timestamp": "2026-09-28T01:56:47Z"
+  },
+  {
+    "title": "Flat to negative opening seen for Indian stocks",
+    "description": "Markets likely to open flat to negative with a cautious, low-key week ahead amid mixed global cues, FPI selling, and oil-price volatility.",
+    "link": "https://www.thehindubusinessline.com/markets/flat-to-negative-opening-seen-for-indian-stocks/article71518160.ece",
+    "timestamp": "2026-09-28T01:48:49Z"
+  },
+  {
+    "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+    "description": "United States President Donald Trump has announced new fuel economy standards that roll back requirements adopted under his predecessor, arguing they will lower automobile prices and encourage manufacturers to expand production in the US.\nIn a social media po\u2026",
+    "link": "https://biztoc.com/x/341da73dc4170665",
+    "timestamp": "2026-09-28T01:45:31Z"
+  },
+  {
+    "title": "US needs to follow up Presidents Cup win with Ryder Cup triumph | Opinion",
+    "description": "Winning the Presidents Cup is a fine result for the U.S. team, but it's the Ryder Cup next year in Europe that really matters.",
+    "link": "https://www.usatoday.com/story/sports/columnist/nancy-armour/2026/09/27/presidents-cup-us-win-need-ryder-cup-2027-europe/91979675007/",
+    "timestamp": "2026-09-28T01:43:25Z"
+  },
+  {
+    "title": "Trump Asked China's President If He Wants To Buy U.S. Arms, Ambassador Says",
+    "description": "The U.S. ambassador to China says President Donald Trump asked Chinese President Xi Jinping if he wanted to buy weapons from the United States.",
+    "link": "https://www.huffpost.com/entry/trump-china-us-arms-ambassador_n_6ab9c495e4b07795582cb512",
+    "timestamp": "2026-09-28T01:43:02Z"
+  },
+  {
+    "title": "Americans rally to win Presidents Cup and Fitzpatrick holds on to win French Open",
+    "description": "U.S. captain Brandt Snedeker won\u2019t have to second-guess the outcome of this Presidents Cup. Outplayed over three days in team matches at Medinah, the Americans flipped two key singles matches on the back nine \u2014 one from two-time major champion Collin Morikawa\u2026",
+    "link": "https://sports.yahoo.com/articles/americans-rally-win-presidents-cup-014241325.html",
+    "timestamp": "2026-09-28T01:42:41Z"
+  },
+  {
+    "title": "Anthropic And OpenAI Sound The Alarm On AI Safety \u2014 And Seek To Shape How It's Controlled",
+    "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain.",
+    "link": "https://www.huffpost.com/entry/anthropic-openai-alarm-safety_n_6ab9c4a0e4b07795582cb514",
+    "timestamp": "2026-09-28T01:40:39Z"
+  },
+  {
+    "title": "AMERICA Prayer Vigil 9/28/26 {Prayer}",
+    "description": "Join together with Fellow FREEPERS to Pray for AMERICA: For those in Authority in Government, Family, Military, Business, Healthcare, Education, Churches, and the Media.'And this is the Confidence that we have in Him, that, if we Ask Anything According to His\u2026",
+    "link": "https://freerepublic.com/focus/f-religion/4397101/posts",
+    "timestamp": "2026-09-28T01:31:09Z"
+  },
+  {
+    "title": "Oil heads higher as US-Iran peace talks in stalemate",
+    "description": "SINGAPORE: Oil prices rebounded more than 1 per cent on Monday (Sep 28) after United States President Donald Trump rejected a peace deal from Iran to resolve their conflict and reopen the Strait of Hormuz, keeping tensions in t",
+    "link": "https://www.channelnewsasia.com/business/oil-price-us-rejects-iran-proposal-6414311",
+    "timestamp": "2026-09-28T01:17:00Z"
+  },
+  {
+    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+    "description": "Anthropic CEO Dario Amodei seems to be everywhere this weekend: He was lampooned on the season premiere of Saturday Night Live, and tonight, he\u2019s set to have dinner with President Donald Trump at the White House.\nAxios first broke the news of Amodei\u2019s dinner \u2026",
+    "link": "https://biztoc.com/x/bce4a7daee9c7403",
+    "timestamp": "2026-09-28T01:15:46Z"
+  },
+  {
+    "title": "Trump says US will \u2018win\u2019 Iran war soon, leaves door open to strikes before midterms",
+    "description": "President Donald Trump is optimistic that the ongoing conflict with Iran will come to a swift conclusion. He indicated that the resolution could lead to a significant reduction in global oil prices. Trump also stated that both military action and economic san\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-us-will-win-iran-war-soon-leaves-door-open-to-strikes-before-midterms/articleshow/134529341.cms",
+    "timestamp": "2026-09-28T01:12:14Z"
+  },
+  {
+    "title": "CNBC Daily Open: The art of the deal-ish",
+    "description": "Chinese president's state visit to Washington appears to have produced more personal diplomacy than breakthroughs.",
+    "link": "https://www.cnbc.com/2026/09/28/cnbc-daily-open-the-art-of-the-deal-ish.html",
+    "timestamp": "2026-09-28T01:11:39Z"
+  },
+  {
+    "title": "Brandt Snedeker Credits Donald Trump For Team USA Winning Presidents Cup",
+    "description": "The Presidents Cup remains with Team USA.Team USA rallied on Sunday in the singles to overcome a 10.5 to 7.5 deficit. USA ended up winning the event 17 to 13 in a lopsided result.The United States won all but three matchups, losing two and tying one.Donald Tr\u2026",
+    "link": "https://heavy.com/sports/golf/brandt-snedeker-credits-donald-trump/",
+    "timestamp": "2026-09-28T01:11:32Z"
+  },
+  {
+    "title": "Don\u2019t think Australia couldn\u2019t become an autocracy",
+    "description": "Nobody wakes up to sudden authoritarianism. We relinquish ourselves to it by allowing our favoured government to get away with bending norms and rules. Over time, these bends become clean breaks.\nThe post Don\u2019t think Australia couldn\u2019t become an autocracy app\u2026",
+    "link": "http://www.crikey.com.au/2026/09/28/rick-morton-autocracy-australia-pauline-hanson-donald-trump-right-wing-populism/",
+    "timestamp": "2026-09-28T01:09:49Z"
+  },
+  {
+    "title": "Bill Gates Suggests He\u2019s the Man to Convince Donald Trump to Regulate AI",
+    "description": "Gates warned on 'Meet the Press' that if no one does anything, AI could \"drive events that, you know, cause a billion deaths.\"",
+    "link": "https://gizmodo.com/bill-gates-suggests-hes-the-man-to-convince-donald-trump-to-regulate-ai-2000817933",
+    "timestamp": "2026-09-28T01:08:40Z"
+  },
+  {
+    "title": "Two-Month China Truce Falls Short Of Expectations As Markets Fade Trump-Xi Summit",
+    "description": "Two-Month China Truce Falls Short Of Expectations As Markets Fade Trump-Xi Summit\n \nDonald Trump gave Xi Jinping the full state-visit treatment in Washington, but markets were more interested in what the two leaders did not deliver.\nAfter three days of ceremo\u2026",
+    "link": "https://biztoc.com/x/5bd608f9814615ac",
+    "timestamp": "2026-09-28T01:00:23Z"
+  },
+  {
+    "title": "India to continue diesel exports despite possible US ban amid tightening global fuel market",
+    "description": "India remains committed to its diesel export contracts, as stated by Oil Minister Hardeep Puri. The global diesel market faces challenges due to geopolitical conflicts impacting supply. Pump prices in the US have surged, leading to speculation about an export\u2026",
+    "link": "https://economictimes.indiatimes.com/wealth/earn/india-to-continue-diesel-exports-despite-possible-us-ban-amid-tightening-global-fuel-market/articleshow/134489810.cms",
+    "timestamp": "2026-09-28T01:00:00Z"
+  },
+  {
+    "title": "Donald Trump Slams Claim Things Would be Better With Women in Charge",
+    "description": "President Donald Trump is slamming former President Barack Obama\u2019s claim that governments around the world would function better if women were in charge. \u201cI love women, I think they\u2019re great, but what a ridiculous statement that is, right?\u201d Trump, 80, told a \u2026",
+    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-says-having-women-in-charge-is-ridiculous/",
+    "timestamp": "2026-09-28T00:57:58Z"
+  },
+  {
+    "title": "Trump: We\u2019re going to win this war very soon",
+    "description": "Trump tells Fox News the US will win the war with Iran soon as Washington and Tehran remain divided over nuclear concessions, Hormuz and a potential deal.",
+    "link": "https://www.israelnationalnews.com/news/433739",
+    "timestamp": "2026-09-28T00:56:25Z"
+  },
+  {
+    "title": "Stocks cautious in Asia as oil gains, yields rise",
+    "description": "SYDNEY, Sept 28 : Share markets made a cautious start on Monday as oil prices popped higher again amid doubts the United States and Iran will reach a truce anytime soon, keeping bonds under pressure ahead of a week packed with economic news.Over the weekend, \u2026",
+    "link": "https://www.channelnewsasia.com/business/stocks-cautious-in-asia-oil-gains-yields-rise-6414451",
+    "timestamp": "2026-09-28T00:53:03Z"
+  },
+  {
+    "title": "Stocks slip in Asia as oil and yields climb",
+    "description": "SYDNEY, Sept 28 : Share markets were mostly lower on Monday as oil prices popped higher again amid doubts the United States and Iran will reach a truce anytime soon, keeping bonds under pressure ahead of a week packed with economic news.Over the weekend, US P\u2026",
+    "link": "https://www.channelnewsasia.com/business/stocks-slip-in-asia-oil-and-yields-climb-6414451",
+    "timestamp": "2026-09-28T00:53:03Z"
+  },
+  {
+    "title": "Stocks slip in Asia as oil climbs, bonds retreat",
+    "description": "SYDNEY, Sept 28 : Share markets were mostly lower on Monday as oil prices popped higher again amid doubts the United States and Iran will reach a truce anytime soon, keeping bonds under pressure ahead of a week packed with economic news.Over the weekend, US P\u2026",
+    "link": "https://www.channelnewsasia.com/business/stocks-slip-in-asia-oil-climbs-bonds-retreat-6414451",
+    "timestamp": "2026-09-28T00:53:03Z"
+  },
+  {
+    "title": "Iran ready for \u2018doomsday war\u2019 with US, foreign minister says after Trump rejects ceasefire",
+    "description": "Iranian Foreign Minister Seyyed Abbas Araghchi stated that the country is ready for war against the US. He confirmed that Iran's proposal for a ceasefire was not formally acknowledged by Washington. US Ambassador to the United Nations Mike Waltz emphasized th\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/iran-ready-for-doomsday-war-with-us-foreign-minister-says-after-trump-rejects-ceasefire/articleshow/134529230.cms",
+    "timestamp": "2026-09-28T00:52:43Z"
+  },
+  {
+    "title": "Trump asked Xi if China wanted to buy US weapons, ambassador says",
+    "description": "President Trump has been discussing the potential U.S. arms sale to Taiwan with Chinese President Xi Jinping. Trump has emphasized that arms sales are a normal activity for the U.S. and questioned Xi about his interest in purchasing them. The U.S. is obligate\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-asked-xi-if-china-wanted-to-buy-us-weapons-ambassador-says/articleshow/134529180.cms",
+    "timestamp": "2026-09-28T00:45:26Z"
+  },
+  {
+    "title": "Best of BS Opinion: Adjusting to a new equilibrium before reality bites",
+    "description": "Even geopolitical orders survive in the habits of people long after the world around them has changed. The difficult part is recognising the shift early enough to manage it",
+    "link": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-adjusting-to-a-new-equilibrium-before-reality-bites-126092700854_1.html",
+    "timestamp": "2026-09-28T00:45:10Z"
+  },
+  {
+    "title": "Global Market Today: Asian shares subdued as rising oil fuels rate hike concerns",
+    "description": "MSCI\u2019s gauge of Asian stocks opened slightly lower with South Korea\u2019s benchmark slipping as markets returned from a holiday, while Japanese stocks edged higher. Futures for the S&P 500 Index fell around 0.2%.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today/articleshow/134529165.cms",
+    "timestamp": "2026-09-28T00:42:28Z"
+  },
+  {
+    "title": "Big Oil has an audacious request for the Supreme Court",
+    "description": "In a 2016 opinion, authored one year before he became a Supreme Court justice, then-Judge Neil Gorsuch warned against lawyers who tempt judges to reach conclusions that aren\u2019t supported by the Constitution\u2019s text. \u201cOurs is the job of interpreting the Constitu\u2026",
+    "link": "https://www.vox.com/politics/504186/supreme-court-suncor-exxon-boulder-climate-change-constitution",
+    "timestamp": "2026-09-28T00:42:26Z"
+  },
+  {
+    "title": "Trump asked Xi to buy US weapons \u2013 ambassador",
+    "description": "US President Donald Trump asked Chinese leader Xi Jinping whether Beijing would be interested in buying American weapons, according to Washington\u2019s ambassador to China",
+    "link": "https://www.rt.com/news/646340-trump-xi-us-weapons/",
+    "timestamp": "2026-09-28T00:40:34Z"
+  },
+  {
+    "title": "Iran Warns of \u2018Doomsday War\u2019 \u2014 Trump Expects Talks After Rejecting Tehran\u2019s Proposal",
+    "description": "Iran warned Sunday that it was prepared for a \u201cdoomsday war\u201d if the United States resumes its attacks, while leaving the door open to further negotiations one day after President Donald Trump rejected Tehran\u2019s latest proposal to reopen the Strait of Hormuz.\nT\u2026",
+    "link": "https://www.breitbart.com/politics/2026/09/27/iran-warns-doomsday-war-trump-expects-talks-rejecting-tehrans-proposal/",
+    "timestamp": "2026-09-28T00:37:07Z"
+  },
+  {
+    "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+    "description": "Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S. strategic bombers, a former intelligence official says.",
+    "link": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert",
+    "timestamp": "2026-09-28T00:34:26Z"
+  },
+  {
+    "title": "Iran ready for \u2018doomsday war\u2019 with US, says Foreign Minister Araghchi",
+    "description": "The latest statements highlight sharply differing positions over frozen Iranian assets, sanctions, nuclear negotiations and the future of the shipping route",
+    "link": "https://www.thehindubusinessline.com/news/world/iran-ready-for-doomsday-war-with-us-says-foreign-minister-araghchi/article71518137.ece",
+    "timestamp": "2026-09-28T00:25:21Z"
+  },
+  {
+    "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+    "description": "Oil prices climbed more than 1% Monday in early Asia trading after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the Middle East conflict and reopening the Strait of Hormuz.\nU.S. crude futures for November delivery rose 1.3% t\u2026",
+    "link": "https://biztoc.com/x/1d8f66674488daab",
+    "timestamp": "2026-09-28T00:15:41Z"
+  },
+  {
+    "title": "JD Vance: H-1B Visa Program 'Should Not Exist to Replace American Workers'",
+    "description": "The H-1B visa program \"should not exist to replace American workers,\" Vice President JD Vance said in a video message Sunday.\nThe post JD Vance: H-1B Visa Program \u2018Should Not Exist to Replace American Workers\u2019 appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/politics/2026/09/27/jd-vance-h-1b-visa-program-should-not-exist-to-replace-american-workers/",
+    "timestamp": "2026-09-28T00:15:04Z"
+  },
+  {
+    "title": "Trump asked China's Xi if he wants to buy U.S. arms, ambassador says",
+    "description": "WASHINGTON (AP) \u2014 President Donald Trump has justified the pending U.S. arms sale to Taiwan to Chinese President Xi Jinping by downplaying it as just one of many sales Washington makes around the world \u2014 even asking Xi if he\u2019d be in the market for U.S. arms, \u2026",
+    "link": "https://www.yahoo.com/news/politics/articles/trump-asked-chinas-president-wants-001355631.html",
+    "timestamp": "2026-09-28T00:13:55Z"
+  },
+  {
+    "title": "Trump Mocked For Claiming He'd Get President Xi a 'McDonald's Burger' During Interview \u2014 Years Before Rolling Red Carpet Out for Chinese Leader",
+    "description": "Donald Trump is facing fresh backlash over remarks he made years before hosting a lavish dinner for President Xi Jinping.",
+    "link": "https://radaronline.com/p/donald-trump-president-xi-jinping-mcdonalds-burger-dinner-resurfaced-video/",
+    "timestamp": "2026-09-28T00:13:14Z"
+  },
+  {
+    "title": "Waleed Aly\u2019s essay on liberalism can\u2019t see the crisis right in front of its face",
+    "description": "While it\u2019s instructive and illuminating in parts, Waleed Aly\u2019s Quarterly Essay, Time of Monsters, is ultimately unable to fully interrogate where the threats to liberalism come from.\nThe post Waleed Aly\u2019s essay on liberalism can\u2019t see the crisis right in fron\u2026",
+    "link": "http://www.crikey.com.au/2026/09/28/waleed-aly-quarterly-essay-liberalism-time-of-monsters/",
+    "timestamp": "2026-09-28T00:11:35Z"
+  },
+  {
+    "title": "Trump says US is \u2018very seriously\u2019 considering diesel export ban to tackle high prices",
+    "description": "Trump says the US is seriously considering a diesel export ban as fuel prices hit a record, while officials weigh alternatives and industry seeks tax relief.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/trump-says-he-s-very-seriously-looking-at-diesel-export-ban",
+    "timestamp": "2026-09-28T00:10:56Z"
+  },
+  {
+    "title": "United States storms back in singles to win Presidents Cup",
+    "description": "The U.S. team took control by midday and completed the largest final-day comeback in event history to beat the International team.",
+    "link": "https://www.detroitnews.com/story/sports/golf/2026/09/27/united-states-storms-back-in-singles-to-win-presidents-cup/91979239007/",
+    "timestamp": "2026-09-28T00:09:22Z"
+  },
+  {
+    "title": "US uses largest final day rout ever to rally for Presidents Cup win with Trump on hand",
+    "description": "U.S. captain Brandt Snedeker won't have to second-guess the outcome of this Presidents Cup.",
+    "link": "https://nypost.com/2026/09/27/sports/us-uses-largest-final-day-ever-to-rally-for-presidents-cup-win/",
+    "timestamp": "2026-09-28T00:08:28Z"
+  },
+  {
+    "title": "The U.S. may soon receive $600 million worth of Iranian oil that was seized earlier in the war, putting an ancient body of maritime law back in focus",
+    "description": "Three oil tankers linked to Iran have been gradually making their way toward the U.S. after being seized by naval forces when President Donald Trump first imposed a blockade on the regime.\nThe Tifani and Majestic X are now off the coast of Brazil after they w\u2026",
+    "link": "https://biztoc.com/x/6fbc83784f0cf301",
+    "timestamp": "2026-09-28T00:00:44Z"
+  },
+  {
+    "title": "Stop Mad King Donald\u2019s Iran War: An Open Letter to Members of the US Congress",
+    "description": "Dear Members of Congress, In truly deranged remarks to world leaders at the UN, Donald Trump declared that \u201cI have a big decision to make,\u201d whether to negotiate a deal with Iran or instead to \u201cannihilate the Islamic Republic\u201d and drive Iran \u201cinto hell with no\u2026",
+    "link": "https://original.antiwar.com/jeffrey_sachs/2026/09/27/stop-mad-king-donalds-iran-war-an-open-letter-to-members-of-the-us-congress/",
+    "timestamp": "2026-09-28T00:00:11Z"
+  },
+  {
+    "title": "OC Leader Board: The Nixon Renaissance",
+    "description": "We are amid an unmistakable Nixon renaissance. \u201cNixonmaxxing\u201d has become a popular meme on social platforms like X.It is fascinating to consider what is happening, and why, more than 30 years since his death in 1994.",
+    "link": "https://www.ocbj.com/leader-board/the-nixon-renaissance/",
+    "timestamp": "2026-09-28T00:00:00Z"
+  },
+  {
+    "title": "Neoliberalism is in retreat. Viktor Shvets blames the boomers \u2013 but it\u2019s not that simple",
+    "description": "In The Twilight Before the Storm, global strategist Viktor Shvets charts the shift from the fractured 1930s to today\u2019s crisis culture.",
+    "link": "https://theconversation.com/neoliberalism-is-in-retreat-viktor-shvets-blames-the-boomers-but-its-not-that-simple-285943",
+    "timestamp": "2026-09-27T23:59:32Z"
+  },
+  {
+    "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+    "description": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
+    "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+    "timestamp": "2026-09-27T23:58:57Z"
+  },
+  {
     "title": "Kathy Griffin says Ed Sheeran should have told Robert Kraft to 'go f--- yourself' over Macklemore",
     "description": "Kathy Griffin said Ed Sheeran should have told Robert Kraft to back off after Macklemore was barred from Gillette Stadium over his \"Free Palestine\" chants.",
     "link": "https://www.foxnews.com/media/kathy-griffin-says-ed-sheeran-should-told-robert-kraft-go-f-yourself-macklemore",
@@ -160,437 +598,5 @@
     "description": "One source hoped Trump would 'find out about this [bleep] and put an end to it'",
     "link": "https://www.wnd.com/2026/09/total-confusion-ice-agents-told-stop-arresting-non/",
     "timestamp": "2026-09-27T22:55:43Z"
-  },
-  {
-    "title": "Brandt Snedeker makes comment about Donald Trump and Jackson Koivun after the USA win the Presidents Cup",
-    "description": "Brandt Snedeker captained the United States Presidents Cup team to victory at Medinah in the end. It\u2019s fair to say that the US won the Presidents Cup in spite of Snedeker, not because of him, as harsh as that may sound.",
-    "link": "https://www.hitc.com/brandt-snedeker-makes-comment-about-donald-trump-and-jackson-koivun-after-the-usa-win-the-presidents-cup/",
-    "timestamp": "2026-09-27T22:54:00Z"
-  },
-  {
-    "title": "South Korea demands apology from Ukraine over North Korean prisoners of war disclosure",
-    "description": "South Korea's presidential office demanded an official explanation and apology from Ukraine, accusing Kyiv of disclosing the transfer of two North Korean prisoners of war to South Korea and then falsely denying that the two sides had agreed to keep the move c\u2026",
-    "link": "https://www.channelnewsasia.com/east-asia/north-korea-prisoners-war-ukraine-transfer-disclosure-6414156",
-    "timestamp": "2026-09-27T22:48:47Z"
-  },
-  {
-    "title": "Rachel Maddow Lauds \u2018Hero\u2019 MS NOW WH Reporter Amid Trump Press Brawl \u2014 As Packed Live Audience Roars Its Approval",
-    "description": "Rachel Maddow and audience members welcomed White House reporter Laura Barr\u00f3n-L\u00f3pez to the stage as a conquering hero in light of Trump's press ban.\nThe post Rachel Maddow Lauds \u2018Hero\u2019 MS NOW WH Reporter Amid Trump Press Brawl \u2014 As Packed Live Audience Roars \u2026",
-    "link": "https://www.mediaite.com/media/news/rachel-maddow-lauds-hero-ms-now-wh-reporter-amid-trump-press-brawl-as-packed-live-audience-roars-its-approval/",
-    "timestamp": "2026-09-27T22:47:30Z"
-  },
-  {
-    "title": "USA rallies to capture 11th consecutive Presidents Cup",
-    "description": "The United States made a stunning rally to capture an 11th consecutive Presidents Cup on Sunday, defeating the Internationals 17-13 in a victory dedicated to US President Donald Trump.So thank you, President Trump.\"",
-    "link": "https://sports.yahoo.com/articles/usa-rallies-capture-11th-consecutive-224354645.html",
-    "timestamp": "2026-09-27T22:43:54Z"
-  },
-  {
-    "title": "US complete thrilling comeback to retain Presidents Cup",
-    "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
-    "link": "https://www.bbc.com/sport/golf/articles/cr5yeng66de5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "timestamp": "2026-09-27T22:43:03Z"
-  },
-  {
-    "title": "US complete thrilling comeback to retain Presidents Cup",
-    "description": "The United States complete a thrilling comeback on the final day to beat the Internationals and win an 11th successive Presidents Cup.",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cr5yeng66de5o",
-    "timestamp": "2026-09-27T22:42:57Z"
-  },
-  {
-    "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways",
-    "description": "AI labs are facing pressure from lawmakers and tech experts to slow development so they can build guardrails to stop agents from acting on their own.",
-    "link": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
-    "timestamp": "2026-09-27T22:40:57Z"
-  },
-  {
-    "title": "Expert warns new Trump law designed to choke off essential health care for Americans",
-    "description": "New federal rules likely will force three dozen states to reduce their annual Medicaid payments to doctors and hospitals by a total of more than $50 billion \u2014 potentially shrinking the number of providers willing to see Medicaid patients, according to a new a\u2026",
-    "link": "https://www.rawstory.com/trump-medicaid-2677948628/",
-    "timestamp": "2026-09-27T22:40:13Z"
-  },
-  {
-    "title": "Talks with Iran likely to continue this week: Trump",
-    "description": "US President Donald Trump said Sunday that he expects talks with Iran to resume this week, a day after rejecting a truce proposal put forward by Tehran.",
-    "link": "https://timesofindia.indiatimes.com/world/us/talks-with-iran-likely-to-continue-this-week-trump/articleshow/134528817.cms",
-    "timestamp": "2026-09-27T22:39:07Z"
-  },
-  {
-    "title": "US-Iran talks continue as tensions rise",
-    "description": "The US and Iran signaled a willingness to continue negotiating this week, even as the two sides appeared no closer to closing the stark gap between them.\nUS President Donald Trump said Saturday he rejected Iran\u2019s proposal to reopen the Strait of Hormuz, yet t\u2026",
-    "link": "https://biztoc.com/x/93676592b2d6c730",
-    "timestamp": "2026-09-27T22:31:23Z"
-  },
-  {
-    "title": "Trump's 'Surprise' Media Ban Would Not Have Happened If Karoline Leavitt Was Still Press Secretary, According to White House Aides",
-    "description": "A new report says President Donald Trump's ban on three news outlets would not have happened if Karoline Leavitt were still press secretary.",
-    "link": "https://radaronline.com/p/donald-trump-media-ban-would-not-have-happened-karoline-leavitt-press-secretary/",
-    "timestamp": "2026-09-27T22:16:54Z"
-  },
-  {
-    "title": "Trump raises eyebrows as he claims US has \u2018best poverty numbers\u2019",
-    "description": "Just hours after claiming his administration has \u201cthe BEST FINANCIAL NUMBERS EVER\u201d, US president Donald Trump told reporters outside the White House on Sunday that America also has \u201cthe best poverty numbers ever\u201d \u2013 phrasing which has stunned social media user\u2026",
-    "link": "https://biztoc.com/x/f83b7af735bf7859",
-    "timestamp": "2026-09-27T22:16:53Z"
-  },
-  {
-    "title": "U.S. Avoids Disaster With Biggest Presidents Cup Comeback Ever",
-    "description": "Donald Trump was on hand a day after attending Tennessee-Texas.",
-    "link": "https://frontofficesports.com/article/trump-presidents-cup-us-win-international/",
-    "timestamp": "2026-09-27T22:10:46Z"
-  },
-  {
-    "title": "Stock market today: Live updates",
-    "description": "The Dow eked out a 0.3% advance last week, snapping a three-week slide.",
-    "link": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
-    "timestamp": "2026-09-27T22:06:09Z"
-  },
-  {
-    "title": "Here\u2019s the biggest news you missed this weekend",
-    "description": "A powerful nor\u2019easter battered the Northeast again on Sunday, flooding coastal communities and leaving tens of thousands of homes and businesses without power as forecasters warned that another round of high tides could inundate vulnerable shorelines.",
-    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-september-27-rcna599933",
-    "timestamp": "2026-09-27T22:05:30Z"
-  },
-  {
-    "title": "The new Miracle at Medinah: Team USA completes wild comeback to win the Presidents Cup in front of Trump",
-    "description": "The Americans headed into Sunday singles three points down and at risk of a humbling loss, but Scottie Scheffler and Co won eight of the 12 singles matches to seal an 11th straight win.",
-    "link": "https://www.dailymail.com/sport/golf/article-16165069/The-new-Miracle-Medinah-Team-USA-completes-wild-comeback-win-Presidents-Cup-Trump.html",
-    "timestamp": "2026-09-27T22:04:48Z"
-  },
-  {
-    "title": "Trump says he's 'very seriously' looking at a diesel export ban",
-    "description": "(Bloomberg) -- President Donald Trump said he is still looking \u201cvery seriously\u201d at implementing a US ban on diesel exports to combat high prices, even as others in his administration continue to focus on other possible steps.\u00a0Most Read from Bloomberg<ul><li>K\u2026",
-    "link": "https://finance.yahoo.com/energy/articles/trump-says-very-seriously-looking-215526827.html",
-    "timestamp": "2026-09-27T21:55:26Z"
-  },
-  {
-    "title": "SNL Mocks Donald Trump's Aide Natalie Harp as 'Obsessive' During Season 52 Premiere",
-    "description": "SNL mocked Donald Trump aide Natalie Harp as obsessively devoted during its Season 52 premiere.",
-    "link": "https://radaronline.com/p/snl-mocks-donald-trump-aide-natalie-harp-obsessive-season-52-premiere/",
-    "timestamp": "2026-09-27T21:55:00Z"
-  },
-  {
-    "title": "Susie Wiles reveals brutal toll of fighting cancer while running Trump\u2019s White House",
-    "description": "Susie Wiles reveals what it was like to undergo chemotherapy while leading the White House staff, saying some days just getting out of bed was a test.",
-    "link": "https://www.foxnews.com/politics/susie-wiles-reveals-brutal-toll-fighting-cancer-while-running-trumps-white-house",
-    "timestamp": "2026-09-27T21:54:55Z"
-  },
-  {
-    "title": "U.S. storms back to win 2026 Presidents Cup after Sunday singles rally",
-    "description": "The United States mounted a furious comeback on Sunday to defeat the International Team for the 11th straight time.",
-    "link": "https://golfweek.usatoday.com/story/sports/golf/presidents-cup/2026/09/27/us-storms-back-wins-2026-presidents-cup-sunday-singles-rally/91977075007/",
-    "timestamp": "2026-09-27T21:54:01Z"
-  },
-  {
-    "title": "Trump says looking at export ban on diesel",
-    "description": "United States President Donald Trump told Fox News that his administration is \"very seriously\" considering an export ban on diesel.\"We're thinking about it very seriously. That can oftentimes lead to ...",
-    "link": "https://biztoc.com/x/1f1e4f046e2ae48a",
-    "timestamp": "2026-09-27T21:46:47Z"
-  },
-  {
-    "title": "Trump on Iran strikes before midterms: I don't wanna say",
-    "description": "United States President Donald Trump refused to say in a Fox News interview whether strikes on Iran before the midterm elections are still on the table.\"I don't wanna say that. I mean, it's possible, ...",
-    "link": "https://biztoc.com/x/4e20b6d5a19500c8",
-    "timestamp": "2026-09-27T21:46:33Z"
-  },
-  {
-    "title": "Trump says not worried about AI going rogue",
-    "description": "United States President Donald Trump said that he is not concerned about AI \"going rogue\" despite many recent reports of software incidents.\"Well, I don't worry about it. I just, you know, it's a huge...",
-    "link": "https://biztoc.com/x/02dc4f82c8f7c2f3",
-    "timestamp": "2026-09-27T21:46:17Z"
-  },
-  {
-    "title": "Trump teases \u2018more talks\u2019 but mulls strikes on Iran",
-    "description": "US President Donald Trump said he expects \u201cmore talks\u201d with Iran, but a security source in Tehran told RT his shifting rhetoric cannot change the \u201crealities on the ground\u201d",
-    "link": "https://www.rt.com/news/646338-trump-iran-talks-rhetoric/",
-    "timestamp": "2026-09-27T21:44:32Z"
-  },
-  {
-    "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-    "description": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
-    "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-    "timestamp": "2026-09-27T21:38:59Z"
-  },
-  {
-    "title": "Men accused of planning terrorist attack near RAF base used to strike Iran",
-    "description": "Five men are suspected of preparing a terrorist act near an English air base the United States is using to strike Iranian targets.",
-    "link": "https://www.abc.net.au/news/2026-09-28/uk-counterterror-investigation-after-men-arrested-near-airbase/107202334",
-    "timestamp": "2026-09-27T21:36:36Z"
-  },
-  {
-    "title": "\u2018Grateful to God\u2019: Trump Chief of Staff Susie Wiles announces she\u2019s cancer-free",
-    "description": "'It was a difficult road. Because chemotherapy is, in a word, a b****'",
-    "link": "https://www.wnd.com/2026/09/grateful-god-trump-chief-staff-susie-wiles-announces/",
-    "timestamp": "2026-09-27T21:33:13Z"
-  },
-  {
-    "title": "Candace Owens in crisis: As family begs her to 'disappear' and prays she isn't KILLED, insiders reveal whispers of a foreign reconnaissance mission... and her links to secret military location",
-    "description": "'I pray every day for her safety,' one relative of the conservative YouTube star Candace Owens said to the Daily Mail. 'I would like for her to get fully out of it.'",
-    "link": "https://www.dailymail.com/news/article-16031915/candace-owens-charlie-kirk-family.html",
-    "timestamp": "2026-09-27T21:27:54Z"
-  },
-  {
-    "title": "Will the Brazil Field Keep Zay Flowers Out Against the Cowboys? Ravens Must Decide",
-    "description": "There is a chance that the Baltimore Ravens\u2019 wide receiver Zay Flowers will play in their Week 3 game against the Dallas Cowboys. Flowers missed the Ravens\u2019 Week 2 loss to the New Orleans Saints due to a hamstring injury. He contracted that injury in the firs\u2026",
-    "link": "https://sports.yahoo.com/articles/brazil-field-keep-zay-flowers-212640745.html",
-    "timestamp": "2026-09-27T21:26:40Z"
-  },
-  {
-    "title": "Major League Baseball is eyeing a game at Grand Teton, but federal red tape is slowing down the pitch",
-    "description": "MLB approached the Trump administration about hosting a game in Grand Teton National Park, but the White House says it's not an administration priority.",
-    "link": "https://www.foxnews.com/outkick-sports/major-league-baseball-eyeing-game-grand-teton-federal-red-tape-slowing-pitch",
-    "timestamp": "2026-09-27T21:25:00Z"
-  },
-  {
-    "title": "Trump administration begins airing 2024 Trump campaign ad in latest taxpayer-funded messaging",
-    "description": "The Trump administration is using taxpayer funds to air a television advertisement from Donald Trump\u2019s 2024 presidential campaign in the latest in a series of ads promoting the president ahead of the midterms that the White House maintains are \u201cpublic ...",
-    "link": "https://abcnews.com/Politics/wireStory/trump-administration-begins-airing-2024-trump-campaign-ad-136803772",
-    "timestamp": "2026-09-27T21:25:00Z"
-  },
-  {
-    "title": "OpenAI to Halt Training of Some Models",
-    "description": "OpenAI is facing a firestorm of criticism over incidents where its agents made unauthorized use of credentials, leaked data, and hacked websites.",
-    "link": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
-    "timestamp": "2026-09-27T21:21:27Z"
-  },
-  {
-    "title": "'Insane': John Fetterman's 'Freudian slip' leaves analyst's jaw on the floor",
-    "description": "Sen. John Fetterman (D-PA) let slip a damning Freudian slip during a recent public appearance, one that left one political analyst's jaw on the floor. Fetterman recently appeared at The Texas Tribune Festival, where he accidentally called himself a \"lifelong \u2026",
-    "link": "https://www.rawstory.com/john-fetterman-2677948508/",
-    "timestamp": "2026-09-27T21:19:20Z"
-  },
-  {
-    "title": "Attorney General Todd Blanche Pushes Back On ABC News Host Martha Raddatz\u2019s \u2018Extraordinarily Disingenuous\u2019 Comments About Press Freedom Under Trump",
-    "description": "Attorney General Todd Blanche defended President Trump\u2019s recent access restrictions on certain media outlets during a Sunday interview with ABC News.",
-    "link": "https://dailycaller.com/2026/09/27/todd-blanche-pushes-back-abc-news-this-week-martha-raddatz-comments-press-access-freedom-donald-trump",
-    "timestamp": "2026-09-27T21:16:22Z"
-  },
-  {
-    "title": "\u2018Stupid on Stilts!\u2019 GOP Senator Wants to Know Why a Russian Oligarch Bankrolled Don Jr.\u2019s Wedding",
-    "description": "Sen. Thom Tillis (R-NC) slammed Donald Trump Jr. for having a Russian oligarch linked to Vladimir Putin spend big bucks on his recent wedding\nThe post \u2018Stupid on Stilts!\u2019 GOP Senator Wants to Know Why a Russian Oligarch Bankrolled Don Jr.\u2019s Wedding first appe\u2026",
-    "link": "https://www.mediaite.com/media/news/stupid-on-stilts-gop-senator-wants-to-know-why-a-russian-oligarch-bankrolled-don-jr-s-wedding/",
-    "timestamp": "2026-09-27T21:14:48Z"
-  },
-  {
-    "title": "Bill Gates warns artificial intelligence 'powerful enough' to cause 'a billion deaths' if unchecked",
-    "description": "Bill Gates warned on NBC's \"Meet the Press\" that AI could drive events causing a billion deaths, calling it irresponsible not to require more safeguards.",
-    "link": "https://www.foxnews.com/media/bill-gates-warns-artificial-intelligence-powerful-enough-cause-billion-deaths-unchecked",
-    "timestamp": "2026-09-27T21:06:36Z"
-  },
-  {
-    "title": "UK police arrest five men amid bomb alert outside US air base",
-    "description": "The UK police have arrested five men on suspicion of plotting a terrorist attack near a US air base used in strikes on Iran, with a bomb disposal unit working at the site",
-    "link": "https://www.rt.com/news/646335-uk-police-arrest-five-men/",
-    "timestamp": "2026-09-27T21:03:31Z"
-  },
-  {
-    "title": "WEEKLY PREVIEW: Hopes rise for US-Iran peace talks",
-    "description": "The world braces for the next week, with United States President Donald Trump confirming to Axios that direct peace negotiations between Washington and Tehran may resume in the next seven days. Howeve...",
-    "link": "https://biztoc.com/x/1105145ee81b2155",
-    "timestamp": "2026-09-27T21:01:47Z"
-  },
-  {
-    "title": "The Next Phase of Trumpflation Has Arrived, and It's Terrible News for the Federal Reserve and Wall Street",
-    "description": "Despite short-lived periods of historic volatility under President Donald Trump, few presidents over the last 130 years have overseen higher annualized stock market returns. During Trump's first term (Jan. 20, 2017-Jan. 20, 2021), the mature-stock-driven Dow \u2026",
-    "link": "https://biztoc.com/x/5dbac95d11a95c9a",
-    "timestamp": "2026-09-27T21:01:35Z"
-  },
-  {
-    "title": "Republicans pour money into dozens of US House races previously considered 'safe'",
-    "description": "Republicans are pouring money into more than three dozen US House races previously considered \u201csafe\u201d after internal polling showed they could be vulnerable in the November 3 election, according \u200bto three Republican operatives familiar with the party\u2019s thinkin\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4397079/posts",
-    "timestamp": "2026-09-27T21:01:16Z"
-  },
-  {
-    "title": "Nicki Minaj Cooks Democrats Big Time Over Their Presumptions About the Black Vote",
-    "description": "Singer Nicki Minaj is a big fan and strong supporter of President Donald Trump.\u00a0That's a tough thing to be in...",
-    "link": "https://redstate.com/nick-arama/2026/09/27/nicki-minaj-remarks-about-dems-and-the-black-vote-n2207448",
-    "timestamp": "2026-09-27T21:00:36Z"
-  },
-  {
-    "title": "A counter-terrorism operation near the RAF Fairford Air Base in Britain",
-    "description": "A massive security operation has been launched near RAF Fairford airbase in Gloucestershire, located in the western part of Britain, and five suspects have been arrested on charges of preparing for a terrorist act and possessing explosives. Bomb disposal unit\u2026",
-    "link": "https://english.gossiplankanews.com/2026/09/a-counter-terrorism-operation-near-raf.html",
-    "timestamp": "2026-09-27T20:55:23Z"
-  },
-  {
-    "title": "Trump Offered to Sell American Weapons to China\u2019s Xi Jinping, US Ambassador Says",
-    "description": "President Donald Trump asked Chinese leader Xi Jinping if he would like to buy American weapons during the communist politician\u2019s three day trip to the States last week, according to U.S. Ambassador to China David Purdue. The ambassador shared the surprising \u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4397078/posts",
-    "timestamp": "2026-09-27T20:54:58Z"
-  },
-  {
-    "title": "Mike Johnson Unironically Warns Against Political Leaders \u2018Promising Free Things\u2019\u2014 On the Heels of Trump Pledging a $5,000 Handout if GOP Wins in Fall",
-    "description": "Mike Johnson (unironically warned against anyone promising \"free things\" as he discussed last week's Chinese state visit, and the democratic socialists.\nThe post Mike Johnson Unironically Warns Against Political Leaders \u2018Promising Free Things\u2019\u2014 On the Heels o\u2026",
-    "link": "https://www.mediaite.com/media/news/mike-johnson-unironically-warns-against-political-leaders-promising-free-things-on-the-heels-of-trump-pledging-a-5000-handout-if-gop-wins-in-fall/",
-    "timestamp": "2026-09-27T20:54:09Z"
-  },
-  {
-    "title": "\u2018Four more years!\u2019: Crowd chants for President Trump",
-    "description": "A day after United States President Donald Trump attended Saturday afternoon\u2019s SEC showdown between the Texas Longhorns and the Tennessee Volunteers, he was once again in the crowd for a high-profile sporting event, attending the Presidents Cup at Medinah Cou\u2026",
-    "link": "https://thecomeback.com/golf/four-more-years-crowd-chants-for-president-trump.html",
-    "timestamp": "2026-09-27T20:51:43Z"
-  },
-  {
-    "title": "South Carolina football rumors: Shane Beamer's hot seat is scorching, but there's a $6 million reason to wait on firing",
-    "description": "The South Carolina football team got shellacked by Alabama on Saturday night. The loss adds even more pressure to win on South Carolina\u2019s embattled head coach Shane Beamer . Beamer\u2019s seat is considered to be on fire right now, but the Gamecocks may not move f\u2026",
-    "link": "https://clutchpoints.com/ncaa-football/south-carolina-football-rumors-shane-beamer-hot-seat-scorching-6-million-reason-wait-firing",
-    "timestamp": "2026-09-27T20:50:54Z"
-  },
-  {
-    "title": "Trump Rebukes Supreme Court After It Rejects Missouri GOP Map for 3rd Time",
-    "description": "President Donald Trump criticized the Supreme Court on Sunday after the justices rejected efforts to revive a Republican-backed Missouri congressional map for the third time this month.\n\"The Supreme Court of the United States will just not let Missouri have a\u2026",
-    "link": "https://biztoc.com/x/14022c9fd3bcad25",
-    "timestamp": "2026-09-27T20:46:39Z"
-  },
-  {
-    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
-    "description": "Anthropic CEO Dario Amodei seems to be everywhere this weekend: He was lampooned on the season premiere of Saturday Night Live, and tonight, he\u2019s set to have dinner with President Donald Trump at the White House.\nAxios first broke the news of Amodei\u2019s dinner \u2026",
-    "link": "https://biztoc.com/x/d1d2e997612e9a90",
-    "timestamp": "2026-09-27T20:46:28Z"
-  },
-  {
-    "title": "Five arrested near UK-US base in Iran terror probe",
-    "description": "Investigators are examining a possible Iran connection after suspicious vehicles were stopped near RAF Fairford",
-    "link": "https://www.salon.com/2026/09/27/five-arrested-near-uk-us-base-in-iran-terror-probe/",
-    "timestamp": "2026-09-27T20:42:57Z"
-  },
-  {
-    "title": "Now they\u2019re groveling: Watch CNN beg Mike Waltz to ask Trump to let network back in press pool aboard Air Force One",
-    "description": "'Jake Tapper's ability to keep a straight face pretending to not understand/fathom how & why the nation considers him absolute horse [bleep] is peak sociopathic personality mastery'",
-    "link": "https://www.wnd.com/2026/09/now-theyre-groveling-watch-cnn-beg-mike-waltz/",
-    "timestamp": "2026-09-27T20:41:11Z"
-  },
-  {
-    "title": "Donald Trump Appears Transfixed by Blonde Aide Natalie Harp's Laptop During Tennessee Football Game",
-    "description": "Donald Trump appeared focused on aide Natalie Harp's laptop during a Tennessee football game.",
-    "link": "https://radaronline.com/p/donald-trump-transfixed-blonde-aide-natalie-harps-laptop-tennessee-football/",
-    "timestamp": "2026-09-27T20:40:00Z"
-  },
-  {
-    "title": "When Trump said Syria should handle Hezbollah, if Israel can't do the job without killing everyone, Trump directly challenged the imperial architecture which kept the region in turmoil for decades. [NOTES and QUOTES from 4 minute video]",
-    "description": "Susan Kokinda@SusanKokindaaParody account2 Trump Just Cracked Iran After 47 Years-1 #trend #flyp: #top #foryou #viral #trendingNOTES AND QUOTES BEGIN~~~Susan Kokinda: ....that is not Lindsay Graham's regime change, and Donald Trump made that very clear in an \u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4397077/posts",
-    "timestamp": "2026-09-27T20:38:53Z"
-  },
-  {
-    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump | TechCrunch",
-    "description": "Anthropic\u2019s CEO is about to have dinner with President Trump | TechCrunchtechcrunch.com",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "timestamp": "2026-09-27T20:34:28Z"
-  },
-  {
-    "title": "\u2018Atrocious\u2019 crime: Cuban official decries possibility of US military action",
-    "description": "Cuba's deputy foreign minister slams US sanctions, labelling them 'equivalent to genocide'.",
-    "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action",
-    "timestamp": "2026-09-27T20:34:09Z"
-  },
-  {
-    "title": "Jon Husted-Backed Ratepayer Protection Bill Aims to Protect Families, Small Businesses from Large Electricity Users, Data Centers",
-    "description": "Taxpayers would be held harmless from large electricity users, such as data centers, under legislation backed by Ohio Republican Sen. Jon Husted, with voting possibly as early as this week. The legislation already received overwhelming support in the U.S. Hou\u2026",
-    "link": "https://www.breitbart.com/politics/2026/09/27/jon-husted-backed-ratepayer-protection-bill-protects-electricity-users/",
-    "timestamp": "2026-09-27T20:32:45Z"
-  },
-  {
-    "title": "Republican's searing Trump takedown stuns analysts: 'The cracks are growing'",
-    "description": "A Republican senator uncorked a searing takedown of President Donald Trump on Sunday, which stunned some political analysts. Sen. John Kennedy (R-LA) discussed Trump's recent taxpayer-funded ads on \"Face the Nation\" with Margaret Brennan. Brennan compared it \u2026",
-    "link": "https://www.rawstory.com/john-kennedy-2677948417/",
-    "timestamp": "2026-09-27T20:24:13Z"
-  },
-  {
-    "title": "Allegations of US interference in Quebec election",
-    "description": "As Quebec's election enters its final stretch, U.S. interference allegations prompted a CSIS contact and calls for from party leaders for transparency.",
-    "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
-    "timestamp": "2026-09-27T20:17:19Z"
-  },
-  {
-    "title": "Anthropic and OpenAI sound the alarm on AI safety",
-    "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-    "link": "https://www.wtae.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-    "timestamp": "2026-09-27T20:16:48Z"
-  },
-  {
-    "title": "Anthropic and OpenAI sound the alarm on AI safety",
-    "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-    "link": "https://www.wpbf.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-    "timestamp": "2026-09-27T20:16:37Z"
-  },
-  {
-    "title": "Anthropic and OpenAI sound the alarm on AI safety",
-    "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-    "link": "https://www.wesh.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-    "timestamp": "2026-09-27T20:16:32Z"
-  },
-  {
-    "title": "CNN star Jake Tapper clashes with Trump's UN ambassador as he begs live on air for his network to be let back into press pool",
-    "description": "CNN anchor Jake Tapper confronted President Donald Trump's UN Ambassador Mike Waltz  in a Sunday interview.",
-    "link": "https://www.dailymail.com/media/article-16164523/CNN-Jake-Tapper-begs-ambassador-Mike-Waltz-press-pool.html",
-    "timestamp": "2026-09-27T20:07:40Z"
-  },
-  {
-    "title": "Iran Says Won\u2019t Soften Demands As Trump Rejects Hormuz Offer",
-    "description": "By\u00a0Eltaf Najafizada and Courtney Subramanian Sep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it won\u2019t soften its conditions, while President...",
-    "link": "https://gcaptain.com/iran-says-wont-soften-demands-as-trump-rejects-hormuz-offer/",
-    "timestamp": "2026-09-27T20:07:19Z"
-  },
-  {
-    "title": "The most ironic thing happened with Donald Trump during ESPN's Texas-Volunteers game broadcast",
-    "description": "Donald Trump\u2019s presence at sporting events always gets some kind of virality, and this time a weird occurrence happened during a college football game broadcast. Trump attended the University of Texas at Austin and University of Tennessee game on Saturday, Se\u2026",
-    "link": "https://clutchpoints.com/ncaa-football/tennessee-football-news-most-ironic-thing-happened-donald-trump-during-espns-texas-volunteers-game-broadcast",
-    "timestamp": "2026-09-27T20:05:42Z"
-  },
-  {
-    "title": "Why has Trump rejected Iran\u2019s peace proposal?",
-    "description": "The US president has reportedly threatened to resume strikes on Iran.",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal",
-    "timestamp": "2026-09-27T20:03:04Z"
-  },
-  {
-    "title": "Iran warns US of 'doomsday war,' claims it has changed military tactics",
-    "description": "Iranian Foreign Minister Abbas Araghchi tells NBC that Tehran is prepared for a 'doomsday war' with the US but remains willing to pursue diplomacy.",
-    "link": "https://www.israelnationalnews.com/news/433734",
-    "timestamp": "2026-09-27T20:02:14Z"
-  },
-  {
-    "title": "IRGC Threatens To Attack US Warships in the Indian Ocean if Hostilities Resume \u2013 Warning Comes as UK Probes Iran Links in Foiled Terrorist Attack at Fairford Airbase",
-    "description": "Iranian threat in the Middle East and beyond.\nThe post IRGC Threatens To Attack US Warships in the Indian Ocean if Hostilities Resume \u2013 Warning Comes as UK Probes Iran Links in Foiled Terrorist Attack at Fairford Airbase appeared first on The Gateway Pundit.",
-    "link": "https://www.thegatewaypundit.com/2026/09/irgc-threatens-attack-us-warships-indian-ocean-if/",
-    "timestamp": "2026-09-27T20:00:55Z"
-  },
-  {
-    "title": "Susan Collins Gaining Momentum in Maine Senate Race",
-    "description": "\"A majority of voters say they view Collins positively, which was not the case in our poll over the summer. She has made gains with independent voters, and is even winning 8 percent of Democrats.\"\nThe post Susan Collins Gaining Momentum in Maine Senate Race f\u2026",
-    "link": "https://legalinsurrection.com/2026/09/susan-collins-gaining-momentum-in-maine-senate-race/",
-    "timestamp": "2026-09-27T20:00:33Z"
-  },
-  {
-    "title": "Twisted \u20188647\u2019 sign hung over Highway 101 near Santa Barbara",
-    "description": "The term \u201c86\u201d can mean to remove or get rid of something, while \u201c47\u201d refers to Donald Trump as the 47th president.",
-    "link": "https://nypost.com/2026/09/27/us-news/8647-protest-sign-hung-over-highway-101-near-santa-barbara-chp-called/",
-    "timestamp": "2026-09-27T19:58:34Z"
-  },
-  {
-    "title": "LSU football news: Whit Weeks' fractured leg comes with 1 'positive' note",
-    "description": "After the LSU football team routed Texas A&M on Saturday , 35-6, the program would not leave unscathed as linebacker Whit Weeks exited the game with a leg injury. As Weeks was seen with crutches during LSU\u2019s win over the Aggies , the latest injury update does\u2026",
-    "link": "https://clutchpoints.com/ncaa-football/lsu-football-news-whit-weeks-fractured-leg-comes-with-1-positive-note",
-    "timestamp": "2026-09-27T19:55:27Z"
-  },
-  {
-    "title": "Blanche says reporters \u2018one-sided news\u2019 is a national security issue worthy of barring press | CNN Politics",
-    "description": "Attorney General Todd Blanche said on Sunday that media outlets reporting \u201cone-sided\u201d news is a national security issue that merits a White House ban.",
-    "link": "https://www.cnn.com/2026/09/27/politics/todd-blanche-white-house-press-ban",
-    "timestamp": "2026-09-27T19:54:45Z"
-  },
-  {
-    "title": "Kyle Whittingham is sick of 'excessive' Achilles heel that is costing Michigan football",
-    "description": "As the Michigan football team let go of a last-second touchdown by the Iowa Hawkeyes to lose the contest, 20-19, the program looks to fix the errors and bounce back after a brutal defeat. With the Michigan football team walked off by Iowa , head coach Kyle Wh\u2026",
-    "link": "https://clutchpoints.com/ncaa-football/michigan-football-news-kyle-whittingham-sick-excessive-achilles-heel-that-costing-wolverines",
-    "timestamp": "2026-09-27T19:45:16Z"
-  },
-  {
-    "title": "Dario Amodei Is Reportedly Having One of Those Cursed One-on-One Dinners With Trump",
-    "description": "Trump and the Anthropic CEO are reportedly breaking bread Sunday night.",
-    "link": "https://gizmodo.com/dario-amodei-is-reportedly-having-one-of-those-cursed-one-on-one-dinners-with-trump-2000817873",
-    "timestamp": "2026-09-27T19:42:55Z"
   }
 ]
