@@ -1,5 +1,521 @@
 [
   {
+    "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
+    "description": "The Smithsonian Institution is using artificial intelligence to better understand its collection related to the American Revolution.",
+    "link": "https://www.clickondetroit.com/news/politics/2026/10/03/how-the-smithsonian-is-using-ai-to-connect-artifacts-from-the-american-revolution/",
+    "timestamp": "2026-10-03T06:12:14Z"
+  },
+  {
+    "title": "How is the EU dealing with energy price shocks?",
+    "description": "RT\u00c9's Europe Editor Tony Connelly assesses how the EU is dealing with the energy price shock and what choices governments face in trying to alleviate the pressure on households.",
+    "link": "https://www.rte.ie/news/analysis-and-comment/2026/1003/1593854-europe-energy-diesel/",
+    "timestamp": "2026-10-03T06:00:02Z"
+  },
+  {
+    "title": "Ukrainian Strike on Russian Town Leaves 12 Civilians Injured, Official Says",
+    "description": "A Ukrainian drone struck the Russian town of Trubchevsk in the Bryansk Region on Sept. 30, 2026, injuring 12 civilians, according to Bryansk Region Acting Governor Egor Kovalchuk. Seven of the injured were college students, and one person was in serious condi\u2026",
+    "link": "https://www.naturalnews.com/2026-10-03-ukranian-strike-russian-town-12-civilians-injured.html",
+    "timestamp": "2026-10-03T06:00:00Z"
+  },
+  {
+    "title": "Report: Secret Meeting of Hezbollah, Syrian Officials Held in Turkey",
+    "description": "Representatives of Hezbollah and the new Syrian government held a face-to-face meeting in Turkey in an effort to calm tensions between the two sides, according to Reuters, which cited unidentified sources. The reported talks, disclosed on 1 October, were desc\u2026",
+    "link": "https://www.naturalnews.com/2026-10-03-report-meeting-hezbollah-syrian-officials-in-turkey.html",
+    "timestamp": "2026-10-03T06:00:00Z"
+  },
+  {
+    "title": "Trump Says He May Invoke Insurrection Act Around Midterms, Officials Say",
+    "description": "President Donald Trump said he may invoke the Insurrection Act in connection with the upcoming midterm elections, according to a report by The Hill. The remarks were made to reporters, officials said, without specifying a date or location. The Insurrection Ac\u2026",
+    "link": "https://www.naturalnews.com/2026-10-03-trump-may-invoke-insurrection-act-around-midterms.html",
+    "timestamp": "2026-10-03T06:00:00Z"
+  },
+  {
+    "title": "Hegseth Appoints Major MAGA Donors as Pentagon Advisors, Raising Conflict of Interest Concerns",
+    "description": "Secretary of War Pete Hegseth announced a new task force in the Department of War called Project Meridian at an event in Quantico, Virginia on Wednesday, Sept. 30. The Guardian reported that the secretary appointed tech billionaires Elon Musk and Palmer Lucke\u2026",
+    "link": "https://www.naturalnews.com/2026-10-03-hegseth-appoints-major-maga-donors-pentagon-advisors.html",
+    "timestamp": "2026-10-03T06:00:00Z"
+  },
+  {
+    "title": "Trump declines to reveal next move on Iran, says conflict 'won't be long'",
+    "description": "The US president said the situation was \"working out very well\" and predicted oil prices would fall once the Iran conflict ends, without giving details of his next steps or a timeline",
+    "link": "https://www.business-standard.com/world-news/trump-declines-to-reveal-next-move-on-iran-says-conflict-won-t-be-long-126100300169_1.html",
+    "timestamp": "2026-10-03T05:59:30Z"
+  },
+  {
+    "title": "Former GOP Rep. David Rivera sentenced to 10 years in prison for secret Venezuela lobbying",
+    "description": "A former Miami congressman and longtime friend of US Secretary of State Marco Rubio was sentenced Friday to 10 years in prison in connection with a secret $50 million lobbying campaign on Venezuela\u2019s behalf during the first Trump administration.",
+    "link": "https://nypost.com/2026/10/03/us-news/florida-gop-rep-david-rivera-sentenced-to-10-years-prison-for-secret-venezuela-lobbying/",
+    "timestamp": "2026-10-03T05:51:24Z"
+  },
+  {
+    "title": "US lawmaker hails arrest of terrorist leader",
+    "description": "A US lawmaker, Riley Moore, has welcomed the reported arrest of Mahmoud Adam, an alleged terrorist leader accused of killing Christians in Nigeria.\n\nRead More: https://punchng.com/us-lawmaker-hails-arrest-of-terrorist-leader/",
+    "link": "https://punchng.com/us-lawmaker-hails-arrest-of-terrorist-leader/",
+    "timestamp": "2026-10-03T05:50:07Z"
+  },
+  {
+    "title": "Trump threatens to 'charge' Korea 'more' if it rejects Alaska LNG project",
+    "description": "WASHINGTON \u2014 U.S. President Donald Trump on Friday threatened to \"charge\" Korea \"more\" if it does not agree to invest in a liquefied natural gas (LNG) project in Alaska, which he has claimed the Asian country will participate in.\nTrump made the remarks during\u2026",
+    "link": "https://biztoc.com/x/0ac75f8b6c75751f",
+    "timestamp": "2026-10-03T05:43:13Z"
+  },
+  {
+    "title": "Xi Jinping's 'unusual' demands of Trump during his US visit are revealed including 'secret' West Wing room for him and his wife... as telling concerns from aides offer rare glimpse of Chinese leader's problems",
+    "description": "The President appeared to get along famously with the Communist Chinese President during his time in DC, but behind the scenes there was reportedly a list of unprecedented requests.",
+    "link": "https://www.dailymail.com/news/article-16179965/Xi-Jinping-unusual-demands-Trump-US-visit-revealed.html",
+    "timestamp": "2026-10-03T05:42:20Z"
+  },
+  {
+    "title": "Xi Jinping's 'unusual' demands of Trump during his US visit are revealed including 'secret' West Wing room for him and his wife... as telling concerns from aides offer rare glimpse of Chinese leader's problems",
+    "description": "The President appeared to get along famously with the Communist Chinese President during his time in DC, but behind the scenes there was reportedly a list of unprecedented requests.",
+    "link": "https://www.dailymail.com/news/article-16179965/Xi-Jinping-unusual-demands-Trump-US-visit-revealed.html",
+    "timestamp": "2026-10-03T05:42:20Z"
+  },
+  {
+    "title": "What is \u2018Patel Report\u2019? FBI\u2019s new classified, internal document chronicles its past failures",
+    "description": "FBI Director Kash Patel's critics say his scrutiny of his predecessors is part of an effort to rewrite history in favour of US President Donald Trump",
+    "link": "https://www.thehindubusinessline.com/news/world/what-is-patel-report-fbis-new-classified-internal-document-chronicles-its-past-failures/article71539736.ece",
+    "timestamp": "2026-10-03T05:25:09Z"
+  },
+  {
+    "title": "'They were doing the nuclear': White House fails to explain Trump's weird claim",
+    "description": "Jen Psaki considers Donald Trump accusation that news organizations are spreading misinformation about national security and ...",
+    "link": "https://biztoc.com/x/431734ec62b9f9fe",
+    "timestamp": "2026-10-03T05:19:56Z"
+  },
+  {
+    "title": "Zelensky asked Trump to sanction Chinese, Russian satellite firms",
+    "description": "Ukrainian President Volodymyr Zelensky asked United States President Donald Trump to impose sanctions on Chinese and Russian companies developing a satellite network. He told the Financial Times that ...",
+    "link": "https://biztoc.com/x/4dc431df7f9446a2",
+    "timestamp": "2026-10-03T05:14:48Z"
+  },
+  {
+    "title": "Eric Schmidt argues a mutual pause in the AI race is unfeasible",
+    "description": "Schmidt's stance suggests AI competition will persist, emphasizing the need for robust safety measures and international cooperation to manage risks.\nThe post Eric Schmidt argues a mutual pause in the AI race is unfeasible appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/eric-schmidt-ai-pause-unfeasible/",
+    "timestamp": "2026-10-03T05:06:37Z"
+  },
+  {
+    "title": "Donald Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare",
+    "description": "President Donald Trump announced a one-time $90 payment for over 20 million Americans enrolled in Medicare. The payments are intended to assist with monthly medical insurance premiums as the midterm elections approach. Most eligible seniors will receive the p\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-says-us-to-send-one-time-90-payment-to-20-million-seniors-enrolled-in-medicare/articleshow/134652177.cms",
+    "timestamp": "2026-10-03T05:04:39Z"
+  },
+  {
+    "title": "Pat Leahy: What do Northern Ireland\u2019s swing \u2018persuadables\u2019 see in Drumcree?",
+    "description": "For those in south, the events highlight the continuing divisions in Northern Ireland",
+    "link": "https://www.irishtimes.com/opinion/2026/10/03/pat-leahy-what-do-northern-irelands-swing-persuadables-see-in-drumcree/",
+    "timestamp": "2026-10-03T05:00:01Z"
+  },
+  {
+    "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
+    "description": "The Smithsonian Institution is using artificial intelligence to better understand its collection related to the American Revolution",
+    "link": "https://abcnews.com/US/wireStory/smithsonian-ai-connect-artifacts-american-revolution-136966980",
+    "timestamp": "2026-10-03T04:59:37Z"
+  },
+  {
+    "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
+    "description": "President Donald Trump is trying to rally voters in the Dayton, Ohio, area on Saturday",
+    "link": "https://abcnews.com/US/wireStory/gut-punch-ohio-1400-laid-off-truck-factory-136966905",
+    "timestamp": "2026-10-03T04:52:30Z"
+  },
+  {
+    "title": "Trump announces one-time $90 payment for over 20 million Medicare seniors",
+    "description": "By Kanishka Singh WASHINGTON, Oct 2 (Reuters) - President Donald Trump said the US government will send a one-time $90 payment to more than 20 million \u200cAmericans enrolled in Medicare, a health insurance program for the elderly, \u200cto help offset the cost of the\u2026",
+    "link": "https://www.yahoo.com/news/politics/articles/trump-says-us-send-one-045116568.html",
+    "timestamp": "2026-10-03T04:51:16Z"
+  },
+  {
+    "title": "Trump says he feels 'badly' for Cornell 7 as he slams investigator Letitia James with 'racist' nickname",
+    "description": "On Thursday, Democrat Hochul signed an executive order appointing James to oversee the case in which a woman claims she was gang raped\u00a0by seven fraternity members.",
+    "link": "https://www.dailymail.com/news/article-16179697/Donald-Trump-Cornell-Letitia-james.html",
+    "timestamp": "2026-10-03T04:49:56Z"
+  },
+  {
+    "title": "Trump Defends Prolonged Iran War After Earlier 'Two or Three Weeks' Timeline",
+    "description": "US President Donald Trump defended the continuing US war with Iran during a campaign rally in Oklahoma, arguing that his earlier prediction of a quick conclusion referred to what he described as the destruction of Iran\u2019s nuclear capabilities rather than the e\u2026",
+    "link": "https://sputnikglobe.com/20261003/trump-defends-prolonged-iran-war-after-earlier-two-or-three-weeks-timeline-1124827876.html",
+    "timestamp": "2026-10-03T04:49:38Z"
+  },
+  {
+    "title": "Trump Calls on Americans to Endure High Fuel Prices as War on Iran Drags on",
+    "description": "US President Donald Trump defended the economic cost of the continuing war with Iran during a campaign appearance in Oklahoma, telling Americans that higher fuel prices were a \u201csmall price\u201d compared with what he described as the danger of Tehran obtaining a n\u2026",
+    "link": "https://sputnikglobe.com/20261003/trump-calls-on-americans-to-endure-high-fuel-prices-as-war-on-iran-drags-on-1124827742.html",
+    "timestamp": "2026-10-03T04:42:22Z"
+  },
+  {
+    "title": "Flydubai co-pilot accused of attack was previously removed from Oman Air role over extremist views",
+    "description": "The Omani co-pilot accused of attacking the captain of a Flydubai flight to Tel Aviv was reportedly removed from an earlier Oman Air role over extremist concerns, as UAE prosecutors investigate whether the attack involved terrorism or planning\nThe post Flydub\u2026",
+    "link": "https://en.protothema.gr/2026/10/03/flydubai-co-pilot-accused-of-attack-was-previously-removed-from-oman-air-role-over-extremist-views/",
+    "timestamp": "2026-10-03T04:42:06Z"
+  },
+  {
+    "title": "DOJ Argues CNN & Other Outlets Can Be Banned From White House If Trump Determines They Didn\u2019t Meet \u201cMinimum Requirements Of Professionalism\u201d",
+    "description": "The Justice Department argued that Donald Trump can legally ban CNN, MS NOW and Politico from the White House because he determined that they didn\u2019t meet the \u201cminimum requirements of professionalism.\u201d Last month, a federal judge granted the three outlets a te\u2026",
+    "link": "http://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-3-1237145951/",
+    "timestamp": "2026-10-03T04:36:35Z"
+  },
+  {
+    "title": "Trump: New WH ballroom will be world's finest",
+    "description": "United States President Donald Trump shared on Truth Social footage of the construction of the White House project, calling it \"The Great Ballroom and Military Complex.\"\"When completed, it will be the...",
+    "link": "https://biztoc.com/x/8b54505bbf59d9d1",
+    "timestamp": "2026-10-03T04:30:34Z"
+  },
+  {
+    "title": "Vast majority of G20 countries reject US stance on excess industrial capacity, forced labour",
+    "description": "G20 ministers mostly reject US calls to curb excess capacity, while Mexico and Argentina back the US on forced labor in supply chains.",
+    "link": "https://www.thehindubusinessline.com/news/world/vast-majority-of-g20-countries-reject-us-stance-on-excess-industrial-capacity-forced-labour/article71539637.ece",
+    "timestamp": "2026-10-03T04:17:57Z"
+  },
+  {
+    "title": "Are Americans paying the Price to preserve Israel\u2019s Nuclear Hegemony?",
+    "description": "Trump, at Netanyahu's urging, dropped an agreement that imposed the most stringent restrictions ever placed on a country's nuclear program",
+    "link": "https://www.juancole.com/2026/10/americans-preserve-hegemony.html",
+    "timestamp": "2026-10-03T04:06:00Z"
+  },
+  {
+    "title": "Ohio factory layoffs test Trump's economic pitch in a working-class stronghold",
+    "description": "WASHINGTON (AP) \u2014 Sipping tea from beer mugs with his coworkers, Kyle Bos listed the ways his life is changing.\n Bos has two daughters, with a third due in January. At the grocery store, five items cost as much as a full cart once did. And on Wednesday, Bos a\u2026",
+    "link": "https://www.yahoo.com/news/us/articles/gut-punch-ohio-nearly-1-040301412.html",
+    "timestamp": "2026-10-03T04:03:01Z"
+  },
+  {
+    "title": "Breaking down Trump\u2019s claim about Iranian nuclear sites",
+    "description": "The president said during a rally that the Iranian facilities were also \u2018drug factories.\u2019",
+    "link": "https://www.cnn.com/2026/10/03/politics/trump-drug-factories-claim-iran",
+    "timestamp": "2026-10-03T04:00:44Z"
+  },
+  {
+    "title": "Trump hits the road",
+    "description": "By J.R. DunnAnother Trump story for the ages.",
+    "link": "https://www.americanthinker.com/blog/2026/10/at-2026-10-04/",
+    "timestamp": "2026-10-03T04:00:00Z"
+  },
+  {
+    "title": "Europe's Diesel Problem",
+    "description": "Photo Credit:\n \n National ArchivesBy Toth IstvanAn unexpected global diesel crisis has emerged against the backdrop of armed conflicts in Ukraine and the Middle East.",
+    "link": "https://www.americanthinker.com/articles/2026/10/europe-s-diesel-problem/",
+    "timestamp": "2026-10-03T04:00:00Z"
+  },
+  {
+    "title": "All Hands on Deck for the Midterms",
+    "description": "Photo Credit:Image via Pixabay, Pixabay License.\r\n\n\n \n PixabayBy J.B. ShurkWe need another victory.",
+    "link": "https://www.americanthinker.com/articles/2026/10/all-hands-on-deck-for-the-midterms/",
+    "timestamp": "2026-10-03T04:00:00Z"
+  },
+  {
+    "title": "\u2018Full pardon\u2019 \u2013 Donald Trump offers Dennis Rodman, Enes Kanter WNBA route",
+    "description": "Donald Trump has said he would give former NBA stars Dennis Rodman and Enes Kanter Freedom a \u201cfull pardon\u201d to compete in women\u2019s sports, including the WNBA. The comments came during a rally in Oklahoma, with Kanter Freedom having already declared his intentio\u2026",
+    "link": "https://www.hitc.com/full-pardon-donald-trump-offers-dennis-rodman-enes-kanter-wnba-route/",
+    "timestamp": "2026-10-03T03:59:22Z"
+  },
+  {
+    "title": "Trump Announces $100 Checks to Seniors for Medicare Premiums",
+    "description": "President Donald Trump announced late Friday night that his administration will be sending out $100 checks immediately to over 20 million seniors to help them pay for Medicare Part B premiums. He said the funding will come from the Medicare Improvement Fund, \u2026",
+    "link": "https://biztoc.com/x/4cb7e7d1924fb8b5",
+    "timestamp": "2026-10-03T03:58:11Z"
+  },
+  {
+    "title": "Trump Floats Self-Named Alabama Bridge Amid Kennedy Center Flop",
+    "description": "President Donald Trump suggested Friday that Alabama's long-awaited Mobile Bay bridge project could bear his name, reviving a familiar theme of attaching his brand to major public landmarks.\nSpeaking at a rally in Mobile, Trump highlighted the groundbreaking \u2026",
+    "link": "https://biztoc.com/x/cd05285f9e057e82",
+    "timestamp": "2026-10-03T03:57:53Z"
+  },
+  {
+    "title": "G7 nations bow to US pressure and avoid crippling diesel ban",
+    "description": "Crude oil prices eased after G7 leaders bowed to US President Donald Trump\u2019s demand to release oil and diesel reserves.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban",
+    "timestamp": "2026-10-03T03:54:58Z"
+  },
+  {
+    "title": "Trump announces checks of almost $100 will be sent to 20 million seniors 'immediately' - find out if you're eligible",
+    "description": "Donald Trump has announced one-time $90 payments for more than 20 million Medicare Part B enrollees, with deposits and checks expected in early October.",
+    "link": "https://www.dailymail.com/news/article-16179973/Trump-announces-100-checks-sent-20million-seniors-immediately-youre-eligible.html",
+    "timestamp": "2026-10-03T03:48:03Z"
+  },
+  {
+    "title": "Pilot stabbing raises aviation security questions, further unsettles region shaken by US-Iran war",
+    "description": "The attack on a flydubai flight from Dubai to Tel Aviv has disrupted regional aviation, prompting the UAE to suspend commercial flights to Israel and arrange repatriation services for stranded passengers. Investigators are examining the co-pilot\u2019s motive and \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/pilot-stabbing-raises-aviation-security-questions-further-unsettles-region-shaken-by-us-iran-war/articleshow/134651417.cms",
+    "timestamp": "2026-10-03T03:46:24Z"
+  },
+  {
+    "title": "\u2018Same Old James Franklin,\u2019 \u2018Still Can\u2019t Win The Big Ones\u2019 \u2014 LSU Champ Leads CFB World In Saying \u2018I Told You So\u2019 as Virginia Tech Falls to Pitt",
+    "description": "James Franklin\u2019s first Virginia Tech loss came with the exact soundtrack his critics have been waiting years to play. The Hokies nearly erased an 11-point fourth-quarter deficit, drove into position for a game-winning field goal, and watched John Love\u2019s 36-ya\u2026",
+    "link": "https://www.profootballnetwork.com/cfb/james-franklin-cant-win-lsu-cfb-world-virginia-tech-pitt/?utm_medium=rss&amp;utm_source=nordot",
+    "timestamp": "2026-10-03T03:45:49Z"
+  },
+  {
+    "title": "Asian carmakers besting U.S. rivals at home, China poised to strike",
+    "description": "U.S. President Donald Trump has floated the idea of allowing Chinese firms to enter the U.S. market, worrying U.S. carmakers.",
+    "link": "https://biztoc.com/x/9ed27b0e704ce44b",
+    "timestamp": "2026-10-03T03:44:37Z"
+  },
+  {
+    "title": "Senate Republicans Move Cash From Purple North Carolina To Red Kansas As Battle For Majority Shifts",
+    "description": "Senate Republicans\u2019 top campaign spending organization is pulling back in purple North Carolina and pouring money into red Kansas.",
+    "link": "https://www.huffpost.com/entry/us-elections-2026-senate-republicans-kansas-north-carolina_n_6ac078c1e4b02a789b35fff2",
+    "timestamp": "2026-10-03T03:43:55Z"
+  },
+  {
+    "title": "FAA panel finds Boeing 737 Max software glitch poses no safety risk",
+    "description": "The FAA review found pilots retain full control and receive clear indications during a go-around, a decision that could aid Boeing's approval bid for the largest 737 Max variant",
+    "link": "https://www.business-standard.com/world-news/faa-panel-finds-boeing-737-max-software-glitch-poses-no-safety-risk-126100300111_1.html",
+    "timestamp": "2026-10-03T03:38:09Z"
+  },
+  {
+    "title": "Trump announces nearly $100 Medicare subsidies for seniors",
+    "description": "United States President Donald Trump announced that his administration will issue financial aid to over 20 million seniors \"to help pay for their Medicare Part B premiums.\"The plan is designed to \"sub...",
+    "link": "https://biztoc.com/x/143767c4bf9aa613",
+    "timestamp": "2026-10-03T03:30:09Z"
+  },
+  {
+    "title": "Why Donald Trump Thinks Cornell 7 'Won't Get a Fair Shake' in Rape Probe",
+    "description": "President Donald Trump has slammed Attorney General Letitia James, suggesting the Cornell 7 frat boys at the center of rape allegations \u201cwon\u2019t get a fair shake\u201d if she is involved in proceedings. \u201cLetitia James is a corrupt person,\u201d Trump told White House rep\u2026",
+    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-slams-letitia-jamess-role-in-cornell-7-probe/",
+    "timestamp": "2026-10-03T03:28:09Z"
+  },
+  {
+    "title": "US midterm elections: Trump stumps for candidates in deep red Alabama and says he'll be back again next week",
+    "description": "President Donald Trump held a rally in Alabama where he urged support for local Republican candidates. The rally highlighted both Trump's loyalty among supporters and ongoing challenges for the GOP ahead of midterm elections. Attendees expressed their concern\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-trump-stumps-for-candidates-in-deep-red-alabama-and-says-hell-be-back-again-next-week/articleshow/134651295.cms",
+    "timestamp": "2026-10-03T03:25:23Z"
+  },
+  {
+    "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement",
+    "description": "Trump recently stated that he did not prematurely announce a South Korean investment in Alaska's LNG project. The $200 billion investment plan includes the building of eight large nuclear power plants and LNG infrastructure. However, South Korea's commitment \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement/articleshow/134651294.cms",
+    "timestamp": "2026-10-03T03:20:43Z"
+  },
+  {
+    "title": "ICE Is Reportedly Putting ICE Observers, Protesters in a Palantir Database",
+    "description": "A new lawsuit alleges DHS agents drove by observers' and protestors' homes to intimidate them and added their names to Homeland Security's investigations system, according to Wired.",
+    "link": "https://gizmodo.com/ice-reportedly-is-putting-ice-observers-in-a-palantir-database-2000821153",
+    "timestamp": "2026-10-03T03:00:40Z"
+  },
+  {
+    "title": "Geraldo Rivera Cautions Trump Over \u2018Spending Our Money to Enhance His Own Ego\u2019",
+    "description": "Geraldo Rivera was unconvinced Friday that Trump\u2019s so-called \u201cpublic service announcements\u201d serve a purpose beyond \u201cspending our money to enhance his own ego.\u201d\nThe post Geraldo Rivera Cautions Trump Over \u2018Spending Our Money to Enhance His Own Ego\u2019 first appea\u2026",
+    "link": "https://www.mediaite.com/media/tv/geraldo-rivera-cautions-trump-over-spending-our-money-to-enhance-his-own-ego/",
+    "timestamp": "2026-10-03T02:59:33Z"
+  },
+  {
+    "title": "Saudi Arabia plans assault on Houthis to break Red Sea chokehold",
+    "description": "Saudi Arabia is preparing for an offensive against Houthi militants in Yemen, focusing on securing the Bab el-Mandeb Strait. The operation is expected to include coordinated attacks from multiple fronts alongside Yemeni ground forces. Over 100,000 Yemeni troo\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
+    "timestamp": "2026-10-03T02:53:13Z"
+  },
+  {
+    "title": "Three college students face federal charges over alleged threats against Trump ahead of campus rally",
+    "description": "Three University of South Alabama students face federal charges over alleged social media threats against President Donald Trump ahead of his rally on campus in Mobile.",
+    "link": "https://www.foxnews.com/politics/three-college-students-face-federal-charges-alleged-threats-trump-campus-rally",
+    "timestamp": "2026-10-03T02:49:17Z"
+  },
+  {
+    "title": "Bill Maher Sends a Message to New Skydance Bosses Ahead of Merger Closing \u2013 and It\u2019s About Trump",
+    "description": "\"Whoever owns me now, don't believe what Trump is tweeting about me,\" the comedian says\nThe post Bill Maher Sends a Message to New Skydance Bosses Ahead of Merger Closing \u2013 and It\u2019s About Trump appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-reacts-paramount-skydance-warner-bros-merger-closing/",
+    "timestamp": "2026-10-03T02:41:08Z"
+  },
+  {
+    "title": "Secret gold, diamond hand-offs: DRI blows lid off fly-in, fly-out racket",
+    "description": "The Directorate of Revenue Intelligence arrested eight people involved in a gold-and-diamond smuggling operation at Mumbai airport. An employee at an airport store and multiple foreign nationals were apprehended during the investigation. Authorities intercept\u2026",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/secret-gold-diamond-hand-offs-dri-blows-lid-off-fly-in-fly-out-racket/articleshow/134650962.cms",
+    "timestamp": "2026-10-03T02:41:07Z"
+  },
+  {
+    "title": "\u2018Georgia Is Cooked,\u2019 \u2018Guest Picker on GameDay?\u2019 \u2014 CFB Fans React As President Donald Trump Announces He\u2019ll Attend Alabama Game",
+    "description": "College football fans took notice as President Donald Trump announced he\u2019s set to attend the highly anticipated SEC matchup between the Alabama Crimson Tide and Georgia Bulldogs at Bryant-Denny Stadium in Tuscaloosa. Trump made the announcement at an October \u2026",
+    "link": "https://www.profootballnetwork.com/cfb/georgia-is-cooked-guest-picker-on-gameday-cfb-fans-react-as-president-donald-trump-announces-hell-attend-alabama-game/?utm_medium=rss&amp;utm_source=nordot",
+    "timestamp": "2026-10-03T02:38:23Z"
+  },
+  {
+    "title": "John Oliver and Seth Meyers weigh in on the Jimmy Kimmel-Donald Trump feud: \u2018He would want to hang out with you\u2026\u2019",
+    "description": "On Jimmy Kimmel Live!, John Oliver and Seth Meyers took a lighthearted jab at the ongoing spat with Donald Trump. They humorously suggested that as long as Trump is fixated on Kimmel, they can avoid his wrath. This tension escalated after Kimmel's remarks reg\u2026",
+    "link": "https://timesofindia.indiatimes.com/tv/news/english/john-oliver-and-seth-meyers-weigh-in-on-the-jimmy-kimmel-donald-trump-feud-he-would-want-to-hang-out-with-you/articleshow/134650692.cms",
+    "timestamp": "2026-10-03T02:34:50Z"
+  },
+  {
+    "title": "FlyDubai incident: Co-pilot was barred by Oman over alleged extremist views",
+    "description": "The FlyDubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said Saturday.\nThe co-pilot was su\u2026",
+    "link": "https://www.business-standard.com/world-news/flydubai-incident-co-pilot-was-barred-by-oman-over-alleged-extremist-views-126100300069_1.html",
+    "timestamp": "2026-10-03T02:32:27Z"
+  },
+  {
+    "title": "Trump must close this Turkish loophole that allows Iran to skirt sanctions",
+    "description": "Washington has done well targeting Tehran\u2019s shipping, banking and financial networks.",
+    "link": "https://nypost.com/2026/10/02/opinion/trump-must-close-this-turkish-loophole-that-allows-iran-to-skirt-sanctions/",
+    "timestamp": "2026-10-03T02:28:01Z"
+  },
+  {
+    "title": "FBI commissions classified and internal 'Patel Report' about times when it 'fell short'",
+    "description": "The FBI has issued a classified report examining its past failures to ensure future accountability and trust. Director Kash Patel emphasizes confronting the agency's shortcomings rather than rewriting history, despite criticism. The report aims to reflect on \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/fbi-commissions-classified-and-internal-patel-report-about-times-when-it-fell-short/articleshow/134650682.cms",
+    "timestamp": "2026-10-03T02:24:09Z"
+  },
+  {
+    "title": "US, Australia suspend consular services in Brazil",
+    "description": "The US and Australia have announced a halt to their consular services in Brazil beginning Friday. The news comes two days before Brazilians head to the polls to vote in the high-stakes presidential election. The United States announced it was suspending consu\u2026",
+    "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311",
+    "timestamp": "2026-10-03T02:24:00Z"
+  },
+  {
+    "title": "'The Watcher' Season 2 begins production this fall; Naomi Watts, Bobby Cannavale, Margo Martindale, Isabel Gravitt to return",
+    "description": "Netflix has announced that Season 2 of the mystery horror series 'The Watcher' is set to begin production this fall in New York, reported Variety.",
+    "link": "https://timesofindia.indiatimes.com/web-series/news/english/the-watcher-season-2-begins-production-this-fall-naomi-watts-bobby-cannavale-margo-martindale-isabel-gravitt-to-return/articleshow/134650749.cms",
+    "timestamp": "2026-10-03T02:23:18Z"
+  },
+  {
+    "title": "Is this the new Karoline Leavitt? Trump poaches glamorous reporter, 24, after 'taking a liking' to her",
+    "description": "Beni Rae Harmony, 24, has confirmed her new position as Assistant Press Secretary and White House spokesperson after reports she had been poached from Real America's Voice.",
+    "link": "https://www.dailymail.com/news/article-16179855/New-Karoline-Leavitt-Donald-Trump-Beni-Rae-Harmony.html",
+    "timestamp": "2026-10-03T02:13:44Z"
+  },
+  {
+    "title": "Sharpton: Trump Showing 'Real Signs of Instability,' He 'Doesn't Make Sense'",
+    "description": "Friday on MS NOW\u2019s \u201cDeadline,\u201d network host Al Sharpton said President Donald Trump is showing \u201creal signs of instability.\u201d Sharpton said, \u201cI think that some of these people were so intimidated that they are still feeling that he has his\nThe post Sharpton: Tr\u2026",
+    "link": "https://www.breitbart.com/clips/2026/10/02/sharpton-trump-showing-real-signs-of-instability-he-doesnt-make-sense/",
+    "timestamp": "2026-10-03T02:07:07Z"
+  },
+  {
+    "title": "Trump Says He's 'Getting Good' At Being Impeached As Midterm Prospects Look Grim For GOP",
+    "description": "Trump followed up these comments with his third straight rally in a heavily Republican area.",
+    "link": "https://www.huffpost.com/entry/donald-trump-getting-good-at-being-impeached_n_6ac04650e4b02a789b35dfd7",
+    "timestamp": "2026-10-03T02:04:36Z"
+  },
+  {
+    "title": "Central Asia's biggest state holds month-long initiative to promote AI & digital tech",
+    "description": "Kazakhstan is hosting AI MONTH to emphasize the importance of artificial intelligence in digitalization. The AI & Digital Bridge 2026 forum is a key event highlighting technology advancements and collaborative efforts. President Kassym-Jomart Tokayev advocate\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/central-asias-biggest-state-holds-month-long-initiative-to-promote-ai-digital-tech/articleshow/134650540.cms",
+    "timestamp": "2026-10-03T01:49:27Z"
+  },
+  {
+    "title": "The first lady was right about bullying \u2014 we have to act",
+    "description": "First Lady Melania Trump devoted her first term to the problem of bullying \u2014 and she had a good point.",
+    "link": "https://nypost.com/2026/10/02/opinion/the-first-lady-was-right-about-bullying-we-have-to-act/",
+    "timestamp": "2026-10-03T01:37:43Z"
+  },
+  {
+    "title": "Asian carmakers besting US rivals at home, China poised to strike",
+    "description": "The analyst said that Asian brands are expected to account for more than half of US new vehicle sales in the third quarter, for the second quarter in a row, \"approaching record-high market share levels.\"\nThe post Asian carmakers besting US rivals at home, Chi\u2026",
+    "link": "https://www.digitaljournal.com/article/asian-carmakers-besting-us-rivals-at-home-china-poised-to-strike/",
+    "timestamp": "2026-10-03T01:30:10Z"
+  },
+  {
+    "title": "Alito Reveals He Considered Retirement, Will Revisit Decision Each Term",
+    "description": "Supreme Court Justice Samuel Alito said he considered retiring this year but decided to stay because he believed he could still contribute to the court, according to a CBS News interview clip released Friday. Alito, 76, was nominated by President\nThe post Ali\u2026",
+    "link": "https://www.breitbart.com/politics/2026/10/02/alito-reveals-he-considered-retirement-will-revisit-decision-each-term/",
+    "timestamp": "2026-10-03T01:29:56Z"
+  },
+  {
+    "title": "Households will pay more for energy because of federal policy changes, think tank says - ABC News",
+    "description": "Households will pay more for energy because of Trump's policy changes: Think tank\nHouseholds in the contiguous United States will pay thousands of dollars more for energy through 2040 because of federal policy changes since President Donald Trump returned to \u2026",
+    "link": "https://biztoc.com/x/4bed667af4ebb02f",
+    "timestamp": "2026-10-03T01:28:58Z"
+  },
+  {
+    "title": "North Korea test-fires missiles amid tensions over blasts across the border",
+    "description": "North Korea fired a ballistic missile from Wonsan on Saturday amid tensions over border land mine blasts that injured three South Korean soldiers.",
+    "link": "https://nypost.com/2026/10/02/world-news/north-korea-test-fires-missiles-amid-tensions-over-blasts-across-the-border/",
+    "timestamp": "2026-10-03T01:28:48Z"
+  },
+  {
+    "title": "The good news on federal workers you probably never heard about",
+    "description": "The federal government has reduced its workforce by 300,000 jobs since Jan. 20, 2025, bringing it down to a still-bulky 2.7 million employees.",
+    "link": "https://nypost.com/2026/10/02/opinion/the-good-news-on-federal-workers-you-probably-never-heard-about/",
+    "timestamp": "2026-10-03T01:24:36Z"
+  },
+  {
+    "title": "Trump threatens South Korea over Alaska LNG project dispute",
+    "description": "U.S. President Donald Trump threatened new trade retaliation against South Korea if it doesn\u2019t follow through with an investment in a liquefied natural gas project in Alaska.\nEarlier this week, Trump announced a $54 billion plan for the LNG export venture as \u2026",
+    "link": "https://biztoc.com/x/4e5f8974fd127a2e",
+    "timestamp": "2026-10-03T01:19:13Z"
+  },
+  {
+    "title": "Judge temporarily blocks Trump administration from building border wall in Texas\u2019 Big Bend region",
+    "description": "Judge Kathleen Cardone temporarily blocked the Trump administration from building a border wall across Texas\u2019 Big Bend region.",
+    "link": "https://nypost.com/2026/10/02/us-news/judge-temporarily-blocks-trump-administration-from-building-border-wall-in-texas-big-bend-region/",
+    "timestamp": "2026-10-03T01:18:25Z"
+  },
+  {
+    "title": "Trump Says Giants QB Introduced Him \u2018The Other Day\u2019 at Rally Held Four Months Ago",
+    "description": "President Donald Trump's definition of \"the other day\" seems to have broad applicability, as he used the term to describe an event that happened more than four months ago.\u00a0\nThe post Trump Says Giants QB Introduced Him \u2018The Other Day\u2019 at Rally Held Four Months\u2026",
+    "link": "https://www.mediaite.com/media/tv/trump-says-giants-qb-introduced-him-the-other-day-at-rally-held-four-months-ago/",
+    "timestamp": "2026-10-03T01:16:17Z"
+  },
+  {
+    "title": "Trump gushes over 'beautiful' younger aide onstage as Natalie Harp looks on",
+    "description": "President Donald Trump fawned over a younger aide's looks at an Oklahoma rally Thursday as devoted aide Natalie Harp looked on.Trump brought 31-year-old communications adviser Margo Martin, an Oklahoma native, onto the stage in Durant, the Daily Beast reporte\u2026",
+    "link": "https://www.rawstory.com/natalie-harp-margo-martin/",
+    "timestamp": "2026-10-03T01:13:37Z"
+  },
+  {
+    "title": "North Korea test-fires ballistic missile as tensions grow over border mine blasts",
+    "description": "North Korea fired a ballistic missile that flew over 700 kilometers into the sea. This launch followed heightened tensions due to land mine blasts injuring three South Korean soldiers. South Korea condemned the missile tests, calling them a violation of U.N. \u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/north-korea-test-fires-ballistic-missile-as-tensions-grow-over-border-mine-blasts/articleshow/134650336.cms",
+    "timestamp": "2026-10-03T01:12:56Z"
+  },
+  {
+    "title": "FTC settles with Southern Glazer's over claim it discriminated against smaller alcohol sellers",
+    "description": "The Federal Trade Commission has settled with Southern Glazer\u2019s Wine and Spirits over claims of discrimination against small businesses",
+    "link": "https://abcnews.com/US/wireStory/ftc-settles-southern-glazers-claim-discriminated-smaller-alcohol-136962973",
+    "timestamp": "2026-10-03T01:07:44Z"
+  },
+  {
+    "title": "FlyDubai co-pilot who nearly crashed plane was barred from flying by Oman over extremism concerns",
+    "description": "A FlyDubai flight with 182 people faced a near-crash incident due to an attack on the cockpit. The co-pilot, previously barred from flying in Oman, was hired by the UAE airline. Investigations are ongoing with both Israeli and Emirati officials involved. The \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/flydubai-co-pilot-who-nearly-crashed-plane-was-barred-from-flying-by-oman-over-extremism-concerns/articleshow/134650346.cms",
+    "timestamp": "2026-10-03T01:07:36Z"
+  },
+  {
+    "title": "Judge temporarily blocks border wall construction in Texas\u2019 Big Bend region",
+    "description": "A federal court in Texas on Friday temporarily blocked the Trump administration from building a border wall and other infrastructure across the state\u2019s Big Bend region, in a victory for opponents who have pushed back against a key campaign promise by Presiden\u2026",
+    "link": "https://biztoc.com/x/10d7dfc1f48cf2ef",
+    "timestamp": "2026-10-03T01:05:24Z"
+  },
+  {
+    "title": "G7 agrees on deal to ease global energy supply concerns",
+    "description": "Paris \u2013 Group of Seven countries agreed Friday to release 100 million barrels of diesel and crude oil to ease global energy supply concerns, as President Donald Trump hailed the decision and said the U.S. would not impose a threatened diesel export ban.\nThe a\u2026",
+    "link": "https://biztoc.com/x/b311c912ad4a5707",
+    "timestamp": "2026-10-03T01:04:54Z"
+  },
+  {
+    "title": "Trump Worried Over Handpicked GOP Nominee in North Carolina\u2014What Polls Show",
+    "description": "President Donald Trump said Friday that he is concerned about Michael Whatley\u2019s campaign for U.S. Senate in North Carolina, as a major Republican-aligned political action committee paused advertising in the race and recent polls showed Democratic former Gover\u2026",
+    "link": "https://biztoc.com/x/d37c5803017332df",
+    "timestamp": "2026-10-03T00:58:25Z"
+  },
+  {
+    "title": "FlyDubai Co-Pilot Who Nearly Crashed Plane Was Barred From Flying By Oman Over Extremism Concerns",
+    "description": "Israeli Prime Minister Benjamin Netanyahu has said that the co-pilot had undergone \u201cIslamist radicalization,\u201d but has provided no evidence to back the assertion.",
+    "link": "https://www.huffpost.com/entry/flydubai-mideast-emergency-landing_n_6ac05103e4b0e84f8381032e",
+    "timestamp": "2026-10-03T00:58:23Z"
+  },
+  {
+    "title": "Trump Finds New Assistant Press Secretary in Real America\u2019s Voice Correspondent",
+    "description": "\u201cI\u2019m incredibly grateful to President Trump for this opportunity and his trust,\u201d Beni Rae Harmony says\nThe post Trump Finds New Assistant Press Secretary in Real America\u2019s Voice Correspondent appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/politics/trump-names-assistant-press-secretary-beni-rae-harmony/",
+    "timestamp": "2026-10-03T00:54:38Z"
+  },
+  {
+    "title": "US and Australia suspend diplomatic operations in Brazil before election",
+    "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+    "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+    "timestamp": "2026-10-03T00:46:10Z"
+  },
+  {
+    "title": "Trump says he will attend Alabama vs Georgia college football game at Bryant-Denny Stadium",
+    "description": "Donald Trump announced at a Mobile rally that he plans to attend the No. 7 Alabama vs. No. 2 Georgia showdown at Bryant-Denny Stadium on Oct. 10.",
+    "link": "https://www.foxnews.com/outkick-sports/trump-attend-alabama-vs-georgia-college-football-game-bryant-denny-stadium",
+    "timestamp": "2026-10-03T00:43:25Z"
+  },
+  {
+    "title": "Trump\u2019s striking the right balance for ensuring AI safety \u2014 and success",
+    "description": "Team Trump isn't just trusting Sam Altman & Co. to do the right thing.",
+    "link": "https://nypost.com/2026/10/02/opinion/trumps-striking-the-right-balance-for-ensuring-ais-safety-and-success/",
+    "timestamp": "2026-10-03T00:41:10Z"
+  },
+  {
     "title": "Trump: US investments fund $5,000 dividend plan",
     "description": "United States President Donald Trump said that a proposed $5,000 payout is \"very handleable\" by recirculating trillions of dollars in domestic investments within the country.\"The Trump dividend is app...",
     "link": "https://biztoc.com/x/6cf0072911bc806b",
@@ -82,515 +598,5 @@
     "description": "Defense Secretary Pete Hegseth has issued an order to try to avoid a GOP electoral wipeout in the upcoming midterms. In a two-and-a-half-minute video posted...",
     "link": "https://www.thedailybeast.com/pentagon-pete-unveils-desperate-plot-to-save-trumps-skin/",
     "timestamp": "2026-10-03T00:00:13Z"
-  },
-  {
-    "title": "Tennessee fans drank $1.3 million worth of alcohol before, during Texas game attended by president",
-    "description": "Tennessee sold 95,000 units of alcohol and generated $1.3 million during Trump's visit to Knoxville, prompting a season-long happy hour at Neyland Stadium",
-    "link": "https://www.foxnews.com/outkick-sports/tennessee-fans-drank-1-3-million-worth-alcohol-texas-game-attended-president",
-    "timestamp": "2026-10-02T23:51:35Z"
-  },
-  {
-    "title": "Officials Applaud 96% Decrease In Muslim Migration Under Trump",
-    "description": "By PEDRO RODRIGUEZ, The Daily Signal | September 30, 2026\nLegal migration from Muslim-majority countries has dropped significantly since President Donald Trump took office, and officials concerned about the spread of Islam in the United States told the Daily \u2026",
-    "link": "https://biztoc.com/x/49b41a467271cbf8",
-    "timestamp": "2026-10-02T23:50:49Z"
-  },
-  {
-    "title": "G7 approves emergency release of 100million barrels of diesel and crude oil to try and curb soaring prices caused by global shortages",
-    "description": "G7 countries including Britain, France and Germany said they would release up to 100 million barrels starting immediately after the US threatened a diesel export ban.",
-    "link": "https://www.dailymail.com/news/article-16179627/G7-approves-emergency-release-diesel-crude-global-shortages.html",
-    "timestamp": "2026-10-02T23:50:02Z"
-  },
-  {
-    "title": "Donald Trump to jet in for college football showdown between Alabama and Georgia ahead of crunch midterm elections",
-    "description": "The president announced during a campaign rally in Mobile on Friday night that he will be in Tuscaloosa for a matchup of two of college football's biggest teams.",
-    "link": "https://www.dailymail.com/sport/college-football/article-16179815/donald-trump-alabama-georgia-football-tuscaloosa.html",
-    "timestamp": "2026-10-02T23:48:03Z"
-  },
-  {
-    "title": "Report: Dem Rep\u2019s Boyfriend Serves on Council of Political Influencer Program Under House Investigation",
-    "description": "Rep. Yassamin Ansari (D-AZ) is reportedly romantically involved with progressive commentator Jack Cocchiarella, according to a Thursday report by Sources Say News that examined his affiliation with an influencer program her House committee is investigating an\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/02/report-dem-reps-boyfriend-serves-on-council-of-political-influencer-program-under-house-investigation/",
-    "timestamp": "2026-10-02T23:44:44Z"
-  },
-  {
-    "title": "President Donald Trump To Attend Alabama-Georgia Football Game in Tuscaloosa",
-    "description": "This will mark Trump's third visit to Bryant-Denny Stadium since 2019.",
-    "link": "https://www.si.com/college/alabama/football/president-donald-trump-attend-alabama-georgia-football-game-in-tuscaloosa",
-    "timestamp": "2026-10-02T23:42:43Z"
-  },
-  {
-    "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-    "description": "The US military is dispatching a third aircraft carrier strike group to the Middle East, as President Donald Trump warned new strikes against Iran could be on the horizon. The deployment, which includes a specialist amphibious attack group, underscores the ra\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4397749/posts",
-    "timestamp": "2026-10-02T23:36:34Z"
-  },
-  {
-    "title": "Benjamin Netanyahu speaks to NATALIE LISBONA in an exclusive interview: 'I don't know how many lives we've saved by giving Britain information about impending attacks. But under Burnham they're a rogue state'",
-    "description": "Benjamin Netanyahu speaks to Natalie Lisbona in an exclusive interview.",
-    "link": "https://www.dailymail.com/news/article-16179675/Benjamin-Netanyahu-Britain-information-attacks-Burnham-state.html",
-    "timestamp": "2026-10-02T23:30:10Z"
-  },
-  {
-    "title": "JD Vance Won't Be GOP Nominee in 2028 as He 'Reeks With the Stink' of Donald Trump, Chris Christie Claims",
-    "description": "Chris Christie says JD Vance's close ties to Donald Trump could hurt his chances of becoming the Republican presidential nominee in 2028.",
-    "link": "https://radaronline.com/p/jd-vance-wont-be-gop-nominee-in-2028-chris-christie-claims-trump/",
-    "timestamp": "2026-10-02T23:30:00Z"
-  },
-  {
-    "title": "WATCH LIVE: President Donald Trump speaks at midterm rally in Mobile, Alabama | Fox News Video",
-    "description": "President Donald Trump delivers remarks at a midterm campaign rally at The Mitchell Center on the University of South Alabama campus in Mobile, gathering supporters ahead of key elections across the country.",
-    "link": "https://www.foxnews.com/video/6406137560112",
-    "timestamp": "2026-10-02T23:29:58Z"
-  },
-  {
-    "title": "'Unapologetic' Trump brazenly defends using $5.5MILLION of taxpayers' money to fund fawning 'Love Me' TV ads... and he's set to spend even more",
-    "description": "The TV commercials pushed\u00a0patriotic imagery and videos of Trump's accomplishments, as well as a promise that America 'will never be a communist country.'",
-    "link": "https://www.dailymail.com/news/article-16179727/Trump-taxpayer-money-TV-commercials.html",
-    "timestamp": "2026-10-02T23:23:16Z"
-  },
-  {
-    "title": "Tech bills of the week: AI research competitions; Prohibiting federal use of biometric tech; and more",
-    "description": "Lawmakers introduced a slew of measures this week that looked to rein in AI risks and provide new oversight and guardrails around the construction of new data centers.",
-    "link": "https://www.nextgov.com/artificial-intelligence/2026/10/tech-bills-week-ai-research-competitions-prohibiting-federal-use-biometric-tech-and-more/416405/",
-    "timestamp": "2026-10-02T23:21:00Z"
-  },
-  {
-    "title": "Trump Driving Kennedy Center Into The Ground On Purpose",
-    "description": "The Trump administration has been insisting to the courts\u2014and everyone else\u2014that the only way the Kennedy Center can stay open is if President Donald Trump\u2019s name can be slapped on it, because those people who raced to donate because Trump\u2019s name was on it wo\u2026",
-    "link": "https://crooksandliars.com/2026/10/trump-driving-kennedy-center-ground",
-    "timestamp": "2026-10-02T23:18:02Z"
-  },
-  {
-    "title": "As Russia Tests Western Alliance, US Lawmakers Push \u2018NATO Shield\u2019 Bill",
-    "description": "As tensions between NATO and Russia intensify amid growing fears of confrontation, US lawmakers are raising questions over the relationship between the United States and the military alliance.",
-    "link": "https://www.rferl.org/a/russia-tests-nato-us-bill/33869367.html",
-    "timestamp": "2026-10-02T23:13:20Z"
-  },
-  {
-    "title": "ASK JORDAN: What's the process for adding justices to Supreme Court?",
-    "description": "From ethics scandals to a series of controversial decisions favoring Donald Trump and the Republican Party, the Supreme Court ...",
-    "link": "https://biztoc.com/x/1e1d2bf1a3f95134",
-    "timestamp": "2026-10-02T23:09:40Z"
-  },
-  {
-    "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-    "description": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
-    "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi",
-    "timestamp": "2026-10-02T22:50:23Z"
-  },
-  {
-    "title": "White House Christmas tree coming from Wisconsin",
-    "description": "Every year the presidential family displays an adorned Christmas Tree in the White House Blue Room. This years tree is coming from a small village in Wisconsin, with a population of only 426. Silent Night Evergreens in Endeavor won last year's Christmas Tree \u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4397748/posts",
-    "timestamp": "2026-10-02T22:50:09Z"
-  },
-  {
-    "title": "Trump Official Reportedly Funneled $20M for Border Security to Pay for President\u2019s TV Ads",
-    "description": "Trump reportedly pressed his budget director to secure government money for promotional television ads that later aired across major networks.\nThe post Trump Official Reportedly Funneled $20M for Border Security to Pay for President\u2019s TV Ads first appeared on\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-official-reportedly-funneled-20m-for-border-security-to-pay-for-presidents-tv-ads/",
-    "timestamp": "2026-10-02T22:38:48Z"
-  },
-  {
-    "title": "6 years ago, Trump composed his most well-liked Tweet: AKA the day he got COVID",
-    "description": "In the wee hours of October 2, 2020, Donald Trump and his wife Melania announced they tested positive for Coronavirus. Moments after sharing the news, people took to social media to react to Trump\u2019s diagnosis.Tonight, @FLOTUS and I tested positive for COVID-1\u2026",
-    "link": "https://ohnotheydidnt.livejournal.com/132955788.html",
-    "timestamp": "2026-10-02T22:36:07Z"
-  },
-  {
-    "title": "A look at how overseas ballots are verified and counted in the midterms",
-    "description": "Defense Secretary Hegseth directed military commanders to have a one-day \"stand down\" this month so service members have time to vote in the midterms. In King County, Washington, ballots are already being processed from service members and Americans living ab\u2026",
-    "link": "https://www.pbs.org/newshour/show/a-look-at-how-overseas-ballots-are-verified-and-counted-in-the-midterms",
-    "timestamp": "2026-10-02T22:35:15Z"
-  },
-  {
-    "title": "Phil Collins on Piers Morgan Uncensored: The 7 Biggest Revelations",
-    "description": "Collins discussed his recent health issues, making amends with Paul McCartney, and his views on Donald Trump over the hour-long conversation.\nPhil Collins on Piers Morgan Uncensored: The 7 Biggest Revelations\nAlex Young",
-    "link": "https://consequence.net/2026/10/phil-collins-pieces-morgan-drums-mccartney/",
-    "timestamp": "2026-10-02T22:32:33Z"
-  },
-  {
-    "title": "Brooks and Atkins Stohr on GOP vulnerabilities in the midterms",
-    "description": "David Brooks of The Atlantic and Kimberly Atkins Stohr of The Boston Globe join Geoff Bennett to discuss the week in politics, including President Trump hitting the campaign trail in a string of reliably Republican states, GOP vulnerabilities heading into the\u2026",
-    "link": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-gop-vulnerabilities-in-the-midterms",
-    "timestamp": "2026-10-02T22:30:44Z"
-  },
-  {
-    "title": "Yes, you must vote!",
-    "description": "'When communists are gunning for government control, you can't just sit on the sidelines'",
-    "link": "https://www.wnd.com/2026/10/yes-you-must-vote/",
-    "timestamp": "2026-10-02T22:29:21Z"
-  },
-  {
-    "title": "Judge temporarily blocks border wall construction in Texas\u2019 Big Bend region",
-    "description": "A federal court in Texas has temporarily blocked the Trump administration from building a border wall in the Big Bend region",
-    "link": "https://abcnews.com/Politics/wireStory/judge-temporarily-blocks-border-wall-construction-texas-big-136961010",
-    "timestamp": "2026-10-02T22:28:17Z"
-  },
-  {
-    "title": "Nolo strengthens to a hurricane again in the Pacific Ocean",
-    "description": "Forecasters say Tropical Storm Nolo has strengthened to a hurricane again in the Pacific Ocean",
-    "link": "https://abcnews.com/US/wireStory/nolo-strengthens-hurricane-pacific-ocean-136961624",
-    "timestamp": "2026-10-02T22:27:17Z"
-  },
-  {
-    "title": "US, Australia suspend consular services in Brazil ahead of election",
-    "description": "U.S. consular services and the Australian embassy have closed in Brazil due to security concerns",
-    "link": "https://abcnews.com/International/wireStory/us-australia-suspend-consular-services-brazil-ahead-election-136961836",
-    "timestamp": "2026-10-02T22:26:04Z"
-  },
-  {
-    "title": "Kushner could cash in on Israel\u2019s war economy as he oversees negotiations",
-    "description": "Donald Trump\u2019s son-in-law Jared Kushner is apparently in position to make a killing off Israel\u2019s warmongering in the Middle East.\nThat\u2019s the crux of a new report from CNN, which helps shine light on ways the president\u2019s family is profiting from Israel\u2019s war e\u2026",
-    "link": "https://biztoc.com/x/cc4b7911178a6f0b",
-    "timestamp": "2026-10-02T22:22:54Z"
-  },
-  {
-    "title": "Jared Kushner scolds CNN over 'deeply misleading\u2019 report, says key info buried behind paywall",
-    "description": "Jared Kushner fired back at CNN over a report linking his firm Affinity Partners to Israeli defense investments, calling the story misleading.",
-    "link": "https://www.foxnews.com/media/jared-kushner-scolds-cnn-deeply-misleading-report-says-key-info-buried-paywall",
-    "timestamp": "2026-10-02T22:21:48Z"
-  },
-  {
-    "title": "Pope calls on artists to unite against AI",
-    "description": "Pope Leo XIV has urged artists to defend human creativity as AI increasingly blurs the line between art and machine-generated output Read Full Article at RT.com",
-    "link": "https://www.rt.com/news/646666-pope-ai-warnings-artists/",
-    "timestamp": "2026-10-02T22:21:41Z"
-  },
-  {
-    "title": "Qatari-gifted Air Force One undergoing 'cosmetic upgrades,' admin source says",
-    "description": "The new Air Force One gifted to the U.S. by Qatar is currently undergoing \"cosmetic upgrades\" to its interior, an administration source told ABC News on Friday.",
-    "link": "https://abcnews.com/Politics/qatari-gifted-air-force-undergoing-cosmetic-upgrades-administration/story?id=136958885",
-    "timestamp": "2026-10-02T22:17:09Z"
-  },
-  {
-    "title": "Trump Revisits the Scene of His Political Ascent",
-    "description": "\u201cEleven years ago, Donald Trump arrived in Mobile in his Boeing 757, strode onto a football field to \u2018Sweet Home Alabama\u2019 and was greeted by a sight that revealed the scale of his fledging political movement: Tens of thousands of people had braved sweltering \u2026",
-    "link": "https://politicalwire.com/2026/10/02/trump-revisits-the-scene-of-his-political-ascent/",
-    "timestamp": "2026-10-02T22:16:40Z"
-  },
-  {
-    "title": "Letter from House Committee on Natural Resources to Alliance for the Wild Rockies",
-    "description": "Read the full letter sent from the House Committee on Natural Resources to Alliance for the Wild Rockies sent this September.",
-    "link": "https://billingsgazette.com/news/local/government-politics/article_c4e70d85-dade-4947-8469-cd77203c96be.html",
-    "timestamp": "2026-10-02T22:15:00Z"
-  },
-  {
-    "title": "Why Carney\u2019s economic overhaul is clashing with Canada\u2019s unions",
-    "description": "Unions say proposed changes to Canada's labour laws could weaken workers\u2019 right to strike.",
-    "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions",
-    "timestamp": "2026-10-02T22:14:34Z"
-  },
-  {
-    "title": "FBI Records Reveal Trump Gunman's Redacted Chat Thread, Drone Photos",
-    "description": "Judicial Watch announced that it obtained 249 pages of new FBI records detailing a redacted \"chat thread\" tied to Thomas Matthew Crooks, the gunman who attempted to assassinate then-presidential candidate Donald Trump at a July 2024 rally in Butler, Pennsylva\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/02/fbi-records-reveal-trump-gunmans-redacted-chat-thread-drone-photos/",
-    "timestamp": "2026-10-02T22:11:34Z"
-  },
-  {
-    "title": "QUENTIN LETTS:\u00a0My fellow residents in Herefordshire voted in a Green MP. What on earth would they think if they met this collection of oddballs, Marxists and Islamic hard-liners!",
-    "description": "Fangs to the fore, Zack Polanski rallied his motley masses. The Green Party leader is a shouter.",
-    "link": "https://www.dailymail.com/debate/article-16179535/QUENTIN-LETTS-Herefordshire-Green-MP-Marxists-Islamic.html",
-    "timestamp": "2026-10-02T22:06:37Z"
-  },
-  {
-    "title": "US Human Rights Record Plummets From An Already Dismal Starting Point",
-    "description": "This article is republished from\u00a0The Conversation\u00a0under a Creative Commons license. Read the\u00a0original article. In the lead-up to the 2026 midterm elections, how is the U.S. government performing in terms of human rights? Listening to politicians, it can be di\u2026",
-    "link": "http://www.techdirt.com/2026/10/02/us-human-rights-record-plummets-from-an-already-dismal-starting-point/",
-    "timestamp": "2026-10-02T22:05:42Z"
-  },
-  {
-    "title": "Federal judge stops Education Department from releasing list of foreign sources of funding for Ivy League universities",
-    "description": "WASHINGTON \u2014 A federal judge blocked the Education Department on Thursday from releasing a list of foreign donors to Harvard, Columbia and other top US universities \u2014 ruling that the disclosure of the confidential information could \u201cconstitute irreparable har\u2026",
-    "link": "https://nypost.com/2026/10/02/us-news/federal-judge-stops-education-department-from-releasing-list-of-foreign-sources-of-funding-for-ivy-league-universities/",
-    "timestamp": "2026-10-02T22:01:50Z"
-  },
-  {
-    "title": "President: 'I feel badly' for accused gang rapists...",
-    "description": "Trump was prosecuted by New York AG Letitia James, who is taking over the Ivy League rape investigation, for business fraud after losing the 2020 election",
-    "link": "https://www.the-independent.com/news/world/americas/us-politics/trump-cornell-rape-investigation-letitia-james-b3060661.html",
-    "timestamp": "2026-10-02T22:00:12Z"
-  },
-  {
-    "title": "The shifting Senate map: From the Politics Desk",
-    "description": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team\u2019s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-    "link": "https://www.nbcnews.com/politics/politics-news/shifting-senate-map-politics-desk-rcna601205",
-    "timestamp": "2026-10-02T21:57:37Z"
-  },
-  {
-    "title": "OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers",
-    "description": "The former leader of artificial intelligence policy at the White House\u2019s Office of the National Cyber Director, Thomas Lind, joined OpenAI, The Information reported Friday (Oct. 2), citing the head of OpenAI\u2019s national security policy team. Lind joined OpenAI\u2026",
-    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-hires-former-white-house-cyber-official-regulators-probe-ai-dangers/",
-    "timestamp": "2026-10-02T21:56:38Z"
-  },
-  {
-    "title": "Donald Trump puts WNBA on blast with Enes Kanter, Dennis Rodman hype speech",
-    "description": "Enes Kanter Freedom and Dennis Rodman attended President Donald Trump\u2019s campaign rally at Choctaw Event Center in Durant, Oklahoma on Thursday. Trump took the time to give Kanter and Rodman a shoutout as he ranted about the transgender athlete debate. \u201cHave m\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4397745/posts",
-    "timestamp": "2026-10-02T21:55:21Z"
-  },
-  {
-    "title": "DOJ Reviewing Alleged 'Lawfare' Against Nixon in Watergate Investigation",
-    "description": "The Trump administration has launched a review of the decades-old investigation into President Richard Nixon and the infamous Watergate scandal, with the Department of Justice (DOJ) hearing a presentation from a former Nixon aide who argued that the deep stat\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/02/doj-reviewing-alleged-lawfare-against-nixon-in-watergate-investigation/",
-    "timestamp": "2026-10-02T21:53:57Z"
-  },
-  {
-    "title": "Obese Donald Trump Insists That He\u2019s An Awesome Physical Specimen",
-    "description": "During Donald Trump\u2019s visit to Texas on Thursday, he paused from boasting about his floundering economy to brag about his own physical magnificence. All in whatever is left of his own mind, of course.\n\u201cWho\u2019s the healthiest of all the presidents? Who would you\u2026",
-    "link": "https://crooksandliars.com/2026/10/obese-donald-trump-pretends-he-s-awesome",
-    "timestamp": "2026-10-02T21:52:30Z"
-  },
-  {
-    "title": "Trump says he didn't 'jump the gun' on South Korea's Alaska LNG investment",
-    "description": "Trump says he didn't 'jump the gun' on South Korea's Alaska LNG investmentnikkei.com",
-    "link": "https://asia.nikkei.com/business/energy/trump-says-he-didn-t-jump-the-gun-on-south-korea-s-alaska-lng-investment",
-    "timestamp": "2026-10-02T21:50:56Z"
-  },
-  {
-    "title": "Ex-Trump Spox Tells CNN Panel President\u2019s Team May Have Duped Network Into Airing His Ad \u2018For Free\u2019",
-    "description": "Dubke suggested the admin may have deliberately allowed CNN access to its ad Drop Box, knowing the network may air them for free while reporting the find.\nThe post Ex-Trump Spox Tells CNN Panel President\u2019s Team May Have Duped Network Into Airing His Ad \u2018For F\u2026",
-    "link": "https://www.mediaite.com/media/tv/ex-trump-spox-tells-cnn-panel-presidents-team-may-have-duped-network-into-airing-his-ad-for-free/",
-    "timestamp": "2026-10-02T21:46:34Z"
-  },
-  {
-    "title": "Dem AG Hopeful Shrugs Off Posts Comparing D-Day Troops To Antifa: \u2018I Have No Idea\u2019",
-    "description": "Nate Willems attempted to downplay a social media post comparing Antifa to American service members",
-    "link": "https://dailycaller.com/2026/10/02/dem-ag-hopeful-shrugs-off-posts-comparing-d-day-troops-to-antifa-i-have-no-idea",
-    "timestamp": "2026-10-02T21:46:10Z"
-  },
-  {
-    "title": "Senate secures vote on Trump\u2019s Saudi nuclear deal",
-    "description": "US senators secure a vote on Trump\u2019s proposed Saudi nuclear pact, with concerns over uranium enrichment and its potential impact on regional proliferation.",
-    "link": "https://www.israelnationalnews.com/news/434023",
-    "timestamp": "2026-10-02T21:42:17Z"
-  },
-  {
-    "title": "'Anxious' Trump Appears 'Worried and Fearful' During Oklahoma Rally, Says Expert \u2014 as Prez and GOP Expected to Stumble in Midterms",
-    "description": "Donald Trump exuded a wide range of emotions according to a body language expert, going from confidence to appearing 'anxious.'",
-    "link": "https://radaronline.com/p/anxious-donald-trump-appears-worried-fearful-oklahoma-rally-expert/",
-    "timestamp": "2026-10-02T21:36:02Z"
-  },
-  {
-    "title": "flydubai co-pilot is someone sent from Iran - Trump",
-    "description": "On September 30, an Omani national co-pilot on a flydubai passenger plane flying to Israel launched an unexpected attack on its chief pilot, Mr. Smith Machar. Following this unfortunate incident, the aircraft made an emergency landing in Saudi Arabia, where t\u2026",
-    "link": "https://english.gossiplankanews.com/2026/10/flydubai-co-pilot-is-someone-sent-from.html",
-    "timestamp": "2026-10-02T21:35:56Z"
-  },
-  {
-    "title": "Trump rules out diesel export ban after Europe agrees to tap reserves",
-    "description": "President Donald Trump said Friday he was ruling out a diesel export ban and never really considered one in the first place, hours after Europe caved to U.S. pressure and agreed to release fuel from its stockpiles.The announcement appears to put to rest more \u2026",
-    "link": "https://www.yahoo.com/news/politics/articles/trump-rules-diesel-export-ban-213037393.html",
-    "timestamp": "2026-10-02T21:30:37Z"
-  },
-  {
-    "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-    "description": "President Donald Trump said Friday that South Korea\u2019s investment agreement with the United States now includes $8.4 billion for an enhanced oil recovery project. Seoul says it agreed to no such thing. \u201cThe Republic of Korea Deal keeps getting BETTER! 8.4 Bill\u2026",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
-    "timestamp": "2026-10-02T21:30:00Z"
-  },
-  {
-    "title": "RAF Fairford: Trump And Rubio Hallucinate A Terror Plot",
-    "description": "By Kurt Nimmo via Ron Paul Institute for Peace and Prosperity | October 01, 2026\nPresident Donald Trump has gone and really done it this time. \u201cWe had them under view for a long time, and we got them,\u201d he said about the five British men arrested at RAF Fairfo\u2026",
-    "link": "https://biztoc.com/x/2cd4020108fcd980",
-    "timestamp": "2026-10-02T21:25:14Z"
-  },
-  {
-    "title": "Transportation works to ease fears about new AI air traffic control tool",
-    "description": "Rep. Don Beyer, D-Va., who has expressed skepticism about Transportation\u2019s rollout of an AI-powered tool at D.C.-area airports, said he had \u201ca good conversation\u201d with FAA Administrator Bryan Bedford about the new capability that helped to alleviate some of hi\u2026",
-    "link": "https://www.nextgov.com/artificial-intelligence/2026/10/transportation-works-ease-fears-about-new-ai-air-traffic-control-tool/416402/",
-    "timestamp": "2026-10-02T21:24:00Z"
-  },
-  {
-    "title": "Trump's son-in-law Jared Kushner lashes out at CNN over 'false' claims he's tied to Israeli arms firms boosted by Gaza war",
-    "description": "Jared Kushner has hit back at CNN after the network raised ethical questions about his overseas business ventures and his work in Donald Trump's administration.",
-    "link": "https://www.dailymail.com/news/article-16179541/Trumps-son-law-Jared-Kushner-lashes-CNN-false-claims-hes-tied-Israeli-arms-firms-boosted-Gaza-war.html",
-    "timestamp": "2026-10-02T21:16:54Z"
-  },
-  {
-    "title": "\u2018Like \u2026 What?\u2019 CNN\u2019s Kasie Hunt Absolutely Floored by Taxpayer-Funded Ad That Says \u2018God Made Trump\u2019",
-    "description": "CNN's Kasie Hunt was floored by the latest ads from the Trump administration, which claim that \"God made Trump.\" The ads are running on the network.\nThe post \u2018Like \u2026 What?\u2019 CNN\u2019s Kasie Hunt Absolutely Floored by Taxpayer-Funded Ad That Says \u2018God Made Trump\u2019 f\u2026",
-    "link": "https://www.mediaite.com/media/news/like-what-cnns-kasie-hunt-absolutely-floored-by-taxpayer-funded-ad-that-says-god-made-trump/",
-    "timestamp": "2026-10-02T21:10:53Z"
-  },
-  {
-    "title": "Exclusive \u2014 Sen. Bernie Moreno on Senate Rules: \u2018If We\u2019re Not Going to Have Debate, There Can\u2019t Be a Filibuster\u2019",
-    "description": "Moreno spoke about reforming Senate rules and nuking the filibuster\u00a0during a Breitbart News Fight Club Roundtable hosted by Breitbart News Editor-in-Chief Alex Marlow and Washington Bureau Chief Matthew Boyle.\nThe post Exclusive \u2014 Sen. Bernie Moreno on Senate\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/02/exclusive-sen-bernie-moreno-on-senate-rules-if-were-not-going-to-have-debate-there-cant-be-a-filibuster/",
-    "timestamp": "2026-10-02T21:10:03Z"
-  },
-  {
-    "title": "Sunny Hostin slams Trump as 'a wimp' as the View reacts to Pete Hegseth proclaiming 'No fatties, no tr***nies, no beardos, no weirdos, no wimps, no radicals' in the military",
-    "description": "The secretary of defense declared the Pentagon is 'no longer the woke department or the weak department' during the Wednesday speech.",
-    "link": "https://www.dailymail.com/media/article-16179437/sunny-hostin-view-pete-hegseth-wimps-military.html",
-    "timestamp": "2026-10-02T21:09:23Z"
-  },
-  {
-    "title": "Newsom Tells California Agencies To Keep Saying AI Despite Trump 'Super Intelligence' Order",
-    "description": "Newsom Tells California Agencies To Keep Saying AI Despite Trump 'Super Intelligence' Order\n \nAuthored by Chase Smith via The Epoch Times,\nCalifornia Gov. Gavin Newsom on Sept. 30 ordered state agencies to keep using the term \"artificial intelligence,\" one da\u2026",
-    "link": "https://biztoc.com/x/f7d322426ecbba56",
-    "timestamp": "2026-10-02T21:08:46Z"
-  },
-  {
-    "title": "FBI overhauls tech backbone to counter AI threats from foreign adversaries, reduce response times, Patel says",
-    "description": "Kash Patel says the FBI has surpassed 140 AI use cases after inheriting decades of outdated tech held together by leadership's band-aid fixes.",
-    "link": "https://www.foxnews.com/us/fbi-overhauls-tech-backbone-counter-ai-threats-foreign-adversaries-reduce-response-times-patel-says",
-    "timestamp": "2026-10-02T21:08:31Z"
-  },
-  {
-    "title": "The most innovative countries in the world",
-    "description": "Will Donald Trump hurt America\u2019s ranking?",
-    "link": "https://biztoc.com/x/12d74121951a1e1b",
-    "timestamp": "2026-10-02T21:05:48Z"
-  },
-  {
-    "title": "Who's making money on the govt's new name for AI?",
-    "description": "Who's making money on the govt's new name for AI?\r\n\n \n \n \n (Third column, 7th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:NOONAN: AI Full Speed Ahead Into Dark Unknown...\r\nVolunteer internet sleuths hunting down rogue agents...",
-    "link": "https://san.com/cc/whos-making-money-on-the-governments-new-name-for-ai/",
-    "timestamp": "2026-10-02T21:04:40Z"
-  },
-  {
-    "title": "Mullin Sounds Off on Why He\u2019s the \u2018Sixth Person\u2019 in Six Years To Lead Trump\u2019s DHS",
-    "description": "Markwayne Mullin opened up about his demanding job, saying there\u2019s a reason he is, by his count, \u201cthe sixth person\u201d to hold the post under Trump.\nThe post Mullin Sounds Off on Why He\u2019s the \u2018Sixth Person\u2019 in Six Years To Lead Trump\u2019s DHS first appeared on Medi\u2026",
-    "link": "https://www.mediaite.com/media/podcasts/mullin-sounds-off-on-why-hes-the-sixth-person-in-six-years-to-lead-trumps-dhs/",
-    "timestamp": "2026-10-02T21:03:16Z"
-  },
-  {
-    "title": "G-7 Agrees to Release 100 Million Barrels of Reserve Diesel",
-    "description": "The White House had threatened to ban U.S. diesel exports if Europe did not step up.",
-    "link": "http://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/",
-    "timestamp": "2026-10-02T21:01:12Z"
-  },
-  {
-    "title": "'It Has to Stop': Community Members Condemn ICE Arrests at Bus Stops After GOP Blocks Bill to Protect Kids",
-    "description": "Since Republicans in the US Senate this week blocked a bill to make school bus stops off-limits for US Immigration and Customs Enforcement, community members in Pennsylvania and Austin, Texas have expressed outrage by arrests made in front of children\u2014in at l\u2026",
-    "link": "https://www.commondreams.org/news/ice-raids-bus-stops",
-    "timestamp": "2026-10-02T21:00:32Z"
-  },
-  {
-    "title": "A New Trump Rule Could Transform Gun Sales. The President\u2019s Son Is Poised to Profit.",
-    "description": "The Trump administration has spent much of this year rewriting the federal government\u2019s approach to guns. Just last month, the Justice Department concluded that the ban on selling handguns to 18-20-year-olds is unconstitutional and would no longer be criminal\u2026",
-    "link": "https://www.motherjones.com/politics/2026/10/a-new-trump-rule-could-transform-gun-sales-the-presidents-son-is-poised-to-profit/",
-    "timestamp": "2026-10-02T20:59:38Z"
-  },
-  {
-    "title": "Alarm as GOP-Led Election Board Asks Trump Administration to Probe Georgia Voting Systems",
-    "description": "Experts are raising alarms after Georgia's Republican-led State Election Board requested that President Donald Trump's Department of Justice launch an investigation into state voting machines just over a month before the 2026 midterm elections.As reported by \u2026",
-    "link": "https://www.commondreams.org/news/georgia-doj-election-letter",
-    "timestamp": "2026-10-02T20:59:38Z"
-  },
-  {
-    "title": "Karine Jean-Pierre admits Biden admin failed on economic, age messaging, but claims Trump making same mistake",
-    "description": "Karine Jean-Pierre argued President Donald Trump is repeating former President Joe Biden's messaging failures on the economy, warning that grocery and gas prices remain undefeated.",
-    "link": "https://www.foxnews.com/media/karine-jean-pierre-admits-biden-admin-failed-economic-age-messaging-claims-trump-making-same-mistake",
-    "timestamp": "2026-10-02T20:59:25Z"
-  },
-  {
-    "title": "Top Senate Democrats Challenge Legality Of Pentagon\u2019s Planned Venezuela Oil Stake",
-    "description": "Four top Senate Democrats are challenging whether the Pentagon has the legal authority to take a 35 percent stake in a Venezuelan oil producer.",
-    "link": "https://dailycaller.com/2026/10/02/senate-democrats-pentagon-venezuela-oil-stake-nabep-office-strategic-capital",
-    "timestamp": "2026-10-02T20:58:05Z"
-  },
-  {
-    "title": "3 California Residents Sue ICE Officers Under New \u2018No Kings\u2019 Law",
-    "description": "The suits were amended after Gov. Gavin Newsom passed a new law creating legal mechanisms to sue federal immigration officers.",
-    "link": "https://www.kqed.org/news/12102161/3-california-residents-sue-ice-officers-under-new-no-kings-law",
-    "timestamp": "2026-10-02T20:57:16Z"
-  },
-  {
-    "title": "The \u2018golden passport\u2019: Argentina to offer citizenship for foreigners that make a $350,000 contribution to its treasury\u2014or invest $800,000 in its bonds",
-    "description": "Economy Minister Luis Caputo unveiled the so-called \u201cgolden passport\u201d scheme at an investor event in Paris, saying applications are expected to open before the end of the year.",
-    "link": "https://fortune.com/2026/10/02/golden-passport-argentina-foreigners-350000-treasury-800000/",
-    "timestamp": "2026-10-02T20:56:37Z"
-  },
-  {
-    "title": "Trump Claims Cornell 7 Won\u2019t \u2018Get a Fair Shake\u2019 From Letitia James",
-    "description": "Donald Trump weighed in on Letitia James being appointed special prosecutor to oversee the Cornell Seven case, saying he feels sorry for the students.\nThe post Trump Claims Cornell 7 Won\u2019t \u2018Get a Fair Shake\u2019 From Letitia James first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/trump-claims-cornell-7-wont-get-a-fair-shake-from-letitia-james/",
-    "timestamp": "2026-10-02T20:55:22Z"
-  },
-  {
-    "title": "Trump Looking into Richard Nixon's Infamous Watergate for Possible DOJ Misconduct \u2014 More Than 50 Years After Prez Was Impeached Over Scandal",
-    "description": "President Donald Trump's Department of Justice heard an argument about possible misconduct in the Watergate investigation.",
-    "link": "https://radaronline.com/p/trump-looking-into-richard-nixon-watergate-doj-misconduct/",
-    "timestamp": "2026-10-02T20:55:00Z"
-  },
-  {
-    "title": "Latin America sees China as more positive global influence than US: Poll",
-    "description": "Annual Latinobarometro survey finds views of China\u2019s influence improving as perceptions of US influence worsen.",
-    "link": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll",
-    "timestamp": "2026-10-02T20:52:29Z"
-  },
-  {
-    "title": "Rosie O'Donnell Apologizes for Saying Friend Wynonna Judd Is Trump Supporter",
-    "description": "Rosie O\u2019Donnell\u00a0is offering a public mea culpa after recently claiming her friend Wynonna Judd supports President Donald Trump\u2019s divisive policies. \u201cI just thought as she has performed at Mar-a-Lago that she was [a Trump supporter]. I apologize if I was wrong\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/rosie-odonnell-sorry-for-saying-wynonna-judd-supports-trump/",
-    "timestamp": "2026-10-02T20:52:06Z"
-  },
-  {
-    "title": "Trump Stops Using Luxurious But Defenseless Jet He Solicited From Qatar",
-    "description": "The president has for his five most recent trips, including Friday\u2019s, used the real Air Force One built for that purpose. The White House refuses to explain the switch.",
-    "link": "https://www.huffpost.com/entry/trump-abandons-qatari-jet_n_6abfb1e9e4b02a789b355354",
-    "timestamp": "2026-10-02T20:50:31Z"
-  },
-  {
-    "title": "\u2018He sold his anti-communism to communists\u2019: Former GOP Rep. David Rivera gets 10 years in prison for $50 million lobbying \u2018from the Maduro regime\u2019",
-    "description": "David Rivera of Miami has been jailed since his conviction in May for conspiracy to commit money laundering and failing to register as a foreign agent for the government of Nicol\u00e1s Maduro.",
-    "link": "https://fortune.com/2026/10/02/former-gop-rep-david-rivera-10-years-prison-50-million-maduro/",
-    "timestamp": "2026-10-02T20:49:39Z"
-  },
-  {
-    "title": "Trump demands Europe release emergency diesel reserves",
-    "description": "Donald Trump has demanded that Europe release emergency diesel reserves or risk being cut off from US supplies. Britain joined crisis talks with European allies on Thursday after the US president threatened to choke off diesel exports to France and Germany. M\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4397737/posts",
-    "timestamp": "2026-10-02T20:48:06Z"
-  },
-  {
-    "title": "\u2018Used to have to be quiet when you were racist\u2019: Charles Barkley calls out Donald Trump for empowering racists",
-    "description": "Inside the NBA\u2019s Charles Barkley believes that Donald Trump giving racists the green light to has allowed the president to get away with offensive comments himself. In a recent episode of The Chris Cuomo Project, Barkley discussed Trump\u2019s treatment of the med\u2026",
-    "link": "https://thecomeback.com/politics/charles-barkley-calls-out-donald-trump-for-empowering-racists.html",
-    "timestamp": "2026-10-02T20:47:16Z"
-  },
-  {
-    "title": "Breitbart Business Digest: Trump vs. Powell, Revisited",
-    "description": "The financial press is bizarrely treating the inspector general\u2019s report on the Fed\u2019s headquarters renovation project as a vindication of Jerome Powell. But was it?\nThe post Breitbart Business Digest: Trump vs. Powell, Revisited appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/economy/2026/10/02/breitbart-business-digest-trump-vs-powell-revisited/",
-    "timestamp": "2026-10-02T20:45:04Z"
-  },
-  {
-    "title": "Judicial Watch: New FBI Records Reveal Thomas Crooks\u2019 Phone Messages, Drone Details",
-    "description": "(Washington, D.C.) \u2013 Judicial Watch announced that it received 249 pages of new Federal Bureau of Investigation (FBI) records through a Freedom of Information Act (FOIA) lawsuit concerning Thomas Matthew Crooks, the gunman who attempted to assassinate then-pr\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4397735/posts",
-    "timestamp": "2026-10-02T20:42:33Z"
-  },
-  {
-    "title": "2 Lawsuits Cast Further Doubt on the Claim That ICE Agent Jonathan Ross Killed Ren\u00e9e Good in Self-Defense",
-    "description": "According to complaints filed by Good's family, Ross was not in any danger when he fired three shots into her car.",
-    "link": "https://reason.com/2026/10/02/2-lawsuits-cast-further-doubt-on-the-claim-that-ice-agent-jonathan-ross-killed-renee-good-in-self-defense/",
-    "timestamp": "2026-10-02T20:39:14Z"
-  },
-  {
-    "title": "Brazil Election Features 20,000+ Candidates, Including Trump Impersonator and 'Samurai Taxi Driver'",
-    "description": "The upcoming 2026 general elections in Brazil will feature a large list of \"joke\" or \"parody\" characters such as \"Samurai Taxi Driver,\" \"Pl\u00ednio Trump,\" \"Mick Jagger,\" and \"Henrique Barack Obama,\" maintaining a longstanding tradition in Brazilian elections.\nTh\u2026",
-    "link": "https://www.breitbart.com/latin-america/2026/10/02/brazil-2026-election-to-feature-plinio-trump-samurai-taxi-driver-and-good-lula-joke-candidates/",
-    "timestamp": "2026-10-02T20:37:53Z"
-  },
-  {
-    "title": "Trump: 'I feel badly' for Cornell rape suspects",
-    "description": "President Donald Trump said he feels \"badly\" for the men under investigation in an alleged gang rape at a Cornell University fraternity.His comments came a day after New York Gov. Kathy Hochul (D-NY) signed an executive order naming state Attorney General Let\u2026",
-    "link": "https://www.rawstory.com/trump-feel-badly-cornell/",
-    "timestamp": "2026-10-02T20:36:14Z"
-  },
-  {
-    "title": "Doctor behind Christa Pike's botched execution is seen for first time since Satanist killer survived lethal injections...as his other bungled case is revealed",
-    "description": "Dr Mark Fowler, 69, who oversaw\u00a0the botched execution of murderer and accused Satanist Christa Pike in Tennessee was spotted for the first time at his home on Thursday.",
-    "link": "https://www.dailymail.com/news/article-16178549/Christa-Pike-botched-execution-Mark-Fowler-Tennessee.html",
-    "timestamp": "2026-10-02T20:29:50Z"
-  },
-  {
-    "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
-    "description": "Lawsuit alleges NHTSA contravenes its congressional mandate to set fuel-economy standards at 'maximum feasible' .",
-    "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback",
-    "timestamp": "2026-10-02T20:28:07Z"
   }
 ]
