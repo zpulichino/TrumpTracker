@@ -1,5 +1,479 @@
 [
   {
+    "title": "Jeffries says House Democrats reaching to flip Trump districts",
+    "description": "House Democratic leader Hakeem Jeffries says his party is on track to win back control of the House",
+    "link": "https://abcnews.com/Politics/wireStory/jeffries-house-democrats-reaching-flip-trump-districts-attempt-136993177",
+    "timestamp": "2026-10-05T02:13:22Z"
+  },
+  {
+    "title": "EU, China to hold Beijing talks this week to avert trade war",
+    "description": "EU trade chief Maros Sefcovic is set to visit Beijing for crucial discussions regarding trade relations. As European leaders express concerns about unfair competition from Chinese industries, a potential trade war looms. The EU aims to reduce its significant \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/eu-china-to-hold-beijing-talks-this-week-to-avert-trade-war/articleshow/134683979.cms",
+    "timestamp": "2026-10-05T02:13:02Z"
+  },
+  {
+    "title": "Jeffries says House Democrats reaching to flip Trump districts in attempt to repeat their 2018 sweep",
+    "description": "House Democratic leader Hakeem Jeffries says his party is on track to win back control of the House",
+    "link": "https://abcnews.com/US/wireStory/jeffries-house-democrats-reaching-flip-trump-districts-attempt-136993176",
+    "timestamp": "2026-10-05T02:04:29Z"
+  },
+  {
+    "title": "Jane Doe at centre of Cornell rape case targeted with threats, her lawyer says",
+    "description": "The woman who has alleged she was drugged and raped by \u200cCornell University students has been the target of threats, her lawyer said on Sunday.",
+    "link": "https://www.cbc.ca/news/world/cornell-rape-allegation-jane-doe-woman-threats-9.7369094",
+    "timestamp": "2026-10-05T02:02:41Z"
+  },
+  {
+    "title": "Nobel 2026: Ozempic, Mounjaro research tipped for medicine prize",
+    "description": "The 2026 Nobel season is set to reveal the winners of various prestigious awards, starting with medicine. The medicine prize is anticipated to acknowledge research on appetite-regulating hormones related to weight-loss drugs. Alongside this, other fields such\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/nobel-2026-ozempic-mounjaro-research-tipped-for-medicine-prize/articleshow/134683655.cms",
+    "timestamp": "2026-10-05T02:01:58Z"
+  },
+  {
+    "title": "Africa faces gunboat diplomacy without the gunboats",
+    "description": "\u201cSpeak softly and carry a big stick; you will go far.\u201d That was one of the mantras of Theodore \u2018Teddy\u2019 Roosevelt, the 26th president of the United States. It meant diplomacy backed by force. As US imperial ambitions expanded, the message was clear: negotiatio\u2026",
+    "link": "https://thechronicle.com.gh/africa-faces-gunboat-diplomacy-without-the-gunboats/",
+    "timestamp": "2026-10-05T02:01:47Z"
+  },
+  {
+    "title": "US pulls bombers out of UK's Fairford airbase after arrests",
+    "description": "Following a suspected terrorist plot targeting the UK's Fairford airbase, the US Air Force withdrew all its B-1 planes from the site. A week after several men were detained at the Royal Air Force (RAF) base in the UK's Fairford on suspicion of planning terror\u2026",
+    "link": "https://www.dw.com/en/us-pulls-bombers-out-of-uks-fairford-airbase-after-arrests/a-79541731",
+    "timestamp": "2026-10-05T01:58:00Z"
+  },
+  {
+    "title": "Poll: Americans Blame Trump for Higher Prices, Cost of Living",
+    "description": "A poll shows that a majority of Americans blame President Donald Trump for rising prices and higher costs of living as the midterm election approaches.\nThe post Poll: Americans Blame Trump for Higher Prices, Cost of Living appeared first on Breitbart.",
+    "link": "https://www.breitbart.com/politics/2026/10/04/poll-americans-blame-trump-higher-prices-cost-living/",
+    "timestamp": "2026-10-05T01:55:28Z"
+  },
+  {
+    "title": "Can the KKK find a new foothold in the US?",
+    "description": "The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us",
+    "timestamp": "2026-10-05T01:47:13Z"
+  },
+  {
+    "title": "Cornell rape accuser faces threats as lawsuit sparks campus, political uproar",
+    "description": "A woman has filed a lawsuit against Cornell University students, alleging they drugged and raped her in 2024. Her lawyer reports receiving threats aimed at silencing the accuser and himself. The university president has vowed to review the role of fraternitie\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/cornell-rape-accuser-faces-threats-as-lawsuit-sparks-campus-political-uproar/articleshow/134683669.cms",
+    "timestamp": "2026-10-05T01:46:17Z"
+  },
+  {
+    "title": "Brazil\u2019s presidential election between Bolsonaro, Lulu heads to runoff after both fail to garner a majority of votes",
+    "description": "BRASILIA, Brazil (AP) \u2014 Sen. Fl\u00e1vio Bolsonaro, an ally of U.S. President Donald Trump, and Brazil\u2019s incumbent President Luiz In\u00e1cio Lula da Silva will face off in a runoff Oct. 25 for the top job of Latin America\u2019s powerhouse economy after neither won a major\u2026",
+    "link": "https://nypost.com/2026/10/04/world-news/brazils-presidential-election-between-bolsonaro-lulu-heads-to-runoff/",
+    "timestamp": "2026-10-05T01:46:05Z"
+  },
+  {
+    "title": "Bolsonaro beats expectations in Brazil presidential vote, faces Lula in runoff",
+    "description": "BRASILIA: Brazilian Senator Flavio Bolsonaro will face President Luiz Inacio Lula da Silva in the runoff of a presidential election, after the challenger took some 47 per cent of valid votes in th",
+    "link": "https://www.channelnewsasia.com/world/brazil-presidential-election-bolsonaro-lula-runoff-6432011",
+    "timestamp": "2026-10-05T01:45:36Z"
+  },
+  {
+    "title": "Trump announces 'Super Intelligence Force' to oversee AI policy",
+    "description": "Published\nUS President Donald Trump says he has created a new task force focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.\nThe \"Super Intelligence Force\" will work to ensure that the US continues to lead i\u2026",
+    "link": "https://biztoc.com/x/cff92bc42e9d3679",
+    "timestamp": "2026-10-05T01:42:59Z"
+  },
+  {
+    "title": "These stocks defy market volatility, extend rally beyond US-Iran ceasefire",
+    "description": "The US-Iran war, which commenced on February 27, caused significant volatility in the equity markets, impacting key benchmarks. By October, the Nifty 50 index exhibited a dramatic shift, rising from 22,421 to 25,178. Midcaps and smallcaps mirrored this patter\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-stocks-defy-market-volatility-extend-rally-beyond-us-iran-ceasefire/articleshow/134683559.cms",
+    "timestamp": "2026-10-05T01:41:58Z"
+  },
+  {
+    "title": "Trump names U.S. intelligence chief Jay Clayton as new AI czar",
+    "description": "Clayton, director of U.S. national intelligence, will head the Trump administration's newly created AI task force, the \"Super Intelligence Force.\"",
+    "link": "https://www.cbc.ca/news/world/jay-clayton-trump-ai-czar-9.7369075",
+    "timestamp": "2026-10-05T01:40:31Z"
+  },
+  {
+    "title": "Trump announces 'Super Intelligence Force' to oversee AI policy",
+    "description": "The president named his national intelligence chief will head the taskforce as worries over the technology grow.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+    "timestamp": "2026-10-05T01:33:08Z"
+  },
+  {
+    "title": "Why even Trump\u2019s generous bailout won\u2019t save Hollywood",
+    "description": "It\u2019s a twist worthy of famed director M. Night Shyamalan \u2014 President Donald Trump saves Hollywood, the community that thinks he\u2019s Adolf Hitler (or worse).",
+    "link": "https://nypost.com/2026/10/04/opinion/why-even-trumps-bailout-wont-save-hollywood/",
+    "timestamp": "2026-10-05T01:30:56Z"
+  },
+  {
+    "title": "US midterms: In crude Ohio rally speech, Trump says he may not help if Democrats win",
+    "description": "Donald Trump held a rally in Ohio to support Republican candidates Jon Husted and Vivek Ramaswamy. He criticized Democrats and emphasized the need for voters to participate in the midterms. Trump warned that he would be less inclined to assist Democratic offi\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/us-midterms-in-crude-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win/articleshow/134683530.cms",
+    "timestamp": "2026-10-05T01:26:33Z"
+  },
+  {
+    "title": "Red state parents rip Trump as child care costs spike: 'Never had this problem before'",
+    "description": "OMAHA \u2014 Josh Wigginton and his wife each went to work Friday. One dropped off daughter Nayeli at their childcare center, which transports the 7-year-old to school and back. The other parent picked her up after the work day.It\u2019s a longtime routine that nearly \u2026",
+    "link": "https://www.rawstory.com/trump-cost-of-living-2677998929/",
+    "timestamp": "2026-10-05T01:18:24Z"
+  },
+  {
+    "title": "Immigration, AR-15 bans and climate lawsuits land before the Supreme Court",
+    "description": "Immigration, gun rights and climate change are on the Supreme Court docket (Stefani Reynolds)\r\nThe US Supreme Court opens its new term on Monday with the Trump administration's immigration crackdown, gun rights and the fate of climate change lawsuits on the d\u2026",
+    "link": "https://www.yahoo.com/news/politics/articles/immigration-guns-climate-us-supreme-011807052.html",
+    "timestamp": "2026-10-05T01:18:07Z"
+  },
+  {
+    "title": "Bolsonaro leads Lula as Brazil election goes to run-off",
+    "description": "Brazilian senator Flavio Bolsonaro, son of the far-right former leader Jair Bolsonaro, finished ahead of President Luiz Inacio Lula da Silva in Brazil's election, which will go to a run-off in three weeks.",
+    "link": "https://www.rte.ie/news/world/2026/1005/1593983-bolsonaro-leads-lula/",
+    "timestamp": "2026-10-05T01:17:33Z"
+  },
+  {
+    "title": "Daily Open: Who's steering oil now?",
+    "description": "Much for investors to digest as markets kick off another trading week as all U.S. bombers left a U.K. base over suspected terror attack, and more tankers were struck near Iran.",
+    "link": "https://www.cnbc.com/2026/10/05/opec-oil-iran-war-hormuz-brazil-bombers-terror-attack-.html",
+    "timestamp": "2026-10-05T01:16:29Z"
+  },
+  {
+    "title": "Breaking: Bolsonaro defies expectations in Brazil presidential vote to face Lula in run-off",
+    "description": "Brazilian senator Flavio Bolsonaro, son of the far-right former leader Jair Bolsonaro, has finished ahead of President Luiz Inacio Lula da Silva in the country's election, which will go to a run-off in three weeks.",
+    "link": "https://www.abc.net.au/news/2026-10-05/brazil-heads-to-run-off-election-as-bolsonaro-leads-lula/107229260",
+    "timestamp": "2026-10-05T01:07:02Z"
+  },
+  {
+    "title": "Brazil election 2026: Lula, Flavio Bolsonaro head to runoff as neither garners a majority of votes",
+    "description": "Brazil's presidential election is heading to a runoff on October 25 after no candidate won in the first round. Flavio Bolsonaro is currently leading with 47.45 percent of the votes, while Lula secured 44.66 percent. Around 160 million registered voters partic\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/brazil-election-2026-lula-flavio-bolsonaro-head-to-runoff-as-neither-wins-first-round-majority/articleshow/134683413.cms",
+    "timestamp": "2026-10-05T01:05:36Z"
+  },
+  {
+    "title": "Singer Phil Collins blasts Trump as 'nasty,' teases song about America called 'Fat People with Guns'",
+    "description": "Phil Collins revealed an unwritten song called \"Fat People With Guns\" about America and slammed Trump's demeanor in a \"Piers Morgan Uncensored\" interview.",
+    "link": "https://www.foxnews.com/media/singer-phil-collins-blasts-trump-nasty-teases-song-america-fat-people-guns",
+    "timestamp": "2026-10-05T01:01:26Z"
+  },
+  {
+    "title": "Europe's Diesel Woes Just Got Even Worse",
+    "description": "China this week announced it will suspend all fuel exports this month to keep its domestic market supplied. Also this week, President Donald Trump demanded that Germany and France release 120 million barrels of diesel from their storage or get hit with a U.S.\u2026",
+    "link": "https://biztoc.com/x/18d2b671af1250ac",
+    "timestamp": "2026-10-05T00:58:25Z"
+  },
+  {
+    "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+    "description": "U.S. President Donald Trump said he \"didn't jump the gun\" in announcing South Korea's participation in a $50 billion Alaska LNG project, warning Seoul could pay \"double\" if it does not sign on soon.\nHis remarks come amid a discrepancy between Washington and S\u2026",
+    "link": "https://biztoc.com/x/4a61431014fc60a7",
+    "timestamp": "2026-10-05T00:57:50Z"
+  },
+  {
+    "title": "Strategic ambiguity isn't perfect, but it remains Washington's best bet",
+    "description": "Brent Sadler is a senior research fellow of naval warfare and advanced technology at The Heritage Foundation, where Allen Zhang is a research assistant.\nU.S. President Donald Trump attends a midterm election rally in Durant, Oklahoma, on Oct. 1. \u00a9 Reuters",
+    "link": "https://biztoc.com/x/b40797acd07bedcd",
+    "timestamp": "2026-10-05T00:57:47Z"
+  },
+  {
+    "title": "Lawyer lays out Trump scheme to grab a third term with 'realistic chance' of success",
+    "description": "President Donald Trump's claim that he could seek a third presidential term has met significant pushback from political analysts, but one lawyer has spotted a scheme that could deliver Trump to the White House again in 2028. Trump has floated the idea of runn\u2026",
+    "link": "https://www.rawstory.com/trump-third-term-2677998879/",
+    "timestamp": "2026-10-05T00:53:15Z"
+  },
+  {
+    "title": "Trump announces members of \u2018Super Intelligence Force\u2019 to coordinate AI policy - NBC News",
+    "description": "Trump announces members of \u2018Super Intelligence Force\u2019 to coordinate AI policyNBC News Trump names national intelligence chief Jay Clayton as new AI czarNPR Trump Announces \u2018Super Intelligence Force\u2019 That Raises Super-Sized Questions About The Future Of AIForb\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186024636",
+    "timestamp": "2026-10-05T00:52:25Z"
+  },
+  {
+    "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+    "description": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
+    "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+    "timestamp": "2026-10-05T00:47:47Z"
+  },
+  {
+    "title": "Brazil Election 2026 results: Flavio Bolsonaro, Luiz Inacio Lula da Silva fail to win Presidential polls, Brazil heads for runoff. Check date, procedure, what will happen now",
+    "description": "Brazil Election results: Both Luiz Inacio Lula da Silva and Flavio Bolsonaro will have three weeks to reach moderate voters who did not support them in the first round. Ronaldo Caiado and Renan Santos, two candidates who found moderate support in Sunday\u2019s ele\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/us/brazil-election-2026-results-flavio-bolsonaro-luiz-inacio-lula-da-silva-fail-to-win-presidential-polls-brazil-heads-for-runoff-check-date-procedure/articleshow/134683311.cms",
+    "timestamp": "2026-10-05T00:47:06Z"
+  },
+  {
+    "title": "Re-deployed back to home bases: US withdraws bombers from RAF Fairford after planned terror attack",
+    "description": "The U.S. Air Force has brought home its bombers stationed at RAF Fairford due to security concerns. An investigation into a potential terror attack has resulted in the arrest of several individuals. U.S. officials have indicated that additional military force\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/re-deployed-back-to-home-bases-us-withdraws-bombers-from-raf-fairford-after-planned-terror-attack/articleshow/134683331.cms",
+    "timestamp": "2026-10-05T00:46:45Z"
+  },
+  {
+    "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+    "description": "US President Donald Trump has continued rallying for Republican candidates while visiting Ohio, proposing a defiant outlook on his party\u2019s chances in the November 3 midterm elections. Trump told a rally in Vandalia, Ohio, that he believes there will be a \u201cbig\u2026",
+    "link": "https://thechronicle.com.gh/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio/",
+    "timestamp": "2026-10-05T00:38:47Z"
+  },
+  {
+    "title": "Trump takes rare shot at Fox News in lengthy rant after MAGA-friendly network fails to cover his Ohio rally",
+    "description": "President Donald Trump blasted Fox News in a rare shot on Truth Social Sunday morning over a lack of coverage of his rally in Vandalia, Ohio.",
+    "link": "https://www.dailymail.com/news/article-16182771/trump-fox-news-ohio-rally.html",
+    "timestamp": "2026-10-05T00:35:23Z"
+  },
+  {
+    "title": "US pulls all bombers from key UK base after suspected Iran-linked terror plot",
+    "description": "The Pentagon says its bomber force remains ready for global strikes after aircraft deployed to RAF Fairford returned to the United States.",
+    "link": "https://www.foxnews.com/us/us-pulls-all-bombers-key-uk-base-after-suspected-iran-linked-terror-plot",
+    "timestamp": "2026-10-05T00:32:14Z"
+  },
+  {
+    "title": "Brazil election: Bolsonaro and Lula head to runoff",
+    "description": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country\u2019s electoral court.",
+    "link": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857",
+    "timestamp": "2026-10-05T00:27:00Z"
+  },
+  {
+    "title": "Lula, Bolsonaro head to run-off after neither secure majority in Brazil election's 1st round",
+    "description": "Sen. Fl\u00e1vio Bolsonaro, an ally of U.S. President Donald Trump, and Luiz In\u00e1cio Lula da Silva, Brazil's veteran president, will face off on Oct. 25 in a run-off for the top job of Latin America's powerhouse economy.",
+    "link": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047",
+    "timestamp": "2026-10-05T00:26:14Z"
+  },
+  {
+    "title": "Economic diplomacy and Nigeria\u2019s renewed international voice",
+    "description": "An analysis of President Bola Tinubu\u2019s foreign policy, focusing on economic diplomacy, investment drives, and Nigeria\u2019s bid for a UN Security Council seat.\n\nRead More: https://punchng.com/economic-diplomacy-and-nigerias-renewed-international-voice/",
+    "link": "https://punchng.com/economic-diplomacy-and-nigerias-renewed-international-voice/",
+    "timestamp": "2026-10-05T00:21:24Z"
+  },
+  {
+    "title": "U.S. Air Force Removes All Bombers From British Air Base Targeted By Suspected Terror Attack",
+    "description": "The Air Force has brought home its bombers stationed at a U.S.-run military air base in England, which were used to strike Iran.",
+    "link": "https://www.huffpost.com/entry/air-force-britain-us-air-base-bombers_n_6ac2ec62e4b0d51e335c5af4",
+    "timestamp": "2026-10-05T00:18:44Z"
+  },
+  {
+    "title": "Bolsonaro wins first round of Brazilian presidential election, as Trump-backed candidates continue red wave",
+    "description": "Flavio Bolsonaro won the first round of Brazil's presidential election, and will now face off against incumbent Lula da Silva in a second round on October 25.",
+    "link": "https://www.foxnews.com/world/bolsonaro-wins-first-round-brazilian-presidential-election-trump-backed-candidates-continue-red-wave",
+    "timestamp": "2026-10-05T00:17:42Z"
+  },
+  {
+    "title": "Brazil elections 2026 results: Ex-President Jair Bolsonaro's son, Donald Trump ally Flavio Bolsonaro leads against Left-wing Luiz Inacio Lula da Silva. Check what happens if neither gets majority",
+    "description": "Brazil elections results 2026: If no presidential candidate -- Flavio Bolsonaro and Luiz Inacio Lula da Silva -- secures more than 50 per cent of valid votes, the top two candidates will advance to a run-off on October 25, according to multiple reports.",
+    "link": "https://economictimes.indiatimes.com/news/international/us/brazil-elections-2026-results-ex-president-jair-bolsonaros-son-donald-trump-ally-flavio-bolsonaro-leads-against-left-wing-luiz-inacio-lula-da-silva-check-what-happens-if-neither-gets-majority/articleshow/134683246.cms",
+    "timestamp": "2026-10-05T00:16:09Z"
+  },
+  {
+    "title": "Trump Calls On Senate To Pass Bill Making Daylight Saving Time Permanent",
+    "description": "Trump Calls On Senate To Pass Bill Making Daylight Saving Time Permanent\n \nAuthored by Jack Phillips via The Epoch Times,\nPresident Donald Trump on Friday morning urged Senate Republicans to pass a bill that makes daylight saving time permanent, coming months\u2026",
+    "link": "https://biztoc.com/x/e33becc7db64e72e",
+    "timestamp": "2026-10-05T00:12:50Z"
+  },
+  {
+    "title": "With No Criminal Charges Filed Against 7 Men Accused in a Cornell Student\u2019s Lawsuit, Olivia Rodrigo Is Demanding Accountability From the University",
+    "description": "Olivia Rodrigo demanded answers from Cornell University on Instagram on Saturday, October 3, backing a student whose lawsuit accuses 7 fraternity members of drugging and gang-raping her in 2024. Th\u2026",
+    "link": "https://thoughtcatalog.com/sari-moon/2026/10/with-no-criminal-charges-filed-against-7-men-accused-in-a-cornell-students-lawsuit-olivia-rodrigo-is-demanding-accountability-from-the-university/",
+    "timestamp": "2026-10-05T00:05:55Z"
+  },
+  {
+    "title": "Afghans Await Justice 25 Years After War Began",
+    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Mourners at a mass funeral for victims of a US drone strike, including seven children, look up as fighter jets circle a cemetery in Kabul, Afghanistan, on August 30, 2021.\n \u00a9 2021 Marcus Yam/The Los Angeles Times via\u2026",
+    "link": "https://www.hrw.org/news/2026/10/04/afghans-await-justice-25-years-after-war-began",
+    "timestamp": "2026-10-05T00:00:00Z"
+  },
+  {
+    "title": "AI biohazard hype must not divert attention from the real risks we face now",
+    "description": "Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what\u2019s needed to stay safe: a strong, regulated life-sciences sector.",
+    "link": "https://www.nature.com/articles/d41586-026-03135-7",
+    "timestamp": "2026-10-05T00:00:00Z"
+  },
+  {
+    "title": "60 Minutes Transcript: Sen. Thom Tillis",
+    "description": "Republican Sen. Thom Tillis says he worries about the \"outsized influence\" of the executive branch. He's also concerned about the types of advisers President Trump has surrounded himself with.",
+    "link": "https://www.cbsnews.com/news/thom-tillis-60-minutes-transcript/",
+    "timestamp": "2026-10-04T23:57:35Z"
+  },
+  {
+    "title": "Trump Lashes Out at Fox News for \u2018Not Covering\u2019 His Ohio Rally: \u2018Who Makes These Decisions?\u2019",
+    "description": "The president says the network could \"soon have the ratings of FAKE NEWS CNN\"\nThe post Trump Lashes Out at Fox News for \u2018Not Covering\u2019 His Ohio Rally: \u2018Who Makes These Decisions?\u2019 appeared first on TheWrap.",
+    "link": "https://www.thewrap.com/media-platforms/tv/trump-lashes-out-fox-news-not-covering-rally/",
+    "timestamp": "2026-10-04T23:56:33Z"
+  },
+  {
+    "title": "Richard Nixon\u2019s new GOP fans can\u2019t brush off his stained legacy",
+    "description": "There\u2019s no doubt Richard Nixon deserves better than the simplistic dismissal of him based on his ignominious exit from the White House \u2014 but his record is checkered at best.",
+    "link": "https://nypost.com/2026/10/04/opinion/richard-nixons-new-gop-fans-cant-brush-off-his-stained-legacy/",
+    "timestamp": "2026-10-04T23:53:04Z"
+  },
+  {
+    "title": "US-China truce extension lifts 4Q freight rates, tightens capacity",
+    "description": "After US President Donald Trump met Chinese President Xi Jinping, the two sides agreed to extend their trade truce, a move the market read positively. Industry participants expect previously delayed China-US shipments to be released gradually, pushing freight\u2026",
+    "link": "https://www.digitimes.com/news/a20261002PD229/donald-trump-capacity-xi-jinping-market-demand.html?chid=10",
+    "timestamp": "2026-10-04T23:45:18Z"
+  },
+  {
+    "title": "Exclusive \u2014 President of Cyprus: \u2018Sky Is the Limit\u2019 for Bilateral Relations with USA, Trump Has \u2018Unique Advantage\u2019 in Negotiations Because \u2018You Know Where You Stand\u2019 with POTUS",
+    "description": "NEW YORK \u2014 President of Cyprus Nikos Christodoulides told Breitbart News exclusively on the sidelines of the United Nations General Assembly that American President Donald Trump has a \u201cunique advantage\u201d in world affairs.\nThe post Exclusive \u2014 President of Cypr\u2026",
+    "link": "https://www.breitbart.com/politics/2026/10/04/exclusive-president-of-cyprus-sky-is-the-limit-for-bilateral-relations-with-usa-trump-has-unique-advantage-in-negotiations-because-you-know-whe/",
+    "timestamp": "2026-10-04T23:38:28Z"
+  },
+  {
+    "title": "CAQ Leader Christine Fr\u00e9chette expresses regrets as Quebec election campaign ends",
+    "description": "Coalition Avenir Qu\u00e9bec Leader Christine Fr\u00e9chette acknowledged Sunday that there are things she should have done differently during the 39-day campaign.",
+    "link": "https://www.cbc.ca/news/canada/montreal/frechette-caq-leader-quebec-election-campaign-regret-9.7369007",
+    "timestamp": "2026-10-04T23:28:26Z"
+  },
+  {
+    "title": "Elon Musk rebrands SpaceXAI following Trump directive",
+    "description": "SpaceX CEO Elon Musk is rebranding the company\u2019s artificial intelligence (AI) arm following President Donald Trump\u2019s executive order last week calling for AI to be referred to as \"Super Intelligence\" (SI).\nSpaceXAI will be renamed SpaceXSI, Musk confirmed in \u2026",
+    "link": "https://biztoc.com/x/af07606f0bcaa384",
+    "timestamp": "2026-10-04T23:28:22Z"
+  },
+  {
+    "title": "Trump voter's 'gutting' tragedy exposes horrors of Trump's immigration agenda: critics",
+    "description": "One Trump voter's recent brush with tragedy perfectly encapsulated the horrors that Donald Trump's immigration agenda has inflicted on immigrants, analysts said Sunday. Jack Buhring, a truck driver from Ohio who voted for Trump for the first time in 2024, rec\u2026",
+    "link": "https://www.rawstory.com/trump-immigration-2677998787/",
+    "timestamp": "2026-10-04T23:23:16Z"
+  },
+  {
+    "title": "Air Force removes all bombers from British base and redeploys them to the U.S. after a planned terror attack linked to Iran was foiled",
+    "description": "RAF Fairford, located 100 miles (160 kilometers) west of London, has been used by American bombers during decades of conflicts in the Middle East.",
+    "link": "https://fortune.com/2026/10/04/air-force-all-bombers-british-base-raf-fairford-us-redeployment-terror-attack-iran/",
+    "timestamp": "2026-10-04T23:19:35Z"
+  },
+  {
+    "title": "Trump announces members of \u2018Super Intelligence Force\u2019 to coordinate AI policy",
+    "description": "President Donald Trump announced the formation of an AI task force, naming National Intelligence Director Jay Clayton to lead it.",
+    "link": "https://www.nbcnews.com/politics/trump-administration/trump-announces-members-ai-task-force-rcna601494",
+    "timestamp": "2026-10-04T23:09:09Z"
+  },
+  {
+    "title": "Serb nationalist credits Trump, Putin after declaring his party's victory in Bosnian election",
+    "description": "Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia on Sunday that was shaped by economic pressures, the prospect of the Balkan nation joining the European Union and ethnic tensions that have divided t\u2026",
+    "link": "https://www.cbc.ca/news/world/bosnia-election-serb-nationalist-9.7368979",
+    "timestamp": "2026-10-04T22:54:43Z"
+  },
+  {
+    "title": "Trump Announces New AI Leadership For \u2018Super Intelligence Force\u2019",
+    "description": "President Trump named intelligence chief Jay Clayton to lead a new Super Intelligence Force, giving the AI task force 120 days to report on risks.",
+    "link": "https://dailycaller.com/2026/10/04/trump-super-intelligence-force-jay-clayton",
+    "timestamp": "2026-10-04T22:50:23Z"
+  },
+  {
+    "title": "Donald Trump Says He Takes Aspirin Daily Because 'Psychologically I Need It'",
+    "description": "President Donald Trump is raising eyebrows after reiterating his love for \u2014 and apparent need of \u2014 aspirin. \u201cI love Bayer Aspirin. I take an aspirin a day,\u201d Trump, 80, said while speaking to a crowd of supporters at a midterm campaign rally in Vandalia, Ohio,\u2026",
+    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-says-he-psychologically-needs-aspirin-daily/",
+    "timestamp": "2026-10-04T22:48:29Z"
+  },
+  {
+    "title": "Christa Pike \u2018may not fully recover\u2019 after botched execution: attorney",
+    "description": "\u201cIt remains to be seen what the future is,\u201d Pike's lawyer said of her prognosis.",
+    "link": "https://nypost.com/2026/10/04/us-news/christa-pike-may-not-fully-recover-after-botched-execution-attorney/",
+    "timestamp": "2026-10-04T22:48:18Z"
+  },
+  {
+    "title": "Why Berkeley\u2019s free-speech double-standard is so chilling",
+    "description": "Universities today often host radicals who glorify death, hatred, and anti-Americanism \u2014 while effectively blocking contrary views. Case in point? UC Berkeley, where a student group is set to host, on-campus by remote feed, pro-terror lunatic Mohamed Abdou \u2014 \u2026",
+    "link": "https://nypost.com/2026/10/04/opinion/berkeleys-free-speech-double-standard-is-chilling/",
+    "timestamp": "2026-10-04T22:46:32Z"
+  },
+  {
+    "title": "US removes B-1 bombers from UK's Fairford air base amid security concerns",
+    "description": "The planes' removal comes after several men were arrested on suspicion of a terror plot on the air base, with UK Prime Minister Andy Burnham saying that Britain had \"strong indications\" that Iran was involved in the suspected plot targeting the base.",
+    "link": "https://www.channelnewsasia.com/world/us-removes-bombers-uk-fairford-base-security-concerns-6431771",
+    "timestamp": "2026-10-04T22:46:00Z"
+  },
+  {
+    "title": "Trump unveils AI task force",
+    "description": "The US director of national intelligence and the Federal Trade Commission chairman will head up the White House\u2019s \u201cSuper Intelligence Force\u201d on AI, President Donald Trump announced Sunday.\nThe task force \u2014 which also includes the vice president, defense secre\u2026",
+    "link": "https://biztoc.com/x/27c28b60a5ca68b3",
+    "timestamp": "2026-10-04T22:43:21Z"
+  },
+  {
+    "title": "Nicaragua says it will withdraw from Central American Parliament",
+    "description": "The Central American country' crackdown on human rights has left it increasingly isolated in Latin America.",
+    "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament",
+    "timestamp": "2026-10-04T22:36:54Z"
+  },
+  {
+    "title": "It was Super Intelligence Day at the White House",
+    "description": "'If we do this right, if we work with the president and everyone here, we can win safely'",
+    "link": "https://www.wnd.com/2026/10/it-was-super-intelligence-day-white-house/",
+    "timestamp": "2026-10-04T22:36:50Z"
+  },
+  {
+    "title": "OpenAI's Altman says AI benefits warrant accepting some risks",
+    "description": "Oct 4 : OpenAI Chief Executive Sam Altman said the benefits of artificial intelligence justify accepting some risks and argued the technology should remain broadly accessible to the public\"We believe that the world should accept some bad things happening for \u2026",
+    "link": "https://www.channelnewsasia.com/business/openais-altman-says-ai-benefits-warrant-accepting-some-risks-6431831",
+    "timestamp": "2026-10-04T22:35:15Z"
+  },
+  {
+    "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler\u2019s Digest",
+    "description": "Jay Clayton prosecuted Roman Storm and XRP \u2014 now he\u2019s President Trump\u2019s new AI Czar. Peter Brandt says the Bitcoin bull market has \u201cvery good chance of reaching half a million.\u201d",
+    "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+    "timestamp": "2026-10-04T22:31:12Z"
+  },
+  {
+    "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+    "description": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base",
+    "link": "https://abcnews.com/US/wireStory/us-air-force-removes-bombers-british-air-base-136991142",
+    "timestamp": "2026-10-04T22:28:01Z"
+  },
+  {
+    "title": "Europe\u2019s Diesel Woes Just Got Even Worse",
+    "description": "China this week announced it will suspend all fuel exports this month to keep its domestic market supplied. Also this week, President Donald Trump demanded that Germany and France release 120 million barrels of diesel from their storage or get hit with a U.S.\u2026",
+    "link": "https://biztoc.com/x/a3564bc6d8e53e9d",
+    "timestamp": "2026-10-04T22:27:56Z"
+  },
+  {
+    "title": "US withdraws bombers from RAF Fairford after suspected terror plot",
+    "description": "A sixth man arrested in connection with the incident has since been released on bail",
+    "link": "https://www.irishtimes.com/world/uk/2026/10/04/us-withdraws-bombers-from-raf-fairford-after-suspected-terror-plot/",
+    "timestamp": "2026-10-04T22:27:47Z"
+  },
+  {
+    "title": "Trump launches Super Intelligence Force with Jay Clayton as AI czar",
+    "description": "President Donald Trump today put Director of National Intelligence Jay Clayton in charge of a new federal artificial intelligence task force, making him the administration\u2019s second AI czar. Trump revealed the group in a Truth Social post, calling it the Super\u2026",
+    "link": "https://siliconangle.com/2026/10/04/trump-launches-super-intelligence-force-with-jay-clayton-as-ai-czar/",
+    "timestamp": "2026-10-04T22:26:42Z"
+  },
+  {
+    "title": "US withdraws B-1 bomber aircraft from UK\u2019s Fairford base amid Iran fears",
+    "description": "The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.",
+    "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+    "timestamp": "2026-10-04T22:23:30Z"
+  },
+  {
+    "title": "John Oliver And Seth Meyers Weigh In On Trump Hating Kimmel The Most: \u2018How Does It Feel?\u2019",
+    "description": "The other late night hosts are fine with Kimmel taking up that mantle.",
+    "link": "https://www.cinemablend.com/television/john-oliver-and-seth-meyers-weigh-in-on-trump-hating-kimmel-the-most-how-does-it-feel",
+    "timestamp": "2026-10-04T22:21:00Z"
+  },
+  {
+    "title": "Nationalist Parties, Dodik Dominate Bosnian Election Amid Low Turnout",
+    "description": "Milorad Dodik, the Russia-friendly former leader of Bosnia-Herzegovina's Serbian-led entity, declared victory for his party in the region, with nationalist forces also scoring wins in Bosnia's complex electoral system -- results likely to keep tensions high i\u2026",
+    "link": "https://www.rferl.org/a/bosnia-herzegovina-election-dodik-becirovic-filipovic-bosniak/33870171.html",
+    "timestamp": "2026-10-04T22:20:58Z"
+  },
+  {
+    "title": "New AI Czar Jay Clayton Gets 120 Days to Report on Tech\u2019s Risks",
+    "description": "The White House has reportedly given its artificial intelligence task force 120 days to report on the risks and potential rewards of the technology. That\u2019s according to a report Saturday (Oct. 3) from The Wall Street Journal (WSJ), citing comments by Jay Clay\u2026",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/new-ai-czar-jay-clayton-gets-120-days-to-report-on-techs-risks/",
+    "timestamp": "2026-10-04T22:14:53Z"
+  },
+  {
+    "title": "U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot",
+    "description": "The bombers at RAF Fairford \u201chave been re-deployed to their home stations in the United States,\u201d a Pentagon official told NBC News.",
+    "link": "https://www.nbcnews.com/news/us-news/air-force-removes-bombers-british-base-targeted-suspected-terror-plot-rcna601484",
+    "timestamp": "2026-10-04T22:14:47Z"
+  },
+  {
+    "title": "Musk Wants to Rename SpaceXAI Again. The AI Brand Barely Survived a Quarter",
+    "description": "Elon Musk's artificial intelligence (AI) company took the name SpaceXAI on July 6. Ninety days later, Musk says that name is going too.\nThe new name is SpaceXSI. The SI stands for Super Intelligence, a phrase President Donald Trump now wants Washington to use\u2026",
+    "link": "https://biztoc.com/x/53dcf868758305ca",
+    "timestamp": "2026-10-04T22:13:09Z"
+  },
+  {
+    "title": "Will Trump''Little Thingss Tariffs On Tomatoes Cost Republicans Texas?'",
+    "description": "With tomatoes now going for around $80 a box, free chips and salsa may soon be on their way out at all Mexican and Tex-Mex restaurants. With the cost of living crisis, the fuel crisis, and everything else, this might be too much for Texans.\nSource: Houston Pu\u2026",
+    "link": "https://crooksandliars.com/2026/10/could-trumps-tariffs-tomatoes-cost",
+    "timestamp": "2026-10-04T22:10:49Z"
+  },
+  {
+    "title": "Republican Senator Says Trump Goes \u2018Zero To A-Hole In 3 Seconds\u2019",
+    "description": "Sen. John Kennedy said that his \u201cfriend\u201d Trump \u201cexists loudly.\u201d",
+    "link": "https://www.huffpost.com/entry/john-kennedy-criticizes-trump-posting-tom-cotton-phone-number_n_6ac26bdee4b0bc90e3ff9321",
+    "timestamp": "2026-10-04T22:10:20Z"
+  },
+  {
     "title": "U.S. removes B-1 bombers from U.K. airbase targeted in suspected plot: Pentagon",
     "description": "A dozen B-1 bombers used in U.S. strikes on Iran had been deployed to RAF Fairford, northwest of London, which was targeted in a suspected terror plot.",
     "link": "https://www.cbc.ca/news/world/us-removes-bombers-uk-airbase-9.7368968",
@@ -124,479 +598,5 @@
     "description": "Bolsonaro, 45, is the son of far-right former President Jair Bolsonaro who is serving a 27-year sentence for a coup attempt and an ally of U.S. President Donald Trump.",
     "link": "https://www.huffpost.com/entry/brazil-election_n_6ac2b582e4b0f45fd4cd1a70",
     "timestamp": "2026-10-04T20:37:58Z"
-  },
-  {
-    "title": "Ivanka Trump reflects on 'incredibly special' family milestone spanning 4 generations",
-    "description": "Ivanka Trump shared details and sentiments from her grandmother Marie Zeln\u00ed\u010dkov\u00e1's 100th birthday celebration as four generations gathered at her Miami home.",
-    "link": "https://www.foxnews.com/lifestyle/ivanka-trump-reflects-incredibly-special-family-milestone-spanning-4-generations",
-    "timestamp": "2026-10-04T20:33:55Z"
-  },
-  {
-    "title": "Trump\u2019s opponents are planning efforts to reverse his changes to presidency",
-    "description": "As the midterms approach, Democrats are working to ensure his aggressive approach to executive power doesn\u2019t outlast him. Democratic House members are writing bills to rein in a president\u2019s emergency powers. Lawyers are strategizing about how to insulate the \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4397914/posts",
-    "timestamp": "2026-10-04T20:32:21Z"
-  },
-  {
-    "title": "Jane Doe threatened in Cornell University rape case, lawyer says",
-    "description": "People have threatened to harm the woman identified as Jane Doe in the Cornell University case unless she withdraws her lawsuit, her lawyer says.",
-    "link": "https://www.abc.net.au/news/2026-10-05/woman-at-center-of-cornell-rape-allegations-targeted-threats/107228278",
-    "timestamp": "2026-10-04T20:32:13Z"
-  },
-  {
-    "title": "Jane Doe threatened in Cornell University rape case, lawyer says",
-    "description": "People have threatened to harm the woman identified as Jane Doe in the Cornell University case unless she withdraws her lawsuit, her lawyer says.",
-    "link": "https://www.abc.net.au/news/2026-10-05/woman-at-centre-of-cornell-rape-allegations-targeted-threats/107228278",
-    "timestamp": "2026-10-04T20:32:13Z"
-  },
-  {
-    "title": "Bill Maher Argues Trump Doesn\u2019t Like Being Surrounded By \u2018Boring A**-Kissers\u2019",
-    "description": "Bill Maher shared his insights on Donald Trump with Fareed Zakaria Sunday, saying he believes the president actually loathes \"boring *ss kissers.\"\nThe post Bill Maher Argues Trump Doesn\u2019t Like Being Surrounded By \u2018Boring A**-Kissers\u2019 first appeared on Mediait\u2026",
-    "link": "https://www.mediaite.com/media/news/bill-maher-argues-trump-doesnt-like-being-surrounded-by-boring-a-kissers/",
-    "timestamp": "2026-10-04T20:30:51Z"
-  },
-  {
-    "title": "'Wow, that was bad': Trump's top economic advisor ridiculed after faceplanting on CNN",
-    "description": "President Donald Trump's top economic advisor got more than he bargained for in an interview with CNN's Jake Tapper on Sunday. Kevin Hassett, director of the National Economic Council, joined CNN's \"State of the Union\" on Sunday to try to defend the Trump adm\u2026",
-    "link": "https://www.rawstory.com/kevin-hassett-2677998577/",
-    "timestamp": "2026-10-04T20:18:09Z"
-  },
-  {
-    "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
-    "description": "President Donald Trump hosted many of the biggest names in artificial intelligence this week \u2014 in part to announce that the U.S. government isn\u2019t calling it artificial intelligence anymore. Now it\u2019s super intelligence.\nOn the latest episode of TechCrunch\u2019s Eq\u2026",
-    "link": "https://biztoc.com/x/33f817211812a198",
-    "timestamp": "2026-10-04T20:12:49Z"
-  },
-  {
-    "title": "Brazilians head to polls in pivotal election",
-    "description": "Left-wing President Lula da Silva is locked in a tight race against right-wing challenger Flavio Bolsonaro, son of former President Jair Bolsonaro",
-    "link": "https://www.rt.com/news/646713-brazilians-head-polls-pivotal-election/",
-    "timestamp": "2026-10-04T20:12:22Z"
-  },
-  {
-    "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem? | TechCrunch",
-    "description": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem? | TechCrunchtechcrunch.com",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "timestamp": "2026-10-04T20:09:25Z"
-  },
-  {
-    "title": "\u2018Don\u2019t Know\u2019 Him: John Kennedy Does Not Say Yes When Asked If Ken Paxton \u2018Has Character To Serve\u2019 In Senate",
-    "description": "Sen. John Kennedy did not answer in the affirmative when asked Sunday if his party\u2019s senate nominee in neighboring Texas has the \u201ccharacter to serve.\u201d",
-    "link": "https://dailycaller.com/2026/10/04/john-kennedy-ken-paxton-james-talarico-kristen-welker",
-    "timestamp": "2026-10-04T20:08:40Z"
-  },
-  {
-    "title": "Midterm fears as MAGA influencers turn on Trump: Insiders say 'voters are done' after string of disappointments from White House... and will get revenge at the polls",
-    "description": "One year ago, President Donald Trump sat down with over a dozen independent conservative media figures at the White House and made a promise.",
-    "link": "https://www.dailymail.com/news/article-16169475/midterms-trump-maga-voters.html",
-    "timestamp": "2026-10-04T20:06:43Z"
-  },
-  {
-    "title": "Christa Pike's hospital room surrounded by guards as lawyer says she may never 'fully recover' after botched execution",
-    "description": "Pike remains alive but unconscious as of Sunday after a Tennessee execution team used at least seven needles to administer two doses of pentobarbital on Wednesday.",
-    "link": "https://www.dailymail.com/news/article-16182373/Christa-Pike-hospital-room-guarded-never-recover-botched-execution.html",
-    "timestamp": "2026-10-04T20:03:13Z"
-  },
-  {
-    "title": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a \u2018scorched earth campaign\u2019 as U.S. deploys more ships and Marines to Mideast",
-    "description": "\"That is what everyone who actually follows this region and its dynamics is worried about.\"",
-    "link": "https://fortune.com/2026/10/04/persian-gulf-oil-flows-prewar-levels-iran-scorched-earth-campaign-us-aircraft-carrier-marines/",
-    "timestamp": "2026-10-04T20:03:10Z"
-  },
-  {
-    "title": "Chinese Hackers Impersonate Anthropic Employee to Extract AI Secrets",
-    "description": "A cybersecurity firm says that a Chinese hacking group impersonated industry professionals to steal information from US AI policy experts.",
-    "link": "https://futurism.com/artificial-intelligence/chinese-hackers-impersonate-anthropic-ai-secrets",
-    "timestamp": "2026-10-04T20:03:00Z"
-  },
-  {
-    "title": "After wrist injury scare, Kai Trump returns for second college golf start in Indiana",
-    "description": "Kai Trump is set for her second college golf start after using stem cell therapy to treat a wrist injury.",
-    "link": "https://golfweek.usatoday.com/story/sports/golf/college/2026/10/04/put-me-in-coach-invitational-kai-trump-miami-wrist-injury/92093687007/",
-    "timestamp": "2026-10-04T20:00:54Z"
-  },
-  {
-    "title": "Brazil: Polls close in tight race between Lula and Bolsonaro",
-    "description": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-    "link": "https://www.dw.com/en/brazil-polls-close-in-tight-race-between-lula-and-bolsonaro/a-79533857",
-    "timestamp": "2026-10-04T20:00:00Z"
-  },
-  {
-    "title": "Don\u2019t put Donald Trump and Kim Jong Un in a room together",
-    "description": "A summit between the two \u201efriends\u201d could go horribly wrong.",
-    "link": "https://www.nrc.nl/nieuws/2026/10/04/dont-put-donald-trump-and-kim-jong-un-in-a-room-together-a4938051",
-    "timestamp": "2026-10-04T20:00:00Z"
-  },
-  {
-    "title": "An immigrant deported by the US and held in an African prison for more than a year has been released",
-    "description": "A Laos citizen deported by the United States to Eswatini in Africa under the Trump administration\u2019s immigration crackdown has been released after spending more than a year in a maximum security prison",
-    "link": "https://abcnews.com/International/wireStory/immigrant-deported-us-held-african-prison-year-released-136989610",
-    "timestamp": "2026-10-04T19:57:51Z"
-  },
-  {
-    "title": "Trump launches \u2018Super Intelligence Force\u2019 after calls for AI slowdown - The Washington Post",
-    "description": "Trump launches \u2018Super Intelligence Force\u2019 after calls for AI slowdownThe Washington Post Exclusive | New AI Czar Unveils Goals, Members of White House Task ForceWSJ President Donald Trump announces creation of 'Super Intelligence Force' AI task forceABC News \u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186022928",
-    "timestamp": "2026-10-04T19:52:45Z"
-  },
-  {
-    "title": "Trump Ohio Rally Crowd Boos CNN As He Trolls Kaitlan Collins",
-    "description": "Donald Trump trolled CNN's Kaitlan Collins in front of a full house at Vandalia-Butler High School during a rally for Ohio congressional candidates.\nThe post Trump Ohio Rally Crowd Boos CNN As He Trolls Kaitlan Collins first appeared on Mediaite.",
-    "link": "https://www.mediaite.com/media/news/trump-ohio-rally-crowd-boos-cnn-as-he-trolls-kaitlan-collins/",
-    "timestamp": "2026-10-04T19:50:16Z"
-  },
-  {
-    "title": "Yemen's government declares a major operation against the Houthis, and other Mideast news",
-    "description": "Yemen's internationally recognized government says it has launched a major military operation against Iran-backed Houthi rebels",
-    "link": "https://abcnews.com/International/wireStory/yemens-government-declares-major-operation-houthis-mideast-news-136983229",
-    "timestamp": "2026-10-04T19:43:22Z"
-  },
-  {
-    "title": "Trump demands Fox cover more Trump",
-    "description": "Trump demanded more rally coverage as Fox was covering his Ohio rally, warning supporters could stop watching Fox",
-    "link": "https://www.salon.com/2026/10/04/trump-demands-fox-cover-more-trump/",
-    "timestamp": "2026-10-04T19:30:13Z"
-  },
-  {
-    "title": "Trump is suddenly urging Republicans to \u2018vote by mail\u2019",
-    "description": "President Donald Trump has spent much of his second term waging an assault on mail-in voting. But suddenly, he\u2019s calling on Republicans to vote any way they can \u2014 including by mail.\n\u201cIf your state has early voting, do not wait,\u201d Trump said in a video posted t\u2026",
-    "link": "https://biztoc.com/x/761df423dde55b64",
-    "timestamp": "2026-10-04T19:27:42Z"
-  },
-  {
-    "title": "Trump\u2019s new education grant program could disrupt nation\u2019s \u2018higher\u2019 education",
-    "description": "'Workforce' plan now allows Americans to get federal help pursuing technical education",
-    "link": "https://www.wnd.com/2026/10/trumps-new-education-grant-program-could-disrupt-nations/",
-    "timestamp": "2026-10-04T19:16:29Z"
-  },
-  {
-    "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    "description": "With Election Day less than a month away, President Donald Trump is touting two federal cash-payment programs already underway while renewing a much larger $5,000 check promise contingent on Republicans retaining Congress.\nOn Friday, Trump announced one-time \u2026",
-    "link": "https://biztoc.com/x/95c0f7157f8d7fa7",
-    "timestamp": "2026-10-04T19:12:50Z"
-  },
-  {
-    "title": "Despite G7, fuel inflation will remain",
-    "description": "G7's recent decision to release 100 million barrels of oil from reserves is unlikely to significantly alleviate fuel inflation as it overlaps with earlier commitments. Despite political pressures ahead of midterm elections, supply disruptions and high global \u2026",
-    "link": "https://economictimes.indiatimes.com/opinion/et-commentary/despite-g7-fuel-inflation-will-remain/articleshow/134679923.cms",
-    "timestamp": "2026-10-04T19:11:20Z"
-  },
-  {
-    "title": "EXCLUSIVE: Voting Tech Disaster Risked Forcing Bosnia To Redo Elections In Just Seven Days, Official Said",
-    "description": "Bosnia\u2019s first nationwide rollout of biometric voter checks and ballot scanners stumbled Sunday, with polling stations delayed or temporarily closed.",
-    "link": "https://dailycaller.com/2026/10/04/exclusive-bosnia-and-herzegovina-new-voting-technology-fails-election-official-says-votes-possibly-annulled",
-    "timestamp": "2026-10-04T19:10:04Z"
-  },
-  {
-    "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    "description": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
-    "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-    "timestamp": "2026-10-04T19:06:46Z"
-  },
-  {
-    "title": "President Donald Trump Promises 3rd Payment to Voters Ahead of Midterms",
-    "description": "President Donald Trump is promising to pay voters for a third time ahead of the contentious 2026 midterm elections. \u201cI am pleased to announce that my Administration will, immediately, begin sending \u2018checks\u2019 of nearly $100 to over 20 MILLION wonderful Seniors \u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-promises-3rd-payment-to-voters-before-midterms/",
-    "timestamp": "2026-10-04T19:04:04Z"
-  },
-  {
-    "title": "Early indications suggest Flydubai co-pilot acted alone in attack, officials say",
-    "description": "Early indications suggest the Flydubai co-pilot accused of attacking his captain and trying to seize control of an Israel bound plane acted alone, rather than as part of a larger organization or on behalf of a foreign government, multiple U.S. officials brief\u2026",
-    "link": "https://www.nbcnews.com/world/middle-east/flydubai-copilot-acted-alone-rcna601436",
-    "timestamp": "2026-10-04T19:03:45Z"
-  },
-  {
-    "title": "Jake Tapper Grills WH Economic Adviser on Trump\u2019s Boasts Of The \u2018Best Economic Numbers\u2019 Ever: \u2018Is He Misinformed\u2019 or \u2018Not Telling the Truth?\u2019",
-    "description": "Jake Tapper sparred with Kevin Hasett over Donald Trump's claims that the U.S. has \"the best economic numbers\" ever, and poor PR is to blame for consumer angst.\nThe post Jake Tapper Grills WH Economic Adviser on Trump\u2019s Boasts Of The \u2018Best Economic Numbers\u2019 E\u2026",
-    "link": "https://www.mediaite.com/media/news/jake-tapper-grills-wh-economic-adviser-on-trumps-boasts-of-the-best-economic-numbers-ever-is-he-misinformed-or-not-telling-the-truth/",
-    "timestamp": "2026-10-04T19:02:58Z"
-  },
-  {
-    "title": "Brazilians head to polls in high-stakes, polarized election... Developing...",
-    "description": "BRASILIA/SAO PAULO/RIO DE JANEIRO, Oct 4 (Reuters) - Brazilians queued in long lines to vote on Sunday in the first round of a tight presidential election, f...",
-    "link": "https://www.yahoo.com/news/politics/articles/brazilians-head-polls-high-stakes-100439026.html",
-    "timestamp": "2026-10-04T19:00:13Z"
-  },
-  {
-    "title": "Justice Alito frets over future of Supreme Court...",
-    "description": "Justice Samuel Alito warned Sunday he was worried about the future of the US Supreme Court due to what he called an extreme level of public rhetoric and pres...",
-    "link": "https://www.yahoo.com/news/politics/articles/justice-alito-frets-over-future-153224232.html",
-    "timestamp": "2026-10-04T19:00:13Z"
-  },
-  {
-    "title": "The Alito Court: A rare interview with the influential Supreme Court justice",
-    "description": "Justice Samuel Alito discussed his opinion in the Dobbs decision overturning Roe v. Wade, the leaked draft and its aftermath, same-sex marriage rights and why he's not retiring yet.",
-    "link": "https://www.cbsnews.com/news/samuel-alito-supreme-court-justice-interview-dobbs-same-sex-marriage-not-retiring/",
-    "timestamp": "2026-10-04T19:00:06Z"
-  },
-  {
-    "title": "AI Safety",
-    "description": "I have been trying to read up on the current thinking among the AI crowd about safety. I would like to know where they\u2019re starting from. What I\u2019ve found so far is that all the attributions of \u201cAI safety\u201d are to Eliezer Yudkowsky. He is the main advocate for \u201c\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2026/10/ai-safety",
-    "timestamp": "2026-10-04T18:59:16Z"
-  },
-  {
-    "title": "Un d\u00eda por la paz, la justicia, la libertad\u2026 y la m\u00fasica",
-    "description": "Bruce Springsteen, Foo Fighters, Joan B\u00e1ez y Public Enemy, entre otros, participaron el Power to the People Fest, convocado por Tom Morello.",
-    "link": "https://aristeguinoticias.com/0410/cultura/un-dia-por-la-paz-la-justicia-la-libertad-y-la-musica/",
-    "timestamp": "2026-10-04T18:56:47Z"
-  },
-  {
-    "title": "The vacation from Jewish History is over for Americans",
-    "description": "The erasure of Jews and treating them as villains cannot be ignored. The post-Oct. 7 surge of antisemitism is not a misunderstanding that will fade whether Netanyahu wins the election or not. Opinion.",
-    "link": "https://www.israelnationalnews.com/news/434097",
-    "timestamp": "2026-10-04T18:56:39Z"
-  },
-  {
-    "title": "'Whoaaa': News panel astonished as expert shows how Trump voters could hand Dems the House",
-    "description": "MS NOW's elections and analytics director, Kabir Khanna, said Sunday that one number from a recent poll could decide control of Congress: the share of Trump voters who now regret backing him.A Wall Street Journal poll found that 11% of voters who supported Pr\u2026",
-    "link": "https://www.rawstory.com/trump-voters-2677998183/",
-    "timestamp": "2026-10-04T18:55:03Z"
-  },
-  {
-    "title": "Trump announces formation of AI \"Super Intelligence Force\" - CBS News",
-    "description": "Trump announces formation of AI \"Super Intelligence Force\"CBS News Trump names national intelligence chief Jay Clayton as new AI czarNPR President Donald Trump announces creation of 'Super Intelligence Force' AI task forceABC News - Breaking News, Latest News\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186022592",
-    "timestamp": "2026-10-04T18:53:19Z"
-  },
-  {
-    "title": "Tehran holds its first military training course for women after calls for Iranians to 'sacrifice themselves'",
-    "description": "Women have been learning how to handle assault rifles, ride zip lines and carry out first aid at a military training camp in Tehran as the Islamic regime calls on Iranians to 'sacrifice themselves'.",
-    "link": "https://www.dailymail.com/news/article-16182353/Iran-holds-military-training-course-women-sacrifice-themselves.html",
-    "timestamp": "2026-10-04T18:47:30Z"
-  },
-  {
-    "title": "War on Iran: Is escalation more likely than a deal?",
-    "description": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2",
-    "timestamp": "2026-10-04T18:47:22Z"
-  },
-  {
-    "title": "DHS fires back at Paramore's Hayley Williams after \u2018f--- ICE' concert outburst",
-    "description": "Hayley Williams shouted anti-ICE remarks during her Chula Vista concert, prompting DHS to defend federal law enforcement officers and urge her gratitude.",
-    "link": "https://www.foxnews.com/media/dhs-fires-back-paramores-hayley-williams-after-f-ice-concert-outburst",
-    "timestamp": "2026-10-04T18:46:13Z"
-  },
-  {
-    "title": "Rahm Emanuel urges Dems not to impeach Trump if they win the House",
-    "description": "Rahm Emanuel warns Democrats against impeaching Trump if they win the House, pushing for a comprehensive ethics package instead of a \"food fight.\"",
-    "link": "https://www.foxnews.com/politics/rahm-emanuel-urges-dems-not-impeach-trump-win-house",
-    "timestamp": "2026-10-04T18:45:01Z"
-  },
-  {
-    "title": "Republican's Risqu\u00e9 Campaign Ad Riling Up Both Sides Of The Aisle",
-    "description": "Steve Hilton, a candidate for governor of California, certainly got people talking with the innuendo-heavy political promo.",
-    "link": "https://www.huffpost.com/entry/california-republican-steve-hilton-campaign-ad-backlash_n_6ac27205e4b0bc90e3ff9493",
-    "timestamp": "2026-10-04T18:44:50Z"
-  },
-  {
-    "title": "Trump\u2019s Ohio rally gets quiet after he defends data centers \u2014 a toxic political issue with bipartisan opposition. \u2018You can\u2019t just turn them off\u2019",
-    "description": "President Donald Trump on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep its majorities in Congress despite \u2026",
-    "link": "https://biztoc.com/x/0a687506c8c548fa",
-    "timestamp": "2026-10-04T18:42:44Z"
-  },
-  {
-    "title": "Ted Cruz Calls Out JD Vance as 'Insecure' After VP Says It's 'Really Obvious' the Texas Republican Is Running for President",
-    "description": "Ted Cruz fired back at JD Vance after the VP claimed it was \"really obvious\" Cruz is already running for president.",
-    "link": "https://radaronline.com/p/ted-cruz-calls-out-jd-vance-insecure-really-obvious-running-president/",
-    "timestamp": "2026-10-04T18:40:00Z"
-  },
-  {
-    "title": "Sen. Kennedy: Trump goes from \u201cZero to a-hole in 3 seconds\u201d",
-    "description": "The GOP senator says Trump crossed a line by posting Sen. Tom Cotton's phone number over daylight saving time",
-    "link": "https://www.salon.com/2026/10/04/sen-kennedy-trump-goes-from-zero-to-a-hole-in-3-seconds/",
-    "timestamp": "2026-10-04T18:30:04Z"
-  },
-  {
-    "title": "The Flydubai thriller: new war scenarios in the wake of the flight of terror, and the implications for the Israeli and US ballots",
-    "description": "The Flydubai incident has revived insecurity in Israel just weeks before the 27 October election, with polls showing no clear winner. As Netanyahu seeks a path back to power and Trump faces a weak approval rating before the US midterms, the weeks after 3 Nove\u2026",
-    "link": "https://en.protothema.gr/2026/10/04/the-flydubai-thriller-new-war-scenarios-in-the-wake-of-the-flight-of-terror-and-the-implications-for-the-israeli-and-us-ballots/",
-    "timestamp": "2026-10-04T18:30:00Z"
-  },
-  {
-    "title": "Trump defends AI data centers at Ohio rally amid bipartisan criticism",
-    "description": "Trump's support for AI data centers may bolster GOP tech agenda but risks voter backlash and complicates Ohio's legislative landscape.\nThe post Trump defends AI data centers at Ohio rally amid bipartisan criticism appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/trump-defends-ai-data-centers-at-ohio-rally-amid-bipartisan-criticism/",
-    "timestamp": "2026-10-04T18:29:39Z"
-  },
-  {
-    "title": "Terror cells inside foreign airlines 'certainly a possibility,' retired pilot warns",
-    "description": "Retired Air Force and Delta Air Lines pilot Buzz Patterson said terror cells could infiltrate foreign airlines after a FlyDubai copilot attacked a captain.",
-    "link": "https://www.foxnews.com/us/terror-cells-inside-foreign-airlines-certainly-possibility-retired-pilot-warns",
-    "timestamp": "2026-10-04T18:27:31Z"
-  },
-  {
-    "title": "AI is evolving rapidly. Is it a new form of life?",
-    "description": "We are clearly creating a kind of non-biological life, an idea that has been clarified by several events in the past couple of weeks.",
-    "link": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
-    "timestamp": "2026-10-04T18:25:23Z"
-  },
-  {
-    "title": "Golfer-in-Chief Takes Aim At Daylight Saving Time",
-    "description": "Welp, we found out why Trump doxxed Tom Cotton when he didn't want to go along with him on making daylight saving time permanent. It's all about him, of course.\nFrom Raw Story on the doxxing: Trump sends his fans after GOP senator \u2014 and gives them his phone n\u2026",
-    "link": "https://crooksandliars.com/2026/10/trump-rants-about-daylight-savings-messing",
-    "timestamp": "2026-10-04T18:18:24Z"
-  },
-  {
-    "title": "Trump\u2019s Ohio rally gets quiet after he defends data centers \u2014 a\u00a0toxic political issue with bipartisan opposition. \u2018You can\u2019t just turn them off\u2019",
-    "description": "President Donald Trump\u00a0on Saturday defended data centers that power artificial intelligence projects but have become a contentious campaign issue nationwide, as he took his midterm tour to Ohio to insist his party will keep its\u00a0majorities in Congress\u00a0despite\u00a0\u2026",
-    "link": "https://fortune.com/2026/10/04/trumps-ohio-rally-gets-quiet-after-he-defends-data-centers-a-toxic-political-issue-with-bipartisan-opposition-you-cant-just-turn-them-off/",
-    "timestamp": "2026-10-04T18:17:52Z"
-  },
-  {
-    "title": "Energy prices in USA: Electricity to cost the most in five states. Here's why, check list",
-    "description": "California-based think tank said there will be more demand for natural gas for electricity because the administration is canceling new wind, solar and hydrogen projects and there will be more gasoline demand for transportation because Trump and Congress are r\u2026",
-    "link": "https://economictimes.indiatimes.com/news/international/us/energy-prices-in-usa-electricity-to-cost-the-most-in-five-states-heres-why-check-list/articleshow/134679083.cms",
-    "timestamp": "2026-10-04T18:17:41Z"
-  },
-  {
-    "title": "Trump Calls for Mandatory Prison Terms for Benefits Fraud",
-    "description": "President Donald Trump on Saturday called on Congress to impose mandatory prison sentences on people convicted of defrauding Medicare, Medicaid, and Social Security and proposed holding state and local politicians personally liable if they knowingly allow suc\u2026",
-    "link": "https://freerepublic.com/focus/f-bloggers/4397905/posts",
-    "timestamp": "2026-10-04T18:14:35Z"
-  },
-  {
-    "title": "Trump Calls for Mandatory Prison Terms for Benefits Fraud",
-    "description": "President Donald Trump on Saturday called on Congress to impose mandatory prison sentences on people convicted of defrauding Medicare, Medicaid, and Social Security and proposed holding state and local politicians personally liable if they knowingly allow suc\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4397905/posts",
-    "timestamp": "2026-10-04T18:14:35Z"
-  },
-  {
-    "title": "Trump renews push for Kennedy Center overhaul",
-    "description": "United States President Donald Trump said on Sunday that the Kennedy Center is \"crumbling\" and poses a danger to people inside, renewing his push to carry out major work at the Washington venue.In a T...",
-    "link": "https://biztoc.com/x/acd2fa87b48afda2",
-    "timestamp": "2026-10-04T18:12:49Z"
-  },
-  {
-    "title": "Chris Wright Claims Trump \u2018Worked Ceaselessly\u2019 To End Iran War He Started",
-    "description": "Energy Secretary Chris Wright said Sunday on CBS News that ending the war with Iran would, \u201cdramatically lower energy prices,\u201d",
-    "link": "https://dailycaller.com/2026/10/04/chris-wright-trump-iran-war-oil-prices-china-russia-tariffs",
-    "timestamp": "2026-10-04T18:04:30Z"
-  },
-  {
-    "title": "Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
-    "description": "Former FTC chair Lina Khan cautioned against AI companies regulating themselves during an interview on ABC's \"This Week.\"",
-    "link": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10#article",
-    "timestamp": "2026-10-04T18:03:27Z"
-  },
-  {
-    "title": "Trump's attacks on John Roberts are backfiring to help chief justice: biographer",
-    "description": "President Donald Trump keeps attacking the conservative Supreme Court justices, including those he appointed, for ruling against him. CNN's chief Supreme Court analyst says that may be helping them.Trump recently told Time magazine he regrets some of his pick\u2026",
-    "link": "https://www.rawstory.com/trump-john-roberts-2677998411/",
-    "timestamp": "2026-10-04T18:03:09Z"
-  },
-  {
-    "title": "Elon Musk Fully Surrenders to Trump on \u2018Super Intelligence\u2019",
-    "description": "He says he'll rename one of his companies accordingly.",
-    "link": "https://gizmodo.com/elon-musk-fully-surrenders-to-trump-on-super-intelligence-2000821314",
-    "timestamp": "2026-10-04T17:58:01Z"
-  },
-  {
-    "title": "Brazilians head to polls in high-stakes, polarized presidential election",
-    "description": "Lula and Flavio Bolsonaro lead a crowded field as economic worries, corruption and crime dominate the campaign",
-    "link": "https://www.business-standard.com/world-news/brazilians-head-to-polls-in-high-stakes-polarized-presidential-election-126100400788_1.html",
-    "timestamp": "2026-10-04T17:54:45Z"
-  },
-  {
-    "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-    "description": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
-    "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-    "timestamp": "2026-10-04T17:53:11Z"
-  },
-  {
-    "title": "MAGA fans fury at SNL as they ridicule skittish Republicans scrambling for votes and bring out ailing Mitch McConnell",
-    "description": "Saturday Night Live mocked the infamous peace sign McConnell has held up in response to reporters' questions, as well as Republican efforts to reach voters ahead of the midterms.",
-    "link": "https://www.dailymail.com/tv/article-16182211/SNL-open-MAGA-fury-Republican-midterm-ad-Mitch-McConnell.html",
-    "timestamp": "2026-10-04T17:52:51Z"
-  },
-  {
-    "title": "Trump\u2019s Appearance in Ohio Underscores All the Reasons the GOP Is Unpopular",
-    "description": "On Saturday, President Donald Trump hosted a campaign rally for Ohio senatorial and gubernatorial candidates, John Husted and Vivek Ramaswamy. As part of his campaign to revive GOP turnout and avoid what is widely predicted to be a Democratic sweep, he appear\u2026",
-    "link": "https://www.motherjones.com/politics/2026/10/trumps-appearance-in-ohio-underscores-all-the-reasons-the-gop-is-unpopular/",
-    "timestamp": "2026-10-04T17:52:19Z"
-  },
-  {
-    "title": "\u2018SNL\u2019 Cold Open Blasts Donald Trump & Republican Midterm Ads - TV Insider",
-    "description": "\u2018SNL\u2019 Cold Open Blasts Donald Trump & Republican Midterm AdsTV Insider \u2018S.N.L.\u2019 Recap: Taylor Swift Makes a Surprise Cameo and Trump Gets Some Last-Minute PromoThe New York Times SNL takes aim at Trump\u2019s Republican allies with cold openThe Washington Post 'SN\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186022250",
-    "timestamp": "2026-10-04T17:52:14Z"
-  },
-  {
-    "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
-    "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Energy Secretary Chris Wright and Zach Lahn, Iowa GOP nominee for governor, join Margaret Brennan.",
-    "link": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/",
-    "timestamp": "2026-10-04T17:49:28Z"
-  },
-  {
-    "title": "Eagles' Saquon Barkley suffers hamstring injury against Rams, and field could have played a significant role",
-    "description": "Saquon Barkley pulled up with a right hamstring injury against the Rams and is questionable to return after walking to the locker room for testing.",
-    "link": "https://www.foxnews.com/outkick-sports/eagles-saquon-barkley-suffers-hamstring-injury-against-rams-field-could-have-played-significant-role",
-    "timestamp": "2026-10-04T17:47:54Z"
-  },
-  {
-    "title": "Vivek Ramaswamy Roasted After Nearly Dropping 10-Year-Old Kid at Trump Rally: 'Absolutely Brutal'",
-    "description": "Vivek Ramaswamy was roasted online after nearly dropping a 10-year-old boy during a Trump rally in Ohio.",
-    "link": "https://radaronline.com/p/vivek-ramaswamy-roasted-nearly-dropping-10-year-old-kid-trump-rally/",
-    "timestamp": "2026-10-04T17:40:00Z"
-  },
-  {
-    "title": "\u2018He Gotta Die Bro\u2019: 3 College Students Arrested For Threatening President Trump Ahead Of Rally",
-    "description": "Three University of South Alabama students face federal charges over social media posts threatening President Trump ahead of his Mobile rally.",
-    "link": "https://dailycaller.com/2026/10/04/university-of-south-alabama-students-arrested-threatening-trump-rally",
-    "timestamp": "2026-10-04T17:36:24Z"
-  },
-  {
-    "title": "Trump\u2019s gives spy chief new title: AI czar - politico.com",
-    "description": "Trump\u2019s gives spy chief new title: AI czarpolitico.com Trump taps Director of National Intelligence Jay Clayton as AI czarCNBC Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI PushYahoo President Donald Trump announces creation of 'Super Inte\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186022144",
-    "timestamp": "2026-10-04T17:33:30Z"
-  },
-  {
-    "title": "Ken Paxton's estranged wife is mocked for hilarious advert begging for Texans to vote Republican... without uttering her allegedly adulterous ex's name",
-    "description": "State Senator Angela Paxton urged Texans to vote Republican in an ad appearing to support her allegedly adulterous ex-husband Ken Paxton as he battles for the US Senate.",
-    "link": "https://www.dailymail.com/news/article-16182053/ken-paxton-wife-mocked-advert-texas-vote-republican.html",
-    "timestamp": "2026-10-04T17:32:03Z"
-  },
-  {
-    "title": "New space race: Superpowers look to set up N-reactors on the Moon",
-    "description": "The US, China and Russia are racing to deploy nuclear reactors on the Moon, seeking reliable power for lunar bases while scientists warn of safety risks",
-    "link": "https://www.business-standard.com/world-news/new-space-race-superpowers-look-to-set-up-n-reactors-on-the-moon-126100400758_1.html",
-    "timestamp": "2026-10-04T17:28:54Z"
-  },
-  {
-    "title": "Trump ridiculed on nemesis network as montage of him sleeping plays: 'He is knocked out'",
-    "description": "MS NOW's \"The Weekend\" made fun of President Donald Trump on Sunday. First the hosts mocked his newest explanation for the Iran war, then they played a montage of him apparently dozing off.The segment opened with a clip from one of Trump's recent speeches, in\u2026",
-    "link": "https://www.rawstory.com/trump-sleeping-2677997869/",
-    "timestamp": "2026-10-04T17:19:45Z"
-  },
-  {
-    "title": "Iranian diplomats forcibly kicked out of US after ignoring orders to leave New York",
-    "description": "The members of Iran's UNGA delegation were asked to leave the country last Monday after the end of the United Nations meeting, but allegedly did not do so.",
-    "link": "https://www.dailymail.com/news/article-16182087/Iranian-diplomats-kicked-leave-New-York.html",
-    "timestamp": "2026-10-04T17:08:14Z"
-  },
-  {
-    "title": "Chris Christie: Trump Is 'Not an Asset' in Close Races",
-    "description": "Former New Jersey Gov. Chris Christie said Sunday on ABC\u2019s \u201cThis Week\u201d that President Donald Trump is \u201cnot an asset right now in any states where the races are really close.\u201d Host George Stephanopoulos said, \u201cYou\u2019d advise the president, I\nThe post Chris Chris\u2026",
-    "link": "https://www.breitbart.com/clips/2026/10/04/chris-christie-trump-is-not-an-asset-in-close-races/",
-    "timestamp": "2026-10-04T17:06:36Z"
-  },
-  {
-    "title": "\u201cOh my God! He tricked us!\u201d: SNL\u2019s Rubio and others panic over midterms",
-    "description": "The cold open imagines Republicans scrambling for a winning midterm message as Trump offers voters a $5,000 bribe",
-    "link": "https://www.salon.com/2026/10/04/oh-my-god-he-tricked-us-snls-rubio-and-others-panic-over-midterms/",
-    "timestamp": "2026-10-04T17:04:46Z"
-  },
-  {
-    "title": "'Iran signed NPT, India did not...situation is very different': Jaishankar highlights distinctions, deepening global energy crises amid West Asia turmoil",
-    "description": "External Affairs Minister S Jaishankar said India's non-signatory status under the NPT gives it a different position from Iran, which is an NPT signatory, while stressing that India's immediate concern is the impact of the West Asia conflict on energy and tra\u2026",
-    "link": "https://economictimes.indiatimes.com/news/india/iran-signed-npt-india-did-not-situation-is-very-different-jaishankar-highlights-distinctions-deepening-global-energy-crises-amid-west-asia-turmoil/articleshow/134678289.cms",
-    "timestamp": "2026-10-04T17:04:08Z"
-  },
-  {
-    "title": "WATCH: Trump Promises Turnout Will Guarantee GOP Midterm Victory and 'We're Going to Shove It Up Their A**'",
-    "description": "President Donald Trump during a rally in Ohio on Saturday made a profane promise if Republicans show up to cast their ballots in the upcoming midterms.\nThe post WATCH: Trump Promises Turnout Will Guarantee GOP Midterm Victory and \u2018We\u2019re Going to Shove It Up T\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/04/watch-trump-promises-turnout-will-guarantee-gop-midterm-victory-and-were-going-to-shove-it-up-their-ass/",
-    "timestamp": "2026-10-04T17:03:21Z"
   }
 ]
