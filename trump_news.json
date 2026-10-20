@@ -1,5 +1,455 @@
 [
   {
+    "title": "Brent down 2% as Trump lifts some Russia sanctions",
+    "description": "Crude oil prices fell on Monday, with Brent declining more than 2%, after United States President Donald Trump waived some sanctions against Russia imposed under the Graham Act.Brent dropped 2.07% to ...",
+    "link": "https://biztoc.com/x/4b62072b278ccd16",
+    "timestamp": "2026-10-19T06:20:46Z"
+  },
+  {
+    "title": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+    "description": "The candidates traded barbs, including over Bolsonaro's ties to US President Donald Trump in their first debate, days before the October 25 election runoff. Brazilian President Luiz Inacio Lula da Silva and populist Senator Flavio Bolsonaro on Sunday had a he\u2026",
+    "link": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420",
+    "timestamp": "2026-10-19T06:01:00Z"
+  },
+  {
+    "title": "Zelensky Tests U.S.-Ukraine Relations",
+    "description": "Ukrainian President Volodymyr Zelensky gave an interview to the Financial Times in which he rejected calls to resign and asked Washington for air-defense missiles, according to the newspaper. Zelensky also said U.S. dealings with Russian President Vladimir Pu\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-zelensky-tests-us-ukraine-relations.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Washington throttles Starshield, revealing who controls Ukraine\u2019s war, but can the U.S. force a Ukrainian surrender?",
+    "description": "A speed limit on a satellite terminal has done what years of diplomatic theater never could. It has exposed who holds the leash in the Ukraine war. When Washington reportedly ordered Starshield, the military-grade cousin of Starlink, slowed for Ukrainian forc\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-washington-throttles-starshield-revealing-who-controls-war.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Trump Dismisses AI Safety Concerns as a \u00e2\u0080\u009cHoax,\u00e2\u0080\u009d Rejects Calls for Guardrails",
+    "description": "Last September, President Donald Trump dismissed calls for AI safeguards as a \u201choax.\u201d His remarks came as executives at leading AI companies publicly called for a slower pace of development and as lawmakers in both parties weighed requests for new federal ove\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-trump-ai-safety-concerns-hoax-rejects-guardrails.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Suspicious powder packages target lawmakers across party lines ahead of elections",
+    "description": "At least 20 members of Congress and several state lawmakers reported receiving suspicious packages with unknown powdery substances at their offices, triggering evacuations and federal investigations weeks before the midterm elections. Unlike previous mailings\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-suspicious-powder-packages-target-lawmakers-across-party-lines.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "DOJ Sues California Over Voter Rolls After Flagging 20,000 \u201cLikely Noncitizens\u201d",
+    "description": "The complaint, filed in federal court in California\u2019s Central District on Oct. 15, claims the state is willfully allowing noncitizens to vote in federal elections. First Assistant U.S. Attorney Bill Essayli in Los Angeles explained that the\u00a0Department of Just\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-doj-sues-california-voter-rolls-likely-noncitizens.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "U.S. Import Prices Rise 0.5% in September on Energy Costs, BLS Says",
+    "description": "U.S. import prices increased 0.5% in September, boosted by higher costs for energy products, the Bureau of Labor Statistics reported Friday in Washington. Energy prices climbed 3.2% during the month, while non-energy import prices were unchanged, according to\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-us-import-rise-in-september-on-energy.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Sources Claim Russian Diesel Expected to Enter U.S. Market Before Midterm Elections",
+    "description": "Russian diesel is expected to reach the American market before the Nov. 3 midterm election, sources told the New York Post, as fuel costs remain near record highs. The fuel \u201cshould be here in the next two weeks if we get everything done,\u201d one American source \u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-russian-diesel-expected-enter-us-before-midterms.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Trump Allies Reportedly Discuss Martial Law as 2026 Election Disputes Escalate",
+    "description": "Allies of President Donald Trump have discussed invoking martial law and other extraordinary federal measures in internal conversations tied to disputed election scenarios, according to an Axios report published Oct. 16. Neither Trump nor his campaign publicl\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-trump-allies-reportedly-discuss-invoking-martial-law.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Trump\u00e2\u0080\u0099s bombshell Netanyahu endorsement comes with an Iran warning",
+    "description": "President Trump endorsed Israeli Prime Minister Benjamin Netanyahu nine days before Israel\u2019s October 27 election. Trump warned that if Israelis pick anyone else, America would have to handle Iran alone, which he is not inclined to do. A Maariv newspaper poll \u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-trump-netanyahu-endorsement-comes-with-iran-warning.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "France burns as riots leave 600 police and firefighters hurt and 2,400 arrested",
+    "description": "More than half a million people joined weekend protests in France that spiraled into riots, looting and arson. French Interior Minister Laurent Nu\u00f1ez said more than 600 police, gendarmes and firefighters were injured as at least 2,400 people were arrested. Pr\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-france-burns-riots-police-firefighters-arrested.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "The extractivists of the Foreign Office",
+    "description": "Britain has long been an Empire based on fossil fuels. And even today the interests of BP and Shell are mixed with the so called 'national interest'.",
+    "link": "https://theecologist.org/2026/oct/19/extractivists-foreign-office",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "GENIUS Act Stirs Controversy as Former White House Insider Profited from Stablecoin Legislation",
+    "description": "In 2025, President Donald Trump approved the GENIUS Act, which aims to establish the U.S. as a global leader in digital assets through stablecoin regulation. Reports reveal that Bo Hines, who served as a Trump crypto adviser and later joined Tether, personall\u2026",
+    "link": "https://www.naturalnews.com/2026-10-19-former-white-house-insider-profited-stablecoin-legislation.html",
+    "timestamp": "2026-10-19T06:00:00Z"
+  },
+  {
+    "title": "Election poll: New far-right party sinks under threshold, Smotrich gains",
+    "description": "Israel Election 2026 | Fake campaign showing United Arab List chairman with an LGBTQ flag circulated nationwide. Trump just handed Netanyahu his October surprise. Will it pay off? | Analysis. Complaint filed against Likud app that could record audio inside po\u2026",
+    "link": "https://www.haaretz.com/israel-news/elections/2026-10-19/ty-article-live/.free/israel-elections-2026/000001a1-52a9-d9e4-a1bd-57a9dc950000",
+    "timestamp": "2026-10-19T05:56:24Z"
+  },
+  {
+    "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+    "description": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+    "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+    "timestamp": "2026-10-19T05:35:39Z"
+  },
+  {
+    "title": "How Congress Fixed Social Security During Its Last Crisis",
+    "description": "In 1983, the realization the program could implode propelled last-ditch compromises.",
+    "link": "http://foreignpolicy.com/2026/10/19/congress-fixed-social-security/",
+    "timestamp": "2026-10-19T05:32:24Z"
+  },
+  {
+    "title": "Two Millennial Dads Are Making MAHA Moms\u2019 Priorities a Campaign Strategy",
+    "description": "They're betting that fellow parents' concerns about cancer, clean water and children\u2019s well-being will help determine who wins the Iowa governor's race.\nThe post Two Millennial Dads Are Making MAHA Moms\u2019 Priorities a Campaign Strategy appeared first on The Go\u2026",
+    "link": "https://goodmenproject.com/featured-content/two-millennial-dads-are-making-maha-moms-priorities-a-campaign-strategy/",
+    "timestamp": "2026-10-19T05:30:56Z"
+  },
+  {
+    "title": "'Who wants to take the chance?': Why Trump wants Netanyahu to stay in power in Israel",
+    "description": "US President Donald Trump on Sunday explained why he endorsed Israeli Prime Minister Benjamin Netanyahu\u2019s reelection bid, saying their strong relationship",
+    "link": "https://timesofindia.indiatimes.com/world/us/who-wants-to-take-the-chance-why-trump-wants-netanyahu-to-stay-in-power-in-israel/articleshow/135039554.cms",
+    "timestamp": "2026-10-19T05:27:58Z"
+  },
+  {
+    "title": "US President Donald Trump endorses Netanyahu for Israeli election",
+    "description": "US President Donald Trump endorses Netanyahu for Israeli election",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election",
+    "timestamp": "2026-10-19T05:10:37Z"
+  },
+  {
+    "title": "Indian IT giants' H-1B visa registrations fall amid Trump's crackdown; Infosys, Cognizant, TCS report fewer entries",
+    "description": "H-1B registrations by Infosys, TCS and Cognizant fell sharply for FY2027 amid higher visa costs and a wage-weighted selection system. The figures reflect fresh entries in the annual cap selection process, rather than total H-1B employment.",
+    "link": "https://www.livemint.com/companies/news/indian-it-giants-h-1b-visa-registrations-fall-amid-trumps-crackdown-infosys-cognizant-tcs-report-fewer-entries-11792385645179.html",
+    "timestamp": "2026-10-19T05:06:39Z"
+  },
+  {
+    "title": "The inventor of BRICS has a message for \u2018lazy, colonial\u2019 Europe\u2014India and China are still not taken seriously enough on the world stage",
+    "description": "Jim O\u2019Neill\u2019s Goldman Sachs Economics Paper No. 66 reshaped how business leaders looked at the world, but it may now be time for a significant upgrade",
+    "link": "https://fortune.com/2026/10/19/jim-oneill-economics-paper-no-66-brics-lazy-colonial-europe-india-china/",
+    "timestamp": "2026-10-19T05:00:00Z"
+  },
+  {
+    "title": "Please Don't Overinterpret Early Voting Numbers",
+    "description": "Early returns are the \u201cElvis-in-a-potato-chip\u201d of election analysis",
+    "link": "https://pollvault.substack.com/p/for-the-love-of-god-please-dont-overinterpret",
+    "timestamp": "2026-10-19T05:00:00Z"
+  },
+  {
+    "title": "Rubio on Greece: A very important country and great ally that deserves a strong new US ambassador",
+    "description": "The US Secretary of State rules out any downgrading of bilateral relations and highlights Greece's strategic role in the wider region \u2013 What he said about energy, NATO, Ukraine and Iran\nThe post Rubio on Greece: A very important country and great ally that de\u2026",
+    "link": "https://en.protothema.gr/2026/10/19/rubio-on-greece-a-very-important-country-and-great-ally-that-deserves-a-strong-new-us-ambassador/",
+    "timestamp": "2026-10-19T04:40:43Z"
+  },
+  {
+    "title": "Hard to convince Italians to back Ukraine \u2013 defense minister",
+    "description": "Guido Crosetto says Rome must continue supporting Kiev despite widespread public opposition and protests over government spending Read Full Article at RT.com",
+    "link": "https://rt-english.com/news/647374-hard-convince-italians-back-ukraine/",
+    "timestamp": "2026-10-19T04:32:11Z"
+  },
+  {
+    "title": "How gas prices became a lightning rod for voter anger ahead of the US midterms",
+    "description": "Donald Trump has repeatedly promised oil prices will \u201cdrop like a rock\u201d. The opposite has happened, and Americans will likely punish his party at the midterms.",
+    "link": "https://theconversation.com/how-gas-prices-became-a-lightning-rod-for-voter-anger-ahead-of-the-us-midterms-294663",
+    "timestamp": "2026-10-19T04:29:43Z"
+  },
+  {
+    "title": "WSJ exclusive: Putin proposes trilateral summit with Trump and Xi on Ukraine, excluding Zelensky",
+    "description": "The proposed November meeting and the Russian diesel deal \u2013 Trump accuses Zelensky of not wanting to end the war\nThe post WSJ exclusive: Putin proposes trilateral summit with Trump and Xi on Ukraine, excluding Zelensky appeared first on ProtoThema English.",
+    "link": "https://en.protothema.gr/2026/10/19/wsj-exclusive-putin-proposes-trilateral-summit-with-trump-and-xi-on-ukraine-excluding-zelensky/",
+    "timestamp": "2026-10-19T04:28:44Z"
+  },
+  {
+    "title": "India bonds to decline on elevated oil, hawkish RBI",
+    "description": "Indian government bonds may weaken as elevated oil and a hawkish RBI push yields higher, with the 2036 bond likely trading 7.37-7.42%.",
+    "link": "https://www.thehindubusinessline.com/markets/india-bonds-to-decline-on-elevated-oil-hawkish-rbi/article71602027.ece",
+    "timestamp": "2026-10-19T04:10:08Z"
+  },
+  {
+    "title": "Democrats gain ground with AAPI adults as trust in Republicans fades, AP-NORC/AAPI Data poll finds",
+    "description": "A new AP-NORC/AAPI data poll finds that Asian Americans, Native Hawaiians and Pacific Islander adults have become more disillusioned with President Donald Trump and Republicans as the midterm elections approach. This gives Democrats a substantial edge on majo\u2026",
+    "link": "https://apnews.com/article/aapi-asian-american-midterm-elections-trump-democrats-repubicans-b05ea8497a7fab3ea3e83913ffeea9c8",
+    "timestamp": "2026-10-19T04:06:00Z"
+  },
+  {
+    "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+    "description": "Russian President Vladimir Putin had reportedly suggested a summit between himself, U.S. President Donald Trump and Chinese President Xi Jinping for a deal to end the Ukraine war.\nThe meeting was mentioned in a phone call to Trump on Oct. 9, the Wall Street J\u2026",
+    "link": "https://biztoc.com/x/053484389dd3489d",
+    "timestamp": "2026-10-19T04:04:53Z"
+  },
+  {
+    "title": "Iran threatens to target AI centers and undersea cables if war with U.S. resumes",
+    "description": "Iranian Revolutionary Guards spokesperson Hossein Mohebbi speaks during a press conference in Tehran, Iran, on September 29. - Majid Asgaripour/Wana News Agency/Reuters\r\n\nIran has signaled that it is preparing for another round of war with the United States a\u2026",
+    "link": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
+    "timestamp": "2026-10-19T04:00:45Z"
+  },
+  {
+    "title": "Think, Vote, Win",
+    "description": "Photo Credit:Image via Pixabay, Pixabay License.\r\n\n\n \n PixabayBy J.B. ShurkYou control the outcome of the midterms.",
+    "link": "https://www.americanthinker.com/articles/2026/10/think-vote-win/",
+    "timestamp": "2026-10-19T04:00:00Z"
+  },
+  {
+    "title": "Hopper\u2019s America: thesis, antithesis and synthesis",
+    "description": "An exhibition in Pisa brings together works by the American artist who painted the city at night, dawn over the ocean and the loneliness of the forgotten \u2014 and who made his wife both his muse and his victim.",
+    "link": "https://europe.repubblica.it/en/culture/2026/10/19/news/edward_hopper_exhibition_pisa_2026-425654587/",
+    "timestamp": "2026-10-19T04:00:00Z"
+  },
+  {
+    "title": "What Doesn\u2019t Kill You: Politics, Resilience, and Mental Health",
+    "description": "Photo Credit:Victimhood and resilience montage\n \n ChatGPT ai-generated illustrationBy Brian C. Joondeph, M.D.Does worldview shape how we handle adversity?",
+    "link": "https://www.americanthinker.com/articles/2026/10/what-doesn-t-kill-you-politics-resilience-and-mental-health/",
+    "timestamp": "2026-10-19T04:00:00Z"
+  },
+  {
+    "title": "IBD/TIPP poll shows a narrowing midterm race: The trend is our friend",
+    "description": "By Monica ShowalterDemocrats, such as Michigan's Sen. Elise Slotkin and Senate candidate Abdul El-Sayed keep reminding us who they are. And voters are believing them.",
+    "link": "https://www.americanthinker.com/blog/2026/10/ibd-tipp-poll-shows-a-narrowing-midterm-race-the-trend-is-our-friend/",
+    "timestamp": "2026-10-19T04:00:00Z"
+  },
+  {
+    "title": "Peskov Says Russia, US, China Acknowledge Hypothetical Possibility of Trilateral Meeting",
+    "description": "Kremlin spokesman Dmitry Peskov told The Wall Street Journal that Russia, the United States, and China acknowledged the hypothetical possibility of holding a trilateral meeting.",
+    "link": "https://sputnikglobe.com/20261019/peskov-says-russia-us-china-acknowledge-hypothetical-possibility-of-trilateral-meeting-1124899710.html",
+    "timestamp": "2026-10-19T03:59:00Z"
+  },
+  {
+    "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+    "description": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+    "timestamp": "2026-10-19T03:56:03Z"
+  },
+  {
+    "title": "Rupee likely pinned near 95 as RBI defence counters oil headwinds",
+    "description": "Rupee held near 95 as RBI defends against oil-driven weakness, with likely open 94.92\u201394.98 amid ongoing interventions.",
+    "link": "https://www.thehindubusinessline.com/markets/forex/rupee-likely-pinned-near-95-as-rbi-defence-counters-oil-headwinds/article71602028.ece",
+    "timestamp": "2026-10-19T03:49:51Z"
+  },
+  {
+    "title": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+    "description": "Firing off personal attacks, Brazil's President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro held an acrimonious first debate, a week before a tight presidential election runoff.",
+    "link": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-debate/",
+    "timestamp": "2026-10-19T03:49:22Z"
+  },
+  {
+    "title": "'Liar,' 'clown': Lula and Bolsonaro spar in Brazil debate",
+    "description": "Firing off personal attacks, Brazil's President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro held an acrimonious first debate, a week before a tight presidential election runoff.",
+    "link": "https://www.rte.ie/news/world/2026/1019/1595907-brazil-election-debate/",
+    "timestamp": "2026-10-19T03:49:22Z"
+  },
+  {
+    "title": "A Data Center Deal Lurks Behind Trump\u2019s Russian Diesel Debacle",
+    "description": "Data centers have emerged as part of Trump's plan for a new era of collaboration between the US and Russia -- wait, what?\nThe post A Data Center Deal Lurks Behind Trump\u2019s Russian Diesel Debacle appeared first on CleanTechnica.",
+    "link": "https://cleantechnica.com/2026/10/18/collaboration-russia-us-data-centers-elections-2026/",
+    "timestamp": "2026-10-19T03:42:48Z"
+  },
+  {
+    "title": "Trump Believes Zelensky Does Not Want, Never Wanted Settlement in Ukraine",
+    "description": "US President Donald Trump believes that Vladimir Zelensky does not want, and perhaps never wanted, an end to the conflict in Ukraine.",
+    "link": "https://sputnikglobe.com/20261019/trump-believes-zelensky-does-not-want-never-wanted-settlement-in-ukraine-1124899479.html",
+    "timestamp": "2026-10-19T03:41:00Z"
+  },
+  {
+    "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+    "description": "Gold edges higher as oil softens and Fed rate-hike odds loom; investors weigh inflation, PCE data, and central bank signals.",
+    "link": "https://www.thehindubusinessline.com/markets/gold/gold-edges-higher-on-softer-oil-fed-rate-outlook-in-focus/article71602024.ece",
+    "timestamp": "2026-10-19T03:36:01Z"
+  },
+  {
+    "title": "Putin proposes summit with Trump, Xi Jinping to discuss Ukraine deal",
+    "description": "The proposed summit comes \u200camid warming ties between Trump and Putin \u200bespecially after the US President \u200bannounced a deal to buy Russian diesel and signed an order \u200bwaiving key sanctions on Moscow",
+    "link": "https://www.business-standard.com/world-news/putin-proposes-summit-with-trump-xi-jinping-to-discuss-ukraine-deal-126101900089_1.html",
+    "timestamp": "2026-10-19T03:27:11Z"
+  },
+  {
+    "title": "Newsom calls for conditions on US aid to Israel",
+    "description": "California Governor Gavin Newsom calls for conditions on US military aid to Israel, criticizing Netanyahu for \u201cisolating\" Israel.",
+    "link": "https://www.israelnationalnews.com/news/434812",
+    "timestamp": "2026-10-19T03:22:22Z"
+  },
+  {
+    "title": "Sergio Gor welcomes Rubio to Uzbekistan ahead of key C5+1 Ministerial meeting",
+    "description": "US Secretary of State Marco Rubio arrived in Samarkand, Uzbekistan, leading a large delegation of business executives. His visit focuses on strengthening trade and investment between the United States and Central Asian countries. Meetings with foreign ministe\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/sergio-gor-welcomes-rubio-to-uzbekistan-ahead-of-key-c51-ministerial-meeting/articleshow/135038540.cms",
+    "timestamp": "2026-10-19T03:21:33Z"
+  },
+  {
+    "title": "\u2018I call it a bribe\u2019: Pennsylvania residents spurn $10,000 data center checks",
+    "description": "Local opposition blocked or delayed at least 75 data center projects in the first three months of 2026, according to Data Center Watch, which tracks resistance to the industry.\nThe post \u2018I call it a bribe\u2019: Pennsylvania residents spurn $10,000 data center che\u2026",
+    "link": "https://www.digitaljournal.com/article/i-call-it-a-bribe-pennsylvania-residents-spurn-10000-data-center-checks/",
+    "timestamp": "2026-10-19T03:10:09Z"
+  },
+  {
+    "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "description": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+    "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy",
+    "timestamp": "2026-10-19T03:10:05Z"
+  },
+  {
+    "title": "Diesel deal aimed to keep peace talks with Russia going, says Trump",
+    "description": "Trump also accused Ukrainian President Volodymyr Zelenskyy of prolonging the Russia-Ukraine war, now in its fifth year, because of the military aid he has gotten from European allies",
+    "link": "https://www.business-standard.com/world-news/diesel-deal-aimed-to-keep-peace-talks-with-russia-going-says-trump-126101900079_1.html",
+    "timestamp": "2026-10-19T03:09:47Z"
+  },
+  {
+    "title": "Zell on Trump's endorsement of Netanyahu: Political deadlock, repeated elections signal weakness",
+    "description": "Marc Zell, chairman of chairman of Republicans Overseas Israel, commented in an interview with Reshet Bet radio on US President Donald Trump's endorsement of Prime Minister Benjamin Netanyahu ahead of the upcoming elections.Zell attributed Trump's support to \u2026",
+    "link": "https://www.israelnationalnews.com/flashes/695621",
+    "timestamp": "2026-10-19T02:59:06Z"
+  },
+  {
+    "title": "Putin reportedly proposes summit with Trump and Xi to discuss Ukraine peace deal",
+    "description": "Oct 18 (Reuters) - Russian President Vladimir Putin has proposed a summit next month with US President Donald Trump and Chinese leader Xi Jinping \u200cto negotiate an end to the four-year-old Ukraine conflict that would \u200cfavour Moscow, the Wall Street Journal rep\u2026",
+    "link": "https://www.yahoo.com/news/politics/articles/putin-proposes-summit-trump-xi-025442579.html",
+    "timestamp": "2026-10-19T02:54:42Z"
+  },
+  {
+    "title": "Iran warns of further escalation after Trump endorses Netanyahu for polls",
+    "description": "Araghchi slammed Trump's post endorsing Israeli PM Benjamin Netanyahu ahead of the upcoming elections, stating that the last time the US gave such an ultimatum, Iran emerged 'even stronger'",
+    "link": "https://www.business-standard.com/world-news/iran-warns-of-further-escalation-after-trump-endorses-netanyahu-for-polls-126101900050_1.html",
+    "timestamp": "2026-10-19T02:48:50Z"
+  },
+  {
+    "title": "Netanyahu thanks Trump for endorsement, cites Iran threat ahead of election",
+    "description": "Netanyahu praised Trump's leadership while arguing that their strategic partnership is essential to completing the mission against Iran's nuclear ambitions",
+    "link": "https://www.business-standard.com/world-news/netanyahu-thanks-trump-for-endorsement-cites-iran-threat-ahead-of-election-126101900034_1.html",
+    "timestamp": "2026-10-19T02:48:20Z"
+  },
+  {
+    "title": "Border czar Tom Homan says there's 'strong' evidence that could lead to Ilhan Omar's deportation as Obama comes to defense of congresswoman",
+    "description": "White House border czar Tom Homan warned that Ilhan Omar could be stripped of her US citizenship and deported if investigators uncover evidence of immigration fraud.",
+    "link": "https://www.dailymail.com/news/article-16219561/Border-czar-Tom-Homan-evidence-Ilhan-Omars-deportation-Obama.html",
+    "timestamp": "2026-10-19T02:45:22Z"
+  },
+  {
+    "title": "Trump says Washington golf course renovation to start in November, despite judge's order",
+    "description": "US President Donald Trump said on Sunday (Oct 18) that his administration would begin renovation work next month on a historic Washington golf course that a federal judge had ordered could not proceed without prior court notification.The renovation work, whic\u2026",
+    "link": "https://www.channelnewsasia.com/world/trump-says-washington-golf-course-renovation-start-in-november-despite-judges-order-6469916",
+    "timestamp": "2026-10-19T02:41:00Z"
+  },
+  {
+    "title": "As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'",
+    "description": "Russia's full-scale invasion of Ukraine has taken on a different complexion lately, and it has shone a light on Kyiv's strained relations with the White House.",
+    "link": "https://www.abc.net.au/news/2026-10-19/ukraine-relationship-with-us-and-trump-strained-amid-war/107273416",
+    "timestamp": "2026-10-19T02:38:59Z"
+  },
+  {
+    "title": "\u2018Want to try your luck again?\u2019: Iran\u2019s Araghchi warning to Trump against renewed war",
+    "description": "Iranian foreign minister Abbas Araghchi has issued a sharp warning to US President Donald Trump over his threat to \u201cfinish the job\u201d against Tehran, saying",
+    "link": "https://timesofindia.indiatimes.com/world/middle-east/want-to-try-your-luck-again-irans-araghchi-warning-to-trump-against-renewed-war/articleshow/135038045.cms",
+    "timestamp": "2026-10-19T02:36:27Z"
+  },
+  {
+    "title": "Netanyahu warns of hostile future US Prez, calls for alliances with India",
+    "description": "Israeli Prime Minister Benjamin Netanyahu on Sunday warned that a future US president could be hostile towards Israel, calling for new alliances with countries such as India and those in Latin America to strengthen his country's position.\nNetanyahu made the r\u2026",
+    "link": "https://www.business-standard.com/world-news/netanyahu-warns-of-hostile-future-us-prez-calls-for-alliances-with-india-126101900009_1.html",
+    "timestamp": "2026-10-19T02:33:32Z"
+  },
+  {
+    "title": "State sends wildfire aid to low-income housing while fire victims fight for their homes",
+    "description": "California officials used federal funding meant to help wildfire victims rebuild, and spent it on low-income housing instead.",
+    "link": "https://nypost.com/2026/10/18/opinion/state-sends-aid-to-low-income-housing-as-fire-victims-suffer/",
+    "timestamp": "2026-10-19T02:22:27Z"
+  },
+  {
+    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+    "description": "Brent \u200bcrude futures fell $1.43, or 1.30%, to $108.43 a barrel by 2340 \u200cGMT after settling at its highest since May 19 on Friday",
+    "link": "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
+    "timestamp": "2026-10-19T02:21:12Z"
+  },
+  {
+    "title": "Oil Price Today (October 19): Crude oil dips 2% to $108 after hitting its highest levels since May. Here\u2019s why",
+    "description": "Brent crude futures dropped $1.80, or 1.64%, to $108.06 a barrel after settling at their highest level since May 19 on Friday. US West Texas Intermediate crude declined 53 cents, or 0.52%, to $100.88 a barrel.",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-19-crude-oil-dips-2-to-108-after-hitting-its-highest-levels-since-may-heres-why/articleshow/135037940.cms",
+    "timestamp": "2026-10-19T02:20:11Z"
+  },
+  {
+    "title": "Democrats remain clear favourites to gain control of Congress at midterms",
+    "description": "US President Donald Trump\u2019s net approval is below what any past president since Harry Truman had at this point in their term, with Joe Biden the closest at -11.7.",
+    "link": "https://theconversation.com/democrats-remain-clear-favourites-to-gain-control-of-congress-at-midterms-294465",
+    "timestamp": "2026-10-19T02:18:06Z"
+  },
+  {
+    "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+    "description": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
+    "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+    "timestamp": "2026-10-19T02:10:09Z"
+  },
+  {
+    "title": "Democrat Adam Hamilton Getting Rich from His Megachurch",
+    "description": "Democrat megachurch pastor, Adam Hamilton, has spent his campaign for Senate in Kansas railing against billionaires and special interests, but his financial disclosure shows he has a net worth of up to $20 million and earns a salary more than twice the salary\u2026",
+    "link": "https://www.breitbart.com/midterm-election/2026/10/18/democrat-adam-hamilton-getting-rich-megachurch/",
+    "timestamp": "2026-10-19T02:08:33Z"
+  },
+  {
+    "title": "SNL Host Inde Navarrette's Obsession? A \"Super Fun\" Halloween Show",
+    "description": "With NBC's Saturday Night Live limping its way into its Halloween break off of two lackluster hosting jobs from two three-timers, we're hoping that some fresh blood will help save the day when SNL returns on October 31st. Speaking with Variety on the red carp\u2026",
+    "link": "https://bleedingcool.com/tv/snl-host-inde-navarrettes-obsession-a-super-fun-halloween-show/",
+    "timestamp": "2026-10-19T02:07:09Z"
+  },
+  {
+    "title": "\u2018Moderate\u2019 Elissa Slotkin pretends she\u2019s a stickler for \u2018defending democracy\u2019 \u2014 but this is how the Bolshevik left play the game",
+    "description": "Elissa Slotkin was elected to the Senate in 2024 as a supposed \u201cmoderate.\u201d",
+    "link": "https://nypost.com/2026/10/18/opinion/moderate-elissa-slotkin-pretends-shes-a-stickler-for-defending-democracy-but-this-is-how-the-bolshevik-left-play-the-game/",
+    "timestamp": "2026-10-19T02:05:45Z"
+  },
+  {
+    "title": "Dollar firmer, euro weakens as French protests turn violent",
+    "description": "In Asia, the dollar saw a minor uptick as unrest in France put pressure on the euro, causing a small decline. Emerging market currencies, notably the Indonesian rupiah, are struggling with the looming threat of a stock market downgrade. Oil prices dipped foll\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent/articleshow/135037823.cms",
+    "timestamp": "2026-10-19T02:05:41Z"
+  },
+  {
+    "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+    "description": "Oil prices took a tumble after US President Trump eased sanctions on Russia, prompting a surge in fuel exports. Brent crude futures fell to $108.43 a barrel, down from a peak of $110. Ukrainian President Volodymyr Zelenskiy warned that such actions would adve\u2026",
+    "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies/articleshow/135037803.cms",
+    "timestamp": "2026-10-19T02:04:10Z"
+  },
+  {
+    "title": "The Bipartisan Energy Bill Tearing the Climate Movement Apart",
+    "description": "A long-awaited permitting reform proposal would make renewables easier to build, but at a potential cost to communities and the environment.\nThe post The Bipartisan Energy Bill Tearing the Climate Movement Apart appeared first on The Good Men Project.",
+    "link": "https://goodmenproject.com/featured-content/the-bipartisan-energy-bill-tearing-the-climate-movement-apart/",
+    "timestamp": "2026-10-19T02:00:04Z"
+  },
+  {
+    "title": "Russia-Ukraine peace negotiations making 'great progress', says Trump",
+    "description": "Trump said negotiations to end the Russia-Ukraine war were advancing, while accusing Volodymyr Zelenskyy of missing a better deal two years ago and criticising Ukrainian strikes on Russian refineries",
+    "link": "https://www.business-standard.com/world-news/russia-ukraine-peace-negotiations-making-great-progress-says-trump-126101900031_1.html",
+    "timestamp": "2026-10-19T01:59:39Z"
+  },
+  {
+    "title": "'We have unfinished jobs too': Araghchi warns US, Israel against further escalation amid Trump's Netanyahu endorsement",
+    "description": "Iranian Foreign Minister Abbas Araghchi responded to US President Donald Trump's remarks regarding Tehran's course of action. He stated that Iran had previously emerged stronger after threats from the US and challenged Trump to try again. Araghchi criticized \u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/we-have-unfinished-jobs-too-araghchi-warns-us-israel-against-further-escalation-amid-trumps-netanyahu-endorsement/articleshow/135037712.cms",
+    "timestamp": "2026-10-19T01:57:03Z"
+  },
+  {
+    "title": "Vance says he may not run for President in 2028",
+    "description": "Vice President JD Vance says he may skip the 2028 presidential race, citing his wife and four children, despite leading early Republican primary polls.",
+    "link": "https://www.israelnationalnews.com/news/434809",
+    "timestamp": "2026-10-19T01:53:41Z"
+  },
+  {
+    "title": "Oil prices slide as Trump waives Russia sanctions",
+    "description": "Investing.com-- Oil prices fell sharply early-Monday as markets positioned for improving supplies after U.S. President Donald Trump signed an order waiving most sanctions and tariffs on Russia.\nCrude fell after surging nearly 5% last week, where continued dis\u2026",
+    "link": "https://biztoc.com/x/188a8a7b54b83571",
+    "timestamp": "2026-10-19T01:49:41Z"
+  },
+  {
+    "title": "Texas Democrats eye midterms breakthrough as Republicans face voter anger",
+    "description": "US President Donald Trump (L) backed Republican candidate Ken Paxton (R) over sitting Texas senator John Cornyn (Mandel NGAN)\r\nAfter more than three decades of Republican dominance, Democrats in Texas see a rare chance to break through in November's midterm e\u2026",
+    "link": "https://www.yahoo.com/news/politics/articles/texas-democrats-eye-breakthrough-republicans-014927300.html",
+    "timestamp": "2026-10-19T01:49:27Z"
+  },
+  {
+    "title": "Oil prices ease as Trump waives Russia sanctions, Middle East risks persist",
+    "description": "Oil prices have seen a downturn due to US President Donald Trump's decision to lift sanctions on Russia, causing worries about supply stability. Brent crude is now at $108.3 per barrel, while West Texas Intermediate has decreased to $101.2 per barrel. Heighte\u2026",
+    "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-trump-waives-russia-sanctions-middle-east-risks-persist/articleshow/135037616.cms",
+    "timestamp": "2026-10-19T01:44:05Z"
+  },
+  {
     "title": "The many faces and scandals of Kimberly Guilfoyle: From her 'fertile' years with Gavin Newsom to buying her own engagement ring when Don Jr wouldn't... what friends are saying comes next for 'cockroach' Kim",
     "description": "Kimberly Guilfoyle's fall from grace has come not with a whimper, but with a decidedly on brand bang. Yet don't count her out just yet - after all, retreat isn't really Guilfoyle's style.",
     "link": "https://www.dailymail.com/lifestyle/article-16209077/kimberly-guilfoyle-faces-scandals-gavin-newsom-donald-trump-jr.html",
@@ -130,473 +580,5 @@
     "description": "US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions. US President Donald Trumpon Sunday defended hi\u2026",
     "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674",
     "timestamp": "2026-10-19T00:26:00Z"
-  },
-  {
-    "title": "Republican Lt Gov Warns 60 Minutes Election Threats Are \u2018Coming From Within Our Own Government\u2019 For First Time",
-    "description": "Utah's Deidre Henderson said that for the first time, election threats are coming from within the federal government \u2014 and she's all-in on defying Trump\nThe post Republican Lt Gov Warns 60 Minutes Election Threats Are \u2018Coming From Within Our Own Government\u2019 F\u2026",
-    "link": "https://www.mediaite.com/media/news/republican-lt-gov-warns-60-minutes-election-threats-are-coming-from-within-our-own-government-for-first-time/",
-    "timestamp": "2026-10-19T00:15:30Z"
-  },
-  {
-    "title": "Anthony Scaramucci on Trump, getting fired and owning his mistakes",
-    "description": "The Mooch grew up on Long Island, part of a large Italian-American community and far away from the world of money, power and influence.\u00a0\n\nWhen Anthony was accepted into a prestigious university, Anthony\u2019s parents put their retirements savings on the line to m\u2026",
-    "link": "https://www.abc.net.au/listen/programs/conversations/anthony-scaramucci-latest-book-all-the-wrong-moves/107267990",
-    "timestamp": "2026-10-19T00:15:00Z"
-  },
-  {
-    "title": "Iran's Revolutionary Guards threaten to turn Israel into 'scorched earth'",
-    "description": "Iran's Revolutionary Guards threaten a devastating response against Israel if Iranian energy facilities are attacked, amid escalating warnings between Tehran and Trump.",
-    "link": "https://www.israelnationalnews.com/news/434807",
-    "timestamp": "2026-10-19T00:10:13Z"
-  },
-  {
-    "title": "Alina Habba's 'astonishingly silly move' might finally blow up Trump world: column",
-    "description": "One of President Donald Trump's former lawyers may have just lit the fuse on the bomb that finally blows up Trump world, one column is arguing. Alina Habba, who once defended Trump during his New York civil trial and then briefly served as an acting U.S. Atto\u2026",
-    "link": "https://www.rawstory.com/alina-habba-2678102826/",
-    "timestamp": "2026-10-19T00:07:18Z"
-  },
-  {
-    "title": "Trump departs Florida for Washington",
-    "description": "United States President Donald Trump departed from Donald J. Trump International Airport in Florida on Air Force One, returning to Washington, DC, after a weekend at Mar-a-Lago, Fox News reported.The ...",
-    "link": "https://biztoc.com/x/806af39ab33435b8",
-    "timestamp": "2026-10-19T00:04:04Z"
-  },
-  {
-    "title": "JD Vance: He And Trump Only Ones Allowed To Criticize Iran War",
-    "description": "During an hour long town hall on CBS in in Michigan, JD Vance tried to ignore the disastrous Iran war implemented by Trump and supported by his team of sycophants, instead blaming Dr. Abdul-El-Sayed for criticizing their horrific efforts which have caused ins\u2026",
-    "link": "https://crooksandliars.com/2026/10/jd-vance-believes-he-and-trump-only-one",
-    "timestamp": "2026-10-19T00:00:01Z"
-  },
-  {
-    "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
-    "description": "A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science.",
-    "link": "https://www.nature.com/articles/d41586-026-03275-w",
-    "timestamp": "2026-10-19T00:00:00Z"
-  },
-  {
-    "title": "The Aristotle Quote That Defines US Marine General James \u201cMad Dog\u201d Mattis Is Simple And Effective: \u201cBy Doing Brave Acts, We Become Brave\u201d",
-    "description": "\u201cBy doing brave acts, we become brave.\u201d Aristotle\u2019s line explains General James Mattis, the Marine called Mad Dog and Warrior Monk, from Iraq to the Pentagon.",
-    "link": "https://www.19fortyfive.com/2026/10/the-aristotle-quote-that-defines-us-marine-general-james-mad-dog-mattis-is-simple-and-effective-by-doing-brave-acts-we-become-brave/",
-    "timestamp": "2026-10-19T00:00:00Z"
-  },
-  {
-    "title": "Obama condemns comments by 'border czar' that Ilhan Omar could be denaturalized",
-    "description": "Homeland security officers carry boxes from the Washington DC residence of Ilhan Omar, on 12 October.Photograph: J Scott Applewhite/AP\n\r\n\n\nFormer US president Barack Obama condemned comments by Donald Trump\u2019s \u201cborder czar\u201d that the Republican presidential adm\u2026",
-    "link": "https://www.yahoo.com/news/us/articles/trump-border-czar-says-ilhan-171602251.html",
-    "timestamp": "2026-10-18T23:51:31Z"
-  },
-  {
-    "title": "Trump explains easing sanctions on Russia: I don't want to drive them away from the bargaining table",
-    "description": "US President Donald Trump addressed his decision to ease sanctions on Russia, which were intended to limit its ability to continue the war in Ukraine, in a post on Truth Social.Trump described the decision as \"very simple,\" explaining, I am in the process of \u2026",
-    "link": "https://www.israelnationalnews.com/flashes/695614",
-    "timestamp": "2026-10-18T23:48:36Z"
-  },
-  {
-    "title": "Putin proposes summit with Trump, Xi to end Ukraine war, WSJ reports",
-    "description": "Putin has proposed a summit with Trump and Xi next month to negotiate an end to the Ukraine war, while a call reportedly yielded a US-Russian diesel deal.",
-    "link": "https://www.thehindubusinessline.com/news/world/putin-proposes-summit-with-trump-xi-to-end-ukraine-war-wsj-reports/article71601810.ece",
-    "timestamp": "2026-10-18T23:43:49Z"
-  },
-  {
-    "title": "Sacha Baron Cohen on getting real people to reveal their beliefs",
-    "description": "Sacha Baron Cohen, the actor behind iconic characters, including Ali G, Borat and Bruno, is a rare mix of public intellectual and adrenaline junkie. He uses comedy in the hopes of making us laugh and waking us up.",
-    "link": "https://www.cbsnews.com/news/sacha-baron-cohen-undercover-comedy-ali-g-60-minutes/",
-    "timestamp": "2026-10-18T23:39:07Z"
-  },
-  {
-    "title": "\u2018Suspicious Phone Call\u2019 Causes Chaos at Trump In\u2019l Airport As President Prepares To Fly Out",
-    "description": "A \"suspicious phone call\" sent authorities scrambling at Donald J. Trump International Airport in West Palm Beach, FL, Sunday, just hours before the president was due to fly out.\nThe post \u2018Suspicious Phone Call\u2019 Causes Chaos at Trump In\u2019l Airport As President\u2026",
-    "link": "https://www.mediaite.com/media/news/suspicious-phone-call-causes-chaos-at-trump-inl-airport-as-president-prepares-to-fly-out/",
-    "timestamp": "2026-10-18T23:32:33Z"
-  },
-  {
-    "title": "France riots: Macron blames radical far-left groups as arrests mount across cities",
-    "description": "Authorities reported widespread destruction across major cities as protesters clashed with police, businesses were looted and political tensions intensified ahead of elections.",
-    "link": "https://www.thehindubusinessline.com/news/world/france-riots-macron-blames-radical-far-left-groups-as-arrests-mount-across-cities/article71601289.ece",
-    "timestamp": "2026-10-18T23:30:50Z"
-  },
-  {
-    "title": "In a Word ... Tricolour",
-    "description": "\u2018Believing there could be a united Ireland before the end of the world is not so far-fetched any more\u2019",
-    "link": "https://www.irishtimes.com/culture/2026/10/19/in-a-word-tricolour/",
-    "timestamp": "2026-10-18T23:30:00Z"
-  },
-  {
-    "title": "Trump unveils plan to transform historic DC golf course as judge tees off",
-    "description": "President Donald Trump announced Tom Fazio will redesign East Potomac Golf Links into a championship venue capable of hosting the U.S. Open.",
-    "link": "https://www.foxnews.com/politics/trump-unveils-plan-transform-historic-dc-golf-course-judge-tees-off",
-    "timestamp": "2026-10-18T23:22:18Z"
-  },
-  {
-    "title": "Trump's 'main vulnerability' exposed as his record-low popularity ripples across GOP",
-    "description": "A series of new polls shows that President Donald Trump's historically low approval rating has not only put him in bad standing with his own party, but also exposed his \"main vulnerability\" as the midterms approach, according to a new report. Axios reported S\u2026",
-    "link": "https://www.rawstory.com/trump-midterms-2678102800/",
-    "timestamp": "2026-10-18T23:18:54Z"
-  },
-  {
-    "title": "Putin said to propose summit with Trump, Xi on Ukraine",
-    "description": "Russian President Vladimir Putin suggested that he, United States President Donald Trump and Chinese President Xi Jinping hold a summit next month to discuss Ukraine, the Wall Street Journal reported,...",
-    "link": "https://biztoc.com/x/53d67502baf1785a",
-    "timestamp": "2026-10-18T23:18:33Z"
-  },
-  {
-    "title": "Netanyahu warns future US president could turn hostile, seeks stronger ties with India",
-    "description": "Presenting his security doctrine ahead of the election, Netanyahu urged Israel to strengthen diplomatic partnerships while preparing for possible changes in Washington.",
-    "link": "https://www.thehindubusinessline.com/news/world/netanyahu-warns-future-us-president-could-turn-hostile-seeks-stronger-ties-with-india/article71601277.ece",
-    "timestamp": "2026-10-18T23:17:45Z"
-  },
-  {
-    "title": "Texts Show Zacharia Sought Interview with Hannity, Debunking Politico's Claim Wiles Set It Up",
-    "description": "Former White House press secretary Katie Zacharia actively sought media interviews, including with Fox News's Sean Hannity, in the lead-up to her interview Thursday on Hannity, according to text messages reviewed by Breitbart News.\u00a0\nThe post Texts Show Zachar\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/18/texts-show-zacharia-sought-interview-with-hannity-debunking-politicos-claim-wiles-set-it-up/",
-    "timestamp": "2026-10-18T23:15:57Z"
-  },
-  {
-    "title": "Trump backs Netanyahu, says US and allies will \u2018soon finish the job\u2019 on Iran",
-    "description": "Donald Trump backs Benjamin Netanyahu for re-election, praises his leadership on Iran and warns Israel against choosing the wrong leader as tensions persist.",
-    "link": "https://www.thehindubusinessline.com/news/world/trump-backs-netanyahu-says-us-and-allies-will-soon-finish-the-job-on-iran/article71601280.ece",
-    "timestamp": "2026-10-18T23:12:36Z"
-  },
-  {
-    "title": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
-    "description": "The establishment of the Super Intelligence Force could reshape AI policy, balancing innovation with regulation and impacting global AI leadership.\nThe post Trump names Jay Clayton AI czar to lead new Super Intelligence Force appeared first on Crypto Briefing.",
-    "link": "https://cryptobriefing.com/trump-jay-clayton-ai-czar-super-intelligence-force/",
-    "timestamp": "2026-10-18T23:03:29Z"
-  },
-  {
-    "title": "Trump Is On The Verge Of Making A \u2018Historic Mistake,\u2019 Zelenskyy Warns",
-    "description": "Ukrainian President Volodymyr Zelenskyy also rejected Trump for comparing him to Russian President Vladimir Putin.",
-    "link": "https://www.huffpost.com/entry/zelenskyy-trump-takes-putin-side_n_6ad52b39e4b00caf853cba8c",
-    "timestamp": "2026-10-18T23:03:09Z"
-  },
-  {
-    "title": "Trump can rename an ocean. But can he force people to use the new name?",
-    "description": "The president suggested \"Trump Ocean\" and \"Ocean of the Americas\" as potential new names.",
-    "link": "https://www.snopes.com//news/2026/10/18/trump-rename-ocean/",
-    "timestamp": "2026-10-18T23:00:00Z"
-  },
-  {
-    "title": "Zelenskyy Would Halt Strikes On Russian Energy For US Targeting Help, GOP Senator Says",
-    "description": "Republican North Dakota Sen. Kevin Cramer claimed Sunday that Ukraine would stop striking Russian energy in exchange for targeting help by the U.S.",
-    "link": "https://dailycaller.com/2026/10/18/kevin-cramer-margaret-brennan-face-the-nation-volodymyr-zelenskyy-starshield-targeting-russian-energy-strikes-roger-wicker",
-    "timestamp": "2026-10-18T22:58:30Z"
-  },
-  {
-    "title": "Richard Heart caught with pants down, QDay gets even closer: Hodler\u2019s Digest",
-    "description": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-    "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-    "timestamp": "2026-10-18T22:58:17Z"
-  },
-  {
-    "title": "ICE arrests more than 130 alleged gang members \u2014 including violent MS-13, TdA suspects \u2014 in a single week: DHS",
-    "description": "In the last week, U.S. Immigration and Customs Enforcement (ICE) agents arrested more than 100 suspected gang members in the country illegally, the Department of Homeland Security (DHS) exclusively told Fox News Digital. Agents arrested 131 gang-affiliated pe\u2026",
-    "link": "https://freerepublic.com/focus/f-chat/4399665/posts",
-    "timestamp": "2026-10-18T22:52:59Z"
-  },
-  {
-    "title": "Trump Defends Russia Sanctions Waivers, Zelenskyy Warns Of Consequences",
-    "description": "President Donald Trump defended his decision to waive sweeping sanctions planned against Russia as an effort to keep Moscow at the negotiating table amid strong criticism from Kyiv and some US lawmakers that it sends the wrong message to the Kremlin.",
-    "link": "https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html",
-    "timestamp": "2026-10-18T22:52:20Z"
-  },
-  {
-    "title": "Jeffries likes Democrats' chances in race for the House as he campaigns in Ohio",
-    "description": "House Democratic leader Hakeem Jeffries says the election climate is holding firm for Democrats as they race to retake the House",
-    "link": "https://abcnews.com/US/wireStory/jeffries-likes-democrats-chances-race-house-campaigns-ohio-137367095",
-    "timestamp": "2026-10-18T22:51:10Z"
-  },
-  {
-    "title": "Jeffries likes Democrats' chances in race for the House as he campaigns in Ohio",
-    "description": "House Democratic leader Hakeem Jeffries says the election climate is holding firm for Democrats as they race to retake the House",
-    "link": "https://abcnews.com/Politics/wireStory/jeffries-likes-democrats-chances-race-house-campaigns-ohio-137367096",
-    "timestamp": "2026-10-18T22:51:05Z"
-  },
-  {
-    "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
-    "description": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
-    "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader",
-    "timestamp": "2026-10-18T22:41:49Z"
-  },
-  {
-    "title": "Trump waives new Russia sanctions",
-    "description": "US President Donald Trump waived new sanctions on Russia days before they were set to take effect, reversing a bipartisan congressional push and raising fresh questions about Washington\u2019s commitment to Ukraine.\nTrump\u2019s energy secretary defended the decision a\u2026",
-    "link": "https://biztoc.com/x/1c4b27c77dab87d3",
-    "timestamp": "2026-10-18T22:33:47Z"
-  },
-  {
-    "title": "Trump endorses Netanyahu in tight Israel elections",
-    "description": "US President Donald Trump gave Israeli Prime Minister Benjamin Netanyahu his \u201ccomplete and total endorsement\u201d Sunday, boosting the leader nine days before Israel\u2019s pivotal election.\nThe endorsement comes as the embattled prime minister faces a tough reelectio\u2026",
-    "link": "https://biztoc.com/x/954ca00c13ce354d",
-    "timestamp": "2026-10-18T22:33:28Z"
-  },
-  {
-    "title": "US Purchase of Russian Diesel Reinforces Europe\u2019s Energy Dilemma",
-    "description": "Washington\u2019s decision to ease sanctions and resume Russian diesel imports has drawn sharp criticism in Europe and exposed clear divisions among Western allies. \nThe deal, which United States President Donald Trump has said will put three million tons of Russi\u2026",
-    "link": "https://www.globalresearch.ca/us-purchase-russian-diesel-reinforces-europe-energy-dilemma/5944044",
-    "timestamp": "2026-10-18T22:18:42Z"
-  },
-  {
-    "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-    "description": "Fires broke out at an oil terminal and depot in St. Petersburg after Ukraine launched a massive wave of drone strikes on Sunday.",
-    "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-    "timestamp": "2026-10-18T22:16:19Z"
-  },
-  {
-    "title": "Conservative columnist skewers Trump as 'treachery' abounds: 'Sick-making stuff'",
-    "description": "Conservative columnist Charlie Sykes skewered President Donald Trump on Sunday as the president's \"treachery\" abounds. Sykes, who authors \"To The Contrary\" on Substack, argued in a new essay that Trump's repeated attempts to appease Russian President Vladimir\u2026",
-    "link": "https://www.rawstory.com/trump-russia-2678102729/",
-    "timestamp": "2026-10-18T22:13:51Z"
-  },
-  {
-    "title": "Trump's New Pitch For Republican Candidates",
-    "description": "President Donald Trump has a new pitch for Republican candidates: they\u2019re easy on the eyes.",
-    "link": "https://www.huffpost.com/entry/election-2026-trump-beautiful-candidates_n_6ad53f4ee4b00caf853cbde1",
-    "timestamp": "2026-10-18T22:13:49Z"
-  },
-  {
-    "title": "U.S. Resumes Intelligence-sharing With Ukraine After Pause, Zelenskyy Says",
-    "description": "The United States has resumed providing Ukraine critical intelligence to help it defend against Russian missile strikes.",
-    "link": "https://www.huffpost.com/entry/united-states-ukraine-critical-intelligence-russia_n_6ad53ff1e4b05d72fd921b00",
-    "timestamp": "2026-10-18T22:12:07Z"
-  },
-  {
-    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-    "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
-    "timestamp": "2026-10-18T22:10:45Z"
-  },
-  {
-    "title": "Zelensky never wanted to end war with Russia \u2013 Trump",
-    "description": "US President Donald Trump has accused Vladimir Zelensky of being unwilling to end the Ukraine conflict while defending his decision to ease sanctions on Russia",
-    "link": "https://rt-english.com/news/647371-trump-zelensky-never-wanted-end-war/",
-    "timestamp": "2026-10-18T22:08:09Z"
-  },
-  {
-    "title": "Are the United States and Israel in Decline-and-Fall Mode?",
-    "description": "Speculation is growing over the sustainability of the United States\u2019 model of global dominance which emerged as Washington ended the Second World War as plausibly the sole superpower. \nThat role was first tested in the Korean War, which produced something \u2026\nT\u2026",
-    "link": "https://www.globalresearch.ca/united-states-israel-decline-fall-mode/5943996",
-    "timestamp": "2026-10-18T22:07:52Z"
-  },
-  {
-    "title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
-    "description": "ANKARA, Oct 18 (Reuters)\u00a0\u2013\u00a0Turkey will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on...",
-    "link": "https://gcaptain.com/turkey-will-get-some-diesel-from-us-russia-supply-deal/",
-    "timestamp": "2026-10-18T22:02:51Z"
-  },
-  {
-    "title": "Here\u2019s the biggest news you missed this weekend",
-    "description": "Weeks ahead of Election Day, 71% of U.S. adults think the country is on the \u201cwrong track.\u201d",
-    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-october-18-rcna603917",
-    "timestamp": "2026-10-18T22:00:00Z"
-  },
-  {
-    "title": "Revenge isn\u2019t enough: Democrats must govern. Don\u2019t give up on the US, says Harman",
-    "description": "Merely investigating Trump will not save the country; Democrats must prove they can actually govern. Longtime Congresswoman and national security veteran Jane Harman spoke candidly in Prague about the West\u2019s vulnerabilities: a lack of strategy, cutbacks in th\u2026",
-    "link": "https://www.idnes.cz/zpravy/zahranicni/revenge-isn-t-enough-democrats-must-govern-don-t-give-up-on-the-us-says-harman.A261015_202923_zahranicni_sahu",
-    "timestamp": "2026-10-18T22:00:00Z"
-  },
-  {
-    "title": "America Is Now an Ally of Russia",
-    "description": "Donald Trump has abandoned the Western order.",
-    "link": "https://www.theatlantic.com/ideas/2026/10/america-now-ally-russia/689066/?utm_source=feed",
-    "timestamp": "2026-10-18T21:51:28Z"
-  },
-  {
-    "title": "Trump blames mass migration for French riots... as Macron vows looters and agitators will pay for seeking 'to bring down the Republic'",
-    "description": "French politicians raged against far-Left agitators for 'whipping the kids into a frenzy' as protests led to widespread destruction.",
-    "link": "https://www.dailymail.com/news/article-16219217/Trump-blames-migration-French-riots-Macron-looters-consequences.html",
-    "timestamp": "2026-10-18T21:50:19Z"
-  },
-  {
-    "title": "Katie Zacharia's Bikini Photos Resurface After She's Fired as Donald Trump's White House Press Secretary After Just One Week",
-    "description": "Katie Zacharia's bikini photos reportedly resurfaced after she's fired from role as White House press secretary.",
-    "link": "https://radaronline.com/p/katie-zacharia-bikini-photos-resurface-fired-donald-trump-press-secretary/",
-    "timestamp": "2026-10-18T21:50:00Z"
-  },
-  {
-    "title": "Warnock Backs Post-Midterms Trump Investigations Amid Impeachment Debate",
-    "description": "Democratic Senator Raphael Warnock of Georgia said Democrats should investigate President Donald Trump and his administration if they win back the House, pushing back against warnings that pursuing Trump after the midterms could distract from voters' economic\u2026",
-    "link": "https://biztoc.com/x/1f4a583b74d76993",
-    "timestamp": "2026-10-18T21:48:38Z"
-  },
-  {
-    "title": "Analysis: For Trump, Results Have Often Revealed The Art Of No Deal",
-    "description": "Donald Trump has long promoted himself as an exceptional dealmaker, and that claim has helped fuel his rise from real estate tycoon to president.",
-    "link": "https://www.huffpost.com/entry/trump-dealmaker-analysis_n_6ad53dcde4b00caf853cbda1",
-    "timestamp": "2026-10-18T21:48:26Z"
-  },
-  {
-    "title": "Trump to close historic DC golf course for 15 months of renovations, citing \u2018disease infested trees,\u2019 despite judge\u2019s order to halt development plans",
-    "description": "President Donald Trump on Sunday announced plans to close a historic public golf course in the nation\u2019s capital for 15 months and redevelop it despite a court challenge to his long-sought renovation.\nTrump posted on social media about his intent to shutter th\u2026",
-    "link": "https://biztoc.com/x/70df1c3dbf9bc767",
-    "timestamp": "2026-10-18T21:48:04Z"
-  },
-  {
-    "title": "Netanyahu After Trump Endorsement: \u2018Together We Will Complete the Mission' Against Iran",
-    "description": "Israeli Prime Minister Benjamin Netanyahu pledged Sunday to \u201ccomplete the mission\u201d against Iran alongside President Donald Trump after receiving what he called an \u201cextraordinary endorsement\u201d from the president, who warned that replacing Netanyahu could leave \u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/18/netanyahu-after-trump-endorsement-together-we-will-complete-the-mission-against-iran/",
-    "timestamp": "2026-10-18T21:45:29Z"
-  },
-  {
-    "title": "Trump reveals peace deal in progress between Ukraine and Russia as he slams Zelensky for hurting oil markets",
-    "description": "President Donald Trump has declared that major progress is being made toward ending the war between Russia and Ukraine, while launching a blistering attack on Ukrainian President Volodymyr Zelensky for targeting Russian oil facilities and sending shockwaves t\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4399658/posts",
-    "timestamp": "2026-10-18T21:44:13Z"
-  },
-  {
-    "title": "Trump:\nMy decision on Russia is a very simple one.",
-    "description": "My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don\u2019t want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4399657/posts",
-    "timestamp": "2026-10-18T21:38:14Z"
-  },
-  {
-    "title": "Trump Claims He Lifted Russian Sanctions To Keep Putin At The Negotiating Table: Don\u2019t Want to \u2018Foolishly\u2019 Drive Him Away",
-    "description": "Donald Trump has hit out at critics claiming he's giving Vladimir Putin a financial leg up in the Ukraine war by dropping all sanctions against Russia.\nThe post Trump Claims He Lifted Russian Sanctions To Keep Putin At The Negotiating Table: Don\u2019t Want to \u2018Fo\u2026",
-    "link": "https://www.mediaite.com/media/news/trump-claims-he-lifted-russian-sanctions-to-keep-putin-at-the-negotiating-table-dont-want-to-foolishly-drive-him-away/",
-    "timestamp": "2026-10-18T21:37:29Z"
-  },
-  {
-    "title": "Trump reveals peace deal in progress between Ukraine and Russia as he slams Zelensky for hurting oil markets",
-    "description": "Donald Trump claims major progress is being made toward a Russia-Ukraine peace deal as he holds off on fresh sanctions against Moscow.",
-    "link": "https://www.dailymail.com/news/article-16219191/Trump-peace-deal-progress-Ukraine-Russia-slams-Zelensky-diesel-refineries.html",
-    "timestamp": "2026-10-18T21:33:16Z"
-  },
-  {
-    "title": "Donald Trump announces Tom Fazio-designed redevelopment of 106-year-old East Potomac Golf Links in Washington, plans 15-month closure despite court order halting tree removal",
-    "description": "Donald Trump has announced plans to close Washington\u2019s 106-year-old East Potomac Golf Links for 15 months from November 15 for a redevelopment designed by renowned architect Tom Fazio. The announcement comes amid a legal battle, with a federal judge halting t\u2026",
-    "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-announces-tom-fazio-designed-redevelopment-of-106-year-old-east-potomac-golf-links-in-washington-plans-15-month-closure-despite-court-order-halting-tree-removal/articleshow/135035150.cms",
-    "timestamp": "2026-10-18T21:32:47Z"
-  },
-  {
-    "title": "Iran's FM threatens Trump after endorsement of Netanyahu: 'Be our guest'",
-    "description": "Iranian Foreign Minister Abbas Araghchi on Sunday issued a warning to US President Donald Trump following his endorsement of Prime Minister Benjamin Netanyahu ahead of Israel's October 27 Knesset election. In a social media post, Araghchi challenged Trump's t\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4399653/posts",
-    "timestamp": "2026-10-18T21:28:22Z"
-  },
-  {
-    "title": "Trump endorses 'great warrior' Netanyahu ahead of Israeli election",
-    "description": "Donald Trump issues a glowing endorsement of Benjamin Netanyahu just months after an expletive-laden tirade in which he accused the Israeli prime minister of trying to undermine a deal with Iran.",
-    "link": "https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646",
-    "timestamp": "2026-10-18T21:13:30Z"
-  },
-  {
-    "title": "Iran's FM threatens Trump after endorsement of Netanyahu: 'Be our guest'",
-    "description": "Iran's Foreign Minister Abbas Araghchi warns Trump after his endorsement of Netanyahu in Israel's election, accusing the Prime Minister of seeking another war.",
-    "link": "https://www.israelnationalnews.com/news/434804",
-    "timestamp": "2026-10-18T21:11:21Z"
-  },
-  {
-    "title": "U.S. resumes intelligence-sharing with Ukraine after pause, Zelensky says",
-    "description": "Oct 18 (Reuters) - The United States has resumed providing Ukraine critical intelligence to help it defend against Russian missile strikes, after a brief pause, Ukrainian President \u200cVolodymyr Zelenskiy said in comments published on Sunday. Ukraine has relied \u2026",
-    "link": "https://www.yahoo.com/news/articles/us-resumes-intelligence-sharing-ukraine-135650691.html",
-    "timestamp": "2026-10-18T21:06:00Z"
-  },
-  {
-    "title": "Exclusive \u2014 Secretary Marco Rubio after Acropolis Address: Americans \u2018the Heirs\u2019 of Western Civilization, \u2018Things We Believe as a Country Are Important\u2019",
-    "description": "WASHINGTON \u2014 Secretary of State Marco Rubio sat down late last week with Breitbart News at the State Department in Washington for his first major exclusive long-form on-camera interview after delivering an address at the Acropolis in Athens, Greece.\nThe post \u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/18/exclusive-secretary-marco-rubio-after-acropolis-address-americans-the-heirs-of-western-civilization-things-we-believe-as-a-country-are-important/",
-    "timestamp": "2026-10-18T21:04:30Z"
-  },
-  {
-    "title": "Trump won't sign document that could drive Russia from talks",
-    "description": "United States President Donald Trump said that he was reluctant to sign a document that could drive Russia away from negotiations aimed at ending the war in Ukraine.In a Truth Social post, Trump said ...",
-    "link": "https://biztoc.com/x/5f5bd350454d1cf3",
-    "timestamp": "2026-10-18T21:03:43Z"
-  },
-  {
-    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-    "description": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
-    "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o",
-    "timestamp": "2026-10-18T21:00:22Z"
-  },
-  {
-    "title": "Trump Official Gets Schooled On Live TV For Claiming Americans \u2018Got Smoked\u2019 By Biden\u2019s Economy",
-    "description": "NBC\u2019s Kristen Welker asked Scott Bessent: When will the Trump administration \u201ctake responsibility for the economy?\u201d",
-    "link": "https://www.huffpost.com/entry/scott-bessent-blames-biden-bad-economy_n_6ad4e9b2e4b00caf853cb42e",
-    "timestamp": "2026-10-18T20:52:54Z"
-  },
-  {
-    "title": "Obama Defends Ilhan Omar After Federal Raid on Her Home",
-    "description": "Former President Barack Obama defended Rep. Ilhan Omar (D-MN) after agents with the Department of Homeland Security conducted a raid on her home as part of an immigration fraud investigation.\nThe post Obama Defends Ilhan Omar After Federal Raid on Her Home ap\u2026",
-    "link": "https://www.breitbart.com/politics/2026/10/18/obama-defends-ilhan-omar-after-federal-raid-on-her-home/",
-    "timestamp": "2026-10-18T20:52:35Z"
-  },
-  {
-    "title": "Zelenskyy Warns Trump\u2019s Diesel Deal With Russia Is \u2018Very Dangerous\u2019",
-    "description": "Ukrainian President Volodymyr Zelenskyy said Sunday on \u201cMeet the Press\u201d that President Trump\u2019s recent diesel deal with Russia \u201cis very dangerous.\u201d",
-    "link": "https://dailycaller.com/2026/10/18/volodymyr-zelenskyy-kristen-welker-meet-the-press-russia-sanctions-waiver-diesel-deal-scott-bessent",
-    "timestamp": "2026-10-18T20:51:26Z"
-  },
-  {
-    "title": "Katie Zacharia Posts \u2014 Then Appears to Alter \u2014 Oval Office Photo Depicting \u2018Sensitive\u2019 Information: Report",
-    "description": "Katie Zacharia is under scrutiny for reportedly posting Oval Office photos with Donald Trump depicting \"sensitive\" information blurred out on his desk.\nThe post Katie Zacharia Posts \u2014 Then Appears to Alter \u2014 Oval Office Photo Depicting \u2018Sensitive\u2019 Information\u2026",
-    "link": "https://www.mediaite.com/media/news/katie-zacharia-posts-then-appears-to-alter-oval-office-photo-depicting-sensitive-information-report/",
-    "timestamp": "2026-10-18T20:44:52Z"
-  },
-  {
-    "title": "MAGA melts down after Obama comes to the defense of Dem lawmaker: 'Cannot be real!'",
-    "description": "Fans of President Donald Trump's Make America Great Again movement melted down Sunday after former President Barack Obama came to the defense of one Democratic lawmaker. Last week, the Trump Department of Justice executed a search warrant at Rep. Ilhan Omar's\u2026",
-    "link": "https://www.rawstory.com/maga-meltdown-2678102602/",
-    "timestamp": "2026-10-18T20:43:30Z"
-  },
-  {
-    "title": "Zelensky knows peace deal would end his regime \u2013 Lavrov (VIDEO)",
-    "description": "Ukraine\u2019s Vladimir Zelensky has repeatedly derailed talks with Russia, fearing a deal would end his rule, Sergey Lavrov has said Read Full Article at RT.com",
-    "link": "https://rt-english.com/russia/647369-zelensky-peace-deal-end-regime-lavrov/",
-    "timestamp": "2026-10-18T20:37:18Z"
-  },
-  {
-    "title": "Trump unveils 15-month plan to renovate historic DC golf course",
-    "description": "\u201cThe current Course is old, broken, dilapidated, and of no further use or effect. It is in very poor condition, with falling, dangerous, and disease infested trees and, importantly, a collaps\u2026",
-    "link": "https://nypost.com/2026/10/18/us-news/president-trump-unveils-plans-to-renovate-historic-dc-golf-course/",
-    "timestamp": "2026-10-18T20:23:36Z"
-  },
-  {
-    "title": "Trump unveils 15-month plan to rennovate historic DC golf course",
-    "description": "President Trump rolled out new renovation plans for the iconic East Potomac Golf Course and announced that it will be shut down for the next 15 months for the revamp.",
-    "link": "https://nypost.com/2026/10/18/us-news/president-trump-unveils-plans-to-rennovate-historic-dc-golf-course/",
-    "timestamp": "2026-10-18T20:23:36Z"
-  },
-  {
-    "title": "Border Czar All But Confirms How Trump Admin Wants Ilhan Omar Investigation To End",
-    "description": "Federal agents raided the Democrat\u2019s home on Monday as part of a probe into immigration fraud allegations.",
-    "link": "https://www.huffpost.com/entry/tom-homan-ilhan-omar-citizenship-deported_n_6ad4df15e4b0dccf572c47a9",
-    "timestamp": "2026-10-18T20:18:23Z"
-  },
-  {
-    "title": "In Concord, RFK Jr. renews attack on hep B vaccine that inspired state anti-vaccine bill",
-    "description": "In a visit to Concord Friday, U.S. Health Secretary Robert F. Kennedy Jr. cast doubt on the safety of the hepatitis B vaccine but wouldn\u2019t comment on state legislation in New Hampshire that his agency inspired.",
-    "link": "https://www.nhpr.org/health/2026-10-18/rfk-jr-renews-attacks-hep-b-vaccine-that-inspired-nh-anti-vaccine-bill",
-    "timestamp": "2026-10-18T20:16:58Z"
-  },
-  {
-    "title": "High oil prices fuel renewed inflation fears",
-    "description": "The economic bad news just keeps on coming for the Albanese government with warnings over inflation, interest rates and consumer confidence. Meanwhile, Ukraine has ignored Donald Trump and resumed strikes on Russian oil facilities.\nThe post High oil prices fu\u2026",
-    "link": "http://www.crikey.com.au/2026/10/19/economy-oil-prices-inflation-rba-interest-rates-trump-ukraine-zelenskyy/",
-    "timestamp": "2026-10-18T20:10:58Z"
-  },
-  {
-    "title": "Gary Gulman In This Economy 2012 1080p WEB H264-OUTPOST31",
-    "description": "Plot: In this stand-up special, money is a wellspring for the comedy of funnyman Gary Gulman, who aims darts at the uberwealthy, including Donald Trump. Genre: Documentary | ComedyIMDB Rating Live: IMDB Rating: 7.5/10 From 433 UsersTMDB Rating: N/ARotten Rati\u2026",
-    "link": "https://post.rlsbb.cc/gary-gulman-in-this-economy-2012-1080p-web-h264-outpost31/",
-    "timestamp": "2026-10-18T20:05:04Z"
-  },
-  {
-    "title": "Zelenskyy warns: \u201cWe will not prevail\u201d if U.S. backs Russia",
-    "description": "Ukraine's president confirms intelligence cutoff, Bessent avoids calling Kyiv an ally, GOP lawmaker demands answers",
-    "link": "https://www.salon.com/2026/10/18/zelenskyy-warns-we-will-not-prevail-if-u-s-backs-russia/",
-    "timestamp": "2026-10-18T20:00:38Z"
-  },
-  {
-    "title": "'Very bad look': Ambassador up in arms as Trump keeps sending adversary 'kisses'",
-    "description": "A former ambassador to Ukraine sounded the alarm Sunday as President Donald Trump continues to send \"kisses\" to one of the U.S.'s chief adversaries. Last week, Trump announced that the U.S. was planning to buy millions of barrels of Russian diesel fuel in an \u2026",
-    "link": "https://www.rawstory.com/trump-putin-2678102526/",
-    "timestamp": "2026-10-18T19:56:10Z"
-  },
-  {
-    "title": "CNN\u2019s Dana Bash Throws Down With GOP Candidate Mike Rogers About Trump Calling El-Sayed a \u2018Jihadist\u2019",
-    "description": "Dana Bash threw down with Michigan Senate candidate Mike Rogers (R-MI) after he accused her of defending Abdul El-Sayed's (D) Muslim \"ideology.\"\nThe post CNN\u2019s Dana Bash Throws Down With GOP Candidate Mike Rogers About Trump Calling El-Sayed a \u2018Jihadist\u2019 firs\u2026",
-    "link": "https://www.mediaite.com/media/news/cnns-dana-bash-throws-down-with-gop-candidate-mike-rogers-about-trump-calling-el-sayed-a-jihadist/",
-    "timestamp": "2026-10-18T19:49:01Z"
   }
 ]
