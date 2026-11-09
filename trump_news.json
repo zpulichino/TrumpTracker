@@ -1,5 +1,473 @@
 [
   {
+    "title": "The 9 at 9: Sunday",
+    "description": "Planned house raffle cancelled after local backlash, Polish police release details on mass shooter, and hybrid threats hitting the EU.",
+    "link": "https://www.thejournal.ie/9-at-9-08-11-26-7219361-Nov2026/",
+    "timestamp": "2026-11-08T09:00:25Z"
+  },
+  {
+    "title": "How the Democrats' midterm wave shows a path back to the presidency",
+    "description": "Democrats remain cautious about jumping to conclusions of what their midterm wins could mean for the next presidential election campaign. Still, the dramatic scale of the victory has some seeing a potential path back to the White House in 2028.",
+    "link": "https://www.cbc.ca/news/world/us-midterms-trump-democrats-2028-9.7411206",
+    "timestamp": "2026-11-08T09:00:00Z"
+  },
+  {
+    "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+    "description": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
+    "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel",
+    "timestamp": "2026-11-08T08:47:36Z"
+  },
+  {
+    "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+    "description": "The tiny U.S. government division charged with assessing the safety of new artificial intelligence offerings doesn\u2019t have a permanent leader and has stopped publishing its research",
+    "link": "https://abcnews.com/US/wireStory/staff-us-center-ai-safety-reporting-white-house-137950879",
+    "timestamp": "2026-11-08T08:41:22Z"
+  },
+  {
+    "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
+    "description": "NASA has selected SpaceX, Blue Origin and six other firms to compete for up to $10 billion in contracts to build a permanent Moon base.",
+    "link": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush",
+    "timestamp": "2026-11-08T08:37:28Z"
+  },
+  {
+    "title": "UFC boss Dana White to meet Trump over press secretary job offer",
+    "description": "White is the president and chief executive of the Ultimate Fighting Championship.",
+    "link": "https://www.thejournal.ie/dana-white-press-secretary-7219351-Nov2026/",
+    "timestamp": "2026-11-08T08:23:09Z"
+  },
+  {
+    "title": "Muhurat Trading LIVE: GIFT Nifty signals muted open; Tata Steel, Divi's Labs shares in focus",
+    "description": "Sensex Today | Muhurat Trading LIVE Updates: The GIFT Nifty indicated a muted open for the benchmark Nifty50 index for the special session on the occasion of Diwali",
+    "link": "https://www.business-standard.com/markets/news/stock-market-live-november-8-muhurat-trading-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-today-samvat-2083-tata-steel-share-price-126110800267_1.html",
+    "timestamp": "2026-11-08T08:02:00Z"
+  },
+  {
+    "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+    "description": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+    "timestamp": "2026-11-08T07:35:29Z"
+  },
+  {
+    "title": "The great White mix-up: Did Trump offer White House job to the wrong Dana White?",
+    "description": "Did US President Donald Trump mistake UFC boss Dana White for another Dana White while offering the White House press secretary's job?",
+    "link": "https://timesofindia.indiatimes.com/world/us/the-great-white-mix-up-did-trump-offer-white-house-job-to-the-wrong-dana-white/articleshow/135653662.cms",
+    "timestamp": "2026-11-08T07:28:11Z"
+  },
+  {
+    "title": "Jennifer O'Connell: Silicon Valley\u2019s tech bros bet everything on Trump. What will they do now?",
+    "description": "When you run a company that treats human beings as a commodity, you tend to forget they have minds of their own",
+    "link": "https://www.irishtimes.com/opinion/2026/11/08/jennifer-oconnell-silicon-valleys-tech-bros-bet-everything-on-trump-what-will-they-do-now/",
+    "timestamp": "2026-11-08T07:11:00Z"
+  },
+  {
+    "title": "Pat Leahy: Simon Harris thinks Ireland is addicted to spending. As Finance Minister, he\u2019d know",
+    "description": "Tightening up on spending \u2013 such as on semi-State bosses\u2019 salaries \u2013 requires saying no and eschewing flat-rate percentage increases for public servants",
+    "link": "https://www.irishtimes.com/opinion/2026/11/08/pat-leahy-simon-harris-thinks-ireland-is-addicted-to-spending-as-finance-minister-hed-know/",
+    "timestamp": "2026-11-08T07:00:00Z"
+  },
+  {
+    "title": "Is unconditional support for Israel becoming a liability for Republicans?",
+    "description": "JD Vance\u2019s response to the midterm defeat suggests a once-untouchable Republican consensus may be starting to crack.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans",
+    "timestamp": "2026-11-08T06:52:14Z"
+  },
+  {
+    "title": "New Texas senator-elect James Talarico makes surprise appearance on Saturday Night Live during yet another sketch mocking Trump",
+    "description": "Texas Democrat James Talarico stunned the audience when he interrupted SNL's Trump during the first show since Tuesday's historic midterms.",
+    "link": "https://www.dailymail.com/news/article-16275557/Texas-senator-James-Talarico-Saturday-Night-Live-mocking-Trump.html",
+    "timestamp": "2026-11-08T06:51:05Z"
+  },
+  {
+    "title": "There is reason to hope that the Democrats might deliver this time",
+    "description": "With a decisive rejection of Trumpism, US voters have given Democrats one more chance \u2014 they better not blow it.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time",
+    "timestamp": "2026-11-08T06:39:33Z"
+  },
+  {
+    "title": "Gold, silver outlook hinges on US-Iran tensions, global inflation data next week",
+    "description": "Inflation readings from the US, China, Germany, Japan and India, along with employment data, will be key triggers for precious metals.",
+    "link": "https://www.thehindubusinessline.com/markets/gold-silver-outlook-hinges-on-us-iran-tensions-global-inflation-data-next-week/article71680614.ece",
+    "timestamp": "2026-11-08T06:31:26Z"
+  },
+  {
+    "title": "Here are the winners and losers of the political week",
+    "description": "A big blow for Trump this week, with a few others back home getting knocks too.",
+    "link": "https://www.thejournal.ie/winners-and-losers-15-7215674-Nov2026/",
+    "timestamp": "2026-11-08T06:30:17Z"
+  },
+  {
+    "title": "\u2018Everybody Loves Melania (Trump),\u2019 \u2018Didn\u2019t Clap For Her\u2019 \u2014 Fans In Two Minds Over Tiger Stadium\u2019s Reaction To FLOTUS\u2019 Appearance at Alabama-LSU",
+    "description": "Melania Trump attended Saturday\u2019s Alabama-LSU game at Tiger Stadium after announcing a $7. 2 million scholarship endowment for young people who have experienced foster care.",
+    "link": "https://www.profootballnetwork.com/cfb/melania-trump-lsu-alabama-crowd-reaction/?utm_medium=rss&amp;utm_source=nordot",
+    "timestamp": "2026-11-08T06:17:48Z"
+  },
+  {
+    "title": "Bullion may remain under pressure as markets track US-Iran war, inflation",
+    "description": "Bullion prices are likely to remain under pressure next week as investors track developments in the US-Iran conflict, movements in crude oil prices and inflation data for cues on the outlook for interest rates, analysts said.\nThe focus will be on inflation pr\u2026",
+    "link": "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
+    "timestamp": "2026-11-08T06:17:09Z"
+  },
+  {
+    "title": "James Talarico, who led Democratic upset in Texas\u2019 U.S. Senate race, kicks off \u2018SNL\u2019",
+    "description": "James Talarico, who helped lead Democratic Party upsets in the Republican stronghold of Texas with his U.S.",
+    "link": "https://www.nbcnews.com/pop-culture/tv/james-talarico-kicks-off-snl-rcna608071",
+    "timestamp": "2026-11-08T06:09:45Z"
+  },
+  {
+    "title": "Trump taps UFC boss for press secretary, urges Democrat probes",
+    "description": "Facing an incoming Democratic congress, U.S. President Donald Trump struck a combative tone on Nov. 7, offering friend and \"violent fighter\" Dana White the White House press secretary job and ordering the Justice Department to investigate his opponents.",
+    "link": "https://www.hurriyetdailynews.com/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-of-democrats-229135",
+    "timestamp": "2026-11-08T06:09:00Z"
+  },
+  {
+    "title": "Gloating Democrats have celebrated wildly since landslide midterms victory changed the face of American politics... but now they're set for brutal reality check as flood of divided new lawmakers pours into DC",
+    "description": "Democrats are celebrating their landslide midterm victory, but bitter divisions are already threatening to tear their new congressional majority apart.",
+    "link": "https://www.dailymail.com/news/article-16275407/Gloating-Democrats-celebrated-wildly-landslide-midterms-victory-changed-face-American-politics-theyre-set-brutal-reality-check-flood-divided-new-lawmakers-pours-DC.html",
+    "timestamp": "2026-11-08T06:07:17Z"
+  },
+  {
+    "title": "\u2018SNL\u2019 Weekend Update Drags Trump Over Midterm Drubbing, Stephen Miller Promotion",
+    "description": "On SNL's Weekend Update, hosts took aim at Donald Trump for his party's midterm failure and his promotion of Stephen Miller as chief of staff.",
+    "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-drags-trump-midterm-drubbing-stephen-miller-promotion-1235654378/",
+    "timestamp": "2026-11-08T06:04:31Z"
+  },
+  {
+    "title": "Russia hopes US poll shake-up won't shift Trump's negotiations on Ukraine",
+    "description": "The Republicans' defeat in the US midterm elections was watched closely in Russia, where some observers are predicting it could herald more support for Ukraine when the Democrats take over Congress in January.\nBut if the Kremlin is hearing the ticking of a cl\u2026",
+    "link": "https://www.business-standard.com/world-news/russia-hopes-us-poll-shake-up-won-t-shift-trump-s-negotiations-on-ukraine-126110800160_1.html",
+    "timestamp": "2026-11-08T06:01:54Z"
+  },
+  {
+    "title": "Match Preview: Sunderland v Chelsea \u2014 Can The Lads Kickstart Our Season?",
+    "description": "Sunderland entertain Chelsea to give us memories of that day back in May.",
+    "link": "https://rokerreport.sbnation.com/match-previews/158737/match-preview-sunderland-v-chelsea-can-the-lads-kickstart-our-season",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Judge Rejects Trump Immunity Claim in New York Hush Money Conviction",
+    "description": "A New York judge has rejected President Donald Trump\u2019s claim that presidential immunity shields him from the conviction on 34 felony counts of falsifying business records, keeping the jury\u2019s verdict intact and clearing the way for sentencing, according to cou\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-judge-rejects-trump-immunity-claim-ny-conviction.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Poll Finds 53% of Active-Duty Service Members Want to Leave Sooner, Citing Politicization",
+    "description": "A poll released in October by Common Defense, a veterans organization, found that 53% of active-duty service members want to separate from service sooner because they say the military is becoming more politicized, according to a report by Military.com [4]. Jo\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-poll-active-service-members-want-leave-sooner.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Trump\u2019s Weighs Next Move in U.S. War with Iran",
+    "description": "President Donald Trump is weighing his next move in the U.S. war with Iran after Republicans suffered widespread losses in Tuesday\u2019s midterm elections, according to multiple reports. Before the vote, Trump was reportedly considering expanded strikes against I\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-trump-weighs-next-move-war-with-iran.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Qatar\u2019s Delicate Diplomacy: Mediating the U.S.-Iran Standoff Amid Hormuz Tensions",
+    "description": "Qatar\u2019s Ministry of Foreign Affairs (MOFA) said on Nov. 4 that mediation efforts between the U.S. and Iran remain ongoing, following diplomatic talks in Doha over the weekend and an extensive Qatari delegation visit to Tehran. MOFA spokesperson Majed bin Moha\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-qatar-delicate-diplomacy-mediating-us-iran-standoff.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Blame Game or Reality Check? Israeli Ambassador Fires Back at Vance Over Iran War Criticism",
+    "description": "Israel\u2019s ambassador to the United Nations, Danny Danon, rejected U.S. Vice President J.D. Vance\u2019s assessment that the war on Iran was the determining factor in the Republican Party\u2019s sweeping losses in the U.S. midterm elections. Danon said the conflict was i\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-danon-fires-back-vance-iran-war-criticism.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "AI Race and Existential Risk: Anthropic\u2019s Initial Public Offering Filing, Pentagon Directives Put Focus on Safety Gaps",
+    "description": "Anthropic\u2019s initial public offering filing on Nov. 3 disclosed that its advanced artificial intelligence (AI) systems could pose catastrophic or existential risks to humanity if misused, replicated, weaponized or operated with a high degree of autonomy, accor\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-anthropic-ipo-pentagon-ai-focus-safety-gaps.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Hegseth Requests $350 Billion for Military, Defends Decisions as Democrats Push Impeachment",
+    "description": "War Secretary Pete Hegseth asked Congress on Thursday for another $350 billion in military funding while defending his leadership decisions at the Department of War, as Democrats pursued an impeachment push against him. The request and his response to the imp\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-hegseth-requests-350b-for-military-defends-decisions.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Google AI Chatbot Declines Direct Answer on 2020 Election Winner",
+    "description": "Google\u2019s artificial intelligence\u00a0(AI) search tool declined to directly state who won the 2020 U.S. presidential election when prompted by users late in October, instead directing them to federal records, according to users who posted screenshots on the social\u2026",
+    "link": "https://www.naturalnews.com/2026-11-08-ai-chatbot-declines-direct-answer-2020-election.html",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "It Was All the Things",
+    "description": "A minor dustup has broken out on the right about the causes of the midterm loss. Some, like Vice President JD Vance, argue that the War in Iran was the cause of the Republican midterm debacle. Technically, he put out a four-point list, consisting of '&#'.ord(\u2026",
+    "link": "https://pollvault.substack.com/p/it-was-all-the-things",
+    "timestamp": "2026-11-08T06:00:00Z"
+  },
+  {
+    "title": "Iran says two tankers caught fire in Hormuz after hitting mines",
+    "description": "Two oil tankers caught fire in the Strait of Hormuz after hitting mines, Iran's Revolutionary Guards said on Nov. 8, according to state news agency IRNA.",
+    "link": "https://www.hurriyetdailynews.com/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines-229133",
+    "timestamp": "2026-11-08T05:57:05Z"
+  },
+  {
+    "title": "US military fires on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+    "description": "US forces disabled a St. Kitts-flagged ship in the Gulf of Oman after it ignored warnings and tried to breach a naval blockade on Iran.",
+    "link": "https://nypost.com/2026/11/08/world-news/us-military-fires-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
+    "timestamp": "2026-11-08T05:53:24Z"
+  },
+  {
+    "title": "The Kremlin Hopes the US Election Shake-Up Won't Shift Trump's Negotiations on Ukraine",
+    "description": "Kremlin spokesperson Dmitry Peskov voiced hope that U.S. President Donald Trump will continue to pursue his peace efforts.",
+    "link": "https://military.com/the-kremlin-hopes-the-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine",
+    "timestamp": "2026-11-08T05:51:42Z"
+  },
+  {
+    "title": "Americans Are Losing The Long Game",
+    "description": "How the United States abandoned the future.",
+    "link": "http://www.noemamag.com/americans-are-losing-the-long-game",
+    "timestamp": "2026-11-08T05:47:01Z"
+  },
+  {
+    "title": "Dana White to Meet With Trump After White House Press Secretary Job Offer",
+    "description": "UFC CEO Dana White is taking President Donald Trump\u2018s job offer very seriously. \u201cI\u2019m flying to Washington, D.C., right now,\u201d White, 57, confirmed to reporters after attending a Saturday, November 7, Zuffa boxing event in London. Earlier on Saturday, Trump, 80\u2026",
+    "link": "https://www.usmagazine.com/celebrity-news/news/dana-white-to-meet-with-trump-about-press-secretary-job/",
+    "timestamp": "2026-11-08T05:39:29Z"
+  },
+  {
+    "title": "James Talarico Appears in SNL Cold Open as Himself",
+    "description": "The Texas senator-elect  also took a shot at the show's reliance on James Austin Johnson's Donald Trump impression in his surprise appearance as he stood in front of the comic.",
+    "link": "http://www.hollywoodreporter.com/tv/tv-news/james-talarico-snl-cold-open-appearance-watch-trump-1236750242/",
+    "timestamp": "2026-11-08T05:36:06Z"
+  },
+  {
+    "title": "Moderates to dominate incoming US Congress after 2026 elections: FT",
+    "description": "The dominance of moderates in Congress may lead to centrist policies, impacting legislative priorities and altering political dynamics.\nThe post Moderates to dominate incoming US Congress after 2026 elections: FT appeared first on Crypto Briefing.",
+    "link": "https://cryptobriefing.com/moderates-to-dominate-incoming-us-congress-after-2026-elections-ft/",
+    "timestamp": "2026-11-08T05:32:15Z"
+  },
+  {
+    "title": "\u2018SNL\u2019: Druski Dons Whiteface as Elizabeth Holmes in \u2018You Can See Everything\u2019 Parody",
+    "description": "Following a busy cold open that saw Texas Senator-elect James Talarico overshadow Donald Trump and a monologue crashed by his future movie co-star Emma Stone, \u201cSNL\u201d host Druski \u2014 who made history as the first digital content creator to preside over the show (\u2026",
+    "link": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
+    "timestamp": "2026-11-08T05:29:04Z"
+  },
+  {
+    "title": "Why do American Jews vote for antisemites like El-Sayed?",
+    "description": "Politics now plays the role religion used to play in most people\u2019s lives. For many their faith is liberalism and the Democrats, with Jewish peoplehood and Israel discarded. Opinion.",
+    "link": "https://www.israelnationalnews.com/news/435826",
+    "timestamp": "2026-11-08T05:24:18Z"
+  },
+  {
+    "title": "The De-Trumpification of America: Revulsion against Iran War, ICE Murders, Data Centers and Corruption Shellacked GOP",
+    "description": "In a delicious double take-down, civil rights lawyerGina Hinojosa ousted the heartless three-term governor Greg Abbott",
+    "link": "https://www.juancole.com/2026/11/trumpification-corruption-shellacked.html",
+    "timestamp": "2026-11-08T05:15:42Z"
+  },
+  {
+    "title": "\u2018SNL\u2019 Cold Open: James Talarico Crashes Trump\u2019s Midterm Postmortem",
+    "description": "Senator-elect James Talarico embraces Donald Trump's insulting nickname after his resounding Texas win",
+    "link": "http://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-james-talarico-crashes-trump-midterm-postmortem-1235654381/",
+    "timestamp": "2026-11-08T05:13:38Z"
+  },
+  {
+    "title": "James Talarico Crashes SNL\u2019s Cold Open: \u201cIt\u2019s Clear People Want Something New\u201d",
+    "description": "The Texas Senator-elect interrupted the show's latest Trump-led cold open to deliver a pointed joke about audiences wanting something new.\nJames Talarico Crashes SNL\u2019s Cold Open: \u201cIt\u2019s Clear People Want Something New\u201d\nAlex Young",
+    "link": "https://consequence.net/2026/11/james-talarico-snl-cold-open/",
+    "timestamp": "2026-11-08T05:11:53Z"
+  },
+  {
+    "title": "James Talarico Crashes Saturday Night Live Cold Open, Vows to Work Together With \u2018Ass Man\u2019 Trump",
+    "description": "Senator-elect James Talarico sent the New York crowd into a frenzy on Saturday night when he jumped on stage at the end of SNL's midterms-focused first sketch\nThe post James Talarico Crashes Saturday Night Live Cold Open, Vows to Work Together With \u2018Ass Man\u2019 \u2026",
+    "link": "https://www.mediaite.com/politics/james-talarico-crashes-saturday-night-live-cold-open-vows-to-work-together-with-ass-man-trump/",
+    "timestamp": "2026-11-08T05:11:32Z"
+  },
+  {
+    "title": "Indian Americans condemn Seattle Diwali disruption by far-right activist Jake Lang",
+    "description": "Far-right activist Jake Lang disrupted a Diwali celebration in Seattle while carrying racist signs targeted at Hindus. Prominent Indian Americans including Congresswoman Pramila Jayapal condemned this hateful display, emphasizing the importance of Diwali. The\u2026",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/indian-americans-condemn-seattle-diwali-disruption-by-far-right-activist-jake-lang/articleshow/135651955.cms",
+    "timestamp": "2026-11-08T05:10:47Z"
+  },
+  {
+    "title": "The Midterms Prove Left-Populism Is Rising",
+    "description": "To save the GOP, the Trump admin should end wars, purge corruption, and deliver wins for working people.\nThe post The Midterms Prove Left-Populism Is Rising appeared first on The American Conservative.",
+    "link": "https://www.theamericanconservative.com/the-midterms-prove-left-populism-is-rising/",
+    "timestamp": "2026-11-08T05:04:00Z"
+  },
+  {
+    "title": "How Republicans Lost The Senate, And What It Could Cost Them",
+    "description": "Photo Credit:Image via Picryl.\r\n\n\n \n PicrylBy Josh KantrowThis was more than the usual midterm penalty for the party in power.",
+    "link": "https://www.americanthinker.com/articles/2026/11/how-republicans-lost-the-senate-and-what-it-could-cost-them/",
+    "timestamp": "2026-11-08T05:00:00Z"
+  },
+  {
+    "title": "Will the Democrats transition from violent, eliminationist rhetoric to action?",
+    "description": "By Andrea WidburgIt\u2019s something worth contemplating as their most extreme members revel in their newfound power.",
+    "link": "https://www.americanthinker.com/blog/2026/11/will-the-democrats-transition-from-violent-eliminationist-rhetoric-to-action/",
+    "timestamp": "2026-11-08T05:00:00Z"
+  },
+  {
+    "title": "America\u2019s affordability crisis: reality, perception, or both?",
+    "description": "By Christian VeziljStrong economic indicators tell one story, but voters\u2019 perceptions tell another\u2014and there is a way to account for that gap.",
+    "link": "https://www.americanthinker.com/blog/2026/11/america-s-affordability-crisis-reality-perception-or-both/",
+    "timestamp": "2026-11-08T05:00:00Z"
+  },
+  {
+    "title": "Dana White as Trump\u2019s press secretary?",
+    "description": "By Jerry McGlothlinNow that\u2019s a knockout idea!",
+    "link": "https://www.americanthinker.com/blog/2026/11/dana-white-as-trump-s-press-secretary/",
+    "timestamp": "2026-11-08T05:00:00Z"
+  },
+  {
+    "title": "Impeachment: going too far in going too far",
+    "description": "By Mike McDanielThe ancient Chinese curse bids\u00a0our enemies live in interesting times.",
+    "link": "https://www.americanthinker.com/blog/2026/11/impeachment-going-too-far-in-going-too-far/",
+    "timestamp": "2026-11-08T05:00:00Z"
+  },
+  {
+    "title": "SNL: U.S. Senator-Elect James Talarico Crashes Trump's Cold Open Party",
+    "description": "NBC's Saturday Night Live returned tonight for the second of three new shows in this run. On tap, we've got actor and comedian Druski hosting, with The Strokes becoming five-timers tonight as the musical guest. Of course, things can't kick off without the SNL\u2026",
+    "link": "https://bleedingcool.com/tv/snl-u-s-senator-elect-james-talarico-crashes-trumps-cold-open-party/",
+    "timestamp": "2026-11-08T04:56:09Z"
+  },
+  {
+    "title": "James Talarico Crashes \u2018SNL\u2019 Cold Open: \u2018I\u2019m the Guy Who\u2019s Been Texting You Every Day Asking for $5\u2019",
+    "description": "Newly elected Texas Sen. James Talarico crashed this week\u2019s \u201cSaturday Night Live\u201d cold open \u2014 in order to ask the question on everyone\u2019s mind: How many more of these \u201cDonald-Trump-freezes-the-action-to-ramble\u201d cold opens is \u201cSNL\u201d going to do? Responded \u201cDonal\u2026",
+    "link": "https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257/",
+    "timestamp": "2026-11-08T04:53:48Z"
+  },
+  {
+    "title": "James Talarico Stuns \u2018SNL\u2019 With Post-Midterm Election Win Cameo",
+    "description": "Out of a week that saw MAGA\u2019s political fangs knocked out by a big blue sock to jaw in the midterms, Saturday Night Live tonight leaped into the ring and started swinging from the cold open get-go. In fact, they went Texas BBQ hot with newly elected James Tal\u2026",
+    "link": "http://deadline.com/2026/11/saturday-night-live-james-talarico-cold-open-1237216532/",
+    "timestamp": "2026-11-08T04:52:21Z"
+  },
+  {
+    "title": "Iran says two oil tankers catch fire after hitting naval mines in Strait of Hormuz",
+    "description": "Two oil tankers caught fire after allegedly striking naval mines while attempting to cross unauthorised routes through the Strait of Hormuz, Iran's Revolutionary Guards said. The incident comes amid heightened tensions between Tehran and Washington, with Iran\u2026",
+    "link": "https://economictimes.indiatimes.com/news/defence/iran-says-two-oil-tankers-catch-fire-after-hitting-naval-mines-in-strait-of-hormuz/articleshow/135651543.cms",
+    "timestamp": "2026-11-08T04:44:00Z"
+  },
+  {
+    "title": "Democrats Told Trump to 'Lawyer Up.' He Just Flipped the Script on Them.",
+    "description": "When Democrats spent election night telling Republicans to \"lawyer up,\" President Donald Trump made it clear he isn't going to sit there and take it. It's no secret that the Democrat Party plans to weaponize its new House majority against Trump, his administr\u2026",
+    "link": "https://freerepublic.com/focus/f-news/4402240/posts",
+    "timestamp": "2026-11-08T04:10:48Z"
+  },
+  {
+    "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+    "description": "US Central Command said late Saturday it disabled a St Kitts-flagged ship after it ignored multiple warnings and attempted to leave the region after visiting an Iranian port.",
+    "link": "https://www.thehindubusinessline.com/news/world/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/article71680478.ece",
+    "timestamp": "2026-11-08T04:00:21Z"
+  },
+  {
+    "title": "Dana White reacts to President Trump\u2019s job offer",
+    "description": "Dana White already runs the UFC, Zuffa Boxing, and Power Slap, but President Donald Trump apparently thinks he has room for one more job. On Saturday, Trump announced that he had offered White the position of White House press secretary. Now, White has addres\u2026",
+    "link": "https://thecomeback.com/politics/dana-white-reacts-to-president-trumps-job-offer.html",
+    "timestamp": "2026-11-08T03:58:55Z"
+  },
+  {
+    "title": "Trump says he offered White House press secretary role to UFC\u2019s Dana White - The Washington Post",
+    "description": "Trump says he offered White House press secretary role to UFC\u2019s Dana WhiteThe Washington Post Trump offers press secretary role to Dana White; UFC boss to meet with presidentESPN UFC Boss Dana White Reacts to President Donald Trump\u2019s Surprising OfferYahoo JAC\u2026",
+    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186647196",
+    "timestamp": "2026-11-08T03:53:40Z"
+  },
+  {
+    "title": "Trump says he wants UFC chief Dana White for White House press secretary",
+    "description": "The White House press secretary role has been vacant since Katie Zacharia's tenure ended last month after less than a \u200cweek",
+    "link": "https://www.business-standard.com/world-news/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary-126110800088_1.html",
+    "timestamp": "2026-11-08T03:47:13Z"
+  },
+  {
+    "title": "MAGA voters reveal they broke ranks after \u2018Trump put a target on America\u2019s back\u2019: NYT",
+    "description": "A key bloc of President Donald Trump's coalition broke toward Democrats in this week's midterms, and several told a reporter exactly why.White voters without a college degree moved toward Democrats in Tuesday's elections, The New York Times reported Saturday.\u2026",
+    "link": "https://www.rawstory.com/trump-voters-midterms/",
+    "timestamp": "2026-11-08T03:35:28Z"
+  },
+  {
+    "title": "Trump asks UFC chief Dana White to be White House press secretary",
+    "description": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
+    "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary",
+    "timestamp": "2026-11-08T03:12:44Z"
+  },
+  {
+    "title": "Jaws drop as \u2018wrong Dana White\u2019 theory swirls around Trump\u2019s \u2018bizarrely stupid\u2019 move",
+    "description": "A wild theory about President Donald Trump's latest pick for a top White House job left jaws on the floor.Trump announced Saturday on Truth Social that he had offered the press secretary job to UFC boss Dana White, hailing him as \"a violent Fighter and Warrio\u2026",
+    "link": "https://www.rawstory.com/dana-white-trump/",
+    "timestamp": "2026-11-08T03:01:25Z"
+  },
+  {
+    "title": "'We need money for midterms': Ex-RFK Jr aide alleges corruption in Trump admin",
+    "description": "Former White House official Calley Means has alleged that a group of influential people within US President Donald Trump's administration worked to",
+    "link": "https://timesofindia.indiatimes.com/world/us/we-need-money-for-midterms-ex-rfk-jr-aide-alleges-corruption-in-trump-admin/articleshow/135649985.cms",
+    "timestamp": "2026-11-08T02:59:39Z"
+  },
+  {
+    "title": "President Trump shares claims about 'unusual patterns' in midterm elections and questions James Talarico's victory in Texas... despite saying he would accept the results",
+    "description": "Donald Trump shared posts questioning the midterm election results, including James Talarico's stunning Senate victory in Texas. The president highlighted claims of unusual voting patterns.",
+    "link": "https://www.dailymail.com/news/article-16275335/President-Trump-claims-unusual-patterns-midterm-elections-James-Talaricos-victory-Texas.html",
+    "timestamp": "2026-11-08T02:57:42Z"
+  },
+  {
+    "title": "JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer",
+    "description": "Dana White plans to meet Trump on Monday to discuss the White House press secretary offer after the president's dramatic Truth Social announcement.",
+    "link": "https://www.foxnews.com/outkick-sports/jackson-thompson-dana-white-says-hell-meet-trump-amid-claim-white-house-press-secretary-job-offer",
+    "timestamp": "2026-11-08T02:55:18Z"
+  },
+  {
+    "title": "Albanese snaps at camera operators after questions about his travel schedule as Aussies are smashed by mortgage pain: 'Stop, guys, stop'",
+    "description": "The tense moment followed questions about whether social engagements during the had distracted Albanese from official business, amid scrutiny of his overseas travel schedule.",
+    "link": "https://www.dailymail.com/news/article-16275233/anthony-albanese-overseas-travel-reporters-mortgage-pain.html",
+    "timestamp": "2026-11-08T02:53:54Z"
+  },
+  {
+    "title": "After Midterm Rout, Vance Tries To Build His Own 2028 Brand",
+    "description": "Vance has deliberately shifted his strategy, according to two people familiar with the change.",
+    "link": "https://www.huffpost.com/entry/jd-vance-2028-brand-strategy_n_6aefdd32e4b043b6d4e2ef13",
+    "timestamp": "2026-11-08T02:36:54Z"
+  },
+  {
+    "title": "US launches task force to disrupt Iran\u2019s land-based supply routes",
+    "description": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+    "timestamp": "2026-11-08T02:34:04Z"
+  },
+  {
+    "title": "White to meet Trump on Monday",
+    "description": "Ultimate Fighting Championship (UFC) President and CEO Dana White said he will meet with United States President Donald Trump on Monday. He did not confirm or deny whether he accepted the American lea...",
+    "link": "https://biztoc.com/x/a1f0272c1dc22a10",
+    "timestamp": "2026-11-08T02:28:08Z"
+  },
+  {
+    "title": "How China's clean-tech machine is transforming the global climate fight",
+    "description": "China's exports of clean technologies and investments in developing countries could help avoid 257 million tonnes of carbon dioxide emissions annually",
+    "link": "https://www.business-standard.com/world-news/how-china-s-clean-tech-machine-is-transforming-the-global-climate-fight-126110800050_1.html",
+    "timestamp": "2026-11-08T02:21:00Z"
+  },
+  {
+    "title": "US Military Says It Fired on Commercial Vessel in Gulf of Oman After It Attempted to Breach Blockade",
+    "description": "This disclosure comes in the wake of at least two instances where U.S. Central Command did not announce military strikes it has taken in the region.",
+    "link": "https://military.com/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade",
+    "timestamp": "2026-11-08T02:20:49Z"
+  },
+  {
+    "title": "From deep in Trump country, farmers sent a message to Washington",
+    "description": "Fred Levendofsky and his son Nick have worked the land in rural Kansas for over half a century and were fervent backers of Donald Trump, but not any more.",
+    "link": "https://www.abc.net.au/news/2026-11-08/us-midterms-the-kansas-farmers-who-turned-on-trump/107358824",
+    "timestamp": "2026-11-08T02:17:59Z"
+  },
+  {
+    "title": "Dana White declines Trump's offer to become White House press secretary: Report",
+    "description": "President Donald Trump\u2019s unusual offer to appoint Ultimate Fighting Championship (UFC) chief Dana White as White House press secretary has been declined,",
+    "link": "https://timesofindia.indiatimes.com/world/us/dana-white-declines-trumps-offer-to-become-white-house-press-secretary-report/articleshow/135649493.cms",
+    "timestamp": "2026-11-08T02:14:25Z"
+  },
+  {
+    "title": "White to meet Trump on Monday after WH job offer",
+    "description": "Ultimate Fighting Championship (UFC) President and CEO Dana White said he will meet with United States President Donald Trump on Monday. He did not confirm or deny whether he accepted the American lea...",
+    "link": "https://biztoc.com/x/c5ba30d658c60b22",
+    "timestamp": "2026-11-08T02:12:52Z"
+  },
+  {
+    "title": "Trump DOJ swoops in to save MAGA crusade red-state voters just rejected: NYT",
+    "description": "President Donald Trump's Justice Department is stepping in to rescue a long-running MAGA legal crusade red-state voters just rejected at the ballot box.The Justice Department told a court Friday night it intends to intervene in a five-year-old Texas lawsuit a\u2026",
+    "link": "https://www.rawstory.com/justice-department-planned-parenthood/",
+    "timestamp": "2026-11-08T02:01:04Z"
+  },
+  {
     "title": "Contradicting CNN report, Dana White to meet Trump about White House press secretary role",
     "description": "UFC CEO Dana White announced Saturday night that he will meet with US President Donald Trump at the White House on Sunday to discuss the offer to become White House press secretary. His announcement contradicts an earlier CNN report claiming that White had al\u2026",
     "link": "https://www.israelnationalnews.com/flashes/696955",
@@ -118,485 +586,5 @@
     "description": "People in San Francisco and San Jos\u00e9 joined a statewide action Saturday to celebrate their wins in Congress.",
     "link": "https://www.kqed.org/news/12108787/blue-tsunami-impresses-bay-area-voters-theres-more-work-to-do-they-say",
     "timestamp": "2026-11-08T00:37:47Z"
-  },
-  {
-    "title": "UFC boss Dana White says he's meeting with Trump after press secretary job offer",
-    "description": "U.S. President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White, an announcement unconventional even for the norm-busting president. White said Saturday that he plans to meet with Trum\u2026",
-    "link": "https://www.cbc.ca/news/world/trump-press-secretary-ufc-dana-white-9.7413697",
-    "timestamp": "2026-11-08T00:35:42Z"
-  },
-  {
-    "title": "So much \u2018liquid gold\u2019 could hit the market that the world\u2019s top producer is withholding output\u2014but supplies can\u2019t stay \u2018extra virgin\u2019 for long",
-    "description": "Spanish olive oil production is projected to jump 23% to 1.6 millions tons, marking the fourth-largest harvest ever.",
-    "link": "https://fortune.com/2026/11/07/olive-oil-supplies-prices-liquid-gold-spain-production-harvest-season/",
-    "timestamp": "2026-11-08T00:34:52Z"
-  },
-  {
-    "title": "Moving On",
-    "description": "I am not sure conservatives - including many readers of this website - quite grasp the scale of what happened on Tuesday. Outgoing Florida governor Ron DeSantis called it \"an extinction-level event\", and pointed out that of America's ten most populous states \u2026",
-    "link": "https://freerepublic.com/focus/f-news/4402212/posts",
-    "timestamp": "2026-11-08T00:24:22Z"
-  },
-  {
-    "title": "Bureaucrats Are Trying To \u2018Subvert\u2019 The Trump Administration, Former Adviser Alleges",
-    "description": "A former adviser to HHS Secretary Robert F. Kennedy Jr. alleged that bureaucrats are trying to sabotage President Donald Trump\u2019s administration.",
-    "link": "https://dailycaller.com/2026/11/07/casey-means-joe-rogan-experience-podcast-bureaucrats-subvert-donald-trump-administration",
-    "timestamp": "2026-11-08T00:21:48Z"
-  },
-  {
-    "title": "Dana White next White House press secretary? UFC boss set to meet President on Monday",
-    "description": "President Donald Trump sparked the discussion on Saturday by posting his offer to White on social media",
-    "link": "https://www.cbssports.com/ufc/news/dana-white-white-house-press-secretary-ufc-president-donald-trump/",
-    "timestamp": "2026-11-08T00:14:10Z"
-  },
-  {
-    "title": "Red-state GOP descends into civil war after Trump\u2019s Senate pick goes down in flames: NYT",
-    "description": "Republicans in one of America's reddest states are turning their knives on each other after a Senate loss that stunned the party.Democrat Annie Andrews, a pediatrician, defeated Sen. Darline Graham (R-SC) by roughly five points Tuesday, giving South Carolina \u2026",
-    "link": "https://www.rawstory.com/gop-concerns-trump-midterm/",
-    "timestamp": "2026-11-08T00:11:28Z"
-  },
-  {
-    "title": "El-Sayed Declares Michigan the \u2018Capital of Arab America\u2019 After Prevailing in Senate Race (VIDEO)",
-    "description": "Far-left Democrat Senator-elect Abdul El-Sayed declared Michigan the \u201ccapital of Arab America\u201d on Friday, just days after winning election to the U.S.\nThe post El-Sayed Declares Michigan the \u2018Capital of Arab America\u2019 After Prevailing in Senate Race (VIDEO) ap\u2026",
-    "link": "https://www.thegatewaypundit.com/2026/11/el-sayed-declares-michigan-capital-arab-america-after/",
-    "timestamp": "2026-11-08T00:00:39Z"
-  },
-  {
-    "title": "Republican Lawmakers Bash Trump for Picking \u2018Megalomaniac\u2019 Stephen Miller as New Chief of Staff",
-    "description": "Several Republican lawmakers bashed new White House Chief of Staff Stephen Miller and questioned why President Donald Trump would elevate him to the position\nThe post Republican Lawmakers Bash Trump for Picking \u2018Megalomaniac\u2019 Stephen Miller as New Chief of St\u2026",
-    "link": "https://www.mediaite.com/politics/republican-lawmakers-bash-trump-for-picking-megalomaniac-stephen-miller-as-new-chief-of-staff/",
-    "timestamp": "2026-11-08T00:00:28Z"
-  },
-  {
-    "title": "UFC's Dana White to meet Trump over press secretary offer",
-    "description": "UFC boss Dana White said he will fly to Washington to discuss US President Donald Trump's offer to become White House press secretary.",
-    "link": "https://www.rte.ie/news/world/2026/1108/1598393-trump-dana-white/",
-    "timestamp": "2026-11-08T00:00:01Z"
-  },
-  {
-    "title": "Did Trump propose 'new rules' restricting Congress members' privileges? Here's the truth",
-    "description": "In 2026, U.S. President Donald Trump promoted a proposal called \"The TRUMP Rules\" that would restrict legislative lawmakers' privileges and actions.",
-    "link": "https://www.snopes.com//fact-check/trump-new-rules-congress-privileges/",
-    "timestamp": "2026-11-08T00:00:00Z"
-  },
-  {
-    "title": "King Charles would 'say yes' to a controversial state visit to China if asked to go by Andy Burnham",
-    "description": "As Charles is recovering from his 'challenging' Caribbean tour dominated by rows over slavery reparations, Buckingham Palace was not ruling out an even more politically testing trip to Beijing.",
-    "link": "https://www.dailymail.com/news/royals/article-16274809/King-Charles-yes-state-visit-China-asked-Andy-Burnham.html",
-    "timestamp": "2026-11-07T23:59:27Z"
-  },
-  {
-    "title": "King Charles would 'say yes' to a controversial state visit to China if asked to go by Andy Burnham",
-    "description": "As Charles is recovering from his 'challenging' Caribbean tour dominated by rows over slavery reparations, Buckingham Palace was not ruling out an even more politically testing trip to Beijing.",
-    "link": "https://www.dailymail.com/news/royals/article-16274809/King-Charles-yes-state-visit-China-asked-Andy-Burnham.html",
-    "timestamp": "2026-11-07T23:59:27Z"
-  },
-  {
-    "title": "Trump says he offered press secretary gig to UFC's Dana White, who reportedly declined",
-    "description": "U.S. President Donald Trump offered the open White House press secretary position to UFC chief executive Dana White in a social media post on Saturday. \"I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the jo\u2026",
-    "link": "https://sports.yahoo.com/mma/article/dana-white-flying-to-washington-after-donald-trump-offers-ufc-boss-white-house-press-secretary-job-235902950.html",
-    "timestamp": "2026-11-07T23:59:02Z"
-  },
-  {
-    "title": "What Nigeria must learn from the US midterms",
-    "description": "At some point in the story, the narrator would get to the name, Donald J. Trump, the 47th President of the United States, perhaps adding, \u201cSaviour of democracy.\u201d No, it did not begin that way.\n\nRead More: https://punchng.com/what-nigeria-must-learn-from-the-u\u2026",
-    "link": "https://punchng.com/what-nigeria-must-learn-from-the-us-midterms/",
-    "timestamp": "2026-11-07T23:54:05Z"
-  },
-  {
-    "title": "US midterm elections: When the people spoke",
-    "description": "On Tuesday, November 3, 2026, Americans went to the polls for their mid-term elections. By Wednesday morning, the verdict was clear and historic.\n\nRead More: https://punchng.com/us-midterm-elections-when-the-people-spoke/",
-    "link": "https://punchng.com/us-midterm-elections-when-the-people-spoke/",
-    "timestamp": "2026-11-07T23:54:05Z"
-  },
-  {
-    "title": "Trump offers UFC boss Dana White press secretary role",
-    "description": "US President Donald Trump said he asked mixed martial arts executive and \"violent fighter\" Dana White to serve as White House press secretary.",
-    "link": "https://www.rte.ie/news/world/2026/1107/1598393-trump-dana-white/",
-    "timestamp": "2026-11-07T23:47:15Z"
-  },
-  {
-    "title": "'Extortion at the highest level': Trump directs DOJ to investigate Democratic lawmakers",
-    "description": "US President Donald Trump has ordered the Department of Justice (DOJ) to immediately investigate Democratic lawmakers, accusing them of threatening senior",
-    "link": "https://timesofindia.indiatimes.com/world/us/extortion-at-the-highest-level-trump-directs-doj-to-investigate-democratic-lawmakers/articleshow/135648834.cms",
-    "timestamp": "2026-11-07T23:41:44Z"
-  },
-  {
-    "title": "Nithya Raman says safety comes first. Her record tells a troubling story",
-    "description": "Nithya Raman cannot seem to decide what she is doing about the LAPD and its chief, Jim McDonnell.",
-    "link": "https://nypost.com/2026/11/07/opinion/nithya-raman-says-safety-comes-first-her-record-tells-a-troubling-story/",
-    "timestamp": "2026-11-07T23:33:05Z"
-  },
-  {
-    "title": "Bill Maher makes another dig at Taylor Swift\u2019s love life as audience reacts with mix of groans and applause",
-    "description": "Swift tied the knot with Travis Kelce over the summer.",
-    "link": "https://pagesix.com/2026/11/07/entertainment/bill-maher-takes-new-dig-at-taylor-swifts-love-life/",
-    "timestamp": "2026-11-07T23:26:29Z"
-  },
-  {
-    "title": "Lagosians not happy with APC govt, ready for change \u2013 ADC chairman, Ashiru",
-    "description": "The Lagos State Chairman of the African Democratic Congress, George Ashiru, speaks with ISMAEEL UTHMAN on the party\u2019s chances of winning the state in the 2027 elections ADC has attracted considerable\u2026\n\nRead More: https://punchng.com/lagosians-not-happy-with-a\u2026",
-    "link": "https://punchng.com/lagosians-not-happy-with-apc-govt-ready-for-change-adc-chairman-ashiru/",
-    "timestamp": "2026-11-07T23:25:57Z"
-  },
-  {
-    "title": "Dana White Doesn\u2019t Want to Be Trump\u2019s Press Secretary",
-    "description": "\u201cPresident Donald Trump said Saturday that he offered the White House press secretary job to Dana White, but a source familiar with the matter says the Ultimate Fighting Championship CEO declined the unorthodox idea,\u201d CNN reports. New York Magazine: Trump pub\u2026",
-    "link": "https://politicalwire.com/2026/11/07/dana-white-declines-trumps-offer-to-become-press-secretary/",
-    "timestamp": "2026-11-07T23:25:48Z"
-  },
-  {
-    "title": "Dana White 'set to meet Donald Trump next week after being offered press secretary job'... despite claims he's already turned role down",
-    "description": "Dana White is reportedly set to meet Donald Trump on Monday after being offered the White House press secretary job. But CNN claims the UFC boss has already rejected the offer.",
-    "link": "https://www.dailymail.com/news/article-16275039/Dana-White-meet-Donald-Trump-offered-press-secretary-job.html",
-    "timestamp": "2026-11-07T23:15:38Z"
-  },
-  {
-    "title": "Dana White 'set to meet Donald Trump next week after being offered press secretary job'... despite claims he's already turned role down",
-    "description": "Dana White is reportedly set to meet Donald Trump on Monday after being offered the White House press secretary job. But CNN claims the UFC boss has already rejected the offer.",
-    "link": "https://www.dailymail.com/news/article-16275039/Dana-White-meet-Donald-Trump-offered-press-secretary-job.html",
-    "timestamp": "2026-11-07T23:15:38Z"
-  },
-  {
-    "title": "6G phones arrive in 2030. The fight over the airwaves has already begun",
-    "description": "6G\u2019s founding researcher says 5G was faster, \u201cbut that\u2019s kind of it\u201d. As preparations for Australia\u2019s next network ramp up, there are important lessons to be learnt.",
-    "link": "https://www.smh.com.au/technology/6g-phones-arrive-in-2030-the-fight-over-the-airwaves-has-already-begun-20261108-p619vb.html",
-    "timestamp": "2026-11-07T23:10:40Z"
-  },
-  {
-    "title": "Marines close loophole allowing transgender troops to stay in the service",
-    "description": "Men claiming to be women now facing expulsion from military",
-    "link": "https://www.wnd.com/2026/11/marines-close-loophole-allowing-transgender-troops-stay-service/",
-    "timestamp": "2026-11-07T23:09:04Z"
-  },
-  {
-    "title": "Trump offers White House press secretary job to UFC chief Dana White",
-    "description": "Trump offers UFC boss Dana White the White House press secretary role, but White reportedly declines as the President struggles to fill the position.",
-    "link": "https://www.israelnationalnews.com/news/435818",
-    "timestamp": "2026-11-07T23:07:06Z"
-  },
-  {
-    "title": "LSU Sends Warning to Fans Amid Melania Trump\u2019s Appearance at Alabama Game",
-    "description": "The stakes couldn\u2019t be any higher when the No. 5 Alabama Crimson Tide visit the No. 14 LSU Tigers at Tiger Stadium on Saturday.Both teams are chasing College Football Playoff spots, and the loser will have a much tougher path in. It\u2019s also the last time the S\u2026",
-    "link": "https://heavy.com/sports/college-football/lsu-tigers/melania-trump-lsu-alabama-security/",
-    "timestamp": "2026-11-07T23:06:52Z"
-  },
-  {
-    "title": "Dana White reportedly turns down White House press secretary role offered by Donald Trump",
-    "description": "United States President Donald Trump offered Dana White the role of White House press secretary, but the Ultimate Fighting Championship boss reportedly turned it down.",
-    "link": "https://www.sherdog.com/news/news/Dana-White-reportedly-turns-down-White-House-press-secretary-role-offered-by-Donald-Trump-203532",
-    "timestamp": "2026-11-07T23:02:58Z"
-  },
-  {
-    "title": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
-    "description": "President Trump confirmed Friday night that the US military carried out new strikes on Iranian air defense systems on Qeshm Island in the Strait of Hormuz \u2013 the first strikes since the midterm elections Tuesday. In the same breath he told reporters \u201cthey want\u2026",
-    "link": "https://nypost.com/2026/11/07/world-news/trump-confirms-fresh-us-strike-on-iran-defenses/",
-    "timestamp": "2026-11-07T23:02:51Z"
-  },
-  {
-    "title": "Why Democrats Are Crashing Out Over Stephen Miller",
-    "description": "When President Donald Trump promoted Stephen Miller to White House chief of staff, Democrats started fuming almost instantly. That reaction alone tells you it was a good move. I suspect Democrats thought the fallout from the midterms would scare Trump into su\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4402205/posts",
-    "timestamp": "2026-11-07T22:51:00Z"
-  },
-  {
-    "title": "Donald Trump Offers UFC Boss Dana White Press Secretary Role After Midterm Disaster: 'Please Take the Job!'",
-    "description": "Donald Trump offered UFC boss Dana White the White House press secretary job.",
-    "link": "https://radaronline.com/p/donald-trump-dana-white-press-secretary-midterm-disaster/",
-    "timestamp": "2026-11-07T22:50:33Z"
-  },
-  {
-    "title": "EXCLUSIVE: Former Aide Says GOP Needs Jim Jordan as \u2018Wartime Consigliere\u2019",
-    "description": "Former Jim Jordan aide Russell Dye says the GOP needs a \u2018wartime consigliere\u2019 to lead the House minority, backing him over Steve Scalise.\nThe post EXCLUSIVE: Former Aide Says GOP Needs Jim Jordan as \u2018Wartime Consigliere\u2019 appeared first on Breitbart.",
-    "link": "https://www.breitbart.com/politics/2026/11/07/jim-jordan-aide-says-gop-needs-jim-jordan-wartime-consigliere/",
-    "timestamp": "2026-11-07T22:49:55Z"
-  },
-  {
-    "title": "Pete Hegseth\u2019s impeachment escape hatch slams shut after Trump ally's snub: report",
-    "description": "A soft landing President Donald Trump reportedly wanted for embattled Defense Secretary Pete Hegseth has been ruled out by a close MAGA ally.Tennessee Gov.-elect Marsha Blackburn, who will appoint her own replacement in the U.S. Senate, is not considering Heg\u2026",
-    "link": "https://www.rawstory.com/pete-hegseth-impeachment-marsha-blackburn/",
-    "timestamp": "2026-11-07T22:49:37Z"
-  },
-  {
-    "title": "Wife of NFL star Dalton Schultz who told Greg Abbott to 'get f***ed' threatens she'll become 'insufferable' after 'out of control' reaction",
-    "description": "Schultz celebrated Abbott's shock defeat in the midterms on Tuesday, when Gina Hinojosa was elected the first Democratic governor of Texas in more than 30 years.",
-    "link": "https://www.dailymail.com/sport/nfl/article-16274697/nfl-star-wife-greg-abbott-Dalton-Schultz.html",
-    "timestamp": "2026-11-07T22:39:49Z"
-  },
-  {
-    "title": "Trump asks UFC boss to become White House press secretary",
-    "description": "US President Donald Trump has offered his longtime friend and UFC CEO Dana White the post of White House press secretary, which has remained vacant for weeks",
-    "link": "https://rt-english.com/news/648550-trump-dana-white-house-press-secretary/",
-    "timestamp": "2026-11-07T22:37:46Z"
-  },
-  {
-    "title": "Melania Trump receives thunderous reception from LSU fans as she attends huge college football game",
-    "description": "Earlier in the day, the First Lady announced a multimillion dollar partnership between Louisiana State University and her 'Fostering the Future' program.",
-    "link": "https://www.dailymail.com/sport/college-football/article-16274935/melania-trump-lsu-football-baton-rouge.html",
-    "timestamp": "2026-11-07T22:34:33Z"
-  },
-  {
-    "title": "Who are the 'assistants' Donald Trump wants to aid Dana White",
-    "description": "President Trump asked UFC CEO Dana White to serve as White House press secretary. Here\u2019s the list of UFC fighters he wants as White\u2019s assistants.",
-    "link": "https://www.usatoday.com/story/sports/ufc/2026/11/07/ufc-fighters-trump-dana-white-press-secretary-assistants/92663615007/",
-    "timestamp": "2026-11-07T22:33:10Z"
-  },
-  {
-    "title": "Could Gina Hinojosa reshape Texas Tech's board and put Cody Campbell's chairmanship at risk?",
-    "description": "Cody Campbell, a former Texas Tech offensive lineman and oilman, was appointed chairman by Gov. Greg Abbott.",
-    "link": "https://www.expressnews.com/news/article/gina-hinojosa-replace-texas-tech-chairman-cody-22518529.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-    "timestamp": "2026-11-07T22:32:52Z"
-  },
-  {
-    "title": "Banker Mark Carney Doubles Down, Adds 2.3 Million More Migrants to Shocked Canadian Economy",
-    "description": "The international banker who is Canada's Prime Minister has announced he will import 2.3 million extra migrants to\u00a0reanimate an economy\u00a0paralyzed by millions of prior migrants.\nThe post Banker Mark Carney Doubles Down, Adds 2.3 Million More Migrants to Shocke\u2026",
-    "link": "https://www.breitbart.com/immigration/2026/11/07/banker-mark-carney-doubles-down-adds-2-3-million-more-migrants-to-shocked-canadian-economy/",
-    "timestamp": "2026-11-07T22:29:50Z"
-  },
-  {
-    "title": "Pregnant Savannah Chrisley, 29, flaunts enormous engagement ring from\u00a0convicted fraudster husband Jason Galanis, 56, and brags that she's his 'best investment'",
-    "description": "Pregnant Savannah Chrisley showed off her massive engagement ring on social media.",
-    "link": "https://www.dailymail.com/tvshowbiz/article-16274467/Savannah-Chrisley-engagement-ring-husband-Galanis.html",
-    "timestamp": "2026-11-07T22:29:13Z"
-  },
-  {
-    "title": "Fox host Ainsley Earhardt, 50, says husband Sean Hannity 'won't let her' get plastic surgery as she admits to wanting an\u00a0upper blepharoplasty",
-    "description": "Fox News hosts\u00a0Ainsley Earhardt and Sean Hannity tied the knot with a star-studded ceremony in Palm Beach, Florida last month.",
-    "link": "https://www.dailymail.com/lifestyle/article-16274273/Fox-Ainsley-Earhardt-plastic-surgery-hannity.html",
-    "timestamp": "2026-11-07T22:28:11Z"
-  },
-  {
-    "title": "With Trump Weakened, Israel Is Put To The Test",
-    "description": "The midterm elections weakened Trump but left him room to maneuver on foreign policy. Israel, too, has room to maneuver. Op-ed.",
-    "link": "https://www.israelnationalnews.com/news/435817",
-    "timestamp": "2026-11-07T22:28:04Z"
-  },
-  {
-    "title": "How it all went wrong for Republicans: See exactly how the nation was swept by a blue tsunami in maps stabbing Trump in the heart",
-    "description": "Republican President Donald Trump's terrible, horrible, no good, very bad Tuesday resulted in Democrats winning both houses of Congress in what's being dubbed a 'bluenami.'",
-    "link": "https://www.dailymail.com/news/article-16269249/how-midterms-went-wrong-trump-republicans.html",
-    "timestamp": "2026-11-07T22:26:04Z"
-  },
-  {
-    "title": "Trump dragged family into hunt for \u2018rabid\u2019 loyalist to replace Susie Wiles: biographer",
-    "description": "President Donald Trump's frantic search for a new chief of staff after the midterms reached into his own family, according to his biographer.Trump biographer Michael Wolff revealed on Saturday's episode of \"Inside Trump's Head\" that Jared Kushner, the preside\u2026",
-    "link": "https://www.rawstory.com/jared-kushner-susie-wiles/",
-    "timestamp": "2026-11-07T22:19:27Z"
-  },
-  {
-    "title": "LORD ASHCROFT: Burnham may win points with voters for running in his old Everton kit, but will he triumph on issues that really matter: Brexit and slashing benefits?",
-    "description": "Is politics going back to normal? Since the conference season, polls have shown combined support for Labour and the Conservatives creeping up while Reform and the Greens fall back.",
-    "link": "https://www.dailymail.com/debate/article-16274575/LORD-ASHCROFT-Burnham-win-points-voters-running-old-Everton-kit-issues-matter-Brexit.html",
-    "timestamp": "2026-11-07T22:16:38Z"
-  },
-  {
-    "title": "US Military Says It Disabled Cargo Vessel In Gulf Of Oman",
-    "description": "Nov 7 (Reuters)\u00a0\u2013\u00a0An American military aircraft fired on and disabled a commercial vessel that tried to break the US blockade of Iran on Saturday, US Central Command said.\u00a0 The St....",
-    "link": "https://gcaptain.com/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/",
-    "timestamp": "2026-11-07T22:04:32Z"
-  },
-  {
-    "title": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into submission",
-    "description": "He has long opposed the Iran war - but here, in a provocative intervention, MARK ALMOND says the President can't back down",
-    "link": "https://www.dailymail.com/news/article-16274625/Humiliated-Trump-nerve-pound-Tehrans-blood-soaked-mullahs-submission.html",
-    "timestamp": "2026-11-07T22:00:49Z"
-  },
-  {
-    "title": "Commentary: US allies need a plan for a lame-duck Trump",
-    "description": "A more reliable predictor is that US President Donald Trump will do what he believes best serves him, says\u00a0Marc Champion for Bloomberg Opinion.",
-    "link": "https://www.channelnewsasia.com/commentary/us-midterms-lame-duck-president-trump-foreign-policy-6530601",
-    "timestamp": "2026-11-07T22:00:00Z"
-  },
-  {
-    "title": "President Donald Trump Begs UFC's Dana White to Be Next WH Press Secretary",
-    "description": "As President Donald Trump and the Republican party continue to navigate the aftermath of a historic midterm elections loss, the commander-in-chief is issuing a public plea for a close, personal friend to take on the coveted \u2013 and vital \u2014 role of White House p\u2026",
-    "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-begs-ufcs-dana-white-to-be-new-press-secretary/",
-    "timestamp": "2026-11-07T21:59:51Z"
-  },
-  {
-    "title": "Democrats set sights on Elon Musk probe after midterm wins, but Pritzker draws a surprising line",
-    "description": "Rep. Jamie Raskin, D-Md., and Democratic Illinois Gov. JB Pritzker are calling for an investigation into the Department of Government Efficiency (DOGE), previously led by Elon Musk, as talks have heated up among Democrats to launch a probe into the multibilli\u2026",
-    "link": "https://freerepublic.com/focus/f-news/4402203/posts",
-    "timestamp": "2026-11-07T21:59:24Z"
-  },
-  {
-    "title": "You Thought The Week Couldn't Get Better? Elon Just Killed The Cybertruck",
-    "description": "This has been an incredible week. Democrats flipped an insane number of congressional seats (last count: 256 seats in the House and 54 seats in the Senate, with more still being counted). Numerous people have already resigned from the DOJ, and late-breaking o\u2026",
-    "link": "https://crooksandliars.com/2026/11/you-thought-week-couldnt-get-better",
-    "timestamp": "2026-11-07T21:57:57Z"
-  },
-  {
-    "title": "BMW Pitches Free EV Charging And You Ain\u2019t Seen Nothing Yet",
-    "description": "BMW is sweetening the EV charging pot with a $500 charging credit on its 2027 i5, i7, and iX3 electric cars in the US, a move that dovetails with the rise of \"free hours\" electricity rates.\u00a0\nThe post BMW Pitches Free EV Charging And You Ain\u2019t Seen Nothing Yet\u2026",
-    "link": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
-    "timestamp": "2026-11-07T21:56:33Z"
-  },
-  {
-    "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary - The New York Times",
-    "description": "Trump Asks Dana White of U.F.C. to Be His Press SecretaryThe New York Times Trump says he\u2019s asked Dana White to serve as press secretaryCNN Trump offers press secretary position to UFC head Dana WhiteNBC News Donald Trump Offers White House Press Secretary Jo\u2026",
-    "link": "https://slashdot.org/firehose.pl?op=view&amp;id=186643783",
-    "timestamp": "2026-11-07T21:52:48Z"
-  },
-  {
-    "title": "Melania Trump announces multi-million dollar LSU scholarship for former foster care kids",
-    "description": "\u201cThis achievement will give young people from foster care an anchor of stability, a strong educational foundation and a chance to build a wonderful life,\u201d she said at an event with LSU President Wade Rousse.",
-    "link": "https://nypost.com/2026/11/07/us-news/melania-trump-announces-lsu-scholarship-program-for-former-foster-care-kids/",
-    "timestamp": "2026-11-07T21:48:50Z"
-  },
-  {
-    "title": "Trump sinking down \u2018eerily similar\u2019 path that cost GOP the White House: polling expert",
-    "description": "A veteran pollster warned that President Donald Trump's approval rating has begun tracing a familiar downward path, one that once cost Republicans dearly.Nate Silver, author of the Silver Bulletin newsletter and co-host of the Still Counting podcast, laid out\u2026",
-    "link": "https://www.rawstory.com/trump-gop-white-house/",
-    "timestamp": "2026-11-07T21:46:20Z"
-  },
-  {
-    "title": "Juan Linz to the courtesy phone",
-    "description": "Trump has decided that any investigation of his and his administration\u2019s and his allies mind-boggling corruption is \u201clawfare\u201d \u2014 a word that is no doubt in Natalie Harp\u2019s and Stephen Miller\u2019s vocabularies, although I doubt it\u2019s in his: The threats being made b\u2026",
-    "link": "https://www.lawyersgunsmoneyblog.com/2026/11/juan-linz-to-the-courtesy-phone",
-    "timestamp": "2026-11-07T21:40:22Z"
-  },
-  {
-    "title": "Enraged Biden Judge Chooses Prosecutor to Investigate Trump DOJ Officials in DC Golf Course Tree Cutting Case",
-    "description": "A Biden-appointed judge on Saturday said in a court filing that she plans on choosing Jessie Liu, a former US Attorney appointed by Trump during his first administration, to investigate whether the Justice Department and DOJ lawyers lied to her in the DC golf\u2026",
-    "link": "https://www.thegatewaypundit.com/2026/11/enraged-biden-judge-chooses-prosecutor-investigate-trump-administration/",
-    "timestamp": "2026-11-07T21:40:11Z"
-  },
-  {
-    "title": "Zohran Mamdani Reveals Surprising Details of Donald Trump Relationship: 'Nobody's Very Precious About Who's Calling'",
-    "description": "Zohran Mamdani revealed how he keeps in touch with Donald Trump as the unlikely political relationship continues.",
-    "link": "https://radaronline.com/p/zohran-mamdani-surprising-details-donald-trump-relationship/",
-    "timestamp": "2026-11-07T21:40:00Z"
-  },
-  {
-    "title": "Trump wants UFC president as press secretary",
-    "description": "US President Donald Trump has publicly asked Ultimate Fighting Championship (UFC) president Dana White to become his new White House press secretary.\n\nRead More: https://punchng.com/trump-wants-ufc-president-as-press-secretary/",
-    "link": "https://punchng.com/trump-wants-ufc-president-as-press-secretary/",
-    "timestamp": "2026-11-07T21:39:54Z"
-  },
-  {
-    "title": "Trump offers press secretary position to UFC head Dana White",
-    "description": "President Donald Trump said that he\u2019d offered the job of White House press secretary to the CEO and president of the Ultimate Fighting Championship, Dana White.",
-    "link": "https://www.nbcnews.com/politics/white-house/trump-offers-press-secretary-job-ufc-ceo-dana-white-rcna608039",
-    "timestamp": "2026-11-07T21:39:10Z"
-  },
-  {
-    "title": "JACKSON THOMPSON: Trump says he offered UFC CEO Dana White press secretary job",
-    "description": "President Donald Trump proposed UFC CEO Dana White as White House press secretary in a Truth Social post, naming MMA fighters as assistants.",
-    "link": "https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job",
-    "timestamp": "2026-11-07T21:35:29Z"
-  },
-  {
-    "title": "Liberal podcasters apologize after laughing at joke about digging up Charlie Kirk's body",
-    "description": "Jennifer Welch and Angie Sullivan laughed on the \"I've Had It\" podcast over a post referencing Charlie Kirk's death, sparking outrage.",
-    "link": "https://www.foxnews.com/media/liberal-podcasters-apologize-after-laughing-joke-about-digging-up-charlie-kirks-body",
-    "timestamp": "2026-11-07T21:28:35Z"
-  },
-  {
-    "title": "Alarm as Trump lashes out like \u2018caged animal\u2019 at lawmakers: \u2018This will end poorly\u2019",
-    "description": "President Donald Trump's latest move against his political opponents unleashed a torrent of warnings that the lame duck is spiraling.On Saturday, Trump announced on Truth Social that he was \"ordering the Department of Justice to look into this criminal act, i\u2026",
-    "link": "https://www.rawstory.com/trump-democrats-2678325610/",
-    "timestamp": "2026-11-07T21:15:19Z"
-  },
-  {
-    "title": "UFC CEO Dana White declines Trump\u2019s offer to become press secretary, source says | CNN Politics",
-    "description": "President Donald Trump said Saturday that he offered the White House press secretary job to Dana White, but a source familiar with the matter says the Ultimate Fighting Championship CEO declined the unorthodox idea.",
-    "link": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
-    "timestamp": "2026-11-07T21:10:07Z"
-  },
-  {
-    "title": "As AI Threatens Tech Workers, Their Workplaces Become Sites of Class Struggle",
-    "description": "We must develop new modes of organizing that go beyond a narrow focus on labor law and shop floor issues.",
-    "link": "https://truthout.org/articles/as-ai-threatens-tech-workers-their-workplaces-become-sites-of-class-struggle/",
-    "timestamp": "2026-11-07T21:04:03Z"
-  },
-  {
-    "title": "Donald Trump offers UFC President Dana White U.S. press secretary job",
-    "description": "UFC President Dana White has a new job offer on the table",
-    "link": "https://www.thebiglead.com/donald-trump-offers-ufc-president-dana-white-us-press-secretary-job/",
-    "timestamp": "2026-11-07T21:02:36Z"
-  },
-  {
-    "title": "Global Youth Rising Up Know There\u2019s No Democracy Without Economic Justice",
-    "description": "Youth around the world are rising up against capitalism and for democracy.",
-    "link": "https://truthout.org/articles/global-youth-rising-up-know-theres-no-democracy-without-economic-justice/",
-    "timestamp": "2026-11-07T21:02:35Z"
-  },
-  {
-    "title": "Republicans are in for a brutal presidential contest",
-    "description": "Republicans are in for a brutal presidential contest and Democrats suddenly have a unifying agenda.",
-    "link": "https://www.nrc.nl/nieuws/2026/11/07/republicans-are-in-for-a-brutal-presidential-contest-a4940695",
-    "timestamp": "2026-11-07T21:00:00Z"
-  },
-  {
-    "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
-    "description": "TVLine offers a look at what to watch in the week ahead: A handy roundup of new TV premieres and show finales to help you plan your viewing for November 8-14.",
-    "link": "https://www.tvline.com/2300957/what-to-watch-week-of-november-8-2026-tv-shows-movies-streaming/",
-    "timestamp": "2026-11-07T21:00:00Z"
-  },
-  {
-    "title": "Donald Trump\u2019s Iran Dilemma: Every Option to End War Carries a Heavy Cost",
-    "description": "Donald Trump faces a growing dilemma over how to end the Iran war, with every path forward carrying serious risk and no clean exit in sight.",
-    "link": "https://biztoc.com/x/0534e7107ece0e6c",
-    "timestamp": "2026-11-07T20:50:10Z"
-  },
-  {
-    "title": "Donald Trump offers White House press secretary job to UFC boss Dana White",
-    "description": "Announcing the move on social media, the US president praised White for being \u2018a violent Fighter and Warrior\u2019",
-    "link": "https://www.irishtimes.com/world/us/2026/11/07/donald-trump-offers-white-house-press-secretary-job-to-ufc-boss-dana-white/",
-    "timestamp": "2026-11-07T20:48:19Z"
-  },
-  {
-    "title": "Americans Will Support Socialism If Republicans Fail To Reform The System, Former White House Adviser Warns",
-    "description": "A former adviser to HHS Secretary Robert F. Kennedy Jr. warned Joe Rogan the free market may be at stake if the nation does not reform institutions.",
-    "link": "https://dailycaller.com/2026/11/07/calley-means-warns-joe-rogan-experience-podcast-america-needs-reform-institutions-socialism",
-    "timestamp": "2026-11-07T20:40:56Z"
-  },
-  {
-    "title": "UFC\u2019s Dana White As White House Press Secretary? Trump Says \u201cPlease Take The Job!\u201d",
-    "description": "Donald Trump says he has offered the job of White House press secretary to UFC President and CEO Dana White, \u201ca violent Fighter and Warrior,\u201d in the president\u2019s words. It was not immediately clear whether Trump was joking, trolling, both or neither. If White \u2026",
-    "link": "http://deadline.com/2026/11/dana-white-donald-trump-1237216350/",
-    "timestamp": "2026-11-07T20:40:01Z"
-  },
-  {
-    "title": "Trump Publicly Begs Dana White to Be His New Press Secretary",
-    "description": "Trump publicly begged Dana White to be his new press secretary, writing on Truth Social, \u2018please take the job! The UFC CEO responded with a vague Instagram post. So tune in to tonight\u2019s UFC fight to learn if he\u2019s the White House press secretary!",
-    "link": "http://nymag.com/intelligencer/article/trump-dana-white-press-secretary-truth-social.html",
-    "timestamp": "2026-11-07T20:36:46Z"
-  },
-  {
-    "title": "Schumer Vows Not To Let Trump Place 'Right-Winger' On Supreme Court",
-    "description": "Schumer Vows Not To Let Trump Place 'Right-Winger' On Supreme Court\n \nAuthored by Zachary Stieber via The Epoch Times,\nThe top Democrat in the Senate said in a new interview that his party will not let President Donald Trump place a \"right-winger\" on the Supr\u2026",
-    "link": "https://biztoc.com/x/85e51caeb9a415d2",
-    "timestamp": "2026-11-07T20:34:37Z"
-  },
-  {
-    "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-    "description": "President Donald Trump said Saturday that he was ordering the Justice Department to investigate Democratic leaders over what he described as threats against Republican officials, donors and supporters, without identifying the alleged communications or providi\u2026",
-    "link": "https://biztoc.com/x/e977e4c6a4b67d34",
-    "timestamp": "2026-11-07T20:34:36Z"
-  },
-  {
-    "title": "Israel president taps Eisenkot to form new government",
-    "description": "Israel's president has announced he will task Gadi Eisenkot with forming the next government following last week's election, in what Benjamin Netanyahu's rivals see as a first step to remove the country's longest-serving prime minister.",
-    "link": "https://www.rte.ie/news/middle-east/2026/1107/1598384-israel-election/",
-    "timestamp": "2026-11-07T20:33:24Z"
-  },
-  {
-    "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-    "description": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
-    "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-    "timestamp": "2026-11-07T20:28:17Z"
-  },
-  {
-    "title": "Explosions heard on Iran's Qeshm Island and southern cities, state TV reports",
-    "description": "The report came after President Donald Trump said the U.S. military carried out new limited strikes on Iran on Friday, targeting an Iranian air defense system",
-    "link": "https://www.haaretz.com/middle-east-news/iran/2026-11-07/ty-article/.premium/explosions-heard-on-irans-qeshm-island-and-southern-cities-state-tv-reports/000001a1-b7a5-d1cd-aded-bfa79b250000",
-    "timestamp": "2026-11-07T20:24:24Z"
-  },
-  {
-    "title": "Trump was blindsided by Vance's analysis of GOP's midterm washout blaming war, claims Laura Loomer; says Trump was even angry",
-    "description": "Donald Trump was caught unawares by Vice President JD Vance's detailed analysis of the midterm defeat and in fact he was angry, Laura Loomer has claimed.",
-    "link": "https://timesofindia.indiatimes.com/world/us/trump-was-blindsided-by-vances-analysis-of-gops-midterm-washout-blaming-war-claims-laura-loomer-says-trump-was-even-angry/articleshow/135646134.cms",
-    "timestamp": "2026-11-07T20:24:01Z"
   }
 ]
